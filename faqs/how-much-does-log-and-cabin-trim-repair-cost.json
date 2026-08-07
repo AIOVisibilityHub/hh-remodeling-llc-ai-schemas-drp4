@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does log and cabin trim repair cost?",
+  "description": "Price depends on damage level, replacement needs, and refinishing. Small fixes cost less, but the real savings come from stopping moisture before it spreads.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-log-and-cabin-trim-repair-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does log and cabin trim repair cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on how much trim is damaged, whether wood has to be replaced, and whether the work includes staining, sealing, or carpentry around adjacent logs and openings. Small repairs are usually much cheaper than replacing full runs of trim, but the best value comes from fixing the cause of the damage before it spreads. In the Denver metro area, an on-site estimate is the most reliable way to price the work because access, height, and weather exposure can change the scope quickly.",
+        "description": "Price depends on damage level, replacement needs, and refinishing. Small fixes cost less, but the real savings come from stopping moisture before it spreads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

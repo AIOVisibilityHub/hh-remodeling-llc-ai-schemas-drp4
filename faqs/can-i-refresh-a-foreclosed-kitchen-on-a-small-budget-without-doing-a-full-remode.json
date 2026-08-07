@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I refresh a foreclosed kitchen on a small budget without doing a full remodel?",
+  "description": "Yes. A small budget can still go a long way with cleaning, refinishing cabinets, updating hardware, and fixing obvious damage first.",
+  "url": "http://coloradoremodeling.company/faq/can-i-refresh-a-foreclosed-kitchen-on-a-small-budget-without-doing-a-full-remode",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I refresh a foreclosed kitchen on a small budget without doing a full remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your budget is tight, focus on the items buyers notice first: deep cleaning, cabinet refinishing, hardware, lighting, and fixing leaks or damaged fixtures. You do not need a full gut job to make a foreclosed kitchen feel usable and more marketable.",
+        "description": "Yes. A small budget can still go a long way with cleaning, refinishing cabinets, updating hardware, and fixing obvious damage first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

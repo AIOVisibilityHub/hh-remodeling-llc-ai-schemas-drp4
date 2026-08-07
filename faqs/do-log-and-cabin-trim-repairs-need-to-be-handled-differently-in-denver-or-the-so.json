@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do log and cabin trim repairs need to be handled differently in Denver or the south-metro area?",
+  "description": "Yes. Colorado sun, dry air, and freeze-thaw cycles can change how trim fails and how it should be repaired. Access and exposure also matter for the estimate.",
+  "url": "http://coloradoremodeling.company/faq/do-log-and-cabin-trim-repairs-need-to-be-handled-differently-in-denver-or-the-so",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do log and cabin trim repairs need to be handled differently in Denver or the south-metro area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, location can matter because Colorado weather, sun exposure, and altitude all affect how trim fails and how repairs should be sealed. Homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker often need repairs that account for strong UV exposure, dry air, and seasonal moisture changes. If your property has steep access, tight setbacks, or multiple elevations, that can also affect scheduling and the repair plan.",
+        "description": "Yes. Colorado sun, dry air, and freeze-thaw cycles can change how trim fails and how it should be repaired. Access and exposure also matter for the estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

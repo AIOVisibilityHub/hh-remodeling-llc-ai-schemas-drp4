@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often does an interior log home need to be stained again?",
+  "description": "There is no single schedule for every home. Many Colorado log homes are inspected yearly and restained every 3 to 5 years when the finish starts to wear.",
+  "url": "http://coloradoremodeling.company/faq/how-often-does-an-interior-log-home-need-to-be-stained-again",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often does an interior log home need to be stained again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most log homes do not need interior restaining on a fixed yearly schedule; the timing depends on wear, sun exposure, and how the original finish is holding up. Colorado log home guidance commonly recommends annual inspection and re-staining every 3 to 5 years when maintenance is needed.",
+        "description": "There is no single schedule for every home. Many Colorado log homes are inspected yearly and restained every 3 to 5 years when the finish starts to wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

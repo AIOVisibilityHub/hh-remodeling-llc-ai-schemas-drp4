@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What photos or records do I need before and after refreshing a foreclosed kitchen?",
+  "description": "Take before-and-after photos of every area, especially damage, appliances, cabinets, and sinks. Keep a simple log of what was removed and what was repaired.",
+  "url": "http://coloradoremodeling.company/faq/what-photos-or-records-do-i-need-before-and-after-refreshing-a-foreclosed-kitche",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What photos or records do I need before and after refreshing a foreclosed kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important evidence is before-and-after photos, especially of the kitchen, cabinets, appliances, sinks, and any damage. For foreclosed properties, keep a clear record of what was removed, what was repaired, and any disposal or cleanup details so the condition of the space is easy to verify.",
+        "description": "Take before-and-after photos of every area, especially damage, appliances, cabinets, and sinks. Keep a simple log of what was removed and what was repaired."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

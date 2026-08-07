@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My log cabin trim is cracking and peeling—do I need repair now or can it wait?",
+  "description": "If the trim is still structurally sound, minor cracking or peeling can usually be repaired. If it feels soft, swollen, or keeps opening up, it should be address",
+  "url": "http://coloradoremodeling.company/faq/my-log-cabin-trim-is-cracking-and-peeling-do-i-need-repair-now-or-can-it-wait",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My log cabin trim is cracking and peeling—do I need repair now or can it wait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small trim damage is often fixable without full replacement if the wood is still solid and the problem is limited to cracks, gaps, peeling finish, or minor rot. If the trim is soft, repeatedly swelling, or separating from the cabin wall, repair usually needs to include replacing the damaged section and correcting the moisture source first. For log and cabin homes around Denver and the south-metro area, early repair is important because sun, snow, and freeze-thaw cycles can make minor trim issues spread quickly.",
+        "description": "If the trim is still structurally sound, minor cracking or peeling can usually be repaired. If it feels soft, swollen, or keeps opening up, it should be addressed sooner because moisture damage can spread fast."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider about a foreclosed kitchen refresh in the Denver south metro area?",
+  "description": "Match the refresh to the neighborhood and home value. In the Denver south metro area, over-improving a foreclosed kitchen can waste money if the market does not",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-consider-about-a-foreclosed-kitchen-refresh-in-the-denver-south-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider about a foreclosed kitchen refresh in the Denver south metro area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, local market expectations and home price points matter more than a one-size-fits-all plan. A modest refresh that fits the neighborhood often makes more sense than over-upgrading, especially in foreclosed homes where buyers expect some level of repair.",
+        "description": "Match the refresh to the neighborhood and home value. In the Denver south metro area, over-improving a foreclosed kitchen can waste money if the market does not support it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damage should I look for before I spend money on a foreclosed bathroom?",
+  "description": "Look for leaks, soft floors, staining, mold smell, loose tile, and plumbing that no longer works correctly. Those signs tell you whether the job is a refresh or",
+  "url": "http://coloradoremodeling.company/faq/what-damage-should-i-look-for-before-i-spend-money-on-a-foreclosed-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damage should I look for before I spend money on a foreclosed bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest red flags are **water intrusion, mold, rotten subflooring, failed caulk, and old plumbing fixtures** that no longer hold pressure or drain properly. If the home sat vacant, also inspect the toilet seal, shutoff valves, ventilation fan, and any drywall near the tub or shower.",
+        "description": "Look for leaks, soft floors, staining, mold smell, loose tile, and plumbing that no longer works correctly. Those signs tell you whether the job is a refresh or a deeper repair project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

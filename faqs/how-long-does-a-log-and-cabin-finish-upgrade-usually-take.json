@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a log and cabin finish upgrade usually take?",
+  "description": "Simple upgrades can be relatively quick, but full restorations take longer because of prep, repairs, and curing time. Weather and moisture can also affect the s",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-log-and-cabin-finish-upgrade-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a log and cabin finish upgrade usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on prep, weather, and how much of the finish needs to be removed. A straightforward upgrade can move quickly, while a project with stripping, repairs, or drying time takes longer. In Colorado, outdoor work also has to account for temperature swings, wind, and moisture so coatings can cure properly.",
+        "description": "Simple upgrades can be relatively quick, but full restorations take longer because of prep, repairs, and curing time. Weather and moisture can also affect the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior sealing of a log home usually take?",
+  "description": "Small interior sealing jobs may be done quickly, but larger projects take longer if repairs, drying time, or hard-to-reach joints are involved. The condition of",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-interior-sealing-of-a-log-home-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior sealing of a log home usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the condition of the wood and how much prep is needed, but smaller interior sealing jobs can often be completed faster than full restoration work. If the home needs drying, repairs, or multiple passes in hard-to-reach joints, the schedule will take longer.",
+        "description": "Small interior sealing jobs may be done quickly, but larger projects take longer if repairs, drying time, or hard-to-reach joints are involved. The condition of the logs is the biggest factor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

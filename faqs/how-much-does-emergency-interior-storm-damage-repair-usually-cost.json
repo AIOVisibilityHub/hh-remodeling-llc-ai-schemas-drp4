@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does emergency interior storm damage repair usually cost?",
+  "description": "It ranges from minor drying and patching to major rebuilds; the biggest cost drivers are water amount, hidden damage, and how much material must be replaced.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-emergency-interior-storm-damage-repair-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does emergency interior storm damage repair usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on how much water entered, how much material must be removed, whether structural drying is needed, and whether the repair is confined to one room or multiple areas. Small interior repairs may be limited to drying and minor patching, while larger losses can involve demolition, carpentry, paint, flooring, and trim replacement.",
+        "description": "It ranges from minor drying and patching to major rebuilds; the biggest cost drivers are water amount, hidden damage, and how much material must be replaced."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

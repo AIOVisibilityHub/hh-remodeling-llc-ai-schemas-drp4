@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What flooring options work best in a foreclosed property?",
+  "description": "Durable, easy-to-maintain materials usually perform best in foreclosed homes. LVP, laminate, tile, and repaired hardwood are common choices depending on damage",
+  "url": "http://coloradoremodeling.company/faq/what-flooring-options-work-best-in-a-foreclosed-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What flooring options work best in a foreclosed property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best outcome is a floor that looks clean, is safe to walk on, and holds up after the home is reoccupied or listed. In many foreclosed properties, durable options like LVP, laminate, tile, or repaired hardwood are chosen because they balance appearance, cost, and resilience.",
+        "description": "Durable, easy-to-maintain materials usually perform best in foreclosed homes. LVP, laminate, tile, and repaired hardwood are common choices depending on damage and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

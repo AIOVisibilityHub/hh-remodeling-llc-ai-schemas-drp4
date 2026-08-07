@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any log home be sealed from the inside, or are there cases where it should not be done yet?",
+  "description": "Most log homes can be sealed inside, but not if there is active moisture damage, soft wood, or unresolved leaks. Those problems need to be addressed first or th",
+  "url": "http://coloradoremodeling.company/faq/can-any-log-home-be-sealed-from-the-inside-or-are-there-cases-where-it-should-no",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any log home be sealed from the inside, or are there cases where it should not be done yet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior log home sealing is usually appropriate when the logs are dry enough to work on, the gaps are stable, and there is no active water intrusion that needs repair first. If the home has soft wood, mildew, or ongoing leaks, those issues should be corrected before resealing so the new product adheres and performs properly.",
+        "description": "Most log homes can be sealed inside, but not if there is active moisture damage, soft wood, or unresolved leaks. Those problems need to be addressed first or the seal may fail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

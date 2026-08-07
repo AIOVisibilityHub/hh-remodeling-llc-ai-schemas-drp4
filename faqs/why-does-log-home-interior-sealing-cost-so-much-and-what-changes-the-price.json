@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does log home interior sealing cost so much, and what changes the price?",
+  "description": "Price is driven by how much prep, repair, and sealing work the home needs. More gaps, failed old sealant, or damage usually mean higher cost.",
+  "url": "http://coloradoremodeling.company/faq/why-does-log-home-interior-sealing-cost-so-much-and-what-changes-the-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does log home interior sealing cost so much, and what changes the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the amount of interior wall area, the number of gaps, the condition of the logs, and whether repairs are needed before sealing. Homes with widespread cracking, failed old sealant, or moisture damage usually cost more because prep work drives the labor.",
+        "description": "Price is driven by how much prep, repair, and sealing work the home needs. More gaps, failed old sealant, or damage usually mean higher cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

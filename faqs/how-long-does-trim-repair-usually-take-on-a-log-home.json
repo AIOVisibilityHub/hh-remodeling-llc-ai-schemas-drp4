@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does trim repair usually take on a log home?",
+  "description": "Simple repairs may take a day or less. Larger jobs take longer, especially if rot, prep, or refinishing is involved.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-trim-repair-usually-take-on-a-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does trim repair usually take on a log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor trim repairs can often be completed in a few hours to a day, while more involved work may take several days depending on how many sections need replacement and how much drying, prep, or refinishing is required. Weather also matters in Colorado, because exterior staining and sealing need suitable conditions to cure properly. If the job involves hidden rot or damaged substrate, the schedule can extend once the wall is opened up.",
+        "description": "Simple repairs may take a day or less. Larger jobs take longer, especially if rot, prep, or refinishing is involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does cabin interior sealing usually take, and when should I schedule it?",
+  "description": "Most small to midsize interior sealing jobs can be done in a day, but larger cabins or ones with hidden damage take longer. The best time to schedule is before",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-cabin-interior-sealing-usually-take-and-when-should-i-schedule-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does cabin interior sealing usually take, and when should I schedule it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the size of the cabin and how many problem areas are exposed, but many projects can be completed in a day once access is clear. If the work is part of a larger interior restoration or winter prep project, scheduling before the first cold snap is usually the most practical choice in the Denver metro area.",
+        "description": "Most small to midsize interior sealing jobs can be done in a day, but larger cabins or ones with hidden damage take longer. The best time to schedule is before heavy heating season or right after you notice new gaps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

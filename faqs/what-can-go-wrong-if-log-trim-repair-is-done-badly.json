@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if log trim repair is done badly?",
+  "description": "Bad repairs can hide rot, trap moisture, or leave a mismatched finish. If the source of the damage is not fixed, the problem usually comes back.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-log-trim-repair-is-done-badly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if log trim repair is done badly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is covering up rot instead of correcting it, which can trap moisture and make the damage worse. Another common issue is poor finish matching, where repaired trim looks noticeably different from the rest of the cabin. In Colorado, exterior trim that is not properly sealed can fail again after one freeze-thaw season, especially on south- and west-facing sides.",
+        "description": "Bad repairs can hide rot, trap moisture, or leave a mismatched finish. If the source of the damage is not fixed, the problem usually comes back."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a log cabin finish upgrade cost, and what changes the price?",
+  "description": "Price depends on size, prep, and repairs. A simple recoat costs less than a full restoration with stripping, sealing, and log repair.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-log-cabin-finish-upgrade-cost-and-what-changes-the-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a log cabin finish upgrade cost, and what changes the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by square footage, condition, access, and the amount of prep required. Basic maintenance is much less expensive than full restoration because it usually avoids stripping and structural repair. If your logs need chinking touch-ups, rot repair, or specialty coatings, the price rises quickly, so an on-site estimate is the best way to compare options fairly.",
+        "description": "Price depends on size, prep, and repairs. A simple recoat costs less than a full restoration with stripping, sealing, and log repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

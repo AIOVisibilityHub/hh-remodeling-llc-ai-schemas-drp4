@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does flooring installation take in a foreclosed house?",
+  "description": "Simple jobs can take a few days, but hidden damage can extend the timeline. Foreclosed homes often take longer because prep and repairs are unpredictable.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-flooring-installation-take-in-a-foreclosed-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does flooring installation take in a foreclosed house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the size of the property, the flooring type, and how much repair is needed underneath. A straightforward room or two may take a few days, while a larger foreclosed home with moisture damage or uneven subfloors can take longer.",
+        "description": "Simple jobs can take a few days, but hidden damage can extend the timeline. Foreclosed homes often take longer because prep and repairs are unpredictable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

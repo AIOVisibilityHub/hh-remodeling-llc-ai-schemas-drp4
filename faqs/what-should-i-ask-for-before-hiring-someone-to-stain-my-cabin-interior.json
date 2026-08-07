@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask for before hiring someone to stain my cabin interior?",
+  "description": "Ask for a written scope, product details, and examples of similar work. That shows how the finish will be applied and helps you compare contractors more accurat",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-for-before-hiring-someone-to-stain-my-cabin-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask for before hiring someone to stain my cabin interior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important proof is a clear written scope that explains prep, stain product, finish coats, and cleanup. Before approving the work, ask for photos of similar cabin interiors and confirm whether the surfaces will be sprayed, brushed, or wiped by hand.",
+        "description": "Ask for a written scope, product details, and examples of similar work. That shows how the finish will be applied and helps you compare contractors more accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

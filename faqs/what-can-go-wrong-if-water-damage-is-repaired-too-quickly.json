@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if water damage is repaired too quickly?",
+  "description": "Hidden moisture can stay trapped and lead to mold, odors, warped materials, and repeat damage after the surface looks dry.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-water-damage-is-repaired-too-quickly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if water damage is repaired too quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is repairing over hidden moisture. If drywall, insulation, subflooring, or framing stays damp, you can get mold growth, swelling, odors, and recurring damage even after the surface looks dry.",
+        "description": "Hidden moisture can stay trapped and lead to mold, odors, warped materials, and repeat damage after the surface looks dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

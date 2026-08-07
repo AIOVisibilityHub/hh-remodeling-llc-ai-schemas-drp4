@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is foreclosed property flooring different from a normal flooring replacement?",
+  "description": "Yes. Foreclosed homes usually need more demo, cleanup, and prep than a normal flooring replacement.",
+  "url": "http://coloradoremodeling.company/faq/is-foreclosed-property-flooring-different-from-a-normal-flooring-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is foreclosed property flooring different from a normal flooring replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compared with a simple swap in an occupied home, foreclosed-property flooring work usually involves more demolition, cleanup, and repair. If the home has been vacant or weather-exposed, the contractor may need to address more unknowns before installation can begin.",
+        "description": "Yes. Foreclosed homes usually need more demo, cleanup, and prep than a normal flooring replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

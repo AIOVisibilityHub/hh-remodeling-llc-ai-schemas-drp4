@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I call a restoration company or a regular contractor for interior storm damage?",
+  "description": "Use a restoration company for active water damage and drying; a general contractor is usually better for non-emergency cosmetic rebuilding after the structure i",
+  "url": "http://coloradoremodeling.company/faq/should-i-call-a-restoration-company-or-a-regular-contractor-for-interior-storm-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I call a restoration company or a regular contractor for interior storm damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For active leaks or soaked interiors, emergency restoration is better than waiting for a general remodeler because the priority is stopping damage and drying the structure. If you’re comparing options in Denver, Centennial, Greenwood Village, Foxfield, or Parker, ask who handles emergency moisture mitigation, who documents damage, and who can rebuild after the dry-out is complete.",
+        "description": "Use a restoration company for active water damage and drying; a general contractor is usually better for non-emergency cosmetic rebuilding after the structure is dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

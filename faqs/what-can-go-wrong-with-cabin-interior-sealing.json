@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with cabin interior sealing?",
+  "description": "Bad sealing can trap moisture, crack as the cabin moves, or block needed airflow. The safest approach is to use the right material for each joint and avoid seal",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-cabin-interior-sealing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with cabin interior sealing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risk is sealing the wrong place with the wrong material, which can trap moisture, interfere with movement joints, or affect ventilation. In Colorado cabins, another common issue is using a product that shrinks, cracks, or separates after large temperature swings.",
+        "description": "Bad sealing can trap moisture, crack as the cabin moves, or block needed airflow. The safest approach is to use the right material for each joint and avoid sealing areas that are part of the home’s ventilation or combustion setup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

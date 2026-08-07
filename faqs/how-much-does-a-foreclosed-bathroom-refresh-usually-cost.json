@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a foreclosed bathroom refresh usually cost?",
+  "description": "A cosmetic bathroom refresh is often far cheaper than a full remodel because it avoids moving plumbing or walls. In Colorado, many basic refresh projects fall i",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-foreclosed-bathroom-refresh-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a foreclosed bathroom refresh usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often keep a foreclosed bathroom refresh affordable if the plumbing, electrical, and layout stay in place. In Colorado, a basic cosmetic refresh is commonly estimated around **$5,000–$12,000**, while more involved remodels cost more.",
+        "description": "A cosmetic bathroom refresh is often far cheaper than a full remodel because it avoids moving plumbing or walls. In Colorado, many basic refresh projects fall in the mid-thousands, with cost rising fast if hidden damage is found."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

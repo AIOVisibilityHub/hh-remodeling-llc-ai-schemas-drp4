@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when installing floors in a foreclosed home?",
+  "description": "Hidden moisture, bad subfloors, and poor prep are the biggest risks. If those issues are missed, the new floor can fail early.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-installing-floors-in-a-foreclosed-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when installing floors in a foreclosed home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are installing over moisture-damaged materials, discovering rotten subfloors late, and choosing a floor that can’t handle the property’s condition. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, seasonal dryness and temperature swings can also make poor prep show up later as gaps, cupping, or movement.",
+        "description": "Hidden moisture, bad subfloors, and poor prep are the biggest risks. If those issues are missed, the new floor can fail early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

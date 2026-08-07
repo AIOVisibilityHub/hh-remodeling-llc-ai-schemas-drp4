@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What counts as interior storm damage that can be repaired?",
+  "description": "Anything inside the home damaged by storm-driven water or impact—like ceilings, drywall, flooring, insulation, and trim—can usually be included if it’s document",
+  "url": "http://coloradoremodeling.company/faq/what-counts-as-interior-storm-damage-that-can-be-repaired",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What counts as interior storm damage that can be repaired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior storm damage repair usually covers water intrusion from roof, window, siding, or structural failures, plus damage to ceilings, drywall, insulation, flooring, trim, and contents. A technician should inspect both visible damage and hidden moisture so the full scope is identified before repairs begin.",
+        "description": "Anything inside the home damaged by storm-driven water or impact—like ceilings, drywall, flooring, insulation, and trim—can usually be included if it’s documented and accessible."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

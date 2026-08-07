@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does cabin interior staining usually take?",
+  "description": "Most projects take from a few days to longer for larger cabins or heavy prep work. Drying and curing time can extend the schedule even after the stain looks dry",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-cabin-interior-staining-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does cabin interior staining usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the size of the space, the amount of prep needed, and whether cabinets, trim, walls, or beams are included. A small interior touch-up may finish quickly, while a full cabin interior stain project can take several days because drying and curing time matter.",
+        "description": "Most projects take from a few days to longer for larger cabins or heavy prep work. Drying and curing time can extend the schedule even after the stain looks dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

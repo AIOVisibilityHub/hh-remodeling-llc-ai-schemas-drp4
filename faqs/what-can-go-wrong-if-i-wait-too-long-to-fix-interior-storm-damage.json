@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I wait too long to fix interior storm damage?",
+  "description": "Waiting can turn a manageable repair into a bigger one by allowing mold, hidden rot, electrical problems, and wider water spread.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-wait-too-long-to-fix-interior-storm-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I wait too long to fix interior storm damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are hidden moisture, mold growth, electrical hazards, and structural weakening behind walls or above ceilings. Delaying professional drying or opening wet walls too early can also make the damage more expensive by spreading water into areas that were not initially affected.",
+        "description": "Waiting can turn a manageable repair into a bigger one by allowing mold, hidden rot, electrical problems, and wider water spread."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you put a new finish over an old one on a log cabin?",
+  "description": "Sometimes, but only if the old finish is sound and compatible. If it is peeling or failing, it usually needs removal or deeper prep first.",
+  "url": "http://coloradoremodeling.company/faq/can-you-put-a-new-finish-over-an-old-one-on-a-log-cabin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you put a new finish over an old one on a log cabin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many cases, yes, but only after the surface is properly cleaned and prepared. If the old finish is compatible and still bonded, a targeted recoat may work; if it is failing, incompatible, or uneven, it usually needs stripping or more aggressive prep first. The goal is not just appearance—it is getting new product to bond and protect the logs correctly.",
+        "description": "Sometimes, but only if the old finish is sound and compatible. If it is peeling or failing, it usually needs removal or deeper prep first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

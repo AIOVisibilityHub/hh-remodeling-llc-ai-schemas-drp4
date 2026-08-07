@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My log home feels drafty inside — what should I check first before sealing anything?",
+  "description": "Check interior log joints, corners, cracks, and any penetrations for visible gaps or air movement. Start with a careful inspection before sealing so you treat t",
+  "url": "http://coloradoremodeling.company/faq/my-log-home-feels-drafty-inside-what-should-i-check-first-before-sealing-anythin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My log home feels drafty inside — what should I check first before sealing anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you feel drafts, see gaps between interior logs, or notice dust and odor moving through wall joints, the first step is a detailed interior inspection. Good sealing work focuses on joints, checks, corners, and penetrations so the home can stop leaking air without trapping moisture.",
+        "description": "Check interior log joints, corners, cracks, and any penetrations for visible gaps or air movement. Start with a careful inspection before sealing so you treat the real leak paths, not just the obvious spots."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

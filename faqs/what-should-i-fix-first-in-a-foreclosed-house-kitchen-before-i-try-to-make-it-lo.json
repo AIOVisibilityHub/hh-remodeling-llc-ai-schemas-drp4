@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I fix first in a foreclosed house kitchen before I try to make it look presentable?",
+  "description": "Fix leaks, electrical hazards, mold, and damaged plumbing first. Then clean out food, appliances, cabinets, and surfaces so you can see what is cosmetic versus",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-fix-first-in-a-foreclosed-house-kitchen-before-i-try-to-make-it-lo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I fix first in a foreclosed house kitchen before I try to make it look presentable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with safety and moisture issues before any cosmetic work. In a foreclosed property, the kitchen often needs a full walkthrough for leaks, mold, electrical problems, damaged cabinets, and abandoned food or appliances before you decide what can be cleaned, repaired, or replaced.",
+        "description": "Fix leaks, electrical hazards, mold, and damaged plumbing first. Then clean out food, appliances, cabinets, and surfaces so you can see what is cosmetic versus structural."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

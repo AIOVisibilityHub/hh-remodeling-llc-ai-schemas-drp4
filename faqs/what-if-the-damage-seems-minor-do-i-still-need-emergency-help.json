@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the damage seems minor—do I still need emergency help?",
+  "description": "Yes, if water got inside. Small visible damage can hide bigger problems behind walls, under floors, or above ceilings.",
+  "url": "http://coloradoremodeling.company/faq/what-if-the-damage-seems-minor-do-i-still-need-emergency-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the damage seems minor—do I still need emergency help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the damage looks small, it can still be worth calling because water often travels behind walls and under floors where it is not obvious. A good emergency team can tell you whether you need full restoration right away or just monitoring, which is often cheaper than waiting until the problem spreads.",
+        "description": "Yes, if water got inside. Small visible damage can hide bigger problems behind walls, under floors, or above ceilings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
