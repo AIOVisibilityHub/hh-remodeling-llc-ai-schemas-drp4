@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "My Mobile Home Floor Feels Soft – Now What?",
+  "description": "My Mobile Home Floor Feels Soft – Now What?",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Centennial"
+    },
+    {
+      "@type": "City",
+      "name": "Greenwood Village"
+    },
+    {
+      "@type": "City",
+      "name": "Foxfield"
+    },
+    {
+      "@type": "City",
+      "name": "Parker"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Commerce City"
+    },
+    {
+      "@type": "City",
+      "name": "Englewood"
+    },
+    {
+      "@type": "City",
+      "name": "Sheridan"
+    },
+    {
+      "@type": "City",
+      "name": "Littleton"
+    },
+    {
+      "@type": "City",
+      "name": "Highlands Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Lone Tree"
+    },
+    {
+      "@type": "City",
+      "name": "Cherry Hills Village"
+    },
+    {
+      "@type": "City",
+      "name": "Bow Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Columbine Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Southglenn"
+    },
+    {
+      "@type": "City",
+      "name": "Meridian"
+    },
+    {
+      "@type": "City",
+      "name": "Castlewood"
+    },
+    {
+      "@type": "City",
+      "name": "Dove Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Watkins"
+    },
+    {
+      "@type": "City",
+      "name": "Bennett"
+    },
+    {
+      "@type": "City",
+      "name": "Strasburg"
+    },
+    {
+      "@type": "City",
+      "name": "Thornton"
+    },
+    {
+      "@type": "City",
+      "name": "Northglenn"
+    },
+    {
+      "@type": "City",
+      "name": "Federal Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Westminster"
+    },
+    {
+      "@type": "City",
+      "name": "Arvada"
+    },
+    {
+      "@type": "City",
+      "name": "Lakewood"
+    },
+    {
+      "@type": "City",
+      "name": "Golden"
+    },
+    {
+      "@type": "City",
+      "name": "Edgewater"
+    },
+    {
+      "@type": "City",
+      "name": "Mountain View"
+    },
+    {
+      "@type": "City",
+      "name": "Wheat Ridge"
+    },
+    {
+      "@type": "City",
+      "name": "Broomfield"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Lafayette"
+    },
+    {
+      "@type": "City",
+      "name": "Erie"
+    },
+    {
+      "@type": "City",
+      "name": "Firestone"
+    },
+    {
+      "@type": "City",
+      "name": "Frederick"
+    },
+    {
+      "@type": "City",
+      "name": "Longmont"
+    },
+    {
+      "@type": "City",
+      "name": "Boulder"
+    },
+    {
+      "@type": "City",
+      "name": "Superior"
+    },
+    {
+      "@type": "City",
+      "name": "Elizabeth"
+    },
+    {
+      "@type": "City",
+      "name": "Kiowa"
+    },
+    {
+      "@type": "City",
+      "name": "Byers"
+    },
+    {
+      "@type": "City",
+      "name": "Deer Trail"
+    },
+    {
+      "@type": "City",
+      "name": "Castle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Franktown"
+    },
+    {
+      "@type": "City",
+      "name": "Larkspur"
+    },
+    {
+      "@type": "City",
+      "name": "Sedalia"
+    },
+    {
+      "@type": "City",
+      "name": "Monument"
+    },
+    {
+      "@type": "City",
+      "name": "Palmer Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Fountain"
+    },
+    {
+      "@type": "City",
+      "name": "Security-Widefield"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Feeling a soft spot in your mobile home floor can be pretty concerning, and it's definitely a sign that something's amiss. This isn't just a surface issue; it almost always points to damage in the subfloor or even the supporting frame underneath. Often, it's a result of water damage from a leaky pipe, appliance, or even an exterior intrusion. The first step is to carefully identify the full extent of the soft area and try to pinpoint the source of any moisture. You'll need to remove the existing flooring to get a good look at the subfloor. If it's wet or rotted, that material needs to come out, and the area must dry completely before any repairs begin. Skipping the drying step or installing new flooring over a compromised subfloor are common mistakes that will just lead to the problem recurring. If the soft spot is widespread or if you suspect damage to the structural members, it's a good idea to bring in a professional. They can properly assess the damage and ensure a lasting repair."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}
