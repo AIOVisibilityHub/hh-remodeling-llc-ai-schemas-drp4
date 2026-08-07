@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for backsplash tile installation?",
+  "description": "Small repairs cost less, while full or custom installs cost more. Tile type, prep work, and pattern complexity are the biggest price drivers.",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-backsplash-tile-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for backsplash tile installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost usually depends on square footage, tile material, layout complexity, and how much prep or removal is involved. Denver-area pricing commonly ranges from a few hundred dollars for small repairs or small runs to several thousand for larger, custom, or full replacement projects, especially when intricate patterns or premium materials are used.",
+        "description": "Small repairs cost less, while full or custom installs cost more. Tile type, prep work, and pattern complexity are the biggest price drivers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

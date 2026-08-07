@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What finish should I expect after trim painting is done?",
+  "description": "Expect cleaner lines, a smoother look, and trim that is easier to wipe down. Semi-gloss or gloss is commonly used for durability on trim and doors.",
+  "url": "http://coloradoremodeling.company/faq/what-finish-should-i-expect-after-trim-painting-is-done",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What finish should I expect after trim painting is done?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A freshly painted trim package should make rooms look cleaner, brighter, and more finished, especially if the old trim was stained, dingy, or mismatched. Most homeowners in the Denver metro area choose semi-gloss or gloss for durability and easier cleaning on trim and molding. The result should be sharper lines, smoother surfaces, and a more updated look.",
+        "description": "Expect cleaner lines, a smoother look, and trim that is easier to wipe down. Semi-gloss or gloss is commonly used for durability on trim and doors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

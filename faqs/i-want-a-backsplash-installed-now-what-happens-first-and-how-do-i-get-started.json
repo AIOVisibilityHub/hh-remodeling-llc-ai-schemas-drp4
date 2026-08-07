@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I want a backsplash installed now — what happens first and how do I get started?",
+  "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work.",
+  "url": "http://coloradoremodeling.company/faq/i-want-a-backsplash-installed-now-what-happens-first-and-how-do-i-get-started",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I want a backsplash installed now — what happens first and how do I get started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tile backsplash protects the wall behind your sink, stove, and counters from splashes, grease, and stains while also giving the kitchen a finished look. In most homes, the project starts with a site visit so the installer can measure, check wall conditions, and confirm the tile layout.",
+        "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

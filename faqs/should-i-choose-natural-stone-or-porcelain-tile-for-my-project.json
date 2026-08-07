@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose natural stone or porcelain tile for my project?",
+  "description": "Choose porcelain if you want easier maintenance and stronger stain resistance. Choose natural stone if you want a more natural, high-end look and are comfortabl",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-natural-stone-or-porcelain-tile-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose natural stone or porcelain tile for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing natural stone to porcelain, porcelain is usually easier to maintain and more resistant to stains, while natural stone offers more variation and a more organic look. For busy homes in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the better choice often comes down to how much upkeep you want.",
+        "description": "Choose porcelain if you want easier maintenance and stronger stain resistance. Choose natural stone if you want a more natural, high-end look and are comfortable with more care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

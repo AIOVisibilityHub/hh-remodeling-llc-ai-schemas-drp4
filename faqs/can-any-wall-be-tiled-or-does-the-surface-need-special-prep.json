@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any wall be tiled, or does the surface need special prep?",
+  "description": "Not every wall is ready for tile. The surface has to be stable, smooth, and appropriate for the room, especially in wet areas that need waterproofing.",
+  "url": "http://coloradoremodeling.company/faq/can-any-wall-be-tiled-or-does-the-surface-need-special-prep",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any wall be tiled, or does the surface need special prep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most wall tile projects can be installed on properly prepared drywall, cement board, or other suitable backer surfaces, depending on the room and moisture exposure. In wet areas like showers, the wall usually needs waterproofing and the right tile backing; in dry areas like backsplashes, the prep is simpler. If your wall has cracks, peeling paint, or old adhesive, those problems need to be corrected first.",
+        "description": "Not every wall is ready for tile. The surface has to be stable, smooth, and appropriate for the room, especially in wet areas that need waterproofing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

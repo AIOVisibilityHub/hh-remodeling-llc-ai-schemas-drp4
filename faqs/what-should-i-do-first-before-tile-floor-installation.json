@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first before tile floor installation?",
+  "description": "Check the subfloor, measure carefully, and choose a tile suited to the room and traffic level. In Denver-area homes, moisture and floor condition are key before",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-tile-floor-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first before tile floor installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by checking the subfloor, measuring the room, and choosing a tile that fits the space and traffic level. For Denver-area homes, moisture and subfloor condition matter a lot, especially on concrete slabs or over wood subfloors.",
+        "description": "Check the subfloor, measure carefully, and choose a tile suited to the room and traffic level. In Denver-area homes, moisture and floor condition are key before any tile goes down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

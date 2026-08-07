@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My shower is leaking — what should I check before starting new tile installation?",
+  "description": "Check the waterproofing, drain, and subfloor before installing new tile. If there is any sign of leaks, soft spots, or mold, the shower should be opened up and",
+  "url": "http://coloradoremodeling.company/faq/my-shower-is-leaking-what-should-i-check-before-starting-new-tile-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My shower is leaking — what should I check before starting new tile installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to confirm that the shower area is built for tile, especially the waterproofing layer and drain layout. If the existing shower is failing, a proper tile install usually starts with demolition, inspection, repair, and then a new waterproof system before any tile goes on.",
+        "description": "Check the waterproofing, drain, and subfloor before installing new tile. If there is any sign of leaks, soft spots, or mold, the shower should be opened up and repaired first so the new tile does not fail too."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does marble tile installation usually work from start to finish?",
+  "description": "Installation typically includes prep, layout, cutting, setting, grouting, and sealing. Marble requires extra attention during layout and cutting so the veining",
+  "url": "http://coloradoremodeling.company/faq/how-does-marble-tile-installation-usually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does marble tile installation usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually includes measuring, surface prep, tile layout, cutting, setting, grouting, and sealing. For marble, careful planning is especially important because color variation, veining, and edge alignment are more noticeable than with standard tile.",
+        "description": "Installation typically includes prep, layout, cutting, setting, grouting, and sealing. Marble requires extra attention during layout and cutting so the veining and joints look clean and consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

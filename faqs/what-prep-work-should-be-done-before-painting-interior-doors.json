@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prep work should be done before painting interior doors?",
+  "description": "Good prep usually includes cleaning, sanding, patching minor flaws, and priming when needed. Skipping prep is one of the biggest reasons door paint jobs look un",
+  "url": "http://coloradoremodeling.company/faq/what-prep-work-should-be-done-before-painting-interior-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prep work should be done before painting interior doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prep work is what separates a quick paint job from a durable one. The surface should be cleaned, lightly sanded, repaired where needed, and primed if the existing finish or color requires it. If you see peeling paint, greasy buildup, or old hardware that will stay in place, those are signs prep will take longer.",
+        "description": "Good prep usually includes cleaning, sanding, patching minor flaws, and priming when needed. Skipping prep is one of the biggest reasons door paint jobs look uneven or fail early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long should I wait before closing a freshly painted interior door?",
+  "description": "Light use may be possible after drying, but avoid closing or rubbing the door for at least 24–48 hours. Full curing can take several days, depending on the pain",
+  "url": "http://coloradoremodeling.company/faq/how-long-should-i-wait-before-closing-a-freshly-painted-interior-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long should I wait before closing a freshly painted interior door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, painted doors can be used too soon if the coating has not cured. Most doors can be lightly handled after drying, but they should not be closed, scraped, or rubbed hard for at least a day or two, and full curing can take several days. In homes with active traffic, painters often keep doors ajar longer and use felt pads to prevent sticking.",
+        "description": "Light use may be possible after drying, but avoid closing or rubbing the door for at least 24–48 hours. Full curing can take several days, depending on the paint and room conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is natural stone tile actually worth it, or does it just look nicer?",
+  "description": "It is worth it if you want a distinctive, upscale look and are okay with some upkeep. The main value is the natural variation, durability, and visual character.",
+  "url": "http://coloradoremodeling.company/faq/is-natural-stone-tile-actually-worth-it-or-does-it-just-look-nicer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is natural stone tile actually worth it, or does it just look nicer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone gives a unique, high-end look because no two pieces are exactly alike, and it can add character that manufactured tile cannot copy. It is a strong choice if you want a more natural appearance and are comfortable with a little more maintenance.",
+        "description": "It is worth it if you want a distinctive, upscale look and are okay with some upkeep. The main value is the natural variation, durability, and visual character."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

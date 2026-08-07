@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should grout be resealed?",
+  "description": "Most grout needs resealing every 1 to 3 years, but showers and heavy-use floors may need it sooner.",
+  "url": "http://coloradoremodeling.company/faq/how-often-should-grout-be-resealed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should grout be resealed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners should plan on **resealing every 1 to 3 years**, but high-traffic floors, showers, and busy kitchens may need it more often. The exact timing depends on the type of sealer used, how often the area gets wet, and how much cleaning and foot traffic it sees.",
+        "description": "Most grout needs resealing every 1 to 3 years, but showers and heavy-use floors may need it sooner."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

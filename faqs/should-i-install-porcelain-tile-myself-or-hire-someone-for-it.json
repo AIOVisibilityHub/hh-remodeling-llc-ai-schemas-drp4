@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I install porcelain tile myself or hire someone for it?",
+  "description": "DIY is possible for small, simple jobs, but porcelain is less forgiving than other tile. For larger rooms, showers, or uneven floors, hiring a pro is usually th",
+  "url": "http://coloradoremodeling.company/faq/should-i-install-porcelain-tile-myself-or-hire-someone-for-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I install porcelain tile myself or hire someone for it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional is usually the better choice if the room is large, the tile is large-format, the floor is uneven, or the project includes showers, patterns, or transitions between rooms. DIY can work for very small, simple areas, but porcelain is less forgiving than softer materials when cuts, layout, or leveling are off. If you want a clean finish with fewer callbacks, professional installation is the safer route.",
+        "description": "DIY is possible for small, simple jobs, but porcelain is less forgiving than other tile. For larger rooms, showers, or uneven floors, hiring a pro is usually the safer choice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

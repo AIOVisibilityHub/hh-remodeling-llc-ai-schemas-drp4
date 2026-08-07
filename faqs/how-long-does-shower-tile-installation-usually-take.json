@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does shower tile installation usually take?",
+  "description": "A shower tile project usually takes several days, not just one day. Drying time, waterproofing, and any needed repairs can extend the schedule.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-shower-tile-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does shower tile installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most shower tile jobs take several days, and larger or custom showers can take longer. Time depends on demolition, drying or curing periods, waterproofing, layout complexity, and whether the shower needs repairs before tile can be installed.",
+        "description": "A shower tile project usually takes several days, not just one day. Drying time, waterproofing, and any needed repairs can extend the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

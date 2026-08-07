@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare tile installers without getting burned?",
+  "description": "Compare prep, waterproofing, experience, and how detailed each estimate is. The lowest price is not a good deal if important steps are missing.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-compare-tile-installers-without-getting-burned",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare tile installers without getting burned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing options, look at tile experience, prep method, waterproofing approach, and how detailed the estimate is. For tile wall installation in the Denver metro area, the cheapest bid is not always the best if it leaves out wall repair, moisture protection, or cleanup. Ask for examples of similar wall projects so you can judge fit and finish before you commit.",
+        "description": "Compare prep, waterproofing, experience, and how detailed each estimate is. The lowest price is not a good deal if important steps are missing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if grout is sealed the wrong way?",
+  "description": "Wrong timing or poor cleanup can trap moisture, weaken protection, or leave sealer haze on the tile surface.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-grout-is-sealed-the-wrong-way",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if grout is sealed the wrong way?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are **sealing dirty grout, trapping moisture, or leaving haze on the tile**. If grout is not fully dry, the sealer may not bond well; if excess sealer dries on tile faces, it can leave a dull film that is harder to remove later.",
+        "description": "Wrong timing or poor cleanup can trap moisture, weaken protection, or leave sealer haze on the tile surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

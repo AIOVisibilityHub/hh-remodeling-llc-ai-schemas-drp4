@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with interior trim painting?",
+  "description": "Bad prep, the wrong paint sheen, and sloppy masking are the most common problems. Ask how the team handles sanding, priming, and edge protection before work sta",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-interior-trim-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with interior trim painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are poor surface prep, paint peeling too soon, visible brush marks, and paint bleeding onto walls or floors. Trim is a high-touch area, so using the wrong finish or skipping primer can make it look worn quickly. If you have had a bad paint job before, ask specifically how the team prevents lap marks, missed caulk lines, and adhesion problems.",
+        "description": "Bad prep, the wrong paint sheen, and sloppy masking are the most common problems. Ask how the team handles sanding, priming, and edge protection before work starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

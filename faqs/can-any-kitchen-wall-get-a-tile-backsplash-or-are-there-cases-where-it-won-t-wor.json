@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any kitchen wall get a tile backsplash, or are there cases where it won’t work?",
+  "description": "Most walls can take tile, but damaged, wet, or uneven surfaces need repair first. A site check is the fastest way to know if your wall is ready.",
+  "url": "http://coloradoremodeling.company/faq/can-any-kitchen-wall-get-a-tile-backsplash-or-are-there-cases-where-it-won-t-wor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any kitchen wall get a tile backsplash, or are there cases where it won’t work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most backsplash projects do not need special homeowner eligibility, but the wall must be suitable for tile and the space needs to be accessible for prep and installation. If there is old tile, damaged drywall, moisture issues, or uneven surfaces, those conditions usually need to be addressed first so the new backsplash bonds properly and lasts.",
+        "description": "Most walls can take tile, but damaged, wet, or uneven surfaces need repair first. A site check is the fastest way to know if your wall is ready."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

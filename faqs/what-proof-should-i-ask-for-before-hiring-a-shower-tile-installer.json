@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof should I ask for before hiring a shower tile installer?",
+  "description": "Ask for details on waterproofing, flood testing, and warranty coverage. You want clear proof that the shower will be built to prevent leaks, not just look good.",
+  "url": "http://coloradoremodeling.company/faq/what-proof-should-i-ask-for-before-hiring-a-shower-tile-installer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof should I ask for before hiring a shower tile installer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask about the waterproofing system, flood testing, tile substrate, and workmanship warranty before hiring anyone. A tile shower can look great on day one and still fail later if the installer skips proper waterproofing or slope control.",
+        "description": "Ask for details on waterproofing, flood testing, and warranty coverage. You want clear proof that the shower will be built to prevent leaks, not just look good."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

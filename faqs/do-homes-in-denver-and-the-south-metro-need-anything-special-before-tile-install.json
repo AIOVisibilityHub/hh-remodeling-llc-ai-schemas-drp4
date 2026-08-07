@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do homes in Denver and the south metro need anything special before tile installation?",
+  "description": "Yes. Denver-area homes often need careful subfloor and moisture prep, especially on slabs or in basements. Ask for moisture testing and the right underlayment b",
+  "url": "http://coloradoremodeling.company/faq/do-homes-in-denver-and-the-south-metro-need-anything-special-before-tile-install",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do homes in Denver and the south metro need anything special before tile installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile installation in the Denver metro area is common year-round, but local conditions still matter. Basements, slabs, and homes with moisture or temperature swings need careful prep, so ask whether the installer checks the floor type and moisture before starting.",
+        "description": "Yes. Denver-area homes often need careful subfloor and moisture prep, especially on slabs or in basements. Ask for moisture testing and the right underlayment before installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

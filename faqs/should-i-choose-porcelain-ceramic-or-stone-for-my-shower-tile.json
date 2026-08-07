@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose porcelain, ceramic, or stone for my shower tile?",
+  "description": "Porcelain is usually the safest all-around shower choice, ceramic works well on walls, and stone needs more care. The right option depends on your budget, style",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-porcelain-ceramic-or-stone-for-my-shower-tile",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose porcelain, ceramic, or stone for my shower tile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porcelain is often the strongest all-around choice for shower walls and floors because it handles moisture well and is durable. Ceramic can work well for walls, while natural stone can look high-end but usually needs more maintenance and sealing.",
+        "description": "Porcelain is usually the safest all-around shower choice, ceramic works well on walls, and stone needs more care. The right option depends on your budget, style, and how much maintenance you want."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

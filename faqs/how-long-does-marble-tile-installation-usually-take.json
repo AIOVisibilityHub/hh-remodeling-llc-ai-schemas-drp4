@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does marble tile installation usually take?",
+  "description": "Small marble tile jobs may take a few days, while larger or more detailed projects take longer. Prep work, demolition, and cure time can add extra days.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-marble-tile-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does marble tile installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A straightforward marble tile project can often be completed in a few days, but timing depends on room size, prep work, and whether old tile must be removed. More complex bathroom or custom projects can take longer because the surface must cure properly between steps.",
+        "description": "Small marble tile jobs may take a few days, while larger or more detailed projects take longer. Prep work, demolition, and cure time can add extra days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

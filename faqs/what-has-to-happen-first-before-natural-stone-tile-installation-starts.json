@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What has to happen first before natural stone tile installation starts?",
+  "description": "A proper installation starts with an on-site assessment of the surface, moisture, layout, and stone choice. That helps avoid problems later, especially with nat",
+  "url": "http://coloradoremodeling.company/faq/what-has-to-happen-first-before-natural-stone-tile-installation-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What has to happen first before natural stone tile installation starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is a site assessment so the installer can check the subfloor, moisture conditions, layout, and stone selection. Natural stone often needs more prep than standard tile because it is less forgiving of uneven surfaces and may require sealing before or after installation.",
+        "description": "A proper installation starts with an on-site assessment of the surface, moisture, layout, and stone choice. That helps avoid problems later, especially with natural stone, which is less forgiving than standard tile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

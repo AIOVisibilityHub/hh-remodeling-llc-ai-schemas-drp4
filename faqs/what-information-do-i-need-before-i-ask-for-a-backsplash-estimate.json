@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I ask for a backsplash estimate?",
+  "description": "Have rough measurements, photos, and your tile ideas ready. That helps the installer estimate labor, materials, and any prep work more accurately.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-i-ask-for-a-backsplash-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I ask for a backsplash estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a perfect design idea before reaching out, but you should have rough measurements, photos of the space, and any tile inspiration you like. The more accurate the wall dimensions and the more detail you can share about outlets, corners, and existing finishes, the easier it is to get a realistic estimate.",
+        "description": "Have rough measurements, photos, and your tile ideas ready. That helps the installer estimate labor, materials, and any prep work more accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

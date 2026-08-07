@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for shower tile installation in Denver?",
+  "description": "Price depends on the size of the shower, the tile you choose, and how much prep or demolition is needed. The best way to get a real number is an on-site estimat",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-shower-tile-installation-in-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for shower tile installation in Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on shower size, tile type, waterproofing system, labor, demolition, and design complexity. In the Denver area, shower tile work often varies widely, so the most useful estimate comes from an in-person assessment of the existing shower and the materials you want.",
+        "description": "Price depends on the size of the shower, the tile you choose, and how much prep or demolition is needed. The best way to get a real number is an on-site estimate after the shower is inspected."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

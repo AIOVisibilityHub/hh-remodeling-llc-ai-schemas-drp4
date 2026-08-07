@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a finished backsplash look like when the job is done right?",
+  "description": "It should be straight, clean at the edges, and easy to maintain. Good work also means neat cuts around outlets and a smooth grout finish.",
+  "url": "http://coloradoremodeling.company/faq/what-should-a-finished-backsplash-look-like-when-the-job-is-done-right",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a finished backsplash look like when the job is done right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professionally installed backsplash should look level, fit cleanly around outlets and edges, and be easy to wipe down after cooking. Homeowners in Greenwood Village, Foxfield, and nearby areas usually want a result that improves both durability and appearance without creating future maintenance issues.",
+        "description": "It should be straight, clean at the edges, and easy to maintain. Good work also means neat cuts around outlets and a smooth grout finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

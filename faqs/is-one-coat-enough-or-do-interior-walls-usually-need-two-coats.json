@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is one coat enough, or do interior walls usually need two coats?",
+  "description": "Two coats is usually better for consistent color and coverage; one coat is often not enough for a clean finish.",
+  "url": "http://coloradoremodeling.company/faq/is-one-coat-enough-or-do-interior-walls-usually-need-two-coats",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is one coat enough, or do interior walls usually need two coats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two coats are usually the safer choice for even coverage and color consistency, especially when changing from dark to light colors. One coat can leave thin spots, lap marks, or uneven sheen.",
+        "description": "Two coats is usually better for consistent color and coverage; one coat is often not enough for a clean finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

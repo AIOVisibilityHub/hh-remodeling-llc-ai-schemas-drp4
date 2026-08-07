@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to remove my interior doors before painting them, or can they stay on the hinges?",
+  "description": "You can paint many interior doors on the hinges, but removing them usually gives a smoother finish and fewer drips. It depends on the door style, wear, and how",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-to-remove-my-interior-doors-before-painting-them-or-can-they-stay-on-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to remove my interior doors before painting them, or can they stay on the hinges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners in Denver-area homes can get a clean interior door paint job without removing every door, but removing the door usually gives the best finish. If the door has heavy wear, tight clearances, or detailed paneling, taking it down makes prep and drying easier. A pro can also paint doors in place when access is limited, but the room has to be protected carefully.",
+        "description": "You can paint many interior doors on the hinges, but removing them usually gives a smoother finish and fewer drips. It depends on the door style, wear, and how much space you have for prep and drying."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

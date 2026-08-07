@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I repaint my interior ceiling?",
+  "description": "Most ceilings last 5–10 years, but kitchens and bathrooms often need repainting sooner. Stains, yellowing, or cracking are common signs it is time.",
+  "url": "http://coloradoremodeling.company/faq/how-often-should-i-repaint-my-interior-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I repaint my interior ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ceiling paint in Denver-area homes typically lasts **5 to 10 years**, but kitchens, bathrooms, and other high-moisture or high-use rooms often need repainting sooner. If you see yellowing, stains, cracking, or patchiness, it is usually time to refresh the ceiling.",
+        "description": "Most ceilings last 5–10 years, but kitchens and bathrooms often need repainting sooner. Stains, yellowing, or cracking are common signs it is time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you retile an old shower, or does it have to be torn out first?",
+  "description": "A shower can often be retiled, but only if the underlying structure is sound. If the pan, walls, or framing are damaged, a tear-out and rebuild is usually the s",
+  "url": "http://coloradoremodeling.company/faq/can-you-retile-an-old-shower-or-does-it-have-to-be-torn-out-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you retile an old shower, or does it have to be torn out first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the existing surface is structurally sound and the waterproofing plan is correct. In many showers, old tile can be removed and replaced with new tile, but damaged walls, rotten framing, or a failed pan need to be fixed before retiling.",
+        "description": "A shower can often be retiled, but only if the underlying structure is sound. If the pan, walls, or framing are damaged, a tear-out and rebuild is usually the safer choice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What usually goes wrong with tile flooring after installation?",
+  "description": "Most tile failures come from bad prep, moisture, or missing movement joints. Those problems can lead to cracks, loose grout, and expensive repairs.",
+  "url": "http://coloradoremodeling.company/faq/what-usually-goes-wrong-with-tile-flooring-after-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What usually goes wrong with tile flooring after installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are poor subfloor prep, moisture problems, and skipping movement joints. Those issues can lead to cracked tile, loose grout, hollow-sounding spots, and repairs that cost far more than doing the prep correctly the first time.",
+        "description": "Most tile failures come from bad prep, moisture, or missing movement joints. Those problems can lead to cracks, loose grout, and expensive repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

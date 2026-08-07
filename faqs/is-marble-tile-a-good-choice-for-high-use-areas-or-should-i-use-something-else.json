@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is marble tile a good choice for high-use areas, or should I use something else?",
+  "description": "Marble can work well in many spaces, but it needs more care than porcelain or ceramic. It’s best for areas where you want a premium look and are willing to main",
+  "url": "http://coloradoremodeling.company/faq/is-marble-tile-a-good-choice-for-high-use-areas-or-should-i-use-something-else",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is marble tile a good choice for high-use areas, or should I use something else?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners choose marble tile for floors, showers, backsplashes, and accent walls. It is prized for its natural veining and classic look, but it is also more delicate than many other stone options, so the right setting materials and sealing matter.",
+        "description": "Marble can work well in many spaces, but it needs more care than porcelain or ceramic. It’s best for areas where you want a premium look and are willing to maintain and seal it properly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

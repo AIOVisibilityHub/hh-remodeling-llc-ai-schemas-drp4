@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a backsplash tile job usually take?",
+  "description": "Simple projects can move quickly, but prep and custom layouts add time. Ask for the schedule after the wall is inspected and the tile is selected.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-backsplash-tile-job-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a backsplash tile job usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timeline depends on size, tile type, and wall condition, but a straightforward backsplash is often completed in a short window once materials are on hand. Projects take longer when there is demolition, custom patterns, lots of outlets, or needed wall repair, so Centennial and Parker homeowners should expect the schedule to depend on prep as much as tile work.",
+        "description": "Simple projects can move quickly, but prep and custom layouts add time. Ask for the schedule after the wall is inspected and the tile is selected."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if a marble tile installer is qualified?",
+  "description": "Look for proof of natural-stone experience, written estimates, and examples of finished marble work. Marble needs skilled handling, so general tile experience a",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-marble-tile-installer-is-qualified",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if a marble tile installer is qualified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should ask for recent project photos, a written scope, and confirmation that the installer has experience with natural stone. Marble is less forgiving than ceramic or porcelain, so a contractor who handles stone regularly is more likely to avoid chips, uneven joints, and premature staining.",
+        "description": "Look for proof of natural-stone experience, written estimates, and examples of finished marble work. Marble needs skilled handling, so general tile experience alone is not always enough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

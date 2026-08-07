@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does interior trim painting cost more than I expected?",
+  "description": "Trim painting costs more when there is lots of detail, damaged wood, or heavy prep work. Ask for a quote that breaks out prep, repairs, and finish coats.",
+  "url": "http://coloradoremodeling.company/faq/why-does-interior-trim-painting-cost-more-than-i-expected",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does interior trim painting cost more than I expected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by the amount of trim, the condition of the surfaces, how much prep is needed, and whether you want doors, baseboards, crown molding, or all of them included. Jobs with heavy sanding, repairs, or detailed woodwork usually cost more because they take more labor. The best value is usually a quote that clearly separates prep, paint, and repairs so you can compare options fairly.",
+        "description": "Trim painting costs more when there is lots of detail, damaged wood, or heavy prep work. Ask for a quote that breaks out prep, repairs, and finish coats."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

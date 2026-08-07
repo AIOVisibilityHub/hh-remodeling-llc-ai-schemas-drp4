@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with natural stone tile if it’s installed the wrong way?",
+  "description": "Natural stone can stain, etch, crack, or suffer moisture damage if it is not installed and sealed correctly. Using the wrong cleaner can also damage the finish",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-natural-stone-tile-if-it-s-installed-the-wrong-way",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with natural stone tile if it’s installed the wrong way?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are staining, etching from acids, cracking from movement, and moisture damage if the stone is used in a wet area without proper sealing and waterproofing. Some stones also need gentler cleaners, so the wrong maintenance products can damage the finish.",
+        "description": "Natural stone can stain, etch, crack, or suffer moisture damage if it is not installed and sealed correctly. Using the wrong cleaner can also damage the finish over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

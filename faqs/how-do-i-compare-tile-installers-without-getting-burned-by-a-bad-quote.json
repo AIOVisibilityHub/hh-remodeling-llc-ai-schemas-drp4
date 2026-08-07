@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare tile installers without getting burned by a bad quote?",
+  "description": "Compare what is included, subfloor prep, warranty, and cleanup. The cheapest quote is not always the best if it leaves out essential prep or repairs.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-compare-tile-installers-without-getting-burned-by-a-bad-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare tile installers without getting burned by a bad quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare installers by their subfloor prep process, what is included in the quote, labor warranty, and whether they handle removal and cleanup. For homes in Greenwood Village, Foxfield, and nearby areas, it also helps to ask how they handle moisture testing and slab or wood-subfloor conditions.",
+        "description": "Compare what is included, subfloor prep, warranty, and cleanup. The cheapest quote is not always the best if it leaves out essential prep or repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

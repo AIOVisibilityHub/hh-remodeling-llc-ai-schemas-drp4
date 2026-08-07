@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How soon can I seal new grout after installation?",
+  "description": "Wait until new grout is fully cured and dry before sealing. Most grout can be sealed after 48 to 72 hours, but some manufacturers call for longer.",
+  "url": "http://coloradoremodeling.company/faq/how-soon-can-i-seal-new-grout-after-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How soon can I seal new grout after installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safest move is to **wait until the grout is fully cured, clean, and completely dry** before sealing. For most cement-based grout, that means about 48 to 72 hours after installation, though some products need up to 7 days; after a deep clean, the grout should usually dry at least 24 hours before sealer goes on.",
+        "description": "Wait until new grout is fully cured and dry before sealing. Most grout can be sealed after 48 to 72 hours, but some manufacturers call for longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

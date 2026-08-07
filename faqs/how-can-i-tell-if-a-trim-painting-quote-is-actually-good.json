@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if a trim painting quote is actually good?",
+  "description": "Look for a clear prep plan, repair details, and a clean finish standard. The best quotes explain what is included instead of giving a vague price.",
+  "url": "http://coloradoremodeling.company/faq/how-can-i-tell-if-a-trim-painting-quote-is-actually-good",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if a trim painting quote is actually good?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The strongest evidence of quality is in the prep plan and the finish details: caulking lines, smooth edges, even sheen, and no roller marks or brush ridges where they should not be. Before hiring, ask what paint system will be used, whether gaps and nail holes will be filled, and how masking and cleanup are handled. A solid estimate should describe the scope clearly, not just say “paint trim.”",
+        "description": "Look for a clear prep plan, repair details, and a clean finish standard. The best quotes explain what is included instead of giving a vague price."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need primer before repainting interior walls?",
+  "description": "Primer is usually needed for patches, stains, glossy paint, or strong color changes, but not always for every wall.",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-primer-before-repainting-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need primer before repainting interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your walls are clean, in good shape, and you’re using a similar color, you may not need primer everywhere. Primer is usually needed over patches, stains, glossy surfaces, or major color changes.",
+        "description": "Primer is usually needed for patches, stains, glossy paint, or strong color changes, but not always for every wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

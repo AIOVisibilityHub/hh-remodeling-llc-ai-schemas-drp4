@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does natural stone tile installation usually take?",
+  "description": "It usually takes longer than standard tile because stone needs more prep, cutting, and often sealing. Small jobs may take a day or two, while showers or full fl",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-natural-stone-tile-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does natural stone tile installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural stone tile usually takes longer than basic ceramic or porcelain because the material is heavier, may need more cutting, and often requires extra prep and sealing. Small projects can move quickly, but showers, floors, or custom layouts often take several days once scheduling, prep, setting, grout, and cure time are included.",
+        "description": "It usually takes longer than standard tile because stone needs more prep, cutting, and often sealing. Small jobs may take a day or two, while showers or full floors can take several days plus cure time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
