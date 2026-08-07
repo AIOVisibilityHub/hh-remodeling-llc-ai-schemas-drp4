@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I wait too long to replace storm-damaged drywall?",
+  "description": "Delays can trap moisture behind the wall, lead to mold, and turn a small repair into a bigger rebuild. If drywall is already soft or stained, fast inspection ma",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-wait-too-long-to-replace-storm-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I wait too long to replace storm-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are hidden moisture, mold growth, and replacing only the visible damage while leaving wet materials inside the wall. If the area was exposed to water from rain, hail, or roof damage, waiting too long can also make the repair more expensive and more invasive.",
+        "description": "Delays can trap moisture behind the wall, lead to mold, and turn a small repair into a bigger rebuild. If drywall is already soft or stained, fast inspection matters more than trying to let it ‘air out’ on its own."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

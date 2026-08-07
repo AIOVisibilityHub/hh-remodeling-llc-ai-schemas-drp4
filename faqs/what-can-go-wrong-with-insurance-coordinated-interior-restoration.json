@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with insurance-coordinated interior restoration?",
+  "description": "The main risks are weak documentation, miscommunication with the insurer, and repairs starting before the claim scope is clear. Those issues can delay approval",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-insurance-coordinated-interior-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with insurance-coordinated interior restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are under-documenting the damage, starting repairs too early, or choosing a contractor who does not coordinate well with the insurer. Those mistakes can lead to delays, change-order disputes, or out-of-pocket costs that could have been avoided with better claim support.",
+        "description": "The main risks are weak documentation, miscommunication with the insurer, and repairs starting before the claim scope is clear. Those issues can delay approval or create unexpected costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

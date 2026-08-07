@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My paint is peeling after a storm — what should I do first?",
+  "description": "Call for an inspection right away, especially if you see peeling, blistering, staining, or exposed wood. Quick documentation helps prevent moisture from spreadi",
+  "url": "http://coloradoremodeling.company/faq/my-paint-is-peeling-after-a-storm-what-should-i-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My paint is peeling after a storm — what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should call for an inspection as soon as you see peeling, cracking, blistering, water staining, or exposed trim after a storm. Fast documentation helps the job move from temporary protection to permanent finish work before moisture spreads or the damage gets worse.",
+        "description": "Call for an inspection right away, especially if you see peeling, blistering, staining, or exposed wood. Quick documentation helps prevent moisture from spreading and lets the finish work be repaired before more damage sets in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

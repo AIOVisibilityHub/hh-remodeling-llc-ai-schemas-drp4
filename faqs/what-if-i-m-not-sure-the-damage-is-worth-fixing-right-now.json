@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I’m not sure the damage is worth fixing right now?",
+  "description": "Ask for a clear inspection, photos, and a repair scope before deciding. That helps separate urgent protection issues from purely cosmetic work so you can priori",
+  "url": "http://coloradoremodeling.company/faq/what-if-i-m-not-sure-the-damage-is-worth-fixing-right-now",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I’m not sure the damage is worth fixing right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A common concern is that storm damage may be covered only if it is documented quickly and repaired to the right standard. If you are worried about budget, ask for a clear scope, photo documentation, and a repair plan that separates urgent protection from cosmetic finish work so you can decide what needs attention first.",
+        "description": "Ask for a clear inspection, photos, and a repair scope before deciding. That helps separate urgent protection issues from purely cosmetic work so you can prioritize what matters most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

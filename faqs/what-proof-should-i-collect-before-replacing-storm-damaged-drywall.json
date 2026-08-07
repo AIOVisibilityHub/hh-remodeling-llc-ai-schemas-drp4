@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof should I collect before replacing storm-damaged drywall?",
+  "description": "Take dated photos before anything is removed, and document stains, swelling, soft spots, and the source of the water if you know it. Good before-and-after evide",
+  "url": "http://coloradoremodeling.company/faq/what-proof-should-i-collect-before-replacing-storm-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof should I collect before replacing storm-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most useful evidence is clear photos of the damage before cleanup, plus any notes on when the storm hit and where the leak or impact started. If possible, keep damaged pieces, take close-ups of staining or swelling, and document adjacent areas so the full scope is easy to verify.",
+        "description": "Take dated photos before anything is removed, and document stains, swelling, soft spots, and the source of the water if you know it. Good before-and-after evidence makes it easier to justify the repair scope and avoid missed damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

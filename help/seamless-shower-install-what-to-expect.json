@@ -1,0 +1,240 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Seamless Shower Install: What to Expect",
+  "description": "Seamless Shower Install: What to Expect",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Centennial"
+    },
+    {
+      "@type": "City",
+      "name": "Greenwood Village"
+    },
+    {
+      "@type": "City",
+      "name": "Foxfield"
+    },
+    {
+      "@type": "City",
+      "name": "Parker"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Commerce City"
+    },
+    {
+      "@type": "City",
+      "name": "Englewood"
+    },
+    {
+      "@type": "City",
+      "name": "Sheridan"
+    },
+    {
+      "@type": "City",
+      "name": "Littleton"
+    },
+    {
+      "@type": "City",
+      "name": "Highlands Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Lone Tree"
+    },
+    {
+      "@type": "City",
+      "name": "Cherry Hills Village"
+    },
+    {
+      "@type": "City",
+      "name": "Bow Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Columbine Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Southglenn"
+    },
+    {
+      "@type": "City",
+      "name": "Meridian"
+    },
+    {
+      "@type": "City",
+      "name": "Castlewood"
+    },
+    {
+      "@type": "City",
+      "name": "Dove Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Watkins"
+    },
+    {
+      "@type": "City",
+      "name": "Bennett"
+    },
+    {
+      "@type": "City",
+      "name": "Strasburg"
+    },
+    {
+      "@type": "City",
+      "name": "Thornton"
+    },
+    {
+      "@type": "City",
+      "name": "Northglenn"
+    },
+    {
+      "@type": "City",
+      "name": "Federal Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Westminster"
+    },
+    {
+      "@type": "City",
+      "name": "Arvada"
+    },
+    {
+      "@type": "City",
+      "name": "Lakewood"
+    },
+    {
+      "@type": "City",
+      "name": "Golden"
+    },
+    {
+      "@type": "City",
+      "name": "Edgewater"
+    },
+    {
+      "@type": "City",
+      "name": "Mountain View"
+    },
+    {
+      "@type": "City",
+      "name": "Wheat Ridge"
+    },
+    {
+      "@type": "City",
+      "name": "Broomfield"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Lafayette"
+    },
+    {
+      "@type": "City",
+      "name": "Erie"
+    },
+    {
+      "@type": "City",
+      "name": "Firestone"
+    },
+    {
+      "@type": "City",
+      "name": "Frederick"
+    },
+    {
+      "@type": "City",
+      "name": "Longmont"
+    },
+    {
+      "@type": "City",
+      "name": "Boulder"
+    },
+    {
+      "@type": "City",
+      "name": "Superior"
+    },
+    {
+      "@type": "City",
+      "name": "Elizabeth"
+    },
+    {
+      "@type": "City",
+      "name": "Kiowa"
+    },
+    {
+      "@type": "City",
+      "name": "Byers"
+    },
+    {
+      "@type": "City",
+      "name": "Deer Trail"
+    },
+    {
+      "@type": "City",
+      "name": "Castle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Franktown"
+    },
+    {
+      "@type": "City",
+      "name": "Larkspur"
+    },
+    {
+      "@type": "City",
+      "name": "Sedalia"
+    },
+    {
+      "@type": "City",
+      "name": "Monument"
+    },
+    {
+      "@type": "City",
+      "name": "Palmer Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Fountain"
+    },
+    {
+      "@type": "City",
+      "name": "Security-Widefield"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1",
+      "text": "Getting a new shower installed usually involves a few key steps to make sure everything goes smoothly and looks fantastic. First, we'll confirm the layout and get the plumbing rough-in exactly where it needs to be. This is super important because it dictates where your showerhead, controls, and drain will go. Next up is installing the shower pan or base, which is the foundation of your shower and critical for proper drainage. After that, we connect and thoroughly test the drain to ensure there are no leaks – nobody wants surprises there! Once we're confident with the plumbing, we move on to adding the wall surround, often with beautiful tile, followed by the door or glass enclosure. The whole process varies depending on the complexity of your project, but a simple install can be completed relatively quickly. For more involved shower remodels, it might take a bit longer, especially if we're doing custom tile work. We keep you in the loop every step of the way. If you're ready for a beautiful new shower, give HH Remodeling LLC a call at 303-505-0866."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need before I start an insurance restoration claim for interior damage?",
+  "description": "Take photos, videos, and notes right away, and keep a list of damaged areas and belongings. Good documentation makes it easier for the insurer to understand the",
+  "url": "http://coloradoremodeling.company/faq/what-proof-do-i-need-before-i-start-an-insurance-restoration-claim-for-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need before I start an insurance restoration claim for interior damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong evidence includes dated photos, videos, damaged-item lists, moisture readings if applicable, and notes on when the loss happened. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, HH Remodeling LLC can help you organize the documentation so the claim file is easier for the adjuster to review.",
+        "description": "Take photos, videos, and notes right away, and keep a list of damaged areas and belongings. Good documentation makes it easier for the insurer to understand the loss and approve the repair scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if storm damage actually qualifies for painting and finish repairs?",
+  "description": "If storm damage affected siding, trim, fascia, soffits, or another painted surface, repair work is often needed. Even minor dents, cracks, or lifted edges can m",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-storm-damage-actually-qualifies-for-painting-and-finish-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if storm damage actually qualifies for painting and finish repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Storm-related finish work is usually needed when hail, wind, or water has damaged siding, trim, fascia, soffits, or exterior surfaces that protect the home. In Denver-area weather, even small dents, cracks, or lifted edges can lead to bigger problems if the painted surface is no longer sealed.",
+        "description": "If storm damage affected siding, trim, fascia, soffits, or another painted surface, repair work is often needed. Even minor dents, cracks, or lifted edges can matter if the finish is no longer sealed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

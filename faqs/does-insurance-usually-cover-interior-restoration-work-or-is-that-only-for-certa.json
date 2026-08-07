@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does insurance usually cover interior restoration work, or is that only for certain kinds of damage?",
+  "description": "Coverage depends on the cause of damage and your policy, but water, fire, smoke, and storm-related interior repairs are commonly handled through claims. HH Remo",
+  "url": "http://coloradoremodeling.company/faq/does-insurance-usually-cover-interior-restoration-work-or-is-that-only-for-certa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does insurance usually cover interior restoration work, or is that only for certain kinds of damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners with covered interior damage can use insurance-coordinated restoration when the loss is from a covered event such as water, fire, smoke, or storm damage. HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker, so homeowners in those areas can usually ask whether the job fits their carrier’s claim process.",
+        "description": "Coverage depends on the cause of damage and your policy, but water, fire, smoke, and storm-related interior repairs are commonly handled through claims. HH Remodeling LLC can help you determine whether your situation is a fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

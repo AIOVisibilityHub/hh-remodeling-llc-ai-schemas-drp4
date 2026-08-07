@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare drywall replacement quotes after a storm?",
+  "description": "Compare more than price: check the inspection detail, drying plan, finish quality, and whether texture matching is included. A lower quote can cost more later i",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-compare-drywall-replacement-quotes-after-a-storm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare drywall replacement quotes after a storm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing bids, look at whether each contractor is documenting the moisture damage, removing only what needs to come out, and including finishing work like texture matching. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, local availability matters too because faster response can reduce secondary damage.",
+        "description": "Compare more than price: check the inspection detail, drying plan, finish quality, and whether texture matching is included. A lower quote can cost more later if it skips moisture removal or leaves the repair visibly obvious."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

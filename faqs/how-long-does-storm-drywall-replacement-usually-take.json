@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does storm drywall replacement usually take?",
+  "description": "Simple drywall replacement can move quickly once the area is dry, while larger storm jobs take longer if drying, insulation, or mold-related steps are needed. T",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-storm-drywall-replacement-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does storm drywall replacement usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on how much drying is needed and whether the wall is part of an active leak or wider storm damage. Small, straightforward replacements may be completed quickly once materials are ready, but larger water-damage jobs can take longer if drying, mold prevention, or other repairs are required.",
+        "description": "Simple drywall replacement can move quickly once the area is dry, while larger storm jobs take longer if drying, insulation, or mold-related steps are needed. The main schedule driver is how much hidden moisture is found behind the wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

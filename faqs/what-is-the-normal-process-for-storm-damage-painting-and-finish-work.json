@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the normal process for storm damage painting and finish work?",
+  "description": "It usually starts with inspection and photos, then repair planning, surface prep, priming, and repainting. The goal is to restore and seal the damaged area so i",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-normal-process-for-storm-damage-painting-and-finish-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the normal process for storm damage painting and finish work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with an inspection, photos, and a scope of what needs repair before any sanding, patching, priming, or repainting begins. Good finish work should not just cover damage; it should restore the surface, seal it correctly, and blend the repaired area with the rest of the exterior.",
+        "description": "It usually starts with inspection and photos, then repair planning, surface prep, priming, and repainting. The goal is to restore and seal the damaged area so it blends with the rest of the home, not just cover the problem."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

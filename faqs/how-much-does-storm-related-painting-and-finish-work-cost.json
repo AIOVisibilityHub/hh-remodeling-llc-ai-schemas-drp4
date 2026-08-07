@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does storm related painting and finish work cost?",
+  "description": "Price depends on the damaged area, prep work, repairs, and paint matching. A low-cost patch can be a bad value if it fails to seal the surface and leads to more",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-storm-related-painting-and-finish-work-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does storm related painting and finish work cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size of the damaged area, the amount of prep work, whether trim or siding needs repair, and how many coats are needed for a proper match. The most expensive mistake is choosing a cheap patch job that fails to seal the surface, because that can lead to more repairs later.",
+        "description": "Price depends on the damaged area, prep work, repairs, and paint matching. A low-cost patch can be a bad value if it fails to seal the surface and leads to more damage later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if storm-damaged drywall can be repaired or if it has to be replaced?",
+  "description": "Small cosmetic damage may be repairable, but saturated, warped, moldy, or collapsing drywall usually needs replacement. A professional inspection helps determin",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-storm-damaged-drywall-can-be-repaired-or-if-it-has-to-be-replac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if storm-damaged drywall can be repaired or if it has to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need replacement when drywall is saturated, bowed, moldy, or damaged beyond a small surface area. In Denver-area homes, the key question is whether the wallboard dried completely and kept its shape; if not, patching may fail and the finished wall can show stains, seams, or lingering odor.",
+        "description": "Small cosmetic damage may be repairable, but saturated, warped, moldy, or collapsing drywall usually needs replacement. A professional inspection helps determine whether the wallboard is still structurally sound and dry enough to save."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

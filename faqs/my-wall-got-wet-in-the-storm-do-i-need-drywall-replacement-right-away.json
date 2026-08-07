@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My wall got wet in the storm — do I need drywall replacement right away?",
+  "description": "If drywall is soft, swollen, stained, or crumbling after a storm, it usually needs prompt inspection and often replacement. Photograph the damage first, avoid p",
+  "url": "http://coloradoremodeling.company/faq/my-wall-got-wet-in-the-storm-do-i-need-drywall-replacement-right-away",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My wall got wet in the storm — do I need drywall replacement right away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If storm damage left drywall soft, swollen, stained, or crumbling, the safest move is to stop using the affected area, document the damage with photos, and schedule an inspection before any patching starts. Drywall that has absorbed water often needs full replacement, not just cosmetic repair, because hidden moisture can spread damage behind the wall.",
+        "description": "If drywall is soft, swollen, stained, or crumbling after a storm, it usually needs prompt inspection and often replacement. Photograph the damage first, avoid patching over wet materials, and have a local restoration contractor check for hidden moisture before the problem spreads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
