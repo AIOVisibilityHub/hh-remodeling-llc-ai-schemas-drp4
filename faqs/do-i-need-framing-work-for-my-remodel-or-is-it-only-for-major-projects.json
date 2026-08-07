@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need framing work for my remodel, or is it only for major projects?",
+  "description": "If your remodel moves walls, changes openings, or affects load-bearing areas, framing is usually required. Cosmetic updates alone often do not need it, but stru",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-framing-work-for-my-remodel-or-is-it-only-for-major-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need framing work for my remodel, or is it only for major projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need a framing contractor when your remodel changes wall locations, enlarges or adds doorways, opens up rooms, modifies ceiling lines, or affects load-bearing structure. If the project is only cosmetic, framing may not be needed, but any structural change should be evaluated before demolition starts.",
+        "description": "If your remodel moves walls, changes openings, or affects load-bearing areas, framing is usually required. Cosmetic updates alone often do not need it, but structural changes should be checked before work begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

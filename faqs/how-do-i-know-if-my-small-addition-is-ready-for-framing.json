@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my small addition is ready for framing?",
+  "description": "Your project is ready when the footprint, wall layout, openings, and roof tie-in are defined. If the addition affects structure or load paths, you may need engi",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-small-addition-is-ready-for-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my small addition is ready for framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’re generally eligible for framing once the design is final enough to show the footprint, wall layout, openings, roof connection, and structural requirements. If the addition changes the home’s structure or adds a second story or major tie-in, the framing scope usually becomes more complex and may need extra engineering coordination.",
+        "description": "Your project is ready when the footprint, wall layout, openings, and roof tie-in are defined. If the addition affects structure or load paths, you may need engineering before framing starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

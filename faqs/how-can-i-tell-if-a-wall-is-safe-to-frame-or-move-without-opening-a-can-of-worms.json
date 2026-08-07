@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if a wall is safe to frame or move without opening a can of worms?",
+  "description": "You need to confirm whether the wall is load-bearing and whether utilities run through it. Visual clues help, but they are not reliable enough on their own.",
+  "url": "http://coloradoremodeling.company/faq/how-can-i-tell-if-a-wall-is-safe-to-frame-or-move-without-opening-a-can-of-worms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if a wall is safe to frame or move without opening a can of worms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important evidence is whether the wall is actually load-bearing, plus what is inside it. Stud direction, nearby beams, joists, and hidden wiring or plumbing all matter, and visual guessing is not enough for safe planning.",
+        "description": "You need to confirm whether the wall is load-bearing and whether utilities run through it. Visual clues help, but they are not reliable enough on their own."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

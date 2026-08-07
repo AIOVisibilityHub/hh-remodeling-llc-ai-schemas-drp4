@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does new drywall hanging actually include?",
+  "description": "Drywall hanging means installing drywall sheets on walls or ceilings over framing. It’s the rough stage before taping, finishing, sanding, and paint.",
+  "url": "http://coloradoremodeling.company/faq/what-does-new-drywall-hanging-actually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does new drywall hanging actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall hanging is the installation of wall and ceiling panels over framing to create the finished interior surface. It’s used for new rooms, basement finishes, remodels, and interior partitions, and it sets the stage for taping, mudding, sanding, and painting.",
+        "description": "Drywall hanging means installing drywall sheets on walls or ceilings over framing. It’s the rough stage before taping, finishing, sanding, and paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does door opening framing usually cost?",
+  "description": "Price depends on whether the opening is structural, how much framing must be rebuilt, and whether hidden wall damage is found.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-door-opening-framing-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does door opening framing usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost varies with demolition, structural work, and whether the opening needs new framing members or permit-related revisions. A basic opening is less expensive than a load-bearing change, and any surprise damage inside the wall can increase the final price.",
+        "description": "Price depends on whether the opening is structural, how much framing must be rebuilt, and whether hidden wall damage is found."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

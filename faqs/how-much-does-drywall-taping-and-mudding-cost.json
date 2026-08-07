@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does drywall taping and mudding cost?",
+  "description": "Price usually depends on room size, repair work, and finish level, with more seams or damaged walls increasing labor and material costs.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-drywall-taping-and-mudding-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does drywall taping and mudding cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend on room size, ceiling height, the number of seams and corners, and how much repair is needed before finishing. Projects with many repairs, texture matching, or difficult butt joints cost more because they take extra labor and more compound.",
+        "description": "Price usually depends on room size, repair work, and finish level, with more seams or damaged walls increasing labor and material costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

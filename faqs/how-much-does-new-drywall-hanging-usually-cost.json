@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does new drywall hanging usually cost?",
+  "description": "Cost depends on room size, ceiling height, drywall type, and how much finishing is needed. Small rooms cost less than basements or full-home projects, and tapin",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-new-drywall-hanging-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does new drywall hanging usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing depends on room size, drywall type, ceiling height, and finish level, so the same job can vary quite a bit. A small room is usually cheaper per project than a full basement or whole-home install, and finishing work adds to the total because hanging is only one part of the job.",
+        "description": "Cost depends on room size, ceiling height, drywall type, and how much finishing is needed. Small rooms cost less than basements or full-home projects, and taping and sanding add to the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

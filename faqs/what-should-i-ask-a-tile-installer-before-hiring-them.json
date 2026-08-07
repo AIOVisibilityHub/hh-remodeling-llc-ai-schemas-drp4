@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask a tile installer before hiring them?",
+  "description": "Ask for similar project photos, a detailed written quote, and an explanation of prep, waterproofing, and layout. Those answers reveal whether the installer is p",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-a-tile-installer-before-hiring-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask a tile installer before hiring them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask for proof of similar completed projects, clear scope details, and a written quote that includes prep, materials, grout, and cleanup. It also helps to ask how they handle uneven surfaces, moisture issues, and layout decisions.",
+        "description": "Ask for similar project photos, a detailed written quote, and an explanation of prep, waterproofing, and layout. Those answers reveal whether the installer is prepared for your job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does ceramic tile installation usually take?",
+  "description": "A small tile job may take a day or two, but prep and curing often add time. Larger rooms, repairs, or waterproofing can extend the schedule.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-ceramic-tile-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does ceramic tile installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on room size, prep needs, and cure times. Even a small project may take more than one day because mortar and grout need drying time, and larger or more complex jobs can take several days.",
+        "description": "A small tile job may take a day or two, but prep and curing often add time. Larger rooms, repairs, or waterproofing can extend the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

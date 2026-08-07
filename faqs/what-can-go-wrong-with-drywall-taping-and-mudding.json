@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with drywall taping and mudding?",
+  "description": "Common failures are bubbles, cracks, and visible seams, usually from poor tape bedding, rushed drying, or bad mud consistency.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-drywall-taping-and-mudding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with drywall taping and mudding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest problems are blistered tape, visible seams, cracking, and excess sanding dust that can weaken the finish. These usually happen when the mud is too wet or too dry, the tape is not embedded well, or the coats are rushed before the previous layer dries.",
+        "description": "Common failures are bubbles, cracks, and visible seams, usually from poor tape bedding, rushed drying, or bad mud consistency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

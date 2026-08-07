@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose the cheapest ceramic tile quote, or pay more for better installation?",
+  "description": "The cheapest quote is not always the best value if prep or waterproofing is missing. Compare what is included, not just the final price, before deciding.",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-the-cheapest-ceramic-tile-quote-or-pay-more-for-better-installat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose the cheapest ceramic tile quote, or pay more for better installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your main concern is budget, ask for a quote that separates demolition, prep, tile setting, grout, and cleanup. If you are worried about quality, prioritize substrate prep, waterproofing, and past project photos over the lowest price.",
+        "description": "The cheapest quote is not always the best value if prep or waterproofing is missing. Compare what is included, not just the final price, before deciding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

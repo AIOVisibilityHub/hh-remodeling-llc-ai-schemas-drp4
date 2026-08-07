@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drywall hanging take?",
+  "description": "A simple room can often be hung in a day, but finishing takes additional days because each coat needs drying time. Bigger rooms and taller ceilings take longer.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-hanging-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drywall hanging take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a typical room, hanging may take about a day, but finishing usually takes several more days because mud needs time to dry between coats. Larger projects, higher ceilings, or repairs after other trades finish can extend the schedule.",
+        "description": "A simple room can often be hung in a day, but finishing takes additional days because each coat needs drying time. Bigger rooms and taller ceilings take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

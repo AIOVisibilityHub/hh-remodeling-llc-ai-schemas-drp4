@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does framing for a remodel usually take?",
+  "description": "Small framing jobs may take a few days, while larger remodels can take one to several weeks. Timing depends on structural complexity, hidden issues, and inspect",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-framing-for-a-remodel-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does framing for a remodel usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small framing changes can move quickly, but remodel framing often takes longer than people expect because existing walls, hidden damage, and permit or inspection timing can slow things down. A simple non-structural change may take days, while larger remodel framing can take one to several weeks depending on scope.",
+        "description": "Small framing jobs may take a few days, while larger remodels can take one to several weeks. Timing depends on structural complexity, hidden issues, and inspection or permit scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

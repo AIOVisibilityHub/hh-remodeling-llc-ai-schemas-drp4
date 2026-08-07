@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is framing in a remodel, and what does it actually include?",
+  "description": "Framing is the structural work behind your remodel—studs, headers, joists, beams, and wall openings. It creates the shape and support for the new layout before",
+  "url": "http://coloradoremodeling.company/faq/what-is-framing-in-a-remodel-and-what-does-it-actually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is framing in a remodel, and what does it actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Framing for a remodel means rebuilding or modifying the structural “skeleton” behind walls, ceilings, floors, and openings so the new layout is supported correctly. In a remodel, it often includes adding or moving studs, headers, joists, beams, and wall openings to match the updated design.",
+        "description": "Framing is the structural work behind your remodel—studs, headers, joists, beams, and wall openings. It creates the shape and support for the new layout before drywall, insulation, and finishes go in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

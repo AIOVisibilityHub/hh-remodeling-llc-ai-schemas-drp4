@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does window opening framing usually take?",
+  "description": "Simple framing can be quick, but structural changes, repairs, and permits can add time. The schedule is usually driven by wall condition, header work, and inspe",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-window-opening-framing-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does window opening framing usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline depends on whether you are simply framing a planned opening or modifying an existing wall. A straightforward framing job can move quickly, but adding a header, correcting damage, or working around utilities usually adds time. In practice, permitting and inspection timing can matter as much as the carpentry itself.",
+        "description": "Simple framing can be quick, but structural changes, repairs, and permits can add time. The schedule is usually driven by wall condition, header work, and inspection timing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I want to cut in a new window opening—what do I need to do first?",
+  "description": "Start with the rough opening size, wall structure, and permit check before ordering the window. If the wall is load-bearing or the opening is new or resized, fr",
+  "url": "http://coloradoremodeling.company/faq/i-want-to-cut-in-a-new-window-opening-what-do-i-need-to-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I want to cut in a new window opening—what do I need to do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re opening a new window or changing the size of an existing one, the framing has to be sized to the exact rough opening before the window is ordered. In Denver, that work may also trigger a permit when you create a new opening or resize an existing one. A contractor should verify the wall type, header size, and whether the opening is load-bearing before any demo starts.",
+        "description": "Start with the rough opening size, wall structure, and permit check before ordering the window. If the wall is load-bearing or the opening is new or resized, framing needs to be planned before demo."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect the finished patch to look like?",
+  "description": "A solid repair should be flat, smooth, and hard to notice once painted, especially under normal room lighting.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-expect-the-finished-patch-to-look-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect the finished patch to look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good repair should leave the wall flat, the seam hard to spot, and the paint match close enough that the fix does not stand out in normal light. For larger or textured walls, the finish is usually more important than the patch itself because texture matching determines how invisible it looks.",
+        "description": "A solid repair should be flat, smooth, and hard to notice once painted, especially under normal room lighting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

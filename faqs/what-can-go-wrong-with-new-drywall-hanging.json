@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with new drywall hanging?",
+  "description": "Common problems include wavy walls, visible seams, screw pops, and cracked corners. These issues usually come from poor framing, bad fastening, or weak prep bef",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-new-drywall-hanging",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with new drywall hanging?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the wall is not flat, the studs are out of alignment, or there are existing repairs, the finished surface can show waves, seams, or cracks later. Other common issues are screw pops, damaged corners, and poor cuts around outlets or openings, especially if the room was not prepared carefully.",
+        "description": "Common problems include wavy walls, visible seams, screw pops, and cracked corners. These issues usually come from poor framing, bad fastening, or weak prep before hanging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

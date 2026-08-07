@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for partition wall framing in Denver or nearby suburbs?",
+  "description": "Local permit rules can change based on whether the wall is structural or involves utilities. In the Denver metro area, it’s smart to verify requirements before",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-partition-wall-framing-in-denver-or-nearby-suburbs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for partition wall framing in Denver or nearby suburbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key local issue is whether your project changes the floor plan or involves structural work. A simple non-load-bearing partition may be straightforward, but anything involving load-bearing changes or utilities needs a closer permit and inspection check.",
+        "description": "Local permit rules can change based on whether the wall is structural or involves utilities. In the Denver metro area, it’s smart to verify requirements before framing begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

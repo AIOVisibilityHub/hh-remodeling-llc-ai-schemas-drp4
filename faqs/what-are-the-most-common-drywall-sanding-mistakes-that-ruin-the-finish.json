@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the most common drywall sanding mistakes that ruin the finish?",
+  "description": "Common mistakes include sanding too early, pressing too hard, and trying to fix deep flaws only with sandpaper. Use light passes, inspect often, and patch probl",
+  "url": "http://coloradoremodeling.company/faq/what-are-the-most-common-drywall-sanding-mistakes-that-ruin-the-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common drywall sanding mistakes that ruin the finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest mistakes are sanding before the mud dries, using too much pressure, skipping corner tools, and trying to sand out deep flaws instead of filling them first. A good finish comes from multiple light passes, careful inspection between passes, and touch-ups where needed.",
+        "description": "Common mistakes include sanding too early, pressing too hard, and trying to fix deep flaws only with sandpaper. Use light passes, inspect often, and patch problem spots before sanding again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

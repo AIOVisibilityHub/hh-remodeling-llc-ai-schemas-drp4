@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can damaged wall or ceiling texture be fixed, or does the drywall need to be replaced?",
+  "description": "If the drywall is still solid and dry, texture can usually be repaired; replacement is only needed when the board is badly damaged or unstable.",
+  "url": "http://coloradoremodeling.company/faq/can-damaged-wall-or-ceiling-texture-be-fixed-or-does-the-drywall-need-to-be-repl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can damaged wall or ceiling texture be fixed, or does the drywall need to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most drywall texture damage can be repaired if the underlying drywall is stable and dry. The key question is whether the issue is only cosmetic or if there is water damage, loose material, or structural cracking underneath. In homes around Denver, Centennial, Greenwood Village, Foxfield, and Parker, a proper inspection matters because texture repair only lasts if the base repair is sound.",
+        "description": "If the drywall is still solid and dry, texture can usually be repaired; replacement is only needed when the board is badly damaged or unstable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is drywall texture repair something I can DIY, or should I hire a pro?",
+  "description": "Tiny holes can be DIY-friendly, but texture matching is easy to get wrong. Hire a pro for ceilings, larger patches, or any repair that needs to blend invisibly.",
+  "url": "http://coloradoremodeling.company/faq/is-drywall-texture-repair-something-i-can-diy-or-should-i-hire-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is drywall texture repair something I can DIY, or should I hire a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional is usually worth it when the texture is on a ceiling, the pattern is complex, the damage is bigger than a small nail hole, or you need the repair to disappear before selling or repainting. DIY can work for tiny, low-visibility patches, but matching texture cleanly is harder than it looks. If you want the best result in one shot, hire someone who regularly does texture matching rather than general patching only.",
+        "description": "Tiny holes can be DIY-friendly, but texture matching is easy to get wrong. Hire a pro for ceilings, larger patches, or any repair that needs to blend invisibly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

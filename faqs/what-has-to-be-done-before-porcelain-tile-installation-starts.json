@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What has to be done before porcelain tile installation starts?",
+  "description": "Before installation, the floor needs to be measured, checked for level, and prepared with the right underlayment or membrane. Good prep is what keeps porcelain",
+  "url": "http://coloradoremodeling.company/faq/what-has-to-be-done-before-porcelain-tile-installation-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What has to be done before porcelain tile installation starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most porcelain tile projects should start with a subfloor check, layout planning, and moisture review before any tile is set. A contractor should measure carefully, confirm the floor is level enough, and decide whether a backer board or uncoupling membrane is needed before installation begins. Skipping that prep can lead to cracked tile, lippage, or hollow spots later.",
+        "description": "Before installation, the floor needs to be measured, checked for level, and prepared with the right underlayment or membrane. Good prep is what keeps porcelain from cracking or shifting later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

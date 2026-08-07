@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for window opening framing in Denver or nearby suburbs?",
+  "description": "New or resized window openings usually need a permit in Denver. Replacement of an unchanged frame may not, but nearby cities may have different rules.",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-window-opening-framing-in-denver-or-nearby-suburbs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for window opening framing in Denver or nearby suburbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Denver requires permits for new window installations and for projects that create or resize openings, while simple frame replacement may not require one unless the property is historic or otherwise restricted. Nearby cities can have their own rules, so it’s smart to confirm with the local jurisdiction before work begins. A contractor familiar with the area can usually help identify whether permitting is likely.",
+        "description": "New or resized window openings usually need a permit in Denver. Replacement of an unchanged frame may not, but nearby cities may have different rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

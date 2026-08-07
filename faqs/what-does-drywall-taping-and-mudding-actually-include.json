@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does drywall taping and mudding actually include?",
+  "description": "It means embedding tape in joint compound, then adding more coats over seams, corners, and fasteners until the wall is smooth enough for paint.",
+  "url": "http://coloradoremodeling.company/faq/what-does-drywall-taping-and-mudding-actually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does drywall taping and mudding actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall taping and mudding is the process of covering seams, corners, and screw holes with joint compound and tape so the wall becomes smooth enough to paint. The usual workflow is to bed the tape in wet mud, let it dry, then apply additional coats to build a flatter finish.",
+        "description": "It means embedding tape in joint compound, then adding more coats over seams, corners, and fasteners until the wall is smooth enough for paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

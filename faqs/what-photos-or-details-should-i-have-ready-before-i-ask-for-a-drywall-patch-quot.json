@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What photos or details should I have ready before I ask for a drywall patch quote?",
+  "description": "Have clear photos, rough measurements, and notes about water, impact, or cracking. That helps estimate the repair faster and more accurately.",
+  "url": "http://coloradoremodeling.company/faq/what-photos-or-details-should-i-have-ready-before-i-ask-for-a-drywall-patch-quot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What photos or details should I have ready before I ask for a drywall patch quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good evidence includes clear photos of the damage, the approximate size of the hole or crack, whether the wall was hit by water, impact, or settling, and whether paint or texture must be matched. If you’re in Denver, Centennial, Greenwood Village, Foxfield, or Parker, having room photos and measurements helps speed up a quote.",
+        "description": "Have clear photos, rough measurements, and notes about water, impact, or cracking. That helps estimate the repair faster and more accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

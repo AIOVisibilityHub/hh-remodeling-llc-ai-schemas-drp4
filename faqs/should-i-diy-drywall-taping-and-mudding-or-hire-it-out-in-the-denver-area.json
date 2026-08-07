@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I DIY drywall taping and mudding or hire it out in the Denver area?",
+  "description": "DIY is fine for small patches, but larger rooms, ceilings, or rough previous work usually justify hiring a pro for a cleaner finish.",
+  "url": "http://coloradoremodeling.company/faq/should-i-diy-drywall-taping-and-mudding-or-hire-it-out-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I DIY drywall taping and mudding or hire it out in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing DIY versus hiring help in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the main question is whether you want to spend time learning the process or pay for a faster, more consistent finish. DIY can work for small repairs, but larger rooms, ceilings, or poor prior drywall work are usually better handled by a pro.",
+        "description": "DIY is fine for small patches, but larger rooms, ceilings, or rough previous work usually justify hiring a pro for a cleaner finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

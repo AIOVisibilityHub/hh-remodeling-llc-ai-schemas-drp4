@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if my drywall looks rough or uneven after mudding?",
+  "description": "Check the high spots, seams, corners, and screw holes first. Sand light imperfections, but if a section is deeply uneven, add more joint compound and sand again",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-my-drywall-looks-rough-or-uneven-after-mudding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if my drywall looks rough or uneven after mudding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by checking the seams, corners, screw holes, and any high spots, then sand the roughest areas first and finish with lighter passes. If an area is deeply uneven, add a thin coat of mud instead of trying to force it flat with sandpaper.",
+        "description": "Check the high spots, seams, corners, and screw holes first. Sand light imperfections, but if a section is deeply uneven, add more joint compound and sand again after it dries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

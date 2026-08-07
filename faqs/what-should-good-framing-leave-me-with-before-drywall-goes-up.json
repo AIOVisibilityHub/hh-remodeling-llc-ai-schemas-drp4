@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should good framing leave me with before drywall goes up?",
+  "description": "Good framing leaves a square, level, structurally sound shell that matches the new layout. It should be ready for rough-ins, insulation, and drywall without ext",
+  "url": "http://coloradoremodeling.company/faq/what-should-good-framing-leave-me-with-before-drywall-goes-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should good framing leave me with before drywall goes up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The outcome should be a straight, structurally sound frame that matches the new layout and is ready for insulation, drywall, and finish work. When framing is done well, the rest of the remodel moves faster because other trades can work from a stable, accurate structure.",
+        "description": "Good framing leaves a square, level, structurally sound shell that matches the new layout. It should be ready for rough-ins, insulation, and drywall without extra rework."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

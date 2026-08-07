@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drywall patching usually take?",
+  "description": "Tiny repairs can be quick, but larger patches usually take 1–2 days because each coat needs time to dry.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-patching-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drywall patching usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small repairs can often be finished the same day, but compound drying time usually pushes larger patches into a 1–2 day project or longer if multiple coats are needed. In Denver-area homes, cooler indoor conditions or humidity from leaks can slow drying.",
+        "description": "Tiny repairs can be quick, but larger patches usually take 1–2 days because each coat needs time to dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

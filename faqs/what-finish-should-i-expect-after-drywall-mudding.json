@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What finish should I expect after drywall mudding?",
+  "description": "Expect a paint-ready wall that looks smooth in normal light, though stronger lighting will reveal whether the finish was done carefully.",
+  "url": "http://coloradoremodeling.company/faq/what-finish-should-i-expect-after-drywall-mudding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What finish should I expect after drywall mudding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A smoother finish is better if the wall will be in a bright room or under strong side lighting, because those conditions highlight every seam and imperfection. In low-light areas or utility spaces, a simpler finish may be acceptable if the surface is still flat and paint-ready.",
+        "description": "Expect a paint-ready wall that looks smooth in normal light, though stronger lighting will reveal whether the finish was done carefully."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is drywall patching really worth paying for, or should I just fix it myself?",
+  "description": "If it’s a tiny cosmetic ding, DIY may be enough. For larger, textured, or water-related damage, paying for a clean finish is usually worth it.",
+  "url": "http://coloradoremodeling.company/faq/is-drywall-patching-really-worth-paying-for-or-should-i-just-fix-it-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is drywall patching really worth paying for, or should I just fix it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main objection is usually cost versus doing it yourself, but the real tradeoff is finish quality and time. If the damage is small and you already have tools, DIY can be reasonable; if you want the repair to blend cleanly or you’re dealing with texture, cracks, or water damage, professional patching is usually the safer choice.",
+        "description": "If it’s a tiny cosmetic ding, DIY may be enough. For larger, textured, or water-related damage, paying for a clean finish is usually worth it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

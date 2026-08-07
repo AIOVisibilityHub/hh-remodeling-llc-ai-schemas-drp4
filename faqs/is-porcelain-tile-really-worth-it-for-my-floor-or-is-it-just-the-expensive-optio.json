@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is porcelain tile really worth it for my floor, or is it just the expensive option everyone pushes?",
+  "description": "Yes—porcelain is usually worth it for busy, moisture-prone areas because it’s durable and low-maintenance. The key is proper surface prep and installation, not",
+  "url": "http://coloradoremodeling.company/faq/is-porcelain-tile-really-worth-it-for-my-floor-or-is-it-just-the-expensive-optio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is porcelain tile really worth it for my floor, or is it just the expensive option everyone pushes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porcelain tile is a strong choice for floors, showers, and high-traffic areas because it is dense, durable, and moisture-resistant. If your space gets heavy use or you want a low-maintenance surface, porcelain usually performs better than many softer materials. A proper installation still matters just as much as the tile itself, especially on uneven subfloors or in bathrooms.",
+        "description": "Yes—porcelain is usually worth it for busy, moisture-prone areas because it’s durable and low-maintenance. The key is proper surface prep and installation, not just buying a good tile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to change a door opening in Denver?",
+  "description": "Yes, Denver requires permits for adding or resizing a doorway, so check permit rules before changing the opening.",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-to-change-a-door-opening-in-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to change a door opening in Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For projects in Denver, permit requirements can apply when you are adding, resizing, or removing interior or exterior doorways. In surrounding areas like Centennial, Greenwood Village, Foxfield, and Parker, the right next step is to confirm local permit rules before cutting into the wall so the framing and inspection path is clear.",
+        "description": "Yes, Denver requires permits for adding or resizing a doorway, so check permit rules before changing the opening."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does framing for a remodel cost in the Denver area?",
+  "description": "Framing costs vary a lot based on wall changes, structural complexity, materials, and labor rates. In the Denver area, the biggest price swings usually come fro",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-framing-for-a-remodel-cost-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does framing for a remodel cost in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size of the remodel, whether walls are load-bearing, the materials used, and local labor rates in places like Denver, Centennial, Greenwood Village, Foxfield, and Parker. Framing can look affordable at first, but hidden repairs, code-related changes, and rerouting other systems often change the final price.",
+        "description": "Framing costs vary a lot based on wall changes, structural complexity, materials, and labor rates. In the Denver area, the biggest price swings usually come from load-bearing work and hidden repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

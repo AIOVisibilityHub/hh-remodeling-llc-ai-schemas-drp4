@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drywall sanding and why does it matter before painting?",
+  "description": "Drywall sanding levels joint compound, removes ridges, and preps the wall for primer and paint. It should be done only after the mud is fully dry so you do not",
+  "url": "http://coloradoremodeling.company/faq/what-is-drywall-sanding-and-why-does-it-matter-before-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drywall sanding and why does it matter before painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall sanding is the step that levels joint compound, removes ridges, and creates a smooth surface ready for primer and paint. For best results, sanding should be done only after the mud is fully dry, because sanding too early can gouge the finish and create more repair work.",
+        "description": "Drywall sanding levels joint compound, removes ridges, and preps the wall for primer and paint. It should be done only after the mud is fully dry so you do not gouge the surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

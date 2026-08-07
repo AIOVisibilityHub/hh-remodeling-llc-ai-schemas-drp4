@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with ceramic tile installation if the prep is bad?",
+  "description": "Bad prep can lead to cracked, loose, uneven, or water-damaged tile. Moisture control and substrate stability are the main things to verify before work starts.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-ceramic-tile-installation-if-the-prep-is-bad",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with ceramic tile installation if the prep is bad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are cracks, loose tiles, lippage, water intrusion, and grout problems caused by poor prep or rushed curing. In Denver-area homes, moisture and subfloor conditions deserve extra attention, especially in basements and bathrooms.",
+        "description": "Bad prep can lead to cracked, loose, uneven, or water-damaged tile. Moisture control and substrate stability are the main things to verify before work starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

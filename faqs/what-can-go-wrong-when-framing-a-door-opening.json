@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when framing a door opening?",
+  "description": "Common problems are a wrong rough opening, poor support framing, and doors that don’t fit or close properly.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-framing-a-door-opening",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when framing a door opening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is undersizing the rough opening or building the header incorrectly, which can lead to a door that won’t hang square or a wall that isn’t properly supported. You also want to avoid framing before confirming the door specs, because even small measurement errors can cause delays and rework.",
+        "description": "Common problems are a wrong rough opening, poor support framing, and doors that don’t fit or close properly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I request a drywall hanging estimate?",
+  "description": "Have room measurements, ceiling height, openings, drywall type, and whether you want finishing included. Photos of the framing and a clear timeline help produce",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-i-request-a-drywall-hanging-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I request a drywall hanging estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For projects in Denver and nearby areas like Centennial, Greenwood Village, Foxfield, and Parker, the most useful information is the room dimensions, ceiling height, number of openings, drywall type needed, and whether finishing is included. If you have photos of the framing and a clear timeline, it is much easier to get an accurate estimate and schedule.",
+        "description": "Have room measurements, ceiling height, openings, drywall type, and whether you want finishing included. Photos of the framing and a clear timeline help produce a better estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is a door opening framed from start to finish?",
+  "description": "Framing a door opening means building a rough opening with a header and support studs, then sizing it so the door unit can be installed and shimmed correctly.",
+  "url": "http://coloradoremodeling.company/faq/how-is-a-door-opening-framed-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is a door opening framed from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A proper door opening frame starts with the rough opening, then the header, king studs, and jack studs are set so the doorway can carry the load above it. For a standard prehung door, the rough opening is generally larger than the door slab so there is room for the jamb and shimming, but the exact size should be verified before construction.",
+        "description": "Framing a door opening means building a rough opening with a header and support studs, then sizing it so the door unit can be installed and shimmed correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

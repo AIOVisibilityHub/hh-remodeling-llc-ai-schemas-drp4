@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does drywall patching usually cost?",
+  "description": "Price depends on hole size, texture matching, and painting. Small cosmetic patches cost far less than large repairs or water-damage fixes.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-drywall-patching-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does drywall patching usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size of the damage, whether texture matching is needed, and whether painting is included. Small cosmetic fixes are usually much cheaper than replacing a larger section, especially if the repair also has to address water damage or framing issues.",
+        "description": "Price depends on hole size, texture matching, and painting. Small cosmetic patches cost far less than large repairs or water-damage fixes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
