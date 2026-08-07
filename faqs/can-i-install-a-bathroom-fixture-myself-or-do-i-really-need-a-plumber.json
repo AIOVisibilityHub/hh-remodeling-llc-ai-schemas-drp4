@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install a bathroom fixture myself, or do I really need a plumber?",
+  "description": "If it’s a simple like-for-like swap, DIY may be possible. For toilets, sinks, showers, tubs, or anything involving supply lines and seals, professional installa",
+  "url": "http://coloradoremodeling.company/faq/can-i-install-a-bathroom-fixture-myself-or-do-i-really-need-a-plumber",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install a bathroom fixture myself, or do I really need a plumber?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually do if the fixture involves water lines, drainage, wall-mounted parts, or anything that must be sealed tightly against leaks. Simple swaps can look easy, but a bad connection can cause hidden water damage, so professional installation is the safer choice for most bathroom fixtures.",
+        "description": "If it’s a simple like-for-like swap, DIY may be possible. For toilets, sinks, showers, tubs, or anything involving supply lines and seals, professional installation is usually safer to avoid leaks and damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

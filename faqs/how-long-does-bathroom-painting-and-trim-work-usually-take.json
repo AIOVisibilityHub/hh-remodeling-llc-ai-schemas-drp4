@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does bathroom painting and trim work usually take?",
+  "description": "A simple bathroom paint-and-trim job often takes 1–2 days, but repairs, prep, or cabinet work can extend the timeline.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-bathroom-painting-and-trim-work-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does bathroom painting and trim work usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the bathroom is dry and the surfaces are in decent shape, many projects can be completed in **one to two days**. More time may be needed if there is drywall repair, peeling paint, damaged trim, or cabinet refinishing.",
+        "description": "A simple bathroom paint-and-trim job often takes 1–2 days, but repairs, prep, or cabinet work can extend the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

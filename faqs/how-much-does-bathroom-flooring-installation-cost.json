@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does bathroom flooring installation cost?",
+  "description": "Price varies by material, bathroom size, and prep work. Subfloor repairs, removal, and waterproofing can increase the total more than the flooring itself.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-flooring-installation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does bathroom flooring installation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the flooring material, the size of the bathroom, and how much prep work is required underneath the surface. Bathrooms with water damage, old tile removal, or subfloor repair cost more than a basic replacement. In the Denver metro, it is smart to compare quotes based on both materials and labor so you can see what is included.",
+        "description": "Price varies by material, bathroom size, and prep work. Subfloor repairs, removal, and waterproofing can increase the total more than the flooring itself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

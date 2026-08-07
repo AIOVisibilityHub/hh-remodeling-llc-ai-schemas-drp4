@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does bathroom vanity installation usually take?",
+  "description": "Most vanity installs take a few hours to a full day, depending on plumbing changes, removal work, and whether the countertop or sink needs fitting.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-bathroom-vanity-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does bathroom vanity installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard bathroom vanity installation usually takes **a few hours to a full day**, depending on whether the old vanity must be removed, plumbing needs to be adjusted, or the new top and sink need fitting. If you want a faster turnaround in Denver, Centennial, Greenwood Village, Foxfield, or Parker, have the vanity, top, sink, and faucet ready before the installer arrives. A simple swap is often quicker than a full custom setup.",
+        "description": "Most vanity installs take a few hours to a full day, depending on plumbing changes, removal work, and whether the countertop or sink needs fitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

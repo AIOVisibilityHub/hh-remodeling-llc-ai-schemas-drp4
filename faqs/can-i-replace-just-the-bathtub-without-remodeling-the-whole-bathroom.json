@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I replace just the bathtub without remodeling the whole bathroom?",
+  "description": "Yes. If the existing layout and structure are in good shape, you can often replace only the tub. Surround damage or waterproofing problems may require more work",
+  "url": "http://coloradoremodeling.company/faq/can-i-replace-just-the-bathtub-without-remodeling-the-whole-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I replace just the bathtub without remodeling the whole bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many cases an old tub can be replaced without a full bathroom remodel. The installer removes the existing tub, checks the plumbing and framing, and fits the new unit into the same footprint when the structure is sound. If the wall surround or waterproofing is failing, replacing those parts at the same time is usually the better long-term choice.",
+        "description": "Yes. If the existing layout and structure are in good shape, you can often replace only the tub. Surround damage or waterproofing problems may require more work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

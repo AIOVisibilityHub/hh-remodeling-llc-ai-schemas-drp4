@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does bathroom tile installation take from start to finish?",
+  "description": "A simple bathroom tile project may take a few days, but showers and full remodels often take longer. Drying time, waterproofing, and demolition are usually what",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-bathroom-tile-installation-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does bathroom tile installation take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most small bathroom tile jobs take a few days, while full shower or bathroom tile projects can take longer if demolition, drying time, or waterproofing steps are needed. If the project includes stone fabrication or complex patterns, the timeline usually extends further.",
+        "description": "A simple bathroom tile project may take a few days, but showers and full remodels often take longer. Drying time, waterproofing, and demolition are usually what stretch the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

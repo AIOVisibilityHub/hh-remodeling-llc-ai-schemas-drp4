@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if the bathroom floor underneath is damaged?",
+  "description": "Hidden damage can make a new floor fail fast. Soft spots, mold smell, or uneven areas usually mean the subfloor needs repair first.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-the-bathroom-floor-underneath-is-damaged",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if the bathroom floor underneath is damaged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest red flags are **soft spots**, moldy smells, cracked tile, peeling vinyl, and floors that feel uneven or bounce when you walk on them. Those symptoms often mean the subfloor has water damage or movement that should be fixed before new flooring goes in. If those issues are ignored, the new floor can fail early even if the surface looks good at first.",
+        "description": "Hidden damage can make a new floor fail fast. Soft spots, mold smell, or uneven areas usually mean the subfloor needs repair first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

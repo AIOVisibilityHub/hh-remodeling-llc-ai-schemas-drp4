@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if a vanity will fit my bathroom?",
+  "description": "Measure width, depth, height, and plumbing locations before buying; clearance around doors and traffic flow matters too.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-vanity-will-fit-my-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if a vanity will fit my bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the new vanity’s width, depth, height, and plumbing cutouts fit your bathroom layout. Measure the space, note the drain and supply locations, and check door swing and walking clearance before ordering. If you are replacing an older vanity in Denver, Centennial, Greenwood Village, Foxfield, or Parker, a quick site check can prevent costly returns or modification work.",
+        "description": "Measure width, depth, height, and plumbing locations before buying; clearance around doors and traffic flow matters too."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

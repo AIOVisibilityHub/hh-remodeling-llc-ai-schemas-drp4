@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do older homes in Denver-area neighborhoods need special plumbing checks before fixture installation?",
+  "description": "Older homes often need extra checks for old valves, drains, and fittings before a new bathroom fixture goes in. That helps prevent leaks and compatibility probl",
+  "url": "http://coloradoremodeling.company/faq/do-older-homes-in-denver-area-neighborhoods-need-special-plumbing-checks-before",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do older homes in Denver-area neighborhoods need special plumbing checks before fixture installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, older bathrooms often need extra attention because shutoff valves, drain assemblies, and mounting surfaces may be worn out or nonstandard. If the fixture is installed in an older Denver, Centennial, or Greenwood Village home, the plumber may need to replace support parts before the new fixture can be set properly.",
+        "description": "Older homes often need extra checks for old valves, drains, and fittings before a new bathroom fixture goes in. That helps prevent leaks and compatibility problems after installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

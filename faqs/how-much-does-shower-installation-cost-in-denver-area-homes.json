@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does shower installation cost in Denver-area homes?",
+  "description": "Price depends on the shower type, plumbing, waterproofing, tile, and glass. Custom or walk-in designs cost more than a basic replacement.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-shower-installation-cost-in-denver-area-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does shower installation cost in Denver-area homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary based on whether you choose a basic prefabricated shower, a tile shower, or a custom walk-in or curbless design. In the Denver area, walk-in shower projects can range widely, so the final price depends on demolition, waterproofing, plumbing, tile, and glass choices.",
+        "description": "Price depends on the shower type, plumbing, waterproofing, tile, and glass. Custom or walk-in designs cost more than a basic replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

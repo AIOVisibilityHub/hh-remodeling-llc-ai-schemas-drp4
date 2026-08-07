@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong during vanity installation?",
+  "description": "Leaks, crooked cabinets, bad plumbing alignment, and floor damage are the most common problems during installation.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-vanity-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong during vanity installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are **water leaks**, uneven installation, damaged flooring, and a vanity that does not line up with the plumbing. If the cabinet sits crooked or the sink and faucet are not sealed correctly, you can end up with hidden moisture damage later. A careful installer will level the cabinet, seal contact points, and test the plumbing before finishing.",
+        "description": "Leaks, crooked cabinets, bad plumbing alignment, and floor damage are the most common problems during installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

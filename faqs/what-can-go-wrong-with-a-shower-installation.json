@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with a shower installation?",
+  "description": "Leaks, bad waterproofing, and poor drain slope are the biggest risks. Hidden plumbing issues can also increase cost and delay the job.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-shower-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with a shower installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are leaks, poor waterproofing, bad shower pan slope, and hidden plumbing problems behind the walls. These issues can cause expensive damage later, so it is worth choosing a contractor who explains exactly how the shower will be sealed and drained.",
+        "description": "Leaks, bad waterproofing, and poor drain slope are the biggest risks. Hidden plumbing issues can also increase cost and delay the job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a local bathroom tile installer in the Denver south metro area?",
+  "description": "A local installer can usually get to your home faster and handle estimates and scheduling more easily. That is especially helpful if your project has a tight ti",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-local-bathroom-tile-installer-in-the-denver-south-metro-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a local bathroom tile installer in the Denver south metro area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, a local installer can usually respond faster and is more familiar with the area’s homes and remodeling patterns. That matters most if you need an on-site estimate, a tight schedule, or coordinated work with other trades.",
+        "description": "A local installer can usually get to your home faster and handle estimates and scheduling more easily. That is especially helpful if your project has a tight timeline or needs multiple visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

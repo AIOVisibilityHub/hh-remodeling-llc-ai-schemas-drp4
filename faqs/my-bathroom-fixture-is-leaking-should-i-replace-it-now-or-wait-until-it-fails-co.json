@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My bathroom fixture is leaking — should I replace it now or wait until it fails completely?",
+  "description": "If it’s leaking, replace it sooner rather than later. Small leaks can turn into bigger water damage, and a failing fixture usually gets more expensive if you wa",
+  "url": "http://coloradoremodeling.company/faq/my-bathroom-fixture-is-leaking-should-i-replace-it-now-or-wait-until-it-fails-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My bathroom fixture is leaking — should I replace it now or wait until it fails completely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the best time to call is as soon as you know the fixture is damaged, leaking, outdated, or being replaced during a remodel. Waiting can turn a small upgrade into a bigger repair if a leak starts or hidden corrosion spreads.",
+        "description": "If it’s leaking, replace it sooner rather than later. Small leaks can turn into bigger water damage, and a failing fixture usually gets more expensive if you wait."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

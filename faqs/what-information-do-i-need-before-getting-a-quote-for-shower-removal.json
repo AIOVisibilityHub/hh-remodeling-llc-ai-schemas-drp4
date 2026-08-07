@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before getting a quote for shower removal?",
+  "description": "Have photos, shower dimensions, damage details, and your replacement goal ready so the estimate is more accurate.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-quote-for-shower-removal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before getting a quote for shower removal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need a clear idea of the shower size, the current materials, and whether you want a replacement, a tub-to-shower conversion, or just demolition. Photos of the shower, any leak history, and notes about plumbing access help a contractor give a more accurate estimate.",
+        "description": "Have photos, shower dimensions, damage details, and your replacement goal ready so the estimate is more accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

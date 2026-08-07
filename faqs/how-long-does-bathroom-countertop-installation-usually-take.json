@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does bathroom countertop installation usually take?",
+  "description": "Most projects finish within a week after templating, and install time is often 1–2 hours per vanity. Custom or complex jobs can take longer.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-bathroom-countertop-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does bathroom countertop installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most bathroom countertop projects in the Denver area are completed within about 5–7 business days after templating, with installation itself often taking 1–2 hours per vanity. Larger or custom jobs can take longer if the material is special-order, the layout is complex, or plumbing adjustments are needed.",
+        "description": "Most projects finish within a week after templating, and install time is often 1–2 hours per vanity. Custom or complex jobs can take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

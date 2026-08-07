@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is shower removal the right call instead of just repairing the shower?",
+  "description": "Remove the shower when leaks, mold, cracks, or a failing pan suggest the damage is bigger than a surface repair.",
+  "url": "http://coloradoremodeling.company/faq/when-is-shower-removal-the-right-call-instead-of-just-repairing-the-shower",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is shower removal the right call instead of just repairing the shower?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect leaks, soft walls, mold, cracked tile, or a failing shower pan, remove the shower sooner rather than later. Hidden water damage can spread behind the walls and turn a simple removal into a larger restoration job.",
+        "description": "Remove the shower when leaks, mold, cracks, or a failing pan suggest the damage is bigger than a surface repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

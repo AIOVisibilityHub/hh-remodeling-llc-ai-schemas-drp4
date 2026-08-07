@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is my bathroom a good candidate for tile, vinyl, or something else?",
+  "description": "Yes, if the floor can be properly prepped and the material is moisture-safe. Tile and waterproof vinyl are the most common picks because they hold up best in ba",
+  "url": "http://coloradoremodeling.company/faq/is-my-bathroom-a-good-candidate-for-tile-vinyl-or-something-else",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is my bathroom a good candidate for tile, vinyl, or something else?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most bathroom floors are installed with **tile** or **waterproof vinyl** because those materials handle moisture better than standard wood or carpet-style flooring. The best choice depends on whether you want a more durable, premium look or a faster, budget-friendlier install. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the decision often comes down to moisture exposure, comfort, and how much subfloor prep is needed.",
+        "description": "Yes, if the floor can be properly prepped and the material is moisture-safe. Tile and waterproof vinyl are the most common picks because they hold up best in bathrooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

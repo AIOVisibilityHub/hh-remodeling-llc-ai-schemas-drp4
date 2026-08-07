@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does kitchen painting and trim work cost, and what affects the price?",
+  "description": "Price is driven by size, prep, repairs, and finish quality. Painting is usually cheaper than replacement, but detailed trim and cabinet prep can raise the total",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-kitchen-painting-and-trim-work-cost-and-what-affects-the-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does kitchen painting and trim work cost, and what affects the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on cabinet size, trim detail, surface condition, and the level of prep needed. Painting is usually less expensive than replacing cabinets, but it still pays to compare estimates based on prep, materials, and whether doors, drawers, and trim are included.",
+        "description": "Price is driven by size, prep, repairs, and finish quality. Painting is usually cheaper than replacement, but detailed trim and cabinet prep can raise the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

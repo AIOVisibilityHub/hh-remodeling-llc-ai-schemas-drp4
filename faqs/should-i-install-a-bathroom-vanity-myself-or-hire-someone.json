@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I install a bathroom vanity myself or hire someone?",
+  "description": "DIY can work for a simple swap, but pro help is safer when plumbing, countertop fitting, or wall mounting is involved.",
+  "url": "http://coloradoremodeling.company/faq/should-i-install-a-bathroom-vanity-myself-or-hire-someone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I install a bathroom vanity myself or hire someone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often install a vanity yourself if it is a straightforward replacement and the plumbing lines already line up, but many homeowners hire a professional when the project involves countertop fabrication, sink cutouts, wall mounting, or pipe relocation. In the Denver metro area, that is especially common when the bathroom layout is tight or the existing vanity has water damage. If you want fewer surprises, get an on-site estimate before buying materials.",
+        "description": "DIY can work for a simple swap, but pro help is safer when plumbing, countertop fitting, or wall mounting is involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

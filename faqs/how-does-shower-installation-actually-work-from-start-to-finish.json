@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does shower installation actually work from start to finish?",
+  "description": "It usually goes assessment, demo, waterproofing, installation, then glass or doors. Custom tile and plumbing changes make the process more involved.",
+  "url": "http://coloradoremodeling.company/faq/how-does-shower-installation-actually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does shower installation actually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical shower installation starts with a site assessment, then removal of the old shower or tub, preparation of the shower pan and waterproofing, installation of wall surfaces and fixtures, and finally the door or glass. The exact sequence depends on whether the project is prefabricated, tiled, or custom built.",
+        "description": "It usually goes assessment, demo, waterproofing, installation, then glass or doors. Custom tile and plumbing changes make the process more involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

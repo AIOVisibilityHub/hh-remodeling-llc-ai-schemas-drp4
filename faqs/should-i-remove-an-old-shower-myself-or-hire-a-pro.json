@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I remove an old shower myself or hire a pro?",
+  "description": "DIY can work for simple demo, but pros are safer when plumbing, tile, or hidden water damage is involved.",
+  "url": "http://coloradoremodeling.company/faq/should-i-remove-an-old-shower-myself-or-hire-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I remove an old shower myself or hire a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—DIY shower removal can save money, but it is riskier if the shower is tiled, tied into plumbing, or showing signs of water damage. A professional is usually the safer choice when you need disposal, waterproofing, or fast cleanup in an occupied home.",
+        "description": "DIY can work for simple demo, but pros are safer when plumbing, tile, or hidden water damage is involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

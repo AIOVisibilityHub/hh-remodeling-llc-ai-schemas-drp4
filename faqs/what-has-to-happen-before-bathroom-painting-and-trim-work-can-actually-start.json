@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What has to happen before bathroom painting and trim work can actually start?",
+  "description": "Bathrooms need cleaning, repairs, sanding, caulking, and priming before paint goes on, especially because moisture and residue can ruin adhesion.",
+  "url": "http://coloradoremodeling.company/faq/what-has-to-happen-before-bathroom-painting-and-trim-work-can-actually-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What has to happen before bathroom painting and trim work can actually start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bathrooms usually need **special prep** before painting because of moisture, old caulk, soap residue, and small surface flaws. A good contractor will clean, repair, sand, prime, and use paint that holds up better in humid rooms.",
+        "description": "Bathrooms need cleaning, repairs, sanding, caulking, and priming before paint goes on, especially because moisture and residue can ruin adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when removing an old bathtub?",
+  "description": "The main risks are damage to tile, floors, and plumbing. Heavy tubs and tight bathrooms make DIY removal especially risky.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-removing-an-old-bathtub",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when removing an old bathtub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are damage to surrounding tile, drywall, flooring, and plumbing if the tub is removed without the right tools or experience. Cast-iron tubs are especially risky because they are heavy and often need to be cut apart or broken up carefully.",
+        "description": "The main risks are damage to tile, floors, and plumbing. Heavy tubs and tight bathrooms make DIY removal especially risky."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

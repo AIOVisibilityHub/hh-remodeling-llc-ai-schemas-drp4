@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What signs mean my bathroom needs repair before painting?",
+  "description": "Peeling paint, mildew, swelling trim, or damaged drywall usually mean the bathroom needs repair and prep before any painting starts.",
+  "url": "http://coloradoremodeling.company/faq/what-signs-mean-my-bathroom-needs-repair-before-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What signs mean my bathroom needs repair before painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you see peeling paint, swollen trim, soft drywall, or recurring mildew, those issues should be fixed before painting. Painting over them usually hides the problem for a short time and makes the finish fail sooner.",
+        "description": "Peeling paint, mildew, swelling trim, or damaged drywall usually mean the bathroom needs repair and prep before any painting starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

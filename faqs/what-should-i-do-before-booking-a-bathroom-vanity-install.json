@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do before booking a bathroom vanity install?",
+  "description": "Clear the area, shut off water if needed, and collect measurements and photos before you book the job.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-before-booking-a-bathroom-vanity-install",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do before booking a bathroom vanity install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by removing everything under the sink, shutting off the water, and confirming the vanity dimensions and plumbing locations. If you are hiring HH Remodeling LLC in the Denver metro area, have photos of the current vanity, the room width, and any damage so the estimate is more accurate. That helps the team plan for demolition, hauling, and any necessary plumbing adjustments.",
+        "description": "Clear the area, shut off water if needed, and collect measurements and photos before you book the job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

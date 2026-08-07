@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of paint is best for kitchen cabinets and trim?",
+  "description": "Use products made for high-wear surfaces, not standard wall paint. The best finish is usually built from proper prep, primer, and durable topcoats.",
+  "url": "http://coloradoremodeling.company/faq/what-kind-of-paint-is-best-for-kitchen-cabinets-and-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of paint is best for kitchen cabinets and trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not all paint systems hold up equally in kitchens, where moisture, grease, and frequent cleaning are common. The best results usually come from a durable primer, a hard-wearing topcoat, and a surface prep process designed for cabinets and trim, not just walls.",
+        "description": "Use products made for high-wear surfaces, not standard wall paint. The best finish is usually built from proper prep, primer, and durable topcoats."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

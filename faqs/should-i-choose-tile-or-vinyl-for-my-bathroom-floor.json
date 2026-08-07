@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose tile or vinyl for my bathroom floor?",
+  "description": "Tile is usually more durable, while vinyl is often faster and less expensive. The best choice depends on moisture exposure, budget, and how much prep the floor",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-tile-or-vinyl-for-my-bathroom-floor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose tile or vinyl for my bathroom floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing options, focus on **moisture resistance**, maintenance, durability, and how much subfloor prep each material needs. Tile is usually stronger but more labor-intensive, while vinyl is often faster and more forgiving in a busy bathroom. For homeowners in Parker or Greenwood Village, the best choice is often the one that fits the room’s moisture level and your timeline, not just the lowest price.",
+        "description": "Tile is usually more durable, while vinyl is often faster and less expensive. The best choice depends on moisture exposure, budget, and how much prep the floor needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

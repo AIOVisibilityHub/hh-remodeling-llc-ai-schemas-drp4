@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know a shower installer is reputable?",
+  "description": "Ask for a written estimate, photos of past work, and clear details on waterproofing, licensing, and insurance. A vague quote is a warning sign.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-a-shower-installer-is-reputable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know a shower installer is reputable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important proof is a detailed written estimate, before-and-after photos of similar projects, and clear answers about waterproofing, licensing, and insurance. You should also ask who will do the work and what is included in the price so there are no surprises later.",
+        "description": "Ask for a written estimate, photos of past work, and clear details on waterproofing, licensing, and insurance. A vague quote is a warning sign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

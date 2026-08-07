@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a bathroom shower installation usually take?",
+  "description": "Simple replacements can take a few days. Conversions and custom showers take longer, especially if plumbing or materials delay the job.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-bathroom-shower-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a bathroom shower installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a simple shower replacement, the work may take a few days. Tub-to-shower conversions and more customized installations often take longer, especially if materials are backordered or plumbing needs to be changed.",
+        "description": "Simple replacements can take a few days. Conversions and custom showers take longer, especially if plumbing or materials delay the job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

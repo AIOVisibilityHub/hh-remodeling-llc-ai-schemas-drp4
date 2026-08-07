@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I need to know before I schedule bathroom countertop installation?",
+  "description": "Measure the vanity, confirm sink and faucet type, and pick a material before booking. The installer will usually verify dimensions and cutouts during templating",
+  "url": "http://coloradoremodeling.company/faq/what-do-i-need-to-know-before-i-schedule-bathroom-countertop-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I need to know before I schedule bathroom countertop installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by measuring the vanity, sink type, and faucet layout, then choose a material that fits your bathroom use and budget. For bathroom countertop installation in the Denver area, the installer should confirm dimensions, cutouts, edge style, and whether the sink is undermount or drop-in before fabrication begins.",
+        "description": "Measure the vanity, confirm sink and faucet type, and pick a material before booking. The installer will usually verify dimensions and cutouts during templating."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

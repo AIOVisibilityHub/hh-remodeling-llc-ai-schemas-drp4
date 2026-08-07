@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does bathroom tub removal actually work?",
+  "description": "The old tub is disconnected, removed in pieces if needed, and hauled away. If you are replacing it, the space is then prepped for the next fixture.",
+  "url": "http://coloradoremodeling.company/faq/how-does-bathroom-tub-removal-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does bathroom tub removal actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tub removal is typically a demolition-and-haul-away project: the old tub is disconnected, cut or broken up if needed, removed from the room, and disposed of. If you are replacing the tub, the contractor may also prep the opening for a new install or shower conversion.",
+        "description": "The old tub is disconnected, removed in pieces if needed, and hauled away. If you are replacing it, the space is then prepped for the next fixture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

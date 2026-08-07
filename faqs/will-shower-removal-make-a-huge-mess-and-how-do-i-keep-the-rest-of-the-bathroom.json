@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will shower removal make a huge mess, and how do I keep the rest of the bathroom usable?",
+  "description": "Expect some dust and noise, but good prep, containment, and cleanup should keep disruption manageable.",
+  "url": "http://coloradoremodeling.company/faq/will-shower-removal-make-a-huge-mess-and-how-do-i-keep-the-rest-of-the-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will shower removal make a huge mess, and how do I keep the rest of the bathroom usable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your main concern is dust, noise, and losing access to the shower, ask how the crew protects the rest of the bathroom and how long the space will be out of service. A good plan should include containment, cleanup, debris hauling, and a realistic start-to-finish schedule.",
+        "description": "Expect some dust and noise, but good prep, containment, and cleanup should keep disruption manageable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

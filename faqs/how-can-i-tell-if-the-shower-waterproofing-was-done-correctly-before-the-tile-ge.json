@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if the shower waterproofing was done correctly before the tile gets installed?",
+  "description": "A flood test is one of the best checks before tile goes up. If the water level drops, there may be a leak in the pan or drain detail.",
+  "url": "http://coloradoremodeling.company/faq/how-can-i-tell-if-the-shower-waterproofing-was-done-correctly-before-the-tile-ge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if the shower waterproofing was done correctly before the tile gets installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should ask for a flood test on a new or rebuilt shower pan before tile is installed, especially if the project is custom or curbless. The drain is plugged, the pan is filled, and the water level is checked after about 24 hours to help catch leaks early.",
+        "description": "A flood test is one of the best checks before tile goes up. If the water level drops, there may be a leak in the pan or drain detail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

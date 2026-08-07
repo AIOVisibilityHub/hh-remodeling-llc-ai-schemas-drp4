@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I remove the tub, replace it, or just refinish it?",
+  "description": "Remove and replace if the tub is damaged or outdated; refinish it if the structure is sound and you mainly want a cosmetic refresh.",
+  "url": "http://coloradoremodeling.company/faq/should-i-remove-the-tub-replace-it-or-just-refinish-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I remove the tub, replace it, or just refinish it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best outcome depends on your goal: if you want a cleaner, easier-to-maintain bathroom, removal can support a replacement tub or a shower conversion. If the existing tub is still functional but looks worn, refinishing may be a lower-cost alternative than full removal.",
+        "description": "Remove and replace if the tub is damaged or outdated; refinish it if the structure is sound and you mainly want a cosmetic refresh."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

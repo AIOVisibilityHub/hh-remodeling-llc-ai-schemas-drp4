@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I waterproof a bathroom myself or hire a pro?",
+  "description": "DIY is risky for showers and other wet areas with many details. Professional installation is usually the better choice when the project includes drains, curbs,",
+  "url": "http://coloradoremodeling.company/faq/should-i-waterproof-a-bathroom-myself-or-hire-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I waterproof a bathroom myself or hire a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing DIY and professional work, professional waterproofing is usually the safer choice for showers, curbs, niches, benches, and curbless layouts. Those areas have multiple failure points, and mistakes often stay hidden until damage shows up later.",
+        "description": "DIY is risky for showers and other wet areas with many details. Professional installation is usually the better choice when the project includes drains, curbs, niches, or curbless design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

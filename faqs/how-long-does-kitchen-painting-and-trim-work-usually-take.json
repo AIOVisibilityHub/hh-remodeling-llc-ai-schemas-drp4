@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does kitchen painting and trim work usually take?",
+  "description": "A simple project may take several days; larger kitchens or heavy prep can take longer. Drying time and repairs are the biggest schedule factors.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-painting-and-trim-work-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does kitchen painting and trim work usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most small kitchen painting and trim projects take a few days, while larger projects can take longer depending on drying time, repairs, and how much cabinetry is involved. The schedule also depends on whether the work is done on-site or with parts removed and refinished off-site.",
+        "description": "A simple project may take several days; larger kitchens or heavy prep can take longer. Drying time and repairs are the biggest schedule factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

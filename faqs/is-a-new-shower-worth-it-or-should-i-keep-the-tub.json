@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a new shower worth it, or should I keep the tub?",
+  "description": "A new shower can improve convenience, cleaning, and safety. If accessibility matters, add features like a low curb, bench, or handheld shower.",
+  "url": "http://coloradoremodeling.company/faq/is-a-new-shower-worth-it-or-should-i-keep-the-tub",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a new shower worth it, or should I keep the tub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-planned shower installation can improve daily use, make the bathroom easier to clean, and create a more modern look. If accessibility matters, features like a low-threshold entry, grab bars, a bench, or a handheld shower can make the space safer and more comfortable.",
+        "description": "A new shower can improve convenience, cleaning, and safety. If accessibility matters, add features like a low curb, bench, or handheld shower."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

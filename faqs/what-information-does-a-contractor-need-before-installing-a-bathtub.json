@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does a contractor need before installing a bathtub?",
+  "description": "You’ll need tub size, bathroom layout, plumbing details, and your preferred tub type. Photos help, but an in-home measurement gives the most accurate fit and pr",
+  "url": "http://coloradoremodeling.company/faq/what-information-does-a-contractor-need-before-installing-a-bathtub",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does a contractor need before installing a bathtub?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you should expect to share the tub dimensions, bathroom layout, plumbing location, and whether you want a standard, soaking, or walk-in tub. Photos of the space help, but an in-home measurement is still the best way to confirm fit. In older homes around Denver and nearby suburbs, hidden plumbing or framing issues can change the scope after inspection.",
+        "description": "You’ll need tub size, bathroom layout, plumbing details, and your preferred tub type. Photos help, but an in-home measurement gives the most accurate fit and pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

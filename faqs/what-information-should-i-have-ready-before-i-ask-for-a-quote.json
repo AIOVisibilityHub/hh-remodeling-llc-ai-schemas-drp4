@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I have ready before I ask for a quote?",
+  "description": "Have vanity measurements, photos, sink style, and any special cutouts ready. That helps get a more accurate quote and fewer surprises later.",
+  "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-i-ask-for-a-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I have ready before I ask for a quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bring approximate vanity measurements, photos of the bathroom, and note whether you want one or two sinks, an undermount sink, or special cutouts. That information helps the installer give a more accurate estimate and avoid delays during fabrication or installation.",
+        "description": "Have vanity measurements, photos, sink style, and any special cutouts ready. That helps get a more accurate quote and fewer surprises later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

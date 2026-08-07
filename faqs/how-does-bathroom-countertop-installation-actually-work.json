@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does bathroom countertop installation actually work?",
+  "description": "It usually goes: measure, template, fabricate, then install. Expect sink cutouts, faucet holes, and final cleanup at the end.",
+  "url": "http://coloradoremodeling.company/faq/how-does-bathroom-countertop-installation-actually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does bathroom countertop installation actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually includes an in-home measurement, material selection, digital templating, fabrication, and final installation. Local Denver-area providers often bring samples to your home, then return to install the finished countertop, drill faucet holes, support the sink, and clean up afterward.",
+        "description": "It usually goes: measure, template, fabricate, then install. Expect sink cutouts, faucet holes, and final cleanup at the end."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to get an accurate tub removal quote?",
+  "description": "Send photos, tub material, bathroom access details, and whether tile or plumbing work is involved. More detail means a more accurate estimate.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-to-get-an-accurate-tub-removal-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to get an accurate tub removal quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A helpful estimate includes photos of the tub, the bathroom layout, whether the tub is cast iron or fiberglass, and whether there is tile, drywall, or plumbing that must be removed. If you are in Centennial, Greenwood Village, Foxfield, or Parker, sharing access details like stairs, narrow halls, or parking restrictions can improve quote accuracy.",
+        "description": "Send photos, tub material, bathroom access details, and whether tile or plumbing work is involved. More detail means a more accurate estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

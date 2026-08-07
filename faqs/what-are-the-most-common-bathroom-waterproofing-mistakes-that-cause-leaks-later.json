@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the most common bathroom waterproofing mistakes that cause leaks later?",
+  "description": "The biggest failures are bad slope, weak corner detailing, bad drain integration, and holes in waterproofed areas. Tile alone does not stop water intrusion.",
+  "url": "http://coloradoremodeling.company/faq/what-are-the-most-common-bathroom-waterproofing-mistakes-that-cause-leaks-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common bathroom waterproofing mistakes that cause leaks later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A common mistake is assuming the visible tile layer is the waterproof layer. Other failures include poor slope, unsealed corners, missing drain integration, and fasteners through curbs or niches that create leak paths.",
+        "description": "The biggest failures are bad slope, weak corner detailing, bad drain integration, and holes in waterproofed areas. Tile alone does not stop water intrusion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
