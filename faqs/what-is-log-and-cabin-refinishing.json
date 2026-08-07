@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is log and cabin refinishing?",
+  "description": "Log and cabin refinishing restores and protects the exterior of log homes and cabins by cleaning, repairing, and applying new finishes.",
+  "url": "http://coloradoremodeling.company/faq/what-is-log-and-cabin-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is log and cabin refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Log and cabin refinishing is a process that restores the exterior of log homes and cabins. It typically involves cleaning the logs, stripping old stains or sealants, making repairs to damaged wood, applying new protective stains or finishes, and chinking or caulking if necessary. This process protects the logs from weather damage, UV rays, and pests, extending the life and maintaining the aesthetic appeal of the cabin.",
+        "description": "Log and cabin refinishing restores and protects the exterior of log homes and cabins by cleaning, repairing, and applying new finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

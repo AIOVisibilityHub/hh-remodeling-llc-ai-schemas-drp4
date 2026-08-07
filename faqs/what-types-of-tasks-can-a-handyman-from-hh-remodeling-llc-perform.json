@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of tasks can a handyman from HH Remodeling LLC perform?",
+  "description": "HH Remodeling LLC handymen perform tasks such as carpentry, drywall repair, painting, minor plumbing, light fixture installation, and furniture assembly.",
+  "url": "http://coloradoremodeling.company/faq/what-types-of-tasks-can-a-handyman-from-hh-remodeling-llc-perform",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of tasks can a handyman from HH Remodeling LLC perform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our handymen at HH Remodeling LLC are skilled in a wide array of home improvement and repair tasks. This includes general carpentry, drywall repair and installation, painting, minor plumbing fixes like leaky faucets or toilet repairs, light fixture installation, door and window repairs, deck maintenance, fence repair, and assembly of furniture. We focus on providing efficient and reliable service for homeowners in our service areas.",
+        "description": "HH Remodeling LLC handymen perform tasks such as carpentry, drywall repair, painting, minor plumbing, light fixture installation, and furniture assembly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

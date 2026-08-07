@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a free estimate for handyman services from HH Remodeling LLC?",
+  "description": "Yes, HH Remodeling LLC provides estimates, often requiring a discussion of the project scope or an on-site visit for accuracy.",
+  "url": "http://coloradoremodeling.company/faq/can-i-get-a-free-estimate-for-handyman-services-from-hh-remodeling-llc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a free estimate for handyman services from HH Remodeling LLC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, HH Remodeling LLC offers estimates for handyman services. To provide an accurate estimate, we typically need to discuss the scope of your project and, for more complex tasks, may require an on-site visit. This ensures we understand your needs thoroughly and can provide a fair and transparent price for the work required at your Denver, Centennial, Greenwood Village, Foxfield, or Parker property.",
+        "description": "Yes, HH Remodeling LLC provides estimates, often requiring a discussion of the project scope or an on-site visit for accuracy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

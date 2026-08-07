@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a handyman instead of a specialized contractor?",
+  "description": "Hire a handyman for small, varied tasks like minor repairs or installations; choose a specialized contractor for large-scale projects requiring specific license",
+  "url": "http://coloradoremodeling.company/faq/when-should-i-hire-a-handyman-instead-of-a-specialized-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a handyman instead of a specialized contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire a handyman for smaller, varied tasks that don't require the specific licensing or extensive scope of a specialized contractor. For example, a handyman can fix a leaky faucet, hang shelves, repair drywall, or paint a room. A specialized contractor, like a plumber or electrician, is better suited for large-scale installations, major repairs, or projects requiring specific permits and in-depth expertise, such as rewiring a house or installing a new water heater.",
+        "description": "Hire a handyman for small, varied tasks like minor repairs or installations; choose a specialized contractor for large-scale projects requiring specific licenses or permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

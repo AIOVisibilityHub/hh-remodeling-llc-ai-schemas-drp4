@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need restoration service?",
+  "description": "You need restoration service after damage from burst pipes, flooding, fire, or severe weather to prevent further issues.",
+  "url": "http://coloradoremodeling.company/faq/when-do-i-need-restoration-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need restoration service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need restoration service when your property has sustained damage from events such as burst pipes, flooding, fire, or severe weather. Prompt action is crucial to prevent secondary damage like mold growth or structural compromise. Contacting a professional restoration company quickly can minimize loss and expedite the recovery process.",
+        "description": "You need restoration service after damage from burst pipes, flooding, fire, or severe weather to prevent further issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

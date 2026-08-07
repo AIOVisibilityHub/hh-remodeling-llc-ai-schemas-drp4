@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does restoration service take?",
+  "description": "Restoration service duration varies based on damage severity, from a few days for minor issues to several weeks for extensive damage.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-restoration-service-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does restoration service take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of restoration service depends on the severity and type of damage. Minor water damage might take a few days, while extensive fire or storm damage requiring significant reconstruction could take several weeks or even months. A restoration company can provide a more accurate timeline after assessing your specific situation.",
+        "description": "Restoration service duration varies based on damage severity, from a few days for minor issues to several weeks for extensive damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

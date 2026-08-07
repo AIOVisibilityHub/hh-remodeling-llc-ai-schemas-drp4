@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve for restoration services?",
+  "description": "We serve Denver, Centennial, Greenwood Village, Foxfield, and Parker for restoration services.",
+  "url": "http://coloradoremodeling.company/faq/what-areas-do-you-serve-for-restoration-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve for restoration services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide restoration services to the following areas: Denver, Centennial, Greenwood Village, Foxfield, and Parker. Our team is equipped to respond quickly to these communities to address your restoration needs efficiently and effectively, helping to mitigate damage and begin the recovery process.",
+        "description": "We serve Denver, Centennial, Greenwood Village, Foxfield, and Parker for restoration services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does insurance cover restoration services?",
+  "description": "Homeowner's insurance often covers restoration services for specific perils, but coverage varies by policy, so check with your provider.",
+  "url": "http://coloradoremodeling.company/faq/does-insurance-cover-restoration-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does insurance cover restoration services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many homeowner's insurance policies cover restoration services for damage caused by covered perils like sudden and accidental water discharge, fire, or windstorms. Coverage can vary significantly based on your specific policy. It's advisable to review your policy or contact your insurance provider directly to understand your coverage and claim process.",
+        "description": "Homeowner's insurance often covers restoration services for specific perils, but coverage varies by policy, so check with your provider."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

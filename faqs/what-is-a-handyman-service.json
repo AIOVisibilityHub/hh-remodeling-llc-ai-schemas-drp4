@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a handyman service?",
+  "description": "A handyman service offers a range of home repair, maintenance, and improvement tasks, ideal for jobs not requiring a specialized contractor.",
+  "url": "http://coloradoremodeling.company/faq/what-is-a-handyman-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a handyman service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A handyman service provides skilled professionals to perform a variety of home repair, maintenance, and improvement tasks. This can include minor plumbing, electrical work, carpentry, painting, drywall repair, and general upkeep that doesn't require a specialized contractor. It's ideal for tasks that are too small for a general contractor but too complex or time-consuming for a homeowner to do themselves. HH Remodeling LLC offers comprehensive handyman services for residents in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "description": "A handyman service offers a range of home repair, maintenance, and improvement tasks, ideal for jobs not requiring a specialized contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

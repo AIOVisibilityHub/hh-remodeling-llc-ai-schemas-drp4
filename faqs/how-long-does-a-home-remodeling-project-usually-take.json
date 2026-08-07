@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a home remodeling project usually take?",
+  "description": "Project duration varies by scope, from a few weeks for small jobs to several months or more for larger remodels.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-home-remodeling-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a home remodeling project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a home remodeling project varies significantly based on its scope and complexity. A small bathroom remodel might take a few weeks, while a full kitchen renovation could extend to several months. Whole-home remodels can take six months to a year or more. Factors like material lead times, permitting delays, and unforeseen issues can also impact the timeline. We provide a detailed project schedule after the design phase is complete.",
+        "description": "Project duration varies by scope, from a few weeks for small jobs to several months or more for larger remodels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

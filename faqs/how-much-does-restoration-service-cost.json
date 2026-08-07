@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does restoration service cost?",
+  "description": "Restoration service cost varies based on damage type, extent, and materials; an estimate is provided after assessment.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-restoration-service-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does restoration service cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of restoration service varies widely depending on the type and extent of the damage, the size of the affected area, and the materials involved. Factors like mold remediation, structural repairs, or content cleaning can all influence the final price. Most reputable companies provide a detailed estimate after an on-site assessment.",
+        "description": "Restoration service cost varies based on damage type, extent, and materials; an estimate is provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

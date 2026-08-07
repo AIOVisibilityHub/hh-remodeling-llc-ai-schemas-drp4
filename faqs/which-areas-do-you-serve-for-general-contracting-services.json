@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which areas do you serve for general contracting services?",
+  "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+  "url": "http://coloradoremodeling.company/faq/which-areas-do-you-serve-for-general-contracting-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which areas do you serve for general contracting services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HH Remodeling LLC provides general contracting services in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Our team is familiar with the local regulations and requirements in these areas, ensuring a smooth and compliant project process for our clients. We focus on delivering high-quality remodeling and restoration services within these communities.",
+        "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
