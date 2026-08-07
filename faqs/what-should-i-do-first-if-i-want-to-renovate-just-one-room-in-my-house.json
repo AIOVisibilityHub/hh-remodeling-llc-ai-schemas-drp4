@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want to renovate just one room in my house?",
+  "description": "Start by defining the room, your goals, and your budget. Then schedule a site review so the scope, design, and any permit needs can be confirmed before work beg",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-want-to-renovate-just-one-room-in-my-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want to renovate just one room in my house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a clear scope: what room is changing, what problems you want solved, and which finishes or fixtures you want replaced. For a single-room renovation in the Denver area, a contractor or designer will usually review the space, confirm what is structurally possible, and then build a plan before work starts.",
+        "description": "Start by defining the room, your goals, and your budget. Then schedule a site review so the scope, design, and any permit needs can be confirmed before work begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

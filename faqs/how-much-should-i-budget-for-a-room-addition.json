@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I budget for a room addition?",
+  "description": "Budget depends on size, structure, and finishes, but the biggest costs usually come from foundation, roof tie-ins, and adding plumbing or HVAC. Ask for a line-i",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-budget-for-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I budget for a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely based on size, foundation work, roof tie-ins, utilities, and finish level. In the Denver area, additions are often priced by square foot, and a straightforward room addition is usually far less expensive than a second-story build or a primary suite with plumbing and HVAC changes. The biggest budget drivers are structural changes, exterior matching, and how much the new space ties into the existing systems. To avoid surprise overruns, ask for a line-item estimate that separates design, permits, foundation, framing, finishes, and mechanical work. That makes it easier to compare bids on the same scope instead of just looking at the bottom line.",
+        "description": "Budget depends on size, structure, and finishes, but the biggest costs usually come from foundation, roof tie-ins, and adding plumbing or HVAC. Ask for a line-item estimate so you can compare bids accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

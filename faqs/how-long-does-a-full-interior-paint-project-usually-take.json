@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a full interior paint project usually take?",
+  "description": "Most full interior jobs take a few days, not just one day. Larger homes, detailed trim, repairs, and extra coats can extend the schedule.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-full-interior-paint-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a full interior paint project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical full interior project often takes a few days, but the timeline depends on the size of the home and the amount of prep and drying time required. A smaller interior may be finished in 2 to 4 days, while larger or heavily detailed homes can take longer.",
+        "description": "Most full interior jobs take a few days, not just one day. Larger homes, detailed trim, repairs, and extra coats can extend the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

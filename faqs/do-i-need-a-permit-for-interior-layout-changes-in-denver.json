@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for interior layout changes in Denver?",
+  "description": "Often yes, if the project changes the floor plan or structural/mechanical systems. Simple like-for-like replacements usually do not require one.",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-interior-layout-changes-in-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for interior layout changes in Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the reconfiguration changes the floor plan, structural elements, doorways, windows, ductwork, or plumbing/electrical fixture locations. Simple like-for-like replacements usually do not need a permit, but interior changes that alter the plan commonly do.",
+        "description": "Often yes, if the project changes the floor plan or structural/mechanical systems. Simple like-for-like replacements usually do not require one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a multi-room renovation take from start to finish?",
+  "description": "Smaller multi-room updates may take weeks, while larger renovations can take several months. The more rooms and custom details involved, the longer the schedule",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-multi-room-renovation-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a multi-room renovation take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline usually ranges from several weeks for smaller room combinations to several months for a larger interior renovation. Projects that involve multiple connected spaces, custom cabinetry, or design changes typically take longer because decisions, ordering, and construction all affect one another.",
+        "description": "Smaller multi-room updates may take weeks, while larger renovations can take several months. The more rooms and custom details involved, the longer the schedule usually becomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

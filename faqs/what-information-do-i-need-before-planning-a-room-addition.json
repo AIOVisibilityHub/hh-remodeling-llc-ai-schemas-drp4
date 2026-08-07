@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before planning a room addition?",
+  "description": "Have a survey, rough measurements, photos, and a clear scope ready before design starts. For Denver-area projects, lot lines, setbacks, and drainage details can",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-planning-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before planning a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good documentation usually includes a site survey, photos, rough measurements, and a clear description of how you want the space to function. For many Denver projects, plans may also need structural details, room dimensions, exterior elevations, and information about drainage, setbacks, and lot coverage. If the addition is near a property line, the survey becomes especially important because it can affect what is allowed. The more complete your information is at the start, the fewer surprises you’ll get during design and permit review. If you do not have old plans or records, a contractor can often help assemble what is needed from the property and city records.",
+        "description": "Have a survey, rough measurements, photos, and a clear scope ready before design starts. For Denver-area projects, lot lines, setbacks, and drainage details can matter as much as the room size itself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

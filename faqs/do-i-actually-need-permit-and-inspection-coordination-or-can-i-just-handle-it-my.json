@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I actually need permit and inspection coordination, or can I just handle it myself?",
+  "description": "You usually need coordination when the job involves multiple trades, plan review, or inspections that must happen in sequence. It is most helpful when the proje",
+  "url": "http://coloradoremodeling.company/faq/do-i-actually-need-permit-and-inspection-coordination-or-can-i-just-handle-it-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I actually need permit and inspection coordination, or can I just handle it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not every project needs the same level of permit support, but coordination is especially useful when the work involves structural, electrical, plumbing, or other code-sensitive scope. Denver’s permitting system lets you submit applications, add contractors, and track inspections, but the project still has to meet the city’s review requirements.",
+        "description": "You usually need coordination when the job involves multiple trades, plan review, or inspections that must happen in sequence. It is most helpful when the project has structural, electrical, plumbing, or code-compliance requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

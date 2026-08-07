@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I live in my home during a multi-room renovation?",
+  "description": "Often yes, but it depends on how much of the home is under construction. If key areas like the kitchen or main bathroom are offline, staying elsewhere may be mo",
+  "url": "http://coloradoremodeling.company/faq/can-i-live-in-my-home-during-a-multi-room-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I live in my home during a multi-room renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many homeowners stay in the house during a multi-room remodel, but it depends on how many rooms are under construction and whether kitchens, bathrooms, or main circulation paths are affected. If the work disrupts daily routines heavily, temporary relocation can reduce stress and speed up the job.",
+        "description": "Often yes, but it depends on how much of the home is under construction. If key areas like the kitchen or main bathroom are offline, staying elsewhere may be more practical."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

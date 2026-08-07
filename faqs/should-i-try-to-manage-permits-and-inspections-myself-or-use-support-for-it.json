@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I try to manage permits and inspections myself, or use support for it?",
+  "description": "DIY can work for simple jobs, but support is usually better for complex or time-sensitive projects. The more trades and inspections involved, the more valuable",
+  "url": "http://coloradoremodeling.company/faq/should-i-try-to-manage-permits-and-inspections-myself-or-use-support-for-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I try to manage permits and inspections myself, or use support for it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are deciding between doing it yourself and hiring support, the key difference is time and complexity management. Denver’s portal lets owners and contractors manage permits directly, but a coordinator can be helpful when the project has multiple trades, review comments, or a tight schedule.",
+        "description": "DIY can work for simple jobs, but support is usually better for complex or time-sensitive projects. The more trades and inspections involved, the more valuable coordination becomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

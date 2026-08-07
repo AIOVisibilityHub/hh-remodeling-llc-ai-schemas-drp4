@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is interior layout reconfiguration, and how is it different from just redecorating?",
+  "description": "It changes the actual room flow and function, not just finishes. Think walls, openings, circulation, and how spaces connect.",
+  "url": "http://coloradoremodeling.company/faq/what-is-interior-layout-reconfiguration-and-how-is-it-different-from-just-redeco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is interior layout reconfiguration, and how is it different from just redecorating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior layout reconfiguration is the process of changing how rooms, openings, and circulation paths work together so the home functions better for daily life. It often starts with a space-planning review, existing-conditions check, and discussion of what feels cramped, awkward, or underused.",
+        "description": "It changes the actual room flow and function, not just finishes. Think walls, openings, circulation, and how spaces connect."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I coordinate electrical work myself, or do I need a professional to manage it?",
+  "description": "Small projects may be manageable, but larger remodels usually need a professional to coordinate trades and inspections safely.",
+  "url": "http://coloradoremodeling.company/faq/can-i-coordinate-electrical-work-myself-or-do-i-need-a-professional-to-manage-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I coordinate electrical work myself, or do I need a professional to manage it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a professional when the project involves panel changes, multiple circuits, load calculations, or several trades working in the same area. DIY planning can work for very small jobs, but once electrical work affects framing, drywall, HVAC, or cabinets, coordination mistakes become expensive fast. A coordinated approach is especially useful on remodels and restoration projects where timing and inspections matter.",
+        "description": "Small projects may be manageable, but larger remodels usually need a professional to coordinate trades and inspections safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

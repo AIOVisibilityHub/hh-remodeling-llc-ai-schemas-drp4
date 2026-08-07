@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first before starting room addition framing?",
+  "description": "Start with the addition layout, permit needs, and structural plan before framing begins. Room addition framing depends on foundation type, roof tie-in, and util",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-starting-room-addition-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first before starting room addition framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should start by confirming what kind of space you need, where it can fit on the lot, and whether the project needs a new foundation, roof tie-in, or major utility changes. For a room addition framing job in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the framing stage usually comes after planning and permits, because the structure has to match the approved design and local code requirements. A contractor can then frame the new walls, roof sections, openings, and structural connections to the existing home. The earlier you involve a framer, the easier it is to avoid design changes that create delays.",
+        "description": "Start with the addition layout, permit needs, and structural plan before framing begins. Room addition framing depends on foundation type, roof tie-in, and utility changes, so the framing crew should work from an approved design to avoid delays and rework."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

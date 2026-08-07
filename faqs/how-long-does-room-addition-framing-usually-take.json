@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does room addition framing usually take?",
+  "description": "Small additions may be framed in a few days, while larger or more complex additions can take longer. Weather, inspections, and roof tie-ins can extend the timel",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-room-addition-framing-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does room addition framing usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on size and complexity, but framing a room addition is often one of the faster major stages once the site is ready. Smaller additions may take days, while larger additions with complex roof tie-ins, second-story work, or multiple openings can take longer. In the Denver metro area, weather and permit timing can also affect the schedule. If you want a realistic timeline, ask for both the framing duration and the inspection window, because those are not always the same thing.",
+        "description": "Small additions may be framed in a few days, while larger or more complex additions can take longer. Weather, inspections, and roof tie-ins can extend the timeline in the Denver area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to do anything special before painting an occupied home in Denver or nearby suburbs?",
+  "description": "Occupied homes need furniture moved, floors covered, and room access planned in advance. Local weather and indoor conditions can also affect how quickly paint d",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-to-do-anything-special-before-painting-an-occupied-home-in-denver-or-n",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to do anything special before painting an occupied home in Denver or nearby suburbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the space is occupied, you need to plan around furniture movement, dust, drying time, and access to rooms. For homes in Denver, Centennial, Greenwood Village, Foxfield, or Parker, winter dryness and temperature swings can also affect cure time and scheduling.",
+        "description": "Occupied homes need furniture moved, floors covered, and room access planned in advance. Local weather and indoor conditions can also affect how quickly paint dries and cures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

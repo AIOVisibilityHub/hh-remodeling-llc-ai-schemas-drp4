@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a full interior paint package cost in the Denver area?",
+  "description": "In the Denver metro, a full interior repaint often runs about $1,800 to $6,500, with walls-plus-ceilings-plus-trim usually at the higher end. Final price depend",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-full-interior-paint-package-cost-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a full interior paint package cost in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Denver-area homeowners can expect a full interior repaint to land somewhere between $1,800 and $6,500 for a whole home, with projects that include ceilings, trim, and doors often costing more. Larger homes, higher ceilings, heavy prep, and premium paint can push the total higher.",
+        "description": "In the Denver metro, a full interior repaint often runs about $1,800 to $6,500, with walls-plus-ceilings-plus-trim usually at the higher end. Final price depends on size, prep, and finish level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

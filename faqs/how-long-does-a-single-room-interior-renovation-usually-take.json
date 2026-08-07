@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a single-room interior renovation usually take?",
+  "description": "Simple room updates can be fairly quick, but custom finishes, permit work, and special-order materials add time. The best estimate comes after the site review a",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-single-room-interior-renovation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a single-room interior renovation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the room, the amount of demolition, and whether permits or custom materials are involved. Small projects can move quickly once materials are available, but design-led or permit-heavy rooms often take longer because planning and approvals come before construction.",
+        "description": "Simple room updates can be fairly quick, but custom finishes, permit work, and special-order materials add time. The best estimate comes after the site review and scope is finalized."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

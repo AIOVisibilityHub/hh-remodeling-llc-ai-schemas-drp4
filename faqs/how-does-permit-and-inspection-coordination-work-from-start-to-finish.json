@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does permit and inspection coordination work from start to finish?",
+  "description": "It typically follows four steps: prepare the permit package, submit it, respond to review comments, and schedule inspections after issuance. Denver’s e-permits",
+  "url": "http://coloradoremodeling.company/faq/how-does-permit-and-inspection-coordination-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does permit and inspection coordination work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with application prep, then submission, then plan review, then permit issuance, and finally inspection scheduling. In Denver, you can search by address or permit number in e-permits, but inspections can only be scheduled after the permit is issued.",
+        "description": "It typically follows four steps: prepare the permit package, submit it, respond to review comments, and schedule inspections after issuance. Denver’s e-permits system lets you track status and inspection results in one place."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

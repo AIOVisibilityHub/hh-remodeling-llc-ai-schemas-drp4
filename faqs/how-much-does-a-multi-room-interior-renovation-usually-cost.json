@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a multi-room interior renovation usually cost?",
+  "description": "Cost depends on the number of rooms, finishes, and whether any structural or layout changes are involved. Ask for a detailed estimate with labor, materials, des",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-multi-room-interior-renovation-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a multi-room interior renovation usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners compare the full project budget against their must-haves, then reserve money for labor, materials, design, permits, and a contingency. Whole-home and multi-room remodels in Denver can vary widely depending on scope and finishes, so a detailed written estimate is the safest way to understand the real price.",
+        "description": "Cost depends on the number of rooms, finishes, and whether any structural or layout changes are involved. Ask for a detailed estimate with labor, materials, design, and permit costs separated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

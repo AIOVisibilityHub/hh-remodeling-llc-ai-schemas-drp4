@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a single-room renovation cost in Denver and nearby areas?",
+  "description": "Costs vary based on room size, finishes, and whether utilities or structure are changing. A written scope is the best way to get a realistic price and compare b",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-single-room-renovation-cost-in-denver-and-nearby-areas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a single-room renovation cost in Denver and nearby areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by the room size, demolition, finish level, structural work, and whether plumbing, electrical, or HVAC changes are needed. In Denver, single-room projects can vary widely, so a detailed scope is the best way to compare value instead of only comparing the bottom-line price.",
+        "description": "Costs vary based on room size, finishes, and whether utilities or structure are changing. A written scope is the best way to get a realistic price and compare bids fairly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

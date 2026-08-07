@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if the electrical subs are not coordinated with the rest of the project?",
+  "description": "Without coordination, trades can block each other, miss rough-in points, and trigger rework, inspection issues, and extra costs.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-the-electrical-subs-are-not-coordinated-with-the-rest-of-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if the electrical subs are not coordinated with the rest of the project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are trade overlap, missed rough-in points, access problems, inspection failures, and change orders from scope gaps. Electrical work often gets delayed when framing changes, HVAC routes move, or another trade blocks access after the electrical rough-in is planned. Good coordination reduces rework and keeps the project moving toward final inspection.",
+        "description": "Without coordination, trades can block each other, miss rough-in points, and trigger rework, inspection issues, and extra costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

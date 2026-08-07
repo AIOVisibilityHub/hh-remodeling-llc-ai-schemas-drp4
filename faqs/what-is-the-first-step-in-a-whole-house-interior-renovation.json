@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the first step in a whole-house interior renovation?",
+  "description": "Start by defining what is not working and what you want the finished home to do better. Then move into planning, budgeting, design, permits, and scheduling befo",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-first-step-in-a-whole-house-interior-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step in a whole-house interior renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners should start with goals, budget, and a rough scope before choosing finishes. In a whole-house interior renovation, the order usually goes: walk-through, measurements, design/planning, estimate, selections, scheduling, then construction. If your project includes wall changes, electrical, plumbing, or any structural work, permits and inspections need to be planned early so the job does not stall midstream. A good contractor helps you sequence decisions so you are not making expensive choices after work has already started.",
+        "description": "Start by defining what is not working and what you want the finished home to do better. Then move into planning, budgeting, design, permits, and scheduling before demolition begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

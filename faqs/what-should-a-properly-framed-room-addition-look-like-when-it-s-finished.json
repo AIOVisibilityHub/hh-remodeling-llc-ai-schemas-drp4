@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a properly framed room addition look like when it’s finished?",
+  "description": "A good frame should be square, level, structurally tied into the home, and ready for insulation and drywall. The finished room should feel like a natural part o",
+  "url": "http://coloradoremodeling.company/faq/what-should-a-properly-framed-room-addition-look-like-when-it-s-finished",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a properly framed room addition look like when it’s finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-framed room addition should feel like a natural extension of the house, with straight walls, level floors, proper ceiling height, and openings that line up with the design. If the framing is done correctly, the new space will be ready for insulation, drywall, trim, and finishes without major corrections. In Denver-area homes, the addition also needs to perform well through seasonal temperature swings and snow loads. Good framing is what makes the final room look and function like it was always part of the home.",
+        "description": "A good frame should be square, level, structurally tied into the home, and ready for insulation and drywall. The finished room should feel like a natural part of the original house."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

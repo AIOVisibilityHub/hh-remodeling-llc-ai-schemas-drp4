@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I have ready before asking for a full interior paint quote?",
+  "description": "Have room counts, square footage, photos, and notes on repairs or problem areas ready. A written scope should specify walls, ceilings, trim, doors, prep work, a",
+  "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-asking-for-a-full-interior-paint-quo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I have ready before asking for a full interior paint quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The fastest way is to walk the property and ask for a written estimate that lists every surface to be painted, the prep work included, the number of coats, and the paint product line. Photos help, but an in-person inspection is better for spotting drywall damage, stain issues, or trim wear.",
+        "description": "Have room counts, square footage, photos, and notes on repairs or problem areas ready. A written scope should specify walls, ceilings, trim, doors, prep work, and paint quality before pricing is finalized."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

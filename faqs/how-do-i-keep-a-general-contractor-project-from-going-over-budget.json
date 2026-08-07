@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep a general contractor project from going over budget?",
+  "description": "Use a detailed written scope, clear allowances, and a formal change-order process to control cost creep.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-keep-a-general-contractor-project-from-going-over-budget",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep a general contractor project from going over budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget problems usually start when the contract is vague about what is included, allowances are too low, or changes are not documented. Ask how the contractor handles change orders, billing, cost increases, and budget tracking before work starts.",
+        "description": "Use a detailed written scope, clear allowances, and a formal change-order process to control cost creep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

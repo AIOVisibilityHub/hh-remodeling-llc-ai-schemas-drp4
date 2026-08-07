@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I’m thinking about a room addition?",
+  "description": "Start by defining the room’s purpose, then check your lot, setbacks, and structure before paying for full plans. That early feasibility step helps avoid redesig",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-m-thinking-about-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I’m thinking about a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a feasibility check: confirm what you want the new space to do, then compare that goal against your lot size, setbacks, height limits, and existing structure. In Denver and nearby cities, a room addition can be blocked or redesigned if zoning, drainage, or structural conditions are not resolved early. A clear first plan saves time, keeps design changes down, and helps you avoid paying for drawings you can’t build. Key items to gather include photos, rough dimensions, survey documents, and a target budget. If you are unsure whether an addition is realistic, a design-build contractor can usually flag the biggest issues before full plans are created.",
+        "description": "Start by defining the room’s purpose, then check your lot, setbacks, and structure before paying for full plans. That early feasibility step helps avoid redesigns and permit problems later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

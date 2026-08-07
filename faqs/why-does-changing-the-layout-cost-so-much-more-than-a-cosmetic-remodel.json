@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does changing the layout cost so much more than a cosmetic remodel?",
+  "description": "Because layout changes often involve structural, electrical, plumbing, and finish work—not just surface updates.",
+  "url": "http://coloradoremodeling.company/faq/why-does-changing-the-layout-cost-so-much-more-than-a-cosmetic-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does changing the layout cost so much more than a cosmetic remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by the amount of design work, the complexity of the changes, and whether construction is needed behind the walls. Reworking circulation or opening up rooms is typically more expensive than cosmetic updates because it can involve framing, electrical, plumbing, drywall, and finish work.",
+        "description": "Because layout changes often involve structural, electrical, plumbing, and finish work—not just surface updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

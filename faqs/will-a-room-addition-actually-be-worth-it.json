@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a room addition actually be worth it?",
+  "description": "It can be worth it if the new space solves a real need and fits the home well. The best additions are functional, code-compliant, and designed to blend with the",
+  "url": "http://coloradoremodeling.company/faq/will-a-room-addition-actually-be-worth-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a room addition actually be worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room addition usually gives you a more usable home without the cost and disruption of moving, but the value depends on whether the new space fits the neighborhood and the home’s layout. Additions that create a bedroom, bathroom, primary suite, or better family space tend to feel more useful than oversized or awkward layouts. In established Denver-area neighborhoods, a well-matched exterior and proper roofline integration can also affect resale appeal. The best outcome is a space that solves a daily problem instead of just adding square footage. If the addition is meant for long-term living, plan for future needs like storage, accessibility, and natural light.",
+        "description": "It can be worth it if the new space solves a real need and fits the home well. The best additions are functional, code-compliant, and designed to blend with the existing house."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

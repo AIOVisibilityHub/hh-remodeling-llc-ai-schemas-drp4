@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong during a whole-house interior renovation?",
+  "description": "Common problems are hidden damage, surprise costs, and schedule delays. A contingency budget and a detailed scope help you handle the issues that show up after",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-a-whole-house-interior-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong during a whole-house interior renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are hidden damage, budget creep, and delays from material shortages or design changes. Whole-house interior renovations often uncover outdated wiring, plumbing problems, uneven framing, or moisture damage once walls and floors are opened. Another common issue is scope drift: adding upgrades after the plan is set can quickly raise costs and extend the timeline. A detailed contract, contingency budget, and upfront decisions reduce most of the pain.",
+        "description": "Common problems are hidden damage, surprise costs, and schedule delays. A contingency budget and a detailed scope help you handle the issues that show up after demolition starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who handles permits and inspections in a general contractor project?",
+  "description": "The contractor should tell you exactly who is responsible for permits, inspections, and any required corrections.",
+  "url": "http://coloradoremodeling.company/faq/who-handles-permits-and-inspections-in-a-general-contractor-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who handles permits and inspections in a general contractor project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, permits and inspections should be clearly assigned before the job begins, because confusion here can delay the entire project. Ask who pulls permits, who coordinates inspections, and who fixes items that fail inspection so the process stays moving.",
+        "description": "The contractor should tell you exactly who is responsible for permits, inspections, and any required corrections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

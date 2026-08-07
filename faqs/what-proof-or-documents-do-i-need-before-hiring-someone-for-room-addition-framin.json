@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof or documents do I need before hiring someone for room addition framing?",
+  "description": "Bring plans, measurements, permit information, and photos of the existing structure. Engineered drawings, if available, make the framing estimate more accurate",
+  "url": "http://coloradoremodeling.company/faq/what-proof-or-documents-do-i-need-before-hiring-someone-for-room-addition-framin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof or documents do I need before hiring someone for room addition framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common evidence is a complete set of plans, measurements, and any permit requirements tied to the project. In the Denver metro area, the framing layout may need to reflect setbacks, structural loads, and roof tie-ins, so a contractor should review the existing house conditions before work starts. Photos of the existing structure and access areas also help. If you already have engineered drawings, that usually makes the framing estimate more reliable.",
+        "description": "Bring plans, measurements, permit information, and photos of the existing structure. Engineered drawings, if available, make the framing estimate more accurate and reduce surprises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

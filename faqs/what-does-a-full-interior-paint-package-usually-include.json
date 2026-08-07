@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a full interior paint package usually include?",
+  "description": "A full package usually covers the main interior surfaces such as walls, and sometimes ceilings, trim, and doors. Exact inclusion depends on the written scope, p",
+  "url": "http://coloradoremodeling.company/faq/what-does-a-full-interior-paint-package-usually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a full interior paint package usually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full interior paint package usually means painting the main living areas with a defined scope, often including walls and sometimes ceilings, trim, and doors. For a home in Denver or nearby suburbs, the biggest pricing differences come from how much prep is needed, how many surfaces are included, and the size of the home.",
+        "description": "A full package usually covers the main interior surfaces such as walls, and sometimes ceilings, trim, and doors. Exact inclusion depends on the written scope, prep needs, and whether repairs or premium finishes are added."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

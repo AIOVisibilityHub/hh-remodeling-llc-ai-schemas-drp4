@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask before hiring a general contractor to manage my project?",
+  "description": "Ask about the schedule, update frequency, delay handling, communication process, and who is in charge on-site.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-before-hiring-a-general-contractor-to-manage-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask before hiring a general contractor to manage my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask for a detailed construction schedule with milestones, how often it will be updated, and what software or system is used to track progress. You should also ask who manages the schedule when weather, labor, or supply delays hit, because that is where many projects fall behind.",
+        "description": "Ask about the schedule, update frequency, delay handling, communication process, and who is in charge on-site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

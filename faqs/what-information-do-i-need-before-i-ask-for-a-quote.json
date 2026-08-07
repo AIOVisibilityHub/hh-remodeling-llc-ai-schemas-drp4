@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I ask for a quote?",
+  "description": "Have photos, measurements, inspiration images, and a list of what needs to change. The more detail you provide, the more accurate the estimate will be.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-i-ask-for-a-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I ask for a quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bring photos of the room, rough measurements, a wish list, and any examples of styles you like. If you already know what is not working—storage, layout, lighting, or damage—sharing that early helps the contractor or designer create a more accurate plan and estimate.",
+        "description": "Have photos, measurements, inspiration images, and a list of what needs to change. The more detail you provide, the more accurate the estimate will be."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

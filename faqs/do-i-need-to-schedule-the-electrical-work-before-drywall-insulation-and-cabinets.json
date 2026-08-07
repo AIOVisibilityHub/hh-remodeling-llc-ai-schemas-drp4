@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to schedule the electrical work before drywall, insulation, and cabinets go in?",
+  "description": "Yes. Electrical rough-in should be completed and inspected before walls and finish materials close it up.",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-to-schedule-the-electrical-work-before-drywall-insulation-and-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to schedule the electrical work before drywall, insulation, and cabinets go in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many cases the electrician should be coordinated before drywall, insulation, cabinet installation, and any finish work begins. Rough-in, inspection, and trim-out all depend on the right sequence, and electrical work should not be buried before it is inspected. For Denver-metro remodels, the safest approach is to confirm handoff points in writing before each trade starts.",
+        "description": "Yes. Electrical rough-in should be completed and inspected before walls and finish materials close it up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

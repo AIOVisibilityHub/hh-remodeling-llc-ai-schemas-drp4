@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with a single-room remodel?",
+  "description": "Common problems are hidden damage, added costs, and delays from materials or permits. A careful site review and contingency budget reduce the chance of surprise",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-single-room-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with a single-room remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are scope creep, hidden damage, and delays from missing materials or permit issues. Older homes in Denver-area neighborhoods can also reveal surprises behind walls, so it helps to set aside contingency space in both the budget and timeline.",
+        "description": "Common problems are hidden damage, added costs, and delays from materials or permits. A careful site review and contingency budget reduce the chance of surprises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

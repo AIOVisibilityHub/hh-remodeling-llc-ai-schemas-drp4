@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with a full interior paint package?",
+  "description": "The biggest problems are vague pricing, poor prep, and weak surface protection. A detailed scope and clear prep list help prevent surprises and finish issues.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-full-interior-paint-package",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with a full interior paint package?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are surprise prep costs, uneven coverage, and damage to floors or furniture if protection is poor. You should also watch for vague estimates that do not say how many coats will be applied or whether patching, caulking, and priming are included.",
+        "description": "The biggest problems are vague pricing, poor prep, and weak surface protection. A detailed scope and clear prep list help prevent surprises and finish issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

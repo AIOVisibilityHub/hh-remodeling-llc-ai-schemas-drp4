@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does sub-trade coordination for electrical actually mean on a remodeling job?",
+  "description": "It is the scheduling and handoff work that keeps electrical tasks aligned with other trades so the project can move forward without clashes or delays.",
+  "url": "http://coloradoremodeling.company/faq/what-does-sub-trade-coordination-for-electrical-actually-mean-on-a-remodeling-jo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does sub-trade coordination for electrical actually mean on a remodeling job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sub-trade coordination for electrical means lining up the electrician’s work with framing, drywall, plumbing, HVAC, and finish trades so the job stays on schedule and passes inspection. In Denver-metro projects, the general contractor or project manager usually owns the schedule, but the electrical scope still has to be sequenced around inspections, access, and other trades. If the electrical work is part of a larger remodel or restoration, coordination helps prevent delays, rework, and change orders.",
+        "description": "It is the scheduling and handoff work that keeps electrical tasks aligned with other trades so the project can move forward without clashes or delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if plumbing sub-trades aren’t coordinated properly?",
+  "description": "Mis-coordination can lead to leaks, failed inspections, broken finishes, and rework. The most common problem is discovering too late that plumbing rough-ins cla",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-plumbing-sub-trades-aren-t-coordinated-properly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if plumbing sub-trades aren’t coordinated properly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, poor coordination can cause leaks, code issues, delayed inspections, tile or cabinet conflicts, and expensive demolition if plumbing ends up in the wrong place. The biggest risk is assuming another trade will “work around it” after finishes are already installed.",
+        "description": "Mis-coordination can lead to leaks, failed inspections, broken finishes, and rework. The most common problem is discovering too late that plumbing rough-ins clash with cabinets, tile, or framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

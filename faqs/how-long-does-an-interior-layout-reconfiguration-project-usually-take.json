@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an interior layout reconfiguration project usually take?",
+  "description": "Simple planning can be relatively quick; projects that involve walls, openings, or permits take longer because they need more coordination.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-an-interior-layout-reconfiguration-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an interior layout reconfiguration project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline depends on how much of the home is changing and whether the plan involves structural coordination or permit review. A straightforward space-planning study can move faster, while projects that add or move walls, openings, or systems take longer because the layout must be documented clearly before construction.",
+        "description": "Simple planning can be relatively quick; projects that involve walls, openings, or permits take longer because they need more coordination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

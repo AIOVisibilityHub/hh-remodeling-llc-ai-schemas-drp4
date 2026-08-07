@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does plumbing coordination save money, or is it just another added cost?",
+  "description": "It usually saves money by preventing rework and change orders. The coordination effort is small compared with the cost of correcting plumbing after drywall, til",
+  "url": "http://coloradoremodeling.company/faq/does-plumbing-coordination-save-money-or-is-it-just-another-added-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does plumbing coordination save money, or is it just another added cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common cost drivers are changes to existing pipe routes, hidden repair work, specialty fixtures, and fixes caused by late design changes. Coordination itself usually saves money because it reduces change orders, wasted labor, and rework across multiple trades.",
+        "description": "It usually saves money by preventing rework and change orders. The coordination effort is small compared with the cost of correcting plumbing after drywall, tile, or countertops are already installed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

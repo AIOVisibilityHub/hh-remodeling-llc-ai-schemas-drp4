@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does it matter where I live in the Denver area when planning a room addition?",
+  "description": "Yes—local zoning and permit rules can change by city and neighborhood. A contractor familiar with your area is more likely to catch setbacks, drainage, and perm",
+  "url": "http://coloradoremodeling.company/faq/does-it-matter-where-i-live-in-the-denver-area-when-planning-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it matter where I live in the Denver area when planning a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local rules matter because setbacks, lot coverage, height limits, drainage, and permit review can differ by city and even by neighborhood. In places like Denver, Centennial, Greenwood Village, Foxfield, and Parker, the same addition concept may need different drawings or approvals depending on the property. A contractor who regularly works in your area is more likely to know what the city will ask for and what details need to be shown early. That can prevent wasted design effort and shorten the path to approval. If you want the project to move smoothly, confirm that your contractor has recent experience with permits in your specific city.",
+        "description": "Yes—local zoning and permit rules can change by city and neighborhood. A contractor familiar with your area is more likely to catch setbacks, drainage, and permit issues early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

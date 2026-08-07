@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my project is already behind schedule—can plumbing coordination still help?",
+  "description": "Yes. Even on a delayed project, coordination can still reduce further slippage by locking in selections, confirming dimensions, and setting one schedule owner.",
+  "url": "http://coloradoremodeling.company/faq/what-if-my-project-is-already-behind-schedule-can-plumbing-coordination-still-he",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my project is already behind schedule—can plumbing coordination still help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the schedule is already tight, the best move is to freeze selections quickly, confirm fixture dimensions, and hold a coordination meeting before rough-in starts. If multiple vendors are involved, one person should own the schedule so the plumber is not waiting on unanswered decisions from cabinets, tile, or fixture suppliers.",
+        "description": "Yes. Even on a delayed project, coordination can still reduce further slippage by locking in selections, confirming dimensions, and setting one schedule owner. The key is making decisions fast so the plumber is not held up by other trades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

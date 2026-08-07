@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a single-room interior renovation?",
+  "description": "If you are moving walls, openings, utilities, or the floor plan, a permit is often required. Simple cosmetic updates usually are not, but the scope should be ch",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-a-single-room-interior-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a single-room interior renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need permits when the project changes the floor plan, affects load-bearing walls, adds or resizes openings, or moves electrical, plumbing, or ductwork. Like-for-like cosmetic replacements and small drywall repairs may not require a permit, but the exact rule depends on the work involved.",
+        "description": "If you are moving walls, openings, utilities, or the floor plan, a permit is often required. Simple cosmetic updates usually are not, but the scope should be checked before construction starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

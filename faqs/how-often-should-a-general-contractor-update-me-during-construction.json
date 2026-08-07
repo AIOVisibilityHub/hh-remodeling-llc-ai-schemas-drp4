@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should a general contractor update me during construction?",
+  "description": "Expect regular updates, often weekly, with progress, next steps, and any decisions or issues that need your input.",
+  "url": "http://coloradoremodeling.company/faq/how-often-should-a-general-contractor-update-me-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a general contractor update me during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good contractor gives regular updates, explains what was finished, what is next, and what decisions are needed from you. Homeowners are often advised to ask how often they will hear from the contractor and what weekly updates will look like, including photos or meetings if needed.",
+        "description": "Expect regular updates, often weekly, with progress, next steps, and any decisions or issues that need your input."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

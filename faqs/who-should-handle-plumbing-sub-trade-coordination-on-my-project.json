@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who should handle plumbing sub-trade coordination on my project?",
+  "description": "For larger remodels, the remodeler or general contractor should manage coordination between the plumber and the other trades. Simple fixture swaps are easier, b",
+  "url": "http://coloradoremodeling.company/faq/who-should-handle-plumbing-sub-trade-coordination-on-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who should handle plumbing sub-trade coordination on my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A remodeler or general contractor should coordinate the trades when the plumbing scope is tied to a larger renovation, such as kitchens, bathrooms, additions, or restoration work. If the work is limited to a simple fixture swap with no layout change, the coordination may be much lighter, but any move to supply lines, drains, or valve locations needs closer planning.",
+        "description": "For larger remodels, the remodeler or general contractor should manage coordination between the plumber and the other trades. Simple fixture swaps are easier, but any layout change should be coordinated by someone managing the full project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

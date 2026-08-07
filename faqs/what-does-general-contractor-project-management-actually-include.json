@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does general contractor project management actually include?",
+  "description": "It includes scheduling, subcontractor coordination, material procurement, permits, inspections, budget tracking, change orders, and day-to-day communication.",
+  "url": "http://coloradoremodeling.company/faq/what-does-general-contractor-project-management-actually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does general contractor project management actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A strong general contractor project management plan should cover the schedule, subcontractor coordination, material ordering, permits, inspections, budget tracking, and change orders. The best setup also tells you who is responsible day to day so you are not guessing who to call when something changes.",
+        "description": "It includes scheduling, subcontractor coordination, material procurement, permits, inspections, budget tracking, change orders, and day-to-day communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

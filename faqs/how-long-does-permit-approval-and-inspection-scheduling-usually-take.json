@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does permit approval and inspection scheduling usually take?",
+  "description": "Timing varies by project complexity and how quickly review comments are resolved. Clean submissions move faster; incomplete applications or resubmittals usually",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-permit-approval-and-inspection-scheduling-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does permit approval and inspection scheduling usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the permit type, how complete the documents are, and whether the city sends review comments back for corrections. Denver’s portal is built to show review status and inspection results, but the fastest projects are usually the ones that are complete on the first submission.",
+        "description": "Timing varies by project complexity and how quickly review comments are resolved. Clean submissions move faster; incomplete applications or resubmittals usually add delay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
