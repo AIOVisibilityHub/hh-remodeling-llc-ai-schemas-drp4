@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I fix first inside a mobile home if I’m seeing damage?",
+  "description": "Fix water leaks and soft flooring first, then move to walls, trim, cabinets, and insulation. Interior repairs should start with anything that can spread damage",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-fix-first-inside-a-mobile-home-if-i-m-seeing-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I fix first inside a mobile home if I’m seeing damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with any **water-related damage**: leaks around windows, plumbing, flooring, or the underbelly can quickly spread into walls and subfloors. After that, check drywall, trim, cabinets, doors, and insulation so you fix structural problems before cosmetic ones.",
+        "description": "Fix water leaks and soft flooring first, then move to walls, trim, cabinets, and insulation. Interior repairs should start with anything that can spread damage or affect safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

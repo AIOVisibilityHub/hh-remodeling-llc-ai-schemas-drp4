@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does mobile home trim and door repair usually cost?",
+  "description": "Price varies by damage and materials. Simple adjustments cost less; water damage, framing work, or full replacements cost more.",
+  "url": "http://coloradoremodeling.company/faq/what-does-mobile-home-trim-and-door-repair-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does mobile home trim and door repair usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on whether the job is a quick adjustment, a trim replacement, or a full door and frame repair. Material choice, damage behind the trim, and accessibility all affect price, and water damage is usually the biggest cost driver because it expands the scope. Ask for an estimate that separates labor, materials, and any likely follow-up repairs so you can compare options clearly.",
+        "description": "Price varies by damage and materials. Simple adjustments cost less; water damage, framing work, or full replacements cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when widening a doorway?",
+  "description": "Common problems include hidden structural issues, inadequate final clearance, and missing permit steps. A proper site evaluation helps avoid a doorway that look",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-widening-a-doorway",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when widening a doorway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are underestimating the structure, choosing the wrong swing direction, or creating a doorway that still leaves too little clearance after trim and hardware are installed. In Denver, changing a doorway opening can also trigger permit and inspection requirements, so skipping that step can create delays or rework.",
+        "description": "Common problems include hidden structural issues, inadequate final clearance, and missing permit steps. A proper site evaluation helps avoid a doorway that looks wider but still does not work for accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

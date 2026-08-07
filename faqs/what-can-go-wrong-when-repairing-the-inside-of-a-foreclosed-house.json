@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong when repairing the inside of a foreclosed house?",
+  "description": "Hidden damage, mold, pests, unsafe debris, and electrical problems are the main risks. A rushed job can make the repair more expensive and less safe.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-repairing-the-inside-of-a-foreclosed-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong when repairing the inside of a foreclosed house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are hidden water damage, mold, electrical problems, pests, and unsafe debris. Foreclosed properties can also have abandoned chemicals, broken glass, or damaged subfloors, so a rushed repair can turn a manageable job into a larger restoration project.",
+        "description": "Hidden damage, mold, pests, unsafe debris, and electrical problems are the main risks. A rushed job can make the repair more expensive and less safe."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

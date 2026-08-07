@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will widening one doorway make a real difference for accessibility?",
+  "description": "Yes, if it is the doorway that blocks everyday movement. The biggest improvement comes when the opening, swing direction, and surrounding clearance are all addr",
+  "url": "http://coloradoremodeling.company/faq/will-widening-one-doorway-make-a-real-difference-for-accessibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will widening one doorway make a real difference for accessibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A successful project should make movement easier for a person using a wheelchair, walker, or mobility aid without forcing awkward turns or scraping door frames. The best results usually come from widening the doorway, reducing obstacles near the opening, and matching the door swing to the room layout.",
+        "description": "Yes, if it is the doorway that blocks everyday movement. The biggest improvement comes when the opening, swing direction, and surrounding clearance are all addressed together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

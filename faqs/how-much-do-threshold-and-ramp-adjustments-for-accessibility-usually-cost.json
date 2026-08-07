@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do threshold and ramp adjustments for accessibility usually cost?",
+  "description": "Costs vary widely based on whether you need a small threshold fix or a larger custom ramp. The rise, materials, and site prep are the main things that affect pr",
+  "url": "http://coloradoremodeling.company/faq/how-much-do-threshold-and-ramp-adjustments-for-accessibility-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do threshold and ramp adjustments for accessibility usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on whether the project is a small threshold modification, a portable solution, or a built ramp with landings and handrails. The biggest price drivers are material, length, site preparation, and whether the entrance needs structural changes, so a measured assessment is the best way to avoid paying for the wrong solution.",
+        "description": "Costs vary widely based on whether you need a small threshold fix or a larger custom ramp. The rise, materials, and site prep are the main things that affect price."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

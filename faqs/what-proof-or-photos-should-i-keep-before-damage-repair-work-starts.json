@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof or photos should I keep before damage repair work starts?",
+  "description": "Take clear before photos and keep estimates, receipts, and completion records. Good documentation helps track what was damaged, what was repaired, and what stil",
+  "url": "http://coloradoremodeling.company/faq/what-proof-or-photos-should-i-keep-before-damage-repair-work-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof or photos should I keep before damage repair work starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before any repair work, document the damage with clear photos and keep records of estimates, receipts, and completed work. This is especially helpful if the damage came from water, fire, or a tenant issue, because it shows what was there before repairs and what was actually completed.",
+        "description": "Take clear before photos and keep estimates, receipts, and completion records. Good documentation helps track what was damaged, what was repaired, and what still needs attention."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

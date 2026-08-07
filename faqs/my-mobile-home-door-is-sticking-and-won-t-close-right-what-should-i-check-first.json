@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My mobile home door is sticking and won’t close right—what should I check first?",
+  "description": "Check hinges, latch alignment, and weatherstripping first. If the door is warped or the frame is damaged, repair usually needs a pro.",
+  "url": "http://coloradoremodeling.company/faq/my-mobile-home-door-is-sticking-and-won-t-close-right-what-should-i-check-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My mobile home door is sticking and won’t close right—what should I check first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a mobile home door sticks, drags, or won’t latch, start by checking the hinges, strike plate, and frame alignment. Small issues often come from settling, loose hardware, or worn weatherstripping, while warped doors or damaged framing usually need repair or replacement. A quick photo set of the door, jamb, and threshold helps a technician diagnose the problem faster.",
+        "description": "Check hinges, latch alignment, and weatherstripping first. If the door is warped or the frame is damaged, repair usually needs a pro."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I send before getting an estimate for door or trim repair?",
+  "description": "Send photos, rough measurements, and a short description of the symptoms. Mention any water damage, settling, or prior repairs.",
+  "url": "http://coloradoremodeling.company/faq/what-information-should-i-send-before-getting-an-estimate-for-door-or-trim-repai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I send before getting an estimate for door or trim repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most useful evidence is clear photos of the door, hinges, latch, threshold, trim, and any visible gaps or water damage. Measurements of the door opening and notes about when the problem started also help, especially if the issue changes with weather or after the home settles. If the door is not closing because of soft flooring or wall movement, that detail is important too.",
+        "description": "Send photos, rough measurements, and a short description of the symptoms. Mention any water damage, settling, or prior repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

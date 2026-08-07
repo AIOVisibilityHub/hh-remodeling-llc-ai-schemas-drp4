@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with a bathroom accessibility remodel?",
+  "description": "Common mistakes are weak grab-bar support, cramped layouts, slippery flooring, and showers that are still hard to enter safely.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-bathroom-accessibility-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with a bathroom accessibility remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are poor planning, weak wall backing for grab bars, choosing a shower that is still hard to enter, and leaving too little turning space for mobility aids. Another common problem is focusing on one issue, like the toilet, while ignoring flooring, lighting, and door clearance.",
+        "description": "Common mistakes are weak grab-bar support, cramped layouts, slippery flooring, and showers that are still hard to enter safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

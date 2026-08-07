@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if a mobile home wall or ceiling is repaired the wrong way?",
+  "description": "If moisture isn’t fixed first or the wrong materials are used, the damage often comes back and the finish can fail again.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-a-mobile-home-wall-or-ceiling-is-repaired-the-wrong-way",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if a mobile home wall or ceiling is repaired the wrong way?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is patching over an active moisture problem, which can lead to recurring damage, mold, or a failed repair. In mobile homes, using the wrong materials or skipping reinforcement can also make seams, ceilings, and wall panels crack again.",
+        "description": "If moisture isn’t fixed first or the wrong materials are used, the damage often comes back and the finish can fail again."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

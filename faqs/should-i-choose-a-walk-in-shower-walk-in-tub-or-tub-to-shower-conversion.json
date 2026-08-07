@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose a walk-in shower, walk-in tub, or tub-to-shower conversion?",
+  "description": "Choose based on mobility and bathing preferences: walk-in showers are usually best for access, while walk-in tubs fit people who still want soaking and can tran",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-a-walk-in-shower-walk-in-tub-or-tub-to-shower-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose a walk-in shower, walk-in tub, or tub-to-shower conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Walk-in showers are usually the most practical comparison point against tub-to-shower conversions and walk-in tubs. A walk-in shower is often best for wheelchair or walker access, while a walk-in tub may work better for someone who prefers soaking and can still transfer safely.",
+        "description": "Choose based on mobility and bathing preferences: walk-in showers are usually best for access, while walk-in tubs fit people who still want soaking and can transfer safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

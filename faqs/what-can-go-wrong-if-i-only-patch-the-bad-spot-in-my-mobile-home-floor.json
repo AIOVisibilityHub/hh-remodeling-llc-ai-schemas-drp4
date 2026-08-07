@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I only patch the bad spot in my mobile home floor?",
+  "description": "A surface patch alone may hide deeper rot and let the damage keep spreading. If the subfloor or supports are compromised, the repair has to address the structur",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-only-patch-the-bad-spot-in-my-mobile-home-floor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I only patch the bad spot in my mobile home floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is fixing only the top layer while leaving rot or moisture underneath, which can cause the same problem to return. Other risks include hidden mold, damaged joists, and uneven floors if the repair is not tied back into solid framing.",
+        "description": "A surface patch alone may hide deeper rot and let the damage keep spreading. If the subfloor or supports are compromised, the repair has to address the structure too."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

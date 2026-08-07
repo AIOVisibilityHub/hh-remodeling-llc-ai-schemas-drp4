@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to widen a doorway in my home?",
+  "description": "Simple openings may be handled quickly, but structural work and permitting can add time. The exact schedule depends on whether the wall is load-bearing and whet",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-widen-a-doorway-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to widen a doorway in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A straightforward interior widening can often be completed in a short remodeling window, but the timeline depends on framing, inspections, and finish work. If permits are required in Denver or nearby cities, the schedule can be longer because approval and inspection add steps.",
+        "description": "Simple openings may be handled quickly, but structural work and permitting can add time. The exact schedule depends on whether the wall is load-bearing and whether inspections are required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

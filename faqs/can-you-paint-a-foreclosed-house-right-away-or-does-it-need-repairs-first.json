@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you paint a foreclosed house right away, or does it need repairs first?",
+  "description": "Usually repairs come first. Paint should go on after leaks, loose material, and major damage are stabilized so the finish lasts.",
+  "url": "http://coloradoremodeling.company/faq/can-you-paint-a-foreclosed-house-right-away-or-does-it-need-repairs-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you paint a foreclosed house right away, or does it need repairs first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often paint after major debris removal, moisture issues, and surface damage are handled. If the property has active leaks, mold-like staining, or loose material, those problems should be addressed first or the finish may fail quickly.",
+        "description": "Usually repairs come first. Paint should go on after leaks, loose material, and major damage are stabilized so the finish lasts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

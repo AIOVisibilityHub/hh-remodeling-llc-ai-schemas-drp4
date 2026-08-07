@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know a grab bar was installed safely?",
+  "description": "A safe grab bar should be firmly anchored into framing or proper backing, use the right fasteners for the wall, and stay solid when loaded. Loose movement, crac",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-a-grab-bar-was-installed-safely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know a grab bar was installed safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A secure grab bar should be mounted into framing or approved backing, and installers should match the fasteners to the wall assembly. In bathrooms, they also need to protect waterproofing and avoid creating leaks or cracked tile.\n\nThe biggest red flag is a bar that feels loose, shifts under pressure, or was installed only into drywall without proper support. If you are comparing installers, ask how they locate studs, what anchors they use, and whether they check for waterproofing issues before drilling.\n\nKey factors:\n- Stud location or added blocking behind the wall\n- Correct fasteners for tile, fiberglass, or drywall\n- Protection of waterproof membranes and finished surfaces\n- Final stability test after installation\n\nIf you already have a bar that feels unsafe, stop using it until it is checked. HH Remodeling LLC can assess and correct grab bar installation issues for homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "description": "A safe grab bar should be firmly anchored into framing or proper backing, use the right fasteners for the wall, and stay solid when loaded. Loose movement, cracking, or drywall-only mounting are warning signs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

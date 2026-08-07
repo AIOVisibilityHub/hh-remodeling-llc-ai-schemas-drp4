@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a finished accessible bathroom actually make easier?",
+  "description": "It should make bathing, toileting, and sink use safer, easier, and more independent while reducing fall risk.",
+  "url": "http://coloradoremodeling.company/faq/what-should-a-finished-accessible-bathroom-actually-make-easier",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a finished accessible bathroom actually make easier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-planned modification should make bathing, toileting, and sink use safer and easier while reducing the chance of slips or assistance-related strain. For many homeowners in Denver and nearby suburbs, the biggest outcome is staying in the home longer with a bathroom that matches current and future mobility needs.",
+        "description": "It should make bathing, toileting, and sink use safer, easier, and more independent while reducing fall risk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

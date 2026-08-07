@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my mobile home floor needs repair or full replacement?",
+  "description": "Small, localized damage can often be repaired. Widespread soft spots, sagging, or rot usually mean the subfloor needs replacement instead of a simple patch.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-mobile-home-floor-needs-repair-or-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my mobile home floor needs repair or full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You usually need a repair rather than a full replacement if the damage is limited to a small area and the joists or framing are still sound. A full replacement is more likely when there is widespread rot, repeated water damage, or the subfloor has failed in several rooms.",
+        "description": "Small, localized damage can often be repaired. Widespread soft spots, sagging, or rot usually mean the subfloor needs replacement instead of a simple patch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

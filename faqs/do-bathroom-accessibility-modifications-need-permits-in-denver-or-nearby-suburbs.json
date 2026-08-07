@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do bathroom accessibility modifications need permits in Denver or nearby suburbs?",
+  "description": "Often yes, especially if plumbing, structural, or layout changes are involved. Check local permit and inspection requirements before construction starts.",
+  "url": "http://coloradoremodeling.company/faq/do-bathroom-accessibility-modifications-need-permits-in-denver-or-nearby-suburbs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do bathroom accessibility modifications need permits in Denver or nearby suburbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, local rules can affect permits, inspections, and whether the bathroom design needs to meet accessibility code expectations. If your project changes the layout, plumbing, or structural framing, it is worth confirming those requirements before work begins.",
+        "description": "Often yes, especially if plumbing, structural, or layout changes are involved. Check local permit and inspection requirements before construction starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

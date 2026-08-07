@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to fix trim or a door on a mobile home?",
+  "description": "Small fixes may take one visit. Bigger repairs with rot, framing, or special-order parts can take longer.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-fix-trim-or-a-door-on-a-mobile-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to fix trim or a door on a mobile home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simple door adjustments or trim fixes can often be handled in one visit, while replacement work or repairs involving rot, framing, or custom parts can take longer. Timing depends on how much has to be removed, whether materials are on hand, and whether the opening needs to be rebuilt before the door can be reinstalled. In the Denver area, sending photos in advance can help narrow down the schedule before the visit.",
+        "description": "Small fixes may take one visit. Bigger repairs with rot, framing, or special-order parts can take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

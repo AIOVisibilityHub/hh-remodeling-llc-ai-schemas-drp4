@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first after taking over a foreclosed property that needs interior repair?",
+  "description": "Secure the property, document every room, and identify hazards before touching anything. That first inspection helps you avoid extra damage, missed repairs, and",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-after-taking-over-a-foreclosed-property-that-needs-interi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first after taking over a foreclosed property that needs interior repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a full interior walk-through and documentation before any demo or cleaning begins. In foreclosure work, the first priority is to secure the property, identify hazards, and separate salvageable items from debris so the repair plan is accurate and the job does not create new damage.",
+        "description": "Secure the property, document every room, and identify hazards before touching anything. That first inspection helps you avoid extra damage, missed repairs, and delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

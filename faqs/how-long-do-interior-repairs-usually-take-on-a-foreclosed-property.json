@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do interior repairs usually take on a foreclosed property?",
+  "description": "Small repair jobs can move fast, but damaged foreclosures take longer. The timeline depends on debris, water damage, missing fixtures, and how much restoration",
+  "url": "http://coloradoremodeling.company/faq/how-long-do-interior-repairs-usually-take-on-a-foreclosed-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do interior repairs usually take on a foreclosed property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on size, damage level, and how much debris or hidden damage is inside. Simple interior repairs may be completed quickly, while properties with water damage, mold, stripped fixtures, or heavy debris usually take longer because each issue has to be handled in sequence.",
+        "description": "Small repair jobs can move fast, but damaged foreclosures take longer. The timeline depends on debris, water damage, missing fixtures, and how much restoration is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

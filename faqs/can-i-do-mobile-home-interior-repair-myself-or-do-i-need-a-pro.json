@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do mobile home interior repair myself, or do I need a pro?",
+  "description": "Small cosmetic repairs can be DIY if you have the tools and time. Call a pro when damage involves leaks, sagging floors, electrical work, or anything that sugge",
+  "url": "http://coloradoremodeling.company/faq/can-i-do-mobile-home-interior-repair-myself-or-do-i-need-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do mobile home interior repair myself, or do I need a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the job is limited to drywall patches, painting, trim, flooring, or cabinet repairs, many homeowners can handle parts of it themselves. But if you find moisture damage, uneven floors, electrical problems, or cabinet and wall damage tied to leaks, it is usually better to bring in a professional.",
+        "description": "Small cosmetic repairs can be DIY if you have the tools and time. Call a pro when damage involves leaks, sagging floors, electrical work, or anything that suggests hidden structural problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

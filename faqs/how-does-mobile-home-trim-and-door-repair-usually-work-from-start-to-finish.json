@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does mobile home trim and door repair usually work from start to finish?",
+  "description": "It usually starts with an estimate and inspection, followed by repairs, hardware adjustment, sealing, and a final fit check.",
+  "url": "http://coloradoremodeling.company/faq/how-does-mobile-home-trim-and-door-repair-usually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does mobile home trim and door repair usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with an estimate, then a site visit to confirm measurements, materials, and the source of the problem. For mobile homes, trim and door work may include removing damaged sections, squaring the opening, replacing hardware or casing, sealing gaps, and testing the door for smooth operation. Good repairs should leave the door opening secure, weather-tight, and easier to use.",
+        "description": "It usually starts with an estimate and inspection, followed by repairs, hardware adjustment, sealing, and a final fit check."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

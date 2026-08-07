@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why does painting a foreclosed property cost more than a regular paint job?",
+  "description": "Foreclosed homes often need extra prep, repairs, and cleanup, which raises the price beyond a standard repaint.",
+  "url": "http://coloradoremodeling.company/faq/why-does-painting-a-foreclosed-property-cost-more-than-a-regular-paint-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does painting a foreclosed property cost more than a regular paint job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest cost drivers are square footage, how much prep is needed, and whether repairs are required before painting starts. Foreclosed properties often cost more than a normal repaint because of patching, stain blocking, cleanup, and extra surface preparation.",
+        "description": "Foreclosed homes often need extra prep, repairs, and cleanup, which raises the price beyond a standard repaint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

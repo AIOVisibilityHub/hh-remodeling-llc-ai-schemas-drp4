@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What actually happens during mobile home flooring repair?",
+  "description": "A pro removes the damaged flooring, replaces rotten subfloor sections, checks support framing, and then installs the new surface layer. The exact steps depend o",
+  "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-mobile-home-flooring-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What actually happens during mobile home flooring repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with removing the finished flooring, cutting out the damaged subfloor, checking the joists and blocking, then installing new structural material and rebuilding the surface. If the damage is near walls or seams, careful measuring and cutting matter because mobile home floors are often built with thinner materials and tighter layouts than site-built homes.",
+        "description": "A pro removes the damaged flooring, replaces rotten subfloor sections, checks support framing, and then installs the new surface layer. The exact steps depend on how far the damage has spread."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

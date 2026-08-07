@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a mobile home interior repair urgent?",
+  "description": "Repairs are urgent when you see leaks, soft floors, mold, or electrical issues. Those problems can spread fast and lead to much bigger damage if they are delaye",
+  "url": "http://coloradoremodeling.company/faq/when-is-a-mobile-home-interior-repair-urgent",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a mobile home interior repair urgent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you notice active leaks, sagging floors, mold growth, electrical problems, or cold air and drafts coming through the interior, do not wait. Those issues can worsen quickly and create larger repairs behind the walls or under the floor.",
+        "description": "Repairs are urgent when you see leaks, soft floors, mold, or electrical issues. Those problems can spread fast and lead to much bigger damage if they are delayed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

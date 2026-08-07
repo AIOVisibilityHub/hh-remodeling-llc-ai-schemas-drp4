@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can mobile home trim and doors usually be repaired, or do they need replacement?",
+  "description": "Many problems can be repaired, but rot, water damage, or a badly warped frame often mean replacement is the better fix.",
+  "url": "http://coloradoremodeling.company/faq/can-mobile-home-trim-and-doors-usually-be-repaired-or-do-they-need-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can mobile home trim and doors usually be repaired, or do they need replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many mobile home trim and door issues are repairable, especially if the damage is limited to loose trim, minor rot, bad caulk, sticking hardware, or a door that needs adjustment. Replacement is more likely when the door slab, jamb, or surrounding wall has water damage or is badly out of square. The right answer depends on what is damaged, not just how it looks from the outside.",
+        "description": "Many problems can be repaired, but rot, water damage, or a badly warped frame often mean replacement is the better fix."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

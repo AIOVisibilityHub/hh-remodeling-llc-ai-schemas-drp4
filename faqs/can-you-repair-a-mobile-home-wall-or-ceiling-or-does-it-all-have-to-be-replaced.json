@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you repair a mobile home wall or ceiling, or does it all have to be replaced?",
+  "description": "Small cracks and holes can often be patched, but soft, sagging, or water-damaged areas usually need partial replacement before finishing.",
+  "url": "http://coloradoremodeling.company/faq/can-you-repair-a-mobile-home-wall-or-ceiling-or-does-it-all-have-to-be-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you repair a mobile home wall or ceiling, or does it all have to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small holes, nail pops, hairline cracks, and minor tape failure are usually repairable without replacing the whole wall or ceiling. If the damage is soft, sagging, stained, or growing after a leak, a proper inspection is needed first so the damaged material can be cut out and rebuilt correctly.",
+        "description": "Small cracks and holes can often be patched, but soft, sagging, or water-damaged areas usually need partial replacement before finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

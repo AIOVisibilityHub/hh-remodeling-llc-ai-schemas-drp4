@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a handyman or a mobile home repair specialist for trim and door work?",
+  "description": "Use a handyman for minor fixes, but choose a mobile-home-experienced repair pro for warping, rot, or structural issues.",
+  "url": "http://coloradoremodeling.company/faq/should-i-hire-a-handyman-or-a-mobile-home-repair-specialist-for-trim-and-door-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a handyman or a mobile home repair specialist for trim and door work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a simple sticking door or loose trim, a handyman-style repair may be enough; for warped openings, structural damage, or repeated water intrusion, you want someone experienced with mobile home construction details. Compare whether the provider understands mobile home doors, trim profiles, moisture damage, and how these homes shift over time. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to choose someone who can respond locally and inspect in person before quoting.",
+        "description": "Use a handyman for minor fixes, but choose a mobile-home-experienced repair pro for warping, rot, or structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

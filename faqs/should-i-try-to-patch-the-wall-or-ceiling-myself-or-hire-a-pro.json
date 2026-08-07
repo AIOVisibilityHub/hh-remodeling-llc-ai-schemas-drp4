@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I try to patch the wall or ceiling myself, or hire a pro?",
+  "description": "DIY can work for small cosmetic damage, but professionals are better for leaks, sagging, seams, and texture matching.",
+  "url": "http://coloradoremodeling.company/faq/should-i-try-to-patch-the-wall-or-ceiling-myself-or-hire-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I try to patch the wall or ceiling myself, or hire a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing DIY and professional repair, the main difference is finish quality and hidden-damage detection. DIY can work for tiny cosmetic patches, but professional repair is usually the safer choice for seams, sagging ceilings, water stains, or texture matching.",
+        "description": "DIY can work for small cosmetic damage, but professionals are better for leaks, sagging, seams, and texture matching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

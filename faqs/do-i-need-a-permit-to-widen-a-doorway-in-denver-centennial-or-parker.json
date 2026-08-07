@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to widen a doorway in Denver, Centennial, or Parker?",
+  "description": "If the size of the doorway opening changes, a permit may be required. This is especially important in Denver-area residential remodel work, so it is worth confi",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-to-widen-a-doorway-in-denver-centennial-or-parker",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to widen a doorway in Denver, Centennial, or Parker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Denver and nearby South Denver metro communities, permits matter because changing the size of a doorway opening can require residential remodel approval. That is especially relevant in places like Centennial, Greenwood Village, Foxfield, and Parker where homeowners often combine accessibility updates with other interior remodeling.",
+        "description": "If the size of the doorway opening changes, a permit may be required. This is especially important in Denver-area residential remodel work, so it is worth confirming before the wall is opened up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

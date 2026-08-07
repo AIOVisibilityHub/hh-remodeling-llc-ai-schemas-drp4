@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I have ready before I ask for an accessibility bathroom quote?",
+  "description": "Bring photos, rough measurements, and a clear list of the mobility problems you want solved. A written scope helps make the estimate more accurate.",
+  "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-i-ask-for-an-accessibility-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I have ready before I ask for an accessibility bathroom quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not need a perfect list of products before getting started, but it helps to share any medical or mobility concerns, photos of the bathroom, measurements if you have them, and what daily tasks are hardest. If a professional is helping, a written scope of work is important so you know exactly what will be installed.",
+        "description": "Bring photos, rough measurements, and a clear list of the mobility problems you want solved. A written scope helps make the estimate more accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

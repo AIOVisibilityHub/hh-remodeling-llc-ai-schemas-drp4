@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to get a damaged home ready for sale or a rental ready for move-in?",
+  "description": "Small prep repairs may be quick, but bigger damage takes longer. If you have a listing or move-in deadline, book the assessment early so the work can be priorit",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-get-a-damaged-home-ready-for-sale-or-a-rental-ready-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to get a damaged home ready for sale or a rental ready for move-in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on how much damage is involved, but smaller cosmetic repairs can often be completed quickly, while larger restoration work takes longer. If you have a deadline for listing or a new tenant move-in, the best move is to schedule the assessment early so the repair plan fits the timeline.",
+        "description": "Small prep repairs may be quick, but bigger damage takes longer. If you have a listing or move-in deadline, book the assessment early so the work can be prioritized correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

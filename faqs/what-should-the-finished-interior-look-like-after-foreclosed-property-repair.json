@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should the finished interior look like after foreclosed property repair?",
+  "description": "The goal is a clean, safe, functional interior that’s ready for resale, rental, or further renovation. It should have no active hazards and no obvious damage le",
+  "url": "http://coloradoremodeling.company/faq/what-should-the-finished-interior-look-like-after-foreclosed-property-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should the finished interior look like after foreclosed property repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A properly repaired foreclosed interior should be clean, safe, and ready for the next step, whether that is resale, rental, or further renovation. In many cases, the goal is not a luxury finish but a durable, presentable interior with functional surfaces, working fixtures, and no active hazards.",
+        "description": "The goal is a clean, safe, functional interior that’s ready for resale, rental, or further renovation. It should have no active hazards and no obvious damage left behind."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a finished mobile home wall or ceiling repair look like?",
+  "description": "The finished area should be solid, blended, and ready for paint, with no soft spots or obvious patched edges.",
+  "url": "http://coloradoremodeling.company/faq/what-should-a-finished-mobile-home-wall-or-ceiling-repair-look-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a finished mobile home wall or ceiling repair look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-done repair should look smooth, stay solid, and blend into the surrounding wall or ceiling after paint. If the damage was only cosmetic, the goal is a clean finish; if water caused the problem, the goal is to restore the surface and stop the issue from spreading.",
+        "description": "The finished area should be solid, blended, and ready for paint, with no soft spots or obvious patched edges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

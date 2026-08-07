@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do bathroom accessibility modifications cost in Denver?",
+  "description": "Cost depends on the scope, from targeted safety upgrades to full remodels. Shower changes, layout work, and structural updates usually drive the price up most.",
+  "url": "http://coloradoremodeling.company/faq/how-much-do-bathroom-accessibility-modifications-cost-in-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do bathroom accessibility modifications cost in Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely based on the scope, but Denver-area accessibility conversions commonly range from a few thousand dollars for targeted changes to much more for a full remodel. The biggest cost drivers are shower replacement, layout changes, waterproofing, wall reinforcement, and fixture upgrades.",
+        "description": "Cost depends on the scope, from targeted safety upgrades to full remodels. Shower changes, layout work, and structural updates usually drive the price up most."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

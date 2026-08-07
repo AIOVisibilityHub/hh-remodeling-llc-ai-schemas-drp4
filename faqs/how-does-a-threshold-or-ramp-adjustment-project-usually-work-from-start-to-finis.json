@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a threshold or ramp adjustment project usually work from start to finish?",
+  "description": "It usually starts with measuring the entrance and reviewing access options, then moves to design, material selection, and installation. Final details depend on",
+  "url": "http://coloradoremodeling.company/faq/how-does-a-threshold-or-ramp-adjustment-project-usually-work-from-start-to-finis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a threshold or ramp adjustment project usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with an on-site measurement, photos of the entrance, and a review of the route leading to the door. From there, the installer compares possible access points, confirms slope and landing requirements, and then plans the transition, surface, and any handrails or supports needed.",
+        "description": "It usually starts with measuring the entrance and reviewing access options, then moves to design, material selection, and installation. Final details depend on the rise, space, and how the entry will be used."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

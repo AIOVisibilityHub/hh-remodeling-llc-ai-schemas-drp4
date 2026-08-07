@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if a threshold ramp is enough or if I need a full ramp?",
+  "description": "If the rise is small and the doorway has enough space, a threshold ramp may be enough. Taller rises, tight landings, or limited turning space usually point to a",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-threshold-ramp-is-enough-or-if-i-need-a-full-ramp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if a threshold ramp is enough or if I need a full ramp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most accessibility evaluations focus on the height of the rise, the available run length, the doorway width, and whether there is room for level landings at the top and bottom. The best solution also depends on whether the person uses a wheelchair, walker, scooter, or caregiver assistance, because that affects slope, width, and turning space.",
+        "description": "If the rise is small and the doorway has enough space, a threshold ramp may be enough. Taller rises, tight landings, or limited turning space usually point to a full ramp instead."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

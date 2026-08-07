@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during mobile home wall and ceiling repair?",
+  "description": "A good repair starts with finding the cause, then patching or replacing the damaged section, finishing it, and matching the texture.",
+  "url": "http://coloradoremodeling.company/faq/what-happens-during-mobile-home-wall-and-ceiling-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during mobile home wall and ceiling repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to identify the cause of the damage, especially if there was a roof or plumbing leak. After that, the damaged section is protected, cut out if needed, repaired with matching materials, then taped, textured, and finished to blend with the surrounding surface.",
+        "description": "A good repair starts with finding the cause, then patching or replacing the damaged section, finishing it, and matching the texture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

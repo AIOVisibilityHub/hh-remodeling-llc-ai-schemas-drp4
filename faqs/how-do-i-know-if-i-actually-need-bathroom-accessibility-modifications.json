@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I actually need bathroom accessibility modifications?",
+  "description": "If stepping over the tub, turning in the room, or using the toilet and sink safely is becoming difficult, you likely need modifications tailored to the user’s m",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-i-actually-need-bathroom-accessibility-modifications",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I actually need bathroom accessibility modifications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eligibility usually depends on the mobility, balance, or caregiving needs of the person using the bathroom, not just age. A bathroom that works for someone who only needs grab bars may be very different from one designed for a wheelchair, walker, or assisted transfer.",
+        "description": "If stepping over the tub, turning in the room, or using the toilet and sink safely is becoming difficult, you likely need modifications tailored to the user’s mobility level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

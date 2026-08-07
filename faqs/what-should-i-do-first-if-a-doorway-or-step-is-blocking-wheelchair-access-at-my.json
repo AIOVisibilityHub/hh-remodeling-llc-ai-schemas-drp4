@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if a doorway or step is blocking wheelchair access at my home?",
+  "description": "Measure the rise, note the doorway type, and determine whether the obstacle is a small threshold or a full step. That tells you whether a threshold ramp, bevele",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-a-doorway-or-step-is-blocking-wheelchair-access-at-my",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if a doorway or step is blocking wheelchair access at my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to measure the vertical rise at the doorway or step and note whether the change in level is at an exterior door, interior door, or entrance to a porch, garage, or deck. A small threshold may need only a beveled threshold or a compact threshold ramp, while larger rises usually require a full ramp design with landings and enough clear width for the mobility device.",
+        "description": "Measure the rise, note the doorway type, and determine whether the obstacle is a small threshold or a full step. That tells you whether a threshold ramp, beveled transition, or longer ramp is likely needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

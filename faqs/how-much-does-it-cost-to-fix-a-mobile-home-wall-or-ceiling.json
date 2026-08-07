@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to fix a mobile home wall or ceiling?",
+  "description": "Pricing depends on damage size, water involvement, and finish work like texture matching or repainting.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-it-cost-to-fix-a-mobile-home-wall-or-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to fix a mobile home wall or ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size of the damaged area, whether the problem is cosmetic or structural, and whether moisture damage is involved. Repairs with matching texture, repainting, or hidden damage behind the wall or ceiling usually cost more than a straightforward patch.",
+        "description": "Pricing depends on damage size, water involvement, and finish work like texture matching or repainting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
