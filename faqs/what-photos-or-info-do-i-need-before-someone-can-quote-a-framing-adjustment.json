@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What photos or info do I need before someone can quote a framing adjustment?",
+  "description": "Bring photos, rough measurements, and notes about when the problem started. Door sticking, cracks, uneven floors, or water damage history help a contractor tell",
+  "url": "http://coloradoremodeling.company/faq/what-photos-or-info-do-i-need-before-someone-can-quote-a-framing-adjustment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What photos or info do I need before someone can quote a framing adjustment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most useful evidence is clear photos, measurements, and a description of when you noticed the issue. If you have gaps, sticking doors, cracked finishes, uneven floors, or past water intrusion, share those details because they help identify whether the framing moved or the finish simply drifted. If previous repairs were done, records of that work can also help.",
+        "description": "Bring photos, rough measurements, and notes about when the problem started. Door sticking, cracks, uneven floors, or water damage history help a contractor tell whether the issue is framing movement or a finish problem."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

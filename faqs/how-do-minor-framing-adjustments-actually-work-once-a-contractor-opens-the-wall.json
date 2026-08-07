@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do minor framing adjustments actually work once a contractor opens the wall?",
+  "description": "It starts with measuring and diagnosis, then the crew corrects the framing by shimming, re-squaring, sistering, or reinforcing the affected area. The goal is to",
+  "url": "http://coloradoremodeling.company/faq/how-do-minor-framing-adjustments-actually-work-once-a-contractor-opens-the-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do minor framing adjustments actually work once a contractor opens the wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with measuring the affected area, identifying the cause, and checking surrounding framing for hidden damage. After that, the crew may shim, re-square, sister, reinforce, replace short sections, or adjust openings so the finished surface can install correctly. Good documentation matters because a small framing change can affect drywall, trim, doors, cabinets, or siding later.",
+        "description": "It starts with measuring and diagnosis, then the crew corrects the framing by shimming, re-squaring, sistering, or reinforcing the affected area. The goal is to restore alignment without creating problems for drywall, trim, doors, or other finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

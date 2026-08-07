@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I fix first before I list a house for sale or get a rental ready?",
+  "description": "Fix visible, safety-related, and inspection-sensitive damage first: leaks, drywall, ceiling stains, flooring, trim, and any water or fire damage. That gives the",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-fix-first-before-i-list-a-house-for-sale-or-get-a-rental-ready",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I fix first before I list a house for sale or get a rental ready?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the repairs that affect safety, inspection results, or first impressions: leaks, drywall damage, ceiling stains, broken trim, damaged flooring, and obvious water or fire damage. For sale or rental prep, the goal is to remove the issues buyers or tenants notice immediately and to avoid repair items that can slow a closing or lease-up.",
+        "description": "Fix visible, safety-related, and inspection-sensitive damage first: leaks, drywall, ceiling stains, flooring, trim, and any water or fire damage. That gives the biggest impact for showings, inspections, and tenant confidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

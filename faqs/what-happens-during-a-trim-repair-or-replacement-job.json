@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a trim repair or replacement job?",
+  "description": "A tech inspects the damage, removes failed trim, checks for hidden rot or moisture issues, installs new material if needed, then seals and finishes it to match",
+  "url": "http://coloradoremodeling.company/faq/what-happens-during-a-trim-repair-or-replacement-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a trim repair or replacement job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with a visual inspection, then the damaged trim is removed or stabilized, the underlying area is checked, and new trim is fitted, caulked, primed, and painted as needed. For exterior trim in places like Centennial, Parker, or Greenwood Village, the condition of the surrounding siding, flashing, and moisture exposure matters just as much as the trim itself.",
+        "description": "A tech inspects the damage, removes failed trim, checks for hidden rot or moisture issues, installs new material if needed, then seals and finishes it to match the area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

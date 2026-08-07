@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with a small drywall repair?",
+  "description": "The biggest problems are poor blending, repeat cracking, and repairs over active moisture. If there’s any water damage, fix the cause first or the patch may not",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-small-drywall-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with a small drywall repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are cracking again, visible seams, paint flashing, and hidden moisture problems. If the wall is damaged by a leak, the source needs to be fixed first, or the repair may fail and the damage may return.",
+        "description": "The biggest problems are poor blending, repeat cracking, and repairs over active moisture. If there’s any water damage, fix the cause first or the patch may not last."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my repair is a handyman job or something that needs a specialist?",
+  "description": "If it’s a non-structural fix like drywall, doors, trim, caulk, or hardware, it’s usually handyman work; major plumbing, electrical, or structural issues usually",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-repair-is-a-handyman-job-or-something-that-needs-a-specialis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my repair is a handyman job or something that needs a specialist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A handyman is usually a good fit for non-structural repairs and maintenance, such as minor carpentry, drywall patching, door hardware changes, caulking, weatherstripping, and other everyday fixes. If the job affects framing, major plumbing, major electrical, or permits, it typically needs a specialist instead.",
+        "description": "If it’s a non-structural fix like drywall, doors, trim, caulk, or hardware, it’s usually handyman work; major plumbing, electrical, or structural issues usually are not."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

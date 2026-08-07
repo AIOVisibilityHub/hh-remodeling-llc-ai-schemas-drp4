@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does trim repair usually take, and what slows it down?",
+  "description": "Minor trim repairs may take a few hours. Larger replacement jobs can take a day or more, especially if rot repair, painting, or weather delays are involved.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-trim-repair-usually-take-and-what-slows-it-down",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does trim repair usually take, and what slows it down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simple repairs can sometimes be completed in a short visit, while full replacement usually takes longer because of removal, fitting, drying time, and finish work. Timing depends on how much trim is affected, whether paint matching is needed, and whether weather slows down exterior work in the Denver metro area.",
+        "description": "Minor trim repairs may take a few hours. Larger replacement jobs can take a day or more, especially if rot repair, painting, or weather delays are involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

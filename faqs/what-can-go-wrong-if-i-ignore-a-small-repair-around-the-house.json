@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if I ignore a small repair around the house?",
+  "description": "Ignored repairs can turn into rot, leaks, structural damage, or repeated failures. Water and drainage issues are especially risky in Colorado homes.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-ignore-a-small-repair-around-the-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if I ignore a small repair around the house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are moisture damage, hidden structural problems, repeated failures, and making the repair worse with a quick cosmetic fix. In Colorado homes, water management around windows, siding, gutters, and foundations matters because drainage problems can lead to rot and interior damage.",
+        "description": "Ignored repairs can turn into rot, leaks, structural damage, or repeated failures. Water and drainage issues are especially risky in Colorado homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

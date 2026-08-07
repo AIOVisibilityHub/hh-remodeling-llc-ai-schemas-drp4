@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I send before booking a door repair appointment?",
+  "description": "Send photos of the door, hinges, latch, and gaps, plus a short note describing when the problem happens.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-send-before-booking-a-door-repair-appointment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I send before booking a door repair appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good evidence includes a clear photo of the door open and closed, close-ups of the hinges and latch, and notes about where it rubs or gaps appear. If the problem changes with weather, mention whether it is worse in hot, cold, or humid conditions.",
+        "description": "Send photos of the door, hinges, latch, and gaps, plus a short note describing when the problem happens."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

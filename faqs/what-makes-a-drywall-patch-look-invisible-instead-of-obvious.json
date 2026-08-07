@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a drywall patch look invisible instead of obvious?",
+  "description": "A nearly invisible repair comes down to smooth sanding, careful feathering, and matching the wall texture and paint. Poor blending is what usually makes patches",
+  "url": "http://coloradoremodeling.company/faq/what-makes-a-drywall-patch-look-invisible-instead-of-obvious",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a drywall patch look invisible instead of obvious?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good results depend on matching the wall texture, smoothing the edges, and using the right paint sheen. A repair can still show if the patch is too thick, the sanding is uneven, or the final coat doesn’t blend with surrounding paint.",
+        "description": "A nearly invisible repair comes down to smooth sanding, careful feathering, and matching the wall texture and paint. Poor blending is what usually makes patches stand out."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

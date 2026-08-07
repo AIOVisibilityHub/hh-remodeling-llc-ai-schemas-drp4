@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect a good handyman repair to look like when it’s done?",
+  "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-expect-a-good-handyman-repair-to-look-like-when-it-s-done",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect a good handyman repair to look like when it’s done?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The outcome should be a repair that works correctly and looks clean enough to blend with the surrounding area. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the most common wins are doors that latch properly, walls patched cleanly, and hardware or trim that looks finished.",
+        "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

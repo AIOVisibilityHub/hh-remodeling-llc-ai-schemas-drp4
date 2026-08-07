@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can damaged trim be repaired, or does it always need full replacement?",
+  "description": "Small cracks, nail pops, and minor surface damage can often be repaired. If the trim is soft, warped, or rotted, replacement is usually the better long-term fix",
+  "url": "http://coloradoremodeling.company/faq/can-damaged-trim-be-repaired-or-does-it-always-need-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can damaged trim be repaired, or does it always need full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most trim repair jobs are eligible for service when the damage is limited to the trim itself and the surrounding material is still sound. Replacement is more likely when there is rot, repeated moisture exposure, termite damage, or a section is too warped or broken to patch cleanly.",
+        "description": "Small cracks, nail pops, and minor surface damage can often be repaired. If the trim is soft, warped, or rotted, replacement is usually the better long-term fix."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

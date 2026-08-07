@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my paint can be matched closely enough?",
+  "description": "A good match usually needs the same color, sheen, brand, and paint type. If the original paint is missing or very old, matching becomes harder and the repair ma",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-paint-can-be-matched-closely-enough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my paint can be matched closely enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most touch-ups are worth doing only when the color, sheen, and paint type match closely enough to blend. If you do not have the original paint, matching by eye is risky because even a close color can look different under Denver-area lighting and on textured surfaces. The most reliable result comes from using the same paint brand, color, finish, and grade.",
+        "description": "A good match usually needs the same color, sheen, brand, and paint type. If the original paint is missing or very old, matching becomes harder and the repair may still show."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

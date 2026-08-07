@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I expect the finished repair to look like?",
+  "description": "A good repair should be smooth, solid, and hard to spot once painted. The goal is a finish that blends into the existing wall texture and sheen.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-expect-the-finished-repair-to-look-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I expect the finished repair to look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A properly repaired small hole or dent should leave the wall smooth, stable, and ready for paint. In homes around Denver, Centennial, Greenwood Village, Foxfield, and Parker, homeowners often want a clean finish that blends with existing texture instead of a visible spot patch.",
+        "description": "A good repair should be smooth, solid, and hard to spot once painted. The goal is a finish that blends into the existing wall texture and sheen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What problems usually get fixed during a door adjustment and repair visit?",
+  "description": "Common fixes include sagging, misalignment, loose hinges, broken locks, drafts, and worn weatherstripping.",
+  "url": "http://coloradoremodeling.company/faq/what-problems-usually-get-fixed-during-a-door-adjustment-and-repair-visit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What problems usually get fixed during a door adjustment and repair visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most common repair visits are for sagging doors, loose hinges, worn hardware, misaligned frames, broken knobs, and doors that drag after seasonal movement. Exterior doors can also need weatherstripping or threshold work if drafts or gaps are part of the problem.",
+        "description": "Common fixes include sagging, misalignment, loose hinges, broken locks, drafts, and worn weatherstripping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

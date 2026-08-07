@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if trim damage is repaired the wrong way?",
+  "description": "Bad repairs can trap moisture, hide rot, or fail early. If the underlying cause is not fixed, the damage often returns.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-trim-damage-is-repaired-the-wrong-way",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if trim damage is repaired the wrong way?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are hidden rot, water intrusion, mismatched materials, and repairs that only cover the surface without fixing the cause. On exterior trim, a poor seal or bad paint prep can lead to the same problem coming back, especially after Colorado freeze-thaw cycles.",
+        "description": "Bad repairs can trap moisture, hide rot, or fail early. If the underlying cause is not fixed, the damage often returns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

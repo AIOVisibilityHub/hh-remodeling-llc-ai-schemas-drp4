@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I DIY room addition drywall or hire a professional?",
+  "description": "DIY is possible for small projects, but room additions are usually better handled by a professional if you want a smooth, paint-ready result.",
+  "url": "http://coloradoremodeling.company/faq/should-i-diy-room-addition-drywall-or-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I DIY room addition drywall or hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want the work done cleanly and on the same schedule as the rest of the addition, hire a pro when you need straight walls, consistent seams, and a paint-ready finish. DIY can work for small areas, but room additions usually involve too much finishing detail for most homeowners.",
+        "description": "DIY is possible for small projects, but room additions are usually better handled by a professional if you want a smooth, paint-ready result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

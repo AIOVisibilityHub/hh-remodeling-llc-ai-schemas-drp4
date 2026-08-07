@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What home repairs should I fix first before they turn into a bigger problem?",
+  "description": "Fix leaks, electrical issues, loose fixtures, and any damage that can spread first. Small problems often become much more expensive if you wait.",
+  "url": "http://coloradoremodeling.company/faq/what-home-repairs-should-i-fix-first-before-they-turn-into-a-bigger-problem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What home repairs should I fix first before they turn into a bigger problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small home repairs are usually worth handling right away if they involve water, electrical issues, loose fixtures, or damage that can spread. Waiting often turns a minor fix into a bigger, more expensive problem, especially with leaks, drafts, or exterior openings.",
+        "description": "Fix leaks, electrical issues, loose fixtures, and any damage that can spread first. Small problems often become much more expensive if you wait."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

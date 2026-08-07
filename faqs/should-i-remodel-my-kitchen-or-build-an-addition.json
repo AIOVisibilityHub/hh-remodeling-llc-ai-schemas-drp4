@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I remodel my kitchen or build an addition?",
+  "description": "Choose a remodel if the room size is already workable; choose an addition if the kitchen is fundamentally too small or too closed off. The right answer depends",
+  "url": "http://coloradoremodeling.company/faq/should-i-remodel-my-kitchen-or-build-an-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I remodel my kitchen or build an addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A kitchen addition is often better than a simple remodel when the current footprint is too small to fix with layout changes alone. A remodel may be enough if the room has workable dimensions and only needs new cabinets, surfaces, or fixtures. If you need a larger footprint, an addition is usually the more effective long-term solution.",
+        "description": "Choose a remodel if the room size is already workable; choose an addition if the kitchen is fundamentally too small or too closed off. The right answer depends on the space, not just the finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do minor framing adjustments in Denver or Parker need permits, or can they be handled quietly as a small repair?",
+  "description": "Small non-structural fixes may be straightforward, but anything that changes structure or ties into other building systems should be checked first. In the Denve",
+  "url": "http://coloradoremodeling.company/faq/do-minor-framing-adjustments-in-denver-or-parker-need-permits-or-can-they-be-han",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do minor framing adjustments in Denver or Parker need permits, or can they be handled quietly as a small repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key local question is whether the framing change affects permit-required work or an inspection sequence. Small non-structural corrections may be simpler, but anything involving structural alteration, repair after damage, or work tied to other building systems should be checked before starting. Local weather and moisture exposure can also matter because they often influence why the framing moved in the first place.",
+        "description": "Small non-structural fixes may be straightforward, but anything that changes structure or ties into other building systems should be checked first. In the Denver area, moisture and weather can also be part of the cause, so the root issue matters as much as the repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

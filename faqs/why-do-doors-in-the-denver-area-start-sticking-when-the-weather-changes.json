@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do doors in the Denver area start sticking when the weather changes?",
+  "description": "Colorado weather can shift door fit as wood expands or contracts, especially on exterior doors.",
+  "url": "http://coloradoremodeling.company/faq/why-do-doors-in-the-denver-area-start-sticking-when-the-weather-changes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do doors in the Denver area start sticking when the weather changes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, weather shifts can change how doors fit, especially on exterior entries. If a door suddenly starts sticking after a cold snap or dry spell, the repair often involves small alignment changes rather than rebuilding the whole opening.",
+        "description": "Colorado weather can shift door fit as wood expands or contracts, especially on exterior doors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior wear-and-tear repair usually take?",
+  "description": "Simple repairs can be quick, but larger or color-matched jobs take longer if materials or finishing work are needed.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-interior-wear-and-tear-repair-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior wear-and-tear repair usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the type of damage and how many areas need work. Small cosmetic repairs may be completed quickly, while larger jobs involving multiple surfaces, custom matching, or replacement parts can take longer because materials may need to be ordered or finished to match.",
+        "description": "Simple repairs can be quick, but larger or color-matched jobs take longer if materials or finishing work are needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

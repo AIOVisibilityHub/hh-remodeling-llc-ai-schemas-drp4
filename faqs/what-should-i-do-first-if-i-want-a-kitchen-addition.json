@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want a kitchen addition?",
+  "description": "Start by identifying the problem the addition must solve—space, storage, layout, or entertaining—and then have a contractor evaluate what type of addition fits",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-want-a-kitchen-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want a kitchen addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best first step is to define what the addition needs to solve: more storage, a larger cooking area, better flow, or space for eating and entertaining. A contractor can then confirm whether a bump-out, wall removal, or full addition makes sense for your home and lot. In Denver-area projects, this early planning stage should also include budget, timeline, and whether permits or engineering will be needed.",
+        "description": "Start by identifying the problem the addition must solve—space, storage, layout, or entertaining—and then have a contractor evaluate what type of addition fits your home, budget, and site conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

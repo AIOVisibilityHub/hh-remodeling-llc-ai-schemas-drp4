@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for a minor framing adjustment, and what changes the price?",
+  "description": "Price depends on access, labor, the size of the correction, and whether hidden damage is found. A true minor fix is usually cheaper than a rebuild, but costs ri",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-a-minor-framing-adjustment-and-what-changes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for a minor framing adjustment, and what changes the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by access, repair size, labor time, and whether the work stays local to one area or uncovers related damage. A minor correction is typically less expensive than a full rebuild, but the price rises if framing must be replaced, dried, or tied back into other systems. The best value comes from fixing the cause, not just the visible symptom, because repeated misalignment usually becomes more expensive later.",
+        "description": "Price depends on access, labor, the size of the correction, and whether hidden damage is found. A true minor fix is usually cheaper than a rebuild, but costs rise quickly if rot, moisture, or structural replacement is involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

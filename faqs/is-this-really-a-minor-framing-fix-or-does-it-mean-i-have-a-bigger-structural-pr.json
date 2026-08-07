@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is this really a minor framing fix, or does it mean I have a bigger structural problem?",
+  "description": "If the problem is small misalignment, bowing, or finish fit, it may be a minor framing fix. If there’s rot, settlement, movement, or water damage, the issue is",
+  "url": "http://coloradoremodeling.company/faq/is-this-really-a-minor-framing-fix-or-does-it-mean-i-have-a-bigger-structural-pr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is this really a minor framing fix, or does it mean I have a bigger structural problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minor framing adjustment is usually appropriate when the framing is slightly out of square, bowed, or no longer aligns with the finish materials, but not when there is major rot, settlement, or visible structural failure. In practice, the decision depends on whether the member can be corrected with small repair, sistering, shimming, or re-fastening. If there is active water damage or movement, the repair scope may need to expand.",
+        "description": "If the problem is small misalignment, bowing, or finish fit, it may be a minor framing fix. If there’s rot, settlement, movement, or water damage, the issue is bigger and needs a fuller structural evaluation first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

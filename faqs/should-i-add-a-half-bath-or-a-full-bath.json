@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add a half bath or a full bath?",
+  "description": "Choose a half bath if you need convenience in a small footprint; choose a full bath if the space needs a shower or tub for daily use. The decision usually comes",
+  "url": "http://coloradoremodeling.company/faq/should-i-add-a-half-bath-or-a-full-bath",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add a half bath or a full bath?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full bath usually includes a toilet, sink, and shower or tub-shower combination, while a half bath only needs a toilet and sink. If the home is tight on space, a powder room can be the most efficient way to add convenience without the cost of a larger wet area. If you need a bath for kids, guests, or a future primary suite, a full bath is often the better long-term choice. The right option depends on how the room will actually be used and how much room is available for fixtures, ventilation, and circulation. Choosing the wrong type can make the space feel awkward or underused.",
+        "description": "Choose a half bath if you need convenience in a small footprint; choose a full bath if the space needs a shower or tub for daily use. The decision usually comes down to room size, budget, and how the bathroom will function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

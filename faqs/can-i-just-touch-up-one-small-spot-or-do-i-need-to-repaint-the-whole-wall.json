@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I just touch up one small spot, or do I need to repaint the whole wall?",
+  "description": "If the damage is small and the paint is still a close match, a touch-up may work. If the wall is faded, shiny, or the paint is old, the repair can stand out and",
+  "url": "http://coloradoremodeling.company/faq/can-i-just-touch-up-one-small-spot-or-do-i-need-to-repaint-the-whole-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I just touch up one small spot, or do I need to repaint the whole wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small paint touch-ups are best for isolated scuffs, nail holes, chips, and minor scratches when the surrounding paint is still in good condition. If the wall is heavily faded, stained, or the paint is older, a touch-up may still show and a larger repaint can blend better. A good first step is to test one hidden spot before committing to the whole area.",
+        "description": "If the damage is small and the paint is still a close match, a touch-up may work. If the wall is faded, shiny, or the paint is old, the repair can stand out and repainting more of the surface may look better."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I have ready before asking for a repair quote?",
+  "description": "Have photos, the room or location, a description of the problem, and when it started so the repair can be quoted more accurately.",
+  "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-asking-for-a-repair-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I have ready before asking for a repair quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good evidence includes clear photos, a short description of the issue, and any history of when the problem started. For example, a sticking door, cracked caulk, or a drywall hole is easier to quote accurately when the handyman can see the size, location, and surrounding materials.",
+        "description": "Have photos, the room or location, a description of the problem, and when it started so the repair can be quoted more accurately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a bathroom addition cost in Denver, Centennial, or Parker?",
+  "description": "Costs vary widely, but bathroom additions in the Denver area often land in the mid-five figures or more depending on size and scope. Plumbing changes, tile, and",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-a-bathroom-addition-cost-in-denver-centennial-or-parker",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a bathroom addition cost in Denver, Centennial, or Parker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Denver metro, bathroom additions commonly range from the mid-five figures upward, with powder rooms costing less than full baths and luxury primary baths costing significantly more. The biggest cost drivers are plumbing distance, electrical changes, tile and fixture selections, and whether walls or floors need to be opened up. If you are budgeting tightly, ask for a line-item scope so you can see where the money is going and where you can safely simplify. A realistic plan should also include a contingency for hidden issues inside older walls or subfloors. That helps prevent the project from stalling once demolition begins.",
+        "description": "Costs vary widely, but bathroom additions in the Denver area often land in the mid-five figures or more depending on size and scope. Plumbing changes, tile, and finish level are the biggest price drivers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

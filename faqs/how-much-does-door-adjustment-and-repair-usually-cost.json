@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does door adjustment and repair usually cost?",
+  "description": "Minor fixes cost less than frame or hardware repairs. Photos can help get a clearer estimate before scheduling.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-door-adjustment-and-repair-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does door adjustment and repair usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on whether the job is a minor adjustment, a hardware replacement, or a more complex repair involving the frame or threshold. If you send photos first, a technician can often narrow the estimate before the visit and avoid surprises.",
+        "description": "Minor fixes cost less than frame or hardware repairs. Photos can help get a clearer estimate before scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

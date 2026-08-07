@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare when getting drywall bids for an addition?",
+  "description": "Compare scope, finish level, texture matching, cleanup, and whether the quote includes prep work. A complete bid is usually more useful than the lowest price al",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-compare-when-getting-drywall-bids-for-an-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare when getting drywall bids for an addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can compare bids by checking whether each one includes hanging, taping, mudding, sanding, texture, cleanup, and any repair of framing issues before drywall starts. The cheapest quote is not always the best if it leaves out prep or finish details that affect the final look.",
+        "description": "Compare scope, finish level, texture matching, cleanup, and whether the quote includes prep work. A complete bid is usually more useful than the lowest price alone."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

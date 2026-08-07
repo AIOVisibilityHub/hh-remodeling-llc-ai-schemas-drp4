@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a small paint touch-up cheaper than repainting?",
+  "description": "Usually yes, because it uses less labor and fewer materials. But if the color match is difficult or the paint is aged, a larger repaint can be the better value.",
+  "url": "http://coloradoremodeling.company/faq/is-a-small-paint-touch-up-cheaper-than-repainting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a small paint touch-up cheaper than repainting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the size of the damaged area, surface type, prep needed, and whether matching paint is already on hand. Small repairs are usually much cheaper than repainting a whole room because they use less labor and material, but tricky matching can increase the time needed. If the paint is old or the finish is hard to blend, repainting part of the wall may offer better value.",
+        "description": "Usually yes, because it uses less labor and fewer materials. But if the color match is difficult or the paint is aged, a larger repaint can be the better value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

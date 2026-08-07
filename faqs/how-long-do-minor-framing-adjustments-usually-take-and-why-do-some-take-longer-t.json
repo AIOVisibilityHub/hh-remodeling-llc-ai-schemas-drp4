@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do minor framing adjustments usually take, and why do some take longer than expected?",
+  "description": "Small framing corrections can sometimes be done in a day, but hidden damage, moisture issues, or inspection needs can extend the timeline. The biggest variable",
+  "url": "http://coloradoremodeling.company/faq/how-long-do-minor-framing-adjustments-usually-take-and-why-do-some-take-longer-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do minor framing adjustments usually take, and why do some take longer than expected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on access and what is found behind the finishes. A simple correction can sometimes be completed in a day, while a small repair that exposes hidden damage, requires drying time, or needs follow-up inspection can take longer. In Denver-area homes, weather, moisture, and scheduling around other trades can also affect timing.",
+        "description": "Small framing corrections can sometimes be done in a day, but hidden damage, moisture issues, or inspection needs can extend the timeline. The biggest variable is what is discovered after the wall, floor, or ceiling is opened."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

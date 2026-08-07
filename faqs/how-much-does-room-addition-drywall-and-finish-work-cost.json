@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does room addition drywall and finish work cost?",
+  "description": "Pricing depends on room size, finish quality, ceiling height, and texture work. The best way to get an accurate number is to request an estimate for the full sc",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-room-addition-drywall-and-finish-work-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does room addition drywall and finish work cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is usually driven by square footage, ceiling height, finish level, drywall type, and whether texture matching is needed. In the Denver area, drywall installation pricing is often discussed by square foot, but final room-addition pricing depends on the full scope and site conditions.",
+        "description": "Pricing depends on room size, finish quality, ceiling height, and texture work. The best way to get an accurate number is to request an estimate for the full scope of the addition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

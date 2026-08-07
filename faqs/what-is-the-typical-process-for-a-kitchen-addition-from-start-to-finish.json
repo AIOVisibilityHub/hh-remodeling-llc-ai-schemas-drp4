@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a kitchen addition from start to finish?",
+  "description": "Most projects follow consultation, design, permits, construction, and final walkthrough. The exact order depends on how much structural, electrical, or plumbing",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-typical-process-for-a-kitchen-addition-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a kitchen addition from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with a consultation, then moves into design, scope selection, permit planning, and construction. For larger additions, structural engineering and permit review often come before the build begins. Clear communication about selections and change orders matters because unexpected issues can affect both cost and schedule.",
+        "description": "Most projects follow consultation, design, permits, construction, and final walkthrough. The exact order depends on how much structural, electrical, or plumbing work is involved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

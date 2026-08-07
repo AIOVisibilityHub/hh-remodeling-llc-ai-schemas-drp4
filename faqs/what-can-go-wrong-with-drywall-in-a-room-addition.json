@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with drywall in a room addition?",
+  "description": "Common problems include cracks, seams showing through paint, and delays if framing or rough-ins are not finished correctly before drywall starts.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-drywall-in-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with drywall in a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uneven framing, moisture issues, or missed rough-ins can cause cracked seams, nail pops, bulges, and finish defects later. If the addition is in a busy metro area like Denver, Centennial, Greenwood Village, Foxfield, or Parker, scheduling delays can also happen if the project is not ready for the drywall phase on time.",
+        "description": "Common problems include cracks, seams showing through paint, and delays if framing or rough-ins are not finished correctly before drywall starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

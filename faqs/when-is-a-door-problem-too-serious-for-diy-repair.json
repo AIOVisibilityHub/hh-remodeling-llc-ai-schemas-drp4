@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a door problem too serious for DIY repair?",
+  "description": "If the frame is damaged, hardware is pulling loose, or the door won’t secure, it’s time for a pro.",
+  "url": "http://coloradoremodeling.company/faq/when-is-a-door-problem-too-serious-for-diy-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a door problem too serious for DIY repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should call a professional if the door frame is split, the hinges are pulling out of the jamb, the lock does not align, or the door will not stay shut. These are signs the issue goes beyond a quick DIY tweak and could get worse if forced.",
+        "description": "If the frame is damaged, hardware is pulling loose, or the door won’t secure, it’s time for a pro."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

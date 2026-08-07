@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I notice interior wear-and-tear damage in my home or vehicle?",
+  "description": "Start by taking clear photos and noting the location, size, and type of damage. Then decide whether it needs a simple cosmetic fix or a deeper repair to stop it",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-notice-interior-wear-and-tear-damage-in-my-home-or-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I notice interior wear-and-tear damage in my home or vehicle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small interior wear-and-tear issues are usually repaired by matching the damaged area to the surrounding finish and fixing the underlying material first. For homes and vehicles, that can mean patching drywall, touching up trim, repairing upholstery, replacing carpet sections, or restoring leather and vinyl so the repair blends in. The fastest way to get started is to document the damage clearly and describe where it is, what caused it, and whether it is spreading.",
+        "description": "Start by taking clear photos and noting the location, size, and type of damage. Then decide whether it needs a simple cosmetic fix or a deeper repair to stop it from getting worse."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

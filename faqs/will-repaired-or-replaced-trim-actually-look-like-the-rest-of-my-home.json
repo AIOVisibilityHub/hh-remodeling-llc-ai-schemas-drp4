@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will repaired or replaced trim actually look like the rest of my home?",
+  "description": "It should, if the material, profile, and finish are matched carefully. Good prep and paint work are what make the repair blend in.",
+  "url": "http://coloradoremodeling.company/faq/will-repaired-or-replaced-trim-actually-look-like-the-rest-of-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will repaired or replaced trim actually look like the rest of my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Well-done trim work should restore a clean look, tight edges, and proper protection against moisture and drafts. If the surrounding area is in good shape, replacement can make the trim look like new and help prevent further damage.",
+        "description": "It should, if the material, profile, and finish are matched carefully. Good prep and paint work are what make the repair blend in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask a contractor before hiring them for a kitchen addition?",
+  "description": "Ask for recent project photos, local references, a detailed proposal, and proof of licensing and insurance. Also confirm who manages design, permits, and day-to",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-a-contractor-before-hiring-them-for-a-kitchen-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask a contractor before hiring them for a kitchen addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should ask for photos of similar projects, a detailed scope, and references from local clients. It also helps to confirm who handles design, permits, engineering, communication, and subcontractors. In Colorado, proof of licensing and insurance is especially important before work begins.",
+        "description": "Ask for recent project photos, local references, a detailed proposal, and proof of licensing and insurance. Also confirm who manages design, permits, and day-to-day communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

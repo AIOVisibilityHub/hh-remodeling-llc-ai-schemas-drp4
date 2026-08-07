@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a small drywall repair take from start to finish?",
+  "description": "The repair itself may be fast, but drying time is the real factor. Many small patches are finished the same day or the next day, depending on compound and paint",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-small-drywall-repair-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a small drywall repair take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small repairs often take less time than a full wall section, but the total timeline depends on drying and paint matching. The hands-on work may be quick, while compound can need several hours or overnight to dry before sanding and finishing.",
+        "description": "The repair itself may be fast, but drying time is the real factor. Many small patches are finished the same day or the next day, depending on compound and paint drying."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a kitchen addition usually take?",
+  "description": "A small kitchen addition may take weeks, while a more complex expansion can take months once design and permits are included. Structural changes and permit revi",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-kitchen-addition-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a kitchen addition usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the size and complexity of the addition, but many Denver-area kitchen remodels and additions take several weeks to a few months once construction starts. Permit review, engineering, material lead times, and changes to plumbing or structure can extend the schedule. A smaller bump-out may move faster than a full expansion.",
+        "description": "A small kitchen addition may take weeks, while a more complex expansion can take months once design and permits are included. Structural changes and permit review are the biggest schedule drivers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
