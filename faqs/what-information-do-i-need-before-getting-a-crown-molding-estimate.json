@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before getting a crown molding estimate?",
+  "description": "Have room measurements, corner details, photos, and finish preferences ready for a more accurate estimate.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-crown-molding-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before getting a crown molding estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Denver-area homes, the room needs to be measured accurately first so the installer can estimate linear footage, identify corner angles, and check for ceiling or wall irregularities. Good photos of the room, approximate dimensions, and any paint or finish preferences make the quote faster and more accurate.",
+        "description": "Have room measurements, corner details, photos, and finish preferences ready for a more accurate estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

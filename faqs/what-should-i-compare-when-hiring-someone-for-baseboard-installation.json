@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I compare when hiring someone for baseboard installation?",
+  "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-compare-when-hiring-someone-for-baseboard-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I compare when hiring someone for baseboard installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are comparing installers, ask whether they handle removal, patching, caulking, and painting, or only the trim itself. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to ask about experience with uneven walls, flooring transitions, and finish quality before you hire.",
+        "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

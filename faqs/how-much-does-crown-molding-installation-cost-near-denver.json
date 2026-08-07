@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does crown molding installation cost near Denver?",
+  "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-crown-molding-installation-cost-near-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does crown molding installation cost near Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest cost drivers are the material you choose, the total linear footage, room height, corner complexity, and how much prep or finishing is needed. Denver-area pricing varies widely, but homeowners commonly see projects range from a few hundred dollars for small simple rooms to several thousand dollars for larger or more detailed installs.",
+        "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

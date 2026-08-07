@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my door frame isn’t square or the wall is uneven — can casing still be installed?",
+  "description": "Usually yes, but the installer may need extra fitting and finishing. Severe frame or jamb problems should be repaired first so the casing doesn’t end up crooked",
+  "url": "http://coloradoremodeling.company/faq/what-if-my-door-frame-isn-t-square-or-the-wall-is-uneven-can-casing-still-be-ins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my door frame isn’t square or the wall is uneven — can casing still be installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the trim is slightly uneven or the wall is not perfectly square, a skilled installer can still make it look clean with scribing, caulk, and careful miter cuts. If the frame is badly out of plumb or the jamb is damaged, that should be corrected first or the casing may not sit properly.",
+        "description": "Usually yes, but the installer may need extra fitting and finishing. Severe frame or jamb problems should be repaired first so the casing doesn’t end up crooked or gapped."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

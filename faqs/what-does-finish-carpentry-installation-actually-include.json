@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does finish carpentry installation actually include?",
+  "description": "Finish carpentry installation typically includes baseboards, crown molding, door and window casing, trim, wainscoting, and custom built-ins. The exact scope dep",
+  "url": "http://coloradoremodeling.company/faq/what-does-finish-carpentry-installation-actually-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does finish carpentry installation actually include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Finish carpentry installation usually covers the interior details that make a space look complete, such as baseboards, crown molding, door casings, window trim, wainscoting, and built-ins. For homes in Denver and nearby areas, the right scope depends on whether you want a cosmetic upgrade, a repair, or a custom built-in solution.",
+        "description": "Finish carpentry installation typically includes baseboards, crown molding, door and window casing, trim, wainscoting, and custom built-ins. The exact scope depends on whether you need new trim, replacements, or custom woodwork."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

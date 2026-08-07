@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with baseboard installation?",
+  "description": "Common issues are gaps, uneven floors, and damaged walls; major wall or moisture problems should be repaired before installation.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-baseboard-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with baseboard installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small gaps, uneven floors, and slightly bowed walls are common and usually handled with caulk, careful scribing, and precise cuts. Bigger problems like water damage, soft drywall, or badly warped walls should be fixed before trim goes on, or the finished look may not hold up.",
+        "description": "Common issues are gaps, uneven floors, and damaged walls; major wall or moisture problems should be repaired before installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My door casing is damaged or missing — do I need to replace it right away, or can it wait?",
+  "description": "Replace it soon if the casing is cracked, rotting, loose, or hiding damage. If it’s only cosmetic, you can usually wait, but damaged trim should be checked befo",
+  "url": "http://coloradoremodeling.company/faq/my-door-casing-is-damaged-or-missing-do-i-need-to-replace-it-right-away-or-can-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My door casing is damaged or missing — do I need to replace it right away, or can it wait?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the trim around your door is cracked, loose, water-damaged, or doesn’t match after a new door install, replacement is usually the right move. A pro can also tell whether the problem is only cosmetic or if the jamb, drywall, or frame needs repair first.",
+        "description": "Replace it soon if the casing is cracked, rotting, loose, or hiding damage. If it’s only cosmetic, you can usually wait, but damaged trim should be checked before it leads to bigger repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

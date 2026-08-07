@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I repair my existing trim or replace it with new finish carpentry?",
+  "description": "Minor scuffs and small gaps can often be repaired, but warped, damaged, or mismatched trim is usually better replaced. Replacement gives a cleaner finish when t",
+  "url": "http://coloradoremodeling.company/faq/should-i-repair-my-existing-trim-or-replace-it-with-new-finish-carpentry",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I repair my existing trim or replace it with new finish carpentry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the right choice depends on the condition of the existing materials. If trim is swollen, damaged, poorly matched, or outdated, replacing it often gives a cleaner result than trying to patch around problems.",
+        "description": "Minor scuffs and small gaps can often be repaired, but warped, damaged, or mismatched trim is usually better replaced. Replacement gives a cleaner finish when the existing work is worn or inconsistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with built-in shelving installation?",
+  "description": "Common problems are bad fit, weak mounting, uneven shelves, and finish details that do not match the room.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-built-in-shelving-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with built-in shelving installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are poor anchoring, uneven shelves, gaps at the trim, and a design that looks custom on paper but doesn’t fit the room well. Moisture, warped walls, or hidden electrical and plumbing can also complicate installation. Choosing a builder who checks the space carefully before fabrication helps avoid expensive rework.",
+        "description": "Common problems are bad fit, weak mounting, uneven shelves, and finish details that do not match the room."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

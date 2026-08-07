@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does built-in shelving installation usually take?",
+  "description": "Timelines vary, but custom built-ins usually take longer than basic shelving because of design, fabrication, and finish work.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-built-in-shelving-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does built-in shelving installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most built-in shelving projects take several steps: design, material selection, fabrication, installation, and finish work. Smaller projects may be completed in a short visit, while larger custom built-ins can take longer if paint, trim, or wall repairs are included. The biggest scheduling variables are design approval, material availability, and how much finish carpentry is needed on-site.",
+        "description": "Timelines vary, but custom built-ins usually take longer than basic shelving because of design, fabrication, and finish work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

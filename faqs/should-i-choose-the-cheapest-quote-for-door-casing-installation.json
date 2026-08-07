@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose the cheapest quote for door casing installation?",
+  "description": "Not necessarily. Compare what’s included, not just the price, because cheap quotes may leave out removal, prep, finishing, or cleanup.",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-the-cheapest-quote-for-door-casing-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose the cheapest quote for door casing installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you’re comparing quotes in Denver or nearby areas like Greenwood Village and Foxfield, ask whether the price includes removal of old casing, material, labor, caulking, nail filling, and cleanup. The cheapest bid is not always the best if it skips prep work or leaves visible gaps.",
+        "description": "Not necessarily. Compare what’s included, not just the price, because cheap quotes may leave out removal, prep, finishing, or cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need my baseboards replaced soon—what should I do first?",
+  "description": "Start with a measurement and condition check so the installer can spot wall damage, uneven floors, and any prep work before scheduling.",
+  "url": "http://coloradoremodeling.company/faq/i-need-my-baseboards-replaced-soon-what-should-i-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need my baseboards replaced soon—what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you need old, damaged, or missing trim replaced quickly, the first step is to get the room measured and checked for wall damage, uneven floors, and any existing paint or caulk issues. That helps avoid surprises once the work starts and keeps the job on schedule.",
+        "description": "Start with a measurement and condition check so the installer can spot wall damage, uneven floors, and any prep work before scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

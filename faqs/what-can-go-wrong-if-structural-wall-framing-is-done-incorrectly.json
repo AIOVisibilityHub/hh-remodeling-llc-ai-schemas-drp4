@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if structural wall framing is done incorrectly?",
+  "description": "Bad framing can cause unsafe load transfer, cracked finishes, sticking doors, and failed inspections. The biggest risk is hiding a structural problem instead of",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-structural-wall-framing-is-done-incorrectly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if structural wall framing is done incorrectly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are putting load on the wrong members, undersizing headers, skipping bracing, or framing over a moving foundation issue. Those mistakes can lead to cracked finishes, doors that stick, unsafe settling, and expensive tear-outs after inspection.",
+        "description": "Bad framing can cause unsafe load transfer, cracked finishes, sticking doors, and failed inspections. The biggest risk is hiding a structural problem instead of fixing it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

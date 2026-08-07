@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does finish carpentry installation usually take?",
+  "description": "Small trim jobs may take a few hours, while larger projects can take several days. Custom built-ins and multi-room work usually take longer because of measuring",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-finish-carpentry-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does finish carpentry installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most finish carpentry projects take anywhere from a few hours to several days, depending on the room count, level of detail, and whether painting or patching is included. Jobs with custom built-ins or multiple rooms usually take longer because careful fitting and finish work matter more than speed.",
+        "description": "Small trim jobs may take a few hours, while larger projects can take several days. Custom built-ins and multi-room work usually take longer because of measuring, fitting, and finish detail."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

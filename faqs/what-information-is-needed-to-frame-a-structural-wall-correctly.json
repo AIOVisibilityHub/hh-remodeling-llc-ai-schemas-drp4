@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information is needed to frame a structural wall correctly?",
+  "description": "You need the wall layout, load conditions, opening sizes, stud and header details, and any required bracing or engineering notes. Without those details, the fra",
+  "url": "http://coloradoremodeling.company/faq/what-information-is-needed-to-frame-a-structural-wall-correctly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information is needed to frame a structural wall correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with measuring the space, confirming which walls are load-bearing, and identifying openings, beams, and required bracing. From there, the framing plan should show stud size and spacing, headers, king studs, trimmers, sheathing, and any needed calculations for non-prescriptive bracing.",
+        "description": "You need the wall layout, load conditions, opening sizes, stud and header details, and any required bracing or engineering notes. Without those details, the framing can be wrong or unsafe."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

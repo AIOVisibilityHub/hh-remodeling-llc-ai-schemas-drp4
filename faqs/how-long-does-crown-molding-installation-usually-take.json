@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does crown molding installation usually take?",
+  "description": "Simple rooms may take a day; larger or more detailed projects usually take longer, especially if finishing is included.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-crown-molding-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does crown molding installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most straightforward crown molding jobs can be completed in a day, but larger homes or rooms with multiple angles, high ceilings, or custom profiles may take longer. If painting, patching, or other trim work is included, plan for additional time beyond the install itself.",
+        "description": "Simple rooms may take a day; larger or more detailed projects usually take longer, especially if finishing is included."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

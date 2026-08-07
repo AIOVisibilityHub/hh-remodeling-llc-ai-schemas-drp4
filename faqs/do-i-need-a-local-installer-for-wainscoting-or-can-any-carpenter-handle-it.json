@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a local installer for wainscoting, or can any carpenter handle it?",
+  "description": "A local installer is helpful because wall conditions, home age, and room layout can vary a lot by house. That matters most if you have textured walls, basement",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-local-installer-for-wainscoting-or-can-any-carpenter-handle-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a local installer for wainscoting, or can any carpenter handle it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For homes in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions matter because older homes, basement walls, and textured finishes can change prep needs. A local installer can also account for room layout, moisture concerns, and trim styles that fit the home’s architecture.",
+        "description": "A local installer is helpful because wall conditions, home age, and room layout can vary a lot by house. That matters most if you have textured walls, basement spaces, or older finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

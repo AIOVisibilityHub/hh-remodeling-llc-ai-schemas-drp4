@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can wainscoting be installed on any wall, or are there walls that need prep first?",
+  "description": "Most interior walls work, but damaged, textured, or moisture-prone walls usually need prep first. A proper inspection helps avoid panels that sit unevenly or fa",
+  "url": "http://coloradoremodeling.company/faq/can-wainscoting-be-installed-on-any-wall-or-are-there-walls-that-need-prep-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can wainscoting be installed on any wall, or are there walls that need prep first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most walls can take wainscoting, but the surface needs to be sound, fairly flat, and dry. If the wall has damage, heavy texture, moisture issues, or lots of uneven spots, those may need repair or prep first so the panels sit correctly and the finish looks smooth.",
+        "description": "Most interior walls work, but damaged, textured, or moisture-prone walls usually need prep first. A proper inspection helps avoid panels that sit unevenly or fail later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

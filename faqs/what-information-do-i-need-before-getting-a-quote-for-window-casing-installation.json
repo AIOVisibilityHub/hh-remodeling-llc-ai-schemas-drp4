@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before getting a quote for window casing installation?",
+  "description": "Have the window count, rough sizes, trim style, and photos ready. If the old trim is damaged or missing, mention that up front so the quote is more accurate.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-quote-for-window-casing-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before getting a quote for window casing installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good estimate should include the number of windows, the casing style you want, the material, and whether you need removal of old trim or wall repair. Photos help, but an in-person look is better because out-of-square openings and hidden damage can change the scope. If you want an accurate quote in Denver, Centennial, Greenwood Village, Foxfield, or Parker, measuring each opening before the visit is helpful.",
+        "description": "Have the window count, rough sizes, trim style, and photos ready. If the old trim is damaged or missing, mention that up front so the quote is more accurate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

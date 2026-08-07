@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I need custom trim installed—what should I do first so I don't waste money on the wrong estimate?",
+  "description": "Start with a site visit or clear photos, then confirm whether you need new trim, repair, or replacement. That keeps the estimate accurate and avoids surprise co",
+  "url": "http://coloradoremodeling.company/faq/i-need-custom-trim-installed-what-should-i-do-first-so-i-don-t-waste-money-on-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I need custom trim installed—what should I do first so I don't waste money on the wrong estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—most custom trim projects start with a site visit or photo review, then measuring, material selection, and a written scope. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key first step is confirming whether you want new installation, repair, or a replacement of existing trim so the estimate matches the real work.",
+        "description": "Start with a site visit or clear photos, then confirm whether you need new trim, repair, or replacement. That keeps the estimate accurate and avoids surprise costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

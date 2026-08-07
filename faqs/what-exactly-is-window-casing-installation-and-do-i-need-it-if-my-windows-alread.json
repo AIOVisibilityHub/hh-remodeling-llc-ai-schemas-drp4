@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly is window casing installation, and do I need it if my windows already work?",
+  "description": "Window casing is the trim around the inside of a window. You usually want it if the opening looks unfinished, the old trim is damaged, or you want a cleaner fin",
+  "url": "http://coloradoremodeling.company/faq/what-exactly-is-window-casing-installation-and-do-i-need-it-if-my-windows-alread",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is window casing installation, and do I need it if my windows already work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Window casing installation adds the decorative trim around the inside of a window, covering the gap between the frame and the wall for a finished look. It also helps protect edges from minor wear and makes old or replacement windows look complete. For homeowners in Denver and nearby areas, it is often done as part of a larger interior trim or window project.",
+        "description": "Window casing is the trim around the inside of a window. You usually want it if the opening looks unfinished, the old trim is damaged, or you want a cleaner finished look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of paint finish works best for garage walls and trim?",
+  "description": "A durable latex acrylic paint with a satin or eggshell finish is usually the safest choice. It is easier to clean and better suited to garage wear and moisture.",
+  "url": "http://coloradoremodeling.company/faq/what-type-of-paint-finish-works-best-for-garage-walls-and-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of paint finish works best for garage walls and trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowners want a garage that is easier to clean and better protected from moisture and scuffs. For garage walls and trim, durable latex acrylic paint with a satin or eggshell finish is commonly recommended because it cleans well and handles garage conditions better than flat paint.",
+        "description": "A durable latex acrylic paint with a satin or eggshell finish is usually the safest choice. It is easier to clean and better suited to garage wear and moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

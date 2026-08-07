@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if finish carpentry was installed well?",
+  "description": "Look for tight joints, straight lines, even spacing, and trim that sits flat against the wall. Visible gaps, rough corners, or uneven reveals are signs the work",
+  "url": "http://coloradoremodeling.company/faq/how-can-i-tell-if-finish-carpentry-was-installed-well",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if finish carpentry was installed well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good finish carpentry should have tight joints, consistent reveal lines, clean corners, and smooth transitions between trim pieces. If you can see gaps, uneven miters, or trim that doesn’t sit flat against the wall, the installation likely needs adjustment.",
+        "description": "Look for tight joints, straight lines, even spacing, and trim that sits flat against the wall. Visible gaps, rough corners, or uneven reveals are signs the work needs improvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

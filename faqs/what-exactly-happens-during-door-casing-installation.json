@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exactly happens during door casing installation?",
+  "description": "The installer measures, cuts, fits, and nails trim around the door to create a finished edge. Small gaps are usually caulked or filled, then the casing is prepp",
+  "url": "http://coloradoremodeling.company/faq/what-exactly-happens-during-door-casing-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly happens during door casing installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Door casing installation means fitting trim around the door opening to cover the gap between the jamb and wall and give the doorway a finished look. The installer measures, cuts, miter-joins or butts the trim, nails it in place, and caulks or fills small gaps for a clean finish.",
+        "description": "The installer measures, cuts, fits, and nails trim around the door to create a finished edge. Small gaps are usually caulked or filled, then the casing is prepped for paint or stain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

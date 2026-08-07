@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with wainscoting installation if it’s rushed or done wrong?",
+  "description": "Common problems are crooked lines, gaps, and trim that does not stay secure. Most of these come from poor layout, weak wall prep, or skipping stud attachment.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-wainscoting-installation-if-it-s-rushed-or-done-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with wainscoting installation if it’s rushed or done wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are uneven panel lines, visible gaps, poor adhesion, and damage if the wall was not prepped correctly. On textured or damaged walls, skipping prep can make the finished work look uneven or cause trim to pull away over time.",
+        "description": "Common problems are crooked lines, gaps, and trim that does not stay secure. Most of these come from poor layout, weak wall prep, or skipping stud attachment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does window casing installation cost in Denver and nearby suburbs?",
+  "description": "Price varies by material, number of windows, and prep work. Wood or custom trim costs more, and repairs or painting can raise the total.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-window-casing-installation-cost-in-denver-and-nearby-suburbs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does window casing installation cost in Denver and nearby suburbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the amount of trim needed, the material you choose, and how much prep work is required. Wood, MDF, and PVC each have different price points, and older homes sometimes cost more because of demo, patching, or uneven openings. In the Denver area, labor and finish level can also affect the final price.",
+        "description": "Price varies by material, number of windows, and prep work. Wood or custom trim costs more, and repairs or painting can raise the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

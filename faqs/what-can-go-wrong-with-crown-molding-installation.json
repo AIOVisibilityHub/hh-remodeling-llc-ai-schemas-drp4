@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with crown molding installation?",
+  "description": "Bad cuts, gaps, and uneven joints are the biggest issues, especially in rooms with crooked walls or ceilings.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-crown-molding-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with crown molding installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are visible gaps, poor corner joints, cracks from movement, and a finish that doesn’t match the rest of the room. These problems are more common when the walls or ceilings are uneven, so careful measuring, proper fastening, and quality caulking matter a lot.",
+        "description": "Bad cuts, gaps, and uneven joints are the biggest issues, especially in rooms with crooked walls or ceilings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

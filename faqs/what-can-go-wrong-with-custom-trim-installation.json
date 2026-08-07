@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with custom trim installation?",
+  "description": "The main risks are gaps, bad joints, crooked lines, and trim that looks out of scale. Careful measuring, dry-fitting, and prep work reduce most of those problem",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-custom-trim-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with custom trim installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are gaps, uneven joints, visible nail holes, poor miters, and trim that does not match the room proportions. These problems are more common when the installer rushes layout or skips prep, which is why custom trim should be measured and dry-fit carefully.",
+        "description": "The main risks are gaps, bad joints, crooked lines, and trim that looks out of scale. Careful measuring, dry-fitting, and prep work reduce most of those problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

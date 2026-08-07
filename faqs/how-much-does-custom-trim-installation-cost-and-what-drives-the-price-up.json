@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does custom trim installation cost, and what drives the price up?",
+  "description": "Price depends on trim length, material, profile complexity, and whether old trim must be removed or repairs are needed. A site-specific quote is the best way to",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-custom-trim-installation-cost-and-what-drives-the-price-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does custom trim installation cost, and what drives the price up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on linear footage, material choice, trim profile, and whether the project includes removal of old trim or repairs underneath. In the Denver metro area, labor and material pricing can vary a lot between basic baseboards and more detailed custom work, so an in-person quote is the safest way to budget.",
+        "description": "Price depends on trim length, material, profile complexity, and whether old trim must be removed or repairs are needed. A site-specific quote is the best way to get a realistic budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

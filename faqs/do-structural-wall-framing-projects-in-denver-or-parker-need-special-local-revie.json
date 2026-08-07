@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do structural wall framing projects in Denver or Parker need special local review?",
+  "description": "Yes. Local permit and inspection rules can affect structural wall framing, especially for load-bearing changes or foundation-related repairs. Denver-area projec",
+  "url": "http://coloradoremodeling.company/faq/do-structural-wall-framing-projects-in-denver-or-parker-need-special-local-revie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do structural wall framing projects in Denver or Parker need special local review?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, structural wall framing can be affected by local permit rules, inspection timing, and soil-related movement issues common to the region. If your project involves load-bearing changes, opening walls, or foundation-related cracking, it is smart to plan for local review before work starts.",
+        "description": "Yes. Local permit and inspection rules can affect structural wall framing, especially for load-bearing changes or foundation-related repairs. Denver-area projects often need review before the wall is closed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

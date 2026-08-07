@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is window casing installation done from start to finish?",
+  "description": "Installers measure, cut, fit, fasten, caulk, and finish the casing. The hardest part is making the corners tight and the trim match the wall and window opening.",
+  "url": "http://coloradoremodeling.company/faq/how-is-window-casing-installation-done-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is window casing installation done from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with measuring the opening, removing old trim if needed, cutting new casing pieces, fitting and fastening them, then filling nail holes, caulking seams, and finishing with paint or stain. Simple openings can be completed quickly, but custom profiles, older homes, and uneven walls can add time. Getting the measurements right is the most important part of the job.",
+        "description": "Installers measure, cut, fit, fasten, caulk, and finish the casing. The hardest part is making the corners tight and the trim match the wall and window opening."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

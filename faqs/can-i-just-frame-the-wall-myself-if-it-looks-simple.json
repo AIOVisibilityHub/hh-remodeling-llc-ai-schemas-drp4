@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I just frame the wall myself if it looks simple?",
+  "description": "You can only DIY if you are certain it is non-structural and code-compliant. If there is any doubt about load, movement, or permitting, have it checked before y",
+  "url": "http://coloradoremodeling.company/faq/can-i-just-frame-the-wall-myself-if-it-looks-simple",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I just frame the wall myself if it looks simple?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are unsure whether a wall is load-bearing, whether cracking is structural, or whether a permit is required, bring in a professional before demolition begins. That is especially important if the wall is uneven, the doors are sticking, or you are combining framing work with a remodel or repair.",
+        "description": "You can only DIY if you are certain it is non-structural and code-compliant. If there is any doubt about load, movement, or permitting, have it checked before you start."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

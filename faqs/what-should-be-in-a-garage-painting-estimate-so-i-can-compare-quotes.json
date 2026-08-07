@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should be in a garage painting estimate so I can compare quotes?",
+  "description": "A solid estimate should list prep, paint type, number of coats, trim scope, and cleanup. Clear details make it much easier to compare bids fairly.",
+  "url": "http://coloradoremodeling.company/faq/what-should-be-in-a-garage-painting-estimate-so-i-can-compare-quotes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should be in a garage painting estimate so I can compare quotes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should ask for a written estimate that spells out prep, materials, coats, trim details, and cleanup. If the quote is vague, it is harder to compare contractors and easier for extra charges to appear later.",
+        "description": "A solid estimate should list prep, paint type, number of coats, trim scope, and cleanup. Clear details make it much easier to compare bids fairly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

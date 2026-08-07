@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does structural wall framing cost, and what makes it more expensive?",
+  "description": "Costs rise with load-bearing work, openings, engineering, and permit requirements. Simple framing is cheaper; structural changes with plans and inspections cost",
+  "url": "http://coloradoremodeling.company/faq/what-does-structural-wall-framing-cost-and-what-makes-it-more-expensive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does structural wall framing cost, and what makes it more expensive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on wall length, number of openings, whether the wall is load-bearing, and whether engineering or stamped repair plans are needed. In practice, more complex structural issues cost more because they involve design work, additional materials, and inspection-driven rework if the framing is not right the first time.",
+        "description": "Costs rise with load-bearing work, openings, engineering, and permit requirements. Simple framing is cheaper; structural changes with plans and inspections cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

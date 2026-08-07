@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any garage floor be coated, or does the concrete need to be in perfect condition?",
+  "description": "No, it does not need to be perfect, but it does need to be structurally sound. Cracks and minor damage can often be repaired before coating.",
+  "url": "http://coloradoremodeling.company/faq/can-any-garage-floor-be-coated-or-does-the-concrete-need-to-be-in-perfect-condit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any garage floor be coated, or does the concrete need to be in perfect condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most garage floors can be coated if the concrete is structurally sound and moisture problems are addressed first. Minor surface flaws, light cracking, and old stains can often be repaired during prep, but active water intrusion, major settling, or severe spalling may need more work before coating. A professional inspection will tell you whether repair, resurfacing, or replacement makes sense.",
+        "description": "No, it does not need to be perfect, but it does need to be structurally sound. Cracks and minor damage can often be repaired before coating."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does garage painting and trim work cost?",
+  "description": "Cost depends on size, condition, and materials. Wall and ceiling painting is often priced by square foot, while floor coatings are usually an extra line item.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-garage-painting-and-trim-work-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does garage painting and trim work cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing usually depends on square footage, surface condition, and the materials used. Some Denver-area garage painting estimates run about $2.00 to $4.50 per square foot for walls and ceilings, while coatings like epoxy are priced separately and start higher.",
+        "description": "Cost depends on size, condition, and materials. Wall and ceiling painting is often priced by square foot, while floor coatings are usually an extra line item."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

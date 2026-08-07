@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any room be framed for a new partition wall, or are there limits?",
+  "description": "Most rooms can accept a partition wall, but room size, ceiling height, and hidden utilities can limit what’s possible. A site check is the safest way to confirm",
+  "url": "http://coloradoremodeling.company/faq/can-any-room-be-framed-for-a-new-partition-wall-or-are-there-limits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any room be framed for a new partition wall, or are there limits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—if you’re adding or moving a partition wall in a finished space, the room size, door openings, ceiling height, and any hidden wiring or plumbing all affect whether the framing can be done cleanly. If the wall is near the center of the home or changes how utilities run, it needs a closer look before work starts.",
+        "description": "Most rooms can accept a partition wall, but room size, ceiling height, and hidden utilities can limit what’s possible. A site check is the safest way to confirm before starting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

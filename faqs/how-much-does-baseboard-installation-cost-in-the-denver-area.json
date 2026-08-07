@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does baseboard installation cost in the Denver area?",
+  "description": "Expect pricing to depend on linear footage, material, room complexity, and finishing work like caulking or painting.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-baseboard-installation-cost-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does baseboard installation cost in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Baseboard installation is usually priced by the linear foot, plus labor for removal, caulking, and finishing. In Denver-area projects, the final price depends on material choice, room complexity, and whether painting or repairs are included.",
+        "description": "Expect pricing to depend on linear footage, material, room complexity, and finishing work like caulking or painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

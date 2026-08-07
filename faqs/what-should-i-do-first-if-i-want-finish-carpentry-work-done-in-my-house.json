@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do first if I want finish carpentry work done in my house?",
+  "description": "The first step is usually an on-site estimate with measurements and a review of the trim or woodwork you want installed. Having photos, rough dimensions, and a",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-want-finish-carpentry-work-done-in-my-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do first if I want finish carpentry work done in my house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a clear list of what you want improved, then schedule an on-site estimate so measurements, wall conditions, and material choices can be reviewed in person. HH Remodeling LLC can help homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker define the scope before work begins.",
+        "description": "The first step is usually an on-site estimate with measurements and a review of the trim or woodwork you want installed. Having photos, rough dimensions, and a priority list speeds up the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

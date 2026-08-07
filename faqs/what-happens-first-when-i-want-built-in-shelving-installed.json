@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens first when I want built-in shelving installed?",
+  "description": "It starts with measuring the space, checking wall conditions, and planning the layout before anything is built.",
+  "url": "http://coloradoremodeling.company/faq/what-happens-first-when-i-want-built-in-shelving-installed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens first when I want built-in shelving installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is a site visit to measure the wall, confirm what’s inside it, and decide on the layout, finish, and storage needs. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, that planning matters because built-ins have to fit the room exactly and align with existing trim, outlets, and flooring. A good installer should also check for any framing or drywall issues before fabrication begins.",
+        "description": "It starts with measuring the space, checking wall conditions, and planning the layout before anything is built."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

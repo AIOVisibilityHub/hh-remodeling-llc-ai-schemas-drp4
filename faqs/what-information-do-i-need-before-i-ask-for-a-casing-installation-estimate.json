@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I ask for a casing installation estimate?",
+  "description": "Have the door size, trim style, and finish preference ready. Tell the installer whether you need matching trim, full replacement, or casing installed after a ne",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-i-ask-for-a-casing-installation-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I ask for a casing installation estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll usually need the door opening dimensions, trim style preference, and whether you want paint-grade or stain-grade material. It also helps to know if the existing casing should be matched, replaced everywhere in the room, or installed after a new door is set.",
+        "description": "Have the door size, trim style, and finish preference ready. Tell the installer whether you need matching trim, full replacement, or casing installed after a new door."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

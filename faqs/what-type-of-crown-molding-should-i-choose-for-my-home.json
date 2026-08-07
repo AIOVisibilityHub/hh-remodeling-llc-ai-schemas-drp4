@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of crown molding should I choose for my home?",
+  "description": "Pick based on budget, style, durability, and finish needs; MDF is budget-friendly, while wood is more customizable.",
+  "url": "http://coloradoremodeling.company/faq/what-type-of-crown-molding-should-i-choose-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of crown molding should I choose for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can compare crown molding by material, profile style, durability, and finish requirements. MDF is often chosen for budget-friendly interior work, while wood offers a more traditional look and better customization; the right choice depends on your room, ceiling height, and how much upkeep you want.",
+        "description": "Pick based on budget, style, durability, and finish needs; MDF is budget-friendly, while wood is more customizable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

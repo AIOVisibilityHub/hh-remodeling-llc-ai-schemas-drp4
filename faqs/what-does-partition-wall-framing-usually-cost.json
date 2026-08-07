@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does partition wall framing usually cost?",
+  "description": "Pricing depends on size, materials, openings, and whether utilities need to be moved. Simple partition walls cost less; added electrical, doors, or finish work",
+  "url": "http://coloradoremodeling.company/faq/what-does-partition-wall-framing-usually-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does partition wall framing usually cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on wall length, height, door openings, materials, and whether the wall needs electrical, insulation, or drywall finishing. A straightforward partition wall is usually far less expensive than modifying a load-bearing wall, but hidden conditions can raise the price quickly.",
+        "description": "Pricing depends on size, materials, openings, and whether utilities need to be moved. Simple partition walls cost less; added electrical, doors, or finish work increase the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

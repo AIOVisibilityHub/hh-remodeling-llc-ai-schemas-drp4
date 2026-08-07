@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does garage flooring installation cost?",
+  "description": "Cost depends on size, prep, repairs, and coating type. For a typical two-car garage, expect pricing to vary widely based on the floor condition and finish.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-garage-flooring-installation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does garage flooring installation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest cost drivers are garage size, concrete condition, repair work, and the finish you choose. For a standard two-car garage, professionally installed coatings in the Denver area commonly land in the mid-thousands, with decorative chip designs and extensive prep increasing the price. A detailed on-site estimate is the best way to get an accurate number.",
+        "description": "Cost depends on size, prep, repairs, and coating type. For a typical two-car garage, expect pricing to vary widely based on the floor condition and finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

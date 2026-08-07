@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if the baseboard installation was done well?",
+  "description": "A good job has tight corners, minimal gaps, smooth caulk lines, and a trim line that looks even around the room.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-the-baseboard-installation-was-done-well",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if the baseboard installation was done well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you want a clean finish, installed baseboards should sit tight to the wall, have neat corners, and show minimal gaps after caulking. Good results also include secure fastening, smooth joints, and a final look that matches the rest of the room.",
+        "description": "A good job has tight corners, minimal gaps, smooth caulk lines, and a trim line that looks even around the room."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

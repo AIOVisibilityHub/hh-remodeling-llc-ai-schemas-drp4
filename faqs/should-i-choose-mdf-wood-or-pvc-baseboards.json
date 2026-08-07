@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose MDF, wood, or PVC baseboards?",
+  "description": "MDF is common for painted trim, wood gives a traditional look, and PVC is useful where moisture resistance matters.",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-mdf-wood-or-pvc-baseboards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose MDF, wood, or PVC baseboards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MDF is often chosen for painted trim because it is budget-friendly and smooth, while wood offers a more traditional look and better durability in some settings. PVC can be a good option where moisture is a concern, but the right choice depends on your room, finish, and budget.",
+        "description": "MDF is common for painted trim, wood gives a traditional look, and PVC is useful where moisture resistance matters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can custom trim be installed if my walls and door openings are not perfect?",
+  "description": "Usually yes, but uneven walls, damaged drywall, or crooked openings may need prep first. The more off-square the space is, the more fitting and repair work the",
+  "url": "http://coloradoremodeling.company/faq/can-custom-trim-be-installed-if-my-walls-and-door-openings-are-not-perfect",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can custom trim be installed if my walls and door openings are not perfect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most residential trim jobs can be done if the walls, floors, and openings are already in decent shape. If there is moisture damage, missing drywall, out-of-square corners, or prior sloppy work, the trim still can be installed, but the prep work usually becomes part of the project.",
+        "description": "Usually yes, but uneven walls, damaged drywall, or crooked openings may need prep first. The more off-square the space is, the more fitting and repair work the job needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

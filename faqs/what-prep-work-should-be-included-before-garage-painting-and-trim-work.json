@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prep work should be included before garage painting and trim work?",
+  "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer.",
+  "url": "http://coloradoremodeling.company/faq/what-prep-work-should-be-included-before-garage-painting-and-trim-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prep work should be included before garage painting and trim work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good garage paint job starts with cleaning, patching, sanding, and priming the surfaces that need it. For trim work, the painter should also caulk gaps, repair minor imperfections, and protect adjacent surfaces so the finish looks clean and holds up in a high-use space.",
+        "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
