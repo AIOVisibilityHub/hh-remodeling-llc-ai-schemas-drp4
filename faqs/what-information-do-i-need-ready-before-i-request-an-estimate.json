@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need ready before I request an estimate?",
+  "description": "Have photos, rough dimensions, cabinet details, and sink/appliance specs ready. Confirm material, edge profile, and cutout details in writing.",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-ready-before-i-request-an-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need ready before I request an estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should ask for written confirmation of material, edge style, thickness, sink cutouts, seam locations, and whether plumbing reconnect is included. Photos of your kitchen, rough measurements, and cabinet drawings also help the installer quote and schedule the job more accurately.",
+        "description": "Have photos, rough dimensions, cabinet details, and sink/appliance specs ready. Confirm material, edge profile, and cutout details in writing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

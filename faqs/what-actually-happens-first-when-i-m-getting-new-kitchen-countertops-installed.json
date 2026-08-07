@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What actually happens first when I’m getting new kitchen countertops installed?",
+  "description": "Book an in-home measurement first. The installer verifies cabinet dimensions, sink and appliance openings, then templates the tops before fabrication and final",
+  "url": "http://coloradoremodeling.company/faq/what-actually-happens-first-when-i-m-getting-new-kitchen-countertops-installed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What actually happens first when I’m getting new kitchen countertops installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by scheduling an in-home measurement so the installer can confirm cabinet layout, sink and cooktop cutouts, and any uneven walls before fabrication begins. For most Denver-area kitchens, the process then moves to templating, fabrication, and a one-day installation once the cabinets are ready.",
+        "description": "Book an in-home measurement first. The installer verifies cabinet dimensions, sink and appliance openings, then templates the tops before fabrication and final installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

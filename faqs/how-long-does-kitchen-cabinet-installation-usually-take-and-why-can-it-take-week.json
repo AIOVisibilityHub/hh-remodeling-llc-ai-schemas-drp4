@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does kitchen cabinet installation usually take, and why can it take weeks to get scheduled?",
+  "description": "Installation time depends on kitchen size and complexity, while lead time depends on cabinet availability and installer schedules. Even a straightforward job ca",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-cabinet-installation-usually-take-and-why-can-it-take-week",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does kitchen cabinet installation usually take, and why can it take weeks to get scheduled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on the size of the kitchen, whether cabinets are in stock, and how busy the installer is. In the Denver area, scheduling can add several weeks, and the install itself may take anywhere from a day or two to longer for larger or more complex projects.",
+        "description": "Installation time depends on kitchen size and complexity, while lead time depends on cabinet availability and installer schedules. Even a straightforward job can wait several weeks for a start date."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I refinish my log cabin?",
+  "description": "Log cabins typically need refinishing every 3 to 7 years, depending on climate, sun exposure, and previous finish.",
+  "url": "http://coloradoremodeling.company/faq/how-often-should-i-refinish-my-log-cabin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I refinish my log cabin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency of refinishing depends on several factors, including climate, sun exposure, and the type of finish previously used. In Colorado, with its intense sun and varied weather, many log cabins require refinishing every 3 to 7 years. Areas with more direct sun exposure or harsh weather conditions might need more frequent attention. Regular inspection can help determine the best time for maintenance.",
+        "description": "Log cabins typically need refinishing every 3 to 7 years, depending on climate, sun exposure, and previous finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with kitchen flooring installation?",
+  "description": "Hidden moisture, uneven subfloors, and the wrong material choice are the main risks. Poor prep can cause gaps, movement, cracking, or premature wear.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-kitchen-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with kitchen flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are hidden water damage, uneven subfloors, and choosing a material that cannot handle kitchen moisture or daily wear. Poor prep can lead to gaps, movement, cracking, or early replacement, especially in busy kitchens.",
+        "description": "Hidden moisture, uneven subfloors, and the wrong material choice are the main risks. Poor prep can cause gaps, movement, cracking, or premature wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

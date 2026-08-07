@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong on a remodel, especially if the home has damage?",
+  "description": "Hidden damage and change orders are the biggest risks. Once walls or floors are opened, the project can become larger and slower than expected.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-on-a-remodel-especially-if-the-home-has-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong on a remodel, especially if the home has damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main risks are hidden damage, schedule delays, change orders, and mismatched expectations about finishes or repair depth. In older homes or homes with prior water or fire damage, once walls are opened, the real scope can be bigger than what was visible at the start.",
+        "description": "Hidden damage and change orders are the biggest risks. Once walls or floors are opened, the project can become larger and slower than expected."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

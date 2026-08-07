@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is restoration maintenance different from general property maintenance?",
+  "description": "Restoration maintenance focuses on unique vulnerabilities of a restored property, differing from general maintenance which handles routine wear and tear.",
+  "url": "http://coloradoremodeling.company/faq/is-restoration-maintenance-different-from-general-property-maintenance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is restoration maintenance different from general property maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, restoration maintenance is distinct from general property maintenance. While general maintenance focuses on routine upkeep and preventative measures for normal wear and tear, restoration maintenance specifically addresses the unique vulnerabilities and needs of a property that has undergone significant damage and repair. It often involves specialized knowledge of structural integrity, moisture control, and specific materials used in restoration.",
+        "description": "Restoration maintenance focuses on unique vulnerabilities of a restored property, differing from general maintenance which handles routine wear and tear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install backsplash tile myself, or should I hire a pro?",
+  "description": "DIY can work for small, simple jobs, but a pro is better for uneven walls, tricky cuts, or custom tile patterns. Professional prep usually gives a cleaner, long",
+  "url": "http://coloradoremodeling.company/faq/can-i-install-backsplash-tile-myself-or-should-i-hire-a-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install backsplash tile myself, or should I hire a pro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should choose a pro if the wall is uneven, the layout has lots of outlets, or you want a clean finish with tight grout lines. In homes around Greenwood Village, Parker, and Centennial, older walls can also make professional prep more important.",
+        "description": "DIY can work for small, simple jobs, but a pro is better for uneven walls, tricky cuts, or custom tile patterns. Professional prep usually gives a cleaner, longer-lasting result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

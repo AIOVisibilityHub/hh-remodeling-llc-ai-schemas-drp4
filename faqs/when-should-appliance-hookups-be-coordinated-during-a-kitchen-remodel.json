@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should appliance hookups be coordinated during a kitchen remodel?",
+  "description": "Coordinate hookups before demolition or rough-in whenever appliance locations are changing. The earlier the plumbing, electrical, gas, and venting are confirmed",
+  "url": "http://coloradoremodeling.company/faq/when-should-appliance-hookups-be-coordinated-during-a-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should appliance hookups be coordinated during a kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on whether the appliances stay where they are or need new utility runs. If the layout is simple, coordination may be done during design and installation planning; if walls, cabinets, or utility lines move, it should be resolved before demo and rough-in work begins.",
+        "description": "Coordinate hookups before demolition or rough-in whenever appliance locations are changing. The earlier the plumbing, electrical, gas, and venting are confirmed, the fewer delays you will have later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

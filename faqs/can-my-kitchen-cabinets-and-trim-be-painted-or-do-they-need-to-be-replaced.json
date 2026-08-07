@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my kitchen cabinets and trim be painted, or do they need to be replaced?",
+  "description": "If the cabinets are solid and the finish can be properly prepped, painting is usually possible. Warping, water damage, or failing wood may push the project towa",
+  "url": "http://coloradoremodeling.company/faq/can-my-kitchen-cabinets-and-trim-be-painted-or-do-they-need-to-be-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my kitchen cabinets and trim be painted, or do they need to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—this is a common way to refresh a kitchen without replacing cabinets. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the main question is whether your cabinets and trim are structurally sound enough for prep, sanding, priming, and a durable finish.",
+        "description": "If the cabinets are solid and the finish can be properly prepped, painting is usually possible. Warping, water damage, or failing wood may push the project toward repair or replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with cabinet installation if it’s done poorly?",
+  "description": "Poor leveling, weak fastening, and bad fit are the main problems. In Colorado, material choice and accurate installation matter even more because dry conditions",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-cabinet-installation-if-it-s-done-poorly",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with cabinet installation if it’s done poorly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are crooked cabinets, poor fastening, wall damage, and doors or drawers that don’t align correctly. Colorado’s dry air and seasonal changes can also make material choice and fit more important, so accurate leveling and proper anchoring matter.",
+        "description": "Poor leveling, weak fastening, and bad fit are the main problems. In Colorado, material choice and accurate installation matter even more because dry conditions can affect cabinet performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

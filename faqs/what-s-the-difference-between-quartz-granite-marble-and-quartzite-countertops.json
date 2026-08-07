@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the difference between quartz, granite, marble, and quartzite countertops?",
+  "description": "Quartz is typically the easiest to maintain, granite is durable and natural, and marble and quartzite are chosen for premium appearance with different care need",
+  "url": "http://coloradoremodeling.company/faq/what-s-the-difference-between-quartz-granite-marble-and-quartzite-countertops",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the difference between quartz, granite, marble, and quartzite countertops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, quartz, granite, marble, and quartzite are all common choices for kitchen countertops, but they behave differently in daily use. Quartz is popular for low maintenance, granite offers natural variation, and marble and quartzite are often chosen for their look and feel but may need more care.",
+        "description": "Quartz is typically the easiest to maintain, granite is durable and natural, and marble and quartzite are chosen for premium appearance with different care needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

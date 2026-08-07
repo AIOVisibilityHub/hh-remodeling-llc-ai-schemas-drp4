@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a bathroom remodel in Denver?",
+  "description": "Permits are usually needed for bathroom remodels in Denver if they involve altering plumbing, electrical, or structural components, but not for minor cosmetic c",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-a-bathroom-remodel-in-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a bathroom remodel in Denver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need a permit for a bathroom remodel in Denver depends on the scope of the project. Minor cosmetic changes like painting, wallpapering, or replacing a vanity typically do not require a permit. However, if your remodel involves altering the existing plumbing, electrical wiring, or making structural changes, a permit will likely be necessary. We assist clients in determining permit requirements and navigating the application process.",
+        "description": "Permits are usually needed for bathroom remodels in Denver if they involve altering plumbing, electrical, or structural components, but not for minor cosmetic changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

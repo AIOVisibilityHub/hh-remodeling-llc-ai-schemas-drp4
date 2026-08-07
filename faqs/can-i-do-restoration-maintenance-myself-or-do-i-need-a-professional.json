@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I do restoration maintenance myself, or do I need a professional?",
+  "description": "While some tasks can be DIY, professional restoration maintenance is recommended for identifying hidden issues, using specialized equipment, and maintaining war",
+  "url": "http://coloradoremodeling.company/faq/can-i-do-restoration-maintenance-myself-or-do-i-need-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I do restoration maintenance myself, or do I need a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While some minor aspects of maintenance, like general cleaning, can be done by a homeowner, professional restoration maintenance is often recommended. Professionals have specialized equipment and expertise to identify potential issues that might not be obvious, such as hidden moisture or structural concerns. For comprehensive care and to maintain warranties, professional services are generally advised.",
+        "description": "While some tasks can be DIY, professional restoration maintenance is recommended for identifying hidden issues, using specialized equipment, and maintaining warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

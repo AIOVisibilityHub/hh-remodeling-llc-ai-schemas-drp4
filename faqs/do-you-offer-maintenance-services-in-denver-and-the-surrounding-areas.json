@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer maintenance services in Denver and the surrounding areas?",
+  "description": "Yes, HH Remodeling LLC offers restoration maintenance in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+  "url": "http://coloradoremodeling.company/faq/do-you-offer-maintenance-services-in-denver-and-the-surrounding-areas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer maintenance services in Denver and the surrounding areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, HH Remodeling LLC provides restoration maintenance services in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Our team is equipped to serve these communities with ongoing care to protect your property investment after restoration. We understand the specific needs of properties in these regions.",
+        "description": "Yes, HH Remodeling LLC offers restoration maintenance in Denver, Centennial, Greenwood Village, Foxfield, and Parker."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

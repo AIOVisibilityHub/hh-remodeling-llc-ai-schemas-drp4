@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is needed after fire damage restoration?",
+  "description": "Maintenance after fire damage includes inspecting structures, checking HVAC, monitoring air quality, and addressing lingering soot or odors.",
+  "url": "http://coloradoremodeling.company/faq/what-kind-of-maintenance-is-needed-after-fire-damage-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is needed after fire damage restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After fire damage restoration, maintenance often involves inspecting the integrity of the repaired structures, checking HVAC systems for smoke residue, and monitoring air quality. It may also include cleaning soot-affected areas that could not be fully cleaned during the initial restoration and addressing any lingering odors. Regular checks help ensure the property remains safe and comfortable.",
+        "description": "Maintenance after fire damage includes inspecting structures, checking HVAC, monitoring air quality, and addressing lingering soot or odors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

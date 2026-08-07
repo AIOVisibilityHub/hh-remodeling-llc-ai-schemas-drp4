@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What paperwork or details should I get before I approve the work?",
+  "description": "Get a written scope with inclusions, exclusions, and any allowances. That is the best way to avoid confusion once the job is underway.",
+  "url": "http://coloradoremodeling.company/faq/what-paperwork-or-details-should-i-get-before-i-approve-the-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What paperwork or details should I get before I approve the work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work starts, ask for a written scope that shows what is included, what is excluded, and what allowance items may change later. Clear documentation matters because remodeling surprises usually come from hidden damage, material substitutions, or unfinished scope details.",
+        "description": "Get a written scope with inclusions, exclusions, and any allowances. That is the best way to avoid confusion once the job is underway."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

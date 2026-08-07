@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does log cabin refinishing cost in the Denver area?",
+  "description": "Cost varies by cabin size, condition, finish type, and necessary repairs. We provide custom quotes after an on-site assessment.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-log-cabin-refinishing-cost-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does log cabin refinishing cost in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of log cabin refinishing varies based on the size of the cabin, the current condition of the logs, the type of finish desired, and the extent of repairs needed. Factors like media blasting, chinking, and the number of coats of stain can also influence the price. We provide detailed, customized quotes after an on-site assessment to give you an accurate estimate for your specific project in the Denver, Centennial, Greenwood Village, or Parker areas.",
+        "description": "Cost varies by cabin size, condition, finish type, and necessary repairs. We provide custom quotes after an on-site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

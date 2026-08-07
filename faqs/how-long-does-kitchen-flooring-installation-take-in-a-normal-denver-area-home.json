@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does kitchen flooring installation take in a normal Denver-area home?",
+  "description": "Simple installs can take a few days, but demolition, leveling, or repairs can extend the timeline. Material availability also affects when the work can start an",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-flooring-installation-take-in-a-normal-denver-area-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does kitchen flooring installation take in a normal Denver-area home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timing depends on material choice, prep work, and product availability. A straightforward kitchen floor replacement may take a few days, while projects that need demolition, leveling, or repairs can take longer because the floor must be ready before new materials go down.",
+        "description": "Simple installs can take a few days, but demolition, leveling, or repairs can extend the timeline. Material availability also affects when the work can start and finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

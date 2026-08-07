@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is restoration maintenance?",
+  "description": "Restoration maintenance is the ongoing care of properties after damage restoration to preserve integrity and extend repair lifespan.",
+  "url": "http://coloradoremodeling.company/faq/what-is-restoration-maintenance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is restoration maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restoration maintenance refers to the ongoing care and upkeep of properties after they have undergone damage restoration. This can include services like inspecting for new water leaks, cleaning and maintaining restored areas, and addressing minor wear and tear to prevent larger issues from developing. The goal is to preserve the integrity and appearance of the restored property and extend the lifespan of the repairs.",
+        "description": "Restoration maintenance is the ongoing care of properties after damage restoration to preserve integrity and extend repair lifespan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

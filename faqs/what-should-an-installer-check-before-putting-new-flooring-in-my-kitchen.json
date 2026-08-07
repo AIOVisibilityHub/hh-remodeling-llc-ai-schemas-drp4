@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an installer check before putting new flooring in my kitchen?",
+  "description": "They should check the subfloor, moisture, transitions, and how cabinets or appliances affect the layout. Those details determine whether the floor will install",
+  "url": "http://coloradoremodeling.company/faq/what-should-an-installer-check-before-putting-new-flooring-in-my-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an installer check before putting new flooring in my kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An installer should inspect the subfloor, look for moisture damage, check height transitions, and confirm whether cabinets or appliances affect the layout. Those issues are easy to miss online, but they directly affect whether the floor lasts and looks even after installation.",
+        "description": "They should check the subfloor, moisture, transitions, and how cabinets or appliances affect the layout. Those details determine whether the floor will install cleanly and last."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

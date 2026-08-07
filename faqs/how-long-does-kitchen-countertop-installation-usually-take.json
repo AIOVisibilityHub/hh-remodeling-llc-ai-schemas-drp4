@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does kitchen countertop installation usually take?",
+  "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-countertop-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does kitchen countertop installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most standard kitchen countertop installs are finished in one day, but the full project often takes several business days from template to installation. In the Denver area, many jobs run about 5 to 7 business days, and larger or more complex projects can take longer.",
+        "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to get an accurate cabinet removal estimate?",
+  "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and na",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-to-get-an-accurate-cabinet-removal-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to get an accurate cabinet removal estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work starts, ask for clear photos or an in-person evaluation, because the crew needs to see cabinet type, countertop attachment, and any signs of water damage or previous repairs. In Denver-area homes, access details like parking, stairways, and narrow hallways also affect the estimate and scheduling.",
+        "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and narrow hallways also helps produce a more accurate estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

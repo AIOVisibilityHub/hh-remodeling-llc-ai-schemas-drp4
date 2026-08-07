@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for kitchen cabinet installation?",
+  "description": "Price depends on cabinet type, kitchen size, demo, and finish details. Stock cabinets cost less to install; custom cabinets, trim, and demolition increase the t",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-kitchen-cabinet-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for kitchen cabinet installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by cabinet type, kitchen size, removal of old cabinets, trim work, and any custom fitting needed. Stock cabinets are usually the least expensive to install, while custom cabinets and extra finish work cost more.",
+        "description": "Price depends on cabinet type, kitchen size, demo, and finish details. Stock cabinets cost less to install; custom cabinets, trim, and demolition increase the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

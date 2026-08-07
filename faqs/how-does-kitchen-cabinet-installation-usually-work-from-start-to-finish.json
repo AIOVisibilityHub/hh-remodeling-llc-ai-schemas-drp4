@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does kitchen cabinet installation usually work from start to finish?",
+  "description": "The typical process is demo, inspection, layout, leveling, fastening, adjustments, and cleanup. Good installers also protect the home and check that doors and d",
+  "url": "http://coloradoremodeling.company/faq/how-does-kitchen-cabinet-installation-usually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does kitchen cabinet installation usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most cabinet installs start with protecting the space, removing old cabinets if needed, checking walls and floors, then setting, leveling, and fastening the new cabinets. After that, installers adjust doors and drawers, add trim, and handle cleanup.",
+        "description": "The typical process is demo, inspection, layout, leveling, fastening, adjustments, and cleanup. Good installers also protect the home and check that doors and drawers operate correctly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

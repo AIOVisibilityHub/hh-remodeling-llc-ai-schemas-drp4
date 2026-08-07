@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my log cabin needs refinishing?",
+  "description": "Signs include faded or peeling stain, graying logs, mildew, dry rot, cracks, and water no longer beading on the surface.",
+  "url": "http://coloradoremodeling.company/faq/what-are-the-signs-that-my-log-cabin-needs-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my log cabin needs refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for visible signs of wear and tear such as faded or peeling stain, graying logs, mildew or mold growth, dry rot, or cracks in the logs. If water is no longer beading on the surface, or if chinking or caulking is deteriorating, it's also a strong indicator that refinishing is needed. Addressing these issues promptly can prevent more extensive and costly damage.",
+        "description": "Signs include faded or peeling stain, graying logs, mildew, dry rot, cracks, and water no longer beading on the surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

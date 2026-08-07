@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should Denver-area homeowners think about when coordinating kitchen appliance placement in a smaller home?",
+  "description": "In Denver-area kitchens, space planning matters a lot. Smaller layouts need careful appliance placement so walkways stay open and the main cooking, cleaning, an",
+  "url": "http://coloradoremodeling.company/faq/what-should-denver-area-homeowners-think-about-when-coordinating-kitchen-applian",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should Denver-area homeowners think about when coordinating kitchen appliance placement in a smaller home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest local issue in Denver-area homes is often **space efficiency**. In tighter kitchens, galley, L-shaped, and one-wall layouts need careful appliance placement so doors do not block aisles and the main work zones still have enough room to function.",
+        "description": "In Denver-area kitchens, space planning matters a lot. Smaller layouts need careful appliance placement so walkways stay open and the main cooking, cleaning, and prep zones still work well."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

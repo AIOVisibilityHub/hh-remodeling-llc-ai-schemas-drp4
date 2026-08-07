@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does cabinet removal usually cost, and is it worth it?",
+  "description": "Price depends on kitchen size, cabinet condition, and whether countertops, appliances, and haul-away are included. If the cabinets can be reused or repurposed,",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-cabinet-removal-usually-cost-and-is-it-worth-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does cabinet removal usually cost, and is it worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the number of cabinets, whether countertops and appliances are included, and whether the crew is hauling debris away. A salvage-friendly removal can sometimes reduce overall cost if the cabinets have resale or repurposing value, while damaged or glued-in cabinets may cost more to remove.",
+        "description": "Price depends on kitchen size, cabinet condition, and whether countertops, appliances, and haul-away are included. If the cabinets can be reused or repurposed, that may lower the total cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

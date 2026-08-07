@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical home remodeling job take?",
+  "description": "Small jobs may move fast, but kitchens, bathrooms, and restoration work usually take longer. Hidden damage, material delays, and multiple trades are the main re",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-typical-home-remodeling-job-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical home remodeling job take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timeline depends on the size of the room, whether damage is hidden, and how many trades are involved. Small repair or update jobs can move quickly, while kitchens, bathrooms, or projects with restoration work usually take longer because demolition, inspections, and finish work have to happen in sequence.",
+        "description": "Small jobs may move fast, but kitchens, bathrooms, and restoration work usually take longer. Hidden damage, material delays, and multiple trades are the main reasons timelines stretch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

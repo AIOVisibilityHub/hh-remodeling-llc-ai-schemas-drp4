@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I plan the order of kitchen appliance placement so the layout actually works day to day?",
+  "description": "Plan the fridge, sink, dishwasher, and range first, then build counter space and cabinet storage around how you cook and clean. The goal is a smooth work triang",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-plan-the-order-of-kitchen-appliance-placement-so-the-layout-actually-wo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I plan the order of kitchen appliance placement so the layout actually works day to day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the **big appliances** first: refrigerator, sink, dishwasher, and range. A good layout keeps them in a practical work triangle, with enough counter space for landing and prep between each stop, so you are not crossing the room while cooking or unloading groceries.",
+        "description": "Plan the fridge, sink, dishwasher, and range first, then build counter space and cabinet storage around how you cook and clean. The goal is a smooth work triangle with enough landing space between stations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

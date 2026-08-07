@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I expect to pay for kitchen countertop installation?",
+  "description": "Price varies by material and kitchen size. Quartz and granite are often mid-range, while marble and quartzite usually cost more.",
+  "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-kitchen-countertop-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I expect to pay for kitchen countertop installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the material, square footage, edge profile, cutouts, and how complicated the kitchen layout is. In the Denver area, fully installed quartz, granite, marble, and quartzite projects can range from a few thousand dollars for smaller kitchens to higher totals for larger or more premium installs.",
+        "description": "Price varies by material and kitchen size. Quartz and granite are often mid-range, while marble and quartzite usually cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

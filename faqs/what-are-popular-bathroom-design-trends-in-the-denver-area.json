@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are popular bathroom design trends in the Denver area?",
+  "description": "Popular bathroom design trends in Denver include natural materials, smart technology, spa-like features, minimalist designs, and neutral color palettes.",
+  "url": "http://coloradoremodeling.company/faq/what-are-popular-bathroom-design-trends-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are popular bathroom design trends in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popular bathroom design trends in the Denver area often include elements that blend modern aesthetics with functionality and a connection to nature. This can mean using natural materials like wood and stone, incorporating smart technology, and opting for spa-like features such as rainfall showers or freestanding tubs. Minimalist designs, neutral color palettes, and efficient storage solutions are also frequently requested to create serene and organized spaces.",
+        "description": "Popular bathroom design trends in Denver include natural materials, smart technology, spa-like features, minimalist designs, and neutral color palettes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

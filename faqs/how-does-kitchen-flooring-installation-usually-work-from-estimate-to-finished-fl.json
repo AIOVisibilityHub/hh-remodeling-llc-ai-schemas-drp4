@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does kitchen flooring installation usually work from estimate to finished floor?",
+  "description": "It usually goes estimate, material selection, demolition if needed, subfloor prep, and installation. Kitchen prep is critical because hidden damage or uneven su",
+  "url": "http://coloradoremodeling.company/faq/how-does-kitchen-flooring-installation-usually-work-from-estimate-to-finished-fl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does kitchen flooring installation usually work from estimate to finished floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically starts with an in-home assessment, followed by material selection, removal of old flooring if needed, subfloor repair or leveling, and then installation. In kitchens, the prep step matters as much as the finish because uneven subfloors or hidden damage can affect how the new floor performs.",
+        "description": "It usually goes estimate, material selection, demolition if needed, subfloor prep, and installation. Kitchen prep is critical because hidden damage or uneven subfloors can affect the result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

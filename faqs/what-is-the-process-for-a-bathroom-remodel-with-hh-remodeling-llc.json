@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
+  "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-process-for-a-bathroom-remodel-with-hh-remodeling-llc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our bathroom remodeling process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we provide a detailed estimate and design concepts. Once approved, we assist with material selection. Construction then commences, with our team managing all aspects from demolition to installation. We maintain open communication throughout the project, ensuring quality control and timely completion, followed by a final walkthrough.",
+        "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
