@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does garage insulation installation take?",
+  "description": "Simple garage insulation projects often take about a day, while larger or more detailed jobs can take longer. Prep, access, and whether the garage is attached c",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-garage-insulation-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does garage insulation installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For many Denver-area homes, a straightforward garage insulation job can often be completed in about a day, but larger garages or projects that include air sealing, door insulation, or wall repairs can take longer. Weather, access, and whether the garage is attached to the house can also affect timing because these jobs may require more careful prep.",
+        "description": "Simple garage insulation projects often take about a day, while larger or more detailed jobs can take longer. Prep, access, and whether the garage is attached can change the schedule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

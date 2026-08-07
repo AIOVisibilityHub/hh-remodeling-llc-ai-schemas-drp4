@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can drywall be installed if my basement had moisture or water problems before?",
+  "description": "Not safely until the moisture issue is understood and corrected. Drywall can fail later if it’s installed over damp concrete, wet framing, or an unresolved wate",
+  "url": "http://coloradoremodeling.company/faq/can-drywall-be-installed-if-my-basement-had-moisture-or-water-problems-before",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can drywall be installed if my basement had moisture or water problems before?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should look for signs of prior or active moisture before any drywall goes up, including staining, musty odors, efflorescence, or damp framing. Drywall over unresolved water problems can fail later, even if it looks fine at first. If the basement has ever flooded or stayed humid, the wall assembly should be built to handle that condition.",
+        "description": "Not safely until the moisture issue is understood and corrected. Drywall can fail later if it’s installed over damp concrete, wet framing, or an unresolved water problem."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

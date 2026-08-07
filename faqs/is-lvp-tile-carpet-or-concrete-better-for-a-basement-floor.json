@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is LVP, tile, carpet, or concrete better for a basement floor?",
+  "description": "Waterproof LVP and tile are usually the strongest basement choices. Carpet is softer but less moisture-resistant, and concrete is durable but less comfortable w",
+  "url": "http://coloradoremodeling.company/faq/is-lvp-tile-carpet-or-concrete-better-for-a-basement-floor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is LVP, tile, carpet, or concrete better for a basement floor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most finished basements, the best-performing options are **waterproof LVP** and **tile** because they handle moisture better than many other floors. Concrete can also work if you want a durable, low-maintenance surface, but the right choice depends on comfort, insulation, and whether the space needs a warmer feel underfoot.",
+        "description": "Waterproof LVP and tile are usually the strongest basement choices. Carpet is softer but less moisture-resistant, and concrete is durable but less comfortable without the right finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

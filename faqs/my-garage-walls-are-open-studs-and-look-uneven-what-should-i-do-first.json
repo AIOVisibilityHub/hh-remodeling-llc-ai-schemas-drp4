@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My garage walls are open studs and look uneven — what should I do first?",
+  "description": "Have the framing inspected before insulation or drywall. Uneven or incomplete wall framing can cause problems with door openings, wall straightness, and later f",
+  "url": "http://coloradoremodeling.company/faq/my-garage-walls-are-open-studs-and-look-uneven-what-should-i-do-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My garage walls are open studs and look uneven — what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your garage walls are bare studs, uneven, or missing framing around the garage door opening, the safest move is to have them inspected before insulation, drywall, or a conversion starts. A proper framing check confirms the wall is plumb, the load path is sound, and the openings are sized correctly for what comes next.",
+        "description": "Have the framing inspected before insulation or drywall. Uneven or incomplete wall framing can cause problems with door openings, wall straightness, and later finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

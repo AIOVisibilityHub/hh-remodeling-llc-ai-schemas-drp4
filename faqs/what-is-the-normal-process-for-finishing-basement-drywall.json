@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the normal process for finishing basement drywall?",
+  "description": "The usual order is frame, insulate, hang drywall, tape, mud, sand, and then prep for paint. Good basement work also checks moisture control before the first boa",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-normal-process-for-finishing-basement-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the normal process for finishing basement drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A straightforward basement drywall finishing job usually follows framing, insulation, and any needed vapor-barrier work. After that, the crew hangs drywall, tapes seams, applies joint compound in coats, sands the surface, and finishes details like corners and ceiling transitions.",
+        "description": "The usual order is frame, insulate, hang drywall, tape, mud, sand, and then prep for paint. Good basement work also checks moisture control before the first board goes up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my basement floor has moisture problems before installation?",
+  "description": "Use moisture testing, including a plastic-sheet check, and inspect for stains, dampness, and odors. If the slab shows vapor or past leak signs, choose a more mo",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-basement-floor-has-moisture-problems-before-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my basement floor has moisture problems before installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture testing is one of the most important pieces of evidence, especially in Colorado basements. A simple plastic-sheet test can reveal vapor transmission, but a full assessment should also check for staining, damp spots, odors, and any history of leaks near plumbing or exterior walls.",
+        "description": "Use moisture testing, including a plastic-sheet check, and inspect for stains, dampness, and odors. If the slab shows vapor or past leak signs, choose a more moisture-tolerant flooring system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

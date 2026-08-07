@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does basement painting take in a house?",
+  "description": "Most basement paint jobs take a few days, but repairs and drying time can extend that. Moisture issues, patching, and the wall material are the biggest schedule",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-basement-painting-take-in-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does basement painting take in a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline depends mostly on prep and drying time, not just the painting itself. A small, dry basement may take a couple of days, while a basement with patching, moisture-related repairs, or extensive prep can take longer because each coat needs time to cure properly. Colorado’s dry air can help drying, but basement conditions and material type matter more than the weather outside.",
+        "description": "Most basement paint jobs take a few days, but repairs and drying time can extend that. Moisture issues, patching, and the wall material are the biggest schedule factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

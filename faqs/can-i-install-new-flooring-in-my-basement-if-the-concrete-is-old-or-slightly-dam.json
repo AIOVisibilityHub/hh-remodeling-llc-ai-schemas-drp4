@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install new flooring in my basement if the concrete is old or slightly damp?",
+  "description": "Sometimes, yes—but only after confirming the moisture level is acceptable. Old or slightly damp concrete usually needs a moisture-tolerant flooring system, not",
+  "url": "http://coloradoremodeling.company/faq/can-i-install-new-flooring-in-my-basement-if-the-concrete-is-old-or-slightly-dam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install new flooring in my basement if the concrete is old or slightly damp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only if the basement slab is dry enough and the floor system is chosen correctly. Floating LVP is commonly used because it does not need to be glued directly to concrete, while products that trap moisture or rely on hardwood can fail if the slab has vapor issues.",
+        "description": "Sometimes, yes—but only after confirming the moisture level is acceptable. Old or slightly damp concrete usually needs a moisture-tolerant flooring system, not a moisture-sensitive one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

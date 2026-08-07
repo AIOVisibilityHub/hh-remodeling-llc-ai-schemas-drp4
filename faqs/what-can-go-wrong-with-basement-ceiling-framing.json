@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with basement ceiling framing?",
+  "description": "Common problems are low headroom, uneven framing, and bad fit around ducts or pipes. Careful layout before building prevents most ceiling-framing issues.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-basement-ceiling-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with basement ceiling framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risks are losing too much ceiling height, framing around utilities incorrectly, and ending up with an uneven finished surface. In Colorado basements, poor planning can also make later drywall, lighting, or insulation work harder and more expensive.",
+        "description": "Common problems are low headroom, uneven framing, and bad fit around ducts or pipes. Careful layout before building prevents most ceiling-framing issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

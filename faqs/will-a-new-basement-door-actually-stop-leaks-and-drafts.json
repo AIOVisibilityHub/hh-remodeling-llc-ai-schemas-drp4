@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a new basement door actually stop leaks and drafts?",
+  "description": "A new door can improve sealing and reduce leaks or drafts, but it won’t fix a drainage or foundation issue on its own. The opening, threshold, and weatherproofi",
+  "url": "http://coloradoremodeling.company/faq/will-a-new-basement-door-actually-stop-leaks-and-drafts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a new basement door actually stop leaks and drafts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A door that seals well helps reduce drafts, moisture intrusion, and pest entry, but it will not solve a bigger drainage or foundation problem by itself. In Colorado homes, the surrounding grade, threshold, and sealing details matter as much as the door itself.",
+        "description": "A new door can improve sealing and reduce leaks or drafts, but it won’t fix a drainage or foundation issue on its own. The opening, threshold, and weatherproofing all have to work together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

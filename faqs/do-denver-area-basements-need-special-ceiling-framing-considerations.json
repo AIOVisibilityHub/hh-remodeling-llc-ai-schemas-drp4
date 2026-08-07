@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do Denver-area basements need special ceiling framing considerations?",
+  "description": "Yes. Local basements often need custom framing for low ceilings, ducts, and utility lines, so the layout should be checked on-site before work begins.",
+  "url": "http://coloradoremodeling.company/faq/do-denver-area-basements-need-special-ceiling-framing-considerations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do Denver-area basements need special ceiling framing considerations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Denver, Centennial, Greenwood Village, Foxfield, and Parker projects, the framing plan should account for local basement conditions like low headroom, mechanical equipment, and any code-related finish requirements. The exact setup can vary by city and by how the basement is being finished, so an on-site look is the best way to confirm what will work.",
+        "description": "Yes. Local basements often need custom framing for low ceilings, ducts, and utility lines, so the layout should be checked on-site before work begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

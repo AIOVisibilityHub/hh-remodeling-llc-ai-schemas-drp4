@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does garage wall framing have to meet building code in my area?",
+  "description": "Yes. Wall framing must meet local code for spacing, anchoring, openings, and fire-related requirements before the garage can be finished.",
+  "url": "http://coloradoremodeling.company/faq/does-garage-wall-framing-have-to-meet-building-code-in-my-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does garage wall framing have to meet building code in my area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, garage wall framing usually needs to match local code requirements for stud spacing, wall anchoring, fire separation, and any structural openings. In the Denver metro area, that matters even more if the garage is attached to the house or if you are adding framing that affects insulation, drywall, or door openings.",
+        "description": "Yes. Wall framing must meet local code for spacing, anchoring, openings, and fire-related requirements before the garage can be finished."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

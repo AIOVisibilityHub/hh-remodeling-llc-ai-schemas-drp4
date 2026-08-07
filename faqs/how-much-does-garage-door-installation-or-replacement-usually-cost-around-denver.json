@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does garage door installation or replacement usually cost around Denver, Centennial, or Parker?",
+  "description": "Most Denver-area installs run about $1,200 to $4,100 installed, depending on size, insulation, style, and whether you need opener or hardware replacement.",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-garage-door-installation-or-replacement-usually-cost-around-denver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does garage door installation or replacement usually cost around Denver, Centennial, or Parker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard garage door installation or replacement in the Denver area usually costs about $1,200 to $4,100 installed, with insulated steel doors landing near the middle of that range. Size, insulation, style, opener replacement, and old-door removal are the biggest cost drivers. For a quick estimate, ask for an itemized quote that separates the door, labor, hardware, opener, and haul-away.",
+        "description": "Most Denver-area installs run about $1,200 to $4,100 installed, depending on size, insulation, style, and whether you need opener or hardware replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

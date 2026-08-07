@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong if basement flooring is installed the wrong way?",
+  "description": "Moisture, poor prep, and the wrong material can cause buckling, odor, and early failure. Basement floors need a slab-ready system, not just a good-looking top l",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-basement-flooring-is-installed-the-wrong-way",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong if basement flooring is installed the wrong way?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest risk is choosing a floor that cannot handle basement conditions. Carpet, untreated wood, or poorly installed vinyl can buckle, smell musty, or fail if the slab has moisture, while skipping prep can create uneven seams, hollow spots, and premature wear.",
+        "description": "Moisture, poor prep, and the wrong material can cause buckling, odor, and early failure. Basement floors need a slab-ready system, not just a good-looking top layer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

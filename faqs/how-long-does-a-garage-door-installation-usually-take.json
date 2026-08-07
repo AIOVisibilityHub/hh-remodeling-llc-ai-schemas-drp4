@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a garage door installation usually take?",
+  "description": "A simple garage door replacement often takes a few hours, but older openings or added opener work can make the visit longer.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-garage-door-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a garage door installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most straightforward garage door installs take only a few hours, but the full appointment can run longer if the opener, tracks, springs, or framing need adjustment. Older homes in Denver-area neighborhoods sometimes take extra time because the opening is not perfectly standard. Ask whether the estimate includes removal, disposal, and any needed tuning so there are no delays on install day.",
+        "description": "A simple garage door replacement often takes a few hours, but older openings or added opener work can make the visit longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

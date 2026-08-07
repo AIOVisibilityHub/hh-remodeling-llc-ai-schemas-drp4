@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with garage drywall installation?",
+  "description": "Poor taping, bad fastening, wrong board type, and moisture problems are common failures. These can cause cracks, visible seams, or code issues later.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-garage-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with garage drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common problems include cracked seams, poor fire taping, visible fasteners, uneven finishes, and moisture damage behind the wall. Those issues usually happen when the drywall is installed without proper fastening, too little drying time, or the wrong board for the garage conditions.",
+        "description": "Poor taping, bad fastening, wrong board type, and moisture problems are common failures. These can cause cracks, visible seams, or code issues later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs I should replace my basement door now instead of waiting?",
+  "description": "Replace it soon if it sticks, sags, rusts, leaks, or no longer seals tightly. These problems usually get worse and can lead to moisture damage or harder operati",
+  "url": "http://coloradoremodeling.company/faq/what-are-the-signs-i-should-replace-my-basement-door-now-instead-of-waiting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs I should replace my basement door now instead of waiting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if the door is hard to lift, won’t close tight, shows rust, or lets in drafts or water. Those are common signs the hardware, frame, or threshold is failing, and waiting usually makes the repair more expensive.",
+        "description": "Replace it soon if it sticks, sags, rusts, leaks, or no longer seals tightly. These problems usually get worse and can lead to moisture damage or harder operation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

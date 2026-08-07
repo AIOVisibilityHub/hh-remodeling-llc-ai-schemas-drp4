@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does basement wall framing take from start to finish?",
+  "description": "Simple basement framing can take only a few days, but larger or more complex layouts take longer. Permits, inspections, and any moisture or slab issues can also",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-basement-wall-framing-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does basement wall framing take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most straightforward basement framing jobs take a few days, but timing depends on the size of the space, how much layout work is involved, and whether the crew must wait on permits or inspections. A simple open basement frames faster than one with multiple rooms, closets, mechanical chases, or bedroom egress requirements.\n\nIn Denver, Centennial, Greenwood Village, Foxfield, and Parker, the schedule can also be affected by moisture fixes, slab issues, or changes made after the layout is marked. That is why accurate planning matters before demolition or material ordering.\n\nKey factors:\n- Basement size and room count\n- Permit and inspection timing\n- Utility relocations and framing complexity\n- Moisture or slab corrections\n\nIf you have a deadline, share it before work starts. A realistic schedule is better than rushing a framing job that will slow down the rest of the finish.",
+        "description": "Simple basement framing can take only a few days, but larger or more complex layouts take longer. Permits, inspections, and any moisture or slab issues can also add time, so the schedule should be set before work begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

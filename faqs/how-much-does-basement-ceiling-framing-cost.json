@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does basement ceiling framing cost?",
+  "description": "Cost depends on size, layout complexity, and how many ducts, pipes, or beams need to be boxed in. Expect custom ceiling framing to cost more when the basement h",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-basement-ceiling-framing-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does basement ceiling framing cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main price drivers are square footage, ceiling complexity, and how much custom blocking or soffit work is needed. Basement framing in the Denver area is often priced by scope rather than a single flat rate, because a ceiling with many duct drops or pipes costs more than a straightforward open run.",
+        "description": "Cost depends on size, layout complexity, and how many ducts, pipes, or beams need to be boxed in. Expect custom ceiling framing to cost more when the basement has lots of obstacles or height restrictions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

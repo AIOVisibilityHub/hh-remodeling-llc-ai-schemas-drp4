@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check before hiring someone to frame my basement walls in Denver or the south metro area?",
+  "description": "Before hiring, check that the framing plan fits your basement’s moisture, height, and layout conditions. In Denver-area homes, local foundation movement and uti",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-check-before-hiring-someone-to-frame-my-basement-walls-in-denver-o",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check before hiring someone to frame my basement walls in Denver or the south metro area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you are framing a basement in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions matter because foundation movement, moisture, and basement height can all affect the wall design. A layout that works in one home may fail in another if the slab is uneven or the basement includes windows, mechanicals, or bedroom space.\n\nThe smartest first step is a site visit with measurements and a clear room plan. That lets the framing take utilities, insulation, and any required openings into account before material is ordered.\n\nKey factors:\n- Local soil and foundation movement\n- Moisture and slab conditions\n- Room layout and ceiling height\n- Windows, mechanicals, and egress needs\n\nIf you want a clean build, get the framing plan set before drywall, electrical, or insulation begin. The earlier the layout is right, the fewer problems you will have later.",
+        "description": "Before hiring, check that the framing plan fits your basement’s moisture, height, and layout conditions. In Denver-area homes, local foundation movement and utility placement can change how the walls should be framed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

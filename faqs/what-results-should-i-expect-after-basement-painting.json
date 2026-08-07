@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What results should I expect after basement painting?",
+  "description": "Expect a brighter, cleaner, more finished-looking space. If the walls were prepped correctly and moisture is under control, the finish should last longer and lo",
+  "url": "http://coloradoremodeling.company/faq/what-results-should-i-expect-after-basement-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What results should I expect after basement painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good basement paint job should leave the space brighter, cleaner-looking, and easier to maintain. On concrete or block walls, the right coating can also help reduce dusting and improve resistance to everyday wear. The result will still depend on whether the basement is dry and whether repairs were done before painting.",
+        "description": "Expect a brighter, cleaner, more finished-looking space. If the walls were prepped correctly and moisture is under control, the finish should last longer and look more consistent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

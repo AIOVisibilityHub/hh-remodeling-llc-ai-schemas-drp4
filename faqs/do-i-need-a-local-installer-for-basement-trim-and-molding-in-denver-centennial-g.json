@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a local installer for basement trim and molding in Denver, Centennial, Greenwood Village, Foxfield, or Parker?",
+  "description": "Yes, a local installer can account for basement moisture, layout, and finish details common in the Denver metro area. An on-site estimate is the safest way to p",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-a-local-installer-for-basement-trim-and-molding-in-denver-centennial-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a local installer for basement trim and molding in Denver, Centennial, Greenwood Village, Foxfield, or Parker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Denver metro area, local conditions like dry air, seasonal humidity shifts, and basement moisture can affect how trim is cut, finished, and sealed. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, it is worth asking for an on-site estimate so the installer can account for the specific basement layout and finish level.",
+        "description": "Yes, a local installer can account for basement moisture, layout, and finish details common in the Denver metro area. An on-site estimate is the safest way to price and plan the job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does basement painting usually cost, and what changes the price?",
+  "description": "Price depends on basement size, wall condition, prep, and the paint system used. Compare estimates line by line so you know what prep, materials, and cleanup ar",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-basement-painting-usually-cost-and-what-changes-the-price",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does basement painting usually cost, and what changes the price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost is driven by square footage, wall condition, prep work, and the type of coating needed for the surface. A basement that only needs cosmetic painting will cost less than one that needs crack repair, stain blocking, masonry primer, or moisture-tolerant products. If you are comparing bids, make sure each estimate includes prep, materials, and cleanup so you can compare value, not just price.",
+        "description": "Price depends on basement size, wall condition, prep, and the paint system used. Compare estimates line by line so you know what prep, materials, and cleanup are included."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

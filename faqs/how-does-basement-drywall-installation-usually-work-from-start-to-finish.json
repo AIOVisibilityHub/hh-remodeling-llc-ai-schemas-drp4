@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does basement drywall installation usually work from start to finish?",
+  "description": "Basement drywall installation usually goes framing, board hanging, taping, mudding, sanding, then priming and painting. Expect extra steps for outlets, ducts, p",
+  "url": "http://coloradoremodeling.company/faq/how-does-basement-drywall-installation-usually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does basement drywall installation usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A proper basement drywall job starts with framing, then cutting and hanging the sheets, then taping, mudding, sanding, priming, and painting. Contractors also have to work around electrical boxes, windows, vents, and any irregularities in the foundation or framing. The process usually takes longer than an above-grade room because basement walls and ceilings often require more prep and fitting.",
+        "description": "Basement drywall installation usually goes framing, board hanging, taping, mudding, sanding, then priming and painting. Expect extra steps for outlets, ducts, plumbing, and uneven basement walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

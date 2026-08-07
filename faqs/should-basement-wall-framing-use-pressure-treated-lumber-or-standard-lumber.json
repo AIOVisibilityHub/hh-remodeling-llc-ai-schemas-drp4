@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should basement wall framing use pressure-treated lumber or standard lumber?",
+  "description": "Where wood touches concrete, pressure-treated material is commonly used, but the bigger issue is the overall wall system. The right choice depends on moisture,",
+  "url": "http://coloradoremodeling.company/faq/should-basement-wall-framing-use-pressure-treated-lumber-or-standard-lumber",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should basement wall framing use pressure-treated lumber or standard lumber?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For basement walls, the better choice is usually the system that fits your moisture conditions, ceiling height, and finish goals rather than the cheapest option alone. Pressure-treated lumber is often used where wood meets concrete, but the full framing method still has to account for movement, straightness, and later drywall performance.\n\nIf you are deciding between DIY and hiring a pro, the biggest difference is not just labor speed. It is whether the framing will stay square, meet local expectations, and leave enough room for insulation, electrical runs, and trim.\n\nKey factors:\n- Contact points with concrete\n- Wall straightness and layout accuracy\n- Drywall, insulation, and trim clearance\n- Long-term resistance to cracking and movement\n\nIf the basement will be a main living area or bedroom area, a professional framing layout is usually worth it. That is especially true when the space has multiple obstacles or uneven concrete.",
+        "description": "Where wood touches concrete, pressure-treated material is commonly used, but the bigger issue is the overall wall system. The right choice depends on moisture, layout accuracy, and how the framing will support insulation and drywall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

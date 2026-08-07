@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does basement flooring installation usually work?",
+  "description": "It usually includes inspection, measurement, prep, installation, and a final walkthrough. Basement jobs often need extra moisture and slab preparation before th",
+  "url": "http://coloradoremodeling.company/faq/how-does-basement-flooring-installation-usually-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does basement flooring installation usually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with an in-home assessment, then measurements, material selection, subfloor preparation, and installation. For basement projects, prep often matters as much as the flooring itself because leveling, cleaning, moisture control, and proper transitions affect how long the floor lasts.",
+        "description": "It usually includes inspection, measurement, prep, installation, and a final walkthrough. Basement jobs often need extra moisture and slab preparation before the new floor goes down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

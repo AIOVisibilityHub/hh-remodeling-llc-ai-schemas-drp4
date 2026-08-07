@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of basement door is best for Colorado weather?",
+  "description": "Choose a door that seals tightly, resists moisture, and fits the opening well. In Colorado, durability and weather protection usually matter more than decorativ",
+  "url": "http://coloradoremodeling.company/faq/what-kind-of-basement-door-is-best-for-colorado-weather",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of basement door is best for Colorado weather?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should compare the door material, insulation, rust resistance, and how well it fits the existing opening. For basement entries in Denver, Centennial, Greenwood Village, Foxfield, and Parker, weather sealing and durability matter more than appearance alone.",
+        "description": "Choose a door that seals tightly, resists moisture, and fits the opening well. In Colorado, durability and weather protection usually matter more than decorative features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

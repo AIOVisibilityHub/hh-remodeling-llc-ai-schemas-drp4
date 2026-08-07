@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do garage door quotes vary so much from one company to another?",
+  "description": "Quotes vary because of door material, insulation, size, hardware, opener work, and how much adjustment the opening needs.",
+  "url": "http://coloradoremodeling.company/faq/why-do-garage-door-quotes-vary-so-much-from-one-company-to-another",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do garage door quotes vary so much from one company to another?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Denver metro, a standard replacement usually fits within common pricing ranges, but custom sizes, premium materials, and weather-resistant glass doors can raise the total quickly. Homes that need extra structural adjustments, upgraded hardware, or a new opener will also cost more. The safest way to compare quotes is to make sure each one includes the same scope of work.",
+        "description": "Quotes vary because of door material, insulation, size, hardware, opener work, and how much adjustment the opening needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

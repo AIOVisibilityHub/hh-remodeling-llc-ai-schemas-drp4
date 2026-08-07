@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What actually happens during garage drywall installation?",
+  "description": "It usually includes measuring, hanging panels, taping seams, mudding, sanding, and finishing. For attached garages, fire-rating requirements are checked before",
+  "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-garage-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What actually happens during garage drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually starts with measuring, checking the wall or ceiling structure, and confirming whether any insulation, vapor control, or fire-rating requirements apply. After that, the crew hangs the boards, tapes the seams, applies mud, sands the surface, and finishes it for paint or texture.",
+        "description": "It usually includes measuring, hanging panels, taping seams, mudding, sanding, and finishing. For attached garages, fire-rating requirements are checked before installation starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

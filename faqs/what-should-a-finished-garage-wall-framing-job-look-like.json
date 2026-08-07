@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a finished garage wall framing job look like?",
+  "description": "It should be straight, plumb, securely anchored, and ready for the next step like insulation, drywall, or electrical work.",
+  "url": "http://coloradoremodeling.company/faq/what-should-a-finished-garage-wall-framing-job-look-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a finished garage wall framing job look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A properly framed garage wall should be straight, plumb, and ready for insulation, drywall, electrical, or future conversion work. If you are in Centennial, Greenwood Village, Foxfield, or Parker and planning a garage upgrade, the best outcome is framing that supports the next phase without needing corrections later.",
+        "description": "It should be straight, plumb, securely anchored, and ready for the next step like insulation, drywall, or electrical work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

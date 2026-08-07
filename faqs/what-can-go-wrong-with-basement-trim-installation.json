@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with basement trim installation?",
+  "description": "Moisture, uneven walls, and poor prep are the main problems. They can lead to gaps, swelling, or trim that does not sit flush.",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-basement-trim-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with basement trim installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture is the biggest risk because it can cause trim to swell, separate, or fail over time. Uneven floors and walls can also leave visible gaps, so the installer may need caulk, shims, or minor repair work to get a tight fit.",
+        "description": "Moisture, uneven walls, and poor prep are the main problems. They can lead to gaps, swelling, or trim that does not sit flush."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

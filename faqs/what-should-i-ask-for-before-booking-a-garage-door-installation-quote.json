@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask for before booking a garage door installation quote?",
+  "description": "Ask for an itemized quote that includes the door, labor, hardware, opener work, removal, and any possible adjustment fees.",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-for-before-booking-a-garage-door-installation-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask for before booking a garage door installation quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good estimate should list the door model, insulation level, labor, hardware, opener changes, haul-away, and any extras like windows or trim work. If a quote only gives one lump sum, it is harder to compare and easier for surprises to show up later. Before scheduling, confirm whether the price changes if the opening needs adjustment or if the current opener is not compatible.",
+        "description": "Ask for an itemized quote that includes the door, labor, hardware, opener work, removal, and any possible adjustment fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

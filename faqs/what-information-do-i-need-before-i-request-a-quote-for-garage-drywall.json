@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need before I request a quote for garage drywall?",
+  "description": "Have rough measurements, photos, ceiling height, and details about damage or existing drywall ready. That helps get a more accurate quote for labor and material",
+  "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-i-request-a-quote-for-garage-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need before I request a quote for garage drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work begins, the installer should verify the garage layout, wall lengths, ceiling height, electrical locations, and any damage that needs repair. Photos and rough measurements can speed up quoting, but an on-site look is best if the garage has water damage, uneven framing, or prior patchwork.",
+        "description": "Have rough measurements, photos, ceiling height, and details about damage or existing drywall ready. That helps get a more accurate quote for labor and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

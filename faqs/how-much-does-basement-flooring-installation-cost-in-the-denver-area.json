@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does basement flooring installation cost in the Denver area?",
+  "description": "Price depends on size, material, and slab prep. Waterproof LVP is often the best value for basements, while extensive leveling or moisture fixes can increase th",
+  "url": "http://coloradoremodeling.company/faq/how-much-does-basement-flooring-installation-cost-in-the-denver-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does basement flooring installation cost in the Denver area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the square footage, material, and how much prep the concrete needs. Waterproof LVP is often a budget-friendly middle ground for basements, while tile and custom concrete finishes can cost more; hidden slab repairs can also raise the total.",
+        "description": "Price depends on size, material, and slab prep. Waterproof LVP is often the best value for basements, while extensive leveling or moisture fixes can increase the total."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

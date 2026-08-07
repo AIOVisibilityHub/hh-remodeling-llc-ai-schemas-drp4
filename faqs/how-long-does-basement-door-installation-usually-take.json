@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does basement door installation usually take?",
+  "description": "A simple basement door install is often done in one day. If the frame needs repair, the opening is not square, or custom parts are required, expect it to take l",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-basement-door-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does basement door installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most basement door installations are completed in a single day, but custom sizes, framing repairs, or weatherproofing can add time. In the Denver area, scheduling can also take longer during busy remodeling seasons, especially if you need an estimate first.",
+        "description": "A simple basement door install is often done in one day. If the frame needs repair, the opening is not square, or custom parts are required, expect it to take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

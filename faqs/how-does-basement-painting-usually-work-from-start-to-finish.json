@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does basement painting usually work from start to finish?",
+  "description": "It starts with cleaning and repairs, then priming, then one or two finish coats. The exact products depend on whether your basement walls are concrete, block, o",
+  "url": "http://coloradoremodeling.company/faq/how-does-basement-painting-usually-work-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does basement painting usually work from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basement painting usually follows a prep-heavy process: protect the area, clean surfaces, remove loose paint, patch cracks, sand rough spots, and apply the correct primer before finish coats. Concrete, block, and drywall often need different products, so the coating choice depends on what your basement walls are made of. Two coats are commonly recommended for better coverage and durability.",
+        "description": "It starts with cleaning and repairs, then priming, then one or two finish coats. The exact products depend on whether your basement walls are concrete, block, or drywall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What difference will garage insulation actually make in my home?",
+  "description": "Good garage insulation usually cuts drafts, improves comfort, and helps nearby rooms stay more stable in temperature. Attached garages and rooms above them typi",
+  "url": "http://coloradoremodeling.company/faq/what-difference-will-garage-insulation-actually-make-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What difference will garage insulation actually make in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Done well, garage insulation can make the space more usable year-round, reduce drafts into nearby rooms, and improve comfort above or beside the garage. In colder Colorado climates, homeowners often notice the biggest benefit when the garage is attached or when there is finished living space nearby.",
+        "description": "Good garage insulation usually cuts drafts, improves comfort, and helps nearby rooms stay more stable in temperature. Attached garages and rooms above them typically see the biggest benefit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

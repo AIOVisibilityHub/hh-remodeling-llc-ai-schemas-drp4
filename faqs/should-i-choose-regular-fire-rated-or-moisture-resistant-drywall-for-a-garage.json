@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose regular, fire-rated, or moisture-resistant drywall for a garage?",
+  "description": "Type X fire-rated drywall is the main choice for attached garages. Moisture-resistant board can help in damp or leak-prone spaces, but it does not replace fire-",
+  "url": "http://coloradoremodeling.company/faq/should-i-choose-regular-fire-rated-or-moisture-resistant-drywall-for-a-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose regular, fire-rated, or moisture-resistant drywall for a garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest differences are **fire rating**, moisture resistance, and finish quality. For most garages, Type X is important for code compliance, while moisture-resistant board may help if the garage sees humidity, leaks, or temperature swings.",
+        "description": "Type X fire-rated drywall is the main choice for attached garages. Moisture-resistant board can help in damp or leak-prone spaces, but it does not replace fire-rated material where code requires it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

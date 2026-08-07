@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I need to do before basement trim and molding installation starts?",
+  "description": "Measure the space, pick the trim profile, and confirm whether old trim must be removed. A good installer will also check for moisture, uneven walls, and any fin",
+  "url": "http://coloradoremodeling.company/faq/what-do-i-need-to-do-before-basement-trim-and-molding-installation-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I need to do before basement trim and molding installation starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by choosing the trim style and measuring the basement walls, doors, and any built-ins so the installer can estimate materials and labor. In finished basements, the team should also check for uneven floors, moisture issues, and whether old trim needs removal before new molding goes in.",
+        "description": "Measure the space, pick the trim profile, and confirm whether old trim must be removed. A good installer will also check for moisture, uneven walls, and any finish issues before giving a quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

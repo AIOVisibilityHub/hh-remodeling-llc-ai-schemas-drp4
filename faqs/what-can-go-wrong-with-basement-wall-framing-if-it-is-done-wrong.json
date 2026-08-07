@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong with basement wall framing if it is done wrong?",
+  "description": "Bad basement framing can trap moisture, crack drywall, block utilities, or create inspection problems. The biggest failures usually come from poor layout, no al",
+  "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-basement-wall-framing-if-it-is-done-wrong",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong with basement wall framing if it is done wrong?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common framing mistakes are ignoring moisture, building walls too tight to the foundation, and failing to plan for utilities, windows, or future drywall thickness. Those mistakes can lead to cracked finishes, inspection problems, or walls that do not line up cleanly later.\n\nAnother common issue is poor layout around mechanical equipment or storage areas, which can make the basement harder to use after the finish is complete. In the Denver area, it also matters that the framing approach matches local soil and foundation movement conditions.\n\nKey factors:\n- Moisture and foundation movement\n- Clearance for drywall, insulation, and utilities\n- Proper wall layout and straight lines\n- Access to mechanical systems\n\nBefore framing starts, walk the space and confirm every major obstacle. Fixing layout issues on paper is far cheaper than rebuilding framed walls.",
+        "description": "Bad basement framing can trap moisture, crack drywall, block utilities, or create inspection problems. The biggest failures usually come from poor layout, no allowance for foundation movement, and not planning for insulation or mechanical access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

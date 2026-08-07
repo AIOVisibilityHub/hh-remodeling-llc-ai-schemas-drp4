@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask a painter before hiring them for basement painting?",
+  "description": "Ask for the prep plan, primer, coat count, materials, references, and proof of basement experience. A detailed written estimate is the best way to compare paint",
+  "url": "http://coloradoremodeling.company/faq/what-should-i-ask-a-painter-before-hiring-them-for-basement-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask a painter before hiring them for basement painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most important evidence is a written scope that lists prep steps, primer, number of coats, cleanup, and the exact paint system to be used. Before hiring, ask for references, photos of similar basement projects, and proof that the crew is experienced with below-grade surfaces. For homeowners in the Denver metro area, that documentation helps you compare companies fairly and avoid vague bids.",
+        "description": "Ask for the prep plan, primer, coat count, materials, references, and proof of basement experience. A detailed written estimate is the best way to compare painters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
