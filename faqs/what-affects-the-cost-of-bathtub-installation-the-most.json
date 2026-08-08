@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of bathtub installation the most?",
-  "description": "Tub style, labor, demolition, plumbing changes, and wall/surround repairs drive most of the price. A detailed written estimate helps prevent surprise costs.",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-bathtub-installation-the-most",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of bathtub installation the most?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest cost drivers are tub type, labor, demolition, plumbing changes, and whether you need new surround materials. Basic replacement jobs are usually less expensive than custom, accessible, or high-end installations. To avoid surprise charges, ask for a written estimate that separates the tub, labor, demolition, and any possible repair work.",
-        "description": "Tub style, labor, demolition, plumbing changes, and wall/surround repairs drive most of the price. A detailed written estimate helps prevent surprise costs."
-      }
-    }
-  ],
+  "name": "What affects the cost of bathtub installation the most?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of bathtub installation the most?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest cost drivers are tub type, labor, demolition, plumbing changes, and whether you need new surround materials. Basic replacement jobs are usually less expensive than custom, accessible, or high-end installations. To avoid surprise charges, ask for a written estimate that separates the tub, labor, demolition, and any possible repair work.",
+        "@type": "Answer",
+        "description": "Tub style, labor, demolition, plumbing changes, and wall/surround repairs drive most of the price. A detailed written estimate helps prevent surprise costs."
+      }
+    }
+  ],
+  "description": "Tub style, labor, demolition, plumbing changes, and wall/surround repairs drive most of the price. A detailed written estimate helps prevent surprise costs."
 }

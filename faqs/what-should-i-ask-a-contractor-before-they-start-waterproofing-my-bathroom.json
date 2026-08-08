@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I ask a contractor before they start waterproofing my bathroom?",
-  "description": "Ask which system they use, where it goes, who installs it, and whether you can inspect it before tile is set. Those answers reveal a lot about quality.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-ask-a-contractor-before-they-start-waterproofing-my-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I ask a contractor before they start waterproofing my bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest way to reduce risk is to ask what waterproofing system is being used and where it will be installed. You should also confirm who is installing it, how wet zones are handled, and whether the contractor will show you the waterproofing before tile goes up.",
-        "description": "Ask which system they use, where it goes, who installs it, and whether you can inspect it before tile is set. Those answers reveal a lot about quality."
-      }
-    }
-  ],
+  "name": "What should I ask a contractor before they start waterproofing my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a contractor before they start waterproofing my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest way to reduce risk is to ask what waterproofing system is being used and where it will be installed. You should also confirm who is installing it, how wet zones are handled, and whether the contractor will show you the waterproofing before tile goes up.",
+        "@type": "Answer",
+        "description": "Ask which system they use, where it goes, who installs it, and whether you can inspect it before tile is set. Those answers reveal a lot about quality."
+      }
+    }
+  ],
+  "description": "Ask which system they use, where it goes, who installs it, and whether you can inspect it before tile is set. Those answers reveal a lot about quality."
 }

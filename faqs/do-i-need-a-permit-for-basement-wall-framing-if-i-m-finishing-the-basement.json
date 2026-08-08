@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for basement wall framing if I’m finishing the basement?",
-  "description": "If framing is part of a basement remodel that changes the layout or includes electrical, plumbing, or window/door changes, a permit is often required. In Denver",
   "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-basement-wall-framing-if-i-m-finishing-the-basement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for basement wall framing if I’m finishing the basement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, permits are commonly needed when basement framing is part of a larger interior remodel, especially if the project changes the floor plan, adds or moves doors or windows, or affects electrical, plumbing, or other systems. Denver’s residential remodel guidance says permits are required for alterations to the existing floor plan and for structural or utility-related changes.\n\nIn nearby communities, the exact review process can vary, but the safe assumption is to verify permit needs before framing starts. That is especially important if you are finishing a basement to add a bedroom, bathroom, or new living area.\n\nKey factors:\n- Changes to the floor plan\n- New or relocated doors and windows\n- Electrical or plumbing work\n- Bedroom or egress-related changes\n\nIf you want to avoid delays, confirm the permit path during the planning stage, not after the walls are already up.",
-        "description": "If framing is part of a basement remodel that changes the layout or includes electrical, plumbing, or window/door changes, a permit is often required. In Denver, floor-plan and utility changes commonly trigger permit review."
-      }
-    }
-  ],
+  "name": "Do I need a permit for basement wall framing if I’m finishing the basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for basement wall framing if I’m finishing the basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are commonly needed when basement framing is part of a larger interior remodel, especially if the project changes the floor plan, adds or moves doors or windows, or affects electrical, plumbing, or other systems. Denver’s residential remodel guidance says permits are required for alterations to the existing floor plan and for structural or utility-related changes.\n\nIn nearby communities, the exact review process can vary, but the safe assumption is to verify permit needs before framing starts. That is especially important if you are finishing a basement to add a bedroom, bathroom, or new living area.\n\nKey factors:\n- Changes to the floor plan\n- New or relocated doors and windows\n- Electrical or plumbing work\n- Bedroom or egress-related changes\n\nIf you want to avoid delays, confirm the permit path during the planning stage, not after the walls are already up.",
+        "@type": "Answer",
+        "description": "If framing is part of a basement remodel that changes the layout or includes electrical, plumbing, or window/door changes, a permit is often required. In Denver, floor-plan and utility changes commonly trigger permit review."
+      }
+    }
+  ],
+  "description": "If framing is part of a basement remodel that changes the layout or includes electrical, plumbing, or window/door changes, a permit is often required. In Denver"
 }

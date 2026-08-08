@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does tub removal usually take?",
-  "description": "Simple removals can take just a few hours, but older tubs, heavy materials, or added repair work can extend the job to a full day or more.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-tub-removal-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does tub removal usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many tub removals take a few hours, but the timeline depends on the tub material, whether tile must come off, and whether plumbing or subfloor repair is needed. A simple removal is faster than a cast-iron tub or a full tub-to-shower conversion.",
-        "description": "Simple removals can take just a few hours, but older tubs, heavy materials, or added repair work can extend the job to a full day or more."
-      }
-    }
-  ],
+  "name": "How long does tub removal usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does tub removal usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many tub removals take a few hours, but the timeline depends on the tub material, whether tile must come off, and whether plumbing or subfloor repair is needed. A simple removal is faster than a cast-iron tub or a full tub-to-shower conversion.",
+        "@type": "Answer",
+        "description": "Simple removals can take just a few hours, but older tubs, heavy materials, or added repair work can extend the job to a full day or more."
+      }
+    }
+  ],
+  "description": "Simple removals can take just a few hours, but older tubs, heavy materials, or added repair work can extend the job to a full day or more."
 }

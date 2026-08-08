@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I just got my countertops installed—when should backsplash tile go in?",
-  "description": "Install the backsplash after the countertops, once the wall is measured and prepped. That lets the installer account for outlets, uneven spots, and exact tile c",
   "url": "http://coloradoremodeling.company/faq/i-just-got-my-countertops-installed-when-should-backsplash-tile-go-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I just got my countertops installed—when should backsplash tile go in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A backsplash is usually installed after the countertops are in and the wall is prepped. For most kitchens in Denver-area homes, the first step is a site measure so the installer can check wall flatness, outlet locations, and how much tile is needed.",
-        "description": "Install the backsplash after the countertops, once the wall is measured and prepped. That lets the installer account for outlets, uneven spots, and exact tile cuts."
-      }
-    }
-  ],
+  "name": "I just got my countertops installed—when should backsplash tile go in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I just got my countertops installed—when should backsplash tile go in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backsplash is usually installed after the countertops are in and the wall is prepped. For most kitchens in Denver-area homes, the first step is a site measure so the installer can check wall flatness, outlet locations, and how much tile is needed.",
+        "@type": "Answer",
+        "description": "Install the backsplash after the countertops, once the wall is measured and prepped. That lets the installer account for outlets, uneven spots, and exact tile cuts."
+      }
+    }
+  ],
+  "description": "Install the backsplash after the countertops, once the wall is measured and prepped. That lets the installer account for outlets, uneven spots, and exact tile c"
 }

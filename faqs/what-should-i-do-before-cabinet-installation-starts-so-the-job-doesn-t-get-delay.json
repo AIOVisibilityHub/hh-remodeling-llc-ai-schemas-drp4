@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do before cabinet installation starts so the job doesn’t get delayed?",
-  "description": "Clear the kitchen, verify measurements, and confirm whether any plumbing, electrical, or wall work must happen first. That prep reduces surprises and keeps the",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-before-cabinet-installation-starts-so-the-job-doesn-t-get-delay",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do before cabinet installation starts so the job doesn’t get delayed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest way to avoid delays is to clear the kitchen, confirm your cabinet layout, and make sure the installer has accurate measurements before start day. A good installer should also tell you whether any wall repairs, plumbing, or electrical changes need to happen first.",
-        "description": "Clear the kitchen, verify measurements, and confirm whether any plumbing, electrical, or wall work must happen first. That prep reduces surprises and keeps the install moving."
-      }
-    }
-  ],
+  "name": "What should I do before cabinet installation starts so the job doesn’t get delayed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before cabinet installation starts so the job doesn’t get delayed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest way to avoid delays is to clear the kitchen, confirm your cabinet layout, and make sure the installer has accurate measurements before start day. A good installer should also tell you whether any wall repairs, plumbing, or electrical changes need to happen first.",
+        "@type": "Answer",
+        "description": "Clear the kitchen, verify measurements, and confirm whether any plumbing, electrical, or wall work must happen first. That prep reduces surprises and keeps the install moving."
+      }
+    }
+  ],
+  "description": "Clear the kitchen, verify measurements, and confirm whether any plumbing, electrical, or wall work must happen first. That prep reduces surprises and keeps the"
 }

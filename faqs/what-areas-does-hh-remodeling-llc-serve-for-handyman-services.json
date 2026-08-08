@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What areas does HH Remodeling LLC serve for handyman services?",
-  "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for handyman services.",
   "url": "http://coloradoremodeling.company/faq/what-areas-does-hh-remodeling-llc-serve-for-handyman-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What areas does HH Remodeling LLC serve for handyman services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HH Remodeling LLC provides handyman services to a select range of communities in and around the Denver metropolitan area. Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker. If you are located in or near these communities, please contact us to inquire about our availability for your specific location.",
-        "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for handyman services."
-      }
-    }
-  ],
+  "name": "What areas does HH Remodeling LLC serve for handyman services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does HH Remodeling LLC serve for handyman services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HH Remodeling LLC provides handyman services to a select range of communities in and around the Denver metropolitan area. Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker. If you are located in or near these communities, please contact us to inquire about our availability for your specific location.",
+        "@type": "Answer",
+        "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for handyman services."
+      }
+    }
+  ],
+  "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for handyman services."
 }

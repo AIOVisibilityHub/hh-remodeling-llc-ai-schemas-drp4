@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does basement ceiling framing usually take?",
-  "description": "A simple basement ceiling framing job can move quickly, but hidden utilities, soffits, and level adjustments usually add time. The more cutouts and transitions",
   "url": "http://coloradoremodeling.company/faq/how-long-does-basement-ceiling-framing-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does basement ceiling framing usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on the basement layout, the number of obstacles overhead, and whether the ceiling is being framed as part of a full finish. More complex runs around HVAC, plumbing, and beams take longer because the framing has to be leveled, blocked, and fitted carefully before drywall or ceiling panels go up.",
-        "description": "A simple basement ceiling framing job can move quickly, but hidden utilities, soffits, and level adjustments usually add time. The more cutouts and transitions you have, the longer it takes."
-      }
-    }
-  ],
+  "name": "How long does basement ceiling framing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement ceiling framing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It depends on the basement layout, the number of obstacles overhead, and whether the ceiling is being framed as part of a full finish. More complex runs around HVAC, plumbing, and beams take longer because the framing has to be leveled, blocked, and fitted carefully before drywall or ceiling panels go up.",
+        "@type": "Answer",
+        "description": "A simple basement ceiling framing job can move quickly, but hidden utilities, soffits, and level adjustments usually add time. The more cutouts and transitions you have, the longer it takes."
+      }
+    }
+  ],
+  "description": "A simple basement ceiling framing job can move quickly, but hidden utilities, soffits, and level adjustments usually add time. The more cutouts and transitions"
 }

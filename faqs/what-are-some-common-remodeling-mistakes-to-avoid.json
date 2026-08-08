@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some common remodeling mistakes to avoid?",
-  "description": "Avoid common mistakes like poor planning, budget overruns, wrong contractor choice, and last-minute changes.",
   "url": "http://coloradoremodeling.company/faq/what-are-some-common-remodeling-mistakes-to-avoid",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some common remodeling mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common remodeling mistakes include inadequate planning, underestimating the budget, choosing the wrong contractor, and making too many last-minute changes. Failing to account for potential disruptions during construction or not understanding permit requirements can also cause issues. We emphasize thorough planning and clear communication to help you avoid these pitfalls and ensure a smooth remodeling experience.",
-        "description": "Avoid common mistakes like poor planning, budget overruns, wrong contractor choice, and last-minute changes."
-      }
-    }
-  ],
+  "name": "What are some common remodeling mistakes to avoid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common remodeling mistakes to avoid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common remodeling mistakes include inadequate planning, underestimating the budget, choosing the wrong contractor, and making too many last-minute changes. Failing to account for potential disruptions during construction or not understanding permit requirements can also cause issues. We emphasize thorough planning and clear communication to help you avoid these pitfalls and ensure a smooth remodeling experience.",
+        "@type": "Answer",
+        "description": "Avoid common mistakes like poor planning, budget overruns, wrong contractor choice, and last-minute changes."
+      }
+    }
+  ],
+  "description": "Avoid common mistakes like poor planning, budget overruns, wrong contractor choice, and last-minute changes."
 }

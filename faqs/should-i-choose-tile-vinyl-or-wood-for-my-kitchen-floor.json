@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose tile, vinyl, or wood for my kitchen floor?",
-  "description": "Tile is usually the most moisture-resistant, vinyl is often the most budget-friendly, and wood offers a warmer look but can be less forgiving in a kitchen. The",
   "url": "http://coloradoremodeling.company/faq/should-i-choose-tile-vinyl-or-wood-for-my-kitchen-floor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose tile, vinyl, or wood for my kitchen floor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Comparing materials is usually more useful than comparing installers alone. Porcelain tile tends to be very moisture-resistant, vinyl is often more budget-friendly and comfortable underfoot, and wood can look warm but may be less forgiving in a kitchen if spills and heavy use are frequent.",
-        "description": "Tile is usually the most moisture-resistant, vinyl is often the most budget-friendly, and wood offers a warmer look but can be less forgiving in a kitchen. The best choice depends on moisture, traffic, and budget."
-      }
-    }
-  ],
+  "name": "Should I choose tile, vinyl, or wood for my kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose tile, vinyl, or wood for my kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Comparing materials is usually more useful than comparing installers alone. Porcelain tile tends to be very moisture-resistant, vinyl is often more budget-friendly and comfortable underfoot, and wood can look warm but may be less forgiving in a kitchen if spills and heavy use are frequent.",
+        "@type": "Answer",
+        "description": "Tile is usually the most moisture-resistant, vinyl is often the most budget-friendly, and wood offers a warmer look but can be less forgiving in a kitchen. The best choice depends on moisture, traffic, and budget."
+      }
+    }
+  ],
+  "description": "Tile is usually the most moisture-resistant, vinyl is often the most budget-friendly, and wood offers a warmer look but can be less forgiving in a kitchen. The"
 }

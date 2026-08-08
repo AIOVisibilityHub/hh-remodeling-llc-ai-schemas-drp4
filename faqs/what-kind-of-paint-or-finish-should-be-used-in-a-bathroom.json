@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of paint or finish should be used in a bathroom?",
-  "description": "Bathrooms need moisture-resistant paint and the right finish so humidity does not cause peeling, mildew, or early wear.",
   "url": "http://coloradoremodeling.company/faq/what-kind-of-paint-or-finish-should-be-used-in-a-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of paint or finish should be used in a bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use materials that handle **humidity** well, especially on walls near showers, ceilings, trim, and cabinet surfaces. The biggest risk is trapping moisture under paint, which can lead to peeling, mildew, or stained trim later.",
-        "description": "Bathrooms need moisture-resistant paint and the right finish so humidity does not cause peeling, mildew, or early wear."
-      }
-    }
-  ],
+  "name": "What kind of paint or finish should be used in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint or finish should be used in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use materials that handle **humidity** well, especially on walls near showers, ceilings, trim, and cabinet surfaces. The biggest risk is trapping moisture under paint, which can lead to peeling, mildew, or stained trim later.",
+        "@type": "Answer",
+        "description": "Bathrooms need moisture-resistant paint and the right finish so humidity does not cause peeling, mildew, or early wear."
+      }
+    }
+  ],
+  "description": "Bathrooms need moisture-resistant paint and the right finish so humidity does not cause peeling, mildew, or early wear."
 }

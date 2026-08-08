@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What exactly counts as bathroom waterproofing, and is tile or grout enough by itself?",
-  "description": "Tile and grout are not waterproofing. The waterproofing system is the membrane and detailing behind or under the tile, especially at corners, drains, and penetr",
   "url": "http://coloradoremodeling.company/faq/what-exactly-counts-as-bathroom-waterproofing-and-is-tile-or-grout-enough-by-its",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What exactly counts as bathroom waterproofing, and is tile or grout enough by itself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathroom waterproofing should be treated as a full system, not just a coating under the tile. In a shower, the membrane, drain, corners, niches, curb, and penetrations all need to be coordinated so water cannot reach the framing or subfloor.",
-        "description": "Tile and grout are not waterproofing. The waterproofing system is the membrane and detailing behind or under the tile, especially at corners, drains, and penetrations."
-      }
-    }
-  ],
+  "name": "What exactly counts as bathroom waterproofing, and is tile or grout enough by itself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What exactly counts as bathroom waterproofing, and is tile or grout enough by itself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom waterproofing should be treated as a full system, not just a coating under the tile. In a shower, the membrane, drain, corners, niches, curb, and penetrations all need to be coordinated so water cannot reach the framing or subfloor.",
+        "@type": "Answer",
+        "description": "Tile and grout are not waterproofing. The waterproofing system is the membrane and detailing behind or under the tile, especially at corners, drains, and penetrations."
+      }
+    }
+  ],
+  "description": "Tile and grout are not waterproofing. The waterproofing system is the membrane and detailing behind or under the tile, especially at corners, drains, and penetr"
 }

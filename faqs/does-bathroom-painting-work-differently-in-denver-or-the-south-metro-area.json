@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does bathroom painting work differently in Denver or the south metro area?",
-  "description": "Yes. Local conditions and older home materials can affect prep, drying, and finish choice in Denver-area bathrooms.",
   "url": "http://coloradoremodeling.company/faq/does-bathroom-painting-work-differently-in-denver-or-the-south-metro-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does bathroom painting work differently in Denver or the south metro area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, homeowners in **Denver, Centennial, Greenwood Village, Foxfield, and Parker** often ask for bathroom painting when they want a faster refresh with less disruption than a full remodel. Local humidity, winter dryness, and older homes can also affect prep and finish selection.",
-        "description": "Yes. Local conditions and older home materials can affect prep, drying, and finish choice in Denver-area bathrooms."
-      }
-    }
-  ],
+  "name": "Does bathroom painting work differently in Denver or the south metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does bathroom painting work differently in Denver or the south metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, homeowners in **Denver, Centennial, Greenwood Village, Foxfield, and Parker** often ask for bathroom painting when they want a faster refresh with less disruption than a full remodel. Local humidity, winter dryness, and older homes can also affect prep and finish selection.",
+        "@type": "Answer",
+        "description": "Yes. Local conditions and older home materials can affect prep, drying, and finish choice in Denver-area bathrooms."
+      }
+    }
+  ],
+  "description": "Yes. Local conditions and older home materials can affect prep, drying, and finish choice in Denver-area bathrooms."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a good remodeling result actually look like?",
-  "description": "A good remodel should solve the problem and improve how the space works. The finish should look clean, feel consistent, and last beyond the cosmetic upgrade.",
   "url": "http://coloradoremodeling.company/faq/what-should-a-good-remodeling-result-actually-look-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a good remodeling result actually look like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good outcome is a finished space that looks intentional and functions better, not just one that covers up the problem. For HH Remodeling, that usually means the repair or remodel should leave you with a safer, cleaner, more usable room that fits the rest of the home.",
-        "description": "A good remodel should solve the problem and improve how the space works. The finish should look clean, feel consistent, and last beyond the cosmetic upgrade."
-      }
-    }
-  ],
+  "name": "What should a good remodeling result actually look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a good remodeling result actually look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good outcome is a finished space that looks intentional and functions better, not just one that covers up the problem. For HH Remodeling, that usually means the repair or remodel should leave you with a safer, cleaner, more usable room that fits the rest of the home.",
+        "@type": "Answer",
+        "description": "A good remodel should solve the problem and improve how the space works. The finish should look clean, feel consistent, and last beyond the cosmetic upgrade."
+      }
+    }
+  ],
+  "description": "A good remodel should solve the problem and improve how the space works. The finish should look clean, feel consistent, and last beyond the cosmetic upgrade."
 }

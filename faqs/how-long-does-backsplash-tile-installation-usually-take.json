@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does backsplash tile installation usually take?",
-  "description": "A simple backsplash may be done quickly, but custom layouts or prep work take longer. Wall repair, old tile removal, and detailed cuts around outlets can extend",
   "url": "http://coloradoremodeling.company/faq/how-long-does-backsplash-tile-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does backsplash tile installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the kitchen size, tile complexity, and wall condition. A simple backsplash can often be completed in a short project window, while custom patterns, demolition, or wall repairs add time.",
-        "description": "A simple backsplash may be done quickly, but custom layouts or prep work take longer. Wall repair, old tile removal, and detailed cuts around outlets can extend the schedule."
-      }
-    }
-  ],
+  "name": "How long does backsplash tile installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does backsplash tile installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the kitchen size, tile complexity, and wall condition. A simple backsplash can often be completed in a short project window, while custom patterns, demolition, or wall repairs add time.",
+        "@type": "Answer",
+        "description": "A simple backsplash may be done quickly, but custom layouts or prep work take longer. Wall repair, old tile removal, and detailed cuts around outlets can extend the schedule."
+      }
+    }
+  ],
+  "description": "A simple backsplash may be done quickly, but custom layouts or prep work take longer. Wall repair, old tile removal, and detailed cuts around outlets can extend"
 }

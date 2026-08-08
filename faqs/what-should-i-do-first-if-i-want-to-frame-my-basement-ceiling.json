@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I want to frame my basement ceiling?",
-  "description": "Measure ceiling height, locate ductwork, plumbing, and beams, then decide whether you need a flat drywall ceiling, soffits, or a dropped section to cover utilit",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-want-to-frame-my-basement-ceiling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I want to frame my basement ceiling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by checking how much headroom you have and what needs to be hidden in the ceiling, like ductwork, pipes, beams, or wiring. In Denver-area basements, ceiling framing is usually planned around those obstacles so the finished space keeps as much usable height as possible while still allowing proper drywall or a drop ceiling.",
-        "description": "Measure ceiling height, locate ductwork, plumbing, and beams, then decide whether you need a flat drywall ceiling, soffits, or a dropped section to cover utilities."
-      }
-    }
-  ],
+  "name": "What should I do first if I want to frame my basement ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to frame my basement ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by checking how much headroom you have and what needs to be hidden in the ceiling, like ductwork, pipes, beams, or wiring. In Denver-area basements, ceiling framing is usually planned around those obstacles so the finished space keeps as much usable height as possible while still allowing proper drywall or a drop ceiling.",
+        "@type": "Answer",
+        "description": "Measure ceiling height, locate ductwork, plumbing, and beams, then decide whether you need a flat drywall ceiling, soffits, or a dropped section to cover utilities."
+      }
+    }
+  ],
+  "description": "Measure ceiling height, locate ductwork, plumbing, and beams, then decide whether you need a flat drywall ceiling, soffits, or a dropped section to cover utilit"
 }

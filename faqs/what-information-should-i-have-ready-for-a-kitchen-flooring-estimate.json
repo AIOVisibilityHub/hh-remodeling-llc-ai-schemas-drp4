@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready for a kitchen flooring estimate?",
-  "description": "Have your kitchen size, current floor type, appliance-move needs, and any known moisture or subfloor problems ready. Those details help the installer give a mor",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-for-a-kitchen-flooring-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready for a kitchen flooring estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You usually do not need everything finalized before asking for an estimate, but you do need basic project details: kitchen size, current flooring type, whether appliances must be moved, and if there are known water or subfloor issues. That information helps the installer recommend the right material and avoid surprise costs.",
-        "description": "Have your kitchen size, current floor type, appliance-move needs, and any known moisture or subfloor problems ready. Those details help the installer give a more accurate estimate."
-      }
-    }
-  ],
+  "name": "What information should I have ready for a kitchen flooring estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready for a kitchen flooring estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually do not need everything finalized before asking for an estimate, but you do need basic project details: kitchen size, current flooring type, whether appliances must be moved, and if there are known water or subfloor issues. That information helps the installer recommend the right material and avoid surprise costs.",
+        "@type": "Answer",
+        "description": "Have your kitchen size, current floor type, appliance-move needs, and any known moisture or subfloor problems ready. Those details help the installer give a more accurate estimate."
+      }
+    }
+  ],
+  "description": "Have your kitchen size, current floor type, appliance-move needs, and any known moisture or subfloor problems ready. Those details help the installer give a mor"
 }

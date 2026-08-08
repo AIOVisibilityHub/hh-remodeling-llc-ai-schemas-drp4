@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
-  "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-process-for-a-bathroom-remodel-with-hh-remodeling-llc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our bathroom remodeling process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we provide a detailed estimate and design concepts. Once approved, we assist with material selection. Construction then commences, with our team managing all aspects from demolition to installation. We maintain open communication throughout the project, ensuring quality control and timely completion, followed by a final walkthrough.",
-        "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough."
-      }
-    }
-  ],
+  "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a bathroom remodel with HH Remodeling LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our bathroom remodeling process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we provide a detailed estimate and design concepts. Once approved, we assist with material selection. Construction then commences, with our team managing all aspects from demolition to installation. We maintain open communication throughout the project, ensuring quality control and timely completion, followed by a final walkthrough.",
+        "@type": "Answer",
+        "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our bathroom remodel process includes consultation, estimate and design, material selection, construction, and a final walkthrough."
 }

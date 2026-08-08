@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect to pay for residential remodeling, and what makes the price go up?",
-  "description": "Price is driven by size, materials, labor, and hidden repair issues. A deeper remodel or restoration job will cost more than a surface-level update.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-to-pay-for-residential-remodeling-and-what-makes-the-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect to pay for residential remodeling, and what makes the price go up?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on square footage, material choices, labor complexity, and whether the project includes repair work behind the walls. The biggest value question is whether you are paying for a simple finish update or a deeper remodel that corrects damage and improves the home long term.",
-        "description": "Price is driven by size, materials, labor, and hidden repair issues. A deeper remodel or restoration job will cost more than a surface-level update."
-      }
-    }
-  ],
+  "name": "What should I expect to pay for residential remodeling, and what makes the price go up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect to pay for residential remodeling, and what makes the price go up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on square footage, material choices, labor complexity, and whether the project includes repair work behind the walls. The biggest value question is whether you are paying for a simple finish update or a deeper remodel that corrects damage and improves the home long term.",
+        "@type": "Answer",
+        "description": "Price is driven by size, materials, labor, and hidden repair issues. A deeper remodel or restoration job will cost more than a surface-level update."
+      }
+    }
+  ],
+  "description": "Price is driven by size, materials, labor, and hidden repair issues. A deeper remodel or restoration job will cost more than a surface-level update."
 }

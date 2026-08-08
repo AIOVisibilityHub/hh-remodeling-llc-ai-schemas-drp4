@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can my existing vanity be used for a new bathroom countertop?",
-  "description": "Often yes, if the vanity is solid and level. If the base is water-damaged or uneven, it may need repair before installation.",
   "url": "http://coloradoremodeling.company/faq/can-my-existing-vanity-be-used-for-a-new-bathroom-countertop",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can my existing vanity be used for a new bathroom countertop?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You’re usually eligible if your vanity is structurally sound and the countertop can be templated accurately. In the Denver metro area, most bathroom countertop projects can be installed on existing vanities, but the installer may need to repair or replace the base if it is water-damaged, out of level, or too weak for the new top.",
-        "description": "Often yes, if the vanity is solid and level. If the base is water-damaged or uneven, it may need repair before installation."
-      }
-    }
-  ],
+  "name": "Can my existing vanity be used for a new bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can my existing vanity be used for a new bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’re usually eligible if your vanity is structurally sound and the countertop can be templated accurately. In the Denver metro area, most bathroom countertop projects can be installed on existing vanities, but the installer may need to repair or replace the base if it is water-damaged, out of level, or too weak for the new top.",
+        "@type": "Answer",
+        "description": "Often yes, if the vanity is solid and level. If the base is water-damaged or uneven, it may need repair before installation."
+      }
+    }
+  ],
+  "description": "Often yes, if the vanity is solid and level. If the base is water-damaged or uneven, it may need repair before installation."
 }

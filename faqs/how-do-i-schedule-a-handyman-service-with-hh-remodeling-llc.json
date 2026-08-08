@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I schedule a handyman service with HH Remodeling LLC?",
-  "description": "Schedule by contacting HH Remodeling LLC via phone or website to discuss your needs and arrange an on-site assessment.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-schedule-a-handyman-service-with-hh-remodeling-llc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I schedule a handyman service with HH Remodeling LLC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Scheduling a handyman service with HH Remodeling LLC is straightforward. You can contact us by phone or through our website to describe your repair or improvement needs. We will then discuss your project, answer any questions, and arrange a convenient time for a handyman to visit your property in Denver, Centennial, Greenwood Village, Foxfield, or Parker to assess the work and provide an estimate.",
-        "description": "Schedule by contacting HH Remodeling LLC via phone or website to discuss your needs and arrange an on-site assessment."
-      }
-    }
-  ],
+  "name": "How do I schedule a handyman service with HH Remodeling LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I schedule a handyman service with HH Remodeling LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scheduling a handyman service with HH Remodeling LLC is straightforward. You can contact us by phone or through our website to describe your repair or improvement needs. We will then discuss your project, answer any questions, and arrange a convenient time for a handyman to visit your property in Denver, Centennial, Greenwood Village, Foxfield, or Parker to assess the work and provide an estimate.",
+        "@type": "Answer",
+        "description": "Schedule by contacting HH Remodeling LLC via phone or website to discuss your needs and arrange an on-site assessment."
+      }
+    }
+  ],
+  "description": "Schedule by contacting HH Remodeling LLC via phone or website to discuss your needs and arrange an on-site assessment."
 }

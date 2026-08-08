@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during kitchen cabinet removal?",
-  "description": "Common problems include damaged drywall, backsplash, flooring, or hidden plumbing and electrical issues. Careful prep and the right removal sequence help reduce",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-kitchen-cabinet-removal",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during kitchen cabinet removal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are damaged drywall, broken backsplash tile, torn flooring, and unexpected issues with plumbing or electrical connections. Those risks go up when cabinets were installed tightly, painted over, or built around older finishes, so careful prep and the right removal sequence matter.",
-        "description": "Common problems include damaged drywall, backsplash, flooring, or hidden plumbing and electrical issues. Careful prep and the right removal sequence help reduce those risks."
-      }
-    }
-  ],
+  "name": "What can go wrong during kitchen cabinet removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during kitchen cabinet removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are damaged drywall, broken backsplash tile, torn flooring, and unexpected issues with plumbing or electrical connections. Those risks go up when cabinets were installed tightly, painted over, or built around older finishes, so careful prep and the right removal sequence matter.",
+        "@type": "Answer",
+        "description": "Common problems include damaged drywall, backsplash, flooring, or hidden plumbing and electrical issues. Careful prep and the right removal sequence help reduce those risks."
+      }
+    }
+  ],
+  "description": "Common problems include damaged drywall, backsplash, flooring, or hidden plumbing and electrical issues. Careful prep and the right removal sequence help reduce"
 }

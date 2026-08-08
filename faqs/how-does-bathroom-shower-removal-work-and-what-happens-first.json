@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does bathroom shower removal work, and what happens first?",
-  "description": "Shower removal usually starts with an assessment, then shutoff, demolition, debris removal, and prep for whatever replaces it.",
   "url": "http://coloradoremodeling.company/faq/how-does-bathroom-shower-removal-work-and-what-happens-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does bathroom shower removal work, and what happens first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A shower removal usually starts with an on-site assessment, then the crew shuts off water, removes the old shower surround or pan, checks for hidden damage, and hauls away debris. If you’re replacing it, the next step is preparing the framing, plumbing, and waterproofing for the new shower system.",
-        "description": "Shower removal usually starts with an assessment, then shutoff, demolition, debris removal, and prep for whatever replaces it."
-      }
-    }
-  ],
+  "name": "How does bathroom shower removal work, and what happens first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does bathroom shower removal work, and what happens first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower removal usually starts with an on-site assessment, then the crew shuts off water, removes the old shower surround or pan, checks for hidden damage, and hauls away debris. If you’re replacing it, the next step is preparing the framing, plumbing, and waterproofing for the new shower system.",
+        "@type": "Answer",
+        "description": "Shower removal usually starts with an assessment, then shutoff, demolition, debris removal, and prep for whatever replaces it."
+      }
+    }
+  ],
+  "description": "Shower removal usually starts with an assessment, then shutoff, demolition, debris removal, and prep for whatever replaces it."
 }

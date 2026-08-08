@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with kitchen painting and trim work?",
-  "description": "Common failures are peeling, uneven finish, and chipped corners. Those problems usually trace back to weak prep or the wrong coating system.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-kitchen-painting-and-trim-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with kitchen painting and trim work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Peeling, brush marks, sticky doors, and chipped edges are usually signs of poor prep, wrong product choice, or rushing between coats. If you’ve had a bad paint job before, ask how surfaces will be cleaned, sanded, primed, and cured before you approve the work.",
-        "description": "Common failures are peeling, uneven finish, and chipped corners. Those problems usually trace back to weak prep or the wrong coating system."
-      }
-    }
-  ],
+  "name": "What can go wrong with kitchen painting and trim work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with kitchen painting and trim work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Peeling, brush marks, sticky doors, and chipped edges are usually signs of poor prep, wrong product choice, or rushing between coats. If you’ve had a bad paint job before, ask how surfaces will be cleaned, sanded, primed, and cured before you approve the work.",
+        "@type": "Answer",
+        "description": "Common failures are peeling, uneven finish, and chipped corners. Those problems usually trace back to weak prep or the wrong coating system."
+      }
+    }
+  ],
+  "description": "Common failures are peeling, uneven finish, and chipped corners. Those problems usually trace back to weak prep or the wrong coating system."
 }

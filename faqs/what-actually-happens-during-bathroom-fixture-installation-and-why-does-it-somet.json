@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during bathroom fixture installation, and why does it sometimes take longer than expected?",
-  "description": "Bathroom fixture installation usually means removing the old fixture, checking the plumbing connections, installing the new unit, sealing it properly, and testi",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-bathroom-fixture-installation-and-why-does-it-somet",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during bathroom fixture installation, and why does it sometimes take longer than expected?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most bathroom fixture installs are straightforward if the new fixture matches the existing plumbing layout, but hidden issues like corroded shutoff valves, damaged supply lines, or leak-prone seals can add time. A professional can also confirm the fixture is set correctly, sealed, and working to code.",
-        "description": "Bathroom fixture installation usually means removing the old fixture, checking the plumbing connections, installing the new unit, sealing it properly, and testing for leaks. It takes longer when valves, drains, or wall connections need repairs first."
-      }
-    }
-  ],
+  "name": "What actually happens during bathroom fixture installation, and why does it sometimes take longer than expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during bathroom fixture installation, and why does it sometimes take longer than expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bathroom fixture installs are straightforward if the new fixture matches the existing plumbing layout, but hidden issues like corroded shutoff valves, damaged supply lines, or leak-prone seals can add time. A professional can also confirm the fixture is set correctly, sealed, and working to code.",
+        "@type": "Answer",
+        "description": "Bathroom fixture installation usually means removing the old fixture, checking the plumbing connections, installing the new unit, sealing it properly, and testing for leaks. It takes longer when valves, drains, or wall connections need repairs first."
+      }
+    }
+  ],
+  "description": "Bathroom fixture installation usually means removing the old fixture, checking the plumbing connections, installing the new unit, sealing it properly, and testi"
 }

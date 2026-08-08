@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does bathroom flooring installation actually work?",
-  "description": "Old flooring comes out, the subfloor gets checked and repaired, and the new floor is installed and sealed. Any hidden moisture damage can slow the job down.",
   "url": "http://coloradoremodeling.company/faq/how-does-bathroom-flooring-installation-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does bathroom flooring installation actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathroom flooring installation usually involves removing the old floor, inspecting the subfloor, making repairs if needed, and then installing the new material with the correct moisture protection. After that, the installer finishes seams, transitions, and caulking so the floor is sealed and ready for daily use. The process is straightforward, but hidden damage under the old floor can add extra steps.",
-        "description": "Old flooring comes out, the subfloor gets checked and repaired, and the new floor is installed and sealed. Any hidden moisture damage can slow the job down."
-      }
-    }
-  ],
+  "name": "How does bathroom flooring installation actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does bathroom flooring installation actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom flooring installation usually involves removing the old floor, inspecting the subfloor, making repairs if needed, and then installing the new material with the correct moisture protection. After that, the installer finishes seams, transitions, and caulking so the floor is sealed and ready for daily use. The process is straightforward, but hidden damage under the old floor can add extra steps.",
+        "@type": "Answer",
+        "description": "Old flooring comes out, the subfloor gets checked and repaired, and the new floor is installed and sealed. Any hidden moisture damage can slow the job down."
+      }
+    }
+  ],
+  "description": "Old flooring comes out, the subfloor gets checked and repaired, and the new floor is installed and sealed. Any hidden moisture damage can slow the job down."
 }

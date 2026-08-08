@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What areas does HH Remodeling LLC serve for bathroom remodeling?",
-  "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for bathroom remodeling projects.",
   "url": "http://coloradoremodeling.company/faq/what-areas-does-hh-remodeling-llc-serve-for-bathroom-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What areas does HH Remodeling LLC serve for bathroom remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HH Remodeling LLC proudly serves a wide range of communities for bathroom remodeling projects. Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker. We are dedicated to providing high-quality restoration and remodeling services to homeowners within these locations, ensuring local expertise and convenient service.",
-        "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for bathroom remodeling projects."
-      }
-    }
-  ],
+  "name": "What areas does HH Remodeling LLC serve for bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does HH Remodeling LLC serve for bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HH Remodeling LLC proudly serves a wide range of communities for bathroom remodeling projects. Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker. We are dedicated to providing high-quality restoration and remodeling services to homeowners within these locations, ensuring local expertise and convenient service.",
+        "@type": "Answer",
+        "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for bathroom remodeling projects."
+      }
+    }
+  ],
+  "description": "HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker for bathroom remodeling projects."
 }

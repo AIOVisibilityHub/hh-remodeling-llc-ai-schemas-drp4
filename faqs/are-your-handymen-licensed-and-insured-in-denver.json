@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are your handymen licensed and insured in Denver?",
-  "description": "Our handymen meet local regulations for services and HH Remodeling LLC is fully insured for work in the Denver area.",
   "url": "http://coloradoremodeling.company/faq/are-your-handymen-licensed-and-insured-in-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are your handymen licensed and insured in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our handymen are skilled professionals. While specific licensing requirements for general handyman services can vary by task and municipality within the Denver area, HH Remodeling LLC ensures all necessary regulations are met for the services we provide. We are also fully insured to protect both our workers and your property during any work performed in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "Our handymen meet local regulations for services and HH Remodeling LLC is fully insured for work in the Denver area."
-      }
-    }
-  ],
+  "name": "Are your handymen licensed and insured in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are your handymen licensed and insured in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our handymen are skilled professionals. While specific licensing requirements for general handyman services can vary by task and municipality within the Denver area, HH Remodeling LLC ensures all necessary regulations are met for the services we provide. We are also fully insured to protect both our workers and your property during any work performed in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "Our handymen meet local regulations for services and HH Remodeling LLC is fully insured for work in the Denver area."
+      }
+    }
+  ],
+  "description": "Our handymen meet local regulations for services and HH Remodeling LLC is fully insured for work in the Denver area."
 }

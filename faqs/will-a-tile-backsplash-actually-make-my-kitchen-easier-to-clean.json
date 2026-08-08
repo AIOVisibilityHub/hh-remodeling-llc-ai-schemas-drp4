@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a tile backsplash actually make my kitchen easier to clean?",
-  "description": "Yes. A properly installed backsplash helps protect walls from splashes and makes wiping down the kitchen much easier. It also gives the room a finished, updated",
   "url": "http://coloradoremodeling.company/faq/will-a-tile-backsplash-actually-make-my-kitchen-easier-to-clean",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a tile backsplash actually make my kitchen easier to clean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-installed backsplash protects the wall from splashes and makes cleanup easier, while also improving the kitchen’s look. The best results usually come from matching the tile size, grout color, and pattern to the room’s layout and lighting.",
-        "description": "Yes. A properly installed backsplash helps protect walls from splashes and makes wiping down the kitchen much easier. It also gives the room a finished, updated look."
-      }
-    }
-  ],
+  "name": "Will a tile backsplash actually make my kitchen easier to clean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a tile backsplash actually make my kitchen easier to clean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-installed backsplash protects the wall from splashes and makes cleanup easier, while also improving the kitchen’s look. The best results usually come from matching the tile size, grout color, and pattern to the room’s layout and lighting.",
+        "@type": "Answer",
+        "description": "Yes. A properly installed backsplash helps protect walls from splashes and makes wiping down the kitchen much easier. It also gives the room a finished, updated look."
+      }
+    }
+  ],
+  "description": "Yes. A properly installed backsplash helps protect walls from splashes and makes wiping down the kitchen much easier. It also gives the room a finished, updated"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I prepare my home for a remodeling project?",
-  "description": "Prepare by decluttering the work area, protecting nearby spaces, and discussing logistics with your contractor.",
   "url": "http://coloradoremodeling.company/faq/how-can-i-prepare-my-home-for-a-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I prepare my home for a remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prepare your home for a remodeling project, start by decluttering and removing personal items from the work area. Protect furniture and floors in adjacent spaces. Consider arranging for temporary living arrangements if the project will significantly disrupt your daily routine. Discuss with your contractor about utility access, waste disposal, and any specific requests you may have regarding pets or children during construction.",
-        "description": "Prepare by decluttering the work area, protecting nearby spaces, and discussing logistics with your contractor."
-      }
-    }
-  ],
+  "name": "How can I prepare my home for a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for a remodeling project, start by decluttering and removing personal items from the work area. Protect furniture and floors in adjacent spaces. Consider arranging for temporary living arrangements if the project will significantly disrupt your daily routine. Discuss with your contractor about utility access, waste disposal, and any specific requests you may have regarding pets or children during construction.",
+        "@type": "Answer",
+        "description": "Prepare by decluttering the work area, protecting nearby spaces, and discussing logistics with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare by decluttering the work area, protecting nearby spaces, and discussing logistics with your contractor."
 }

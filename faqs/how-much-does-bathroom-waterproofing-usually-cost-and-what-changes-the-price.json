@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom waterproofing usually cost, and what changes the price?",
-  "description": "Price depends on scope, materials, labor, and whether hidden damage is found. The cheapest bid can be risky if it leaves out critical waterproofing details.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-waterproofing-usually-cost-and-what-changes-the-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom waterproofing usually cost, and what changes the price?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on whether you are waterproofing a shower only, a full bath, or a remodel that also includes demolition and repair of hidden damage. A lower bid is not necessarily a better value if it skips corners, drains, subfloor repair, or documentation.",
-        "description": "Price depends on scope, materials, labor, and whether hidden damage is found. The cheapest bid can be risky if it leaves out critical waterproofing details."
-      }
-    }
-  ],
+  "name": "How much does bathroom waterproofing usually cost, and what changes the price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom waterproofing usually cost, and what changes the price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on whether you are waterproofing a shower only, a full bath, or a remodel that also includes demolition and repair of hidden damage. A lower bid is not necessarily a better value if it skips corners, drains, subfloor repair, or documentation.",
+        "@type": "Answer",
+        "description": "Price depends on scope, materials, labor, and whether hidden damage is found. The cheapest bid can be risky if it leaves out critical waterproofing details."
+      }
+    }
+  ],
+  "description": "Price depends on scope, materials, labor, and whether hidden damage is found. The cheapest bid can be risky if it leaves out critical waterproofing details."
 }

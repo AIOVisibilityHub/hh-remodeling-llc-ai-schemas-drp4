@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens first in basement wall framing?",
-  "description": "Basement framing usually starts with measuring, layout lines, and checking moisture, height, and code requirements. After that, the walls are built around utili",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-first-in-basement-wall-framing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens first in basement wall framing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most basement framing projects are much more than building stud walls. The process usually starts with measuring the space, marking the layout, checking for moisture or uneven floors, and confirming any permit or inspection requirements before framing begins.\n\nIn a typical basement finish, the crew then builds the wall system, leaves space where needed for movement, and frames around mechanicals, windows, and utility access. If the project includes bedrooms, the layout should also support proper egress and code-compliant room planning.\n\nKey factors:\n- Accurate measurements and wall layout\n- Moisture control and slab conditions\n- Utility access, windows, and ceiling obstacles\n- Permit and inspection requirements\n\nThe cleanest results come from planning framing together with insulation, electrical, and drywall work. That avoids walls being built in a way that blocks later trades.",
-        "description": "Basement framing usually starts with measuring, layout lines, and checking moisture, height, and code requirements. After that, the walls are built around utilities, windows, and access points so the rest of the finishing work can proceed smoothly."
-      }
-    }
-  ],
+  "name": "What actually happens first in basement wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens first in basement wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most basement framing projects are much more than building stud walls. The process usually starts with measuring the space, marking the layout, checking for moisture or uneven floors, and confirming any permit or inspection requirements before framing begins.\n\nIn a typical basement finish, the crew then builds the wall system, leaves space where needed for movement, and frames around mechanicals, windows, and utility access. If the project includes bedrooms, the layout should also support proper egress and code-compliant room planning.\n\nKey factors:\n- Accurate measurements and wall layout\n- Moisture control and slab conditions\n- Utility access, windows, and ceiling obstacles\n- Permit and inspection requirements\n\nThe cleanest results come from planning framing together with insulation, electrical, and drywall work. That avoids walls being built in a way that blocks later trades.",
+        "@type": "Answer",
+        "description": "Basement framing usually starts with measuring, layout lines, and checking moisture, height, and code requirements. After that, the walls are built around utilities, windows, and access points so the rest of the finishing work can proceed smoothly."
+      }
+    }
+  ],
+  "description": "Basement framing usually starts with measuring, layout lines, and checking moisture, height, and code requirements. After that, the walls are built around utili"
 }

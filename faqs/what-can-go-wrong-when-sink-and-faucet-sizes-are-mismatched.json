@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when sink and faucet sizes are mismatched?",
-  "description": "A bad size match can cause splashing, awkward proportions, clearance problems, and a look that feels off in the kitchen.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-sink-and-faucet-sizes-are-mismatched",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when sink and faucet sizes are mismatched?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most common mistake is choosing a faucet that is **too large or too small** for the sink. A high-arc faucet can look great, but if the bowl is shallow or narrow, it may splash or feel oversized.",
-        "description": "A bad size match can cause splashing, awkward proportions, clearance problems, and a look that feels off in the kitchen."
-      }
-    }
-  ],
+  "name": "What can go wrong when sink and faucet sizes are mismatched?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when sink and faucet sizes are mismatched?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common mistake is choosing a faucet that is **too large or too small** for the sink. A high-arc faucet can look great, but if the bowl is shallow or narrow, it may splash or feel oversized.",
+        "@type": "Answer",
+        "description": "A bad size match can cause splashing, awkward proportions, clearance problems, and a look that feels off in the kitchen."
+      }
+    }
+  ],
+  "description": "A bad size match can cause splashing, awkward proportions, clearance problems, and a look that feels off in the kitchen."
 }

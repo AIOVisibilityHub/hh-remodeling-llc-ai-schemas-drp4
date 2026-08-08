@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does kitchen backsplash tile installation cost around Denver?",
-  "description": "Pricing depends on size, materials, and prep work. Small repairs can be a few hundred dollars, while full or custom backsplash projects can run into the thousan",
   "url": "http://coloradoremodeling.company/faq/how-much-does-kitchen-backsplash-tile-installation-cost-around-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does kitchen backsplash tile installation cost around Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary based on square footage, tile type, pattern complexity, and whether old tile must be removed. Denver-area pricing commonly ranges from a few hundred dollars for small repairs to several thousand dollars for full or custom installations.",
-        "description": "Pricing depends on size, materials, and prep work. Small repairs can be a few hundred dollars, while full or custom backsplash projects can run into the thousands."
-      }
-    }
-  ],
+  "name": "How much does kitchen backsplash tile installation cost around Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does kitchen backsplash tile installation cost around Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary based on square footage, tile type, pattern complexity, and whether old tile must be removed. Denver-area pricing commonly ranges from a few hundred dollars for small repairs to several thousand dollars for full or custom installations.",
+        "@type": "Answer",
+        "description": "Pricing depends on size, materials, and prep work. Small repairs can be a few hundred dollars, while full or custom backsplash projects can run into the thousands."
+      }
+    }
+  ],
+  "description": "Pricing depends on size, materials, and prep work. Small repairs can be a few hundred dollars, while full or custom backsplash projects can run into the thousan"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if appliances are installed too close together?",
-  "description": "Crowded appliance placement can block walkways, prevent doors from opening, and make the kitchen awkward or unsafe to use. Proper clearances help avoid clashes",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-appliances-are-installed-too-close-together",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if appliances are installed too close together?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You usually need clearance for **doors, drawers, walkways, and ventilation**, not just the appliance footprint. Common problems are a dishwasher door blocking traffic, a fridge door hitting cabinets, or a range placed too close to a sink or another appliance.",
-        "description": "Crowded appliance placement can block walkways, prevent doors from opening, and make the kitchen awkward or unsafe to use. Proper clearances help avoid clashes between fridge, dishwasher, and cooking zones."
-      }
-    }
-  ],
+  "name": "What can go wrong if appliances are installed too close together?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if appliances are installed too close together?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually need clearance for **doors, drawers, walkways, and ventilation**, not just the appliance footprint. Common problems are a dishwasher door blocking traffic, a fridge door hitting cabinets, or a range placed too close to a sink or another appliance.",
+        "@type": "Answer",
+        "description": "Crowded appliance placement can block walkways, prevent doors from opening, and make the kitchen awkward or unsafe to use. Proper clearances help avoid clashes between fridge, dishwasher, and cooking zones."
+      }
+    }
+  ],
+  "description": "Crowded appliance placement can block walkways, prevent doors from opening, and make the kitchen awkward or unsafe to use. Proper clearances help avoid clashes"
 }

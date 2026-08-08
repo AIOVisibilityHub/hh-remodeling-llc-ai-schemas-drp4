@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during a kitchen backsplash tile installation?",
-  "description": "A typical install includes measuring, prep, tile layout, setting the tile, grouting, and cleanup. Wall repairs and sealing may be added if the surface needs it.",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-a-kitchen-backsplash-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during a kitchen backsplash tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most backsplash jobs start with a wall check, then layout planning, tile installation, grouting, and cleanup. Good installers also handle minor drywall repair, especially if the old backsplash was removed or the wall has holes, bumps, or damage.",
-        "description": "A typical install includes measuring, prep, tile layout, setting the tile, grouting, and cleanup. Wall repairs and sealing may be added if the surface needs it."
-      }
-    }
-  ],
+  "name": "What actually happens during a kitchen backsplash tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a kitchen backsplash tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most backsplash jobs start with a wall check, then layout planning, tile installation, grouting, and cleanup. Good installers also handle minor drywall repair, especially if the old backsplash was removed or the wall has holes, bumps, or damage.",
+        "@type": "Answer",
+        "description": "A typical install includes measuring, prep, tile layout, setting the tile, grouting, and cleanup. Wall repairs and sealing may be added if the surface needs it."
+      }
+    }
+  ],
+  "description": "A typical install includes measuring, prep, tile layout, setting the tile, grouting, and cleanup. Wall repairs and sealing may be added if the surface needs it."
 }

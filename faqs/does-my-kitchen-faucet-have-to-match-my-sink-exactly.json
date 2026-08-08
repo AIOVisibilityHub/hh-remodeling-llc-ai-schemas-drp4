@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does my kitchen faucet have to match my sink exactly?",
-  "description": "No. They can differ, but they should share the same style direction and coordinate finishes for a cohesive look.",
   "url": "http://coloradoremodeling.company/faq/does-my-kitchen-faucet-have-to-match-my-sink-exactly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does my kitchen faucet have to match my sink exactly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, they do **not** have to be identical, but they should feel intentional together. Most homeowners get the best result by matching the overall style and coordinating finishes instead of forcing an exact match.",
-        "description": "No. They can differ, but they should share the same style direction and coordinate finishes for a cohesive look."
-      }
-    }
-  ],
+  "name": "Does my kitchen faucet have to match my sink exactly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does my kitchen faucet have to match my sink exactly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, they do **not** have to be identical, but they should feel intentional together. Most homeowners get the best result by matching the overall style and coordinating finishes instead of forcing an exact match.",
+        "@type": "Answer",
+        "description": "No. They can differ, but they should share the same style direction and coordinate finishes for a cohesive look."
+      }
+    }
+  ],
+  "description": "No. They can differ, but they should share the same style direction and coordinate finishes for a cohesive look."
 }

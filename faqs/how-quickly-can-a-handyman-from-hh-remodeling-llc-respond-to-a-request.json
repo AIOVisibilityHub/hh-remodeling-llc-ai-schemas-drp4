@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How quickly can a handyman from HH Remodeling LLC respond to a request?",
-  "description": "Response times vary based on urgency and schedule; we aim for a few business days for non-emergencies and faster for urgent repairs.",
   "url": "http://coloradoremodeling.company/faq/how-quickly-can-a-handyman-from-hh-remodeling-llc-respond-to-a-request",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How quickly can a handyman from HH Remodeling LLC respond to a request?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Response times for handyman services from HH Remodeling LLC can vary based on our current schedule and the urgency of your request. For non-emergency tasks, we typically aim to schedule a visit within a few business days. For more urgent repairs, we strive to accommodate as quickly as possible. We recommend contacting us directly to discuss your specific timeline and our current availability in Denver, Centennial, Greenwood Village, Foxfield, or Parker.",
-        "description": "Response times vary based on urgency and schedule; we aim for a few business days for non-emergencies and faster for urgent repairs."
-      }
-    }
-  ],
+  "name": "How quickly can a handyman from HH Remodeling LLC respond to a request?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a handyman from HH Remodeling LLC respond to a request?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Response times for handyman services from HH Remodeling LLC can vary based on our current schedule and the urgency of your request. For non-emergency tasks, we typically aim to schedule a visit within a few business days. For more urgent repairs, we strive to accommodate as quickly as possible. We recommend contacting us directly to discuss your specific timeline and our current availability in Denver, Centennial, Greenwood Village, Foxfield, or Parker.",
+        "@type": "Answer",
+        "description": "Response times vary based on urgency and schedule; we aim for a few business days for non-emergencies and faster for urgent repairs."
+      }
+    }
+  ],
+  "description": "Response times vary based on urgency and schedule; we aim for a few business days for non-emergencies and faster for urgent repairs."
 }

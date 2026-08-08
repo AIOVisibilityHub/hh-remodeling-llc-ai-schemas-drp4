@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer log and cabin refinishing services in my area (e.g., Parker, Centennial)?",
-  "description": "Yes, HH Remodeling LLC offers log and cabin refinishing in Parker, Centennial, Greenwood Village, Foxfield, and surrounding areas.",
   "url": "http://coloradoremodeling.company/faq/do-you-offer-log-and-cabin-refinishing-services-in-my-area-e-g-parker-centennial",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer log and cabin refinishing services in my area (e.g., Parker, Centennial)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, HH Remodeling LLC provides comprehensive log and cabin refinishing services across several Colorado communities. We proudly serve Parker, Centennial, Greenwood Village, and Foxfield, among other locations in the Denver metro area. Please contact us to confirm service availability in your specific neighborhood and to schedule a consultation for your log cabin refinishing needs.",
-        "description": "Yes, HH Remodeling LLC offers log and cabin refinishing in Parker, Centennial, Greenwood Village, Foxfield, and surrounding areas."
-      }
-    }
-  ],
+  "name": "Do you offer log and cabin refinishing services in my area (e.g., Parker, Centennial)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer log and cabin refinishing services in my area (e.g., Parker, Centennial)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, HH Remodeling LLC provides comprehensive log and cabin refinishing services across several Colorado communities. We proudly serve Parker, Centennial, Greenwood Village, and Foxfield, among other locations in the Denver metro area. Please contact us to confirm service availability in your specific neighborhood and to schedule a consultation for your log cabin refinishing needs.",
+        "@type": "Answer",
+        "description": "Yes, HH Remodeling LLC offers log and cabin refinishing in Parker, Centennial, Greenwood Village, Foxfield, and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, HH Remodeling LLC offers log and cabin refinishing in Parker, Centennial, Greenwood Village, Foxfield, and surrounding areas."
 }

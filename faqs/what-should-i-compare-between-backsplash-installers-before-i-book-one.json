@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I compare between backsplash installers before I book one?",
-  "description": "Compare prep work, wall repair, grout and sealing, cleanup, and experience with detailed tile cuts. A detailed quote is more useful than a low price alone.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-compare-between-backsplash-installers-before-i-book-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I compare between backsplash installers before I book one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing installers, ask who handles surface prep, minor drywall repair, grout, sealing, and cleanup. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to compare whether the contractor has experience with older homes, custom cuts, and backsplash layouts around outlets.",
-        "description": "Compare prep work, wall repair, grout and sealing, cleanup, and experience with detailed tile cuts. A detailed quote is more useful than a low price alone."
-      }
-    }
-  ],
+  "name": "What should I compare between backsplash installers before I book one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare between backsplash installers before I book one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing installers, ask who handles surface prep, minor drywall repair, grout, sealing, and cleanup. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to compare whether the contractor has experience with older homes, custom cuts, and backsplash layouts around outlets.",
+        "@type": "Answer",
+        "description": "Compare prep work, wall repair, grout and sealing, cleanup, and experience with detailed tile cuts. A detailed quote is more useful than a low price alone."
+      }
+    }
+  ],
+  "description": "Compare prep work, wall repair, grout and sealing, cleanup, and experience with detailed tile cuts. A detailed quote is more useful than a low price alone."
 }

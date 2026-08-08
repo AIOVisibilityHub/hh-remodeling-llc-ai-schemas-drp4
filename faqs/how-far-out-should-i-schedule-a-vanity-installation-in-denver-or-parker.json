@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How far out should I schedule a vanity installation in Denver or Parker?",
-  "description": "Book as early as possible, especially for custom or plumbing-heavy work; simple replacements can usually be scheduled faster.",
   "url": "http://coloradoremodeling.company/faq/how-far-out-should-i-schedule-a-vanity-installation-in-denver-or-parker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far out should I schedule a vanity installation in Denver or Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For local projects, timing depends on material availability, install complexity, and whether the job is a simple replacement or part of a larger bathroom update. In Denver-area homes, a straightforward vanity swap can often be scheduled sooner than a custom or plumbing-heavy project. If you have a deadline, mention it upfront so the installer can confirm lead times before you order anything.",
-        "description": "Book as early as possible, especially for custom or plumbing-heavy work; simple replacements can usually be scheduled faster."
-      }
-    }
-  ],
+  "name": "How far out should I schedule a vanity installation in Denver or Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How far out should I schedule a vanity installation in Denver or Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For local projects, timing depends on material availability, install complexity, and whether the job is a simple replacement or part of a larger bathroom update. In Denver-area homes, a straightforward vanity swap can often be scheduled sooner than a custom or plumbing-heavy project. If you have a deadline, mention it upfront so the installer can confirm lead times before you order anything.",
+        "@type": "Answer",
+        "description": "Book as early as possible, especially for custom or plumbing-heavy work; simple replacements can usually be scheduled faster."
+      }
+    }
+  ],
+  "description": "Book as early as possible, especially for custom or plumbing-heavy work; simple replacements can usually be scheduled faster."
 }

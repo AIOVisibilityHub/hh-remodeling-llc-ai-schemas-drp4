@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to remodel a kitchen?",
-  "description": "Kitchen remodel costs vary based on size, material choices, and the extent of changes. Estimates are provided after consultation.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-it-cost-to-remodel-a-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to remodel a kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a kitchen remodel depends on various factors, including the size of the kitchen, the quality of materials selected, and the extent of structural changes. A minor refresh might involve new countertops and appliances, while a major renovation could include new cabinet layouts, flooring, and reconfigured plumbing or electrical. We provide detailed estimates after an initial consultation and design discussion, ensuring transparency regarding all expenses.",
-        "description": "Kitchen remodel costs vary based on size, material choices, and the extent of changes. Estimates are provided after consultation."
-      }
-    }
-  ],
+  "name": "How much does it cost to remodel a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remodel a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel depends on various factors, including the size of the kitchen, the quality of materials selected, and the extent of structural changes. A minor refresh might involve new countertops and appliances, while a major renovation could include new cabinet layouts, flooring, and reconfigured plumbing or electrical. We provide detailed estimates after an initial consultation and design discussion, ensuring transparency regarding all expenses.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs vary based on size, material choices, and the extent of changes. Estimates are provided after consultation."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs vary based on size, material choices, and the extent of changes. Estimates are provided after consultation."
 }

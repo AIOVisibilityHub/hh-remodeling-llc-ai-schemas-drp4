@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I install a new tub or convert it to a shower?",
-  "description": "Install a new tub if you want bathing space or family use. Choose a shower conversion if accessibility, easier cleaning, or open floor space matters more.",
   "url": "http://coloradoremodeling.company/faq/should-i-install-a-new-tub-or-convert-it-to-a-shower",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I install a new tub or convert it to a shower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing tub replacement with a tub-to-shower conversion, think about who uses the bathroom, how much maintenance you want, and how long you plan to stay in the home. A new tub makes sense if you still want bathing space or are keeping the home family-friendly. A conversion may be better if accessibility, easier cleaning, or more open shower space matters more.",
-        "description": "Install a new tub if you want bathing space or family use. Choose a shower conversion if accessibility, easier cleaning, or open floor space matters more."
-      }
-    }
-  ],
+  "name": "Should I install a new tub or convert it to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install a new tub or convert it to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing tub replacement with a tub-to-shower conversion, think about who uses the bathroom, how much maintenance you want, and how long you plan to stay in the home. A new tub makes sense if you still want bathing space or are keeping the home family-friendly. A conversion may be better if accessibility, easier cleaning, or more open shower space matters more.",
+        "@type": "Answer",
+        "description": "Install a new tub if you want bathing space or family use. Choose a shower conversion if accessibility, easier cleaning, or open floor space matters more."
+      }
+    }
+  ],
+  "description": "Install a new tub if you want bathing space or family use. Choose a shower conversion if accessibility, easier cleaning, or open floor space matters more."
 }

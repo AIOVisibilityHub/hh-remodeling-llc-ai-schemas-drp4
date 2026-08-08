@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does kitchen countertop installation usually take?",
-  "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-countertop-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does kitchen countertop installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most standard kitchen countertop installs are finished in one day, but the full project often takes several business days from template to installation. In the Denver area, many jobs run about 5 to 7 business days, and larger or more complex projects can take longer.",
-        "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days."
-      }
-    }
-  ],
+  "name": "How long does kitchen countertop installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen countertop installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard kitchen countertop installs are finished in one day, but the full project often takes several business days from template to installation. In the Denver area, many jobs run about 5 to 7 business days, and larger or more complex projects can take longer.",
+        "@type": "Answer",
+        "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days."
+      }
+    }
+  ],
+  "description": "The install itself is often one day, but the full process from template to finished countertop commonly takes about 5 to 7 business days."
 }

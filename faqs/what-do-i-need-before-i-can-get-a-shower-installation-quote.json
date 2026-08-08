@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What do I need before I can get a shower installation quote?",
-  "description": "You usually need measurements, photos, and a clear idea of the shower style you want. Complex jobs may also need an on-site inspection before the quote is accur",
   "url": "http://coloradoremodeling.company/faq/what-do-i-need-before-i-can-get-a-shower-installation-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What do I need before I can get a shower installation quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most shower installation projects can move forward once the contractor has space measurements, photos of the existing bathroom, and a clear idea of the finish you want. If the job involves plumbing relocation, tile, or custom glass, expect a more detailed site visit before pricing is accurate.",
-        "description": "You usually need measurements, photos, and a clear idea of the shower style you want. Complex jobs may also need an on-site inspection before the quote is accurate."
-      }
-    }
-  ],
+  "name": "What do I need before I can get a shower installation quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need before I can get a shower installation quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most shower installation projects can move forward once the contractor has space measurements, photos of the existing bathroom, and a clear idea of the finish you want. If the job involves plumbing relocation, tile, or custom glass, expect a more detailed site visit before pricing is accurate.",
+        "@type": "Answer",
+        "description": "You usually need measurements, photos, and a clear idea of the shower style you want. Complex jobs may also need an on-site inspection before the quote is accurate."
+      }
+    }
+  ],
+  "description": "You usually need measurements, photos, and a clear idea of the shower style you want. Complex jobs may also need an on-site inspection before the quote is accur"
 }

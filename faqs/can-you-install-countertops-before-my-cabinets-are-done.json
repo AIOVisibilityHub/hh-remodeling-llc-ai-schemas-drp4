@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you install countertops before my cabinets are done?",
-  "description": "Usually no. Cabinets should be fully installed and level first so the template and final fit are accurate.",
   "url": "http://coloradoremodeling.company/faq/can-you-install-countertops-before-my-cabinets-are-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you install countertops before my cabinets are done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, countertop installation is usually scheduled after the base cabinets are fully installed and secured, because the template must match the final cabinet footprint. If cabinets are still shifting or unfinished, the new countertop can be measured incorrectly or delayed.",
-        "description": "Usually no. Cabinets should be fully installed and level first so the template and final fit are accurate."
-      }
-    }
-  ],
+  "name": "Can you install countertops before my cabinets are done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install countertops before my cabinets are done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, countertop installation is usually scheduled after the base cabinets are fully installed and secured, because the template must match the final cabinet footprint. If cabinets are still shifting or unfinished, the new countertop can be measured incorrectly or delayed.",
+        "@type": "Answer",
+        "description": "Usually no. Cabinets should be fully installed and level first so the template and final fit are accurate."
+      }
+    }
+  ],
+  "description": "Usually no. Cabinets should be fully installed and level first so the template and final fit are accurate."
 }

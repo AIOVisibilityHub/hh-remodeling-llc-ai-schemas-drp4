@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I replace my bathtub with a shower during a remodel?",
-  "description": "Replacing a bathtub with a shower depends on lifestyle and future plans; showers offer space and accessibility, while tubs appeal to families.",
   "url": "http://coloradoremodeling.company/faq/should-i-replace-my-bathtub-with-a-shower-during-a-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I replace my bathtub with a shower during a remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The decision to replace a bathtub with a shower depends on your lifestyle and future plans. If you rarely use the tub and prefer a more spacious, accessible shower, it can be a great upgrade. Walk-in showers are also popular for aging-in-place considerations. However, if you have young children or plan to sell your home, retaining at least one bathtub can be beneficial, as many buyers with families look for this feature. We can discuss your specific needs and offer design recommendations.",
-        "description": "Replacing a bathtub with a shower depends on lifestyle and future plans; showers offer space and accessibility, while tubs appeal to families."
-      }
-    }
-  ],
+  "name": "Should I replace my bathtub with a shower during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my bathtub with a shower during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace a bathtub with a shower depends on your lifestyle and future plans. If you rarely use the tub and prefer a more spacious, accessible shower, it can be a great upgrade. Walk-in showers are also popular for aging-in-place considerations. However, if you have young children or plan to sell your home, retaining at least one bathtub can be beneficial, as many buyers with families look for this feature. We can discuss your specific needs and offer design recommendations.",
+        "@type": "Answer",
+        "description": "Replacing a bathtub with a shower depends on lifestyle and future plans; showers offer space and accessibility, while tubs appeal to families."
+      }
+    }
+  ],
+  "description": "Replacing a bathtub with a shower depends on lifestyle and future plans; showers offer space and accessibility, while tubs appeal to families."
 }

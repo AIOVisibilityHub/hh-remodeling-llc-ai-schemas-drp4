@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I need my bathtub removed soon — what should I do first?",
-  "description": "Start with a quote based on photos or an in-home visit. The contractor needs to see the tub, access, and disposal needs before giving a realistic removal plan.",
   "url": "http://coloradoremodeling.company/faq/i-need-my-bathtub-removed-soon-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I need my bathtub removed soon — what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest first step is to get an on-site or photo-based estimate so the contractor can identify the tub type, access issues, and whether disposal is included. In many Denver-area jobs, pricing can often be quoted quickly once photos or a brief walkthrough are available.",
-        "description": "Start with a quote based on photos or an in-home visit. The contractor needs to see the tub, access, and disposal needs before giving a realistic removal plan."
-      }
-    }
-  ],
+  "name": "I need my bathtub removed soon — what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I need my bathtub removed soon — what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest first step is to get an on-site or photo-based estimate so the contractor can identify the tub type, access issues, and whether disposal is included. In many Denver-area jobs, pricing can often be quoted quickly once photos or a brief walkthrough are available.",
+        "@type": "Answer",
+        "description": "Start with a quote based on photos or an in-home visit. The contractor needs to see the tub, access, and disposal needs before giving a realistic removal plan."
+      }
+    }
+  ],
+  "description": "Start with a quote based on photos or an in-home visit. The contractor needs to see the tub, access, and disposal needs before giving a realistic removal plan."
 }

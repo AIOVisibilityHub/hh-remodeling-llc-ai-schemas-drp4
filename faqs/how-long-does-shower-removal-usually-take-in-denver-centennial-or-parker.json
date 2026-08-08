@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does shower removal usually take in Denver, Centennial, or Parker?",
-  "description": "A straightforward shower removal can be quick, but most replacement projects take about 2 to 5 days, depending on repairs and plumbing changes.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-shower-removal-usually-take-in-denver-centennial-or-parker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does shower removal usually take in Denver, Centennial, or Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline depends on whether this is a simple tear-out or part of a full replacement. In the Denver area, many tub-to-shower or shower replacement projects are completed in about 2 to 5 days, while more complex remodels can take longer if plumbing, waterproofing, or damage repair is needed.",
-        "description": "A straightforward shower removal can be quick, but most replacement projects take about 2 to 5 days, depending on repairs and plumbing changes."
-      }
-    }
-  ],
+  "name": "How long does shower removal usually take in Denver, Centennial, or Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does shower removal usually take in Denver, Centennial, or Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends on whether this is a simple tear-out or part of a full replacement. In the Denver area, many tub-to-shower or shower replacement projects are completed in about 2 to 5 days, while more complex remodels can take longer if plumbing, waterproofing, or damage repair is needed.",
+        "@type": "Answer",
+        "description": "A straightforward shower removal can be quick, but most replacement projects take about 2 to 5 days, depending on repairs and plumbing changes."
+      }
+    }
+  ],
+  "description": "A straightforward shower removal can be quick, but most replacement projects take about 2 to 5 days, depending on repairs and plumbing changes."
 }

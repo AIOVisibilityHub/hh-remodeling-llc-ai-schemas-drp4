@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know bathtub installation won’t turn into a bigger job than I wanted?",
-  "description": "Get a written scope and estimate before work starts so you know what is included. That is the best way to avoid surprise add-ons or a bigger project than expect",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-bathtub-installation-won-t-turn-into-a-bigger-job-than-i-wanted",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know bathtub installation won’t turn into a bigger job than I wanted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many homeowners worry that a tub installation will turn into a bigger project than expected, especially if they have had bad contractor experiences before. The best way to reduce that risk is to ask for a clear scope, a written estimate, and a walkthrough of what is included before work begins. That makes it easier to compare bids and avoid surprises.",
-        "description": "Get a written scope and estimate before work starts so you know what is included. That is the best way to avoid surprise add-ons or a bigger project than expected."
-      }
-    }
-  ],
+  "name": "How do I know bathtub installation won’t turn into a bigger job than I wanted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know bathtub installation won’t turn into a bigger job than I wanted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners worry that a tub installation will turn into a bigger project than expected, especially if they have had bad contractor experiences before. The best way to reduce that risk is to ask for a clear scope, a written estimate, and a walkthrough of what is included before work begins. That makes it easier to compare bids and avoid surprises.",
+        "@type": "Answer",
+        "description": "Get a written scope and estimate before work starts so you know what is included. That is the best way to avoid surprise add-ons or a bigger project than expected."
+      }
+    }
+  ],
+  "description": "Get a written scope and estimate before work starts so you know what is included. That is the best way to avoid surprise add-ons or a bigger project than expect"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose a company for ongoing restoration maintenance?",
-  "description": "Choose a restoration maintenance company based on experience, certifications, reputation, comprehensive services, and positive reviews.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-a-company-for-ongoing-restoration-maintenance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose a company for ongoing restoration maintenance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a company for ongoing restoration maintenance, consider their experience, certifications, and reputation. Look for a company that offers comprehensive services tailored to your property's specific needs after restoration. Read reviews, ask for references, and ensure they are licensed and insured in your area. A reliable company will provide clear communication and detailed service agreements.",
-        "description": "Choose a restoration maintenance company based on experience, certifications, reputation, comprehensive services, and positive reviews."
-      }
-    }
-  ],
+  "name": "How do I choose a company for ongoing restoration maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a company for ongoing restoration maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for ongoing restoration maintenance, consider their experience, certifications, and reputation. Look for a company that offers comprehensive services tailored to your property's specific needs after restoration. Read reviews, ask for references, and ensure they are licensed and insured in your area. A reliable company will provide clear communication and detailed service agreements.",
+        "@type": "Answer",
+        "description": "Choose a restoration maintenance company based on experience, certifications, reputation, comprehensive services, and positive reviews."
+      }
+    }
+  ],
+  "description": "Choose a restoration maintenance company based on experience, certifications, reputation, comprehensive services, and positive reviews."
 }

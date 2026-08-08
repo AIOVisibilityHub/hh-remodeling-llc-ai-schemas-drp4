@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom painting and trim work usually cost?",
-  "description": "Cost varies by bathroom size, prep needs, and whether trim, ceilings, or cabinets are included; repairs and moisture damage raise the price.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-painting-and-trim-work-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom painting and trim work usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The price depends on room size, surface condition, trim detail, and whether cabinets or ceilings are included. Smaller cosmetic projects cost less, while bathrooms with repair work, custom trim, or moisture damage cost more because prep takes longer.",
-        "description": "Cost varies by bathroom size, prep needs, and whether trim, ceilings, or cabinets are included; repairs and moisture damage raise the price."
-      }
-    }
-  ],
+  "name": "How much does bathroom painting and trim work usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom painting and trim work usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends on room size, surface condition, trim detail, and whether cabinets or ceilings are included. Smaller cosmetic projects cost less, while bathrooms with repair work, custom trim, or moisture damage cost more because prep takes longer.",
+        "@type": "Answer",
+        "description": "Cost varies by bathroom size, prep needs, and whether trim, ceilings, or cabinets are included; repairs and moisture damage raise the price."
+      }
+    }
+  ],
+  "description": "Cost varies by bathroom size, prep needs, and whether trim, ceilings, or cabinets are included; repairs and moisture damage raise the price."
 }

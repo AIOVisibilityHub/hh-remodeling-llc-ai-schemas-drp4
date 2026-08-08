@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom countertop installation cost in Denver?",
-  "description": "Expect a wide range based on size and material, often about $400 to $1,800 per vanity in Denver. Singles usually cost less than double-sink or premium-stone pro",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-countertop-installation-cost-in-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom countertop installation cost in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs commonly depend on material, vanity size, edge profile, and the number of cutouts. In Denver, bathroom vanity countertop pricing is often quoted around $400 to $1,800 per vanity, with many single-sink projects landing lower and double-vanity or premium-stone projects landing higher.",
-        "description": "Expect a wide range based on size and material, often about $400 to $1,800 per vanity in Denver. Singles usually cost less than double-sink or premium-stone projects."
-      }
-    }
-  ],
+  "name": "How much does bathroom countertop installation cost in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom countertop installation cost in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs commonly depend on material, vanity size, edge profile, and the number of cutouts. In Denver, bathroom vanity countertop pricing is often quoted around $400 to $1,800 per vanity, with many single-sink projects landing lower and double-vanity or premium-stone projects landing higher.",
+        "@type": "Answer",
+        "description": "Expect a wide range based on size and material, often about $400 to $1,800 per vanity in Denver. Singles usually cost less than double-sink or premium-stone projects."
+      }
+    }
+  ],
+  "description": "Expect a wide range based on size and material, often about $400 to $1,800 per vanity in Denver. Singles usually cost less than double-sink or premium-stone pro"
 }

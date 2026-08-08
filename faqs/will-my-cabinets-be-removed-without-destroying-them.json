@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my cabinets be removed without destroying them?",
-  "description": "Sometimes yes, especially if the cabinets are in good shape and the crew can deconstruct them carefully. If they’re warped, damaged, or heavily modified, a full",
   "url": "http://coloradoremodeling.company/faq/will-my-cabinets-be-removed-without-destroying-them",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my cabinets be removed without destroying them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the cabinets are still solid, a removal service may be able to take them out cleanly so they can be reused, repurposed, or donated through the crew’s normal process if offered. If the cabinets are warped, water-damaged, or heavily modified, the outcome is usually a full tear-out with disposal rather than recovery.",
-        "description": "Sometimes yes, especially if the cabinets are in good shape and the crew can deconstruct them carefully. If they’re warped, damaged, or heavily modified, a full tear-out is more likely."
-      }
-    }
-  ],
+  "name": "Will my cabinets be removed without destroying them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my cabinets be removed without destroying them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the cabinets are still solid, a removal service may be able to take them out cleanly so they can be reused, repurposed, or donated through the crew’s normal process if offered. If the cabinets are warped, water-damaged, or heavily modified, the outcome is usually a full tear-out with disposal rather than recovery.",
+        "@type": "Answer",
+        "description": "Sometimes yes, especially if the cabinets are in good shape and the crew can deconstruct them carefully. If they’re warped, damaged, or heavily modified, a full tear-out is more likely."
+      }
+    }
+  ],
+  "description": "Sometimes yes, especially if the cabinets are in good shape and the crew can deconstruct them carefully. If they’re warped, damaged, or heavily modified, a full"
 }

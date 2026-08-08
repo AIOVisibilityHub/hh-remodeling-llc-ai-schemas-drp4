@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can any tub be removed, or are there bathrooms that make it difficult?",
-  "description": "Most tubs can be removed, but tight access, old plumbing, and surrounding tile or drywall can make the job more complex and expensive.",
   "url": "http://coloradoremodeling.company/faq/can-any-tub-be-removed-or-are-there-bathrooms-that-make-it-difficult",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can any tub be removed, or are there bathrooms that make it difficult?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You usually need basic access to the bathroom, a clear path for debris removal, and confirmation of whether plumbing disconnects or wall repair are included. If the tub is in a tight space or the bathroom is older, the job may require extra demo to get the tub out safely.",
-        "description": "Most tubs can be removed, but tight access, old plumbing, and surrounding tile or drywall can make the job more complex and expensive."
-      }
-    }
-  ],
+  "name": "Can any tub be removed, or are there bathrooms that make it difficult?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can any tub be removed, or are there bathrooms that make it difficult?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually need basic access to the bathroom, a clear path for debris removal, and confirmation of whether plumbing disconnects or wall repair are included. If the tub is in a tight space or the bathroom is older, the job may require extra demo to get the tub out safely.",
+        "@type": "Answer",
+        "description": "Most tubs can be removed, but tight access, old plumbing, and surrounding tile or drywall can make the job more complex and expensive."
+      }
+    }
+  ],
+  "description": "Most tubs can be removed, but tight access, old plumbing, and surrounding tile or drywall can make the job more complex and expensive."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom fixture installation usually cost?",
-  "description": "Costs vary by fixture type and how much plumbing work is needed. Faucets are usually simpler and cheaper to install than toilets, showers, or tubs, especially i",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-fixture-installation-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom fixture installation usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the fixture type, how much plumbing work is needed, and whether parts like valves or supply lines must be replaced. A simple faucet swap is usually less expensive than a toilet, shower, or tub installation that requires more labor and sealing work.",
-        "description": "Costs vary by fixture type and how much plumbing work is needed. Faucets are usually simpler and cheaper to install than toilets, showers, or tubs, especially if old parts need replacement too."
-      }
-    }
-  ],
+  "name": "How much does bathroom fixture installation usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom fixture installation usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the fixture type, how much plumbing work is needed, and whether parts like valves or supply lines must be replaced. A simple faucet swap is usually less expensive than a toilet, shower, or tub installation that requires more labor and sealing work.",
+        "@type": "Answer",
+        "description": "Costs vary by fixture type and how much plumbing work is needed. Faucets are usually simpler and cheaper to install than toilets, showers, or tubs, especially if old parts need replacement too."
+      }
+    }
+  ],
+  "description": "Costs vary by fixture type and how much plumbing work is needed. Faucets are usually simpler and cheaper to install than toilets, showers, or tubs, especially i"
 }

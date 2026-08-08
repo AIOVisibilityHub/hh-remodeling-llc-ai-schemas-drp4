@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if I neglect maintenance after restoration?",
-  "description": "Neglecting maintenance after restoration can cause original problems to recur or new issues to develop, leading to costly repairs and potential warranty voidanc",
   "url": "http://coloradoremodeling.company/faq/what-happens-if-i-neglect-maintenance-after-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if I neglect maintenance after restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Neglecting maintenance after restoration can lead to a resurgence of the original problem or the development of new issues. For instance, unattended minor leaks can lead to mold, and neglected structural areas might weaken over time. This can result in more extensive and costly repairs down the line, potentially voiding warranties from the initial restoration.",
-        "description": "Neglecting maintenance after restoration can cause original problems to recur or new issues to develop, leading to costly repairs and potential warranty voidance."
-      }
-    }
-  ],
+  "name": "What happens if I neglect maintenance after restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I neglect maintenance after restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Neglecting maintenance after restoration can lead to a resurgence of the original problem or the development of new issues. For instance, unattended minor leaks can lead to mold, and neglected structural areas might weaken over time. This can result in more extensive and costly repairs down the line, potentially voiding warranties from the initial restoration.",
+        "@type": "Answer",
+        "description": "Neglecting maintenance after restoration can cause original problems to recur or new issues to develop, leading to costly repairs and potential warranty voidance."
+      }
+    }
+  ],
+  "description": "Neglecting maintenance after restoration can cause original problems to recur or new issues to develop, leading to costly repairs and potential warranty voidanc"
 }

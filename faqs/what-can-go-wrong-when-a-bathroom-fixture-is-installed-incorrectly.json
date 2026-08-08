@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when a bathroom fixture is installed incorrectly?",
-  "description": "Bad installation can lead to leaks, wobbling fixtures, drainage problems, and water damage behind walls or under floors. Older plumbing or incorrect sizing can",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-a-bathroom-fixture-is-installed-incorrectly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when a bathroom fixture is installed incorrectly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most common problems are leaks, poor alignment, loose mounting, slow drainage, and fixtures that do not fit the existing rough-in dimensions. In older homes around Denver-area neighborhoods, worn shutoff valves, outdated plumbing, or irregular framing can also complicate the job.",
-        "description": "Bad installation can lead to leaks, wobbling fixtures, drainage problems, and water damage behind walls or under floors. Older plumbing or incorrect sizing can make the problem worse."
-      }
-    }
-  ],
+  "name": "What can go wrong when a bathroom fixture is installed incorrectly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when a bathroom fixture is installed incorrectly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common problems are leaks, poor alignment, loose mounting, slow drainage, and fixtures that do not fit the existing rough-in dimensions. In older homes around Denver-area neighborhoods, worn shutoff valves, outdated plumbing, or irregular framing can also complicate the job.",
+        "@type": "Answer",
+        "description": "Bad installation can lead to leaks, wobbling fixtures, drainage problems, and water damage behind walls or under floors. Older plumbing or incorrect sizing can make the problem worse."
+      }
+    }
+  ],
+  "description": "Bad installation can lead to leaks, wobbling fixtures, drainage problems, and water damage behind walls or under floors. Older plumbing or incorrect sizing can"
 }

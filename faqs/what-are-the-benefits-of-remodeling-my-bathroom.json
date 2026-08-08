@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of remodeling my bathroom?",
-  "description": "Benefits of remodeling a bathroom include increased home value, improved functionality, enhanced aesthetics, and better energy efficiency.",
   "url": "http://coloradoremodeling.company/faq/what-are-the-benefits-of-remodeling-my-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of remodeling my bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remodeling your bathroom offers several benefits, including increased home value, improved functionality, enhanced aesthetics, and better energy efficiency. Updating fixtures and features can create a more comfortable and modern space. It also allows you to address any existing issues like leaks or outdated plumbing. A refreshed bathroom can significantly improve your daily routine and overall home enjoyment.",
-        "description": "Benefits of remodeling a bathroom include increased home value, improved functionality, enhanced aesthetics, and better energy efficiency."
-      }
-    }
-  ],
+  "name": "What are the benefits of remodeling my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of remodeling my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling your bathroom offers several benefits, including increased home value, improved functionality, enhanced aesthetics, and better energy efficiency. Updating fixtures and features can create a more comfortable and modern space. It also allows you to address any existing issues like leaks or outdated plumbing. A refreshed bathroom can significantly improve your daily routine and overall home enjoyment.",
+        "@type": "Answer",
+        "description": "Benefits of remodeling a bathroom include increased home value, improved functionality, enhanced aesthetics, and better energy efficiency."
+      }
+    }
+  ],
+  "description": "Benefits of remodeling a bathroom include increased home value, improved functionality, enhanced aesthetics, and better energy efficiency."
 }

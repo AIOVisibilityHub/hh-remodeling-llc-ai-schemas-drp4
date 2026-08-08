@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my bathroom remodel?",
-  "description": "Choose a bathroom remodeling contractor by checking experience, references, portfolio, licensing, insurance, and ensuring clear communication and detailed estim",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-the-right-contractor-for-my-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio. Look for contractors specializing in bathroom remodels and who have a strong reputation in the Denver area. Ensure they are licensed and insured. Get detailed written estimates and compare them carefully. Effective communication and a clear understanding of the project scope are also crucial for a successful partnership.",
-        "description": "Choose a bathroom remodeling contractor by checking experience, references, portfolio, licensing, insurance, and ensuring clear communication and detailed estimates."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio. Look for contractors specializing in bathroom remodels and who have a strong reputation in the Denver area. Ensure they are licensed and insured. Get detailed written estimates and compare them carefully. Effective communication and a clear understanding of the project scope are also crucial for a successful partnership.",
+        "@type": "Answer",
+        "description": "Choose a bathroom remodeling contractor by checking experience, references, portfolio, licensing, insurance, and ensuring clear communication and detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a bathroom remodeling contractor by checking experience, references, portfolio, licensing, insurance, and ensuring clear communication and detailed estim"
 }

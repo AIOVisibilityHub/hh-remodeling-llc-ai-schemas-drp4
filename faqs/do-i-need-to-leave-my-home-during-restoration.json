@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to leave my home during restoration?",
-  "description": "You may need to leave your home during restoration, depending on damage extent and procedures, for safety and efficiency.",
   "url": "http://coloradoremodeling.company/faq/do-i-need-to-leave-my-home-during-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to leave my home during restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether you need to leave your home during restoration depends on the extent and type of damage, as well as the specific procedures being performed. For extensive damage, especially involving mold, strong odors, or structural work, temporary relocation might be necessary for your safety and the efficiency of the restoration. Your restoration company can advise you on this.",
-        "description": "You may need to leave your home during restoration, depending on damage extent and procedures, for safety and efficiency."
-      }
-    }
-  ],
+  "name": "Do I need to leave my home during restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during restoration depends on the extent and type of damage, as well as the specific procedures being performed. For extensive damage, especially involving mold, strong odors, or structural work, temporary relocation might be necessary for your safety and the efficiency of the restoration. Your restoration company can advise you on this.",
+        "@type": "Answer",
+        "description": "You may need to leave your home during restoration, depending on damage extent and procedures, for safety and efficiency."
+      }
+    }
+  ],
+  "description": "You may need to leave your home during restoration, depending on damage extent and procedures, for safety and efficiency."
 }

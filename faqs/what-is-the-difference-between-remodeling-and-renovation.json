@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between remodeling and renovation?",
-  "description": "Renovation updates a space, while remodeling changes its structure or layout for functional improvements.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-remodeling-and-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between remodeling and renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While often used interchangeably, 'remodeling' and 'renovation' have distinct meanings. Renovation typically involves updating and restoring an existing space without changing its structure or layout, like repainting or reflooring. Remodeling, on the other hand, often involves changing the structure, layout, or function of a space, such as moving walls or adding an extension. Both aim to improve a home's appearance and functionality.",
-        "description": "Renovation updates a space, while remodeling changes its structure or layout for functional improvements."
-      }
-    }
-  ],
+  "name": "What is the difference between remodeling and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between remodeling and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'remodeling' and 'renovation' have distinct meanings. Renovation typically involves updating and restoring an existing space without changing its structure or layout, like repainting or reflooring. Remodeling, on the other hand, often involves changing the structure, layout, or function of a space, such as moving walls or adding an extension. Both aim to improve a home's appearance and functionality.",
+        "@type": "Answer",
+        "description": "Renovation updates a space, while remodeling changes its structure or layout for functional improvements."
+      }
+    }
+  ],
+  "description": "Renovation updates a space, while remodeling changes its structure or layout for functional improvements."
 }

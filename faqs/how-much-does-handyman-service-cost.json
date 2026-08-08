@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does handyman service cost?",
-  "description": "Handyman service costs vary by task complexity and time, with charges often hourly or as a flat fee. Always get a detailed estimate.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-handyman-service-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does handyman service cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Handyman service costs vary depending on the type of work, the complexity of the task, and the time required. Some handymen charge an hourly rate, while others provide a flat fee for specific services. It's always best to get a detailed estimate before any work begins. HH Remodeling LLC provides clear, upfront pricing for handyman services in the Denver metropolitan area, including Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "Handyman service costs vary by task complexity and time, with charges often hourly or as a flat fee. Always get a detailed estimate."
-      }
-    }
-  ],
+  "name": "How much does handyman service cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does handyman service cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Handyman service costs vary depending on the type of work, the complexity of the task, and the time required. Some handymen charge an hourly rate, while others provide a flat fee for specific services. It's always best to get a detailed estimate before any work begins. HH Remodeling LLC provides clear, upfront pricing for handyman services in the Denver metropolitan area, including Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "Handyman service costs vary by task complexity and time, with charges often hourly or as a flat fee. Always get a detailed estimate."
+      }
+    }
+  ],
+  "description": "Handyman service costs vary by task complexity and time, with charges often hourly or as a flat fee. Always get a detailed estimate."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I have maintenance performed on my restored property?",
-  "description": "Maintenance frequency varies by damage type and environment, but an annual inspection is generally recommended. Your specialist can advise.",
   "url": "http://coloradoremodeling.company/faq/how-often-should-i-have-maintenance-performed-on-my-restored-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I have maintenance performed on my restored property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The frequency of maintenance depends on the type of damage, the materials involved, and environmental factors. For example, properties in high-humidity areas might require more frequent moisture checks. Generally, an annual inspection is recommended for most restored properties, with more frequent checks for specific vulnerable areas. Your restoration specialist can provide a tailored maintenance schedule.",
-        "description": "Maintenance frequency varies by damage type and environment, but an annual inspection is generally recommended. Your specialist can advise."
-      }
-    }
-  ],
+  "name": "How often should I have maintenance performed on my restored property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have maintenance performed on my restored property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of maintenance depends on the type of damage, the materials involved, and environmental factors. For example, properties in high-humidity areas might require more frequent moisture checks. Generally, an annual inspection is recommended for most restored properties, with more frequent checks for specific vulnerable areas. Your restoration specialist can provide a tailored maintenance schedule.",
+        "@type": "Answer",
+        "description": "Maintenance frequency varies by damage type and environment, but an annual inspection is generally recommended. Your specialist can advise."
+      }
+    }
+  ],
+  "description": "Maintenance frequency varies by damage type and environment, but an annual inspection is generally recommended. Your specialist can advise."
 }

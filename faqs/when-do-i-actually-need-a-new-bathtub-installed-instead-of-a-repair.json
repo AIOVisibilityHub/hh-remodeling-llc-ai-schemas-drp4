@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I actually need a new bathtub installed instead of a repair?",
-  "description": "Choose replacement when the tub is cracked, leaking, stained, or unsafe. If there is water damage or soft flooring, have the area inspected before installing a",
   "url": "http://coloradoremodeling.company/faq/when-do-i-actually-need-a-new-bathtub-installed-instead-of-a-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I actually need a new bathtub installed instead of a repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tub installation is a good fit if your existing tub is cracked, stained, leaking, hard to clean, or no longer safe to use. It is also practical if you want a faster update than a full bathroom remodel. If you are dealing with water damage, soft flooring, or repeated leaks, the project should start with a repair assessment before a new tub goes in.",
-        "description": "Choose replacement when the tub is cracked, leaking, stained, or unsafe. If there is water damage or soft flooring, have the area inspected before installing a new tub."
-      }
-    }
-  ],
+  "name": "When do I actually need a new bathtub installed instead of a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I actually need a new bathtub installed instead of a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub installation is a good fit if your existing tub is cracked, stained, leaking, hard to clean, or no longer safe to use. It is also practical if you want a faster update than a full bathroom remodel. If you are dealing with water damage, soft flooring, or repeated leaks, the project should start with a repair assessment before a new tub goes in.",
+        "@type": "Answer",
+        "description": "Choose replacement when the tub is cracked, leaking, stained, or unsafe. If there is water damage or soft flooring, have the area inspected before installing a new tub."
+      }
+    }
+  ],
+  "description": "Choose replacement when the tub is cracked, leaking, stained, or unsafe. If there is water damage or soft flooring, have the area inspected before installing a"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I just pick appliances first and figure the hookups out later?",
-  "description": "It is risky to choose appliances first without checking the layout and hookups. Final dimensions, door swings, and utility locations should be confirmed before",
   "url": "http://coloradoremodeling.company/faq/can-i-just-pick-appliances-first-and-figure-the-hookups-out-later",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I just pick appliances first and figure the hookups out later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are unsure about dimensions, hookups, or whether an appliance fits the cabinet plan, it is better to pause before ordering finishes or scheduling installation. Measure the room, note door swings and utility locations, and confirm the final appliance sizes before anything is built in.",
-        "description": "It is risky to choose appliances first without checking the layout and hookups. Final dimensions, door swings, and utility locations should be confirmed before cabinets or installation are locked in."
-      }
-    }
-  ],
+  "name": "Can I just pick appliances first and figure the hookups out later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I just pick appliances first and figure the hookups out later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are unsure about dimensions, hookups, or whether an appliance fits the cabinet plan, it is better to pause before ordering finishes or scheduling installation. Measure the room, note door swings and utility locations, and confirm the final appliance sizes before anything is built in.",
+        "@type": "Answer",
+        "description": "It is risky to choose appliances first without checking the layout and hookups. Final dimensions, door swings, and utility locations should be confirmed before cabinets or installation are locked in."
+      }
+    }
+  ],
+  "description": "It is risky to choose appliances first without checking the layout and hookups. Final dimensions, door swings, and utility locations should be confirmed before"
 }

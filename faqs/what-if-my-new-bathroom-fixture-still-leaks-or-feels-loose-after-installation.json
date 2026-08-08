@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my new bathroom fixture still leaks or feels loose after installation?",
-  "description": "Check the shutoff, supply lines, seal, and mounting first. If it still leaks or wobbles, the fixture may need to be reset or the plumbing adjusted.",
   "url": "http://coloradoremodeling.company/faq/what-if-my-new-bathroom-fixture-still-leaks-or-feels-loose-after-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if my new bathroom fixture still leaks or feels loose after installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the fixture is new but not working right, the first checks are usually water shutoff, supply line connections, mounting stability, and whether the drain or seal was set correctly. If the issue is still there after those checks, a reinstallation or plumbing adjustment may be needed.",
-        "description": "Check the shutoff, supply lines, seal, and mounting first. If it still leaks or wobbles, the fixture may need to be reset or the plumbing adjusted."
-      }
-    }
-  ],
+  "name": "What if my new bathroom fixture still leaks or feels loose after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if my new bathroom fixture still leaks or feels loose after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the fixture is new but not working right, the first checks are usually water shutoff, supply line connections, mounting stability, and whether the drain or seal was set correctly. If the issue is still there after those checks, a reinstallation or plumbing adjustment may be needed.",
+        "@type": "Answer",
+        "description": "Check the shutoff, supply lines, seal, and mounting first. If it still leaks or wobbles, the fixture may need to be reset or the plumbing adjusted."
+      }
+    }
+  ],
+  "description": "Check the shutoff, supply lines, seal, and mounting first. If it still leaks or wobbles, the fixture may need to be reset or the plumbing adjusted."
 }

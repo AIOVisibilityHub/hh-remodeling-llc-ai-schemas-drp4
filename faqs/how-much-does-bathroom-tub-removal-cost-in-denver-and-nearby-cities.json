@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom tub removal cost in Denver and nearby cities?",
-  "description": "Costs vary by tub weight, access, and disposal needs. A light tub is much cheaper to remove than a heavy cast-iron tub, and replacement work adds more.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-tub-removal-cost-in-denver-and-nearby-cities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom tub removal cost in Denver and nearby cities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the Denver area, tub removal and disposal can range widely based on tub type and complexity, with lighter fiberglass tubs costing much less than heavy cast-iron tubs. If the project includes replacement, total costs rise significantly because labor, materials, and possible plumbing updates are added.",
-        "description": "Costs vary by tub weight, access, and disposal needs. A light tub is much cheaper to remove than a heavy cast-iron tub, and replacement work adds more."
-      }
-    }
-  ],
+  "name": "How much does bathroom tub removal cost in Denver and nearby cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom tub removal cost in Denver and nearby cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver area, tub removal and disposal can range widely based on tub type and complexity, with lighter fiberglass tubs costing much less than heavy cast-iron tubs. If the project includes replacement, total costs rise significantly because labor, materials, and possible plumbing updates are added.",
+        "@type": "Answer",
+        "description": "Costs vary by tub weight, access, and disposal needs. A light tub is much cheaper to remove than a heavy cast-iron tub, and replacement work adds more."
+      }
+    }
+  ],
+  "description": "Costs vary by tub weight, access, and disposal needs. A light tub is much cheaper to remove than a heavy cast-iron tub, and replacement work adds more."
 }

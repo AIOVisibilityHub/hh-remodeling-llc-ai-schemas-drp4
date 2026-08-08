@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does basement wall framing usually cost in Denver-area homes?",
-  "description": "Basement wall framing cost depends on size, layout, and whether floating walls or special detailing are needed. In the Denver area, pricing is usually quoted by",
   "url": "http://coloradoremodeling.company/faq/how-much-does-basement-wall-framing-usually-cost-in-denver-area-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does basement wall framing usually cost in Denver-area homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on basement size, wall complexity, and whether the project needs floating walls, extra blocking, or framing around windows and mechanical systems. In the Denver area, framing only is often priced by square foot, while full basement finishing costs much more because it includes drywall, insulation, electrical, and other trades.\n\nIf you are comparing estimates in Centennial, Greenwood Village, Foxfield, or Parker, make sure each quote includes the same scope. A lower price can hide missing items like permit handling, cleanup, or framing details that inspectors may expect.\n\nKey factors:\n- Total square footage\n- Number of rooms and wall corners\n- Floating wall requirements\n- Scope gaps between bids\n\nAsk for a written scope before approving work. That makes it easier to compare apples to apples and avoid surprise add-ons.",
-        "description": "Basement wall framing cost depends on size, layout, and whether floating walls or special detailing are needed. In the Denver area, pricing is usually quoted by square foot, so ask for a written scope to compare bids fairly."
-      }
-    }
-  ],
+  "name": "How much does basement wall framing usually cost in Denver-area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does basement wall framing usually cost in Denver-area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on basement size, wall complexity, and whether the project needs floating walls, extra blocking, or framing around windows and mechanical systems. In the Denver area, framing only is often priced by square foot, while full basement finishing costs much more because it includes drywall, insulation, electrical, and other trades.\n\nIf you are comparing estimates in Centennial, Greenwood Village, Foxfield, or Parker, make sure each quote includes the same scope. A lower price can hide missing items like permit handling, cleanup, or framing details that inspectors may expect.\n\nKey factors:\n- Total square footage\n- Number of rooms and wall corners\n- Floating wall requirements\n- Scope gaps between bids\n\nAsk for a written scope before approving work. That makes it easier to compare apples to apples and avoid surprise add-ons.",
+        "@type": "Answer",
+        "description": "Basement wall framing cost depends on size, layout, and whether floating walls or special detailing are needed. In the Denver area, pricing is usually quoted by square foot, so ask for a written scope to compare bids fairly."
+      }
+    }
+  ],
+  "description": "Basement wall framing cost depends on size, layout, and whether floating walls or special detailing are needed. In the Denver area, pricing is usually quoted by"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose a restoration company?",
-  "description": "Choose a restoration company based on experience, licensing, certifications, reviews, comprehensive services, and clear communication.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-a-restoration-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose a restoration company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a restoration company, look for experience, proper licensing, and certifications in areas like water damage or mold remediation. Check for references or reviews, and ensure they offer comprehensive services to handle all aspects of your project. Clear communication and transparent pricing are also important factors to consider.",
-        "description": "Choose a restoration company based on experience, licensing, certifications, reviews, comprehensive services, and clear communication."
-      }
-    }
-  ],
+  "name": "How do I choose a restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a restoration company, look for experience, proper licensing, and certifications in areas like water damage or mold remediation. Check for references or reviews, and ensure they offer comprehensive services to handle all aspects of your project. Clear communication and transparent pricing are also important factors to consider.",
+        "@type": "Answer",
+        "description": "Choose a restoration company based on experience, licensing, certifications, reviews, comprehensive services, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a restoration company based on experience, licensing, certifications, reviews, comprehensive services, and clear communication."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost to remodel a bathroom in Denver?",
-  "description": "Typical bathroom remodeling costs in Denver range from $5,000 for minor updates to over $35,000 for complete renovations, depending on scope and materials.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-typical-cost-to-remodel-a-bathroom-in-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost to remodel a bathroom in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathroom remodeling costs in Denver vary significantly based on the scope of work, materials chosen, and the size of the bathroom. A minor remodel, such as updating fixtures and painting, might range from $5,000 to $15,000. A mid-range remodel, including new flooring, vanity, and shower, could be $15,000 to $35,000. High-end or complete renovations, involving reconfiguring the layout or luxury materials, can exceed $35,000. We provide detailed estimates after an initial consultation to assess your specific needs.",
-        "description": "Typical bathroom remodeling costs in Denver range from $5,000 for minor updates to over $35,000 for complete renovations, depending on scope and materials."
-      }
-    }
-  ],
+  "name": "What is the typical cost to remodel a bathroom in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to remodel a bathroom in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom remodeling costs in Denver vary significantly based on the scope of work, materials chosen, and the size of the bathroom. A minor remodel, such as updating fixtures and painting, might range from $5,000 to $15,000. A mid-range remodel, including new flooring, vanity, and shower, could be $15,000 to $35,000. High-end or complete renovations, involving reconfiguring the layout or luxury materials, can exceed $35,000. We provide detailed estimates after an initial consultation to assess your specific needs.",
+        "@type": "Answer",
+        "description": "Typical bathroom remodeling costs in Denver range from $5,000 for minor updates to over $35,000 for complete renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Typical bathroom remodeling costs in Denver range from $5,000 for minor updates to over $35,000 for complete renovations, depending on scope and materials."
 }

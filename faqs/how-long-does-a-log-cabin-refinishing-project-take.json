@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a log cabin refinishing project take?",
-  "description": "Project duration varies by cabin size, condition, weather, and work scope; it can range from a few days to several weeks.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-log-cabin-refinishing-project-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a log cabin refinishing project take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a refinishing project depends on the cabin's size, its current condition, the weather, and the scope of work involved, including any necessary repairs. Smaller projects might take a few days, while larger or more complex jobs could span several weeks. We provide a projected timeline with our estimate after assessing your cabin. We always aim for efficiency while maintaining quality.",
-        "description": "Project duration varies by cabin size, condition, weather, and work scope; it can range from a few days to several weeks."
-      }
-    }
-  ],
+  "name": "How long does a log cabin refinishing project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a log cabin refinishing project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a refinishing project depends on the cabin's size, its current condition, the weather, and the scope of work involved, including any necessary repairs. Smaller projects might take a few days, while larger or more complex jobs could span several weeks. We provide a projected timeline with our estimate after assessing your cabin. We always aim for efficiency while maintaining quality.",
+        "@type": "Answer",
+        "description": "Project duration varies by cabin size, condition, weather, and work scope; it can range from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Project duration varies by cabin size, condition, weather, and work scope; it can range from a few days to several weeks."
 }

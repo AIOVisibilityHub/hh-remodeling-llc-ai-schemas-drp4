@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does bathroom waterproofing usually take before tile can go on?",
-  "description": "It usually happens before tile and may need cure time or a flood test first. The exact timing depends on the waterproofing system and the shower build.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-bathroom-waterproofing-usually-take-before-tile-can-go-on",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does bathroom waterproofing usually take before tile can go on?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most professional shower waterproofing happens before tile installation, after the substrate is prepared and before finishes are covered. Some systems need curing time before the next step, so the schedule should include inspection, drying, and any flood test.",
-        "description": "It usually happens before tile and may need cure time or a flood test first. The exact timing depends on the waterproofing system and the shower build."
-      }
-    }
-  ],
+  "name": "How long does bathroom waterproofing usually take before tile can go on?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom waterproofing usually take before tile can go on?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most professional shower waterproofing happens before tile installation, after the substrate is prepared and before finishes are covered. Some systems need curing time before the next step, so the schedule should include inspection, drying, and any flood test.",
+        "@type": "Answer",
+        "description": "It usually happens before tile and may need cure time or a flood test first. The exact timing depends on the waterproofing system and the shower build."
+      }
+    }
+  ],
+  "description": "It usually happens before tile and may need cure time or a flood test first. The exact timing depends on the waterproofing system and the shower build."
 }

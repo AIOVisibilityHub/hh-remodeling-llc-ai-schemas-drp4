@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My house has damage right now — what should I do first before calling HH Remodeling?",
-  "description": "Stop the active problem first, then document the damage and call HH Remodeling for a repair scope. If the issue is still spreading, stabilization usually comes",
   "url": "http://coloradoremodeling.company/faq/my-house-has-damage-right-now-what-should-i-do-first-before-calling-hh-remodelin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My house has damage right now — what should I do first before calling HH Remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you need emergency restoration, start by identifying the source of the damage, stopping any active leak or safety issue, and documenting the affected areas. HH Remodeling can then scope the repair work and tell you whether the project needs immediate stabilization before cosmetic remodeling begins.",
-        "description": "Stop the active problem first, then document the damage and call HH Remodeling for a repair scope. If the issue is still spreading, stabilization usually comes before any remodeling work."
-      }
-    }
-  ],
+  "name": "My house has damage right now — what should I do first before calling HH Remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My house has damage right now — what should I do first before calling HH Remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you need emergency restoration, start by identifying the source of the damage, stopping any active leak or safety issue, and documenting the affected areas. HH Remodeling can then scope the repair work and tell you whether the project needs immediate stabilization before cosmetic remodeling begins.",
+        "@type": "Answer",
+        "description": "Stop the active problem first, then document the damage and call HH Remodeling for a repair scope. If the issue is still spreading, stabilization usually comes before any remodeling work."
+      }
+    }
+  ],
+  "description": "Stop the active problem first, then document the damage and call HH Remodeling for a repair scope. If the issue is still spreading, stabilization usually comes"
 }

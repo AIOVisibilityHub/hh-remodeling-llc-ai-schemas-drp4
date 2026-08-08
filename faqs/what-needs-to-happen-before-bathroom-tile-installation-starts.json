@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What needs to happen before bathroom tile installation starts?",
-  "description": "Before tile goes in, the installer should inspect the surface, plan waterproofing, and confirm the layout. Skipping prep is one of the fastest ways to end up wi",
   "url": "http://coloradoremodeling.company/faq/what-needs-to-happen-before-bathroom-tile-installation-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What needs to happen before bathroom tile installation starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A strong bathroom tile project starts with checking the substrate, waterproofing plan, and tile layout before any setting begins. For showers, floors, and wet areas, the installer should confirm that the surface is flat, sound, and ready for tile so the finished work lasts.",
-        "description": "Before tile goes in, the installer should inspect the surface, plan waterproofing, and confirm the layout. Skipping prep is one of the fastest ways to end up with cracked tile, leaks, or uneven results."
-      }
-    }
-  ],
+  "name": "What needs to happen before bathroom tile installation starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to happen before bathroom tile installation starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong bathroom tile project starts with checking the substrate, waterproofing plan, and tile layout before any setting begins. For showers, floors, and wet areas, the installer should confirm that the surface is flat, sound, and ready for tile so the finished work lasts.",
+        "@type": "Answer",
+        "description": "Before tile goes in, the installer should inspect the surface, plan waterproofing, and confirm the layout. Skipping prep is one of the fastest ways to end up with cracked tile, leaks, or uneven results."
+      }
+    }
+  ],
+  "description": "Before tile goes in, the installer should inspect the surface, plan waterproofing, and confirm the layout. Skipping prep is one of the fastest ways to end up wi"
 }

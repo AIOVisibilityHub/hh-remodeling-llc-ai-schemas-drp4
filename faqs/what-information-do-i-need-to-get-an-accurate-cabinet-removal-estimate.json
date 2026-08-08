@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to get an accurate cabinet removal estimate?",
-  "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and na",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-to-get-an-accurate-cabinet-removal-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to get an accurate cabinet removal estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before work starts, ask for clear photos or an in-person evaluation, because the crew needs to see cabinet type, countertop attachment, and any signs of water damage or previous repairs. In Denver-area homes, access details like parking, stairways, and narrow hallways also affect the estimate and scheduling.",
-        "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and narrow hallways also helps produce a more accurate estimate."
-      }
-    }
-  ],
+  "name": "What information do I need to get an accurate cabinet removal estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to get an accurate cabinet removal estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work starts, ask for clear photos or an in-person evaluation, because the crew needs to see cabinet type, countertop attachment, and any signs of water damage or previous repairs. In Denver-area homes, access details like parking, stairways, and narrow hallways also affect the estimate and scheduling.",
+        "@type": "Answer",
+        "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and narrow hallways also helps produce a more accurate estimate."
+      }
+    }
+  ],
+  "description": "Provide photos or a walkthrough, plus details on cabinet condition, countertop attachment, and any water damage. Access information like stairs, parking, and na"
 }

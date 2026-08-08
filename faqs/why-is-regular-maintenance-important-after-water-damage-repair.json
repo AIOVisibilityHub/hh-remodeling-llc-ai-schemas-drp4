@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is regular maintenance important after water damage repair?",
-  "description": "Regular maintenance after water damage repair prevents mold, structural issues, and recurring moisture problems, ensuring the longevity of repairs.",
   "url": "http://coloradoremodeling.company/faq/why-is-regular-maintenance-important-after-water-damage-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is regular maintenance important after water damage repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular maintenance after water damage repair is crucial to prevent secondary issues such as mold growth, structural weakening, and recurring moisture problems. Even after professional restoration, small issues can arise that, if left unaddressed, can lead to significant and costly damage. Routine checks and preventive measures help ensure the longevity of the repairs and the safety of your property.",
-        "description": "Regular maintenance after water damage repair prevents mold, structural issues, and recurring moisture problems, ensuring the longevity of repairs."
-      }
-    }
-  ],
+  "name": "Why is regular maintenance important after water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is regular maintenance important after water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance after water damage repair is crucial to prevent secondary issues such as mold growth, structural weakening, and recurring moisture problems. Even after professional restoration, small issues can arise that, if left unaddressed, can lead to significant and costly damage. Routine checks and preventive measures help ensure the longevity of the repairs and the safety of your property.",
+        "@type": "Answer",
+        "description": "Regular maintenance after water damage repair prevents mold, structural issues, and recurring moisture problems, ensuring the longevity of repairs."
+      }
+    }
+  ],
+  "description": "Regular maintenance after water damage repair prevents mold, structural issues, and recurring moisture problems, ensuring the longevity of repairs."
 }

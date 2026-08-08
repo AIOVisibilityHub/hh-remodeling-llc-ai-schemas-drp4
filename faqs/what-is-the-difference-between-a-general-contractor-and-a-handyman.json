@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a general contractor and a handyman?",
-  "description": "A general contractor manages complex projects; a handyman handles smaller repairs and tasks.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-a-general-contractor-and-a-handyman",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a general contractor and a handyman?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A general contractor manages larger, more complex construction or renovation projects that often require multiple specialized trades and permits. They oversee the entire project from start to finish. A handyman typically handles smaller, isolated tasks or repairs that don't require extensive planning, permits, or coordination of multiple trades, such as minor fixes, installations, or upkeep around the house.",
-        "description": "A general contractor manages complex projects; a handyman handles smaller repairs and tasks."
-      }
-    }
-  ],
+  "name": "What is the difference between a general contractor and a handyman?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a handyman?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages larger, more complex construction or renovation projects that often require multiple specialized trades and permits. They oversee the entire project from start to finish. A handyman typically handles smaller, isolated tasks or repairs that don't require extensive planning, permits, or coordination of multiple trades, such as minor fixes, installations, or upkeep around the house.",
+        "@type": "Answer",
+        "description": "A general contractor manages complex projects; a handyman handles smaller repairs and tasks."
+      }
+    }
+  ],
+  "description": "A general contractor manages complex projects; a handyman handles smaller repairs and tasks."
 }

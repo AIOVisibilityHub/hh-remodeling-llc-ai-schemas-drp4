@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during countertop installation?",
-  "description": "Measurement mistakes and cabinet issues are the biggest problems. Make sure cabinets are level and all cutouts are confirmed before fabrication.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-countertop-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during countertop installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is an inaccurate template, which can happen if the cabinets are not level, walls are out of square, or sink and appliance locations change after measurement. Damage can also happen during removal of the old tops, so it helps to clear the area and confirm every detail before fabrication.",
-        "description": "Measurement mistakes and cabinet issues are the biggest problems. Make sure cabinets are level and all cutouts are confirmed before fabrication."
-      }
-    }
-  ],
+  "name": "What can go wrong during countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is an inaccurate template, which can happen if the cabinets are not level, walls are out of square, or sink and appliance locations change after measurement. Damage can also happen during removal of the old tops, so it helps to clear the area and confirm every detail before fabrication.",
+        "@type": "Answer",
+        "description": "Measurement mistakes and cabinet issues are the biggest problems. Make sure cabinets are level and all cutouts are confirmed before fabrication."
+      }
+    }
+  ],
+  "description": "Measurement mistakes and cabinet issues are the biggest problems. Make sure cabinets are level and all cutouts are confirmed before fabrication."
 }

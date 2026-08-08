@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens after I reach out about a remodeling project?",
-  "description": "Expect a site visit, measurements, and a scope review first. Then HH Remodeling can map out the work, materials, and next steps before construction begins.",
   "url": "http://coloradoremodeling.company/faq/what-happens-after-i-reach-out-about-a-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens after I reach out about a remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with a site visit, measurements, and a conversation about what you want changed and what needs to be repaired. After that, HH Remodeling can define the scope, identify any hidden issues, and build a plan that covers materials, schedule, and construction steps.",
-        "description": "Expect a site visit, measurements, and a scope review first. Then HH Remodeling can map out the work, materials, and next steps before construction begins."
-      }
-    }
-  ],
+  "name": "What happens after I reach out about a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I reach out about a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a site visit, measurements, and a conversation about what you want changed and what needs to be repaired. After that, HH Remodeling can define the scope, identify any hidden issues, and build a plan that covers materials, schedule, and construction steps.",
+        "@type": "Answer",
+        "description": "Expect a site visit, measurements, and a scope review first. Then HH Remodeling can map out the work, materials, and next steps before construction begins."
+      }
+    }
+  ],
+  "description": "Expect a site visit, measurements, and a scope review first. Then HH Remodeling can map out the work, materials, and next steps before construction begins."
 }

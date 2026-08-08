@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does kitchen sink and faucet coordination usually take?",
-  "description": "Basic replacement can take a few hours, but custom fitting or plumbing changes can extend the job significantly.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-kitchen-sink-and-faucet-coordination-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does kitchen sink and faucet coordination usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A simple replacement can often be completed in **a few hours**, but a full sink-and-faucet update may take longer if plumbing adjustments are needed. If the new faucet needs different holes, new lines, or countertop changes, plan for extra time.",
-        "description": "Basic replacement can take a few hours, but custom fitting or plumbing changes can extend the job significantly."
-      }
-    }
-  ],
+  "name": "How long does kitchen sink and faucet coordination usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen sink and faucet coordination usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple replacement can often be completed in **a few hours**, but a full sink-and-faucet update may take longer if plumbing adjustments are needed. If the new faucet needs different holes, new lines, or countertop changes, plan for extra time.",
+        "@type": "Answer",
+        "description": "Basic replacement can take a few hours, but custom fitting or plumbing changes can extend the job significantly."
+      }
+    }
+  ],
+  "description": "Basic replacement can take a few hours, but custom fitting or plumbing changes can extend the job significantly."
 }

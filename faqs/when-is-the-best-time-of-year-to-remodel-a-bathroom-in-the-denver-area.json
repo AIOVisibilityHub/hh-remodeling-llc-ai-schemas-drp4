@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to remodel a bathroom in the Denver area?",
-  "description": "Many homeowners in the Denver area prefer spring or fall for bathroom remodels due to moderate weather, but projects can be completed year-round.",
   "url": "http://coloradoremodeling.company/faq/when-is-the-best-time-of-year-to-remodel-a-bathroom-in-the-denver-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to remodel a bathroom in the Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While bathroom remodels can happen year-round, many homeowners in the Denver area prefer to schedule projects during the spring or fall. These seasons often offer more moderate weather conditions, which can be beneficial for tasks requiring ventilation or when deliveries are made. However, reputable contractors like us can manage projects efficiently regardless of the season, and scheduling during off-peak times might sometimes offer more flexibility.",
-        "description": "Many homeowners in the Denver area prefer spring or fall for bathroom remodels due to moderate weather, but projects can be completed year-round."
-      }
-    }
-  ],
+  "name": "When is the best time of year to remodel a bathroom in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to remodel a bathroom in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While bathroom remodels can happen year-round, many homeowners in the Denver area prefer to schedule projects during the spring or fall. These seasons often offer more moderate weather conditions, which can be beneficial for tasks requiring ventilation or when deliveries are made. However, reputable contractors like us can manage projects efficiently regardless of the season, and scheduling during off-peak times might sometimes offer more flexibility.",
+        "@type": "Answer",
+        "description": "Many homeowners in the Denver area prefer spring or fall for bathroom remodels due to moderate weather, but projects can be completed year-round."
+      }
+    }
+  ],
+  "description": "Many homeowners in the Denver area prefer spring or fall for bathroom remodels due to moderate weather, but projects can be completed year-round."
 }

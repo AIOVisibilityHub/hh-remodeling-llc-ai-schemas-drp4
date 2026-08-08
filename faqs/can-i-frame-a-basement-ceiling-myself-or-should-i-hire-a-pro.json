@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I frame a basement ceiling myself, or should I hire a pro?",
-  "description": "DIY is possible for simple layouts, but hiring a pro is safer when you need level framing, soffits, or careful work around ductwork, pipes, and beams.",
   "url": "http://coloradoremodeling.company/faq/can-i-frame-a-basement-ceiling-myself-or-should-i-hire-a-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I frame a basement ceiling myself, or should I hire a pro?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if the ceiling needs to be level, securely attached, and ready for drywall or other finishes. A professional can also plan around HVAC, plumbing, electrical runs, and height limitations so the ceiling framing does not create inspection or finishing problems later.",
-        "description": "DIY is possible for simple layouts, but hiring a pro is safer when you need level framing, soffits, or careful work around ductwork, pipes, and beams."
-      }
-    }
-  ],
+  "name": "Can I frame a basement ceiling myself, or should I hire a pro?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I frame a basement ceiling myself, or should I hire a pro?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the ceiling needs to be level, securely attached, and ready for drywall or other finishes. A professional can also plan around HVAC, plumbing, electrical runs, and height limitations so the ceiling framing does not create inspection or finishing problems later.",
+        "@type": "Answer",
+        "description": "DIY is possible for simple layouts, but hiring a pro is safer when you need level framing, soffits, or careful work around ductwork, pipes, and beams."
+      }
+    }
+  ],
+  "description": "DIY is possible for simple layouts, but hiring a pro is safer when you need level framing, soffits, or careful work around ductwork, pipes, and beams."
 }

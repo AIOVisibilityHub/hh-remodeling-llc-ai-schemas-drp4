@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is restoration service?",
-  "description": "Restoration service repairs and rebuilds properties after damage from fire, water, or storms, returning them to pre-damage condition.",
   "url": "http://coloradoremodeling.company/faq/what-is-restoration-service",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is restoration service?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Restoration service involves repairing and rebuilding properties after damage from events like fire, water, or storms. This can include water extraction, drying, mold remediation, smoke and soot removal, and reconstruction to return the property to its pre-damage condition. The goal is to mitigate further damage and restore safety and functionality.",
-        "description": "Restoration service repairs and rebuilds properties after damage from fire, water, or storms, returning them to pre-damage condition."
-      }
-    }
-  ],
+  "name": "What is restoration service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is restoration service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration service involves repairing and rebuilding properties after damage from events like fire, water, or storms. This can include water extraction, drying, mold remediation, smoke and soot removal, and reconstruction to return the property to its pre-damage condition. The goal is to mitigate further damage and restore safety and functionality.",
+        "@type": "Answer",
+        "description": "Restoration service repairs and rebuilds properties after damage from fire, water, or storms, returning them to pre-damage condition."
+      }
+    }
+  ],
+  "description": "Restoration service repairs and rebuilds properties after damage from fire, water, or storms, returning them to pre-damage condition."
 }

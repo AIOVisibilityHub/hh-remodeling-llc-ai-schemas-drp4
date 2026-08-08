@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with a bathroom countertop installation?",
-  "description": "The biggest problems are bad measurements, weak cabinets, delays, and poor sink support. Proper templating and sealing reduce most installation issues.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-bathroom-countertop-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with a bathroom countertop installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are measurement errors, weak cabinet bases, delayed materials, and damage from poor sink support or rushed installation. In bathrooms, water exposure makes it especially important to seal seams correctly and confirm the countertop is level before the job is finished.",
-        "description": "The biggest problems are bad measurements, weak cabinets, delays, and poor sink support. Proper templating and sealing reduce most installation issues."
-      }
-    }
-  ],
+  "name": "What can go wrong with a bathroom countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a bathroom countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are measurement errors, weak cabinet bases, delayed materials, and damage from poor sink support or rushed installation. In bathrooms, water exposure makes it especially important to seal seams correctly and confirm the countertop is level before the job is finished.",
+        "@type": "Answer",
+        "description": "The biggest problems are bad measurements, weak cabinets, delays, and poor sink support. Proper templating and sealing reduce most installation issues."
+      }
+    }
+  ],
+  "description": "The biggest problems are bad measurements, weak cabinets, delays, and poor sink support. Proper templating and sealing reduce most installation issues."
 }

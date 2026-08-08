@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does bathroom tile and stone installation usually cost?",
-  "description": "Cost depends on tile material, prep work, and whether the old tile must come out first. Custom showers and natural stone usually cost more than basic floor tile",
   "url": "http://coloradoremodeling.company/faq/how-much-does-bathroom-tile-and-stone-installation-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does bathroom tile and stone installation usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the Denver metro area, bathroom tile installation pricing commonly depends on tile type, demolition, waterproofing, and layout complexity. Straightforward installations are less expensive than custom showers, natural stone, or projects that need repairs underneath the old tile.",
-        "description": "Cost depends on tile material, prep work, and whether the old tile must come out first. Custom showers and natural stone usually cost more than basic floor tile because they require more labor and detail."
-      }
-    }
-  ],
+  "name": "How much does bathroom tile and stone installation usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom tile and stone installation usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area, bathroom tile installation pricing commonly depends on tile type, demolition, waterproofing, and layout complexity. Straightforward installations are less expensive than custom showers, natural stone, or projects that need repairs underneath the old tile.",
+        "@type": "Answer",
+        "description": "Cost depends on tile material, prep work, and whether the old tile must come out first. Custom showers and natural stone usually cost more than basic floor tile because they require more labor and detail."
+      }
+    }
+  ],
+  "description": "Cost depends on tile material, prep work, and whether the old tile must come out first. Custom showers and natural stone usually cost more than basic floor tile"
 }

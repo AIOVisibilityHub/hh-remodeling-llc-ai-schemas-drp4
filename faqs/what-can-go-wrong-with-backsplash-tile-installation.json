@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with backsplash tile installation?",
-  "description": "Common problems include uneven lines, bad wall prep, and grout issues. If the surface isn’t flat or moisture protection is skipped, the backsplash may fail soon",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-backsplash-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with backsplash tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are poor wall prep, uneven tile lines, and grout or seal problems that can lead to stains or moisture issues. If the wall behind the range or sink is not flat, the finished backsplash may show lippage or crack more easily.",
-        "description": "Common problems include uneven lines, bad wall prep, and grout issues. If the surface isn’t flat or moisture protection is skipped, the backsplash may fail sooner."
-      }
-    }
-  ],
+  "name": "What can go wrong with backsplash tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with backsplash tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are poor wall prep, uneven tile lines, and grout or seal problems that can lead to stains or moisture issues. If the wall behind the range or sink is not flat, the finished backsplash may show lippage or crack more easily.",
+        "@type": "Answer",
+        "description": "Common problems include uneven lines, bad wall prep, and grout issues. If the surface isn’t flat or moisture protection is skipped, the backsplash may fail sooner."
+      }
+    }
+  ],
+  "description": "Common problems include uneven lines, bad wall prep, and grout issues. If the surface isn’t flat or moisture protection is skipped, the backsplash may fail soon"
 }

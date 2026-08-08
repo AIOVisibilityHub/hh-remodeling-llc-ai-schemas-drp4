@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during tub installation?",
-  "description": "Hidden water damage, bad waterproofing, and uneven plumbing are the most common problems. Proper inspection and sealing reduce the chance of leaks or settling l",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-tub-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during tub installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are hidden water damage, poor waterproofing, and incorrect drain or level alignment. If those issues are missed, the new tub can leak, squeak, or settle unevenly. A careful installer will inspect the subfloor, test the plumbing, and seal the tub and surround correctly before finishing the job.",
-        "description": "Hidden water damage, bad waterproofing, and uneven plumbing are the most common problems. Proper inspection and sealing reduce the chance of leaks or settling later."
-      }
-    }
-  ],
+  "name": "What can go wrong during tub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during tub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are hidden water damage, poor waterproofing, and incorrect drain or level alignment. If those issues are missed, the new tub can leak, squeak, or settle unevenly. A careful installer will inspect the subfloor, test the plumbing, and seal the tub and surround correctly before finishing the job.",
+        "@type": "Answer",
+        "description": "Hidden water damage, bad waterproofing, and uneven plumbing are the most common problems. Proper inspection and sealing reduce the chance of leaks or settling later."
+      }
+    }
+  ],
+  "description": "Hidden water damage, bad waterproofing, and uneven plumbing are the most common problems. Proper inspection and sealing reduce the chance of leaks or settling l"
 }

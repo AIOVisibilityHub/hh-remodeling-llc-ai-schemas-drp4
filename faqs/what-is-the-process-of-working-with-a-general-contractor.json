@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of working with a general contractor?",
-  "description": "Working with a general contractor involves consultation, proposal, contract, project execution, and final walkthrough.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-process-of-working-with-a-general-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of working with a general contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally starts with an initial consultation to discuss your project ideas and budget. The contractor then provides a detailed proposal and estimate. Once agreed upon, a contract is signed. The contractor will then handle permits, scheduling, material procurement, and daily oversight of the construction, keeping you updated on progress. Upon completion, a final walkthrough ensures all work meets your expectations before final payment.",
-        "description": "Working with a general contractor involves consultation, proposal, contract, project execution, and final walkthrough."
-      }
-    }
-  ],
+  "name": "What is the process of working with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of working with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally starts with an initial consultation to discuss your project ideas and budget. The contractor then provides a detailed proposal and estimate. Once agreed upon, a contract is signed. The contractor will then handle permits, scheduling, material procurement, and daily oversight of the construction, keeping you updated on progress. Upon completion, a final walkthrough ensures all work meets your expectations before final payment.",
+        "@type": "Answer",
+        "description": "Working with a general contractor involves consultation, proposal, contract, project execution, and final walkthrough."
+      }
+    }
+  ],
+  "description": "Working with a general contractor involves consultation, proposal, contract, project execution, and final walkthrough."
 }

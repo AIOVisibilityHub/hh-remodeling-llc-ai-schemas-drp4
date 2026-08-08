@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I want to replace my bathroom floor?",
-  "description": "Start with a moisture-safe material choice and a subfloor check. If there’s any soft spot, uneven area, or past water damage, that has to be addressed before ne",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-want-to-replace-my-bathroom-floor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I want to replace my bathroom floor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most bathrooms, the first step is choosing a **moisture-resistant** flooring material and checking whether the subfloor needs repair before installation. In Denver-area homes, installers usually look for signs of water damage, uneven spots, or old adhesive that could affect the new floor. The right prep matters as much as the finish because bathrooms see constant moisture and daily wear.",
-        "description": "Start with a moisture-safe material choice and a subfloor check. If there’s any soft spot, uneven area, or past water damage, that has to be addressed before new flooring goes in."
-      }
-    }
-  ],
+  "name": "What should I do first if I want to replace my bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to replace my bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most bathrooms, the first step is choosing a **moisture-resistant** flooring material and checking whether the subfloor needs repair before installation. In Denver-area homes, installers usually look for signs of water damage, uneven spots, or old adhesive that could affect the new floor. The right prep matters as much as the finish because bathrooms see constant moisture and daily wear.",
+        "@type": "Answer",
+        "description": "Start with a moisture-safe material choice and a subfloor check. If there’s any soft spot, uneven area, or past water damage, that has to be addressed before new flooring goes in."
+      }
+    }
+  ],
+  "description": "Start with a moisture-safe material choice and a subfloor check. If there’s any soft spot, uneven area, or past water damage, that has to be addressed before ne"
 }

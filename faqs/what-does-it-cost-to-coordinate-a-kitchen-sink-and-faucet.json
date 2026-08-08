@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does it cost to coordinate a kitchen sink and faucet?",
-  "description": "Prices vary widely based on materials, faucet features, and whether installation requires plumbing or countertop changes.",
   "url": "http://coloradoremodeling.company/faq/what-does-it-cost-to-coordinate-a-kitchen-sink-and-faucet",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does it cost to coordinate a kitchen sink and faucet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the **sink material, faucet finish, and installation complexity**. A coordinated upgrade can be affordable if you are swapping like-for-like, but costs rise when you need new holes, new plumbing parts, or a more premium fixture set.",
-        "description": "Prices vary widely based on materials, faucet features, and whether installation requires plumbing or countertop changes."
-      }
-    }
-  ],
+  "name": "What does it cost to coordinate a kitchen sink and faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does it cost to coordinate a kitchen sink and faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the **sink material, faucet finish, and installation complexity**. A coordinated upgrade can be affordable if you are swapping like-for-like, but costs rise when you need new holes, new plumbing parts, or a more premium fixture set.",
+        "@type": "Answer",
+        "description": "Prices vary widely based on materials, faucet features, and whether installation requires plumbing or countertop changes."
+      }
+    }
+  ],
+  "description": "Prices vary widely based on materials, faucet features, and whether installation requires plumbing or countertop changes."
 }

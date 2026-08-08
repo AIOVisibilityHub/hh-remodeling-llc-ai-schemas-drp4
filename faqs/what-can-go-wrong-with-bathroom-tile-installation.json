@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with bathroom tile installation?",
-  "description": "Bad prep can lead to leaks, cracked tile, loose pieces, and staining. In bathrooms, most problems come from what is underneath the tile, not the tile color or s",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-bathroom-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with bathroom tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are water intrusion, cracked grout, loose tile, and stone staining if the prep or sealing is done poorly. Bathroom tile failures usually start underneath the surface, not with the tile itself.",
-        "description": "Bad prep can lead to leaks, cracked tile, loose pieces, and staining. In bathrooms, most problems come from what is underneath the tile, not the tile color or style."
-      }
-    }
-  ],
+  "name": "What can go wrong with bathroom tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with bathroom tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are water intrusion, cracked grout, loose tile, and stone staining if the prep or sealing is done poorly. Bathroom tile failures usually start underneath the surface, not with the tile itself.",
+        "@type": "Answer",
+        "description": "Bad prep can lead to leaks, cracked tile, loose pieces, and staining. In bathrooms, most problems come from what is underneath the tile, not the tile color or style."
+      }
+    }
+  ],
+  "description": "Bad prep can lead to leaks, cracked tile, loose pieces, and staining. In bathrooms, most problems come from what is underneath the tile, not the tile color or s"
 }

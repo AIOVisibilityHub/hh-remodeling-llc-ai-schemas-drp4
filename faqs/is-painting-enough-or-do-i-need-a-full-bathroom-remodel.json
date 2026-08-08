@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is painting enough, or do I need a full bathroom remodel?",
-  "description": "If the bathroom layout is fine and the issue is mostly cosmetic, painting and trim work can be a smart alternative to remodeling.",
   "url": "http://coloradoremodeling.company/faq/is-painting-enough-or-do-i-need-a-full-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is painting enough, or do I need a full bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in many cases painting and trim work can update a bathroom without a full remodel. It is a good fit when the layout works but the room looks dated, scuffed, or unfinished.",
-        "description": "If the bathroom layout is fine and the issue is mostly cosmetic, painting and trim work can be a smart alternative to remodeling."
-      }
-    }
-  ],
+  "name": "Is painting enough, or do I need a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is painting enough, or do I need a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases painting and trim work can update a bathroom without a full remodel. It is a good fit when the layout works but the room looks dated, scuffed, or unfinished.",
+        "@type": "Answer",
+        "description": "If the bathroom layout is fine and the issue is mostly cosmetic, painting and trim work can be a smart alternative to remodeling."
+      }
+    }
+  ],
+  "description": "If the bathroom layout is fine and the issue is mostly cosmetic, painting and trim work can be a smart alternative to remodeling."
 }

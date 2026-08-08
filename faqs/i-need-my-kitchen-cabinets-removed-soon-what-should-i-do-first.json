@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I need my kitchen cabinets removed soon—what should I do first?",
-  "description": "Decide whether you want a full removal or a careful deconstruction for reuse, then schedule a site check. The crew can confirm access, cabinet condition, and wh",
   "url": "http://coloradoremodeling.company/faq/i-need-my-kitchen-cabinets-removed-soon-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I need my kitchen cabinets removed soon—what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by deciding whether you want a full cabinet tear-out or careful deconstruction for reuse. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the right first step is a site check so the crew can confirm cabinet condition, access, and whether countertops, plumbing, or appliances need to be disconnected first.",
-        "description": "Decide whether you want a full removal or a careful deconstruction for reuse, then schedule a site check. The crew can confirm access, cabinet condition, and whether utilities or appliances need to be disconnected first."
-      }
-    }
-  ],
+  "name": "I need my kitchen cabinets removed soon—what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I need my kitchen cabinets removed soon—what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by deciding whether you want a full cabinet tear-out or careful deconstruction for reuse. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the right first step is a site check so the crew can confirm cabinet condition, access, and whether countertops, plumbing, or appliances need to be disconnected first.",
+        "@type": "Answer",
+        "description": "Decide whether you want a full removal or a careful deconstruction for reuse, then schedule a site check. The crew can confirm access, cabinet condition, and whether utilities or appliances need to be disconnected first."
+      }
+    }
+  ],
+  "description": "Decide whether you want a full removal or a careful deconstruction for reuse, then schedule a site check. The crew can confirm access, cabinet condition, and wh"
 }

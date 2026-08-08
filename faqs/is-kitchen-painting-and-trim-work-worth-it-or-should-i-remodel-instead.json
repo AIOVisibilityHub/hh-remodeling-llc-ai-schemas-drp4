@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is kitchen painting and trim work worth it, or should I remodel instead?",
-  "description": "It’s usually worth it when you want a major visual upgrade without full replacement. If the cabinets are sound, paint can deliver a strong return for less disru",
   "url": "http://coloradoremodeling.company/faq/is-kitchen-painting-and-trim-work-worth-it-or-should-i-remodel-instead",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is kitchen painting and trim work worth it, or should I remodel instead?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For many homeowners, painting cabinets and trim is a strong value play because it can dramatically change the look of the kitchen without a full remodel. It makes the most sense when the layout still works, the wood is in decent condition, and you want a cleaner, updated look fast.",
-        "description": "It’s usually worth it when you want a major visual upgrade without full replacement. If the cabinets are sound, paint can deliver a strong return for less disruption."
-      }
-    }
-  ],
+  "name": "Is kitchen painting and trim work worth it, or should I remodel instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is kitchen painting and trim work worth it, or should I remodel instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For many homeowners, painting cabinets and trim is a strong value play because it can dramatically change the look of the kitchen without a full remodel. It makes the most sense when the layout still works, the wood is in decent condition, and you want a cleaner, updated look fast.",
+        "@type": "Answer",
+        "description": "It’s usually worth it when you want a major visual upgrade without full replacement. If the cabinets are sound, paint can deliver a strong return for less disruption."
+      }
+    }
+  ],
+  "description": "It’s usually worth it when you want a major visual upgrade without full replacement. If the cabinets are sound, paint can deliver a strong return for less disru"
 }

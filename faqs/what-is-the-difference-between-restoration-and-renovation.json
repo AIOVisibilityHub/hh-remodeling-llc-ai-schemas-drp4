@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between restoration and renovation?",
-  "description": "Restoration repairs damage to a property's pre-loss state, while renovation updates or improves a property.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-restoration-and-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between restoration and renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Restoration focuses on repairing and rebuilding a property to its pre-damage condition after an event like fire or flood. Renovation, on the other hand, involves updating or improving a property for aesthetic or functional purposes, often without prior damage. Restoration is about bringing it back, while renovation is about making it new or better.",
-        "description": "Restoration repairs damage to a property's pre-loss state, while renovation updates or improves a property."
-      }
-    }
-  ],
+  "name": "What is the difference between restoration and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between restoration and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration focuses on repairing and rebuilding a property to its pre-damage condition after an event like fire or flood. Renovation, on the other hand, involves updating or improving a property for aesthetic or functional purposes, often without prior damage. Restoration is about bringing it back, while renovation is about making it new or better.",
+        "@type": "Answer",
+        "description": "Restoration repairs damage to a property's pre-loss state, while renovation updates or improves a property."
+      }
+    }
+  ],
+  "description": "Restoration repairs damage to a property's pre-loss state, while renovation updates or improves a property."
 }

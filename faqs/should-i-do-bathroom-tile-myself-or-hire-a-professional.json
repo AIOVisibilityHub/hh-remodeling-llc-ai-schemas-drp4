@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I do bathroom tile myself or hire a professional?",
-  "description": "DIY is possible for simple, dry-area tile jobs, but showers and stone work are usually worth hiring out. The risk of leaks, lippage, and failed waterproofing is",
   "url": "http://coloradoremodeling.company/faq/should-i-do-bathroom-tile-myself-or-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I do bathroom tile myself or hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathroom tile installation is usually best for a professional when the project involves a shower, waterproofing, natural stone, or uneven surfaces. DIY can work for simple dry-area updates, but bathrooms are less forgiving because water, slope, and substrate prep matter so much.",
-        "description": "DIY is possible for simple, dry-area tile jobs, but showers and stone work are usually worth hiring out. The risk of leaks, lippage, and failed waterproofing is much higher in bathrooms."
-      }
-    }
-  ],
+  "name": "Should I do bathroom tile myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I do bathroom tile myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom tile installation is usually best for a professional when the project involves a shower, waterproofing, natural stone, or uneven surfaces. DIY can work for simple dry-area updates, but bathrooms are less forgiving because water, slope, and substrate prep matter so much.",
+        "@type": "Answer",
+        "description": "DIY is possible for simple, dry-area tile jobs, but showers and stone work are usually worth hiring out. The risk of leaks, lippage, and failed waterproofing is much higher in bathrooms."
+      }
+    }
+  ],
+  "description": "DIY is possible for simple, dry-area tile jobs, but showers and stone work are usually worth hiring out. The risk of leaks, lippage, and failed waterproofing is"
 }

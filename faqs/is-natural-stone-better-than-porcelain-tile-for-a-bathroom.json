@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is natural stone better than porcelain tile for a bathroom?",
-  "description": "Stone looks premium, but it usually needs more sealing and care than porcelain. Porcelain is often the easier choice for busy bathrooms because it is durable an",
   "url": "http://coloradoremodeling.company/faq/is-natural-stone-better-than-porcelain-tile-for-a-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is natural stone better than porcelain tile for a bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone can deliver a high-end look, but it usually needs more maintenance than porcelain or ceramic tile. If you want lower upkeep in a busy bathroom, porcelain is often the more practical choice, while stone is better when appearance and texture matter most.",
-        "description": "Stone looks premium, but it usually needs more sealing and care than porcelain. Porcelain is often the easier choice for busy bathrooms because it is durable and lower maintenance."
-      }
-    }
-  ],
+  "name": "Is natural stone better than porcelain tile for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is natural stone better than porcelain tile for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone can deliver a high-end look, but it usually needs more maintenance than porcelain or ceramic tile. If you want lower upkeep in a busy bathroom, porcelain is often the more practical choice, while stone is better when appearance and texture matter most.",
+        "@type": "Answer",
+        "description": "Stone looks premium, but it usually needs more sealing and care than porcelain. Porcelain is often the easier choice for busy bathrooms because it is durable and lower maintenance."
+      }
+    }
+  ],
+  "description": "Stone looks premium, but it usually needs more sealing and care than porcelain. Porcelain is often the easier choice for busy bathrooms because it is durable an"
 }

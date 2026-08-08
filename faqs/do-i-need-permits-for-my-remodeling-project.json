@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for my remodeling project?",
-  "description": "Permits are often needed for structural, plumbing, or electrical changes. We assist with obtaining necessary permits.",
   "url": "http://coloradoremodeling.company/faq/do-i-need-permits-for-my-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for my remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many remodeling projects, especially those involving structural changes, plumbing, electrical work, or significant alterations to your home's footprint, require permits. The specific requirements vary by municipality. We will help identify and obtain all necessary permits for your project in Denver, Centennial, Greenwood Village, Foxfield, and Parker, ensuring compliance with local building codes and regulations.",
-        "description": "Permits are often needed for structural, plumbing, or electrical changes. We assist with obtaining necessary permits."
-      }
-    }
-  ],
+  "name": "Do I need permits for my remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many remodeling projects, especially those involving structural changes, plumbing, electrical work, or significant alterations to your home's footprint, require permits. The specific requirements vary by municipality. We will help identify and obtain all necessary permits for your project in Denver, Centennial, Greenwood Village, Foxfield, and Parker, ensuring compliance with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Permits are often needed for structural, plumbing, or electrical changes. We assist with obtaining necessary permits."
+      }
+    }
+  ],
+  "description": "Permits are often needed for structural, plumbing, or electrical changes. We assist with obtaining necessary permits."
 }

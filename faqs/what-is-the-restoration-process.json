@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the restoration process?",
-  "description": "The restoration process includes damage assessment, emergency services, specialized cleaning, and reconstruction.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-restoration-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the restoration process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The restoration process typically begins with an assessment of the damage, followed by emergency services like water extraction or board-up. Then, specialized techniques such as drying, dehumidification, and cleaning are employed. Finally, reconstruction efforts restore the property to its original state. Communication with the client is maintained throughout each stage.",
-        "description": "The restoration process includes damage assessment, emergency services, specialized cleaning, and reconstruction."
-      }
-    }
-  ],
+  "name": "What is the restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an assessment of the damage, followed by emergency services like water extraction or board-up. Then, specialized techniques such as drying, dehumidification, and cleaning are employed. Finally, reconstruction efforts restore the property to its original state. Communication with the client is maintained throughout each stage.",
+        "@type": "Answer",
+        "description": "The restoration process includes damage assessment, emergency services, specialized cleaning, and reconstruction."
+      }
+    }
+  ],
+  "description": "The restoration process includes damage assessment, emergency services, specialized cleaning, and reconstruction."
 }

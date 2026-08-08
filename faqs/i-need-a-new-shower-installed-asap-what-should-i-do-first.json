@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I need a new shower installed ASAP — what should I do first?",
-  "description": "Start by deciding whether you need a simple swap, a conversion, or a full remodel. The simpler the scope, the faster the install, but plumbing and waterproofing",
   "url": "http://coloradoremodeling.company/faq/i-need-a-new-shower-installed-asap-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I need a new shower installed ASAP — what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you want a new shower installed fast, start by confirming whether you need a simple replacement, a tub-to-shower conversion, or a full remodel. The fastest projects are usually straightforward shower swaps; anything involving plumbing changes, waterproofing, or tile work needs more planning.",
-        "description": "Start by deciding whether you need a simple swap, a conversion, or a full remodel. The simpler the scope, the faster the install, but plumbing and waterproofing changes add time."
-      }
-    }
-  ],
+  "name": "I need a new shower installed ASAP — what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I need a new shower installed ASAP — what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you want a new shower installed fast, start by confirming whether you need a simple replacement, a tub-to-shower conversion, or a full remodel. The fastest projects are usually straightforward shower swaps; anything involving plumbing changes, waterproofing, or tile work needs more planning.",
+        "@type": "Answer",
+        "description": "Start by deciding whether you need a simple swap, a conversion, or a full remodel. The simpler the scope, the faster the install, but plumbing and waterproofing changes add time."
+      }
+    }
+  ],
+  "description": "Start by deciding whether you need a simple swap, a conversion, or a full remodel. The simpler the scope, the faster the install, but plumbing and waterproofing"
 }

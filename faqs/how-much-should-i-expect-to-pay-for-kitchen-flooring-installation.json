@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should I expect to pay for kitchen flooring installation?",
-  "description": "Price depends on material, kitchen size, demolition, and any subfloor repair. Prep work and the product you choose usually create the biggest cost differences.",
   "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-kitchen-flooring-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should I expect to pay for kitchen flooring installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by the flooring material, square footage, demolition, subfloor repairs, and labor complexity. In Denver-area projects, the biggest price swings usually come from prep work and the material you choose, so the cheapest floor upfront is not always the lowest total cost.",
-        "description": "Price depends on material, kitchen size, demolition, and any subfloor repair. Prep work and the product you choose usually create the biggest cost differences."
-      }
-    }
-  ],
+  "name": "How much should I expect to pay for kitchen flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I expect to pay for kitchen flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by the flooring material, square footage, demolition, subfloor repairs, and labor complexity. In Denver-area projects, the biggest price swings usually come from prep work and the material you choose, so the cheapest floor upfront is not always the lowest total cost.",
+        "@type": "Answer",
+        "description": "Price depends on material, kitchen size, demolition, and any subfloor repair. Prep work and the product you choose usually create the biggest cost differences."
+      }
+    }
+  ],
+  "description": "Price depends on material, kitchen size, demolition, and any subfloor repair. Prep work and the product you choose usually create the biggest cost differences."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my project is something HH Remodeling can actually take on?",
-  "description": "If the job is a residential remodel or restoration project and the space is safe to work in, it is usually eligible. The key is whether the scope fits HH Remode",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-project-is-something-hh-remodeling-can-actually-take-on",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my project is something HH Remodeling can actually take on?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most residential remodeling projects become eligible once the home is safe to work in and the scope is clearly defined. For HH Remodeling, that usually means you can move forward whether you need one room repaired or a broader interior update, as long as the work falls within their listed remodeling and restoration categories.",
-        "description": "If the job is a residential remodel or restoration project and the space is safe to work in, it is usually eligible. The key is whether the scope fits HH Remodeling’s listed service categories."
-      }
-    }
-  ],
+  "name": "How do I know if my project is something HH Remodeling can actually take on?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my project is something HH Remodeling can actually take on?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most residential remodeling projects become eligible once the home is safe to work in and the scope is clearly defined. For HH Remodeling, that usually means you can move forward whether you need one room repaired or a broader interior update, as long as the work falls within their listed remodeling and restoration categories.",
+        "@type": "Answer",
+        "description": "If the job is a residential remodel or restoration project and the space is safe to work in, it is usually eligible. The key is whether the scope fits HH Remodeling’s listed service categories."
+      }
+    }
+  ],
+  "description": "If the job is a residential remodel or restoration project and the space is safe to work in, it is usually eligible. The key is whether the scope fits HH Remode"
 }

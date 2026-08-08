@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need layout and hookup coordination, or is that only for full remodels?",
-  "description": "You need coordination whenever appliance locations change or hookups must be moved. Even a small kitchen update can require checking plumbing, electrical, gas,",
   "url": "http://coloradoremodeling.company/faq/do-i-need-layout-and-hookup-coordination-or-is-that-only-for-full-remodels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need layout and hookup coordination, or is that only for full remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A full layout-and-hookup coordination project typically becomes important when you are **moving plumbing, electrical, gas, or venting**. If the appliance locations are changing, someone needs to confirm the sink drain, dishwasher connection, range power or gas line, and hood vent all line up before cabinets go in.",
-        "description": "You need coordination whenever appliance locations change or hookups must be moved. Even a small kitchen update can require checking plumbing, electrical, gas, and venting before installation starts."
-      }
-    }
-  ],
+  "name": "Do I need layout and hookup coordination, or is that only for full remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need layout and hookup coordination, or is that only for full remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full layout-and-hookup coordination project typically becomes important when you are **moving plumbing, electrical, gas, or venting**. If the appliance locations are changing, someone needs to confirm the sink drain, dishwasher connection, range power or gas line, and hood vent all line up before cabinets go in.",
+        "@type": "Answer",
+        "description": "You need coordination whenever appliance locations change or hookups must be moved. Even a small kitchen update can require checking plumbing, electrical, gas, and venting before installation starts."
+      }
+    }
+  ],
+  "description": "You need coordination whenever appliance locations change or hookups must be moved. Even a small kitchen update can require checking plumbing, electrical, gas,"
 }

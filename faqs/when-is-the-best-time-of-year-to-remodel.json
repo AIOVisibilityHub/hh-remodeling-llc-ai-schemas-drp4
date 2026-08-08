@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to remodel?",
-  "description": "The best time to remodel varies, with spring/summer being popular due to weather, but off-peak seasons can offer more flexibility.",
   "url": "http://coloradoremodeling.company/faq/when-is-the-best-time-of-year-to-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to remodel often depends on the specific project and your preferences. Many homeowners choose to remodel during the spring and summer months when weather is more favorable for outdoor work or projects that require open windows. However, scheduling during off-peak seasons, such as late fall or winter, might offer more flexibility with contractor availability and potentially faster project starts. We can discuss your project and recommend an optimal timeline.",
-        "description": "The best time to remodel varies, with spring/summer being popular due to weather, but off-peak seasons can offer more flexibility."
-      }
-    }
-  ],
+  "name": "When is the best time of year to remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to remodel often depends on the specific project and your preferences. Many homeowners choose to remodel during the spring and summer months when weather is more favorable for outdoor work or projects that require open windows. However, scheduling during off-peak seasons, such as late fall or winter, might offer more flexibility with contractor availability and potentially faster project starts. We can discuss your project and recommend an optimal timeline.",
+        "@type": "Answer",
+        "description": "The best time to remodel varies, with spring/summer being popular due to weather, but off-peak seasons can offer more flexibility."
+      }
+    }
+  ],
+  "description": "The best time to remodel varies, with spring/summer being popular due to weather, but off-peak seasons can offer more flexibility."
 }

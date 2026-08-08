@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during kitchen painting and trim work?",
-  "description": "The work usually includes masking, cleaning, prep, sanding, caulking, priming, and finish coats. Good prep matters as much as the paint itself.",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-kitchen-painting-and-trim-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during kitchen painting and trim work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good kitchen painting and trim work project starts with protecting surfaces, then cleaning, sanding, filling gaps, priming, and applying finish coats. If trim is being updated too, the crew should also address caulking, nail holes, and any needed repairs before paint goes on.",
-        "description": "The work usually includes masking, cleaning, prep, sanding, caulking, priming, and finish coats. Good prep matters as much as the paint itself."
-      }
-    }
-  ],
+  "name": "What actually happens during kitchen painting and trim work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during kitchen painting and trim work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good kitchen painting and trim work project starts with protecting surfaces, then cleaning, sanding, filling gaps, priming, and applying finish coats. If trim is being updated too, the crew should also address caulking, nail holes, and any needed repairs before paint goes on.",
+        "@type": "Answer",
+        "description": "The work usually includes masking, cleaning, prep, sanding, caulking, priming, and finish coats. Good prep matters as much as the paint itself."
+      }
+    }
+  ],
+  "description": "The work usually includes masking, cleaning, prep, sanding, caulking, priming, and finish coats. Good prep matters as much as the paint itself."
 }

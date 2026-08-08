@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a general contractor do?",
-  "description": "A general contractor manages and oversees all aspects of a construction or renovation project.",
   "url": "http://coloradoremodeling.company/faq/what-does-a-general-contractor-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a general contractor do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A general contractor manages all aspects of a home renovation or new construction project. This includes planning, hiring subcontractors (like plumbers and electricians), scheduling, material procurement, and overseeing the work to ensure it meets quality standards and stays on schedule and within budget. They act as the central point of contact for the client, simplifying communication and project coordination.",
-        "description": "A general contractor manages and oversees all aspects of a construction or renovation project."
-      }
-    }
-  ],
+  "name": "What does a general contractor do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a general contractor do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages all aspects of a home renovation or new construction project. This includes planning, hiring subcontractors (like plumbers and electricians), scheduling, material procurement, and overseeing the work to ensure it meets quality standards and stays on schedule and within budget. They act as the central point of contact for the client, simplifying communication and project coordination.",
+        "@type": "Answer",
+        "description": "A general contractor manages and oversees all aspects of a construction or renovation project."
+      }
+    }
+  ],
+  "description": "A general contractor manages and oversees all aspects of a construction or renovation project."
 }

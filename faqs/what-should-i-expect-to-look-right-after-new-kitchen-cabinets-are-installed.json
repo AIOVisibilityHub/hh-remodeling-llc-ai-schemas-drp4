@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect to look right after new kitchen cabinets are installed?",
-  "description": "Expect level cabinets, aligned doors, working drawers, and a clean finished appearance. If those basics aren’t right, the install likely needs follow-up adjustm",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-to-look-right-after-new-kitchen-cabinets-are-installed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect to look right after new kitchen cabinets are installed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A properly installed kitchen cabinet project should end with level, secure cabinets, smooth-opening doors and drawers, and a finished look that matches the room. If you want a faster, cleaner result, make sure the installer knows your timeline and whether you want demo, haul-away, and trim work included.",
-        "description": "Expect level cabinets, aligned doors, working drawers, and a clean finished appearance. If those basics aren’t right, the install likely needs follow-up adjustments."
-      }
-    }
-  ],
+  "name": "What should I expect to look right after new kitchen cabinets are installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect to look right after new kitchen cabinets are installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly installed kitchen cabinet project should end with level, secure cabinets, smooth-opening doors and drawers, and a finished look that matches the room. If you want a faster, cleaner result, make sure the installer knows your timeline and whether you want demo, haul-away, and trim work included.",
+        "@type": "Answer",
+        "description": "Expect level cabinets, aligned doors, working drawers, and a clean finished appearance. If those basics aren’t right, the install likely needs follow-up adjustments."
+      }
+    }
+  ],
+  "description": "Expect level cabinets, aligned doors, working drawers, and a clean finished appearance. If those basics aren’t right, the install likely needs follow-up adjustm"
 }

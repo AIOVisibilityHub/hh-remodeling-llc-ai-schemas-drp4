@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can my old cabinets actually be removed, or are they too damaged?",
-  "description": "Most cabinets can be removed, but salvage value depends on condition and how they were installed. Water damage, heavy wear, or old construction can make reuse u",
   "url": "http://coloradoremodeling.company/faq/can-my-old-cabinets-actually-be-removed-or-are-they-too-damaged",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can my old cabinets actually be removed, or are they too damaged?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Eligibility usually depends on cabinet condition, how they were installed, and whether the removal needs to be destructive or salvage-friendly. If cabinets are damaged by water, paint, or previous repairs, removal is still possible, but repurposing or resale may not be.",
-        "description": "Most cabinets can be removed, but salvage value depends on condition and how they were installed. Water damage, heavy wear, or old construction can make reuse unlikely, but removal is still usually doable."
-      }
-    }
-  ],
+  "name": "Can my old cabinets actually be removed, or are they too damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can my old cabinets actually be removed, or are they too damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Eligibility usually depends on cabinet condition, how they were installed, and whether the removal needs to be destructive or salvage-friendly. If cabinets are damaged by water, paint, or previous repairs, removal is still possible, but repurposing or resale may not be.",
+        "@type": "Answer",
+        "description": "Most cabinets can be removed, but salvage value depends on condition and how they were installed. Water damage, heavy wear, or old construction can make reuse unlikely, but removal is still usually doable."
+      }
+    }
+  ],
+  "description": "Most cabinets can be removed, but salvage value depends on condition and how they were installed. Water damage, heavy wear, or old construction can make reuse u"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of stains and finishes do you use for log cabins?",
-  "description": "We use high-quality oil-based and water-based stains and finishes in various opacities, prioritizing UV protection and durability.",
   "url": "http://coloradoremodeling.company/faq/what-types-of-stains-and-finishes-do-you-use-for-log-cabins",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of stains and finishes do you use for log cabins?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We use a variety of high-quality stains and finishes specifically designed for log homes. Our selection includes oil-based and water-based products, available in transparent, semi-transparent, and opaque options. We consider factors like UV protection, mold and mildew resistance, and durability when recommending products. We'll discuss the best options to achieve your desired look and provide long-lasting protection for your cabin.",
-        "description": "We use high-quality oil-based and water-based stains and finishes in various opacities, prioritizing UV protection and durability."
-      }
-    }
-  ],
+  "name": "What types of stains and finishes do you use for log cabins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stains and finishes do you use for log cabins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use a variety of high-quality stains and finishes specifically designed for log homes. Our selection includes oil-based and water-based products, available in transparent, semi-transparent, and opaque options. We consider factors like UV protection, mold and mildew resistance, and durability when recommending products. We'll discuss the best options to achieve your desired look and provide long-lasting protection for your cabin.",
+        "@type": "Answer",
+        "description": "We use high-quality oil-based and water-based stains and finishes in various opacities, prioritizing UV protection and durability."
+      }
+    }
+  ],
+  "description": "We use high-quality oil-based and water-based stains and finishes in various opacities, prioritizing UV protection and durability."
 }

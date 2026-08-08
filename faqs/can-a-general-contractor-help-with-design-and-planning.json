@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a general contractor help with design and planning?",
-  "description": "Many general contractors can assist with design and planning or collaborate with designers.",
   "url": "http://coloradoremodeling.company/faq/can-a-general-contractor-help-with-design-and-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a general contractor help with design and planning?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While a general contractor's primary role is project management and construction oversight, many offer design-build services or collaborate closely with architects and designers. They can provide valuable input on feasibility, material selection, and cost-effective solutions during the planning stages. Discuss your design needs early to see if your chosen contractor offers these services or can recommend suitable professionals.",
-        "description": "Many general contractors can assist with design and planning or collaborate with designers."
-      }
-    }
-  ],
+  "name": "Can a general contractor help with design and planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a general contractor help with design and planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general contractor's primary role is project management and construction oversight, many offer design-build services or collaborate closely with architects and designers. They can provide valuable input on feasibility, material selection, and cost-effective solutions during the planning stages. Discuss your design needs early to see if your chosen contractor offers these services or can recommend suitable professionals.",
+        "@type": "Answer",
+        "description": "Many general contractors can assist with design and planning or collaborate with designers."
+      }
+    }
+  ],
+  "description": "Many general contractors can assist with design and planning or collaborate with designers."
 }

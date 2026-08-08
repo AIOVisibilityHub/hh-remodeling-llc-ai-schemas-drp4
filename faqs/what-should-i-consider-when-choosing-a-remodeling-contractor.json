@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I consider when choosing a remodeling contractor?",
-  "description": "When choosing a contractor, consider experience, licensing, insurance, references, portfolio, and communication style.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-consider-when-choosing-a-remodeling-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider when choosing a remodeling contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a remodeling contractor, consider their experience with projects similar to yours, their licensing and insurance, and their references. It's important to review their portfolio and discuss their communication style and project management approach. Get a detailed written estimate that outlines all costs and timelines. A good contractor will also be transparent about their process and responsive to your questions.",
-        "description": "When choosing a contractor, consider experience, licensing, insurance, references, portfolio, and communication style."
-      }
-    }
-  ],
+  "name": "What should I consider when choosing a remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a remodeling contractor, consider their experience with projects similar to yours, their licensing and insurance, and their references. It's important to review their portfolio and discuss their communication style and project management approach. Get a detailed written estimate that outlines all costs and timelines. A good contractor will also be transparent about their process and responsive to your questions.",
+        "@type": "Answer",
+        "description": "When choosing a contractor, consider experience, licensing, insurance, references, portfolio, and communication style."
+      }
+    }
+  ],
+  "description": "When choosing a contractor, consider experience, licensing, insurance, references, portfolio, and communication style."
 }

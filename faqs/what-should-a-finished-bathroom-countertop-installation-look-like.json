@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a finished bathroom countertop installation look like?",
-  "description": "The finished top should be level, secure, and matched to the sink and faucet openings. Quartz, granite, and marble are common choices for different looks and ma",
   "url": "http://coloradoremodeling.company/faq/what-should-a-finished-bathroom-countertop-installation-look-like",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a finished bathroom countertop installation look like?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good installation should leave you with a level, secure countertop, properly aligned sink and faucet openings, and a clean finish that matches the vanity. In Denver and nearby areas like Centennial, Greenwood Village, Foxfield, and Parker, homeowners often choose quartz, granite, or marble based on durability, maintenance, and look.",
-        "description": "The finished top should be level, secure, and matched to the sink and faucet openings. Quartz, granite, and marble are common choices for different looks and maintenance needs."
-      }
-    }
-  ],
+  "name": "What should a finished bathroom countertop installation look like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a finished bathroom countertop installation look like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good installation should leave you with a level, secure countertop, properly aligned sink and faucet openings, and a clean finish that matches the vanity. In Denver and nearby areas like Centennial, Greenwood Village, Foxfield, and Parker, homeowners often choose quartz, granite, or marble based on durability, maintenance, and look.",
+        "@type": "Answer",
+        "description": "The finished top should be level, secure, and matched to the sink and faucet openings. Quartz, granite, and marble are common choices for different looks and maintenance needs."
+      }
+    }
+  ],
+  "description": "The finished top should be level, secure, and matched to the sink and faucet openings. Quartz, granite, and marble are common choices for different looks and ma"
 }

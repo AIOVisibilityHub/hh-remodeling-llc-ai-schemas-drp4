@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose a kitchen faucet that actually fits my sink?",
-  "description": "Measure the sink first, then match the faucet to the number of holes, spout height, and reach so the setup fits and functions well.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-a-kitchen-faucet-that-actually-fits-my-sink",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose a kitchen faucet that actually fits my sink?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with the **sink size and hole pattern**, then choose a faucet with the right spout height, reach, and mounting style. The goal is a faucet that fits the sink physically and still looks balanced in the room.",
-        "description": "Measure the sink first, then match the faucet to the number of holes, spout height, and reach so the setup fits and functions well."
-      }
-    }
-  ],
+  "name": "How do I choose a kitchen faucet that actually fits my sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a kitchen faucet that actually fits my sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with the **sink size and hole pattern**, then choose a faucet with the right spout height, reach, and mounting style. The goal is a faucet that fits the sink physically and still looks balanced in the room.",
+        "@type": "Answer",
+        "description": "Measure the sink first, then match the faucet to the number of holes, spout height, and reach so the setup fits and functions well."
+      }
+    }
+  ],
+  "description": "Measure the sink first, then match the faucet to the number of holes, spout height, and reach so the setup fits and functions well."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does kitchen cabinet removal work from start to finish?",
-  "description": "Cabinet removal usually means protecting the space, disconnecting anything attached, then taking out doors, drawers, boxes, and trim. If countertops, plumbing,",
   "url": "http://coloradoremodeling.company/faq/how-does-kitchen-cabinet-removal-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does kitchen cabinet removal work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical cabinet removal starts with protecting floors and adjacent finishes, then disconnecting any attached fixtures, followed by detaching doors, drawers, boxes, and trim. If countertops, plumbing, or appliances are involved, those are handled in the right order so the kitchen is left ready for the next phase of work.",
-        "description": "Cabinet removal usually means protecting the space, disconnecting anything attached, then taking out doors, drawers, boxes, and trim. If countertops, plumbing, or appliances are included, they’re removed in sequence so the kitchen is ready for renovation."
-      }
-    }
-  ],
+  "name": "How does kitchen cabinet removal work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does kitchen cabinet removal work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical cabinet removal starts with protecting floors and adjacent finishes, then disconnecting any attached fixtures, followed by detaching doors, drawers, boxes, and trim. If countertops, plumbing, or appliances are involved, those are handled in the right order so the kitchen is left ready for the next phase of work.",
+        "@type": "Answer",
+        "description": "Cabinet removal usually means protecting the space, disconnecting anything attached, then taking out doors, drawers, boxes, and trim. If countertops, plumbing, or appliances are included, they’re removed in sequence so the kitchen is ready for renovation."
+      }
+    }
+  ],
+  "description": "Cabinet removal usually means protecting the space, disconnecting anything attached, then taking out doors, drawers, boxes, and trim. If countertops, plumbing,"
 }

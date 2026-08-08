@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I want new kitchen flooring—what do I need to do first before I call an installer?",
-  "description": "Start by picking a material, measuring the kitchen, and booking an in-home estimate so the installer can check subfloor condition, moisture, and prep work befor",
   "url": "http://coloradoremodeling.company/faq/i-want-new-kitchen-flooring-what-do-i-need-to-do-first-before-i-call-an-installe",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I want new kitchen flooring—what do I need to do first before I call an installer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest way to start is to choose the flooring type, measure the kitchen, and schedule an in-home estimate. An installer can then check the subfloor, moisture conditions, transitions, and any demolition or leveling needed before giving a realistic scope.",
-        "description": "Start by picking a material, measuring the kitchen, and booking an in-home estimate so the installer can check subfloor condition, moisture, and prep work before quoting the job."
-      }
-    }
-  ],
+  "name": "I want new kitchen flooring—what do I need to do first before I call an installer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I want new kitchen flooring—what do I need to do first before I call an installer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest way to start is to choose the flooring type, measure the kitchen, and schedule an in-home estimate. An installer can then check the subfloor, moisture conditions, transitions, and any demolition or leveling needed before giving a realistic scope.",
+        "@type": "Answer",
+        "description": "Start by picking a material, measuring the kitchen, and booking an in-home estimate so the installer can check subfloor condition, moisture, and prep work before quoting the job."
+      }
+    }
+  ],
+  "description": "Start by picking a material, measuring the kitchen, and booking an in-home estimate so the installer can check subfloor condition, moisture, and prep work befor"
 }

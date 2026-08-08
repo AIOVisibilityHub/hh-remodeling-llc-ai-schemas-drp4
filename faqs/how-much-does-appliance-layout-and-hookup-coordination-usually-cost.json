@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does appliance layout and hookup coordination usually cost?",
-  "description": "The cost depends on whether utilities need to move. Basic planning is less expensive, while relocating plumbing, electrical, gas, or venting can raise the total",
   "url": "http://coloradoremodeling.company/faq/how-much-does-appliance-layout-and-hookup-coordination-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does appliance layout and hookup coordination usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary based on how much utility work is involved. Simple coordination is mostly planning, but moving a dishwasher, sink, range, or hood can add labor, materials, and possible trade work, so the real cost is driven by plumbing, electrical, gas, and venting changes.",
-        "description": "The cost depends on whether utilities need to move. Basic planning is less expensive, while relocating plumbing, electrical, gas, or venting can raise the total quickly."
-      }
-    }
-  ],
+  "name": "How much does appliance layout and hookup coordination usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does appliance layout and hookup coordination usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary based on how much utility work is involved. Simple coordination is mostly planning, but moving a dishwasher, sink, range, or hood can add labor, materials, and possible trade work, so the real cost is driven by plumbing, electrical, gas, and venting changes.",
+        "@type": "Answer",
+        "description": "The cost depends on whether utilities need to move. Basic planning is less expensive, while relocating plumbing, electrical, gas, or venting can raise the total quickly."
+      }
+    }
+  ],
+  "description": "The cost depends on whether utilities need to move. Basic planning is less expensive, while relocating plumbing, electrical, gas, or venting can raise the total"
 }

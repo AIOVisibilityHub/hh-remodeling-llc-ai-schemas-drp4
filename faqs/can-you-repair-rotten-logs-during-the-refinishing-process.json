@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you repair rotten logs during the refinishing process?",
-  "description": "Yes, we can repair or replace rotten logs as part of the refinishing process to ensure cabin integrity.",
   "url": "http://coloradoremodeling.company/faq/can-you-repair-rotten-logs-during-the-refinishing-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you repair rotten logs during the refinishing process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, log repair is an integral part of our refinishing services. We assess the extent of rot and can perform repairs ranging from minor patching and sealing to log replacement for severely damaged sections. Addressing rot is crucial before applying new finishes to ensure the structural integrity and longevity of your cabin. Our goal is to seamlessly integrate repairs with the overall refinishing project.",
-        "description": "Yes, we can repair or replace rotten logs as part of the refinishing process to ensure cabin integrity."
-      }
-    }
-  ],
+  "name": "Can you repair rotten logs during the refinishing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair rotten logs during the refinishing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, log repair is an integral part of our refinishing services. We assess the extent of rot and can perform repairs ranging from minor patching and sealing to log replacement for severely damaged sections. Addressing rot is crucial before applying new finishes to ensure the structural integrity and longevity of your cabin. Our goal is to seamlessly integrate repairs with the overall refinishing project.",
+        "@type": "Answer",
+        "description": "Yes, we can repair or replace rotten logs as part of the refinishing process to ensure cabin integrity."
+      }
+    }
+  ],
+  "description": "Yes, we can repair or replace rotten logs as part of the refinishing process to ensure cabin integrity."
 }
