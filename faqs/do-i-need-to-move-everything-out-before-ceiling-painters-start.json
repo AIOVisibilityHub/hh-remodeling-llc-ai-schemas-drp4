@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to move everything out before ceiling painters start?",
-  "description": "You do not always have to empty the room, but moving small items out helps. Furniture, floors, and fixtures should be fully protected either way.",
   "url": "http://coloradoremodeling.company/faq/do-i-need-to-move-everything-out-before-ceiling-painters-start",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to move everything out before ceiling painters start?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—if the room is already furnished, painters usually need to **cover furniture, floors, and fixtures** carefully. In many cases, moving smaller items out of the room helps the job go faster and reduces the chance of drips or overspray.",
-        "description": "You do not always have to empty the room, but moving small items out helps. Furniture, floors, and fixtures should be fully protected either way."
-      }
-    }
-  ],
+  "name": "Do I need to move everything out before ceiling painters start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move everything out before ceiling painters start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—if the room is already furnished, painters usually need to **cover furniture, floors, and fixtures** carefully. In many cases, moving smaller items out of the room helps the job go faster and reduces the chance of drips or overspray.",
+        "@type": "Answer",
+        "description": "You do not always have to empty the room, but moving small items out helps. Furniture, floors, and fixtures should be fully protected either way."
+      }
+    }
+  ],
+  "description": "You do not always have to empty the room, but moving small items out helps. Furniture, floors, and fixtures should be fully protected either way."
 }

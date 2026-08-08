@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of results should I expect from professional marble tile installation?",
-  "description": "A good marble installation should look seamless, feel solid underfoot, and hold its finish with proper care. The tile will last longer if it is sealed and maint",
   "url": "http://coloradoremodeling.company/faq/what-kind-of-results-should-i-expect-from-professional-marble-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of results should I expect from professional marble tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When installed correctly, marble tile creates a high-end finish that can last for years and add strong visual appeal to a room. The best results come from pairing quality material with proper sealing and regular cleaning, especially in bathrooms and kitchens.",
-        "description": "A good marble installation should look seamless, feel solid underfoot, and hold its finish with proper care. The tile will last longer if it is sealed and maintained correctly."
-      }
-    }
-  ],
+  "name": "What kind of results should I expect from professional marble tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of results should I expect from professional marble tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When installed correctly, marble tile creates a high-end finish that can last for years and add strong visual appeal to a room. The best results come from pairing quality material with proper sealing and regular cleaning, especially in bathrooms and kitchens.",
+        "@type": "Answer",
+        "description": "A good marble installation should look seamless, feel solid underfoot, and hold its finish with proper care. The tile will last longer if it is sealed and maintained correctly."
+      }
+    }
+  ],
+  "description": "A good marble installation should look seamless, feel solid underfoot, and hold its finish with proper care. The tile will last longer if it is sealed and maint"
 }

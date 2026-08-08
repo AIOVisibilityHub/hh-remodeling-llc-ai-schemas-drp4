@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in room addition drywall and finish work?",
-  "description": "It usually includes hanging drywall, taping seams, applying joint compound, sanding, and preparing the walls and ceiling for paint or texture.",
   "url": "http://coloradoremodeling.company/faq/what-is-included-in-room-addition-drywall-and-finish-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in room addition drywall and finish work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most room additions need drywall hanging first, then multiple finish steps: taping, mudding, sanding, and often texture matching. A clean finish depends on straight framing, proper fastener placement, and enough drying time between coats.",
-        "description": "It usually includes hanging drywall, taping seams, applying joint compound, sanding, and preparing the walls and ceiling for paint or texture."
-      }
-    }
-  ],
+  "name": "What is included in room addition drywall and finish work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in room addition drywall and finish work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most room additions need drywall hanging first, then multiple finish steps: taping, mudding, sanding, and often texture matching. A clean finish depends on straight framing, proper fastener placement, and enough drying time between coats.",
+        "@type": "Answer",
+        "description": "It usually includes hanging drywall, taping seams, applying joint compound, sanding, and preparing the walls and ceiling for paint or texture."
+      }
+    }
+  ],
+  "description": "It usually includes hanging drywall, taping seams, applying joint compound, sanding, and preparing the walls and ceiling for paint or texture."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I wet sand drywall or dry sand it?",
-  "description": "Wet sanding is good for small touch-ups and less dust, but dry sanding is usually better for larger areas. Keep the sponge damp, not soaked, and avoid damaging",
   "url": "http://coloradoremodeling.company/faq/should-i-wet-sand-drywall-or-dry-sand-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I wet sand drywall or dry sand it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wet sanding can work for small touch-ups and can reduce airborne dust, but it is not always best for large areas or heavily textured repairs. Use a damp sponge lightly, avoid soaking the wall, and stop if the paper face starts to soften or pill.",
-        "description": "Wet sanding is good for small touch-ups and less dust, but dry sanding is usually better for larger areas. Keep the sponge damp, not soaked, and avoid damaging the drywall paper."
-      }
-    }
-  ],
+  "name": "Should I wet sand drywall or dry sand it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I wet sand drywall or dry sand it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet sanding can work for small touch-ups and can reduce airborne dust, but it is not always best for large areas or heavily textured repairs. Use a damp sponge lightly, avoid soaking the wall, and stop if the paper face starts to soften or pill.",
+        "@type": "Answer",
+        "description": "Wet sanding is good for small touch-ups and less dust, but dry sanding is usually better for larger areas. Keep the sponge damp, not soaked, and avoid damaging the drywall paper."
+      }
+    }
+  ],
+  "description": "Wet sanding is good for small touch-ups and less dust, but dry sanding is usually better for larger areas. Keep the sponge damp, not soaked, and avoid damaging"
 }

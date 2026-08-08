@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does marble tile installation cost, and what drives the price up?",
-  "description": "Cost depends on room size, tile grade, prep work, and whether old tile must be removed. Smaller repairs are much cheaper than full installations, and custom lay",
   "url": "http://coloradoremodeling.company/faq/how-much-does-marble-tile-installation-cost-and-what-drives-the-price-up",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does marble tile installation cost, and what drives the price up?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In the Denver area, standard marble installation is often quoted in the low thousands, while full replacements and larger custom projects can cost much more depending on labor, demolition, and material grade. Small repairs are usually much less than full installations, so getting measured pricing is important.",
-        "description": "Cost depends on room size, tile grade, prep work, and whether old tile must be removed. Smaller repairs are much cheaper than full installations, and custom layouts raise labor costs."
-      }
-    }
-  ],
+  "name": "How much does marble tile installation cost, and what drives the price up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does marble tile installation cost, and what drives the price up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver area, standard marble installation is often quoted in the low thousands, while full replacements and larger custom projects can cost much more depending on labor, demolition, and material grade. Small repairs are usually much less than full installations, so getting measured pricing is important.",
+        "@type": "Answer",
+        "description": "Cost depends on room size, tile grade, prep work, and whether old tile must be removed. Smaller repairs are much cheaper than full installations, and custom layouts raise labor costs."
+      }
+    }
+  ],
+  "description": "Cost depends on room size, tile grade, prep work, and whether old tile must be removed. Smaller repairs are much cheaper than full installations, and custom lay"
 }

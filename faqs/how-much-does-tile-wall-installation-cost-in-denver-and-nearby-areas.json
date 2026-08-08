@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does tile wall installation cost in Denver and nearby areas?",
-  "description": "Price depends on tile type, wall size, and prep work. Simple projects cost less, while mosaics, waterproofing, and repairs raise the total.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-tile-wall-installation-cost-in-denver-and-nearby-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does tile wall installation cost in Denver and nearby areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by tile type, wall size, pattern complexity, and prep work. In Denver, wall tile pricing commonly falls in a broad range because simple ceramic installs cost less than mosaics, large-format tile, or jobs that require removal, waterproofing, or wall repair. Ask for an estimate that separates labor, materials, prep, and cleanup so you can compare bids accurately.",
-        "description": "Price depends on tile type, wall size, and prep work. Simple projects cost less, while mosaics, waterproofing, and repairs raise the total."
-      }
-    }
-  ],
+  "name": "How much does tile wall installation cost in Denver and nearby areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tile wall installation cost in Denver and nearby areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by tile type, wall size, pattern complexity, and prep work. In Denver, wall tile pricing commonly falls in a broad range because simple ceramic installs cost less than mosaics, large-format tile, or jobs that require removal, waterproofing, or wall repair. Ask for an estimate that separates labor, materials, prep, and cleanup so you can compare bids accurately.",
+        "@type": "Answer",
+        "description": "Price depends on tile type, wall size, and prep work. Simple projects cost less, while mosaics, waterproofing, and repairs raise the total."
+      }
+    }
+  ],
+  "description": "Price depends on tile type, wall size, and prep work. Simple projects cost less, while mosaics, waterproofing, and repairs raise the total."
 }

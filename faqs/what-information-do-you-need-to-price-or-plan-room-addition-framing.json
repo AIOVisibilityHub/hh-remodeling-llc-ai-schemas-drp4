@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do you need to price or plan room addition framing?",
-  "description": "You usually need drawings, dimensions, roof details, opening locations, and any plumbing, electrical, or HVAC requirements. Site setback and permit requirements",
   "url": "http://coloradoremodeling.company/faq/what-information-do-you-need-to-price-or-plan-room-addition-framing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do you need to price or plan room addition framing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A room addition framing project usually needs clear plans that show the new square footage, wall locations, roof lines, window and door openings, ceiling heights, and how the addition connects to the existing house. If the project involves plumbing, electrical, or HVAC changes, those systems should be coordinated before walls are closed in. In the Denver metro area, local permit rules and site setbacks can also affect the framing layout. The more complete the drawings are, the smoother the build will move.",
-        "description": "You usually need drawings, dimensions, roof details, opening locations, and any plumbing, electrical, or HVAC requirements. Site setback and permit requirements can also affect the framing plan, especially around Denver-area neighborhoods."
-      }
-    }
-  ],
+  "name": "What information do you need to price or plan room addition framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need to price or plan room addition framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition framing project usually needs clear plans that show the new square footage, wall locations, roof lines, window and door openings, ceiling heights, and how the addition connects to the existing house. If the project involves plumbing, electrical, or HVAC changes, those systems should be coordinated before walls are closed in. In the Denver metro area, local permit rules and site setbacks can also affect the framing layout. The more complete the drawings are, the smoother the build will move.",
+        "@type": "Answer",
+        "description": "You usually need drawings, dimensions, roof details, opening locations, and any plumbing, electrical, or HVAC requirements. Site setback and permit requirements can also affect the framing plan, especially around Denver-area neighborhoods."
+      }
+    }
+  ],
+  "description": "You usually need drawings, dimensions, roof details, opening locations, and any plumbing, electrical, or HVAC requirements. Site setback and permit requirements"
 }

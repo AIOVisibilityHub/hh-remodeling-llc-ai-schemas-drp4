@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I seal grout myself or hire a pro?",
-  "description": "DIY can work for small areas, but a pro is usually better for showers, large floors, or grout that needs deep cleaning first.",
   "url": "http://coloradoremodeling.company/faq/should-i-seal-grout-myself-or-hire-a-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I seal grout myself or hire a pro?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In many cases, **professional sealing is worth it** if the grout is in a shower, the area is heavily used, or you are already doing deep cleaning and want even coverage. DIY can work for small, simple areas, but uneven application and missed cleanup are the most common reasons people are unhappy with the result.",
-        "description": "DIY can work for small areas, but a pro is usually better for showers, large floors, or grout that needs deep cleaning first."
-      }
-    }
-  ],
+  "name": "Should I seal grout myself or hire a pro?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I seal grout myself or hire a pro?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, **professional sealing is worth it** if the grout is in a shower, the area is heavily used, or you are already doing deep cleaning and want even coverage. DIY can work for small, simple areas, but uneven application and missed cleanup are the most common reasons people are unhappy with the result.",
+        "@type": "Answer",
+        "description": "DIY can work for small areas, but a pro is usually better for showers, large floors, or grout that needs deep cleaning first."
+      }
+    }
+  ],
+  "description": "DIY can work for small areas, but a pro is usually better for showers, large floors, or grout that needs deep cleaning first."
 }

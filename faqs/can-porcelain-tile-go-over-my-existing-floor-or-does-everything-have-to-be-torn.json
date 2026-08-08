@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can porcelain tile go over my existing floor, or does everything have to be torn out first?",
-  "description": "Sometimes porcelain can go over an existing floor, but only if the surface is stable, flat, and properly prepared. If the base is weak or uneven, removal and re",
   "url": "http://coloradoremodeling.company/faq/can-porcelain-tile-go-over-my-existing-floor-or-does-everything-have-to-be-torn",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can porcelain tile go over my existing floor, or does everything have to be torn out first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Porcelain tile is a strong option for bathrooms, kitchens, laundry rooms, and entryways because it handles moisture and daily wear well. If the tile is being installed over wood framing, concrete, or an older floor, the right underlayment and moisture control become especially important. A good installer should tell you whether your existing floor is suitable before work begins.",
-        "description": "Sometimes porcelain can go over an existing floor, but only if the surface is stable, flat, and properly prepared. If the base is weak or uneven, removal and rebuild may be the safer option."
-      }
-    }
-  ],
+  "name": "Can porcelain tile go over my existing floor, or does everything have to be torn out first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can porcelain tile go over my existing floor, or does everything have to be torn out first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is a strong option for bathrooms, kitchens, laundry rooms, and entryways because it handles moisture and daily wear well. If the tile is being installed over wood framing, concrete, or an older floor, the right underlayment and moisture control become especially important. A good installer should tell you whether your existing floor is suitable before work begins.",
+        "@type": "Answer",
+        "description": "Sometimes porcelain can go over an existing floor, but only if the surface is stable, flat, and properly prepared. If the base is weak or uneven, removal and rebuild may be the safer option."
+      }
+    }
+  ],
+  "description": "Sometimes porcelain can go over an existing floor, but only if the surface is stable, flat, and properly prepared. If the base is weak or uneven, removal and re"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a whole-house interior renovation cost in Denver?",
-  "description": "Costs vary widely, but whole-house interior renovations in the Denver area can run from major five figures into the hundreds of thousands depending on scope and",
   "url": "http://coloradoremodeling.company/faq/how-much-does-a-whole-house-interior-renovation-cost-in-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a whole-house interior renovation cost in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on square footage, finish level, and how much of the home is being reworked. For Denver-area whole-home projects, published guidance shows very wide ranges, with comprehensive renovations often starting in the hundreds of thousands when multiple rooms, systems, and higher-end finishes are involved. The biggest budget drivers are kitchen and bath scope, flooring, trim, cabinetry, electrical/plumbing updates, and hidden repairs found after demolition. The best way to protect value is to get a detailed written scope before work begins.",
-        "description": "Costs vary widely, but whole-house interior renovations in the Denver area can run from major five figures into the hundreds of thousands depending on scope and finishes. Kitchens, baths, flooring, and system updates drive most of the budget."
-      }
-    }
-  ],
+  "name": "How much does a whole-house interior renovation cost in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a whole-house interior renovation cost in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on square footage, finish level, and how much of the home is being reworked. For Denver-area whole-home projects, published guidance shows very wide ranges, with comprehensive renovations often starting in the hundreds of thousands when multiple rooms, systems, and higher-end finishes are involved. The biggest budget drivers are kitchen and bath scope, flooring, trim, cabinetry, electrical/plumbing updates, and hidden repairs found after demolition. The best way to protect value is to get a detailed written scope before work begins.",
+        "@type": "Answer",
+        "description": "Costs vary widely, but whole-house interior renovations in the Denver area can run from major five figures into the hundreds of thousands depending on scope and finishes. Kitchens, baths, flooring, and system updates drive most of the budget."
+      }
+    }
+  ],
+  "description": "Costs vary widely, but whole-house interior renovations in the Denver area can run from major five figures into the hundreds of thousands depending on scope and"
 }

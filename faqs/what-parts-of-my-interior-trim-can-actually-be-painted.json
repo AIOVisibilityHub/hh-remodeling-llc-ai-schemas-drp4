@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What parts of my interior trim can actually be painted?",
-  "description": "Baseboards, door frames, window trim, crown molding, chair rails, and interior doors can all be painted. Start by listing the exact trim pieces you want refresh",
   "url": "http://coloradoremodeling.company/faq/what-parts-of-my-interior-trim-can-actually-be-painted",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What parts of my interior trim can actually be painted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners ask for trim painting when they want **baseboards, door casings, window trim, crown molding, or doors** to look crisp and finished. For this business’s service area, a good first step is to identify which trim pieces need repainting and whether you want just touch-ups or a full refresh. Clean, smooth trim painting usually depends on preparation as much as the paint itself.",
-        "description": "Baseboards, door frames, window trim, crown molding, chair rails, and interior doors can all be painted. Start by listing the exact trim pieces you want refreshed so the scope is clear."
-      }
-    }
-  ],
+  "name": "What parts of my interior trim can actually be painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What parts of my interior trim can actually be painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners ask for trim painting when they want **baseboards, door casings, window trim, crown molding, or doors** to look crisp and finished. For this business’s service area, a good first step is to identify which trim pieces need repainting and whether you want just touch-ups or a full refresh. Clean, smooth trim painting usually depends on preparation as much as the paint itself.",
+        "@type": "Answer",
+        "description": "Baseboards, door frames, window trim, crown molding, chair rails, and interior doors can all be painted. Start by listing the exact trim pieces you want refreshed so the scope is clear."
+      }
+    }
+  ],
+  "description": "Baseboards, door frames, window trim, crown molding, chair rails, and interior doors can all be painted. Start by listing the exact trim pieces you want refresh"
 }

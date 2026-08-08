@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What prep should be done before interior wall painting?",
-  "description": "Proper prep usually includes cleaning, patching holes, caulking gaps, sanding rough spots, and priming repaired areas before finish coats.",
   "url": "http://coloradoremodeling.company/faq/what-prep-should-be-done-before-interior-wall-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What prep should be done before interior wall painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small wall repairs, sanding, caulking, and priming usually come before any finish coats. For a good result, the surface should be clean, dry, and patched so the paint can bond evenly.",
-        "description": "Proper prep usually includes cleaning, patching holes, caulking gaps, sanding rough spots, and priming repaired areas before finish coats."
-      }
-    }
-  ],
+  "name": "What prep should be done before interior wall painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What prep should be done before interior wall painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small wall repairs, sanding, caulking, and priming usually come before any finish coats. For a good result, the surface should be clean, dry, and patched so the paint can bond evenly.",
+        "@type": "Answer",
+        "description": "Proper prep usually includes cleaning, patching holes, caulking gaps, sanding rough spots, and priming repaired areas before finish coats."
+      }
+    }
+  ],
+  "description": "Proper prep usually includes cleaning, patching holes, caulking gaps, sanding rough spots, and priming repaired areas before finish coats."
 }

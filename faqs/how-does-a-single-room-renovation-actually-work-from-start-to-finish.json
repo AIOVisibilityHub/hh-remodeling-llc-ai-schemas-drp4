@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a single-room renovation actually work from start to finish?",
-  "description": "Most projects follow consultation, site review, planning, estimate, material selection, construction, and final walkthrough. Bigger changes may also need permit",
   "url": "http://coloradoremodeling.company/faq/how-does-a-single-room-renovation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a single-room renovation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually moves from consultation to site review, then planning, estimating, material selection, and construction. For more complex rooms, the plan may also include permit coordination and final walkthroughs so the project stays organized and the finished room matches the agreed scope.",
-        "description": "Most projects follow consultation, site review, planning, estimate, material selection, construction, and final walkthrough. Bigger changes may also need permit coordination."
-      }
-    }
-  ],
+  "name": "How does a single-room renovation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a single-room renovation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually moves from consultation to site review, then planning, estimating, material selection, and construction. For more complex rooms, the plan may also include permit coordination and final walkthroughs so the project stays organized and the finished room matches the agreed scope.",
+        "@type": "Answer",
+        "description": "Most projects follow consultation, site review, planning, estimate, material selection, construction, and final walkthrough. Bigger changes may also need permit coordination."
+      }
+    }
+  ],
+  "description": "Most projects follow consultation, site review, planning, estimate, material selection, construction, and final walkthrough. Bigger changes may also need permit"
 }

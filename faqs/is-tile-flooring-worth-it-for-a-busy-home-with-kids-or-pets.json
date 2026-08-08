@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is tile flooring worth it for a busy home with kids or pets?",
-  "description": "Yes, tile can be a strong choice for busy homes because it is durable and easy to clean. It works especially well in high-traffic rooms like kitchens, baths, an",
   "url": "http://coloradoremodeling.company/faq/is-tile-flooring-worth-it-for-a-busy-home-with-kids-or-pets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is tile flooring worth it for a busy home with kids or pets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-installed tile floor should be durable, easy to clean, and suitable for kitchens, baths, entryways, and other high-traffic areas. If you want a floor that handles heavy use and is not prone to scratches like some softer materials, tile is often a strong choice.",
-        "description": "Yes, tile can be a strong choice for busy homes because it is durable and easy to clean. It works especially well in high-traffic rooms like kitchens, baths, and entryways."
-      }
-    }
-  ],
+  "name": "Is tile flooring worth it for a busy home with kids or pets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is tile flooring worth it for a busy home with kids or pets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-installed tile floor should be durable, easy to clean, and suitable for kitchens, baths, entryways, and other high-traffic areas. If you want a floor that handles heavy use and is not prone to scratches like some softer materials, tile is often a strong choice.",
+        "@type": "Answer",
+        "description": "Yes, tile can be a strong choice for busy homes because it is durable and easy to clean. It works especially well in high-traffic rooms like kitchens, baths, and entryways."
+      }
+    }
+  ],
+  "description": "Yes, tile can be a strong choice for busy homes because it is durable and easy to clean. It works especially well in high-traffic rooms like kitchens, baths, an"
 }

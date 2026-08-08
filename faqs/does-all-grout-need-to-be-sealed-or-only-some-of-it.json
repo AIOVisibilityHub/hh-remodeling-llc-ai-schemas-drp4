@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does all grout need to be sealed, or only some of it?",
-  "description": "Most cement-based grout should be sealed. Epoxy grout usually does not need sealing, but porous grout in kitchens, baths, and showers often does.",
   "url": "http://coloradoremodeling.company/faq/does-all-grout-need-to-be-sealed-or-only-some-of-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does all grout need to be sealed, or only some of it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, **most cement grout should be sealed** because it is porous and can absorb stains, moisture, and dirt. Existing grout should also be sealed if it has never been sealed, if the old sealer has worn off, or if a recent deep cleaning removed residue and exposed the grout again.",
-        "description": "Most cement-based grout should be sealed. Epoxy grout usually does not need sealing, but porous grout in kitchens, baths, and showers often does."
-      }
-    }
-  ],
+  "name": "Does all grout need to be sealed, or only some of it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does all grout need to be sealed, or only some of it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, **most cement grout should be sealed** because it is porous and can absorb stains, moisture, and dirt. Existing grout should also be sealed if it has never been sealed, if the old sealer has worn off, or if a recent deep cleaning removed residue and exposed the grout again.",
+        "@type": "Answer",
+        "description": "Most cement-based grout should be sealed. Epoxy grout usually does not need sealing, but porous grout in kitchens, baths, and showers often does."
+      }
+    }
+  ],
+  "description": "Most cement-based grout should be sealed. Epoxy grout usually does not need sealing, but porous grout in kitchens, baths, and showers often does."
 }

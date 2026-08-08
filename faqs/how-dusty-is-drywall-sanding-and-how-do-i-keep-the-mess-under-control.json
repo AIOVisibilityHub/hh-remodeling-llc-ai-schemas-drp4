@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How dusty is drywall sanding, and how do I keep the mess under control?",
-  "description": "Drywall sanding is very dusty, so protection matters. Cover surfaces, seal openings, and use dust collection if available to reduce spread and cleanup.",
   "url": "http://coloradoremodeling.company/faq/how-dusty-is-drywall-sanding-and-how-do-i-keep-the-mess-under-control",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How dusty is drywall sanding, and how do I keep the mess under control?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, drywall sanding creates fine dust, so dust control is one of the biggest concerns. Cover floors and furniture, seal nearby openings, and use sanding tools with dust collection when possible to reduce cleanup and protect the rest of the home.",
-        "description": "Drywall sanding is very dusty, so protection matters. Cover surfaces, seal openings, and use dust collection if available to reduce spread and cleanup."
-      }
-    }
-  ],
+  "name": "How dusty is drywall sanding, and how do I keep the mess under control?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How dusty is drywall sanding, and how do I keep the mess under control?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, drywall sanding creates fine dust, so dust control is one of the biggest concerns. Cover floors and furniture, seal nearby openings, and use sanding tools with dust collection when possible to reduce cleanup and protect the rest of the home.",
+        "@type": "Answer",
+        "description": "Drywall sanding is very dusty, so protection matters. Cover surfaces, seal openings, and use dust collection if available to reduce spread and cleanup."
+      }
+    }
+  ],
+  "description": "Drywall sanding is very dusty, so protection matters. Cover surfaces, seal openings, and use dust collection if available to reduce spread and cleanup."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I bring in plumbing coordination on a remodel?",
-  "description": "Bring it in early, before rough-in and ideally before demolition is finished. Early coordination helps catch fixture, layout, and access issues before they beco",
   "url": "http://coloradoremodeling.company/faq/when-should-i-bring-in-plumbing-coordination-on-a-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I bring in plumbing coordination on a remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to involve plumbing coordination is before demolition ends and well before rough-in work starts. That gives the team time to verify fixture specs, confirm pipe routes, identify valve requirements, and make sure cabinets or countertops won’t block access later.",
-        "description": "Bring it in early, before rough-in and ideally before demolition is finished. Early coordination helps catch fixture, layout, and access issues before they become expensive changes."
-      }
-    }
-  ],
+  "name": "When should I bring in plumbing coordination on a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I bring in plumbing coordination on a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to involve plumbing coordination is before demolition ends and well before rough-in work starts. That gives the team time to verify fixture specs, confirm pipe routes, identify valve requirements, and make sure cabinets or countertops won’t block access later.",
+        "@type": "Answer",
+        "description": "Bring it in early, before rough-in and ideally before demolition is finished. Early coordination helps catch fixture, layout, and access issues before they become expensive changes."
+      }
+    }
+  ],
+  "description": "Bring it in early, before rough-in and ideally before demolition is finished. Early coordination helps catch fixture, layout, and access issues before they beco"
 }

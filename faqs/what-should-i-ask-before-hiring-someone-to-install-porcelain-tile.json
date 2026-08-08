@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I ask before hiring someone to install porcelain tile?",
-  "description": "Ask about prep, timeline, what’s included, cleanup, and experience with porcelain or large-format tile. Clear answers now usually mean fewer surprises later.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-ask-before-hiring-someone-to-install-porcelain-tile",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I ask before hiring someone to install porcelain tile?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for clear answers about prep, timing, what is included in the quote, and how the installer handles dust, protection, and cleanup. It also helps to ask for examples of similar projects and whether the crew has experience with porcelain, large-format tile, and the type of room you’re renovating. The best installers explain the process before work starts, not after problems show up.",
-        "description": "Ask about prep, timeline, what’s included, cleanup, and experience with porcelain or large-format tile. Clear answers now usually mean fewer surprises later."
-      }
-    }
-  ],
+  "name": "What should I ask before hiring someone to install porcelain tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask before hiring someone to install porcelain tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for clear answers about prep, timing, what is included in the quote, and how the installer handles dust, protection, and cleanup. It also helps to ask for examples of similar projects and whether the crew has experience with porcelain, large-format tile, and the type of room you’re renovating. The best installers explain the process before work starts, not after problems show up.",
+        "@type": "Answer",
+        "description": "Ask about prep, timeline, what’s included, cleanup, and experience with porcelain or large-format tile. Clear answers now usually mean fewer surprises later."
+      }
+    }
+  ],
+  "description": "Ask about prep, timeline, what’s included, cleanup, and experience with porcelain or large-format tile. Clear answers now usually mean fewer surprises later."
 }

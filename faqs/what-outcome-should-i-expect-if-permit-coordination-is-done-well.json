@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What outcome should I expect if permit coordination is done well?",
-  "description": "You should expect fewer delays, smoother inspections, and less back-and-forth with the city. Good coordination keeps the permit, review, and inspection steps al",
   "url": "http://coloradoremodeling.company/faq/what-outcome-should-i-expect-if-permit-coordination-is-done-well",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What outcome should I expect if permit coordination is done well?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good coordination usually means fewer interruptions, clearer inspection timing, and less chance of rework after review comments. In Denver, users can check permit status, inspection results, and even the inspector ETA through the city system, which helps projects stay organized.",
-        "description": "You should expect fewer delays, smoother inspections, and less back-and-forth with the city. Good coordination keeps the permit, review, and inspection steps aligned."
-      }
-    }
-  ],
+  "name": "What outcome should I expect if permit coordination is done well?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What outcome should I expect if permit coordination is done well?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good coordination usually means fewer interruptions, clearer inspection timing, and less chance of rework after review comments. In Denver, users can check permit status, inspection results, and even the inspector ETA through the city system, which helps projects stay organized.",
+        "@type": "Answer",
+        "description": "You should expect fewer delays, smoother inspections, and less back-and-forth with the city. Good coordination keeps the permit, review, and inspection steps aligned."
+      }
+    }
+  ],
+  "description": "You should expect fewer delays, smoother inspections, and less back-and-forth with the city. Good coordination keeps the permit, review, and inspection steps al"
 }

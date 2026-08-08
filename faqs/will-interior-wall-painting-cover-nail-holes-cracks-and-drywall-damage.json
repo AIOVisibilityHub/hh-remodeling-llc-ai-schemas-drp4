@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will interior wall painting cover nail holes, cracks, and drywall damage?",
-  "description": "Minor holes and small cracks should be patched before painting; otherwise, they can still show after the paint dries.",
   "url": "http://coloradoremodeling.company/faq/will-interior-wall-painting-cover-nail-holes-cracks-and-drywall-damage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will interior wall painting cover nail holes, cracks, and drywall damage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, patching nail holes, dents, hairline cracks, and minor drywall flaws before painting is standard practice. If those issues are left uncorrected, they often show through even after fresh paint is applied.",
-        "description": "Minor holes and small cracks should be patched before painting; otherwise, they can still show after the paint dries."
-      }
-    }
-  ],
+  "name": "Will interior wall painting cover nail holes, cracks, and drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will interior wall painting cover nail holes, cracks, and drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, patching nail holes, dents, hairline cracks, and minor drywall flaws before painting is standard practice. If those issues are left uncorrected, they often show through even after fresh paint is applied.",
+        "@type": "Answer",
+        "description": "Minor holes and small cracks should be patched before painting; otherwise, they can still show after the paint dries."
+      }
+    }
+  ],
+  "description": "Minor holes and small cracks should be patched before painting; otherwise, they can still show after the paint dries."
 }

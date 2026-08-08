@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with a drywall patch?",
-  "description": "Common problems are hidden moisture, recurring cracks, and visible seams from poor texture or paint matching.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-drywall-patch",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with a drywall patch?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are covering up active moisture damage, trapping a crack that keeps moving, or making the patch visible because the texture or paint does not match. If the wall feels soft, shows water staining, or has repeated cracking, the cause should be fixed before the patch.",
-        "description": "Common problems are hidden moisture, recurring cracks, and visible seams from poor texture or paint matching."
-      }
-    }
-  ],
+  "name": "What can go wrong with a drywall patch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a drywall patch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are covering up active moisture damage, trapping a crack that keeps moving, or making the patch visible because the texture or paint does not match. If the wall feels soft, shows water staining, or has repeated cracking, the cause should be fixed before the patch.",
+        "@type": "Answer",
+        "description": "Common problems are hidden moisture, recurring cracks, and visible seams from poor texture or paint matching."
+      }
+    }
+  ],
+  "description": "Common problems are hidden moisture, recurring cracks, and visible seams from poor texture or paint matching."
 }

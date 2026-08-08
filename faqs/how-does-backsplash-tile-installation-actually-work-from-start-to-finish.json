@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does backsplash tile installation actually work from start to finish?",
-  "description": "It usually goes measure, prep, set tile, grout, then clean up. Outlet cuts and wall repairs are often part of the job if needed.",
   "url": "http://coloradoremodeling.company/faq/how-does-backsplash-tile-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does backsplash tile installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually includes measuring, surface prep, tile layout, cutting around outlets and edges, setting the tile, grouting, and cleanup. In the Denver metro, local installers often also handle minor drywall repair during prep when the wall needs it.",
-        "description": "It usually goes measure, prep, set tile, grout, then clean up. Outlet cuts and wall repairs are often part of the job if needed."
-      }
-    }
-  ],
+  "name": "How does backsplash tile installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does backsplash tile installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually includes measuring, surface prep, tile layout, cutting around outlets and edges, setting the tile, grouting, and cleanup. In the Denver metro, local installers often also handle minor drywall repair during prep when the wall needs it.",
+        "@type": "Answer",
+        "description": "It usually goes measure, prep, set tile, grout, then clean up. Outlet cuts and wall repairs are often part of the job if needed."
+      }
+    }
+  ],
+  "description": "It usually goes measure, prep, set tile, grout, then clean up. Outlet cuts and wall repairs are often part of the job if needed."
 }

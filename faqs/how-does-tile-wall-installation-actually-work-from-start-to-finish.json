@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does tile wall installation actually work from start to finish?",
-  "description": "A typical tile wall job includes prep, layout, setting the tile, grouting, and cleanup. Good layout and surface prep are just as important as the tile itself.",
   "url": "http://coloradoremodeling.company/faq/how-does-tile-wall-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does tile wall installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually includes surface preparation, layout and marking, setting the tile with adhesive or thinset, spacing, grouting, and cleanup. For tile wall installation, the layout step matters a lot because it determines whether cuts are hidden at the edges and whether the finished pattern looks balanced. In more complex projects, the installer may also remove old tile or repair the wall first.",
-        "description": "A typical tile wall job includes prep, layout, setting the tile, grouting, and cleanup. Good layout and surface prep are just as important as the tile itself."
-      }
-    }
-  ],
+  "name": "How does tile wall installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does tile wall installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually includes surface preparation, layout and marking, setting the tile with adhesive or thinset, spacing, grouting, and cleanup. For tile wall installation, the layout step matters a lot because it determines whether cuts are hidden at the edges and whether the finished pattern looks balanced. In more complex projects, the installer may also remove old tile or repair the wall first.",
+        "@type": "Answer",
+        "description": "A typical tile wall job includes prep, layout, setting the tile, grouting, and cleanup. Good layout and surface prep are just as important as the tile itself."
+      }
+    }
+  ],
+  "description": "A typical tile wall job includes prep, layout, setting the tile, grouting, and cleanup. Good layout and surface prep are just as important as the tile itself."
 }

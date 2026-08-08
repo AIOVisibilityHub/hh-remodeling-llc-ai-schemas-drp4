@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first before tile wall installation?",
-  "description": "Check that the wall is flat, dry, and solid before tile goes on. Any damage, moisture, or uneven spots should be fixed first so the tile bonds properly and last",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-tile-wall-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first before tile wall installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by checking whether the wall is flat, dry, and structurally sound. For tile wall installation, the biggest issues are hidden moisture, loose drywall, and uneven surfaces, so a good installer will inspect the area before giving a final plan. In the Denver metro area, that first step also helps confirm whether you need prep work, waterproofing, or tile removal before new tile goes up.",
-        "description": "Check that the wall is flat, dry, and solid before tile goes on. Any damage, moisture, or uneven spots should be fixed first so the tile bonds properly and lasts."
-      }
-    }
-  ],
+  "name": "What should I do first before tile wall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before tile wall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by checking whether the wall is flat, dry, and structurally sound. For tile wall installation, the biggest issues are hidden moisture, loose drywall, and uneven surfaces, so a good installer will inspect the area before giving a final plan. In the Denver metro area, that first step also helps confirm whether you need prep work, waterproofing, or tile removal before new tile goes up.",
+        "@type": "Answer",
+        "description": "Check that the wall is flat, dry, and solid before tile goes on. Any damage, moisture, or uneven spots should be fixed first so the tile bonds properly and lasts."
+      }
+    }
+  ],
+  "description": "Check that the wall is flat, dry, and solid before tile goes on. Any damage, moisture, or uneven spots should be fixed first so the tile bonds properly and last"
 }

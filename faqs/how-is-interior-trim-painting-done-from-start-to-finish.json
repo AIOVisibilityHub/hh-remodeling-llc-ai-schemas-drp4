@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is interior trim painting done from start to finish?",
-  "description": "The usual process is prep, sanding, caulking, priming, and finish coats. Good trim work is mostly about careful preparation and clean application.",
   "url": "http://coloradoremodeling.company/faq/how-is-interior-trim-painting-done-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is interior trim painting done from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A proper trim painting project usually starts with protecting floors and walls, then cleaning, sanding, filling defects, caulking gaps, priming where needed, and applying finish coats. Trim is often painted with a brush, though doors and some trim may be sprayed for a smoother look when the space allows. Detailed prep is what separates a sharp finish from a rushed one.",
-        "description": "The usual process is prep, sanding, caulking, priming, and finish coats. Good trim work is mostly about careful preparation and clean application."
-      }
-    }
-  ],
+  "name": "How is interior trim painting done from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is interior trim painting done from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A proper trim painting project usually starts with protecting floors and walls, then cleaning, sanding, filling defects, caulking gaps, priming where needed, and applying finish coats. Trim is often painted with a brush, though doors and some trim may be sprayed for a smoother look when the space allows. Detailed prep is what separates a sharp finish from a rushed one.",
+        "@type": "Answer",
+        "description": "The usual process is prep, sanding, caulking, priming, and finish coats. Good trim work is mostly about careful preparation and clean application."
+      }
+    }
+  ],
+  "description": "The usual process is prep, sanding, caulking, priming, and finish coats. Good trim work is mostly about careful preparation and clean application."
 }

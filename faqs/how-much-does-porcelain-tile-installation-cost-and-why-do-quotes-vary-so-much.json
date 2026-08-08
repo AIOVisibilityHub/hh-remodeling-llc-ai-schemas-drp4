@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does porcelain tile installation cost, and why do quotes vary so much?",
-  "description": "Cost usually depends on square footage, prep work, and whether old flooring has to be removed. Get a quote that breaks out materials, labor, and surface prep so",
   "url": "http://coloradoremodeling.company/faq/how-much-does-porcelain-tile-installation-cost-and-why-do-quotes-vary-so-much",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does porcelain tile installation cost, and why do quotes vary so much?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pricing depends on the tile itself, the room size, demolition if needed, and how much prep the subfloor needs. In the Denver area, porcelain tile installation is commonly priced by square foot, and small jobs may carry a minimum project charge. The best quote is one that clearly separates tile cost, labor, prep, removal, and finishing so you can compare apples to apples.",
-        "description": "Cost usually depends on square footage, prep work, and whether old flooring has to be removed. Get a quote that breaks out materials, labor, and surface prep so you can compare it fairly."
-      }
-    }
-  ],
+  "name": "How much does porcelain tile installation cost, and why do quotes vary so much?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does porcelain tile installation cost, and why do quotes vary so much?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing depends on the tile itself, the room size, demolition if needed, and how much prep the subfloor needs. In the Denver area, porcelain tile installation is commonly priced by square foot, and small jobs may carry a minimum project charge. The best quote is one that clearly separates tile cost, labor, prep, removal, and finishing so you can compare apples to apples.",
+        "@type": "Answer",
+        "description": "Cost usually depends on square footage, prep work, and whether old flooring has to be removed. Get a quote that breaks out materials, labor, and surface prep so you can compare it fairly."
+      }
+    }
+  ],
+  "description": "Cost usually depends on square footage, prep work, and whether old flooring has to be removed. Get a quote that breaks out materials, labor, and surface prep so"
 }

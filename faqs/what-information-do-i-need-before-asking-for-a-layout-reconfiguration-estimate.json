@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before asking for a layout reconfiguration estimate?",
-  "description": "Bring measurements, photos, your existing floor plan if you have it, and a list of what is not working.",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-asking-for-a-layout-reconfiguration-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before asking for a layout reconfiguration estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The strongest evidence is your current floor plan, measurements, photos, and a clear list of pain points. If walls may move, a review of structural constraints and any existing plans or prior permit records helps determine what is realistic and what must stay in place.",
-        "description": "Bring measurements, photos, your existing floor plan if you have it, and a list of what is not working."
-      }
-    }
-  ],
+  "name": "What information do I need before asking for a layout reconfiguration estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before asking for a layout reconfiguration estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The strongest evidence is your current floor plan, measurements, photos, and a clear list of pain points. If walls may move, a review of structural constraints and any existing plans or prior permit records helps determine what is realistic and what must stay in place.",
+        "@type": "Answer",
+        "description": "Bring measurements, photos, your existing floor plan if you have it, and a list of what is not working."
+      }
+    }
+  ],
+  "description": "Bring measurements, photos, your existing floor plan if you have it, and a list of what is not working."
 }

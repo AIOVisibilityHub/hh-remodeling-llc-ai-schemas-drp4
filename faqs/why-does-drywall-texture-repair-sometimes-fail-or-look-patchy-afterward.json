@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why does drywall texture repair sometimes fail or look patchy afterward?",
-  "description": "Texture repairs fail when the base damage, moisture issue, or prep work is missed, so the patch shows through later.",
   "url": "http://coloradoremodeling.company/faq/why-does-drywall-texture-repair-sometimes-fail-or-look-patchy-afterward",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why does drywall texture repair sometimes fail or look patchy afterward?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is fixing the texture without fixing the cause, which can lead to visible seams, repeat cracking, or stains coming back through the finish. Poor dust control, weak patching, and mismatched primer or paint can also make a repair stand out. A careful contractor should inspect the drywall, not just spray texture over the damaged spot.",
-        "description": "Texture repairs fail when the base damage, moisture issue, or prep work is missed, so the patch shows through later."
-      }
-    }
-  ],
+  "name": "Why does drywall texture repair sometimes fail or look patchy afterward?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why does drywall texture repair sometimes fail or look patchy afterward?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is fixing the texture without fixing the cause, which can lead to visible seams, repeat cracking, or stains coming back through the finish. Poor dust control, weak patching, and mismatched primer or paint can also make a repair stand out. A careful contractor should inspect the drywall, not just spray texture over the damaged spot.",
+        "@type": "Answer",
+        "description": "Texture repairs fail when the base damage, moisture issue, or prep work is missed, so the patch shows through later."
+      }
+    }
+  ],
+  "description": "Texture repairs fail when the base damage, moisture issue, or prep work is missed, so the patch shows through later."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does porcelain tile installation usually take from start to finish?",
-  "description": "Most porcelain tile installs take a few days, plus cure time between steps. Bigger rooms or complex layouts take longer because prep, setting, grouting, and dry",
   "url": "http://coloradoremodeling.company/faq/how-long-does-porcelain-tile-installation-usually-take-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does porcelain tile installation usually take from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical porcelain tile job often takes a few days, plus drying time between stages. Smaller spaces can move quickly, but larger rooms, pattern layouts, and bathroom work usually take longer because the installer may need to prep the surface, set the tile, wait for mortar to cure, then grout and seal as needed. In Denver-area homes, temperature swings and moisture conditions can also affect timing.",
-        "description": "Most porcelain tile installs take a few days, plus cure time between steps. Bigger rooms or complex layouts take longer because prep, setting, grouting, and drying can’t be rushed."
-      }
-    }
-  ],
+  "name": "How long does porcelain tile installation usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does porcelain tile installation usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical porcelain tile job often takes a few days, plus drying time between stages. Smaller spaces can move quickly, but larger rooms, pattern layouts, and bathroom work usually take longer because the installer may need to prep the surface, set the tile, wait for mortar to cure, then grout and seal as needed. In Denver-area homes, temperature swings and moisture conditions can also affect timing.",
+        "@type": "Answer",
+        "description": "Most porcelain tile installs take a few days, plus cure time between steps. Bigger rooms or complex layouts take longer because prep, setting, grouting, and drying can’t be rushed."
+      }
+    }
+  ],
+  "description": "Most porcelain tile installs take a few days, plus cure time between steps. Bigger rooms or complex layouts take longer because prep, setting, grouting, and dry"
 }

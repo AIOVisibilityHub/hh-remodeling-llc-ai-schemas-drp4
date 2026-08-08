@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during a multi-room interior remodel?",
-  "description": "Hidden damage, material delays, and scope changes are the most common problems. A contingency budget and a clear written scope reduce surprises.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-a-multi-room-interior-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during a multi-room interior remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, multi-room renovations often uncover issues that weren’t visible at the start, such as electrical updates, hidden damage, or layout conflicts between rooms. The main risks are scope creep, delays from material selections, and changes that happen after construction begins, so a contingency budget and a clear plan help.",
-        "description": "Hidden damage, material delays, and scope changes are the most common problems. A contingency budget and a clear written scope reduce surprises."
-      }
-    }
-  ],
+  "name": "What can go wrong during a multi-room interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a multi-room interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, multi-room renovations often uncover issues that weren’t visible at the start, such as electrical updates, hidden damage, or layout conflicts between rooms. The main risks are scope creep, delays from material selections, and changes that happen after construction begins, so a contingency budget and a clear plan help.",
+        "@type": "Answer",
+        "description": "Hidden damage, material delays, and scope changes are the most common problems. A contingency budget and a clear written scope reduce surprises."
+      }
+    }
+  ],
+  "description": "Hidden damage, material delays, and scope changes are the most common problems. A contingency budget and a clear written scope reduce surprises."
 }

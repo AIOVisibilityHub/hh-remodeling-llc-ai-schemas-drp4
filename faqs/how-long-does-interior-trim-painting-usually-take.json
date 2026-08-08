@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does interior trim painting usually take?",
-  "description": "A small trim project may take a day or less, while full-home trim painting can take several days. Prep and drying time are often the biggest factors.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-interior-trim-painting-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does interior trim painting usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on how much trim is in the home, how much prep is needed, and whether doors or cabinetry are included too. A single room can move quickly, while whole-home trim painting takes longer because each piece needs detailed prep and drying time between coats. If you need the work done before guests, listing your deadline early helps the schedule stay realistic.",
-        "description": "A small trim project may take a day or less, while full-home trim painting can take several days. Prep and drying time are often the biggest factors."
-      }
-    }
-  ],
+  "name": "How long does interior trim painting usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior trim painting usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on how much trim is in the home, how much prep is needed, and whether doors or cabinetry are included too. A single room can move quickly, while whole-home trim painting takes longer because each piece needs detailed prep and drying time between coats. If you need the work done before guests, listing your deadline early helps the schedule stay realistic.",
+        "@type": "Answer",
+        "description": "A small trim project may take a day or less, while full-home trim painting can take several days. Prep and drying time are often the biggest factors."
+      }
+    }
+  ],
+  "description": "A small trim project may take a day or less, while full-home trim painting can take several days. Prep and drying time are often the biggest factors."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my grout still has sealer on it?",
-  "description": "Use the water-drop test on clean, dry grout. Beading means the sealer is holding; fast absorption means it needs resealing.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-grout-still-has-sealer-on-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my grout still has sealer on it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The quickest check is the **water-drop test**. Put a few drops of water on a clean, dry grout line and watch for 1 to 2 minutes; if the water beads up, the sealer is still working, but if the grout darkens or absorbs water quickly, it is time to reseal.",
-        "description": "Use the water-drop test on clean, dry grout. Beading means the sealer is holding; fast absorption means it needs resealing."
-      }
-    }
-  ],
+  "name": "How do I know if my grout still has sealer on it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my grout still has sealer on it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The quickest check is the **water-drop test**. Put a few drops of water on a clean, dry grout line and watch for 1 to 2 minutes; if the water beads up, the sealer is still working, but if the grout darkens or absorbs water quickly, it is time to reseal.",
+        "@type": "Answer",
+        "description": "Use the water-drop test on clean, dry grout. Beading means the sealer is holding; fast absorption means it needs resealing."
+      }
+    }
+  ],
+  "description": "Use the water-drop test on clean, dry grout. Beading means the sealer is holding; fast absorption means it needs resealing."
 }

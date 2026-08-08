@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What grit sandpaper should I use for drywall sanding?",
-  "description": "Use 120–150 grit for the first pass and 180–220 grit for finishing. Keep pressure light so you smooth the surface without tearing the drywall paper.",
   "url": "http://coloradoremodeling.company/faq/what-grit-sandpaper-should-i-use-for-drywall-sanding",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What grit sandpaper should I use for drywall sanding?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most drywall jobs, coarse-to-fine sanding works best: use about 120–150 grit for the first pass and 180–220 grit for finishing. Light pressure and steady movement matter more than pushing hard, because too much pressure can damage the paper face or expose tape.",
-        "description": "Use 120–150 grit for the first pass and 180–220 grit for finishing. Keep pressure light so you smooth the surface without tearing the drywall paper."
-      }
-    }
-  ],
+  "name": "What grit sandpaper should I use for drywall sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What grit sandpaper should I use for drywall sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most drywall jobs, coarse-to-fine sanding works best: use about 120–150 grit for the first pass and 180–220 grit for finishing. Light pressure and steady movement matter more than pushing hard, because too much pressure can damage the paper face or expose tape.",
+        "@type": "Answer",
+        "description": "Use 120–150 grit for the first pass and 180–220 grit for finishing. Keep pressure light so you smooth the surface without tearing the drywall paper."
+      }
+    }
+  ],
+  "description": "Use 120–150 grit for the first pass and 180–220 grit for finishing. Keep pressure light so you smooth the surface without tearing the drywall paper."
 }

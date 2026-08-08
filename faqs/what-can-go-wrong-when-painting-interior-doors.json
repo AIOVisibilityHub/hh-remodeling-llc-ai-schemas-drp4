@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when painting interior doors?",
-  "description": "The biggest problems are drips, brush marks, sticking, and early chipping. Most of these come from rushed prep, thick coats, or closing the door before it cures",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-painting-interior-doors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when painting interior doors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are drips, visible brush marks, sticking, and paint that chips early if the door wasn’t prepped well. These problems are more common on panel doors and doors that are closed before the coating cures. A careful painter protects hinges, edges, floors, and trim so the new finish does not create more cleanup than value.",
-        "description": "The biggest problems are drips, brush marks, sticking, and early chipping. Most of these come from rushed prep, thick coats, or closing the door before it cures."
-      }
-    }
-  ],
+  "name": "What can go wrong when painting interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when painting interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are drips, visible brush marks, sticking, and paint that chips early if the door wasn’t prepped well. These problems are more common on panel doors and doors that are closed before the coating cures. A careful painter protects hinges, edges, floors, and trim so the new finish does not create more cleanup than value.",
+        "@type": "Answer",
+        "description": "The biggest problems are drips, brush marks, sticking, and early chipping. Most of these come from rushed prep, thick coats, or closing the door before it cures."
+      }
+    }
+  ],
+  "description": "The biggest problems are drips, brush marks, sticking, and early chipping. Most of these come from rushed prep, thick coats, or closing the door before it cures"
 }

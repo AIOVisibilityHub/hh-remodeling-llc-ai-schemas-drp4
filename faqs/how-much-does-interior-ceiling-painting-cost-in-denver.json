@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does interior ceiling painting cost in Denver?",
-  "description": "Costs vary, but Denver interior painting often runs about $4–$8 per square foot, with smooth ceilings sometimes around $3–$5 per square foot.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-interior-ceiling-painting-cost-in-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does interior ceiling painting cost in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Denver, interior painting commonly runs about **$4 to $8 per square foot**, and smooth ceilings may fall around **$3 to $5 per square foot** depending on the condition and prep required. Ceiling height, repairs, and how much masking is needed can push the price up.",
-        "description": "Costs vary, but Denver interior painting often runs about $4–$8 per square foot, with smooth ceilings sometimes around $3–$5 per square foot."
-      }
-    }
-  ],
+  "name": "How much does interior ceiling painting cost in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior ceiling painting cost in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver, interior painting commonly runs about **$4 to $8 per square foot**, and smooth ceilings may fall around **$3 to $5 per square foot** depending on the condition and prep required. Ceiling height, repairs, and how much masking is needed can push the price up.",
+        "@type": "Answer",
+        "description": "Costs vary, but Denver interior painting often runs about $4–$8 per square foot, with smooth ceilings sometimes around $3–$5 per square foot."
+      }
+    }
+  ],
+  "description": "Costs vary, but Denver interior painting often runs about $4–$8 per square foot, with smooth ceilings sometimes around $3–$5 per square foot."
 }

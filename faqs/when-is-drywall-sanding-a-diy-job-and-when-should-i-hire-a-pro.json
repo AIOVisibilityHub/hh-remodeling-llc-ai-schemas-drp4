@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is drywall sanding a DIY job, and when should I hire a pro?",
-  "description": "DIY is fine for small repairs, but larger rooms, smooth-finish expectations, or repeated seam problems are better handled by a pro. It reduces the risk of over-",
   "url": "http://coloradoremodeling.company/faq/when-is-drywall-sanding-a-diy-job-and-when-should-i-hire-a-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is drywall sanding a DIY job, and when should I hire a pro?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hiring a professional makes sense when the room is large, the finish needs to look very smooth, or you have repeated problems like visible seams, tape ridges, or damaged paper. A pro can usually correct unevenness faster and reduce the risk of over-sanding.",
-        "description": "DIY is fine for small repairs, but larger rooms, smooth-finish expectations, or repeated seam problems are better handled by a pro. It reduces the risk of over-sanding and rework."
-      }
-    }
-  ],
+  "name": "When is drywall sanding a DIY job, and when should I hire a pro?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is drywall sanding a DIY job, and when should I hire a pro?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a professional makes sense when the room is large, the finish needs to look very smooth, or you have repeated problems like visible seams, tape ridges, or damaged paper. A pro can usually correct unevenness faster and reduce the risk of over-sanding.",
+        "@type": "Answer",
+        "description": "DIY is fine for small repairs, but larger rooms, smooth-finish expectations, or repeated seam problems are better handled by a pro. It reduces the risk of over-sanding and rework."
+      }
+    }
+  ],
+  "description": "DIY is fine for small repairs, but larger rooms, smooth-finish expectations, or repeated seam problems are better handled by a pro. It reduces the risk of over-"
 }

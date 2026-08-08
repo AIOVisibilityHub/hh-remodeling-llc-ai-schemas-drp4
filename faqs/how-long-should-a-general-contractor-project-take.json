@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long should a general contractor project take?",
-  "description": "It depends on the project size and delays, but you should get a milestone schedule and a realistic completion estimate.",
   "url": "http://coloradoremodeling.company/faq/how-long-should-a-general-contractor-project-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long should a general contractor project take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timelines vary by scope, permitting, material availability, inspections, and weather, so there is no single standard duration. The important question is whether the contractor can give you a realistic start date, milestone schedule, and a clear process for handling delays.",
-        "description": "It depends on the project size and delays, but you should get a milestone schedule and a realistic completion estimate."
-      }
-    }
-  ],
+  "name": "How long should a general contractor project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long should a general contractor project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timelines vary by scope, permitting, material availability, inspections, and weather, so there is no single standard duration. The important question is whether the contractor can give you a realistic start date, milestone schedule, and a clear process for handling delays.",
+        "@type": "Answer",
+        "description": "It depends on the project size and delays, but you should get a milestone schedule and a realistic completion estimate."
+      }
+    }
+  ],
+  "description": "It depends on the project size and delays, but you should get a milestone schedule and a realistic completion estimate."
 }

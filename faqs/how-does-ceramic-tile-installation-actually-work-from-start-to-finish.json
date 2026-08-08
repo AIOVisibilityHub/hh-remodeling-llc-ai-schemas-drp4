@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does ceramic tile installation actually work from start to finish?",
-  "description": "It typically includes prep, layout, setting tile, grouting, and curing. The quality of the prep and layout usually determines how good the finished job looks an",
   "url": "http://coloradoremodeling.company/faq/how-does-ceramic-tile-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does ceramic tile installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually includes removing old material if needed, prepping the substrate, laying out the tile, setting the tiles in mortar, grouting, and then allowing cure time. Good installers also plan transitions, cuts, and edges before the first tile goes down.",
-        "description": "It typically includes prep, layout, setting tile, grouting, and curing. The quality of the prep and layout usually determines how good the finished job looks and lasts."
-      }
-    }
-  ],
+  "name": "How does ceramic tile installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does ceramic tile installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually includes removing old material if needed, prepping the substrate, laying out the tile, setting the tiles in mortar, grouting, and then allowing cure time. Good installers also plan transitions, cuts, and edges before the first tile goes down.",
+        "@type": "Answer",
+        "description": "It typically includes prep, layout, setting tile, grouting, and curing. The quality of the prep and layout usually determines how good the finished job looks and lasts."
+      }
+    }
+  ],
+  "description": "It typically includes prep, layout, setting tile, grouting, and curing. The quality of the prep and layout usually determines how good the finished job looks an"
 }

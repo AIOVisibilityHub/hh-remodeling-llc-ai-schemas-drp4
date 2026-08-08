@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does tile floor installation actually work?",
-  "description": "The process usually includes prep, layout, setting tile, grouting, and cleanup. Movement joints are also important to reduce cracking over time.",
   "url": "http://coloradoremodeling.company/faq/how-does-tile-floor-installation-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does tile floor installation actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A proper tile installation usually includes layout planning, subfloor prep, tile setting with thinset, spacing, grouting, and cleanup. Good installers also account for movement joints, which help prevent cracking as the floor expands and contracts.",
-        "description": "The process usually includes prep, layout, setting tile, grouting, and cleanup. Movement joints are also important to reduce cracking over time."
-      }
-    }
-  ],
+  "name": "How does tile floor installation actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does tile floor installation actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A proper tile installation usually includes layout planning, subfloor prep, tile setting with thinset, spacing, grouting, and cleanup. Good installers also account for movement joints, which help prevent cracking as the floor expands and contracts.",
+        "@type": "Answer",
+        "description": "The process usually includes prep, layout, setting tile, grouting, and cleanup. Movement joints are also important to reduce cracking over time."
+      }
+    }
+  ],
+  "description": "The process usually includes prep, layout, setting tile, grouting, and cleanup. Movement joints are also important to reduce cracking over time."
 }

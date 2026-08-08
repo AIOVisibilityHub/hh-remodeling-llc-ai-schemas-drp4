@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with backsplash installation if it’s done badly?",
-  "description": "Bad prep and sloppy grout work are the most common problems. They can cause cracking, loose tile, or water damage over time.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-backsplash-installation-if-it-s-done-badly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with backsplash installation if it’s done badly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are poor wall prep, uneven tile lines, weak grout joints, and moisture problems around sinks or cooktops. These issues can lead to cracking, staining, or tiles coming loose, so experienced installers focus on surface prep, precise layout, and sealing where appropriate.",
-        "description": "Bad prep and sloppy grout work are the most common problems. They can cause cracking, loose tile, or water damage over time."
-      }
-    }
-  ],
+  "name": "What can go wrong with backsplash installation if it’s done badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with backsplash installation if it’s done badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are poor wall prep, uneven tile lines, weak grout joints, and moisture problems around sinks or cooktops. These issues can lead to cracking, staining, or tiles coming loose, so experienced installers focus on surface prep, precise layout, and sealing where appropriate.",
+        "@type": "Answer",
+        "description": "Bad prep and sloppy grout work are the most common problems. They can cause cracking, loose tile, or water damage over time."
+      }
+    }
+  ],
+  "description": "Bad prep and sloppy grout work are the most common problems. They can cause cracking, loose tile, or water damage over time."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if my home layout feels awkward or wasteful?",
-  "description": "Start by listing the friction points in your current layout, then have the existing space reviewed before making design decisions.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-my-home-layout-feels-awkward-or-wasteful",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if my home layout feels awkward or wasteful?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first step is to identify what is not working: traffic flow, storage, room size, privacy, light, or how the space supports your routine. From there, a layout plan can evaluate whether walls, doorways, or room boundaries should change to create a better arrangement.",
-        "description": "Start by listing the friction points in your current layout, then have the existing space reviewed before making design decisions."
-      }
-    }
-  ],
+  "name": "What should I do first if my home layout feels awkward or wasteful?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my home layout feels awkward or wasteful?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to identify what is not working: traffic flow, storage, room size, privacy, light, or how the space supports your routine. From there, a layout plan can evaluate whether walls, doorways, or room boundaries should change to create a better arrangement.",
+        "@type": "Answer",
+        "description": "Start by listing the friction points in your current layout, then have the existing space reviewed before making design decisions."
+      }
+    }
+  ],
+  "description": "Start by listing the friction points in your current layout, then have the existing space reviewed before making design decisions."
 }

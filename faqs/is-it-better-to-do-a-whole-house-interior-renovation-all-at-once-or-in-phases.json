@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it better to do a whole-house interior renovation all at once or in phases?",
-  "description": "All at once is usually more efficient and cohesive, while phased work helps if you need to spread out costs. Phasing is more flexible, but it can cost more over",
   "url": "http://coloradoremodeling.company/faq/is-it-better-to-do-a-whole-house-interior-renovation-all-at-once-or-in-phases",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it better to do a whole-house interior renovation all at once or in phases?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are choosing between a full renovation and phased room-by-room work, the key tradeoff is efficiency versus flexibility. Doing the home all at once is often more efficient and creates a more unified result, while phased work can help if you need to spread out spending or keep parts of the house usable. Phased projects can also cost more overall because trades, setup, and design decisions get repeated. If your priority is the smoothest finished result, a coordinated full plan usually wins.",
-        "description": "All at once is usually more efficient and cohesive, while phased work helps if you need to spread out costs. Phasing is more flexible, but it can cost more overall."
-      }
-    }
-  ],
+  "name": "Is it better to do a whole-house interior renovation all at once or in phases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to do a whole-house interior renovation all at once or in phases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are choosing between a full renovation and phased room-by-room work, the key tradeoff is efficiency versus flexibility. Doing the home all at once is often more efficient and creates a more unified result, while phased work can help if you need to spread out spending or keep parts of the house usable. Phased projects can also cost more overall because trades, setup, and design decisions get repeated. If your priority is the smoothest finished result, a coordinated full plan usually wins.",
+        "@type": "Answer",
+        "description": "All at once is usually more efficient and cohesive, while phased work helps if you need to spread out costs. Phasing is more flexible, but it can cost more overall."
+      }
+    }
+  ],
+  "description": "All at once is usually more efficient and cohesive, while phased work helps if you need to spread out costs. Phasing is more flexible, but it can cost more over"
 }

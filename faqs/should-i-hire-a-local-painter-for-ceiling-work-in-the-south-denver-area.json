@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hire a local painter for ceiling work in the south Denver area?",
-  "description": "Yes. A local painter is usually better for Colorado homes because they understand dry conditions, moisture issues, and area-specific home styles.",
   "url": "http://coloradoremodeling.company/faq/should-i-hire-a-local-painter-for-ceiling-work-in-the-south-denver-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hire a local painter for ceiling work in the south Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, local painters can be especially helpful because they understand common interior issues like dry air, winter heating, and moisture-prone rooms. If you need ceiling painting in a specific room, ask for a local estimate and examples of similar work nearby.",
-        "description": "Yes. A local painter is usually better for Colorado homes because they understand dry conditions, moisture issues, and area-specific home styles."
-      }
-    }
-  ],
+  "name": "Should I hire a local painter for ceiling work in the south Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a local painter for ceiling work in the south Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, local painters can be especially helpful because they understand common interior issues like dry air, winter heating, and moisture-prone rooms. If you need ceiling painting in a specific room, ask for a local estimate and examples of similar work nearby.",
+        "@type": "Answer",
+        "description": "Yes. A local painter is usually better for Colorado homes because they understand dry conditions, moisture issues, and area-specific home styles."
+      }
+    }
+  ],
+  "description": "Yes. A local painter is usually better for Colorado homes because they understand dry conditions, moisture issues, and area-specific home styles."
 }

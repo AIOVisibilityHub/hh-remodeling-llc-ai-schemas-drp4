@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I figure out first before starting a multi-room interior renovation?",
-  "description": "Define the rooms, the problems you want solved, your budget, and how the spaces need to work together. That gives the project a clear scope and helps the remode",
   "url": "http://coloradoremodeling.company/faq/what-should-i-figure-out-first-before-starting-a-multi-room-interior-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I figure out first before starting a multi-room interior renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by defining which rooms must work together, what problems you want solved, and how long you plan to stay in the home. For a multi-room renovation, the right sequence depends on shared systems, traffic flow, and whether you want one cohesive design or a phased approach. In Denver-area homes, that planning step matters because adjacent rooms can affect layout, materials, and scheduling.",
-        "description": "Define the rooms, the problems you want solved, your budget, and how the spaces need to work together. That gives the project a clear scope and helps the remodel stay cohesive."
-      }
-    }
-  ],
+  "name": "What should I figure out first before starting a multi-room interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I figure out first before starting a multi-room interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining which rooms must work together, what problems you want solved, and how long you plan to stay in the home. For a multi-room renovation, the right sequence depends on shared systems, traffic flow, and whether you want one cohesive design or a phased approach. In Denver-area homes, that planning step matters because adjacent rooms can affect layout, materials, and scheduling.",
+        "@type": "Answer",
+        "description": "Define the rooms, the problems you want solved, your budget, and how the spaces need to work together. That gives the project a clear scope and helps the remodel stay cohesive."
+      }
+    }
+  ],
+  "description": "Define the rooms, the problems you want solved, your budget, and how the spaces need to work together. That gives the project a clear scope and helps the remode"
 }

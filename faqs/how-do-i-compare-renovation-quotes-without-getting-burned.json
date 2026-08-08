@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare renovation quotes without getting burned?",
-  "description": "Compare the written scope, not just the price. Make sure labor, materials, cleanup, and permit-related work are all clearly included before choosing a contracto",
   "url": "http://coloradoremodeling.company/faq/how-do-i-compare-renovation-quotes-without-getting-burned",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare renovation quotes without getting burned?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing bids, look at scope detail, communication, permitting help, and whether the estimate clearly separates labor, materials, and allowances. The cheapest bid is not always the best value if it leaves out demolition, cleanup, or the finish work needed to complete the room properly.",
-        "description": "Compare the written scope, not just the price. Make sure labor, materials, cleanup, and permit-related work are all clearly included before choosing a contractor."
-      }
-    }
-  ],
+  "name": "How do I compare renovation quotes without getting burned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare renovation quotes without getting burned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing bids, look at scope detail, communication, permitting help, and whether the estimate clearly separates labor, materials, and allowances. The cheapest bid is not always the best value if it leaves out demolition, cleanup, or the finish work needed to complete the room properly.",
+        "@type": "Answer",
+        "description": "Compare the written scope, not just the price. Make sure labor, materials, cleanup, and permit-related work are all clearly included before choosing a contractor."
+      }
+    }
+  ],
+  "description": "Compare the written scope, not just the price. Make sure labor, materials, cleanup, and permit-related work are all clearly included before choosing a contracto"
 }

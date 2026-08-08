@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What paint finish is best for interior doors: satin, semi-gloss, or gloss?",
-  "description": "Semi-gloss and satin are the most common choices for interior doors. They balance durability, washability, and appearance better than flat paint, and gloss tend",
   "url": "http://coloradoremodeling.company/faq/what-paint-finish-is-best-for-interior-doors-satin-semi-gloss-or-gloss",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What paint finish is best for interior doors: satin, semi-gloss, or gloss?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most durable and practical finish for interior doors is usually satin or semi-gloss. These finishes hold up well to fingerprints, clean easily, and are common choices for doors in busy homes. Very glossy finishes can show more imperfections, while flatter finishes are easier to mark up.",
-        "description": "Semi-gloss and satin are the most common choices for interior doors. They balance durability, washability, and appearance better than flat paint, and gloss tends to highlight flaws."
-      }
-    }
-  ],
+  "name": "What paint finish is best for interior doors: satin, semi-gloss, or gloss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What paint finish is best for interior doors: satin, semi-gloss, or gloss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most durable and practical finish for interior doors is usually satin or semi-gloss. These finishes hold up well to fingerprints, clean easily, and are common choices for doors in busy homes. Very glossy finishes can show more imperfections, while flatter finishes are easier to mark up.",
+        "@type": "Answer",
+        "description": "Semi-gloss and satin are the most common choices for interior doors. They balance durability, washability, and appearance better than flat paint, and gloss tends to highlight flaws."
+      }
+    }
+  ],
+  "description": "Semi-gloss and satin are the most common choices for interior doors. They balance durability, washability, and appearance better than flat paint, and gloss tend"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is ceramic tile better than other flooring options for my kitchen or bathroom?",
-  "description": "Ceramic tile is often a strong choice for kitchens and bathrooms because it handles moisture well and is easy to clean. Compare it against your room’s traffic,",
   "url": "http://coloradoremodeling.company/faq/is-ceramic-tile-better-than-other-flooring-options-for-my-kitchen-or-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is ceramic tile better than other flooring options for my kitchen or bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing ceramic tile with other flooring, focus on durability, moisture resistance, maintenance, and cost. Ceramic tile is often a strong choice for bathrooms, kitchens, and entry areas, while the best option depends on the room and how much wear it gets.",
-        "description": "Ceramic tile is often a strong choice for kitchens and bathrooms because it handles moisture well and is easy to clean. Compare it against your room’s traffic, water exposure, and budget."
-      }
-    }
-  ],
+  "name": "Is ceramic tile better than other flooring options for my kitchen or bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is ceramic tile better than other flooring options for my kitchen or bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing ceramic tile with other flooring, focus on durability, moisture resistance, maintenance, and cost. Ceramic tile is often a strong choice for bathrooms, kitchens, and entry areas, while the best option depends on the room and how much wear it gets.",
+        "@type": "Answer",
+        "description": "Ceramic tile is often a strong choice for kitchens and bathrooms because it handles moisture well and is easy to clean. Compare it against your room’s traffic, water exposure, and budget."
+      }
+    }
+  ],
+  "description": "Ceramic tile is often a strong choice for kitchens and bathrooms because it handles moisture well and is easy to clean. Compare it against your room’s traffic,"
 }

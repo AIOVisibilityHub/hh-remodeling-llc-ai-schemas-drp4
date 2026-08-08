@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first when I notice a hole or dent in my drywall?",
-  "description": "Start by cleaning the damaged spot, then fill small holes with spackle or patch larger openings with backing and joint compound. Sand smooth, prime, and paint o",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-when-i-notice-a-hole-or-dent-in-my-drywall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first when I notice a hole or dent in my drywall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For small nail holes, dents, and screw pops, repair usually starts with cleaning the area, filling it with spackle or joint compound, sanding it smooth, then priming and painting. Bigger holes need a patch, backing support, and multiple thin coats so the repair blends into the wall.",
-        "description": "Start by cleaning the damaged spot, then fill small holes with spackle or patch larger openings with backing and joint compound. Sand smooth, prime, and paint once dry."
-      }
-    }
-  ],
+  "name": "What should I do first when I notice a hole or dent in my drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first when I notice a hole or dent in my drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small nail holes, dents, and screw pops, repair usually starts with cleaning the area, filling it with spackle or joint compound, sanding it smooth, then priming and painting. Bigger holes need a patch, backing support, and multiple thin coats so the repair blends into the wall.",
+        "@type": "Answer",
+        "description": "Start by cleaning the damaged spot, then fill small holes with spackle or patch larger openings with backing and joint compound. Sand smooth, prime, and paint once dry."
+      }
+    }
+  ],
+  "description": "Start by cleaning the damaged spot, then fill small holes with spackle or patch larger openings with backing and joint compound. Sand smooth, prime, and paint o"
 }

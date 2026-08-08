@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does tile floor installation take from start to finish?",
-  "description": "Small tile jobs may take a day or two, but bigger projects can take several days once prep, setting, and curing time are included. Subfloor repairs can extend t",
   "url": "http://coloradoremodeling.company/faq/how-long-does-tile-floor-installation-take-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does tile floor installation take from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most tile projects take longer than a simple room repaint because prep and cure time matter. Small rooms may finish in a day or two, while larger areas, demolition, leveling, or moisture-related repairs can add several more days.",
-        "description": "Small tile jobs may take a day or two, but bigger projects can take several days once prep, setting, and curing time are included. Subfloor repairs can extend the schedule."
-      }
-    }
-  ],
+  "name": "How long does tile floor installation take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does tile floor installation take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most tile projects take longer than a simple room repaint because prep and cure time matter. Small rooms may finish in a day or two, while larger areas, demolition, leveling, or moisture-related repairs can add several more days.",
+        "@type": "Answer",
+        "description": "Small tile jobs may take a day or two, but bigger projects can take several days once prep, setting, and curing time are included. Subfloor repairs can extend the schedule."
+      }
+    }
+  ],
+  "description": "Small tile jobs may take a day or two, but bigger projects can take several days once prep, setting, and curing time are included. Subfloor repairs can extend t"
 }

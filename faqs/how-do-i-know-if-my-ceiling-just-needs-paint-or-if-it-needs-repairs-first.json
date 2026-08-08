@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my ceiling just needs paint or if it needs repairs first?",
-  "description": "Check for stains, peeling, cracks, or water marks. If those are present, the ceiling likely needs prep or repairs before painting.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-ceiling-just-needs-paint-or-if-it-needs-repairs-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my ceiling just needs paint or if it needs repairs first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest way to know what your ceiling needs is to look for **stains, water marks, peeling, cracks, or uneven sheen**. If the ceiling has smoke damage, moisture damage, or heavy discoloration, the surface usually needs cleaning, repairs, and primer before paint goes on.",
-        "description": "Check for stains, peeling, cracks, or water marks. If those are present, the ceiling likely needs prep or repairs before painting."
-      }
-    }
-  ],
+  "name": "How do I know if my ceiling just needs paint or if it needs repairs first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my ceiling just needs paint or if it needs repairs first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest way to know what your ceiling needs is to look for **stains, water marks, peeling, cracks, or uneven sheen**. If the ceiling has smoke damage, moisture damage, or heavy discoloration, the surface usually needs cleaning, repairs, and primer before paint goes on.",
+        "@type": "Answer",
+        "description": "Check for stains, peeling, cracks, or water marks. If those are present, the ceiling likely needs prep or repairs before painting."
+      }
+    }
+  ],
+  "description": "Check for stains, peeling, cracks, or water marks. If those are present, the ceiling likely needs prep or repairs before painting."
 }

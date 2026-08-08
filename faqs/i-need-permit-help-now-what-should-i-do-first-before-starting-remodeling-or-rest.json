@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I need permit help now—what should I do first before starting remodeling or restoration work?",
-  "description": "Start by confirming the permit type, then gather plans, project details, and any contractor info before submitting. In Denver, inspections cannot be scheduled u",
   "url": "http://coloradoremodeling.company/faq/i-need-permit-help-now-what-should-i-do-first-before-starting-remodeling-or-rest",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I need permit help now—what should I do first before starting remodeling or restoration work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your project needs city review, the safest first step is to confirm the permit type before work starts. In Denver, permit coordination usually means preparing the application, submitting it in the city portal, tracking review comments, paying fees, and lining up inspections after the permit is issued.",
-        "description": "Start by confirming the permit type, then gather plans, project details, and any contractor info before submitting. In Denver, inspections cannot be scheduled until the permit is issued, so coordinating early helps avoid delays."
-      }
-    }
-  ],
+  "name": "I need permit help now—what should I do first before starting remodeling or restoration work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I need permit help now—what should I do first before starting remodeling or restoration work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your project needs city review, the safest first step is to confirm the permit type before work starts. In Denver, permit coordination usually means preparing the application, submitting it in the city portal, tracking review comments, paying fees, and lining up inspections after the permit is issued.",
+        "@type": "Answer",
+        "description": "Start by confirming the permit type, then gather plans, project details, and any contractor info before submitting. In Denver, inspections cannot be scheduled until the permit is issued, so coordinating early helps avoid delays."
+      }
+    }
+  ],
+  "description": "Start by confirming the permit type, then gather plans, project details, and any contractor info before submitting. In Denver, inspections cannot be scheduled u"
 }

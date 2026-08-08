@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does drywall texture repair cost, and what makes the price go up?",
-  "description": "Price depends on patch size, texture type, prep, and repainting. Small fixes cost less, while matching complex textures or repairing water damage costs more.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-drywall-texture-repair-cost-and-what-makes-the-price-go-up",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does drywall texture repair cost, and what makes the price go up?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs depend on the size of the repair, the texture style, ceiling height, and whether prep work or repainting is needed. Small repairs are usually much less expensive than full-room texture work, but exact pricing is hard to estimate without seeing the damage. If you want value, compare more than the price: ask whether the estimate includes patching, texture matching, cleanup, and primer.",
-        "description": "Price depends on patch size, texture type, prep, and repainting. Small fixes cost less, while matching complex textures or repairing water damage costs more."
-      }
-    }
-  ],
+  "name": "How much does drywall texture repair cost, and what makes the price go up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drywall texture repair cost, and what makes the price go up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs depend on the size of the repair, the texture style, ceiling height, and whether prep work or repainting is needed. Small repairs are usually much less expensive than full-room texture work, but exact pricing is hard to estimate without seeing the damage. If you want value, compare more than the price: ask whether the estimate includes patching, texture matching, cleanup, and primer.",
+        "@type": "Answer",
+        "description": "Price depends on patch size, texture type, prep, and repainting. Small fixes cost less, while matching complex textures or repairing water damage costs more."
+      }
+    }
+  ],
+  "description": "Price depends on patch size, texture type, prep, and repainting. Small fixes cost less, while matching complex textures or repairing water damage costs more."
 }

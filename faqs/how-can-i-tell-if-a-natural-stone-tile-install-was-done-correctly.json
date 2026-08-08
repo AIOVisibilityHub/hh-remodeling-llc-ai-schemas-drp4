@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I tell if a natural stone tile install was done correctly?",
-  "description": "Look for even tile height, solid coverage, proper waterproofing in wet areas, and the right sealant on the stone. Poor prep often shows up later as cracks, lipp",
   "url": "http://coloradoremodeling.company/faq/how-can-i-tell-if-a-natural-stone-tile-install-was-done-correctly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I tell if a natural stone tile install was done correctly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest proof points are a stable subfloor, correct waterproofing in wet areas, proper mortar coverage, and the right sealant for the stone. If the installer skips prep, you can end up with cracked tiles, lippage, staining, or moisture issues later.",
-        "description": "Look for even tile height, solid coverage, proper waterproofing in wet areas, and the right sealant on the stone. Poor prep often shows up later as cracks, lippage, stains, or water problems."
-      }
-    }
-  ],
+  "name": "How can I tell if a natural stone tile install was done correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a natural stone tile install was done correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest proof points are a stable subfloor, correct waterproofing in wet areas, proper mortar coverage, and the right sealant for the stone. If the installer skips prep, you can end up with cracked tiles, lippage, staining, or moisture issues later.",
+        "@type": "Answer",
+        "description": "Look for even tile height, solid coverage, proper waterproofing in wet areas, and the right sealant on the stone. Poor prep often shows up later as cracks, lippage, stains, or water problems."
+      }
+    }
+  ],
+  "description": "Look for even tile height, solid coverage, proper waterproofing in wet areas, and the right sealant on the stone. Poor prep often shows up later as cracks, lipp"
 }

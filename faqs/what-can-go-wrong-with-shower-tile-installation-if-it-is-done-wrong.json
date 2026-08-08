@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with shower tile installation if it is done wrong?",
-  "description": "Bad waterproofing, poor slope, and weak substrate prep can cause leaks, cracks, and loose tile. Those mistakes can lead to hidden water damage behind the shower",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-shower-tile-installation-if-it-is-done-wrong",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with shower tile installation if it is done wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are leaks, cracked grout, loose tile, and standing water from poor slope or bad waterproofing. In showers, even small installation mistakes can turn into expensive repairs because water can get behind the tile and damage the structure.",
-        "description": "Bad waterproofing, poor slope, and weak substrate prep can cause leaks, cracks, and loose tile. Those mistakes can lead to hidden water damage behind the shower walls."
-      }
-    }
-  ],
+  "name": "What can go wrong with shower tile installation if it is done wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with shower tile installation if it is done wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are leaks, cracked grout, loose tile, and standing water from poor slope or bad waterproofing. In showers, even small installation mistakes can turn into expensive repairs because water can get behind the tile and damage the structure.",
+        "@type": "Answer",
+        "description": "Bad waterproofing, poor slope, and weak substrate prep can cause leaks, cracks, and loose tile. Those mistakes can lead to hidden water damage behind the shower walls."
+      }
+    }
+  ],
+  "description": "Bad waterproofing, poor slope, and weak substrate prep can cause leaks, cracks, and loose tile. Those mistakes can lead to hidden water damage behind the shower"
 }

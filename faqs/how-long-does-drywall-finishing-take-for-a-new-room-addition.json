@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does drywall finishing take for a new room addition?",
-  "description": "A single room can take several days, with hanging done first and finishing spread over additional days for drying, sanding, and touch-ups.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-finishing-take-for-a-new-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does drywall finishing take for a new room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timeline depends on size and complexity, but a single room often takes a few days for hanging and several more days for finishing because compound needs drying time. Bigger additions, high ceilings, or detailed texture matching can extend the schedule.",
-        "description": "A single room can take several days, with hanging done first and finishing spread over additional days for drying, sanding, and touch-ups."
-      }
-    }
-  ],
+  "name": "How long does drywall finishing take for a new room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall finishing take for a new room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timeline depends on size and complexity, but a single room often takes a few days for hanging and several more days for finishing because compound needs drying time. Bigger additions, high ceilings, or detailed texture matching can extend the schedule.",
+        "@type": "Answer",
+        "description": "A single room can take several days, with hanging done first and finishing spread over additional days for drying, sanding, and touch-ups."
+      }
+    }
+  ],
+  "description": "A single room can take several days, with hanging done first and finishing spread over additional days for drying, sanding, and touch-ups."
 }

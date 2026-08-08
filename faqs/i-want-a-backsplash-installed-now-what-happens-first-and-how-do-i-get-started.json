@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I want a backsplash installed now — what happens first and how do I get started?",
-  "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work.",
   "url": "http://coloradoremodeling.company/faq/i-want-a-backsplash-installed-now-what-happens-first-and-how-do-i-get-started",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I want a backsplash installed now — what happens first and how do I get started?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A tile backsplash protects the wall behind your sink, stove, and counters from splashes, grease, and stains while also giving the kitchen a finished look. In most homes, the project starts with a site visit so the installer can measure, check wall conditions, and confirm the tile layout.",
-        "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work."
-      }
-    }
-  ],
+  "name": "I want a backsplash installed now — what happens first and how do I get started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I want a backsplash installed now — what happens first and how do I get started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tile backsplash protects the wall behind your sink, stove, and counters from splashes, grease, and stains while also giving the kitchen a finished look. In most homes, the project starts with a site visit so the installer can measure, check wall conditions, and confirm the tile layout.",
+        "@type": "Answer",
+        "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work."
+      }
+    }
+  ],
+  "description": "Start with a measure and wall check. The installer can confirm tile quantities, surface prep needs, and any outlet cuts before scheduling the work."
 }

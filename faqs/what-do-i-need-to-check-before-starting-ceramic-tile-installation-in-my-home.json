@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What do I need to check before starting ceramic tile installation in my home?",
-  "description": "Check for a flat, stable, dry surface, and confirm the existing floor can support tile. Ask about moisture, leveling, and any prep work before installation begi",
   "url": "http://coloradoremodeling.company/faq/what-do-i-need-to-check-before-starting-ceramic-tile-installation-in-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What do I need to check before starting ceramic tile installation in my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by checking whether the surface is flat, solid, and dry enough for tile. If you are covering an older floor, ask about the existing material, moisture, and any needed prep before installation.",
-        "description": "Check for a flat, stable, dry surface, and confirm the existing floor can support tile. Ask about moisture, leveling, and any prep work before installation begins."
-      }
-    }
-  ],
+  "name": "What do I need to check before starting ceramic tile installation in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to check before starting ceramic tile installation in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by checking whether the surface is flat, solid, and dry enough for tile. If you are covering an older floor, ask about the existing material, moisture, and any needed prep before installation.",
+        "@type": "Answer",
+        "description": "Check for a flat, stable, dry surface, and confirm the existing floor can support tile. Ask about moisture, leveling, and any prep work before installation begins."
+      }
+    }
+  ],
+  "description": "Check for a flat, stable, dry surface, and confirm the existing floor can support tile. Ask about moisture, leveling, and any prep work before installation begi"
 }

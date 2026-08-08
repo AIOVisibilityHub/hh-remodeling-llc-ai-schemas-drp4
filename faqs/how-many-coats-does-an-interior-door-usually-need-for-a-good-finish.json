@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How many coats does an interior door usually need for a good finish?",
-  "description": "Two thin coats are typical for interior doors, with a third coat sometimes needed for major color changes. Thin application gives a smoother look and reduces dr",
   "url": "http://coloradoremodeling.company/faq/how-many-coats-does-an-interior-door-usually-need-for-a-good-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many coats does an interior door usually need for a good finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most interior doors need two coats, and sometimes a third if you’re changing from a dark color to a light one or covering stains. Thin coats matter more than heavy coverage because thick paint can leave brush marks, runs, and slow drying. A good prep job also helps the finish look smoother and last longer.",
-        "description": "Two thin coats are typical for interior doors, with a third coat sometimes needed for major color changes. Thin application gives a smoother look and reduces drips and brush marks."
-      }
-    }
-  ],
+  "name": "How many coats does an interior door usually need for a good finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How many coats does an interior door usually need for a good finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most interior doors need two coats, and sometimes a third if you’re changing from a dark color to a light one or covering stains. Thin coats matter more than heavy coverage because thick paint can leave brush marks, runs, and slow drying. A good prep job also helps the finish look smoother and last longer.",
+        "@type": "Answer",
+        "description": "Two thin coats are typical for interior doors, with a third coat sometimes needed for major color changes. Thin application gives a smoother look and reduces drips and brush marks."
+      }
+    }
+  ],
+  "description": "Two thin coats are typical for interior doors, with a third coat sometimes needed for major color changes. Thin application gives a smoother look and reduces dr"
 }

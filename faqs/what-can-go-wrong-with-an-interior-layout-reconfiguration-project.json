@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with an interior layout reconfiguration project?",
-  "description": "The biggest risks are structural surprises, permit delays, and a layout that looks good on paper but works poorly in real life.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-an-interior-layout-reconfiguration-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with an interior layout reconfiguration project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are discovering structural limitations, needing permit revisions, or finding that a layout idea hurts flow more than it helps. Another common issue is underestimating how changes to doors, openings, or systems can affect the rest of the project, so early planning matters.",
-        "description": "The biggest risks are structural surprises, permit delays, and a layout that looks good on paper but works poorly in real life."
-      }
-    }
-  ],
+  "name": "What can go wrong with an interior layout reconfiguration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with an interior layout reconfiguration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are discovering structural limitations, needing permit revisions, or finding that a layout idea hurts flow more than it helps. Another common issue is underestimating how changes to doors, openings, or systems can affect the rest of the project, so early planning matters.",
+        "@type": "Answer",
+        "description": "The biggest risks are structural surprises, permit delays, and a layout that looks good on paper but works poorly in real life."
+      }
+    }
+  ],
+  "description": "The biggest risks are structural surprises, permit delays, and a layout that looks good on paper but works poorly in real life."
 }

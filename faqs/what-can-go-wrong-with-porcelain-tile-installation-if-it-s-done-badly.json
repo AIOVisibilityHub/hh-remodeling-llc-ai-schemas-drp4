@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with porcelain tile installation if it’s done badly?",
-  "description": "Bad prep is the main problem—uneven floors, weak subfloors, or missing movement joints can cause cracking and lippage. Porcelain lasts a long time only when the",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-porcelain-tile-installation-if-it-s-done-badly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with porcelain tile installation if it’s done badly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is poor surface preparation. If the floor is not flat, clean, and structurally sound, porcelain tile can crack, sound hollow, or develop uneven edges. In Colorado homes, movement joints are also important because seasonal expansion and contraction can stress a rigid tile surface if the installer does not plan for it.",
-        "description": "Bad prep is the main problem—uneven floors, weak subfloors, or missing movement joints can cause cracking and lippage. Porcelain lasts a long time only when the base and layout are done correctly."
-      }
-    }
-  ],
+  "name": "What can go wrong with porcelain tile installation if it’s done badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with porcelain tile installation if it’s done badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is poor surface preparation. If the floor is not flat, clean, and structurally sound, porcelain tile can crack, sound hollow, or develop uneven edges. In Colorado homes, movement joints are also important because seasonal expansion and contraction can stress a rigid tile surface if the installer does not plan for it.",
+        "@type": "Answer",
+        "description": "Bad prep is the main problem—uneven floors, weak subfloors, or missing movement joints can cause cracking and lippage. Porcelain lasts a long time only when the base and layout are done correctly."
+      }
+    }
+  ],
+  "description": "Bad prep is the main problem—uneven floors, weak subfloors, or missing movement joints can cause cracking and lippage. Porcelain lasts a long time only when the"
 }

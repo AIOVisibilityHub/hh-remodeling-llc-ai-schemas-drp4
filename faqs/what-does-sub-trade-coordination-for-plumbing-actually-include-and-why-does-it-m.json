@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does sub-trade coordination for plumbing actually include, and why does it matter on a remodel?",
-  "description": "It means coordinating the plumber with framing, drywall, tile, countertops, and other trades so plumbing rough-ins and final fixtures fit correctly. The goal is",
   "url": "http://coloradoremodeling.company/faq/what-does-sub-trade-coordination-for-plumbing-actually-include-and-why-does-it-m",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does sub-trade coordination for plumbing actually include, and why does it matter on a remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sub-trade coordination for plumbing is the process of lining up the plumber with the other trades so rough-ins, fixture locations, framing, drywall, tile, cabinets, and countertops all fit together without rework. For projects in Denver, Centennial, Greenwood Village, Foxfield, and Parker, it is especially important to confirm fixture models, valve compatibility, and rough-in dimensions before walls close up.",
-        "description": "It means coordinating the plumber with framing, drywall, tile, countertops, and other trades so plumbing rough-ins and final fixtures fit correctly. The goal is to prevent clashes, delays, and costly rework before the walls are closed."
-      }
-    }
-  ],
+  "name": "What does sub-trade coordination for plumbing actually include, and why does it matter on a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does sub-trade coordination for plumbing actually include, and why does it matter on a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sub-trade coordination for plumbing is the process of lining up the plumber with the other trades so rough-ins, fixture locations, framing, drywall, tile, cabinets, and countertops all fit together without rework. For projects in Denver, Centennial, Greenwood Village, Foxfield, and Parker, it is especially important to confirm fixture models, valve compatibility, and rough-in dimensions before walls close up.",
+        "@type": "Answer",
+        "description": "It means coordinating the plumber with framing, drywall, tile, countertops, and other trades so plumbing rough-ins and final fixtures fit correctly. The goal is to prevent clashes, delays, and costly rework before the walls are closed."
+      }
+    }
+  ],
+  "description": "It means coordinating the plumber with framing, drywall, tile, countertops, and other trades so plumbing rough-ins and final fixtures fit correctly. The goal is"
 }

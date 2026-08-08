@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does drywall texture repair usually take, and will I need more than one visit?",
-  "description": "Small texture repairs are often done in one visit, but larger patches may take two trips because of drying, blending, and paint readiness.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-texture-repair-usually-take-and-will-i-need-more-than-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does drywall texture repair usually take, and will I need more than one visit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most texture repairs can be completed in one visit for small patches, but matching and drying time can add a second trip if the damage is larger or the paint needs to cure. In the Denver metro area, the total timeline usually depends on the repair size, the texture type, and whether the wall has hidden moisture or cracking. Ask for an on-site evaluation before scheduling so the work can be planned correctly.",
-        "description": "Small texture repairs are often done in one visit, but larger patches may take two trips because of drying, blending, and paint readiness."
-      }
-    }
-  ],
+  "name": "How long does drywall texture repair usually take, and will I need more than one visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall texture repair usually take, and will I need more than one visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most texture repairs can be completed in one visit for small patches, but matching and drying time can add a second trip if the damage is larger or the paint needs to cure. In the Denver metro area, the total timeline usually depends on the repair size, the texture type, and whether the wall has hidden moisture or cracking. Ask for an on-site evaluation before scheduling so the work can be planned correctly.",
+        "@type": "Answer",
+        "description": "Small texture repairs are often done in one visit, but larger patches may take two trips because of drying, blending, and paint readiness."
+      }
+    }
+  ],
+  "description": "Small texture repairs are often done in one visit, but larger patches may take two trips because of drying, blending, and paint readiness."
 }

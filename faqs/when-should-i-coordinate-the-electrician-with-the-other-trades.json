@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I coordinate the electrician with the other trades?",
-  "description": "Coordinate the electrician as early as possible, ideally before framing and rough-in decisions are locked in.",
   "url": "http://coloradoremodeling.company/faq/when-should-i-coordinate-the-electrician-with-the-other-trades",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I coordinate the electrician with the other trades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time is before demolition or framing is complete, because electrical rough-in depends on wall layout, fixture locations, panel capacity, and access for other trades. Early coordination is especially important in Denver, Centennial, Greenwood Village, Foxfield, and Parker when multiple crews are working in the same space. Waiting until finishes are underway often creates avoidable rework or inspection problems.",
-        "description": "Coordinate the electrician as early as possible, ideally before framing and rough-in decisions are locked in."
-      }
-    }
-  ],
+  "name": "When should I coordinate the electrician with the other trades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I coordinate the electrician with the other trades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time is before demolition or framing is complete, because electrical rough-in depends on wall layout, fixture locations, panel capacity, and access for other trades. Early coordination is especially important in Denver, Centennial, Greenwood Village, Foxfield, and Parker when multiple crews are working in the same space. Waiting until finishes are underway often creates avoidable rework or inspection problems.",
+        "@type": "Answer",
+        "description": "Coordinate the electrician as early as possible, ideally before framing and rough-in decisions are locked in."
+      }
+    }
+  ],
+  "description": "Coordinate the electrician as early as possible, ideally before framing and rough-in decisions are locked in."
 }

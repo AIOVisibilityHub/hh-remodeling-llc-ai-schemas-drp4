@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I check before I start marble tile installation in my bathroom or kitchen?",
-  "description": "Check that the surface is level, dry, and structurally sound before installing marble tile. If there’s movement, moisture, or old flooring damage, fix that firs",
   "url": "http://coloradoremodeling.company/faq/what-should-i-check-before-i-start-marble-tile-installation-in-my-bathroom-or-ki",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I check before I start marble tile installation in my bathroom or kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Marble tile installation works best when the substrate is flat, stable, and dry. An installer should inspect the room first, because uneven floors, moisture, or weak underlayment can cause cracks, lippage, or failed grout lines later.",
-        "description": "Check that the surface is level, dry, and structurally sound before installing marble tile. If there’s movement, moisture, or old flooring damage, fix that first to avoid cracking and uneven tiles."
-      }
-    }
-  ],
+  "name": "What should I check before I start marble tile installation in my bathroom or kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before I start marble tile installation in my bathroom or kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Marble tile installation works best when the substrate is flat, stable, and dry. An installer should inspect the room first, because uneven floors, moisture, or weak underlayment can cause cracks, lippage, or failed grout lines later.",
+        "@type": "Answer",
+        "description": "Check that the surface is level, dry, and structurally sound before installing marble tile. If there’s movement, moisture, or old flooring damage, fix that first to avoid cracking and uneven tiles."
+      }
+    }
+  ],
+  "description": "Check that the surface is level, dry, and structurally sound before installing marble tile. If there’s movement, moisture, or old flooring damage, fix that firs"
 }

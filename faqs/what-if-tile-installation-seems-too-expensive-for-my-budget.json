@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if tile installation seems too expensive for my budget?",
-  "description": "Ask for a detailed quote so you can see what is driving the cost. Prep work, removal, and tile choice usually have the biggest impact on price.",
   "url": "http://coloradoremodeling.company/faq/what-if-tile-installation-seems-too-expensive-for-my-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if tile installation seems too expensive for my budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you need the cheapest possible option, ask for a line-item estimate so you can see what is driving the price. If the quote seems high, the most common cost drivers are demolition, leveling, moisture repair, and premium tile choices rather than the tile work itself.",
-        "description": "Ask for a detailed quote so you can see what is driving the cost. Prep work, removal, and tile choice usually have the biggest impact on price."
-      }
-    }
-  ],
+  "name": "What if tile installation seems too expensive for my budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if tile installation seems too expensive for my budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you need the cheapest possible option, ask for a line-item estimate so you can see what is driving the price. If the quote seems high, the most common cost drivers are demolition, leveling, moisture repair, and premium tile choices rather than the tile work itself.",
+        "@type": "Answer",
+        "description": "Ask for a detailed quote so you can see what is driving the cost. Prep work, removal, and tile choice usually have the biggest impact on price."
+      }
+    }
+  ],
+  "description": "Ask for a detailed quote so you can see what is driving the cost. Prep work, removal, and tile choice usually have the biggest impact on price."
 }

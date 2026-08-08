@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if a layout reconfiguration actually improved the home?",
-  "description": "If the home flows better, uses space more efficiently, and fits your routines more naturally, the reconfiguration worked.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-layout-reconfiguration-actually-improved-the-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if a layout reconfiguration actually improved the home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A successful reconfiguration should improve movement, make rooms more usable, reduce dead space, and better match how you live. In many homes, the best outcome is not simply a bigger room, but a layout that creates clearer transitions, better storage, and more natural use of every area.",
-        "description": "If the home flows better, uses space more efficiently, and fits your routines more naturally, the reconfiguration worked."
-      }
-    }
-  ],
+  "name": "How do I know if a layout reconfiguration actually improved the home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a layout reconfiguration actually improved the home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful reconfiguration should improve movement, make rooms more usable, reduce dead space, and better match how you live. In many homes, the best outcome is not simply a bigger room, but a layout that creates clearer transitions, better storage, and more natural use of every area.",
+        "@type": "Answer",
+        "description": "If the home flows better, uses space more efficiently, and fits your routines more naturally, the reconfiguration worked."
+      }
+    }
+  ],
+  "description": "If the home flows better, uses space more efficiently, and fits your routines more naturally, the reconfiguration worked."
 }

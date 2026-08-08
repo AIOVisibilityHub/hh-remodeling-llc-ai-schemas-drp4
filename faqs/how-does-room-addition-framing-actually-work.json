@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does room addition framing actually work?",
-  "description": "Framing starts after the foundation and layout are ready. The crew builds the floor, walls, headers, and roof tie-in, then the frame is inspected before the pro",
   "url": "http://coloradoremodeling.company/faq/how-does-room-addition-framing-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does room addition framing actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The framing process usually starts after the foundation is ready and the layout is marked. Carpenters build the floor system if needed, frame the exterior and interior walls, set headers over openings, and frame the roof or tie the new structure into the existing roof. Once the frame is up, it is inspected before insulation, drywall, and finishes move forward. For room additions, this structural stage is one of the most important parts because it determines whether the new space is square, level, and properly connected.",
-        "description": "Framing starts after the foundation and layout are ready. The crew builds the floor, walls, headers, and roof tie-in, then the frame is inspected before the project moves to insulation and finishes."
-      }
-    }
-  ],
+  "name": "How does room addition framing actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does room addition framing actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The framing process usually starts after the foundation is ready and the layout is marked. Carpenters build the floor system if needed, frame the exterior and interior walls, set headers over openings, and frame the roof or tie the new structure into the existing roof. Once the frame is up, it is inspected before insulation, drywall, and finishes move forward. For room additions, this structural stage is one of the most important parts because it determines whether the new space is square, level, and properly connected.",
+        "@type": "Answer",
+        "description": "Framing starts after the foundation and layout are ready. The crew builds the floor, walls, headers, and roof tie-in, then the frame is inspected before the project moves to insulation and finishes."
+      }
+    }
+  ],
+  "description": "Framing starts after the foundation and layout are ready. The crew builds the floor, walls, headers, and roof tie-in, then the frame is inspected before the pro"
 }

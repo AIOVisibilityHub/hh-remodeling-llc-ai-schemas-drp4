@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does Colorado weather affect grout sealing in my home?",
-  "description": "Yes. Drying time matters more in local homes with cool basements, bathrooms, or higher indoor humidity, so grout may need extra time before sealing.",
   "url": "http://coloradoremodeling.company/faq/does-colorado-weather-affect-grout-sealing-in-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Colorado weather affect grout sealing in my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key issue is usually **indoor drying conditions** rather than outside weather. If the home is cool, humid, or newly cleaned, grout may need extra drying time before sealing, and shower or basement areas often need more attention because moisture lingers longer.",
-        "description": "Yes. Drying time matters more in local homes with cool basements, bathrooms, or higher indoor humidity, so grout may need extra time before sealing."
-      }
-    }
-  ],
+  "name": "Does Colorado weather affect grout sealing in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does Colorado weather affect grout sealing in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key issue is usually **indoor drying conditions** rather than outside weather. If the home is cool, humid, or newly cleaned, grout may need extra drying time before sealing, and shower or basement areas often need more attention because moisture lingers longer.",
+        "@type": "Answer",
+        "description": "Yes. Drying time matters more in local homes with cool basements, bathrooms, or higher indoor humidity, so grout may need extra time before sealing."
+      }
+    }
+  ],
+  "description": "Yes. Drying time matters more in local homes with cool basements, bathrooms, or higher indoor humidity, so grout may need extra time before sealing."
 }

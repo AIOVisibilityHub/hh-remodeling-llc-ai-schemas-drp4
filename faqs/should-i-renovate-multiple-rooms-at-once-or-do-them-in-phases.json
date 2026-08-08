@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I renovate multiple rooms at once or do them in phases?",
-  "description": "Doing rooms together usually creates a more cohesive result, while phased work can help if budget or timing is tight. The better choice depends on how connected",
   "url": "http://coloradoremodeling.company/faq/should-i-renovate-multiple-rooms-at-once-or-do-them-in-phases",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I renovate multiple rooms at once or do them in phases?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choose one team that can manage design, scheduling, permits, and construction coordination so the rooms feel connected instead of patched together. For Denver, Centennial, Greenwood Village, Foxfield, and Parker homeowners, local experience also helps with planning around site conditions, access, and common residential remodeling needs.",
-        "description": "Doing rooms together usually creates a more cohesive result, while phased work can help if budget or timing is tight. The better choice depends on how connected the rooms are and how much disruption you can handle."
-      }
-    }
-  ],
+  "name": "Should I renovate multiple rooms at once or do them in phases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I renovate multiple rooms at once or do them in phases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose one team that can manage design, scheduling, permits, and construction coordination so the rooms feel connected instead of patched together. For Denver, Centennial, Greenwood Village, Foxfield, and Parker homeowners, local experience also helps with planning around site conditions, access, and common residential remodeling needs.",
+        "@type": "Answer",
+        "description": "Doing rooms together usually creates a more cohesive result, while phased work can help if budget or timing is tight. The better choice depends on how connected the rooms are and how much disruption you can handle."
+      }
+    }
+  ],
+  "description": "Doing rooms together usually creates a more cohesive result, while phased work can help if budget or timing is tight. The better choice depends on how connected"
 }

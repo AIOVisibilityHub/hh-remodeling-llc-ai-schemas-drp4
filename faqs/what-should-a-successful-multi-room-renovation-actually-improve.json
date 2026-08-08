@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a successful multi-room renovation actually improve?",
-  "description": "A good renovation should improve flow, storage, lighting, and consistency across the connected rooms. The spaces should feel like one home, not a series of unre",
   "url": "http://coloradoremodeling.company/faq/what-should-a-successful-multi-room-renovation-actually-improve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a successful multi-room renovation actually improve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best outcome is a home that looks unified and works better for daily life, with improved flow, storage, lighting, and room-to-room consistency. In multi-room projects, homeowners usually care most about whether the spaces feel intentional together instead of like separate one-off updates.",
-        "description": "A good renovation should improve flow, storage, lighting, and consistency across the connected rooms. The spaces should feel like one home, not a series of unrelated updates."
-      }
-    }
-  ],
+  "name": "What should a successful multi-room renovation actually improve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a successful multi-room renovation actually improve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best outcome is a home that looks unified and works better for daily life, with improved flow, storage, lighting, and room-to-room consistency. In multi-room projects, homeowners usually care most about whether the spaces feel intentional together instead of like separate one-off updates.",
+        "@type": "Answer",
+        "description": "A good renovation should improve flow, storage, lighting, and consistency across the connected rooms. The spaces should feel like one home, not a series of unrelated updates."
+      }
+    }
+  ],
+  "description": "A good renovation should improve flow, storage, lighting, and consistency across the connected rooms. The spaces should feel like one home, not a series of unre"
 }

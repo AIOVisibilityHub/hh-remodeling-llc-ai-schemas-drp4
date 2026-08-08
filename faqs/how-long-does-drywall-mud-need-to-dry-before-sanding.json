@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does drywall mud need to dry before sanding?",
-  "description": "Most drywall mud needs around 24 hours before sanding, but thicker patches or humid rooms can take longer. If it still feels soft, wait longer.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-mud-need-to-dry-before-sanding",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does drywall mud need to dry before sanding?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drywall mud usually needs about 24 hours to dry before sanding, but thicker repairs or humid indoor conditions can take longer. If the compound still feels soft or cool to the touch, wait longer rather than sanding early and ruining the repair.",
-        "description": "Most drywall mud needs around 24 hours before sanding, but thicker patches or humid rooms can take longer. If it still feels soft, wait longer."
-      }
-    }
-  ],
+  "name": "How long does drywall mud need to dry before sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall mud need to dry before sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall mud usually needs about 24 hours to dry before sanding, but thicker repairs or humid indoor conditions can take longer. If the compound still feels soft or cool to the touch, wait longer rather than sanding early and ruining the repair.",
+        "@type": "Answer",
+        "description": "Most drywall mud needs around 24 hours before sanding, but thicker patches or humid rooms can take longer. If it still feels soft, wait longer."
+      }
+    }
+  ],
+  "description": "Most drywall mud needs around 24 hours before sanding, but thicker patches or humid rooms can take longer. If it still feels soft, wait longer."
 }

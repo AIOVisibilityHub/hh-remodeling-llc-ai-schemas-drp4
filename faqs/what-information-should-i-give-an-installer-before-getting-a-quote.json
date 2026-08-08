@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I give an installer before getting a quote?",
-  "description": "Share wall photos, measurements, tile choice, and whether the area is wet or dry. A written scope should also show prep, waterproofing, and cleanup.",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-give-an-installer-before-getting-a-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I give an installer before getting a quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most useful proof is a clear site walkthrough, written scope, and photos of the wall before work starts. For tile wall installation, you should also confirm what surface prep is included, what waterproofing is being used if needed, and whether cleanup and grout sealing are part of the price. A detailed estimate prevents surprises later.",
-        "description": "Share wall photos, measurements, tile choice, and whether the area is wet or dry. A written scope should also show prep, waterproofing, and cleanup."
-      }
-    }
-  ],
+  "name": "What information should I give an installer before getting a quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I give an installer before getting a quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful proof is a clear site walkthrough, written scope, and photos of the wall before work starts. For tile wall installation, you should also confirm what surface prep is included, what waterproofing is being used if needed, and whether cleanup and grout sealing are part of the price. A detailed estimate prevents surprises later.",
+        "@type": "Answer",
+        "description": "Share wall photos, measurements, tile choice, and whether the area is wet or dry. A written scope should also show prep, waterproofing, and cleanup."
+      }
+    }
+  ],
+  "description": "Share wall photos, measurements, tile choice, and whether the area is wet or dry. A written scope should also show prep, waterproofing, and cleanup."
 }

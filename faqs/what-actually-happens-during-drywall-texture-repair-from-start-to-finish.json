@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during drywall texture repair from start to finish?",
-  "description": "The wall is protected, repaired, sanded, retextured, and blended so the patch matches the surrounding finish.",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-drywall-texture-repair-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during drywall texture repair from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The repair process usually starts with protecting the area, then patching holes or cracks, sanding, applying the correct texture, and blending the edges so the repair disappears into the surrounding surface. Good texture repair also includes checking for moisture, loose tape, or failing joint compound before any finish work starts. A clean base repair is what makes the texture match believable.",
-        "description": "The wall is protected, repaired, sanded, retextured, and blended so the patch matches the surrounding finish."
-      }
-    }
-  ],
+  "name": "What actually happens during drywall texture repair from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during drywall texture repair from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process usually starts with protecting the area, then patching holes or cracks, sanding, applying the correct texture, and blending the edges so the repair disappears into the surrounding surface. Good texture repair also includes checking for moisture, loose tape, or failing joint compound before any finish work starts. A clean base repair is what makes the texture match believable.",
+        "@type": "Answer",
+        "description": "The wall is protected, repaired, sanded, retextured, and blended so the patch matches the surrounding finish."
+      }
+    }
+  ],
+  "description": "The wall is protected, repaired, sanded, retextured, and blended so the patch matches the surrounding finish."
 }

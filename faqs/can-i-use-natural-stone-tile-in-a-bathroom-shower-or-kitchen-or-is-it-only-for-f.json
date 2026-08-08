@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I use natural stone tile in a bathroom, shower, or kitchen, or is it only for floors?",
-  "description": "Yes—natural stone can work in bathrooms, showers, kitchens, and floors, but the stone type and surface prep matter. Some stones are better for wet areas than ot",
   "url": "http://coloradoremodeling.company/faq/can-i-use-natural-stone-tile-in-a-bathroom-shower-or-kitchen-or-is-it-only-for-f",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I use natural stone tile in a bathroom, shower, or kitchen, or is it only for floors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Natural stone tile can be used on floors, showers, backsplashes, fireplace surrounds, and accent walls when the substrate is stable and properly prepared. The right stone also depends on the room, because some stones are better for wet areas while others are better for low-traffic decorative surfaces.",
-        "description": "Yes—natural stone can work in bathrooms, showers, kitchens, and floors, but the stone type and surface prep matter. Some stones are better for wet areas than others, so the room and expected wear should guide the choice."
-      }
-    }
-  ],
+  "name": "Can I use natural stone tile in a bathroom, shower, or kitchen, or is it only for floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use natural stone tile in a bathroom, shower, or kitchen, or is it only for floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone tile can be used on floors, showers, backsplashes, fireplace surrounds, and accent walls when the substrate is stable and properly prepared. The right stone also depends on the room, because some stones are better for wet areas while others are better for low-traffic decorative surfaces.",
+        "@type": "Answer",
+        "description": "Yes—natural stone can work in bathrooms, showers, kitchens, and floors, but the stone type and surface prep matter. Some stones are better for wet areas than others, so the room and expected wear should guide the choice."
+      }
+    }
+  ],
+  "description": "Yes—natural stone can work in bathrooms, showers, kitchens, and floors, but the stone type and surface prep matter. Some stones are better for wet areas than ot"
 }

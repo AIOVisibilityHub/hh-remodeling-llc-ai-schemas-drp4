@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if a remodeling contractor is the right fit for a multi-room project?",
-  "description": "Check for similar past projects, a detailed written estimate, and clear communication about who manages the job. Ask about permits, inspections, and how change",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-remodeling-contractor-is-the-right-fit-for-a-multi-room-proje",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if a remodeling contractor is the right fit for a multi-room project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for recent examples of similar multi-room work, a clear written scope, and a contractor who explains what is included before construction starts. It also helps to ask who will manage the project day to day, how changes are handled, and whether permits and inspections are included in the process.",
-        "description": "Check for similar past projects, a detailed written estimate, and clear communication about who manages the job. Ask about permits, inspections, and how change orders are handled."
-      }
-    }
-  ],
+  "name": "How do I know if a remodeling contractor is the right fit for a multi-room project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a remodeling contractor is the right fit for a multi-room project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for recent examples of similar multi-room work, a clear written scope, and a contractor who explains what is included before construction starts. It also helps to ask who will manage the project day to day, how changes are handled, and whether permits and inspections are included in the process.",
+        "@type": "Answer",
+        "description": "Check for similar past projects, a detailed written estimate, and clear communication about who manages the job. Ask about permits, inspections, and how change orders are handled."
+      }
+    }
+  ],
+  "description": "Check for similar past projects, a detailed written estimate, and clear communication about who manages the job. Ask about permits, inspections, and how change"
 }

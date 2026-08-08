@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I use a design-build contractor or hire design and construction separately?",
-  "description": "Design-build is often simpler for room additions because one team handles design, permits, and construction. That can reduce delays and communication gaps, espe",
   "url": "http://coloradoremodeling.company/faq/should-i-use-a-design-build-contractor-or-hire-design-and-construction-separatel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I use a design-build contractor or hire design and construction separately?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Design-build is usually the better choice when you want one team handling planning, design, permits, and construction under one roof. It tends to reduce coordination problems, keeps the project moving, and makes it easier to adjust the design if the budget changes. A separate architect-and-builder approach can work well too, but it usually requires more owner oversight and more handoffs. If your project is in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local experience with zoning, inspections, and neighborhood conditions can matter as much as price. Choose the option that gives you the clearest scope and the most confidence in the process, not just the lowest estimate.",
-        "description": "Design-build is often simpler for room additions because one team handles design, permits, and construction. That can reduce delays and communication gaps, especially on projects with many moving parts."
-      }
-    }
-  ],
+  "name": "Should I use a design-build contractor or hire design and construction separately?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use a design-build contractor or hire design and construction separately?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design-build is usually the better choice when you want one team handling planning, design, permits, and construction under one roof. It tends to reduce coordination problems, keeps the project moving, and makes it easier to adjust the design if the budget changes. A separate architect-and-builder approach can work well too, but it usually requires more owner oversight and more handoffs. If your project is in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local experience with zoning, inspections, and neighborhood conditions can matter as much as price. Choose the option that gives you the clearest scope and the most confidence in the process, not just the lowest estimate.",
+        "@type": "Answer",
+        "description": "Design-build is often simpler for room additions because one team handles design, permits, and construction. That can reduce delays and communication gaps, especially on projects with many moving parts."
+      }
+    }
+  ],
+  "description": "Design-build is often simpler for room additions because one team handles design, permits, and construction. That can reduce delays and communication gaps, espe"
 }

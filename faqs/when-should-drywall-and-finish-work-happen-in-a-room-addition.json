@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should drywall and finish work happen in a room addition?",
-  "description": "Drywall and finish work usually starts after framing, insulation, and electrical/HVAC/plumbing rough-ins are done. That sequence helps avoid damage and keeps th",
   "url": "http://coloradoremodeling.company/faq/when-should-drywall-and-finish-work-happen-in-a-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should drywall and finish work happen in a room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should start drywall and finish work after the room addition framing, insulation, and mechanical rough-ins are complete. The drywall crew can then hang, tape, mud, sand, and prepare the space for paint or texture without having to redo finished surfaces.",
-        "description": "Drywall and finish work usually starts after framing, insulation, and electrical/HVAC/plumbing rough-ins are done. That sequence helps avoid damage and keeps the finish smooth and ready for paint."
-      }
-    }
-  ],
+  "name": "When should drywall and finish work happen in a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should drywall and finish work happen in a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should start drywall and finish work after the room addition framing, insulation, and mechanical rough-ins are complete. The drywall crew can then hang, tape, mud, sand, and prepare the space for paint or texture without having to redo finished surfaces.",
+        "@type": "Answer",
+        "description": "Drywall and finish work usually starts after framing, insulation, and electrical/HVAC/plumbing rough-ins are done. That sequence helps avoid damage and keeps the finish smooth and ready for paint."
+      }
+    }
+  ],
+  "description": "Drywall and finish work usually starts after framing, insulation, and electrical/HVAC/plumbing rough-ins are done. That sequence helps avoid damage and keeps th"
 }

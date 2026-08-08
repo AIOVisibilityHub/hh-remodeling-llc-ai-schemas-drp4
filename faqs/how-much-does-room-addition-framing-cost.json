@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does room addition framing cost?",
-  "description": "Cost depends on size, roof complexity, floor structure, and how much tie-in the new space needs. Accurate plans and a fixed scope are the best way to keep frami",
   "url": "http://coloradoremodeling.company/faq/how-much-does-room-addition-framing-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does room addition framing cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing costs vary based on size, roof complexity, whether you need a new floor system, and how much structural tie-in is required. In the Denver area, framing for renovation and addition work is commonly a major part of the total project budget, and costs rise quickly when the addition needs structural changes or second-story support. The best value usually comes from accurate plans, a clear scope, and no mid-project redesigns. If you get quotes, make sure they compare the same materials, labor scope, and structural assumptions.",
-        "description": "Cost depends on size, roof complexity, floor structure, and how much tie-in the new space needs. Accurate plans and a fixed scope are the best way to keep framing costs predictable."
-      }
-    }
-  ],
+  "name": "How much does room addition framing cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does room addition framing cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing costs vary based on size, roof complexity, whether you need a new floor system, and how much structural tie-in is required. In the Denver area, framing for renovation and addition work is commonly a major part of the total project budget, and costs rise quickly when the addition needs structural changes or second-story support. The best value usually comes from accurate plans, a clear scope, and no mid-project redesigns. If you get quotes, make sure they compare the same materials, labor scope, and structural assumptions.",
+        "@type": "Answer",
+        "description": "Cost depends on size, roof complexity, floor structure, and how much tie-in the new space needs. Accurate plans and a fixed scope are the best way to keep framing costs predictable."
+      }
+    }
+  ],
+  "description": "Cost depends on size, roof complexity, floor structure, and how much tie-in the new space needs. Accurate plans and a fixed scope are the best way to keep frami"
 }

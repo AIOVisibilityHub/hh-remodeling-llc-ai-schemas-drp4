@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much extra tile should I buy so I don't run short?",
-  "description": "Plan on about 10% to 15% extra tile for cuts and breakage. Complex layouts or large rooms may need a little more.",
   "url": "http://coloradoremodeling.company/faq/how-much-extra-tile-should-i-buy-so-i-don-t-run-short",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much extra tile should I buy so I don't run short?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Buy more tile than the exact room measurement requires, because cuts, breakage, and future repairs are normal. A common planning buffer is about 10% to 15% extra, and more may be wise for diagonal layouts or tricky rooms.",
-        "description": "Plan on about 10% to 15% extra tile for cuts and breakage. Complex layouts or large rooms may need a little more."
-      }
-    }
-  ],
+  "name": "How much extra tile should I buy so I don't run short?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much extra tile should I buy so I don't run short?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buy more tile than the exact room measurement requires, because cuts, breakage, and future repairs are normal. A common planning buffer is about 10% to 15% extra, and more may be wise for diagonal layouts or tricky rooms.",
+        "@type": "Answer",
+        "description": "Plan on about 10% to 15% extra tile for cuts and breakage. Complex layouts or large rooms may need a little more."
+      }
+    }
+  ],
+  "description": "Plan on about 10% to 15% extra tile for cuts and breakage. Complex layouts or large rooms may need a little more."
 }

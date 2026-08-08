@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare electricians or subcontractors when the project has a lot of moving parts?",
-  "description": "Compare how they manage scheduling, communication, and inspection readiness, not just the quoted price.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-compare-electricians-or-subcontractors-when-the-project-has-a-lot-of-mo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare electricians or subcontractors when the project has a lot of moving parts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should compare how each contractor handles sequencing, communication, and inspection readiness, not just labor price. A strong electrical coordinator will confirm handoff dates, identify conflicts early, and keep the other trades informed about access needs and rough-in completion. That matters more than a low bid if your project is on a tight timeline or has multiple active crews.",
-        "description": "Compare how they manage scheduling, communication, and inspection readiness, not just the quoted price."
-      }
-    }
-  ],
+  "name": "How do I compare electricians or subcontractors when the project has a lot of moving parts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare electricians or subcontractors when the project has a lot of moving parts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should compare how each contractor handles sequencing, communication, and inspection readiness, not just labor price. A strong electrical coordinator will confirm handoff dates, identify conflicts early, and keep the other trades informed about access needs and rough-in completion. That matters more than a low bid if your project is on a tight timeline or has multiple active crews.",
+        "@type": "Answer",
+        "description": "Compare how they manage scheduling, communication, and inspection readiness, not just the quoted price."
+      }
+    }
+  ],
+  "description": "Compare how they manage scheduling, communication, and inspection readiness, not just the quoted price."
 }

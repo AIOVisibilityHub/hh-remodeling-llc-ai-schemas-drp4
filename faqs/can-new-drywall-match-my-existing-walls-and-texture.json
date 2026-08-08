@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can new drywall match my existing walls and texture?",
-  "description": "Yes, but texture matching takes skill. The closer the crew can match the existing finish, the more seamless the new room will look.",
   "url": "http://coloradoremodeling.company/faq/can-new-drywall-match-my-existing-walls-and-texture",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can new drywall match my existing walls and texture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Matching the existing wall texture is often the hardest part of an addition, especially in homes with older or custom finishes. A good finish crew should be able to blend the new surfaces so the addition looks like it belongs with the rest of the house.",
-        "description": "Yes, but texture matching takes skill. The closer the crew can match the existing finish, the more seamless the new room will look."
-      }
-    }
-  ],
+  "name": "Can new drywall match my existing walls and texture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can new drywall match my existing walls and texture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching the existing wall texture is often the hardest part of an addition, especially in homes with older or custom finishes. A good finish crew should be able to blend the new surfaces so the addition looks like it belongs with the rest of the house.",
+        "@type": "Answer",
+        "description": "Yes, but texture matching takes skill. The closer the crew can match the existing finish, the more seamless the new room will look."
+      }
+    }
+  ],
+  "description": "Yes, but texture matching takes skill. The closer the crew can match the existing finish, the more seamless the new room will look."
 }

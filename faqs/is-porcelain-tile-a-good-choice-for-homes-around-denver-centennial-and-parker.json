@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is porcelain tile a good choice for homes around Denver, Centennial, and Parker?",
-  "description": "Yes—porcelain works well in the Denver area because it’s durable and moisture-resistant. Just make sure the installer accounts for seasonal movement with proper",
   "url": "http://coloradoremodeling.company/faq/is-porcelain-tile-a-good-choice-for-homes-around-denver-centennial-and-parker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is porcelain tile a good choice for homes around Denver, Centennial, and Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, porcelain tile can be a smart choice for the Denver metro area because it holds up well in high-use spaces and handles moisture better than many alternatives. What matters locally is installation quality: homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker can see seasonal temperature swings, so movement joints and proper prep are important. That helps reduce cracking and keep grout lines stable.",
-        "description": "Yes—porcelain works well in the Denver area because it’s durable and moisture-resistant. Just make sure the installer accounts for seasonal movement with proper prep and joints."
-      }
-    }
-  ],
+  "name": "Is porcelain tile a good choice for homes around Denver, Centennial, and Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is porcelain tile a good choice for homes around Denver, Centennial, and Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, porcelain tile can be a smart choice for the Denver metro area because it holds up well in high-use spaces and handles moisture better than many alternatives. What matters locally is installation quality: homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker can see seasonal temperature swings, so movement joints and proper prep are important. That helps reduce cracking and keep grout lines stable.",
+        "@type": "Answer",
+        "description": "Yes—porcelain works well in the Denver area because it’s durable and moisture-resistant. Just make sure the installer accounts for seasonal movement with proper prep and joints."
+      }
+    }
+  ],
+  "description": "Yes—porcelain works well in the Denver area because it’s durable and moisture-resistant. Just make sure the installer accounts for seasonal movement with proper"
 }

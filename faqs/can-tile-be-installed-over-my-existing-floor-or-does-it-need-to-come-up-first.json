@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can tile be installed over my existing floor, or does it need to come up first?",
-  "description": "Sometimes tile can go over existing tile, but only if the old floor is solid and stable. If the subfloor is damaged, uneven, or moving, it should be fixed or re",
   "url": "http://coloradoremodeling.company/faq/can-tile-be-installed-over-my-existing-floor-or-does-it-need-to-come-up-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can tile be installed over my existing floor, or does it need to come up first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tile installation is usually a fit for stable, properly prepared floors. If your subfloor is cracked, uneven, soft, or has moisture issues, it should be repaired first so the tile does not fail later. Tile over existing tile can work only when the old surface is solid and movement-free.",
-        "description": "Sometimes tile can go over existing tile, but only if the old floor is solid and stable. If the subfloor is damaged, uneven, or moving, it should be fixed or removed first."
-      }
-    }
-  ],
+  "name": "Can tile be installed over my existing floor, or does it need to come up first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can tile be installed over my existing floor, or does it need to come up first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile installation is usually a fit for stable, properly prepared floors. If your subfloor is cracked, uneven, soft, or has moisture issues, it should be repaired first so the tile does not fail later. Tile over existing tile can work only when the old surface is solid and movement-free.",
+        "@type": "Answer",
+        "description": "Sometimes tile can go over existing tile, but only if the old floor is solid and stable. If the subfloor is damaged, uneven, or moving, it should be fixed or removed first."
+      }
+    }
+  ],
+  "description": "Sometimes tile can go over existing tile, but only if the old floor is solid and stable. If the subfloor is damaged, uneven, or moving, it should be fixed or re"
 }

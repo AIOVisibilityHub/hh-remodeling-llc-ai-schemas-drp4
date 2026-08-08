@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is plumbing coordination different from just hiring a plumber?",
-  "description": "Hiring a plumber covers the plumbing scope, but coordination makes sure plumbing fits the full remodel schedule and other trades. That distinction matters most",
   "url": "http://coloradoremodeling.company/faq/how-is-plumbing-coordination-different-from-just-hiring-a-plumber",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is plumbing coordination different from just hiring a plumber?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main difference is whether you only need plumbing work or whether plumbing has to fit into a larger sequence with framing, electrical, tile, cabinets, and finishes. If your project has multiple moving parts, coordination matters more than just hiring a plumber, because timing and access can affect the whole schedule.",
-        "description": "Hiring a plumber covers the plumbing scope, but coordination makes sure plumbing fits the full remodel schedule and other trades. That distinction matters most when the project includes layout changes or multiple finishes that depend on each other."
-      }
-    }
-  ],
+  "name": "How is plumbing coordination different from just hiring a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is plumbing coordination different from just hiring a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference is whether you only need plumbing work or whether plumbing has to fit into a larger sequence with framing, electrical, tile, cabinets, and finishes. If your project has multiple moving parts, coordination matters more than just hiring a plumber, because timing and access can affect the whole schedule.",
+        "@type": "Answer",
+        "description": "Hiring a plumber covers the plumbing scope, but coordination makes sure plumbing fits the full remodel schedule and other trades. That distinction matters most when the project includes layout changes or multiple finishes that depend on each other."
+      }
+    }
+  ],
+  "description": "Hiring a plumber covers the plumbing scope, but coordination makes sure plumbing fits the full remodel schedule and other trades. That distinction matters most"
 }

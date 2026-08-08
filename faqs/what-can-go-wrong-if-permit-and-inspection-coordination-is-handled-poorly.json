@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if permit and inspection coordination is handled poorly?",
-  "description": "Common problems include delayed approvals, failed inspections, and extra rework if work begins too early. Missing paperwork or skipped inspections can also hold",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-permit-and-inspection-coordination-is-handled-poorly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if permit and inspection coordination is handled poorly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are starting work before the permit is issued, missing a required inspection, or submitting incomplete documents that trigger review delays. Denver’s system makes it clear that inspections must be tied to an issued permit, so coordination mistakes can push a project off schedule.",
-        "description": "Common problems include delayed approvals, failed inspections, and extra rework if work begins too early. Missing paperwork or skipped inspections can also hold up the project."
-      }
-    }
-  ],
+  "name": "What can go wrong if permit and inspection coordination is handled poorly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if permit and inspection coordination is handled poorly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are starting work before the permit is issued, missing a required inspection, or submitting incomplete documents that trigger review delays. Denver’s system makes it clear that inspections must be tied to an issued permit, so coordination mistakes can push a project off schedule.",
+        "@type": "Answer",
+        "description": "Common problems include delayed approvals, failed inspections, and extra rework if work begins too early. Missing paperwork or skipped inspections can also hold up the project."
+      }
+    }
+  ],
+  "description": "Common problems include delayed approvals, failed inspections, and extra rework if work begins too early. Missing paperwork or skipped inspections can also hold"
 }

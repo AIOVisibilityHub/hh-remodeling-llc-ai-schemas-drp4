@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when a general contractor manages a project poorly?",
-  "description": "Common problems are delays, cost overruns, weak communication, and quality issues from poor supervision.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-a-general-contractor-manages-a-project-poorly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when a general contractor manages a project poorly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are poor communication, missed milestones, change orders that are not approved in writing, and subcontractor delays. A safer process includes job-site supervision, clear documentation, quality checks, and regular schedule re-evaluation.",
-        "description": "Common problems are delays, cost overruns, weak communication, and quality issues from poor supervision."
-      }
-    }
-  ],
+  "name": "What can go wrong when a general contractor manages a project poorly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when a general contractor manages a project poorly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are poor communication, missed milestones, change orders that are not approved in writing, and subcontractor delays. A safer process includes job-site supervision, clear documentation, quality checks, and regular schedule re-evaluation.",
+        "@type": "Answer",
+        "description": "Common problems are delays, cost overruns, weak communication, and quality issues from poor supervision."
+      }
+    }
+  ],
+  "description": "Common problems are delays, cost overruns, weak communication, and quality issues from poor supervision."
 }

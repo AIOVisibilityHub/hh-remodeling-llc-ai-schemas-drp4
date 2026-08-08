@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I ask a contractor before starting a whole-house renovation?",
-  "description": "Ask about licensing, insurance, permits, timeline, communication, change orders, and past projects like yours. A clear written scope matters more than a low sta",
   "url": "http://coloradoremodeling.company/faq/what-should-i-ask-a-contractor-before-starting-a-whole-house-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I ask a contractor before starting a whole-house renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should ask for proof of licensing and insurance, recent project photos, references, a clear timeline, and a written estimate that spells out what is included. For whole-house interior renovation work in Denver and nearby suburbs, it is especially important to confirm who handles permits, how change orders are priced, and who manages day-to-day communication. Ask how they handle surprises behind the walls, because older homes often reveal issues once demolition starts. If a contractor cannot explain those basics clearly, keep looking.",
-        "description": "Ask about licensing, insurance, permits, timeline, communication, change orders, and past projects like yours. A clear written scope matters more than a low starting price."
-      }
-    }
-  ],
+  "name": "What should I ask a contractor before starting a whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a contractor before starting a whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should ask for proof of licensing and insurance, recent project photos, references, a clear timeline, and a written estimate that spells out what is included. For whole-house interior renovation work in Denver and nearby suburbs, it is especially important to confirm who handles permits, how change orders are priced, and who manages day-to-day communication. Ask how they handle surprises behind the walls, because older homes often reveal issues once demolition starts. If a contractor cannot explain those basics clearly, keep looking.",
+        "@type": "Answer",
+        "description": "Ask about licensing, insurance, permits, timeline, communication, change orders, and past projects like yours. A clear written scope matters more than a low starting price."
+      }
+    }
+  ],
+  "description": "Ask about licensing, insurance, permits, timeline, communication, change orders, and past projects like yours. A clear written scope matters more than a low sta"
 }

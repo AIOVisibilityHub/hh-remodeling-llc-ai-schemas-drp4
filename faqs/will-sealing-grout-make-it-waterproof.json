@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will sealing grout make it waterproof?",
-  "description": "No—sealer helps grout resist stains and moisture, but it does not make grout completely waterproof or repair damage.",
   "url": "http://coloradoremodeling.company/faq/will-sealing-grout-make-it-waterproof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will sealing grout make it waterproof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A proper seal usually **helps grout resist stains and moisture**, but it is not a waterproof shell and it will not fix cracked, missing, or crumbling grout. In shower areas or kitchens, sealing is most helpful when the grout is sound, clean, and fully cured first.",
-        "description": "No—sealer helps grout resist stains and moisture, but it does not make grout completely waterproof or repair damage."
-      }
-    }
-  ],
+  "name": "Will sealing grout make it waterproof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will sealing grout make it waterproof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A proper seal usually **helps grout resist stains and moisture**, but it is not a waterproof shell and it will not fix cracked, missing, or crumbling grout. In shower areas or kitchens, sealing is most helpful when the grout is sound, clean, and fully cured first.",
+        "@type": "Answer",
+        "description": "No—sealer helps grout resist stains and moisture, but it does not make grout completely waterproof or repair damage."
+      }
+    }
+  ],
+  "description": "No—sealer helps grout resist stains and moisture, but it does not make grout completely waterproof or repair damage."
 }

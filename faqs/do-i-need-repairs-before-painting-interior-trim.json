@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need repairs before painting interior trim?",
-  "description": "If trim is chipped, peeling, cracked, or gaps are showing, repairs usually come first. Painting over damaged trim can make the finish look worse and fail sooner",
   "url": "http://coloradoremodeling.company/faq/do-i-need-repairs-before-painting-interior-trim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need repairs before painting interior trim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You are usually a good candidate for trim painting if your trim is structurally sound but looks scuffed, yellowed, chipped, or outdated. If there is peeling paint, gaps, damaged wood, or previous caulk failure, those issues should be repaired first so the finish lasts. In Denver-area homes, older trim often needs extra prep before paint can go on evenly.",
-        "description": "If trim is chipped, peeling, cracked, or gaps are showing, repairs usually come first. Painting over damaged trim can make the finish look worse and fail sooner."
-      }
-    }
-  ],
+  "name": "Do I need repairs before painting interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need repairs before painting interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You are usually a good candidate for trim painting if your trim is structurally sound but looks scuffed, yellowed, chipped, or outdated. If there is peeling paint, gaps, damaged wood, or previous caulk failure, those issues should be repaired first so the finish lasts. In Denver-area homes, older trim often needs extra prep before paint can go on evenly.",
+        "@type": "Answer",
+        "description": "If trim is chipped, peeling, cracked, or gaps are showing, repairs usually come first. Painting over damaged trim can make the finish look worse and fail sooner."
+      }
+    }
+  ],
+  "description": "If trim is chipped, peeling, cracked, or gaps are showing, repairs usually come first. Painting over damaged trim can make the finish look worse and fail sooner"
 }

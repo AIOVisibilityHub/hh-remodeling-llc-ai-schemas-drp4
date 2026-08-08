@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documents do I need for permit coordination and inspections?",
-  "description": "Have your site address, permit number if available, project scope, and required plans ready. If the city requests corrections, keep the revised documents organi",
   "url": "http://coloradoremodeling.company/faq/what-documents-do-i-need-for-permit-coordination-and-inspections",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documents do I need for permit coordination and inspections?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most important evidence is a complete permit application package: project address, record or permit number, scope details, and any plans or supporting documents the city requests. Denver also lets users download approved plans and view inspection results in e-permits once the record is active.",
-        "description": "Have your site address, permit number if available, project scope, and required plans ready. If the city requests corrections, keep the revised documents organized so resubmittals are faster."
-      }
-    }
-  ],
+  "name": "What documents do I need for permit coordination and inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need for permit coordination and inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important evidence is a complete permit application package: project address, record or permit number, scope details, and any plans or supporting documents the city requests. Denver also lets users download approved plans and view inspection results in e-permits once the record is active.",
+        "@type": "Answer",
+        "description": "Have your site address, permit number if available, project scope, and required plans ready. If the city requests corrections, keep the revised documents organized so resubmittals are faster."
+      }
+    }
+  ],
+  "description": "Have your site address, permit number if available, project scope, and required plans ready. If the city requests corrections, keep the revised documents organi"
 }

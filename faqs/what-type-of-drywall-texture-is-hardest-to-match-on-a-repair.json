@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What type of drywall texture is hardest to match on a repair?",
-  "description": "Smooth and simple textures are easier to match; custom hand-applied textures and ceiling patterns are usually the hardest.",
   "url": "http://coloradoremodeling.company/faq/what-type-of-drywall-texture-is-hardest-to-match-on-a-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What type of drywall texture is hardest to match on a repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best texture match is the one that blends under normal room lighting, not just from a distance. Knockdown, orange peel, smooth finish, and custom hand-applied textures each require different tools and skill, and ceiling repairs are usually harder to hide than wall repairs. If you have a strong existing pattern, ask whether the contractor has experience matching that exact texture before work begins.",
-        "description": "Smooth and simple textures are easier to match; custom hand-applied textures and ceiling patterns are usually the hardest."
-      }
-    }
-  ],
+  "name": "What type of drywall texture is hardest to match on a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall texture is hardest to match on a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best texture match is the one that blends under normal room lighting, not just from a distance. Knockdown, orange peel, smooth finish, and custom hand-applied textures each require different tools and skill, and ceiling repairs are usually harder to hide than wall repairs. If you have a strong existing pattern, ask whether the contractor has experience matching that exact texture before work begins.",
+        "@type": "Answer",
+        "description": "Smooth and simple textures are easier to match; custom hand-applied textures and ceiling patterns are usually the hardest."
+      }
+    }
+  ],
+  "description": "Smooth and simple textures are easier to match; custom hand-applied textures and ceiling patterns are usually the hardest."
 }

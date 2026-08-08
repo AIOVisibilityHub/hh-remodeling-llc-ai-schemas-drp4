@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does shower tile installation actually work from start to finish?",
-  "description": "Shower tile installation usually goes from demolition and prep to waterproofing, tile setting, grout, and sealing. The waterproofing stage is the most important",
   "url": "http://coloradoremodeling.company/faq/how-does-shower-tile-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does shower tile installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard shower tile installation usually includes demolition if needed, surface prep, waterproofing, tile setting, grouting, and sealing. The most important part is not the tile itself but the waterproof system behind it, because that is what protects the shower from leaks.",
-        "description": "Shower tile installation usually goes from demolition and prep to waterproofing, tile setting, grout, and sealing. The waterproofing stage is the most important part because it protects the shower behind the tile."
-      }
-    }
-  ],
+  "name": "How does shower tile installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does shower tile installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard shower tile installation usually includes demolition if needed, surface prep, waterproofing, tile setting, grouting, and sealing. The most important part is not the tile itself but the waterproof system behind it, because that is what protects the shower from leaks.",
+        "@type": "Answer",
+        "description": "Shower tile installation usually goes from demolition and prep to waterproofing, tile setting, grout, and sealing. The waterproofing stage is the most important part because it protects the shower behind the tile."
+      }
+    }
+  ],
+  "description": "Shower tile installation usually goes from demolition and prep to waterproofing, tile setting, grout, and sealing. The waterproofing stage is the most important"
 }

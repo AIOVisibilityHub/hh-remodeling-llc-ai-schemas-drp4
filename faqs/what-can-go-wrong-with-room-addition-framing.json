@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with room addition framing?",
-  "description": "Common problems include bad roof tie-ins, uneven framing, permit delays, and structural mistakes that show up later. Careful planning and coordination with insp",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-room-addition-framing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with room addition framing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are poor structural alignment, roof leaks at the tie-in, uneven floors or walls, and delays caused by missing permits or incomplete plans. In addition, framing errors can create problems later with drywall, cabinetry, windows, and doors. Because room addition framing changes the structure of the home, small mistakes can become expensive fast. The safest approach is to hire a contractor who coordinates framing with foundation, roofing, and inspection steps from the start.",
-        "description": "Common problems include bad roof tie-ins, uneven framing, permit delays, and structural mistakes that show up later. Careful planning and coordination with inspections help prevent expensive rework."
-      }
-    }
-  ],
+  "name": "What can go wrong with room addition framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with room addition framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are poor structural alignment, roof leaks at the tie-in, uneven floors or walls, and delays caused by missing permits or incomplete plans. In addition, framing errors can create problems later with drywall, cabinetry, windows, and doors. Because room addition framing changes the structure of the home, small mistakes can become expensive fast. The safest approach is to hire a contractor who coordinates framing with foundation, roofing, and inspection steps from the start.",
+        "@type": "Answer",
+        "description": "Common problems include bad roof tie-ins, uneven framing, permit delays, and structural mistakes that show up later. Careful planning and coordination with inspections help prevent expensive rework."
+      }
+    }
+  ],
+  "description": "Common problems include bad roof tie-ins, uneven framing, permit delays, and structural mistakes that show up later. Careful planning and coordination with insp"
 }

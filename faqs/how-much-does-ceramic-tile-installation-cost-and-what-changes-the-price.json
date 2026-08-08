@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does ceramic tile installation cost, and what changes the price?",
-  "description": "Price is driven by square footage, prep, demolition, tile type, and labor minimums. Get an itemized quote so you can compare labor, materials, and prep separate",
   "url": "http://coloradoremodeling.company/faq/how-much-does-ceramic-tile-installation-cost-and-what-changes-the-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does ceramic tile installation cost, and what changes the price?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on tile type, room size, prep work, demolition, and layout complexity. Small projects may have minimum labor charges, while full installs often price by square foot plus materials and prep.",
-        "description": "Price is driven by square footage, prep, demolition, tile type, and labor minimums. Get an itemized quote so you can compare labor, materials, and prep separately."
-      }
-    }
-  ],
+  "name": "How much does ceramic tile installation cost, and what changes the price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does ceramic tile installation cost, and what changes the price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on tile type, room size, prep work, demolition, and layout complexity. Small projects may have minimum labor charges, while full installs often price by square foot plus materials and prep.",
+        "@type": "Answer",
+        "description": "Price is driven by square footage, prep, demolition, tile type, and labor minimums. Get an itemized quote so you can compare labor, materials, and prep separately."
+      }
+    }
+  ],
+  "description": "Price is driven by square footage, prep, demolition, tile type, and labor minimums. Get an itemized quote so you can compare labor, materials, and prep separate"
 }

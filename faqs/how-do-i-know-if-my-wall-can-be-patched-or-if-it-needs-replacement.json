@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my wall can be patched or if it needs replacement?",
-  "description": "Small, dry, solid damage can usually be patched. Soft, stained, sagging, or crumbling drywall often needs more than a patch.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-wall-can-be-patched-or-if-it-needs-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my wall can be patched or if it needs replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiny nail holes and hairline dents are usually simple patch jobs. If the drywall is soft, crumbling, stained, sagging, or the hole is larger than a few inches, it often needs more than a cosmetic patch and may require section replacement or a moisture fix first.",
-        "description": "Small, dry, solid damage can usually be patched. Soft, stained, sagging, or crumbling drywall often needs more than a patch."
-      }
-    }
-  ],
+  "name": "How do I know if my wall can be patched or if it needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wall can be patched or if it needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiny nail holes and hairline dents are usually simple patch jobs. If the drywall is soft, crumbling, stained, sagging, or the hole is larger than a few inches, it often needs more than a cosmetic patch and may require section replacement or a moisture fix first.",
+        "@type": "Answer",
+        "description": "Small, dry, solid damage can usually be patched. Soft, stained, sagging, or crumbling drywall often needs more than a patch."
+      }
+    }
+  ],
+  "description": "Small, dry, solid damage can usually be patched. Soft, stained, sagging, or crumbling drywall often needs more than a patch."
 }

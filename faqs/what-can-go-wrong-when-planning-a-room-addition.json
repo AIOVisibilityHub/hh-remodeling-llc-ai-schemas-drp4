@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when planning a room addition?",
-  "description": "Common problems include permit issues, structural surprises, drainage conflicts, and budget overruns. Early site review and engineering help catch the biggest r",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-planning-a-room-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when planning a room addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are zoning conflicts, structural surprises, and scope creep. A plan that looks fine on paper can still fail if the addition exceeds setback limits, creates drainage issues, or requires more foundation or framing work than expected. Hidden problems in the existing house, such as outdated wiring, undersized HVAC, or foundation issues, can also raise costs quickly. The best protection is a site visit, a realistic budget contingency, and early engineering review when the addition is larger or more complex. If a contractor skips feasibility checks, that is a warning sign.",
-        "description": "Common problems include permit issues, structural surprises, drainage conflicts, and budget overruns. Early site review and engineering help catch the biggest risks before construction starts."
-      }
-    }
-  ],
+  "name": "What can go wrong when planning a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when planning a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are zoning conflicts, structural surprises, and scope creep. A plan that looks fine on paper can still fail if the addition exceeds setback limits, creates drainage issues, or requires more foundation or framing work than expected. Hidden problems in the existing house, such as outdated wiring, undersized HVAC, or foundation issues, can also raise costs quickly. The best protection is a site visit, a realistic budget contingency, and early engineering review when the addition is larger or more complex. If a contractor skips feasibility checks, that is a warning sign.",
+        "@type": "Answer",
+        "description": "Common problems include permit issues, structural surprises, drainage conflicts, and budget overruns. Early site review and engineering help catch the biggest risks before construction starts."
+      }
+    }
+  ],
+  "description": "Common problems include permit issues, structural surprises, drainage conflicts, and budget overruns. Early site review and engineering help catch the biggest r"
 }

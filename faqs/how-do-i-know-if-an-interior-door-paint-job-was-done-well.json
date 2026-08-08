@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if an interior door paint job was done well?",
-  "description": "A good door paint job looks smooth, even, and consistent in sheen, with no drips or heavy brush marks. It should also open and close cleanly once the paint has",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-an-interior-door-paint-job-was-done-well",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if an interior door paint job was done well?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A professional finish should look even in natural light, with smooth edges, consistent sheen, and no visible lap marks or heavy brush strokes. The door should open and close cleanly after curing, without sticking to the jamb or leaving tacky spots. In busy homes, the practical test is simple: the surface should be easy to wipe and still look uniform after repeated use.",
-        "description": "A good door paint job looks smooth, even, and consistent in sheen, with no drips or heavy brush marks. It should also open and close cleanly once the paint has cured."
-      }
-    }
-  ],
+  "name": "How do I know if an interior door paint job was done well?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if an interior door paint job was done well?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional finish should look even in natural light, with smooth edges, consistent sheen, and no visible lap marks or heavy brush strokes. The door should open and close cleanly after curing, without sticking to the jamb or leaving tacky spots. In busy homes, the practical test is simple: the surface should be easy to wipe and still look uniform after repeated use.",
+        "@type": "Answer",
+        "description": "A good door paint job looks smooth, even, and consistent in sheen, with no drips or heavy brush marks. It should also open and close cleanly once the paint has cured."
+      }
+    }
+  ],
+  "description": "A good door paint job looks smooth, even, and consistent in sheen, with no drips or heavy brush marks. It should also open and close cleanly once the paint has"
 }

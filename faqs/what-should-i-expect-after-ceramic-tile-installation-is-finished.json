@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after ceramic tile installation is finished?",
-  "description": "You should expect a flat, durable, easy-to-clean surface with clean grout lines and proper transitions. Good installation also means the tile is ready for norma",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-ceramic-tile-installation-is-finished",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after ceramic tile installation is finished?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-installed ceramic tile surface should be level, durable, easy to clean, and suitable for long-term use in the space. In Colorado homes, a professional installation should also account for movement, transitions, and the specific conditions of the room.",
-        "description": "You should expect a flat, durable, easy-to-clean surface with clean grout lines and proper transitions. Good installation also means the tile is ready for normal use after curing."
-      }
-    }
-  ],
+  "name": "What should I expect after ceramic tile installation is finished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after ceramic tile installation is finished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-installed ceramic tile surface should be level, durable, easy to clean, and suitable for long-term use in the space. In Colorado homes, a professional installation should also account for movement, transitions, and the specific conditions of the room.",
+        "@type": "Answer",
+        "description": "You should expect a flat, durable, easy-to-clean surface with clean grout lines and proper transitions. Good installation also means the tile is ready for normal use after curing."
+      }
+    }
+  ],
+  "description": "You should expect a flat, durable, easy-to-clean surface with clean grout lines and proper transitions. Good installation also means the tile is ready for norma"
 }

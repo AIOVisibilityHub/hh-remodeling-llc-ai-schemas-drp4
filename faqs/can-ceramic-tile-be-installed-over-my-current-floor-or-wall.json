@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can ceramic tile be installed over my current floor or wall?",
-  "description": "Often yes, but only if the existing surface is sound, flat, and properly prepared. Wet areas also need waterproofing and the right underlayment.",
   "url": "http://coloradoremodeling.company/faq/can-ceramic-tile-be-installed-over-my-current-floor-or-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can ceramic tile be installed over my current floor or wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most ceramic tile projects can be installed in kitchens, bathrooms, entryways, and other interior areas, but the floor or wall must be suitable for tile. In wet areas, proper waterproofing and substrate preparation matter as much as the tile itself.",
-        "description": "Often yes, but only if the existing surface is sound, flat, and properly prepared. Wet areas also need waterproofing and the right underlayment."
-      }
-    }
-  ],
+  "name": "Can ceramic tile be installed over my current floor or wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can ceramic tile be installed over my current floor or wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most ceramic tile projects can be installed in kitchens, bathrooms, entryways, and other interior areas, but the floor or wall must be suitable for tile. In wet areas, proper waterproofing and substrate preparation matter as much as the tile itself.",
+        "@type": "Answer",
+        "description": "Often yes, but only if the existing surface is sound, flat, and properly prepared. Wet areas also need waterproofing and the right underlayment."
+      }
+    }
+  ],
+  "description": "Often yes, but only if the existing surface is sound, flat, and properly prepared. Wet areas also need waterproofing and the right underlayment."
 }

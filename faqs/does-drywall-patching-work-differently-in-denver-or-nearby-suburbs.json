@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does drywall patching work differently in Denver or nearby suburbs?",
-  "description": "Yes. Dry indoor air, leak history, and textured walls can affect dry time and finish quality in Denver-area homes.",
   "url": "http://coloradoremodeling.company/faq/does-drywall-patching-work-differently-in-denver-or-nearby-suburbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does drywall patching work differently in Denver or nearby suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you’re in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions like winter dryness, recent leaks, and older homes with textured walls can affect drying and finish quality. A local repair can also help when you need the patch coordinated with painting or other restoration work.",
-        "description": "Yes. Dry indoor air, leak history, and textured walls can affect dry time and finish quality in Denver-area homes."
-      }
-    }
-  ],
+  "name": "Does drywall patching work differently in Denver or nearby suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does drywall patching work differently in Denver or nearby suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions like winter dryness, recent leaks, and older homes with textured walls can affect drying and finish quality. A local repair can also help when you need the patch coordinated with painting or other restoration work.",
+        "@type": "Answer",
+        "description": "Yes. Dry indoor air, leak history, and textured walls can affect dry time and finish quality in Denver-area homes."
+      }
+    }
+  ],
+  "description": "Yes. Dry indoor air, leak history, and textured walls can affect dry time and finish quality in Denver-area homes."
 }

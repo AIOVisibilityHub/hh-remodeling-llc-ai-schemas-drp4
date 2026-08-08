@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it worth paying for walls, ceilings, trim, and doors instead of just walls?",
-  "description": "If trim and ceilings are worn, the fuller package usually looks cleaner and more finished. Walls-only is cheaper, but it may leave older surfaces looking mismat",
   "url": "http://coloradoremodeling.company/faq/is-it-worth-paying-for-walls-ceilings-trim-and-doors-instead-of-just-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it worth paying for walls, ceilings, trim, and doors instead of just walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main value question is whether you need walls only or a more complete refresh with ceilings, trim, and doors. A broader package costs more upfront, but it usually creates a more uniform finish and can be the better value if your trim or ceilings are visibly worn.",
-        "description": "If trim and ceilings are worn, the fuller package usually looks cleaner and more finished. Walls-only is cheaper, but it may leave older surfaces looking mismatched."
-      }
-    }
-  ],
+  "name": "Is it worth paying for walls, ceilings, trim, and doors instead of just walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it worth paying for walls, ceilings, trim, and doors instead of just walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main value question is whether you need walls only or a more complete refresh with ceilings, trim, and doors. A broader package costs more upfront, but it usually creates a more uniform finish and can be the better value if your trim or ceilings are visibly worn.",
+        "@type": "Answer",
+        "description": "If trim and ceilings are worn, the fuller package usually looks cleaner and more finished. Walls-only is cheaper, but it may leave older surfaces looking mismatched."
+      }
+    }
+  ],
+  "description": "If trim and ceilings are worn, the fuller package usually looks cleaner and more finished. Walls-only is cheaper, but it may leave older surfaces looking mismat"
 }

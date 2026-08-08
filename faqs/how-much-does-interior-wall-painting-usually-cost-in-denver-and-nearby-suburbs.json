@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does interior wall painting usually cost in Denver and nearby suburbs?",
-  "description": "A single room is often a few hundred dollars, while whole-home interior wall painting can range from the low thousands upward depending on prep, size, and finis",
   "url": "http://coloradoremodeling.company/faq/how-much-does-interior-wall-painting-usually-cost-in-denver-and-nearby-suburbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does interior wall painting usually cost in Denver and nearby suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most Denver-area homes, a single room often falls in the low hundreds, while whole-home projects can range much higher depending on size and prep. Wall condition, ceiling height, trim, and color changes are the biggest cost drivers.",
-        "description": "A single room is often a few hundred dollars, while whole-home interior wall painting can range from the low thousands upward depending on prep, size, and finishes."
-      }
-    }
-  ],
+  "name": "How much does interior wall painting usually cost in Denver and nearby suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior wall painting usually cost in Denver and nearby suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most Denver-area homes, a single room often falls in the low hundreds, while whole-home projects can range much higher depending on size and prep. Wall condition, ceiling height, trim, and color changes are the biggest cost drivers.",
+        "@type": "Answer",
+        "description": "A single room is often a few hundred dollars, while whole-home interior wall painting can range from the low thousands upward depending on prep, size, and finishes."
+      }
+    }
+  ],
+  "description": "A single room is often a few hundred dollars, while whole-home interior wall painting can range from the low thousands upward depending on prep, size, and finis"
 }

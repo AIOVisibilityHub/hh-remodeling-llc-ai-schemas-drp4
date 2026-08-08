@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with tile wall installation if it’s done badly?",
-  "description": "Bad prep can lead to cracked tile, uneven surfaces, and moisture damage. The main prevention is proper wall prep, the right materials, and enough cure time.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-tile-wall-installation-if-it-s-done-badly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with tile wall installation if it’s done badly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are cracked tile, lippage, failed grout, and moisture problems behind the wall. Those issues usually come from poor prep, the wrong adhesive, skipped waterproofing, or rushing the cure time. In places like Greenwood Village, Parker, and Centennial, the safest approach is to hire someone who checks the wall condition before installation starts.",
-        "description": "Bad prep can lead to cracked tile, uneven surfaces, and moisture damage. The main prevention is proper wall prep, the right materials, and enough cure time."
-      }
-    }
-  ],
+  "name": "What can go wrong with tile wall installation if it’s done badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with tile wall installation if it’s done badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are cracked tile, lippage, failed grout, and moisture problems behind the wall. Those issues usually come from poor prep, the wrong adhesive, skipped waterproofing, or rushing the cure time. In places like Greenwood Village, Parker, and Centennial, the safest approach is to hire someone who checks the wall condition before installation starts.",
+        "@type": "Answer",
+        "description": "Bad prep can lead to cracked tile, uneven surfaces, and moisture damage. The main prevention is proper wall prep, the right materials, and enough cure time."
+      }
+    }
+  ],
+  "description": "Bad prep can lead to cracked tile, uneven surfaces, and moisture damage. The main prevention is proper wall prep, the right materials, and enough cure time."
 }

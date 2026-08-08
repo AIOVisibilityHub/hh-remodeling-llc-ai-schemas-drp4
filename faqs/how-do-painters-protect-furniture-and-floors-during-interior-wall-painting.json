@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do painters protect furniture and floors during interior wall painting?",
-  "description": "Good painters should cover floors and furniture, mask fixtures, and handle cleanup so your home stays protected.",
   "url": "http://coloradoremodeling.company/faq/how-do-painters-protect-furniture-and-floors-during-interior-wall-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do painters protect furniture and floors during interior wall painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Protecting floors, furniture, trim, and fixtures is part of a professional interior painting job. A crew should move or cover items carefully, remove or mask hardware as needed, and clean up each day.",
-        "description": "Good painters should cover floors and furniture, mask fixtures, and handle cleanup so your home stays protected."
-      }
-    }
-  ],
+  "name": "How do painters protect furniture and floors during interior wall painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do painters protect furniture and floors during interior wall painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting floors, furniture, trim, and fixtures is part of a professional interior painting job. A crew should move or cover items carefully, remove or mask hardware as needed, and clean up each day.",
+        "@type": "Answer",
+        "description": "Good painters should cover floors and furniture, mask fixtures, and handle cleanup so your home stays protected."
+      }
+    }
+  ],
+  "description": "Good painters should cover floors and furniture, mask fixtures, and handle cleanup so your home stays protected."
 }

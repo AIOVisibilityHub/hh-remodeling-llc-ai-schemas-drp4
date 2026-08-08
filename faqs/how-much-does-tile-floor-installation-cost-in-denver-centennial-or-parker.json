@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does tile floor installation cost in Denver, Centennial, or Parker?",
-  "description": "Cost depends on tile type, room size, and prep work. The best estimate comes from measuring the space and factoring in removal, leveling, materials, and labor.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-tile-floor-installation-cost-in-denver-centennial-or-parker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does tile floor installation cost in Denver, Centennial, or Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tile installation cost depends on tile type, room size, prep work, and whether old flooring must be removed. Material prices vary widely, and installation labor commonly adds a meaningful per-square-foot cost, so a detailed estimate is the best way to compare real totals.",
-        "description": "Cost depends on tile type, room size, and prep work. The best estimate comes from measuring the space and factoring in removal, leveling, materials, and labor."
-      }
-    }
-  ],
+  "name": "How much does tile floor installation cost in Denver, Centennial, or Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tile floor installation cost in Denver, Centennial, or Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile installation cost depends on tile type, room size, prep work, and whether old flooring must be removed. Material prices vary widely, and installation labor commonly adds a meaningful per-square-foot cost, so a detailed estimate is the best way to compare real totals.",
+        "@type": "Answer",
+        "description": "Cost depends on tile type, room size, and prep work. The best estimate comes from measuring the space and factoring in removal, leveling, materials, and labor."
+      }
+    }
+  ],
+  "description": "Cost depends on tile type, room size, and prep work. The best estimate comes from measuring the space and factoring in removal, leveling, materials, and labor."
 }

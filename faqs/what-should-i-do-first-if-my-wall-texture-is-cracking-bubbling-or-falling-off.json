@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if my wall texture is cracking, bubbling, or falling off?",
-  "description": "Stop and inspect for moisture, then get the area assessed soon. Cracks, bubbles, or peeling texture can mean the problem is getting worse.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-my-wall-texture-is-cracking-bubbling-or-falling-off",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if my wall texture is cracking, bubbling, or falling off?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should request repair help quickly if the texture is bubbling, crumbling, staining, or coming loose, because those signs often point to moisture or ongoing movement. Waiting can make the damaged area larger and increase the amount of sanding, patching, or replacement needed. For homes in the Denver area, fast attention is especially important after leaks, roof issues, or plumbing problems.",
-        "description": "Stop and inspect for moisture, then get the area assessed soon. Cracks, bubbles, or peeling texture can mean the problem is getting worse."
-      }
-    }
-  ],
+  "name": "What should I do first if my wall texture is cracking, bubbling, or falling off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my wall texture is cracking, bubbling, or falling off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should request repair help quickly if the texture is bubbling, crumbling, staining, or coming loose, because those signs often point to moisture or ongoing movement. Waiting can make the damaged area larger and increase the amount of sanding, patching, or replacement needed. For homes in the Denver area, fast attention is especially important after leaks, roof issues, or plumbing problems.",
+        "@type": "Answer",
+        "description": "Stop and inspect for moisture, then get the area assessed soon. Cracks, bubbles, or peeling texture can mean the problem is getting worse."
+      }
+    }
+  ],
+  "description": "Stop and inspect for moisture, then get the area assessed soon. Cracks, bubbles, or peeling texture can mean the problem is getting worse."
 }

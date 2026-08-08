@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a whole-house interior renovation usually take?",
-  "description": "A full whole-house interior renovation often takes several months, not a few weeks. Cosmetic projects are faster, but layout changes, custom materials, and perm",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-whole-house-interior-renovation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a whole-house interior renovation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whole-house interior renovation timelines vary a lot, but a full interior project commonly takes several months once construction starts. Cosmetic-only work can move faster, while projects that include layout changes, plumbing, electrical, or custom finishes take longer because design, permitting, and material lead times add up. In the Denver area, it is smart to expect delays if you are ordering special materials or making major changes after the plan is approved. Build extra time into the schedule so the project does not feel rushed.",
-        "description": "A full whole-house interior renovation often takes several months, not a few weeks. Cosmetic projects are faster, but layout changes, custom materials, and permits can extend the schedule."
-      }
-    }
-  ],
+  "name": "How long does a whole-house interior renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole-house interior renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-house interior renovation timelines vary a lot, but a full interior project commonly takes several months once construction starts. Cosmetic-only work can move faster, while projects that include layout changes, plumbing, electrical, or custom finishes take longer because design, permitting, and material lead times add up. In the Denver area, it is smart to expect delays if you are ordering special materials or making major changes after the plan is approved. Build extra time into the schedule so the project does not feel rushed.",
+        "@type": "Answer",
+        "description": "A full whole-house interior renovation often takes several months, not a few weeks. Cosmetic projects are faster, but layout changes, custom materials, and permits can extend the schedule."
+      }
+    }
+  ],
+  "description": "A full whole-house interior renovation often takes several months, not a few weeks. Cosmetic projects are faster, but layout changes, custom materials, and perm"
 }

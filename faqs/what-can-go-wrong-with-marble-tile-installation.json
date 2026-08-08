@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with marble tile installation?",
-  "description": "Common problems include cracks, uneven edges, staining, and scratches. Most of these issues come from poor prep, weak substrate support, or skipping proper seal",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-marble-tile-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with marble tile installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are cracking, lippage, staining, and etching if the stone is installed over an unstable surface or not sealed correctly. Marble can also show scratches more easily than harder tile, so using the right underlayment and maintenance plan matters.",
-        "description": "Common problems include cracks, uneven edges, staining, and scratches. Most of these issues come from poor prep, weak substrate support, or skipping proper sealing."
-      }
-    }
-  ],
+  "name": "What can go wrong with marble tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with marble tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are cracking, lippage, staining, and etching if the stone is installed over an unstable surface or not sealed correctly. Marble can also show scratches more easily than harder tile, so using the right underlayment and maintenance plan matters.",
+        "@type": "Answer",
+        "description": "Common problems include cracks, uneven edges, staining, and scratches. Most of these issues come from poor prep, weak substrate support, or skipping proper sealing."
+      }
+    }
+  ],
+  "description": "Common problems include cracks, uneven edges, staining, and scratches. Most of these issues come from poor prep, weak substrate support, or skipping proper seal"
 }

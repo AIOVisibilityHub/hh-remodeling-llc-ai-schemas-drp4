@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I patch drywall myself or hire a professional?",
-  "description": "DIY is fine for tiny cosmetic holes, but bigger damage, ceilings, water issues, and texture matching are usually better left to a pro.",
   "url": "http://coloradoremodeling.company/faq/should-i-patch-drywall-myself-or-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I patch drywall myself or hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY makes sense for tiny nail holes and very small dents, but professional patching is usually better for holes bigger than your hand, ceiling damage, water stains, or texture that needs matching. Hiring help can save time when you want the repair to disappear instead of just be covered.",
-        "description": "DIY is fine for tiny cosmetic holes, but bigger damage, ceilings, water issues, and texture matching are usually better left to a pro."
-      }
-    }
-  ],
+  "name": "Should I patch drywall myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I patch drywall myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY makes sense for tiny nail holes and very small dents, but professional patching is usually better for holes bigger than your hand, ceiling damage, water stains, or texture that needs matching. Hiring help can save time when you want the repair to disappear instead of just be covered.",
+        "@type": "Answer",
+        "description": "DIY is fine for tiny cosmetic holes, but bigger damage, ceilings, water issues, and texture matching are usually better left to a pro."
+      }
+    }
+  ],
+  "description": "DIY is fine for tiny cosmetic holes, but bigger damage, ceilings, water issues, and texture matching are usually better left to a pro."
 }

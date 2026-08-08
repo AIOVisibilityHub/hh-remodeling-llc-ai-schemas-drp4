@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need ready before plumbing coordination starts?",
-  "description": "Have fixture model numbers, layout plans, cabinet and countertop details, and any wall or drain changes ready. The more exact the product and dimension informat",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-ready-before-plumbing-coordination-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need ready before plumbing coordination starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should expect to provide the plumber, remodeler, or project lead with the fixture schedule, product model numbers, cabinet and countertop details, and any plans showing wall moves or layout changes. If the project involves a shower, tub, or custom vanity, the exact valve and trim system also need to be confirmed before ordering parts.",
-        "description": "Have fixture model numbers, layout plans, cabinet and countertop details, and any wall or drain changes ready. The more exact the product and dimension information, the fewer surprises during rough-in and trim-out."
-      }
-    }
-  ],
+  "name": "What information do I need ready before plumbing coordination starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need ready before plumbing coordination starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect to provide the plumber, remodeler, or project lead with the fixture schedule, product model numbers, cabinet and countertop details, and any plans showing wall moves or layout changes. If the project involves a shower, tub, or custom vanity, the exact valve and trim system also need to be confirmed before ordering parts.",
+        "@type": "Answer",
+        "description": "Have fixture model numbers, layout plans, cabinet and countertop details, and any wall or drain changes ready. The more exact the product and dimension information, the fewer surprises during rough-in and trim-out."
+      }
+    }
+  ],
+  "description": "Have fixture model numbers, layout plans, cabinet and countertop details, and any wall or drain changes ready. The more exact the product and dimension informat"
 }

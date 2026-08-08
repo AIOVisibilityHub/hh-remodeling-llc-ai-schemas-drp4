@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does drywall patching actually work?",
-  "description": "A proper patch is cleaned up, reinforced if needed, coated in thin layers, sanded smooth, then primed and painted to blend in.",
   "url": "http://coloradoremodeling.company/faq/how-does-drywall-patching-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does drywall patching actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process is usually: inspect the damage, cut clean edges if needed, add mesh tape or backing, apply joint compound in thin coats, let each coat dry, sand between coats, then prime and paint. Clean prep matters because rough edges and trapped dust make the repair visible after painting.",
-        "description": "A proper patch is cleaned up, reinforced if needed, coated in thin layers, sanded smooth, then primed and painted to blend in."
-      }
-    }
-  ],
+  "name": "How does drywall patching actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does drywall patching actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process is usually: inspect the damage, cut clean edges if needed, add mesh tape or backing, apply joint compound in thin coats, let each coat dry, sand between coats, then prime and paint. Clean prep matters because rough edges and trapped dust make the repair visible after painting.",
+        "@type": "Answer",
+        "description": "A proper patch is cleaned up, reinforced if needed, coated in thin layers, sanded smooth, then primed and painted to blend in."
+      }
+    }
+  ],
+  "description": "A proper patch is cleaned up, reinforced if needed, coated in thin layers, sanded smooth, then primed and painted to blend in."
 }
