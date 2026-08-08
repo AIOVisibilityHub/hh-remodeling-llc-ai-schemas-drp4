@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence should I gather before I ask for storm damage paint repairs?",
-  "description": "Take clear photos of dents, cracks, peeling, stains, warped trim, and any water intrusion. Also note when the storm happened and when the damage first showed up",
   "url": "http://coloradoremodeling.company/faq/what-evidence-should-i-gather-before-i-ask-for-storm-damage-paint-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence should I gather before I ask for storm damage paint repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong documentation is the key evidence: clear photos of dents, cracks, peeling, staining, warped trim, and any interior signs of water intrusion. Keep notes on when the storm happened and what changed afterward, because that makes it easier to show that the finish damage is storm-related rather than normal wear.",
-        "description": "Take clear photos of dents, cracks, peeling, stains, warped trim, and any water intrusion. Also note when the storm happened and when the damage first showed up, because that helps connect the finish damage to the storm."
-      }
-    }
-  ],
+  "name": "What evidence should I gather before I ask for storm damage paint repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence should I gather before I ask for storm damage paint repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong documentation is the key evidence: clear photos of dents, cracks, peeling, staining, warped trim, and any interior signs of water intrusion. Keep notes on when the storm happened and what changed afterward, because that makes it easier to show that the finish damage is storm-related rather than normal wear.",
+        "@type": "Answer",
+        "description": "Take clear photos of dents, cracks, peeling, stains, warped trim, and any water intrusion. Also note when the storm happened and when the damage first showed up, because that helps connect the finish damage to the storm."
+      }
+    }
+  ],
+  "description": "Take clear photos of dents, cracks, peeling, stains, warped trim, and any water intrusion. Also note when the storm happened and when the damage first showed up"
 }

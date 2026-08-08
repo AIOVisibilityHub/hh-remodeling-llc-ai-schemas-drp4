@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if my log cabin finish is looking dull or patchy?",
-  "description": "Start with a condition assessment. If the finish is fading, peeling, or letting in moisture, the surface may need prep, sealing, or repair before any new coatin",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-my-log-cabin-finish-is-looking-dull-or-patchy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if my log cabin finish is looking dull or patchy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners should start with a condition check before choosing stain, clearcoat, or a full restoration. The right upgrade depends on whether the existing finish is just worn, or whether there is UV damage, moisture intrusion, open joints, or rot that needs repair first. For log homes in the Denver metro area, a proper evaluation usually includes the finish type, surface prep needs, and any sealing or chinking issues.",
-        "description": "Start with a condition assessment. If the finish is fading, peeling, or letting in moisture, the surface may need prep, sealing, or repair before any new coating goes on."
-      }
-    }
-  ],
+  "name": "What should I do first if my log cabin finish is looking dull or patchy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my log cabin finish is looking dull or patchy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners should start with a condition check before choosing stain, clearcoat, or a full restoration. The right upgrade depends on whether the existing finish is just worn, or whether there is UV damage, moisture intrusion, open joints, or rot that needs repair first. For log homes in the Denver metro area, a proper evaluation usually includes the finish type, surface prep needs, and any sealing or chinking issues.",
+        "@type": "Answer",
+        "description": "Start with a condition assessment. If the finish is fading, peeling, or letting in moisture, the surface may need prep, sealing, or repair before any new coating goes on."
+      }
+    }
+  ],
+  "description": "Start with a condition assessment. If the finish is fading, peeling, or letting in moisture, the surface may need prep, sealing, or repair before any new coatin"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I tell whether my log home finish actually needs to be upgraded?",
-  "description": "Look for gray wood, peeling coating, water absorption, cracking, or soft spots. Those are strong signs the finish is no longer protecting the logs.",
   "url": "http://coloradoremodeling.company/faq/how-can-i-tell-whether-my-log-home-finish-actually-needs-to-be-upgraded",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I tell whether my log home finish actually needs to be upgraded?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most common sign is water behavior: if rain no longer beads, the wood looks dry or gray, or dark spots appear after storms, the finish may be failing. Other warning signs include peeling clearcoat, checking or cracking in stain, soft spots, and gaps around logs or trim. If you see any of those, it is usually time to inspect the home before damage spreads.",
-        "description": "Look for gray wood, peeling coating, water absorption, cracking, or soft spots. Those are strong signs the finish is no longer protecting the logs."
-      }
-    }
-  ],
+  "name": "How can I tell whether my log home finish actually needs to be upgraded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether my log home finish actually needs to be upgraded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common sign is water behavior: if rain no longer beads, the wood looks dry or gray, or dark spots appear after storms, the finish may be failing. Other warning signs include peeling clearcoat, checking or cracking in stain, soft spots, and gaps around logs or trim. If you see any of those, it is usually time to inspect the home before damage spreads.",
+        "@type": "Answer",
+        "description": "Look for gray wood, peeling coating, water absorption, cracking, or soft spots. Those are strong signs the finish is no longer protecting the logs."
+      }
+    }
+  ],
+  "description": "Look for gray wood, peeling coating, water absorption, cracking, or soft spots. Those are strong signs the finish is no longer protecting the logs."
 }

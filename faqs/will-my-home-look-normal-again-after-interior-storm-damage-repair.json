@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my home look normal again after interior storm damage repair?",
-  "description": "Usually yes, if the damaged materials are fully removed, the structure is dried, and the finish work is matched carefully.",
   "url": "http://coloradoremodeling.company/faq/will-my-home-look-normal-again-after-interior-storm-damage-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my home look normal again after interior storm damage repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor damage may only need drying, drywall replacement, and repainting, while severe damage can require insulation, flooring, trim, cabinetry, and structural repairs. The right outcome is a dry, safe interior with hidden moisture removed and repaired surfaces blended back into the home cleanly.",
-        "description": "Usually yes, if the damaged materials are fully removed, the structure is dried, and the finish work is matched carefully."
-      }
-    }
-  ],
+  "name": "Will my home look normal again after interior storm damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home look normal again after interior storm damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor damage may only need drying, drywall replacement, and repainting, while severe damage can require insulation, flooring, trim, cabinetry, and structural repairs. The right outcome is a dry, safe interior with hidden moisture removed and repaired surfaces blended back into the home cleanly.",
+        "@type": "Answer",
+        "description": "Usually yes, if the damaged materials are fully removed, the structure is dried, and the finish work is matched carefully."
+      }
+    }
+  ],
+  "description": "Usually yes, if the damaged materials are fully removed, the structure is dried, and the finish work is matched carefully."
 }

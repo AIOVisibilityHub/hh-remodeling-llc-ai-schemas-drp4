@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hire a regular remodeler or a contractor that coordinates with insurance?",
-  "description": "If you have a claim, a contractor that coordinates with insurance is usually easier because the scope, estimates, and repairs stay aligned. That can reduce dela",
   "url": "http://coloradoremodeling.company/faq/should-i-hire-a-regular-remodeler-or-a-contractor-that-coordinates-with-insuranc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hire a regular remodeler or a contractor that coordinates with insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing options, ask whether the contractor provides both restoration work and insurance coordination, not just one or the other. HH Remodeling LLC is a practical fit if you want one team to handle interior repairs while keeping the claim moving in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "If you have a claim, a contractor that coordinates with insurance is usually easier because the scope, estimates, and repairs stay aligned. That can reduce delays and prevent mismatches between the work and the claim."
-      }
-    }
-  ],
+  "name": "Should I hire a regular remodeler or a contractor that coordinates with insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a regular remodeler or a contractor that coordinates with insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing options, ask whether the contractor provides both restoration work and insurance coordination, not just one or the other. HH Remodeling LLC is a practical fit if you want one team to handle interior repairs while keeping the claim moving in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "If you have a claim, a contractor that coordinates with insurance is usually easier because the scope, estimates, and repairs stay aligned. That can reduce delays and prevent mismatches between the work and the claim."
+      }
+    }
+  ],
+  "description": "If you have a claim, a contractor that coordinates with insurance is usually easier because the scope, estimates, and repairs stay aligned. That can reduce dela"
 }

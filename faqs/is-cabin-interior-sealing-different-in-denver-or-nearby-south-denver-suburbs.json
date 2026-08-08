@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is cabin interior sealing different in Denver or nearby South Denver suburbs?",
-  "description": "Yes. Colorado’s dry air and temperature swings can make weak seals fail faster, so local experience matters. In Denver-area cabins, the most important areas are",
   "url": "http://coloradoremodeling.company/faq/is-cabin-interior-sealing-different-in-denver-or-nearby-south-denver-suburbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is cabin interior sealing different in Denver or nearby South Denver suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For cabins in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions matter because dry air, strong temperature swings, and seasonal expansion can reopen weak seals. A local contractor also knows which areas in Colorado cabins need extra attention, especially around windows, doors, and exposed framing.",
-        "description": "Yes. Colorado’s dry air and temperature swings can make weak seals fail faster, so local experience matters. In Denver-area cabins, the most important areas are usually windows, doors, trim, and other joints that move with the seasons."
-      }
-    }
-  ],
+  "name": "Is cabin interior sealing different in Denver or nearby South Denver suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is cabin interior sealing different in Denver or nearby South Denver suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For cabins in Denver, Centennial, Greenwood Village, Foxfield, or Parker, local conditions matter because dry air, strong temperature swings, and seasonal expansion can reopen weak seals. A local contractor also knows which areas in Colorado cabins need extra attention, especially around windows, doors, and exposed framing.",
+        "@type": "Answer",
+        "description": "Yes. Colorado’s dry air and temperature swings can make weak seals fail faster, so local experience matters. In Denver-area cabins, the most important areas are usually windows, doors, trim, and other joints that move with the seasons."
+      }
+    }
+  ],
+  "description": "Yes. Colorado’s dry air and temperature swings can make weak seals fail faster, so local experience matters. In Denver-area cabins, the most important areas are"
 }

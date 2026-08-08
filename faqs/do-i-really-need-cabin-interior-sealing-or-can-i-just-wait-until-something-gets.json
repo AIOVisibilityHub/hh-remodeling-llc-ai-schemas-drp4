@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I really need cabin interior sealing, or can I just wait until something gets worse?",
-  "description": "If drafts or moisture are already showing up, waiting usually makes the repair more expensive later. A quick inspection can tell you whether the cabin needs a s",
   "url": "http://coloradoremodeling.company/faq/do-i-really-need-cabin-interior-sealing-or-can-i-just-wait-until-something-gets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I really need cabin interior sealing, or can I just wait until something gets worse?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are trying to decide between sealing now and waiting, the best reason to move forward is when drafts, moisture, or discomfort are already affecting daily use of the cabin. If you are unsure, a professional walkthrough is the simplest way to see whether the job needs a quick seal-up or a bigger restoration plan.",
-        "description": "If drafts or moisture are already showing up, waiting usually makes the repair more expensive later. A quick inspection can tell you whether the cabin needs a small sealing job now or something more involved."
-      }
-    }
-  ],
+  "name": "Do I really need cabin interior sealing, or can I just wait until something gets worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I really need cabin interior sealing, or can I just wait until something gets worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are trying to decide between sealing now and waiting, the best reason to move forward is when drafts, moisture, or discomfort are already affecting daily use of the cabin. If you are unsure, a professional walkthrough is the simplest way to see whether the job needs a quick seal-up or a bigger restoration plan.",
+        "@type": "Answer",
+        "description": "If drafts or moisture are already showing up, waiting usually makes the repair more expensive later. A quick inspection can tell you whether the cabin needs a small sealing job now or something more involved."
+      }
+    }
+  ],
+  "description": "If drafts or moisture are already showing up, waiting usually makes the repair more expensive later. A quick inspection can tell you whether the cabin needs a s"
 }

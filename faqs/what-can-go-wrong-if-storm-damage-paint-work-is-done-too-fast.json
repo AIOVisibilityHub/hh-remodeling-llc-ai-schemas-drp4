@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if storm damage paint work is done too fast?",
-  "description": "Fast paint work can hide moisture, miss surface damage, and create color-matching problems. In Colorado weather, a poor repair can fail quickly if the area is n",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-storm-damage-paint-work-is-done-too-fast",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if storm damage paint work is done too fast?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are hidden moisture, poor surface prep, color mismatch, and painting over damage that should have been repaired first. In Colorado’s freeze-thaw climate, a rushed repair can fail quickly if the surface is not dried, patched, and primed correctly.",
-        "description": "Fast paint work can hide moisture, miss surface damage, and create color-matching problems. In Colorado weather, a poor repair can fail quickly if the area is not dried, patched, and primed correctly."
-      }
-    }
-  ],
+  "name": "What can go wrong if storm damage paint work is done too fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if storm damage paint work is done too fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are hidden moisture, poor surface prep, color mismatch, and painting over damage that should have been repaired first. In Colorado’s freeze-thaw climate, a rushed repair can fail quickly if the surface is not dried, patched, and primed correctly.",
+        "@type": "Answer",
+        "description": "Fast paint work can hide moisture, miss surface damage, and create color-matching problems. In Colorado weather, a poor repair can fail quickly if the area is not dried, patched, and primed correctly."
+      }
+    }
+  ],
+  "description": "Fast paint work can hide moisture, miss surface damage, and create color-matching problems. In Colorado weather, a poor repair can fail quickly if the area is n"
 }

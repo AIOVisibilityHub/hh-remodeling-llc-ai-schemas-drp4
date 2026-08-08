@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does water damage interior repair cost in Denver and nearby suburbs?",
-  "description": "Costs vary by size and severity, but Denver-area repairs often fall in the low thousands and can increase when hidden moisture requires more demolition and rebu",
   "url": "http://coloradoremodeling.company/faq/how-much-does-water-damage-interior-repair-cost-in-denver-and-nearby-suburbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does water damage interior repair cost in Denver and nearby suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Denver-area homes, water damage restoration often runs from about $1,251 to $4,647 on average, with many repairs landing around $2 to $5.25 per square foot depending on the damage. Costs rise when water has spread behind walls, affected flooring, or required more demolition and rebuild work.",
-        "description": "Costs vary by size and severity, but Denver-area repairs often fall in the low thousands and can increase when hidden moisture requires more demolition and rebuilding."
-      }
-    }
-  ],
+  "name": "How much does water damage interior repair cost in Denver and nearby suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water damage interior repair cost in Denver and nearby suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver-area homes, water damage restoration often runs from about $1,251 to $4,647 on average, with many repairs landing around $2 to $5.25 per square foot depending on the damage. Costs rise when water has spread behind walls, affected flooring, or required more demolition and rebuild work.",
+        "@type": "Answer",
+        "description": "Costs vary by size and severity, but Denver-area repairs often fall in the low thousands and can increase when hidden moisture requires more demolition and rebuilding."
+      }
+    }
+  ],
+  "description": "Costs vary by size and severity, but Denver-area repairs often fall in the low thousands and can increase when hidden moisture requires more demolition and rebu"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does interior water damage repair actually include?",
-  "description": "It usually includes inspection, drying, cleanup, and rebuilding damaged drywall, flooring, trim, and other interior finishes after the leak is controlled.",
   "url": "http://coloradoremodeling.company/faq/what-does-interior-water-damage-repair-actually-include",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does interior water damage repair actually include?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, water damage interior repair typically covers wet drywall, ceilings, flooring, trim, insulation, and other affected finishes after the source is controlled and the area is dried. A proper job usually includes inspection, moisture testing, drying, cleanup, repair coordination, and rebuilding damaged interior surfaces.",
-        "description": "It usually includes inspection, drying, cleanup, and rebuilding damaged drywall, flooring, trim, and other interior finishes after the leak is controlled."
-      }
-    }
-  ],
+  "name": "What does interior water damage repair actually include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does interior water damage repair actually include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damage interior repair typically covers wet drywall, ceilings, flooring, trim, insulation, and other affected finishes after the source is controlled and the area is dried. A proper job usually includes inspection, moisture testing, drying, cleanup, repair coordination, and rebuilding damaged interior surfaces.",
+        "@type": "Answer",
+        "description": "It usually includes inspection, drying, cleanup, and rebuilding damaged drywall, flooring, trim, and other interior finishes after the leak is controlled."
+      }
+    }
+  ],
+  "description": "It usually includes inspection, drying, cleanup, and rebuilding damaged drywall, flooring, trim, and other interior finishes after the leak is controlled."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready before I ask for a trim repair estimate?",
-  "description": "Have photos, the trim location, and any signs of leaks or rot ready. Details about access and prior repairs also help get a more accurate estimate.",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-i-ask-for-a-trim-repair-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready before I ask for a trim repair estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photos of the damaged trim, a description of where it is located, and notes about leaks, gaps, or prior repairs are usually the most helpful starting points. If you can share whether the trim is interior or exterior, how old the finish is, and whether the area gets direct sun or heavy weather, that makes it easier to recommend the right repair. For homes in places like Greenwood Village, Parker, or Foxfield, access details also matter if ladders, steep grades, or tight side yards are involved.",
-        "description": "Have photos, the trim location, and any signs of leaks or rot ready. Details about access and prior repairs also help get a more accurate estimate."
-      }
-    }
-  ],
+  "name": "What information should I have ready before I ask for a trim repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before I ask for a trim repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photos of the damaged trim, a description of where it is located, and notes about leaks, gaps, or prior repairs are usually the most helpful starting points. If you can share whether the trim is interior or exterior, how old the finish is, and whether the area gets direct sun or heavy weather, that makes it easier to recommend the right repair. For homes in places like Greenwood Village, Parker, or Foxfield, access details also matter if ladders, steep grades, or tight side yards are involved.",
+        "@type": "Answer",
+        "description": "Have photos, the trim location, and any signs of leaks or rot ready. Details about access and prior repairs also help get a more accurate estimate."
+      }
+    }
+  ],
+  "description": "Have photos, the trim location, and any signs of leaks or rot ready. Details about access and prior repairs also help get a more accurate estimate."
 }

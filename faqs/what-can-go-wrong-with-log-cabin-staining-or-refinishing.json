@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with log cabin staining or refinishing?",
-  "description": "Bad prep, trapped moisture, or the wrong coating can cause peeling, blotchy color, and hidden wood damage. A sample test and moisture check help avoid those pro",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-log-cabin-staining-or-refinishing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with log cabin staining or refinishing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are trapping moisture, using the wrong product, or skipping prep. Those mistakes can lead to peeling, uneven color, faster UV damage, and hidden rot that gets worse over time. A careful process should include inspection, cleaning, moisture checks, repair work, and testing a sample area before finishing the whole cabin.",
-        "description": "Bad prep, trapped moisture, or the wrong coating can cause peeling, blotchy color, and hidden wood damage. A sample test and moisture check help avoid those problems."
-      }
-    }
-  ],
+  "name": "What can go wrong with log cabin staining or refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with log cabin staining or refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are trapping moisture, using the wrong product, or skipping prep. Those mistakes can lead to peeling, uneven color, faster UV damage, and hidden rot that gets worse over time. A careful process should include inspection, cleaning, moisture checks, repair work, and testing a sample area before finishing the whole cabin.",
+        "@type": "Answer",
+        "description": "Bad prep, trapped moisture, or the wrong coating can cause peeling, blotchy color, and hidden wood damage. A sample test and moisture check help avoid those problems."
+      }
+    }
+  ],
+  "description": "Bad prep, trapped moisture, or the wrong coating can cause peeling, blotchy color, and hidden wood damage. A sample test and moisture check help avoid those pro"
 }

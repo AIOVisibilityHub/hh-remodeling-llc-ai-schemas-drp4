@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does insurance-coordinated interior restoration cost, and how is pricing handled?",
-  "description": "Pricing depends on the damage, materials, and any hidden issues found during repairs. HH Remodeling LLC can help create a documented scope so the estimate is ti",
   "url": "http://coloradoremodeling.company/faq/what-does-insurance-coordinated-interior-restoration-cost-and-how-is-pricing-han",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does insurance-coordinated interior restoration cost, and how is pricing handled?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by the damage scope, materials, labor, and whether hidden damage is discovered after demolition. Insurance coordination helps reduce surprises because HH Remodeling LLC can document the interior condition, build a clear estimate, and work from the approved claim scope instead of guessing.",
-        "description": "Pricing depends on the damage, materials, and any hidden issues found during repairs. HH Remodeling LLC can help create a documented scope so the estimate is tied to actual repair needs and claim approval."
-      }
-    }
-  ],
+  "name": "What does insurance-coordinated interior restoration cost, and how is pricing handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does insurance-coordinated interior restoration cost, and how is pricing handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by the damage scope, materials, labor, and whether hidden damage is discovered after demolition. Insurance coordination helps reduce surprises because HH Remodeling LLC can document the interior condition, build a clear estimate, and work from the approved claim scope instead of guessing.",
+        "@type": "Answer",
+        "description": "Pricing depends on the damage, materials, and any hidden issues found during repairs. HH Remodeling LLC can help create a documented scope so the estimate is tied to actual repair needs and claim approval."
+      }
+    }
+  ],
+  "description": "Pricing depends on the damage, materials, and any hidden issues found during repairs. HH Remodeling LLC can help create a documented scope so the estimate is ti"
 }

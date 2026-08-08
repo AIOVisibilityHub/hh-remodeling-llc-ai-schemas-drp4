@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to repair water damage inside a house?",
-  "description": "Small repairs may take a few days, but larger damage can take longer because drying must happen before rebuilding starts.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-repair-water-damage-inside-a-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to repair water damage inside a house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most jobs are fastest when moisture is caught early, but the timeline depends on how much water entered and how deep it spread. Small interior repairs may finish in a few days, while repairs involving soaked drywall, flooring, or hidden moisture can take longer because materials must dry before rebuilding starts.",
-        "description": "Small repairs may take a few days, but larger damage can take longer because drying must happen before rebuilding starts."
-      }
-    }
-  ],
+  "name": "How long does it take to repair water damage inside a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damage inside a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most jobs are fastest when moisture is caught early, but the timeline depends on how much water entered and how deep it spread. Small interior repairs may finish in a few days, while repairs involving soaked drywall, flooring, or hidden moisture can take longer because materials must dry before rebuilding starts.",
+        "@type": "Answer",
+        "description": "Small repairs may take a few days, but larger damage can take longer because drying must happen before rebuilding starts."
+      }
+    }
+  ],
+  "description": "Small repairs may take a few days, but larger damage can take longer because drying must happen before rebuilding starts."
 }

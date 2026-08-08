@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will repaired log cabin trim look the same as the old wood?",
-  "description": "Often it can be matched well, but heavy weathering may still show some difference. Small, localized repairs blend better than large damaged sections.",
   "url": "http://coloradoremodeling.company/faq/will-repaired-log-cabin-trim-look-the-same-as-the-old-wood",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will repaired log cabin trim look the same as the old wood?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A repair can look seamless when the damaged area is limited and the finish can be matched well, but very weathered trim may still show some color or grain differences. The more the repair stays within the original profile and the same stain system, the better the result usually looks. If the trim is badly deteriorated, replacing only the failed section may be more practical than trying to make a cosmetic patch look invisible.",
-        "description": "Often it can be matched well, but heavy weathering may still show some difference. Small, localized repairs blend better than large damaged sections."
-      }
-    }
-  ],
+  "name": "Will repaired log cabin trim look the same as the old wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will repaired log cabin trim look the same as the old wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair can look seamless when the damaged area is limited and the finish can be matched well, but very weathered trim may still show some color or grain differences. The more the repair stays within the original profile and the same stain system, the better the result usually looks. If the trim is badly deteriorated, replacing only the failed section may be more practical than trying to make a cosmetic patch look invisible.",
+        "@type": "Answer",
+        "description": "Often it can be matched well, but heavy weathering may still show some difference. Small, localized repairs blend better than large damaged sections."
+      }
+    }
+  ],
+  "description": "Often it can be matched well, but heavy weathering may still show some difference. Small, localized repairs blend better than large damaged sections."
 }

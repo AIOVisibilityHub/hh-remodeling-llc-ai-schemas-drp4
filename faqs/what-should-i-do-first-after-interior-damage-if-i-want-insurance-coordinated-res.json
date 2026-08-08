@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first after interior damage if I want insurance-coordinated restoration?",
-  "description": "If the damage is active, stop the source safely, protect the area, and contact HH Remodeling LLC right away so the damage can be documented and restoration can",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-after-interior-damage-if-i-want-insurance-coordinated-res",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first after interior damage if I want insurance-coordinated restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Call immediately and stop any active water intrusion, smoke exposure, or unsecured openings if it is safe to do so. HH Remodeling LLC can then help document the damage, coordinate next steps, and begin interior restoration in the Denver metro area before secondary damage gets worse.",
-        "description": "If the damage is active, stop the source safely, protect the area, and contact HH Remodeling LLC right away so the damage can be documented and restoration can start before it worsens."
-      }
-    }
-  ],
+  "name": "What should I do first after interior damage if I want insurance-coordinated restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after interior damage if I want insurance-coordinated restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Call immediately and stop any active water intrusion, smoke exposure, or unsecured openings if it is safe to do so. HH Remodeling LLC can then help document the damage, coordinate next steps, and begin interior restoration in the Denver metro area before secondary damage gets worse.",
+        "@type": "Answer",
+        "description": "If the damage is active, stop the source safely, protect the area, and contact HH Remodeling LLC right away so the damage can be documented and restoration can start before it worsens."
+      }
+    }
+  ],
+  "description": "If the damage is active, stop the source safely, protect the area, and contact HH Remodeling LLC right away so the damage can be documented and restoration can"
 }

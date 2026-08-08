@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of drywall replacement after a storm?",
-  "description": "Price depends on the square footage, hidden moisture damage, insulation replacement, and finish work like texture matching. The best way to avoid surprises is t",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-drywall-replacement-after-a-storm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of drywall replacement after a storm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by the size of the damaged area, how much demolition is needed, whether insulation or framing must be repaired, and how much texture matching is involved. For insurance-related claims, good photos and written documentation can help support the scope of work and reduce surprises.",
-        "description": "Price depends on the square footage, hidden moisture damage, insulation replacement, and finish work like texture matching. The best way to avoid surprises is to get a written inspection that spells out the full scope before work starts."
-      }
-    }
-  ],
+  "name": "What affects the cost of drywall replacement after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of drywall replacement after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by the size of the damaged area, how much demolition is needed, whether insulation or framing must be repaired, and how much texture matching is involved. For insurance-related claims, good photos and written documentation can help support the scope of work and reduce surprises.",
+        "@type": "Answer",
+        "description": "Price depends on the square footage, hidden moisture damage, insulation replacement, and finish work like texture matching. The best way to avoid surprises is to get a written inspection that spells out the full scope before work starts."
+      }
+    }
+  ],
+  "description": "Price depends on the square footage, hidden moisture damage, insulation replacement, and finish work like texture matching. The best way to avoid surprises is t"
 }

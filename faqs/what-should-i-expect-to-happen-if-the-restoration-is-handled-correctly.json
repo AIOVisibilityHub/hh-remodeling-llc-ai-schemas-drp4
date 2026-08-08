@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect to happen if the restoration is handled correctly?",
-  "description": "You should get a documented claim, an approved repair scope, and an interior rebuild that matches what was agreed to with the insurer. Good coordination usually",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-to-happen-if-the-restoration-is-handled-correctly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect to happen if the restoration is handled correctly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best outcome is a repaired interior that matches the approved scope and gets your home back to a usable condition without unnecessary claim friction. When the process is handled well, homeowners in the Denver area usually get faster decisions, clearer expectations, and less back-and-forth with the insurer.",
-        "description": "You should get a documented claim, an approved repair scope, and an interior rebuild that matches what was agreed to with the insurer. Good coordination usually means fewer delays and fewer surprises."
-      }
-    }
-  ],
+  "name": "What should I expect to happen if the restoration is handled correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect to happen if the restoration is handled correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best outcome is a repaired interior that matches the approved scope and gets your home back to a usable condition without unnecessary claim friction. When the process is handled well, homeowners in the Denver area usually get faster decisions, clearer expectations, and less back-and-forth with the insurer.",
+        "@type": "Answer",
+        "description": "You should get a documented claim, an approved repair scope, and an interior rebuild that matches what was agreed to with the insurer. Good coordination usually means fewer delays and fewer surprises."
+      }
+    }
+  ],
+  "description": "You should get a documented claim, an approved repair scope, and an interior rebuild that matches what was agreed to with the insurer. Good coordination usually"
 }

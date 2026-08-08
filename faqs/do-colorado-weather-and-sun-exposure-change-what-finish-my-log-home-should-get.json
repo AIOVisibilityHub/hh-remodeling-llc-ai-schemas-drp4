@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do Colorado weather and sun exposure change what finish my log home should get?",
-  "description": "Yes. Colorado sun, wind, and temperature swings can shorten finish life, so product choice and maintenance need to match local conditions.",
   "url": "http://coloradoremodeling.company/faq/do-colorado-weather-and-sun-exposure-change-what-finish-my-log-home-should-get",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do Colorado weather and sun exposure change what finish my log home should get?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, and it matters more in places like Denver, Centennial, Greenwood Village, Foxfield, and Parker because sun, wind, and seasonal temperature swings can wear finishes unevenly. Homes with strong west or south exposure often need more frequent maintenance, and mountain-style log homes can also need attention to end-grain sealing, chinking, and splashback areas. Local climate should shape both the product choice and the maintenance plan.",
-        "description": "Yes. Colorado sun, wind, and temperature swings can shorten finish life, so product choice and maintenance need to match local conditions."
-      }
-    }
-  ],
+  "name": "Do Colorado weather and sun exposure change what finish my log home should get?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do Colorado weather and sun exposure change what finish my log home should get?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, and it matters more in places like Denver, Centennial, Greenwood Village, Foxfield, and Parker because sun, wind, and seasonal temperature swings can wear finishes unevenly. Homes with strong west or south exposure often need more frequent maintenance, and mountain-style log homes can also need attention to end-grain sealing, chinking, and splashback areas. Local climate should shape both the product choice and the maintenance plan.",
+        "@type": "Answer",
+        "description": "Yes. Colorado sun, wind, and temperature swings can shorten finish life, so product choice and maintenance need to match local conditions."
+      }
+    }
+  ],
+  "description": "Yes. Colorado sun, wind, and temperature swings can shorten finish life, so product choice and maintenance need to match local conditions."
 }

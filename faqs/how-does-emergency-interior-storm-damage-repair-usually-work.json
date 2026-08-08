@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does emergency interior storm damage repair usually work?",
-  "description": "It usually goes from emergency protection to moisture inspection, drying, demolition of unsalvageable materials, and then rebuilding and finishing.",
   "url": "http://coloradoremodeling.company/faq/how-does-emergency-interior-storm-damage-repair-usually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does emergency interior storm damage repair usually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with emergency stabilization, moisture inspection, water extraction if needed, and controlled drying. After that, damaged materials are removed, the structure is repaired, and the area is restored so it matches the rest of the home as closely as possible.",
-        "description": "It usually goes from emergency protection to moisture inspection, drying, demolition of unsalvageable materials, and then rebuilding and finishing."
-      }
-    }
-  ],
+  "name": "How does emergency interior storm damage repair usually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does emergency interior storm damage repair usually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with emergency stabilization, moisture inspection, water extraction if needed, and controlled drying. After that, damaged materials are removed, the structure is repaired, and the area is restored so it matches the rest of the home as closely as possible.",
+        "@type": "Answer",
+        "description": "It usually goes from emergency protection to moisture inspection, drying, demolition of unsalvageable materials, and then rebuilding and finishing."
+      }
+    }
+  ],
+  "description": "It usually goes from emergency protection to moisture inspection, drying, demolition of unsalvageable materials, and then rebuilding and finishing."
 }

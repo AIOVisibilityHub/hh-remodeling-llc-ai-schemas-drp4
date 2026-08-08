@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a finish upgrade make my log cabin look fake or overly glossy?",
-  "description": "Not if it is matched correctly. Sample testing, the right sheen, and careful color selection help keep the cabin natural-looking.",
   "url": "http://coloradoremodeling.company/faq/will-a-finish-upgrade-make-my-log-cabin-look-fake-or-overly-glossy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a finish upgrade make my log cabin look fake or overly glossy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Homeowners often worry a finish upgrade will make the cabin look too shiny, too orange, or less natural. That can usually be avoided by matching the stain tone, sheen level, and clearcoat system to the wood species and the home’s current look. The best result comes from testing samples first and confirming the color in daylight before the full application starts.",
-        "description": "Not if it is matched correctly. Sample testing, the right sheen, and careful color selection help keep the cabin natural-looking."
-      }
-    }
-  ],
+  "name": "Will a finish upgrade make my log cabin look fake or overly glossy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a finish upgrade make my log cabin look fake or overly glossy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners often worry a finish upgrade will make the cabin look too shiny, too orange, or less natural. That can usually be avoided by matching the stain tone, sheen level, and clearcoat system to the wood species and the home’s current look. The best result comes from testing samples first and confirming the color in daylight before the full application starts.",
+        "@type": "Answer",
+        "description": "Not if it is matched correctly. Sample testing, the right sheen, and careful color selection help keep the cabin natural-looking."
+      }
+    }
+  ],
+  "description": "Not if it is matched correctly. Sample testing, the right sheen, and careful color selection help keep the cabin natural-looking."
 }

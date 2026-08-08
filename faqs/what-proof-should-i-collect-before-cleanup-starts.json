@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof should I collect before cleanup starts?",
-  "description": "Photograph everything before cleanup, note where the water came in, and save receipts for emergency expenses so the damage record is complete.",
   "url": "http://coloradoremodeling.company/faq/what-proof-should-i-collect-before-cleanup-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proof should I collect before cleanup starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Take clear photos and videos before moving items, then document where water entered, what rooms were affected, and any visible ceiling stains, warped flooring, or fallen material. Keep receipts for emergency purchases like tarps, fans, or hotel stays, because detailed documentation helps create a complete repair record.",
-        "description": "Photograph everything before cleanup, note where the water came in, and save receipts for emergency expenses so the damage record is complete."
-      }
-    }
-  ],
+  "name": "What proof should I collect before cleanup starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proof should I collect before cleanup starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Take clear photos and videos before moving items, then document where water entered, what rooms were affected, and any visible ceiling stains, warped flooring, or fallen material. Keep receipts for emergency purchases like tarps, fans, or hotel stays, because detailed documentation helps create a complete repair record.",
+        "@type": "Answer",
+        "description": "Photograph everything before cleanup, note where the water came in, and save receipts for emergency expenses so the damage record is complete."
+      }
+    }
+  ],
+  "description": "Photograph everything before cleanup, note where the water came in, and save receipts for emergency expenses so the damage record is complete."
 }

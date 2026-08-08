@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does insurance-coordinated interior restoration actually work from start to finish?",
-  "description": "It typically moves from inspection and documentation to adjuster coordination, then approved repairs, then final interior rebuild. HH Remodeling LLC helps keep",
   "url": "http://coloradoremodeling.company/faq/how-does-insurance-coordinated-interior-restoration-actually-work-from-start-to",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does insurance-coordinated interior restoration actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with an inspection, photos, and a detailed scope of work, then coordination with the adjuster, then approved repairs and finishing. HH Remodeling LLC focuses on keeping the restoration and claim communication aligned so the rebuild does not stall because of missing documentation or unclear pricing.",
-        "description": "It typically moves from inspection and documentation to adjuster coordination, then approved repairs, then final interior rebuild. HH Remodeling LLC helps keep the claim details and restoration work aligned so the project moves forward cleanly."
-      }
-    }
-  ],
+  "name": "How does insurance-coordinated interior restoration actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does insurance-coordinated interior restoration actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with an inspection, photos, and a detailed scope of work, then coordination with the adjuster, then approved repairs and finishing. HH Remodeling LLC focuses on keeping the restoration and claim communication aligned so the rebuild does not stall because of missing documentation or unclear pricing.",
+        "@type": "Answer",
+        "description": "It typically moves from inspection and documentation to adjuster coordination, then approved repairs, then final interior rebuild. HH Remodeling LLC helps keep the claim details and restoration work aligned so the project moves forward cleanly."
+      }
+    }
+  ],
+  "description": "It typically moves from inspection and documentation to adjuster coordination, then approved repairs, then final interior rebuild. HH Remodeling LLC helps keep"
 }

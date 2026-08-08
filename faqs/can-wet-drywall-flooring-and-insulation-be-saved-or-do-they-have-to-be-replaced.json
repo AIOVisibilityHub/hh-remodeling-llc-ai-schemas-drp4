@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can wet drywall, flooring, and insulation be saved, or do they have to be replaced?",
-  "description": "Some materials can be saved if drying starts fast, but soaked drywall, insulation, and flooring often need removal or replacement.",
   "url": "http://coloradoremodeling.company/faq/can-wet-drywall-flooring-and-insulation-be-saved-or-do-they-have-to-be-replaced",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can wet drywall, flooring, and insulation be saved, or do they have to be replaced?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not every wet material can be saved, and some items need partial removal before the structure can dry properly. Interior repair usually works best when the source is stopped quickly, the area is dried with professional equipment, and damaged finishes are rebuilt only after moisture readings return to safe levels.",
-        "description": "Some materials can be saved if drying starts fast, but soaked drywall, insulation, and flooring often need removal or replacement."
-      }
-    }
-  ],
+  "name": "Can wet drywall, flooring, and insulation be saved, or do they have to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can wet drywall, flooring, and insulation be saved, or do they have to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not every wet material can be saved, and some items need partial removal before the structure can dry properly. Interior repair usually works best when the source is stopped quickly, the area is dried with professional equipment, and damaged finishes are rebuilt only after moisture readings return to safe levels.",
+        "@type": "Answer",
+        "description": "Some materials can be saved if drying starts fast, but soaked drywall, insulation, and flooring often need removal or replacement."
+      }
+    }
+  ],
+  "description": "Some materials can be saved if drying starts fast, but soaked drywall, insulation, and flooring often need removal or replacement."
 }

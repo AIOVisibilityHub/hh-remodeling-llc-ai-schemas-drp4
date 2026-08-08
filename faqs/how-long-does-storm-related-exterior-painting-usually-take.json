@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does storm-related exterior painting usually take?",
-  "description": "Most storm-related paint and finish work depends on drying conditions and how much prep is needed. Light repairs may move quickly, but active weather or hidden",
   "url": "http://coloradoremodeling.company/faq/how-long-does-storm-related-exterior-painting-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does storm-related exterior painting usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on how much structural or moisture damage is present, but cosmetic finish repairs are often scheduled after the damaged area is dry, stable, and ready for prep. If weather is still active in places like Parker or Centennial, the timeline can slow down because quality exterior coatings need the right temperature and dry conditions.",
-        "description": "Most storm-related paint and finish work depends on drying conditions and how much prep is needed. Light repairs may move quickly, but active weather or hidden moisture can extend the schedule."
-      }
-    }
-  ],
+  "name": "How long does storm-related exterior painting usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm-related exterior painting usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on how much structural or moisture damage is present, but cosmetic finish repairs are often scheduled after the damaged area is dry, stable, and ready for prep. If weather is still active in places like Parker or Centennial, the timeline can slow down because quality exterior coatings need the right temperature and dry conditions.",
+        "@type": "Answer",
+        "description": "Most storm-related paint and finish work depends on drying conditions and how much prep is needed. Light repairs may move quickly, but active weather or hidden moisture can extend the schedule."
+      }
+    }
+  ],
+  "description": "Most storm-related paint and finish work depends on drying conditions and how much prep is needed. Light repairs may move quickly, but active weather or hidden"
 }

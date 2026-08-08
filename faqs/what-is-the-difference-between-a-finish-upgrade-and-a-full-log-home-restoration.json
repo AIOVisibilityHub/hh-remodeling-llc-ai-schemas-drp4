@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a finish upgrade and a full log home restoration?",
-  "description": "A finish upgrade refreshes and protects the surface. Full restoration is more involved and may include stripping, repairs, chinking, and major prep.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-a-finish-upgrade-and-a-full-log-home-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a finish upgrade and a full log home restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A maintenance recoat is usually faster and less disruptive than a full restoration. Maintenance jobs often focus on washing, spot repairs, sealing, and a new protective coat, while full restoration can include stripping, log repair, chinking, and multiple finish steps. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the deciding factor is usually how much weathering the logs have already taken.",
-        "description": "A finish upgrade refreshes and protects the surface. Full restoration is more involved and may include stripping, repairs, chinking, and major prep."
-      }
-    }
-  ],
+  "name": "What is the difference between a finish upgrade and a full log home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a finish upgrade and a full log home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A maintenance recoat is usually faster and less disruptive than a full restoration. Maintenance jobs often focus on washing, spot repairs, sealing, and a new protective coat, while full restoration can include stripping, log repair, chinking, and multiple finish steps. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the deciding factor is usually how much weathering the logs have already taken.",
+        "@type": "Answer",
+        "description": "A finish upgrade refreshes and protects the surface. Full restoration is more involved and may include stripping, repairs, chinking, and major prep."
+      }
+    }
+  ],
+  "description": "A finish upgrade refreshes and protects the surface. Full restoration is more involved and may include stripping, repairs, chinking, and major prep."
 }

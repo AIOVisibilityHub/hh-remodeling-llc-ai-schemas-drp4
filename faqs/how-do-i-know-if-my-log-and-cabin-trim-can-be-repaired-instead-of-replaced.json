@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my log and cabin trim can be repaired instead of replaced?",
-  "description": "If the trim is mostly solid, repair is usually enough. If it is soft, rotted, or damaged in several areas, replacement is the safer option.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-log-and-cabin-trim-can-be-repaired-instead-of-replaced",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my log and cabin trim can be repaired instead of replaced?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Repair is a good fit when the trim is otherwise sound and only needs sealing, patching, caulking, or partial replacement. Full replacement is usually better when the trim has rot, insect damage, repeated water intrusion, or has already failed in multiple spots. A quick inspection should confirm whether the issue is cosmetic, moisture-related, or structural, since that changes both the scope and the cost.",
-        "description": "If the trim is mostly solid, repair is usually enough. If it is soft, rotted, or damaged in several areas, replacement is the safer option."
-      }
-    }
-  ],
+  "name": "How do I know if my log and cabin trim can be repaired instead of replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my log and cabin trim can be repaired instead of replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair is a good fit when the trim is otherwise sound and only needs sealing, patching, caulking, or partial replacement. Full replacement is usually better when the trim has rot, insect damage, repeated water intrusion, or has already failed in multiple spots. A quick inspection should confirm whether the issue is cosmetic, moisture-related, or structural, since that changes both the scope and the cost.",
+        "@type": "Answer",
+        "description": "If the trim is mostly solid, repair is usually enough. If it is soft, rotted, or damaged in several areas, replacement is the safer option."
+      }
+    }
+  ],
+  "description": "If the trim is mostly solid, repair is usually enough. If it is soft, rotted, or damaged in several areas, replacement is the safer option."
 }

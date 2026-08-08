@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What results should I expect after cabin interior sealing?",
-  "description": "You should expect fewer drafts, steadier indoor temperatures, and a tighter feel in the cabin. If there are bigger insulation or moisture problems, sealing help",
   "url": "http://coloradoremodeling.company/faq/what-results-should-i-expect-after-cabin-interior-sealing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What results should I expect after cabin interior sealing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good sealing usually reduces drafts, improves room-to-room temperature consistency, and helps the cabin feel more solid and finished. If the cabin has major hidden air leaks, the comfort improvement can be noticeable quickly, but if the structure has deeper insulation or moisture issues, sealing alone will not solve everything.",
-        "description": "You should expect fewer drafts, steadier indoor temperatures, and a tighter feel in the cabin. If there are bigger insulation or moisture problems, sealing helps, but it may need to be paired with other repairs."
-      }
-    }
-  ],
+  "name": "What results should I expect after cabin interior sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What results should I expect after cabin interior sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good sealing usually reduces drafts, improves room-to-room temperature consistency, and helps the cabin feel more solid and finished. If the cabin has major hidden air leaks, the comfort improvement can be noticeable quickly, but if the structure has deeper insulation or moisture issues, sealing alone will not solve everything.",
+        "@type": "Answer",
+        "description": "You should expect fewer drafts, steadier indoor temperatures, and a tighter feel in the cabin. If there are bigger insulation or moisture problems, sealing helps, but it may need to be paired with other repairs."
+      }
+    }
+  ],
+  "description": "You should expect fewer drafts, steadier indoor temperatures, and a tighter feel in the cabin. If there are bigger insulation or moisture problems, sealing help"
 }

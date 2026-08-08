@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does it matter if the repair company is local to my area?",
-  "description": "Yes. A local team can usually respond faster, understands Front Range storm patterns, and can start protecting the interior before more damage spreads.",
   "url": "http://coloradoremodeling.company/faq/does-it-matter-if-the-repair-company-is-local-to-my-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does it matter if the repair company is local to my area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, local response matters because storms can hit hard and conditions change quickly across neighborhoods. A nearby crew can usually reach you faster, assess roof or window intrusion in the same weather pattern, and start protecting the interior before more water enters.",
-        "description": "Yes. A local team can usually respond faster, understands Front Range storm patterns, and can start protecting the interior before more damage spreads."
-      }
-    }
-  ],
+  "name": "Does it matter if the repair company is local to my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does it matter if the repair company is local to my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, local response matters because storms can hit hard and conditions change quickly across neighborhoods. A nearby crew can usually reach you faster, assess roof or window intrusion in the same weather pattern, and start protecting the interior before more water enters.",
+        "@type": "Answer",
+        "description": "Yes. A local team can usually respond faster, understands Front Range storm patterns, and can start protecting the interior before more damage spreads."
+      }
+    }
+  ],
+  "description": "Yes. A local team can usually respond faster, understands Front Range storm patterns, and can start protecting the interior before more damage spreads."
 }

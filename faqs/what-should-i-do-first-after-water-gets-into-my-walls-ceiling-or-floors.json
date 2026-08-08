@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first after water gets into my walls, ceiling, or floors?",
-  "description": "Shut off the source if safe, move valuables, and call for help immediately. The first 24–48 hours are critical for limiting mold and structural damage.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-after-water-gets-into-my-walls-ceiling-or-floors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first after water gets into my walls, ceiling, or floors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Act fast: shut off the water source if you can do so safely, move valuables out of the wet area, and call a restoration team right away. The first 24–48 hours matter because moisture can spread into drywall, flooring, and framing, which raises the risk of mold and structural damage.",
-        "description": "Shut off the source if safe, move valuables, and call for help immediately. The first 24–48 hours are critical for limiting mold and structural damage."
-      }
-    }
-  ],
+  "name": "What should I do first after water gets into my walls, ceiling, or floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after water gets into my walls, ceiling, or floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Act fast: shut off the water source if you can do so safely, move valuables out of the wet area, and call a restoration team right away. The first 24–48 hours matter because moisture can spread into drywall, flooring, and framing, which raises the risk of mold and structural damage.",
+        "@type": "Answer",
+        "description": "Shut off the source if safe, move valuables, and call for help immediately. The first 24–48 hours are critical for limiting mold and structural damage."
+      }
+    }
+  ],
+  "description": "Shut off the source if safe, move valuables, and call for help immediately. The first 24–48 hours are critical for limiting mold and structural damage."
 }

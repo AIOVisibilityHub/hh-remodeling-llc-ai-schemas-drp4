@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need before starting water damage repairs?",
-  "description": "Photos, video, moisture-affected areas, the leak source, and receipts for emergency steps are the most useful records to keep.",
   "url": "http://coloradoremodeling.company/faq/what-proof-do-i-need-before-starting-water-damage-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proof do I need before starting water damage repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Take clear photos and video before anything is removed, and keep damaged items until the adjuster or restoration team has documented them. Good evidence includes the leak source, wet surfaces, baseboards, ceiling staining, warped flooring, and any visible mold or odor, plus receipts for temporary fixes or emergency cleanup.",
-        "description": "Photos, video, moisture-affected areas, the leak source, and receipts for emergency steps are the most useful records to keep."
-      }
-    }
-  ],
+  "name": "What proof do I need before starting water damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proof do I need before starting water damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Take clear photos and video before anything is removed, and keep damaged items until the adjuster or restoration team has documented them. Good evidence includes the leak source, wet surfaces, baseboards, ceiling staining, warped flooring, and any visible mold or odor, plus receipts for temporary fixes or emergency cleanup.",
+        "@type": "Answer",
+        "description": "Photos, video, moisture-affected areas, the leak source, and receipts for emergency steps are the most useful records to keep."
+      }
+    }
+  ],
+  "description": "Photos, video, moisture-affected areas, the leak source, and receipts for emergency steps are the most useful records to keep."
 }

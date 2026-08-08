@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens during storm-related drywall replacement?",
-  "description": "A typical job includes inspection, removing damaged drywall, drying the wall cavity, installing new board, finishing seams, and matching texture. If the storm r",
   "url": "http://coloradoremodeling.company/faq/what-happens-during-storm-related-drywall-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens during storm-related drywall replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with moisture checks and a damage assessment, then affected drywall is removed, the cavity is dried and inspected, and new board is installed, taped, finished, and textured to match. If insulation or trim was also affected, those items may need replacement too.",
-        "description": "A typical job includes inspection, removing damaged drywall, drying the wall cavity, installing new board, finishing seams, and matching texture. If the storm reached insulation, trim, or framing, those areas may need repair too."
-      }
-    }
-  ],
+  "name": "What happens during storm-related drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during storm-related drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with moisture checks and a damage assessment, then affected drywall is removed, the cavity is dried and inspected, and new board is installed, taped, finished, and textured to match. If insulation or trim was also affected, those items may need replacement too.",
+        "@type": "Answer",
+        "description": "A typical job includes inspection, removing damaged drywall, drying the wall cavity, installing new board, finishing seams, and matching texture. If the storm reached insulation, trim, or framing, those areas may need repair too."
+      }
+    }
+  ],
+  "description": "A typical job includes inspection, removing damaged drywall, drying the wall cavity, installing new board, finishing seams, and matching texture. If the storm r"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during a log and cabin trim repair job?",
-  "description": "The job usually includes inspection, removing damaged sections, fixing the moisture source, sealing gaps, and matching the finish. Good repairs are as much abou",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-a-log-and-cabin-trim-repair-job",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during a log and cabin trim repair job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most trim repairs start with finding the cause of the damage, not just patching the visible problem. A contractor will inspect the trim, nearby logs, windows, doors, and any flashing or seal gaps, then repair or replace the affected pieces, seal joints, and refinish the surface so the repair blends in. On log homes, matching the existing stain and texture is often the hardest part, so photos and a site visit help set expectations.",
-        "description": "The job usually includes inspection, removing damaged sections, fixing the moisture source, sealing gaps, and matching the finish. Good repairs are as much about preventing future damage as they are about replacing wood."
-      }
-    }
-  ],
+  "name": "What actually happens during a log and cabin trim repair job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a log and cabin trim repair job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most trim repairs start with finding the cause of the damage, not just patching the visible problem. A contractor will inspect the trim, nearby logs, windows, doors, and any flashing or seal gaps, then repair or replace the affected pieces, seal joints, and refinish the surface so the repair blends in. On log homes, matching the existing stain and texture is often the hardest part, so photos and a site visit help set expectations.",
+        "@type": "Answer",
+        "description": "The job usually includes inspection, removing damaged sections, fixing the moisture source, sealing gaps, and matching the finish. Good repairs are as much about preventing future damage as they are about replacing wood."
+      }
+    }
+  ],
+  "description": "The job usually includes inspection, removing damaged sections, fixing the moisture source, sealing gaps, and matching the finish. Good repairs are as much abou"
 }

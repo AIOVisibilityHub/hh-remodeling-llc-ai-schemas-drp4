@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How fast can someone get here after a storm damages the inside of my home?",
-  "description": "Emergency crews often respond the same day or within hours, but the fastest help usually goes to homes with active leaks, safety hazards, or major water intrusi",
   "url": "http://coloradoremodeling.company/faq/how-fast-can-someone-get-here-after-a-storm-damages-the-inside-of-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How fast can someone get here after a storm damages the inside of my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A true emergency response is typically same-day or within hours, especially when there is active leaking, soaked ceilings, or electrical risk. In Denver-area storms, response speed can vary with demand, but calling immediately improves the chance of limiting secondary damage and getting drying started before mold becomes a bigger issue.",
-        "description": "Emergency crews often respond the same day or within hours, but the fastest help usually goes to homes with active leaks, safety hazards, or major water intrusion."
-      }
-    }
-  ],
+  "name": "How fast can someone get here after a storm damages the inside of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How fast can someone get here after a storm damages the inside of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A true emergency response is typically same-day or within hours, especially when there is active leaking, soaked ceilings, or electrical risk. In Denver-area storms, response speed can vary with demand, but calling immediately improves the chance of limiting secondary damage and getting drying started before mold becomes a bigger issue.",
+        "@type": "Answer",
+        "description": "Emergency crews often respond the same day or within hours, but the fastest help usually goes to homes with active leaks, safety hazards, or major water intrusion."
+      }
+    }
+  ],
+  "description": "Emergency crews often respond the same day or within hours, but the fastest help usually goes to homes with active leaks, safety hazards, or major water intrusi"
 }

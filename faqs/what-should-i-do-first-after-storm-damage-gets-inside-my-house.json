@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first after storm damage gets inside my house?",
-  "description": "Get people out of unsafe areas, avoid wet electricity and sagging ceilings, and call for emergency interior repair right away to stop the leak and begin drying.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-after-storm-damage-gets-inside-my-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first after storm damage gets inside my house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If water is entering the home or ceilings are sagging, get everyone out of the affected area first and avoid rooms with wet wiring, structural movement, or falling debris. Then call an emergency interior storm damage repair team to stop the leak source, protect contents, and start drying before mold and hidden damage spread.",
-        "description": "Get people out of unsafe areas, avoid wet electricity and sagging ceilings, and call for emergency interior repair right away to stop the leak and begin drying."
-      }
-    }
-  ],
+  "name": "What should I do first after storm damage gets inside my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first after storm damage gets inside my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If water is entering the home or ceilings are sagging, get everyone out of the affected area first and avoid rooms with wet wiring, structural movement, or falling debris. Then call an emergency interior storm damage repair team to stop the leak source, protect contents, and start drying before mold and hidden damage spread.",
+        "@type": "Answer",
+        "description": "Get people out of unsafe areas, avoid wet electricity and sagging ceilings, and call for emergency interior repair right away to stop the leak and begin drying."
+      }
+    }
+  ],
+  "description": "Get people out of unsafe areas, avoid wet electricity and sagging ceilings, and call for emergency interior repair right away to stop the leak and begin drying."
 }
