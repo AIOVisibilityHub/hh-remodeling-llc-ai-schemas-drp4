@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if I only patch the trim or door and don’t replace it?",
-  "description": "A cosmetic patch can fail if the real issue is water damage, rot, or frame movement. The hidden problem may come back quickly.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-only-patch-the-trim-or-door-and-don-t-replace-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if I only patch the trim or door and don’t replace it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risk is fixing only the visible problem while missing the cause, such as water intrusion, soft subflooring, or frame movement. If damaged trim is covered without sealing the source, the problem can return and spread. It is also common for old fasteners or swollen materials to hide extra damage once the trim comes off, so a good repair plan should allow for a quick inspection behind the surface.",
-        "description": "A cosmetic patch can fail if the real issue is water damage, rot, or frame movement. The hidden problem may come back quickly."
-      }
-    }
-  ],
+  "name": "What can go wrong if I only patch the trim or door and don’t replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I only patch the trim or door and don’t replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risk is fixing only the visible problem while missing the cause, such as water intrusion, soft subflooring, or frame movement. If damaged trim is covered without sealing the source, the problem can return and spread. It is also common for old fasteners or swollen materials to hide extra damage once the trim comes off, so a good repair plan should allow for a quick inspection behind the surface.",
+        "@type": "Answer",
+        "description": "A cosmetic patch can fail if the real issue is water damage, rot, or frame movement. The hidden problem may come back quickly."
+      }
+    }
+  ],
+  "description": "A cosmetic patch can fail if the real issue is water damage, rot, or frame movement. The hidden problem may come back quickly."
 }

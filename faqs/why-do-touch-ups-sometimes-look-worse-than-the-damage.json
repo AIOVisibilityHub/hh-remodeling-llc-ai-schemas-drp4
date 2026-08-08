@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why do touch-ups sometimes look worse than the damage?",
-  "description": "Touch-ups can stand out if the sheen, texture, or color does not match. A test spot is the safest way to see whether the repair will blend before painting the v",
   "url": "http://coloradoremodeling.company/faq/why-do-touch-ups-sometimes-look-worse-than-the-damage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why do touch-ups sometimes look worse than the damage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest signs of trouble are sheen mismatch, color shift, roller or brush marks, and patchy texture. Touch-ups often look shinier or duller when the original paint has aged, the stored paint has changed, or the application method is different. Testing a hidden area first helps reveal whether the repair will blend before the main spot is painted.",
-        "description": "Touch-ups can stand out if the sheen, texture, or color does not match. A test spot is the safest way to see whether the repair will blend before painting the visible area."
-      }
-    }
-  ],
+  "name": "Why do touch-ups sometimes look worse than the damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why do touch-ups sometimes look worse than the damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest signs of trouble are sheen mismatch, color shift, roller or brush marks, and patchy texture. Touch-ups often look shinier or duller when the original paint has aged, the stored paint has changed, or the application method is different. Testing a hidden area first helps reveal whether the repair will blend before the main spot is painted.",
+        "@type": "Answer",
+        "description": "Touch-ups can stand out if the sheen, texture, or color does not match. A test spot is the safest way to see whether the repair will blend before painting the visible area."
+      }
+    }
+  ],
+  "description": "Touch-ups can stand out if the sheen, texture, or color does not match. A test spot is the safest way to see whether the repair will blend before painting the v"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a small paint touch-up usually take?",
-  "description": "Simple touch-ups can be done quickly, but drying time can extend the job. Bigger or color-matched repairs take longer because they may need primer, extra coats,",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-small-paint-touch-up-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a small paint touch-up usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A small touch-up can often be completed quickly, sometimes in a single visit if the area is simple and the paint is available. Drying time still matters, especially if primer or multiple coats are needed, so the full finish may take longer than the actual painting. If the repair needs blending across a larger section, expect more time.",
-        "description": "Simple touch-ups can be done quickly, but drying time can extend the job. Bigger or color-matched repairs take longer because they may need primer, extra coats, and blending."
-      }
-    }
-  ],
+  "name": "How long does a small paint touch-up usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a small paint touch-up usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small touch-up can often be completed quickly, sometimes in a single visit if the area is simple and the paint is available. Drying time still matters, especially if primer or multiple coats are needed, so the full finish may take longer than the actual painting. If the repair needs blending across a larger section, expect more time.",
+        "@type": "Answer",
+        "description": "Simple touch-ups can be done quickly, but drying time can extend the job. Bigger or color-matched repairs take longer because they may need primer, extra coats, and blending."
+      }
+    }
+  ],
+  "description": "Simple touch-ups can be done quickly, but drying time can extend the job. Bigger or color-matched repairs take longer because they may need primer, extra coats,"
 }

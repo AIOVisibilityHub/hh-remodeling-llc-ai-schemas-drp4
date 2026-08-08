@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with grab bar installation?",
-  "description": "The main problems are weak anchoring, cracked tile, water damage, and poor placement. A safe install uses the right support and fasteners and avoids drilling me",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-grab-bar-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with grab bar installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risk is a grab bar that fails when someone puts full body weight on it. That usually happens when the bar is mounted into weak wall material, the wrong fasteners are used, or the installer ignores hidden damage behind the wall.\n\nThere is also a finish risk: drilling tile or surround walls incorrectly can crack surfaces or cause water intrusion. A careful installer checks both support and moisture protection before mounting anything.\n\nKey factors:\n- Structural support behind the bar\n- Surface damage from drilling or cutting\n- Water leaks from poor sealing in wet areas\n- Misplaced bars that are hard to reach in an emergency\n\nIf the wall is questionable, reinforcement is safer than forcing a fast install. HH Remodeling LLC can reduce those risks with accessibility grab bar installation in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "The main problems are weak anchoring, cracked tile, water damage, and poor placement. A safe install uses the right support and fasteners and avoids drilling methods that compromise the wall."
-      }
-    }
-  ],
+  "name": "What can go wrong with grab bar installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with grab bar installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risk is a grab bar that fails when someone puts full body weight on it. That usually happens when the bar is mounted into weak wall material, the wrong fasteners are used, or the installer ignores hidden damage behind the wall.\n\nThere is also a finish risk: drilling tile or surround walls incorrectly can crack surfaces or cause water intrusion. A careful installer checks both support and moisture protection before mounting anything.\n\nKey factors:\n- Structural support behind the bar\n- Surface damage from drilling or cutting\n- Water leaks from poor sealing in wet areas\n- Misplaced bars that are hard to reach in an emergency\n\nIf the wall is questionable, reinforcement is safer than forcing a fast install. HH Remodeling LLC can reduce those risks with accessibility grab bar installation in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "The main problems are weak anchoring, cracked tile, water damage, and poor placement. A safe install uses the right support and fasteners and avoids drilling methods that compromise the wall."
+      }
+    }
+  ],
+  "description": "The main problems are weak anchoring, cracked tile, water damage, and poor placement. A safe install uses the right support and fasteners and avoids drilling me"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why does flooring in a foreclosed property cost more than I expected?",
-  "description": "Foreclosed properties often cost more because of extra prep, demo, and hidden repairs. The final price depends heavily on what’s underneath the old flooring.",
   "url": "http://coloradoremodeling.company/faq/why-does-flooring-in-a-foreclosed-property-cost-more-than-i-expected",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why does flooring in a foreclosed property cost more than I expected?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by demolition, disposal, subfloor repair, and the flooring material you choose. Foreclosed homes often cost more than a normal replacement because the contractor may need to fix water damage, level the floor, or replace sections before installation.",
-        "description": "Foreclosed properties often cost more because of extra prep, demo, and hidden repairs. The final price depends heavily on what’s underneath the old flooring."
-      }
-    }
-  ],
+  "name": "Why does flooring in a foreclosed property cost more than I expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why does flooring in a foreclosed property cost more than I expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by demolition, disposal, subfloor repair, and the flooring material you choose. Foreclosed homes often cost more than a normal replacement because the contractor may need to fix water damage, level the floor, or replace sections before installation.",
+        "@type": "Answer",
+        "description": "Foreclosed properties often cost more because of extra prep, demo, and hidden repairs. The final price depends heavily on what’s underneath the old flooring."
+      }
+    }
+  ],
+  "description": "Foreclosed properties often cost more because of extra prep, demo, and hidden repairs. The final price depends heavily on what’s underneath the old flooring."
 }

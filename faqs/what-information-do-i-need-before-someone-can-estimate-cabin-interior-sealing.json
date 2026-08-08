@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before someone can estimate cabin interior sealing?",
-  "description": "Photos of the gaps, notes about drafts, and any signs of moisture damage help a contractor estimate accurately. If the cabin has vents, fireplaces, or combustio",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-someone-can-estimate-cabin-interior-sealing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before someone can estimate cabin interior sealing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most useful evidence is a real walkthrough showing where air or moisture is entering, plus photos of problem joints and any staining, cracking, or failed caulk. If the cabin has combustion appliances or complex ventilation, that extra information matters because sealing the wrong area can create a safety issue.",
-        "description": "Photos of the gaps, notes about drafts, and any signs of moisture damage help a contractor estimate accurately. If the cabin has vents, fireplaces, or combustion appliances, mention those up front so the sealing plan is safe."
-      }
-    }
-  ],
+  "name": "What information do I need before someone can estimate cabin interior sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before someone can estimate cabin interior sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful evidence is a real walkthrough showing where air or moisture is entering, plus photos of problem joints and any staining, cracking, or failed caulk. If the cabin has combustion appliances or complex ventilation, that extra information matters because sealing the wrong area can create a safety issue.",
+        "@type": "Answer",
+        "description": "Photos of the gaps, notes about drafts, and any signs of moisture damage help a contractor estimate accurately. If the cabin has vents, fireplaces, or combustion appliances, mention those up front so the sealing plan is safe."
+      }
+    }
+  ],
+  "description": "Photos of the gaps, notes about drafts, and any signs of moisture damage help a contractor estimate accurately. If the cabin has vents, fireplaces, or combustio"
 }

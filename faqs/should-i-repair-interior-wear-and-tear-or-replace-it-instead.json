@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I repair interior wear and tear or replace it instead?",
-  "description": "Repair makes sense for smaller, isolated damage; replacement is better when the wear is widespread or the material is too far gone.",
   "url": "http://coloradoremodeling.company/faq/should-i-repair-interior-wear-and-tear-or-replace-it-instead",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I repair interior wear and tear or replace it instead?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choose repair when the damaged area is localized and the surrounding material is still in good condition; choose replacement when the wear is widespread, the material is failing, or the repair would be nearly as expensive as new material. In places like Denver, Centennial, Greenwood Village, Foxfield, and Parker, it is especially helpful to compare options for upholstery, drywall, trim, and flooring before deciding.",
-        "description": "Repair makes sense for smaller, isolated damage; replacement is better when the wear is widespread or the material is too far gone."
-      }
-    }
-  ],
+  "name": "Should I repair interior wear and tear or replace it instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair interior wear and tear or replace it instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose repair when the damaged area is localized and the surrounding material is still in good condition; choose replacement when the wear is widespread, the material is failing, or the repair would be nearly as expensive as new material. In places like Denver, Centennial, Greenwood Village, Foxfield, and Parker, it is especially helpful to compare options for upholstery, drywall, trim, and flooring before deciding.",
+        "@type": "Answer",
+        "description": "Repair makes sense for smaller, isolated damage; replacement is better when the wear is widespread or the material is too far gone."
+      }
+    }
+  ],
+  "description": "Repair makes sense for smaller, isolated damage; replacement is better when the wear is widespread or the material is too far gone."
 }

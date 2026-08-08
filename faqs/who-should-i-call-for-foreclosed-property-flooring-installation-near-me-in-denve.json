@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who should I call for foreclosed property flooring installation near me in Denver, Centennial, or Parker?",
-  "description": "Call a local contractor that serves your city and can inspect quickly. Fast response matters because damage in vacant homes can get worse over time.",
   "url": "http://coloradoremodeling.company/faq/who-should-i-call-for-foreclosed-property-flooring-installation-near-me-in-denve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who should I call for foreclosed property flooring installation near me in Denver, Centennial, or Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you’re in the Denver metro area and need flooring work for a foreclosed property, look for a contractor that serves your specific city and can inspect the property quickly. For places like Denver, Centennial, Greenwood Village, Foxfield, and Parker, local response time matters because vacancy-related damage can worsen fast.",
-        "description": "Call a local contractor that serves your city and can inspect quickly. Fast response matters because damage in vacant homes can get worse over time."
-      }
-    }
-  ],
+  "name": "Who should I call for foreclosed property flooring installation near me in Denver, Centennial, or Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who should I call for foreclosed property flooring installation near me in Denver, Centennial, or Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re in the Denver metro area and need flooring work for a foreclosed property, look for a contractor that serves your specific city and can inspect the property quickly. For places like Denver, Centennial, Greenwood Village, Foxfield, and Parker, local response time matters because vacancy-related damage can worsen fast.",
+        "@type": "Answer",
+        "description": "Call a local contractor that serves your city and can inspect quickly. Fast response matters because damage in vacant homes can get worse over time."
+      }
+    }
+  ],
+  "description": "Call a local contractor that serves your city and can inspect quickly. Fast response matters because damage in vacant homes can get worse over time."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of proof or documentation do I need before repairing a foreclosed interior?",
-  "description": "Take clear photos, make room-by-room notes, and list missing or damaged items. Good documentation helps build an accurate repair scope and prevents surprises la",
   "url": "http://coloradoremodeling.company/faq/what-kind-of-proof-or-documentation-do-i-need-before-repairing-a-foreclosed-inte",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of proof or documentation do I need before repairing a foreclosed interior?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photos, room-by-room notes, and an inventory of missing or damaged items are the most useful evidence. If there is water intrusion, mold, pests, vandalism, or stripped materials, document it before repairs begin so the scope is clear and nothing important gets overlooked.",
-        "description": "Take clear photos, make room-by-room notes, and list missing or damaged items. Good documentation helps build an accurate repair scope and prevents surprises later."
-      }
-    }
-  ],
+  "name": "What kind of proof or documentation do I need before repairing a foreclosed interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of proof or documentation do I need before repairing a foreclosed interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photos, room-by-room notes, and an inventory of missing or damaged items are the most useful evidence. If there is water intrusion, mold, pests, vandalism, or stripped materials, document it before repairs begin so the scope is clear and nothing important gets overlooked.",
+        "@type": "Answer",
+        "description": "Take clear photos, make room-by-room notes, and list missing or damaged items. Good documentation helps build an accurate repair scope and prevents surprises later."
+      }
+    }
+  ],
+  "description": "Take clear photos, make room-by-room notes, and list missing or damaged items. Good documentation helps build an accurate repair scope and prevents surprises la"
 }

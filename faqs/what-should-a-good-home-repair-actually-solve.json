@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a good home repair actually solve?",
-  "description": "A good repair should fix the root cause and prevent the issue from coming back, not just patch the visible damage.",
   "url": "http://coloradoremodeling.company/faq/what-should-a-good-home-repair-actually-solve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a good home repair actually solve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best outcome is a repair that stops the immediate problem and prevents it from coming back. That usually means fixing the root cause, not just the surface damage, and checking nearby areas for related wear such as caulking, flashing, gutters, or drainage.",
-        "description": "A good repair should fix the root cause and prevent the issue from coming back, not just patch the visible damage."
-      }
-    }
-  ],
+  "name": "What should a good home repair actually solve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a good home repair actually solve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best outcome is a repair that stops the immediate problem and prevents it from coming back. That usually means fixing the root cause, not just the surface damage, and checking nearby areas for related wear such as caulking, flashing, gutters, or drainage.",
+        "@type": "Answer",
+        "description": "A good repair should fix the root cause and prevent the issue from coming back, not just patch the visible damage."
+      }
+    }
+  ],
+  "description": "A good repair should fix the root cause and prevent the issue from coming back, not just patch the visible damage."
 }

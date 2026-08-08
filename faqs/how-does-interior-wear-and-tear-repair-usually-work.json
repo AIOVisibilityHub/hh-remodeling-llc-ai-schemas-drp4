@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does interior wear-and-tear repair usually work?",
-  "description": "It usually involves inspecting the damage, choosing the right repair method, matching the finish, and blending the repaired area into the surrounding surface.",
   "url": "http://coloradoremodeling.company/faq/how-does-interior-wear-and-tear-repair-usually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does interior wear-and-tear repair usually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with an inspection or photos, followed by a repair plan, material matching, and the actual restoration work. For interior surfaces, a good repair often depends on matching color, texture, grain, and sheen so the result does not stand out after the fix.",
-        "description": "It usually involves inspecting the damage, choosing the right repair method, matching the finish, and blending the repaired area into the surrounding surface."
-      }
-    }
-  ],
+  "name": "How does interior wear-and-tear repair usually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does interior wear-and-tear repair usually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with an inspection or photos, followed by a repair plan, material matching, and the actual restoration work. For interior surfaces, a good repair often depends on matching color, texture, grain, and sheen so the result does not stand out after the fix.",
+        "@type": "Answer",
+        "description": "It usually involves inspecting the damage, choosing the right repair method, matching the finish, and blending the repaired area into the surrounding surface."
+      }
+    }
+  ],
+  "description": "It usually involves inspecting the damage, choosing the right repair method, matching the finish, and blending the repaired area into the surrounding surface."
 }

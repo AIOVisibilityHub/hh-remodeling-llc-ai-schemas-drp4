@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What photos or details should I send before getting a trim repair estimate?",
-  "description": "Send close-up and wide photos, plus any signs of leaks, rot, gaps, or peeling paint. That usually makes the estimate faster and more accurate.",
   "url": "http://coloradoremodeling.company/faq/what-photos-or-details-should-i-send-before-getting-a-trim-repair-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What photos or details should I send before getting a trim repair estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good evidence includes clear photos of the damage, a close-up of cracks or rot, wider shots showing where the trim sits, and notes about leaks, impact, or peeling paint. If you’re in Foxfield, Denver, or Parker, photos help a contractor judge whether the problem is isolated trim damage or part of a bigger moisture issue.",
-        "description": "Send close-up and wide photos, plus any signs of leaks, rot, gaps, or peeling paint. That usually makes the estimate faster and more accurate."
-      }
-    }
-  ],
+  "name": "What photos or details should I send before getting a trim repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What photos or details should I send before getting a trim repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good evidence includes clear photos of the damage, a close-up of cracks or rot, wider shots showing where the trim sits, and notes about leaks, impact, or peeling paint. If you’re in Foxfield, Denver, or Parker, photos help a contractor judge whether the problem is isolated trim damage or part of a bigger moisture issue.",
+        "@type": "Answer",
+        "description": "Send close-up and wide photos, plus any signs of leaks, rot, gaps, or peeling paint. That usually makes the estimate faster and more accurate."
+      }
+    }
+  ],
+  "description": "Send close-up and wide photos, plus any signs of leaks, rot, gaps, or peeling paint. That usually makes the estimate faster and more accurate."
 }

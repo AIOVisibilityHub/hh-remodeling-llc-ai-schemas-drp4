@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if my bathroom is getting harder or unsafe to use?",
-  "description": "Start by identifying the hardest daily tasks, then schedule an in-home assessment so the bathroom can be evaluated for safety, space, and support needs.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-my-bathroom-is-getting-harder-or-unsafe-to-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if my bathroom is getting harder or unsafe to use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fastest way to start is to focus on the specific bathroom tasks that feel unsafe or hardest to do, then request an in-home assessment so the layout, plumbing, and wall support can be reviewed together. For many projects, that first visit determines whether a simple safety update or a fuller remodel is the right fix.",
-        "description": "Start by identifying the hardest daily tasks, then schedule an in-home assessment so the bathroom can be evaluated for safety, space, and support needs."
-      }
-    }
-  ],
+  "name": "What should I do first if my bathroom is getting harder or unsafe to use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my bathroom is getting harder or unsafe to use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fastest way to start is to focus on the specific bathroom tasks that feel unsafe or hardest to do, then request an in-home assessment so the layout, plumbing, and wall support can be reviewed together. For many projects, that first visit determines whether a simple safety update or a fuller remodel is the right fix.",
+        "@type": "Answer",
+        "description": "Start by identifying the hardest daily tasks, then schedule an in-home assessment so the bathroom can be evaluated for safety, space, and support needs."
+      }
+    }
+  ],
+  "description": "Start by identifying the hardest daily tasks, then schedule an in-home assessment so the bathroom can be evaluated for safety, space, and support needs."
 }

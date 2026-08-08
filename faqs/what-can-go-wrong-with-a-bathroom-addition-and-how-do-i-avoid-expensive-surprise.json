@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with a bathroom addition, and how do I avoid expensive surprises?",
-  "description": "The biggest risks are hidden plumbing or framing issues, bad ventilation, and layout problems that make the bath feel cramped. A preconstruction inspection and",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-bathroom-addition-and-how-do-i-avoid-expensive-surprise",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with a bathroom addition, and how do I avoid expensive surprises?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hidden plumbing problems, poor ventilation, and tight layouts are the most common surprises in bathroom additions. Older homes may also reveal water damage, undersized framing, or electrical work that needs updating before the new bath can be finished safely. The best way to reduce risk is to get the existing space evaluated before demolition and to keep a contingency budget for unknowns. You should also ask how changes will be handled if the original plan hits a structural or mechanical problem. Clear communication before construction starts prevents most expensive misunderstandings later.",
-        "description": "The biggest risks are hidden plumbing or framing issues, bad ventilation, and layout problems that make the bath feel cramped. A preconstruction inspection and contingency budget help prevent costly surprises."
-      }
-    }
-  ],
+  "name": "What can go wrong with a bathroom addition, and how do I avoid expensive surprises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a bathroom addition, and how do I avoid expensive surprises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden plumbing problems, poor ventilation, and tight layouts are the most common surprises in bathroom additions. Older homes may also reveal water damage, undersized framing, or electrical work that needs updating before the new bath can be finished safely. The best way to reduce risk is to get the existing space evaluated before demolition and to keep a contingency budget for unknowns. You should also ask how changes will be handled if the original plan hits a structural or mechanical problem. Clear communication before construction starts prevents most expensive misunderstandings later.",
+        "@type": "Answer",
+        "description": "The biggest risks are hidden plumbing or framing issues, bad ventilation, and layout problems that make the bath feel cramped. A preconstruction inspection and contingency budget help prevent costly surprises."
+      }
+    }
+  ],
+  "description": "The biggest risks are hidden plumbing or framing issues, bad ventilation, and layout problems that make the bath feel cramped. A preconstruction inspection and"
 }

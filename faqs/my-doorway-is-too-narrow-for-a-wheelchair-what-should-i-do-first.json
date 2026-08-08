@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My doorway is too narrow for a wheelchair—what should I do first?",
-  "description": "Start by measuring the clear opening, not just the door slab, and identify the narrowest doors on the main path. A contractor can then determine whether widenin",
   "url": "http://coloradoremodeling.company/faq/my-doorway-is-too-narrow-for-a-wheelchair-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My doorway is too narrow for a wheelchair—what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners ask this because a doorway that is fine for walking can still be too tight for a wheelchair, walker, or shower chair. For accessibility work, the goal is usually a clear opening that allows comfortable, safe passage—not just a larger-looking frame. If the opening is on a main path, bathroom, or bedroom, it usually deserves priority.",
-        "description": "Start by measuring the clear opening, not just the door slab, and identify the narrowest doors on the main path. A contractor can then determine whether widening, reversing the swing, or using offset hinges is the best fix."
-      }
-    }
-  ],
+  "name": "My doorway is too narrow for a wheelchair—what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My doorway is too narrow for a wheelchair—what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners ask this because a doorway that is fine for walking can still be too tight for a wheelchair, walker, or shower chair. For accessibility work, the goal is usually a clear opening that allows comfortable, safe passage—not just a larger-looking frame. If the opening is on a main path, bathroom, or bedroom, it usually deserves priority.",
+        "@type": "Answer",
+        "description": "Start by measuring the clear opening, not just the door slab, and identify the narrowest doors on the main path. A contractor can then determine whether widening, reversing the swing, or using offset hinges is the best fix."
+      }
+    }
+  ],
+  "description": "Start by measuring the clear opening, not just the door slab, and identify the narrowest doors on the main path. A contractor can then determine whether widenin"
 }

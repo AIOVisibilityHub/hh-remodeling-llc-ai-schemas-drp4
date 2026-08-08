@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should I expect to pay for a small drywall repair?",
-  "description": "Small repairs are usually the least expensive drywall jobs, but pricing changes with size, texture, and paint work. A simple nail-hole patch costs far less than",
   "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-a-small-drywall-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should I expect to pay for a small drywall repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the size of the damage, the number of spots, and whether painting is included. In the Denver area, small drywall repairs are commonly priced lower than larger patch jobs, but texture matching, ceiling work, and water-related damage can increase the price.",
-        "description": "Small repairs are usually the least expensive drywall jobs, but pricing changes with size, texture, and paint work. A simple nail-hole patch costs far less than a textured or water-damaged repair."
-      }
-    }
-  ],
+  "name": "How much should I expect to pay for a small drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I expect to pay for a small drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the size of the damage, the number of spots, and whether painting is included. In the Denver area, small drywall repairs are commonly priced lower than larger patch jobs, but texture matching, ceiling work, and water-related damage can increase the price.",
+        "@type": "Answer",
+        "description": "Small repairs are usually the least expensive drywall jobs, but pricing changes with size, texture, and paint work. A simple nail-hole patch costs far less than a textured or water-damaged repair."
+      }
+    }
+  ],
+  "description": "Small repairs are usually the least expensive drywall jobs, but pricing changes with size, texture, and paint work. A simple nail-hole patch costs far less than"
 }

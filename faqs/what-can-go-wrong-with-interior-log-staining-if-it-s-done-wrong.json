@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with interior log staining if it’s done wrong?",
-  "description": "Poor prep and the wrong stain can leave streaks, blotches, or weak bonding. Moisture and old coatings are two of the biggest causes of failures.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-interior-log-staining-if-it-s-done-wrong",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with interior log staining if it’s done wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most interior log staining problems come from poor prep, applying finish to damp wood, or using the wrong product for the existing coating. Those mistakes can cause streaking, uneven color, early wear, or a finish that does not bond well.",
-        "description": "Poor prep and the wrong stain can leave streaks, blotches, or weak bonding. Moisture and old coatings are two of the biggest causes of failures."
-      }
-    }
-  ],
+  "name": "What can go wrong with interior log staining if it’s done wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with interior log staining if it’s done wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most interior log staining problems come from poor prep, applying finish to damp wood, or using the wrong product for the existing coating. Those mistakes can cause streaking, uneven color, early wear, or a finish that does not bond well.",
+        "@type": "Answer",
+        "description": "Poor prep and the wrong stain can leave streaks, blotches, or weak bonding. Moisture and old coatings are two of the biggest causes of failures."
+      }
+    }
+  ],
+  "description": "Poor prep and the wrong stain can leave streaks, blotches, or weak bonding. Moisture and old coatings are two of the biggest causes of failures."
 }

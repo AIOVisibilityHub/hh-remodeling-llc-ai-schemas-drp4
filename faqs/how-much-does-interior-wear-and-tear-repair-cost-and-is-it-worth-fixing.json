@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does interior wear-and-tear repair cost, and is it worth fixing?",
-  "description": "Small fixes are usually cheaper than replacement, and repairing early often saves money by preventing the damage from spreading.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-interior-wear-and-tear-repair-cost-and-is-it-worth-fixing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does interior wear-and-tear repair cost, and is it worth fixing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the material, the size of the damage, and whether the repair can be blended in or requires replacement. Minor repairs are usually less expensive than full replacement, but waiting too long can raise the total cost if the damage spreads or affects adjacent surfaces.",
-        "description": "Small fixes are usually cheaper than replacement, and repairing early often saves money by preventing the damage from spreading."
-      }
-    }
-  ],
+  "name": "How much does interior wear-and-tear repair cost, and is it worth fixing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior wear-and-tear repair cost, and is it worth fixing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the material, the size of the damage, and whether the repair can be blended in or requires replacement. Minor repairs are usually less expensive than full replacement, but waiting too long can raise the total cost if the damage spreads or affects adjacent surfaces.",
+        "@type": "Answer",
+        "description": "Small fixes are usually cheaper than replacement, and repairing early often saves money by preventing the damage from spreading."
+      }
+    }
+  ],
+  "description": "Small fixes are usually cheaper than replacement, and repairing early often saves money by preventing the damage from spreading."
 }

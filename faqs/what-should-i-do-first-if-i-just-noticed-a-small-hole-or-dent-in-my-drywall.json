@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I just noticed a small hole or dent in my drywall?",
-  "description": "For tiny nail holes, dents, and hairline cracks, clean the area, fill it, sand smooth, and repaint. If the damage is larger than a small spot or involves textur",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-i-just-noticed-a-small-hole-or-dent-in-my-drywall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I just noticed a small hole or dent in my drywall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small drywall repairs are usually best handled with spackle or joint compound, sanding, and paint touch-up if the damage is just a nail hole, small dent, or hairline crack. If the area is larger, needs texture matching, or shows signs of water damage, a professional repair is the safer choice.",
-        "description": "For tiny nail holes, dents, and hairline cracks, clean the area, fill it, sand smooth, and repaint. If the damage is larger than a small spot or involves texture or moisture, get a pro to inspect it."
-      }
-    }
-  ],
+  "name": "What should I do first if I just noticed a small hole or dent in my drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I just noticed a small hole or dent in my drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small drywall repairs are usually best handled with spackle or joint compound, sanding, and paint touch-up if the damage is just a nail hole, small dent, or hairline crack. If the area is larger, needs texture matching, or shows signs of water damage, a professional repair is the safer choice.",
+        "@type": "Answer",
+        "description": "For tiny nail holes, dents, and hairline cracks, clean the area, fill it, sand smooth, and repaint. If the damage is larger than a small spot or involves texture or moisture, get a pro to inspect it."
+      }
+    }
+  ],
+  "description": "For tiny nail holes, dents, and hairline cracks, clean the area, fill it, sand smooth, and repaint. If the damage is larger than a small spot or involves textur"
 }

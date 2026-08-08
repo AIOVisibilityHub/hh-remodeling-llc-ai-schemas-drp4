@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I send before asking for a repair estimate?",
-  "description": "Send clear photos, the damage size, and any leak history so the repair can be scoped accurately.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-send-before-asking-for-a-repair-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I send before asking for a repair estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photos help a lot, especially for cracks, stains, sagging, holes, or peeling seams. It also helps to know when the damage started, whether there was a leak, and whether the area feels soft, because that changes the repair approach.",
-        "description": "Send clear photos, the damage size, and any leak history so the repair can be scoped accurately."
-      }
-    }
-  ],
+  "name": "What should I send before asking for a repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I send before asking for a repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photos help a lot, especially for cracks, stains, sagging, holes, or peeling seams. It also helps to know when the damage started, whether there was a leak, and whether the area feels soft, because that changes the repair approach.",
+        "@type": "Answer",
+        "description": "Send clear photos, the damage size, and any leak history so the repair can be scoped accurately."
+      }
+    }
+  ],
+  "description": "Send clear photos, the damage size, and any leak history so the repair can be scoped accurately."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens during a bathroom accessibility remodel?",
-  "description": "Expect a consult, a plan, material choices, any needed permits, and then installation of safety and access features like grab bars, shower changes, and improved",
   "url": "http://coloradoremodeling.company/faq/what-happens-during-a-bathroom-accessibility-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens during a bathroom accessibility remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with a consultation, then a design plan, material selection, permitting if needed, and the actual construction. Common accessibility updates include grab bars, a walk-in or roll-in shower, a comfort-height toilet, wider doorways, better flooring, and improved lighting.",
-        "description": "Expect a consult, a plan, material choices, any needed permits, and then installation of safety and access features like grab bars, shower changes, and improved flooring."
-      }
-    }
-  ],
+  "name": "What happens during a bathroom accessibility remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a bathroom accessibility remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a consultation, then a design plan, material selection, permitting if needed, and the actual construction. Common accessibility updates include grab bars, a walk-in or roll-in shower, a comfort-height toilet, wider doorways, better flooring, and improved lighting.",
+        "@type": "Answer",
+        "description": "Expect a consult, a plan, material choices, any needed permits, and then installation of safety and access features like grab bars, shower changes, and improved flooring."
+      }
+    }
+  ],
+  "description": "Expect a consult, a plan, material choices, any needed permits, and then installation of safety and access features like grab bars, shower changes, and improved"
 }

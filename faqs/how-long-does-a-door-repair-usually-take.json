@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a door repair usually take?",
-  "description": "Simple adjustments are often same-visit jobs; bigger repairs can take longer if parts or frame work are needed.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-door-repair-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a door repair usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the issue, but many straightforward adjustments can be completed in one visit once the technician diagnoses the problem. More involved repairs, such as frame repair, hardware replacement, or an exterior door that needs re-fitting, may take longer.",
-        "description": "Simple adjustments are often same-visit jobs; bigger repairs can take longer if parts or frame work are needed."
-      }
-    }
-  ],
+  "name": "How long does a door repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a door repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the issue, but many straightforward adjustments can be completed in one visit once the technician diagnoses the problem. More involved repairs, such as frame repair, hardware replacement, or an exterior door that needs re-fitting, may take longer.",
+        "@type": "Answer",
+        "description": "Simple adjustments are often same-visit jobs; bigger repairs can take longer if parts or frame work are needed."
+      }
+    }
+  ],
+  "description": "Simple adjustments are often same-visit jobs; bigger repairs can take longer if parts or frame work are needed."
 }

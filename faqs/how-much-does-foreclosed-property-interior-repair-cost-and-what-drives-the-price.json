@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does foreclosed property interior repair cost, and what drives the price?",
-  "description": "Price is driven by damage level, cleanup volume, materials, and hidden issues found during inspection. A walkthrough is the most reliable way to get an accurate",
   "url": "http://coloradoremodeling.company/faq/how-much-does-foreclosed-property-interior-repair-cost-and-what-drives-the-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does foreclosed property interior repair cost, and what drives the price?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the amount of interior damage, cleanup volume, materials needed, and whether hidden issues are found after the property is opened up. A detailed walkthrough is the best way to avoid underbidding, because foreclosed homes often reveal extra work once walls, floors, or cabinets are exposed.",
-        "description": "Price is driven by damage level, cleanup volume, materials, and hidden issues found during inspection. A walkthrough is the most reliable way to get an accurate estimate."
-      }
-    }
-  ],
+  "name": "How much does foreclosed property interior repair cost, and what drives the price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does foreclosed property interior repair cost, and what drives the price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the amount of interior damage, cleanup volume, materials needed, and whether hidden issues are found after the property is opened up. A detailed walkthrough is the best way to avoid underbidding, because foreclosed homes often reveal extra work once walls, floors, or cabinets are exposed.",
+        "@type": "Answer",
+        "description": "Price is driven by damage level, cleanup volume, materials, and hidden issues found during inspection. A walkthrough is the most reliable way to get an accurate estimate."
+      }
+    }
+  ],
+  "description": "Price is driven by damage level, cleanup volume, materials, and hidden issues found during inspection. A walkthrough is the most reliable way to get an accurate"
 }

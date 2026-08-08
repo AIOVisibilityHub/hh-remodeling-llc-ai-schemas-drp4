@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if the trim and door repair was done well?",
-  "description": "A good repair means the door closes smoothly, latches correctly, and the trim is sealed, stable, and finished cleanly.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-the-trim-and-door-repair-was-done-well",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if the trim and door repair was done well?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A successful repair should leave the door opening level, the door closing smoothly, and the trim sealed without gaps, wobble, or drafts. You should also expect the latch to catch cleanly and the surrounding area to look finished rather than mismatched or patched over. If the home had water entry before, the key outcome is a tighter seal that helps prevent the same issue from returning.",
-        "description": "A good repair means the door closes smoothly, latches correctly, and the trim is sealed, stable, and finished cleanly."
-      }
-    }
-  ],
+  "name": "How do I know if the trim and door repair was done well?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the trim and door repair was done well?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful repair should leave the door opening level, the door closing smoothly, and the trim sealed without gaps, wobble, or drafts. You should also expect the latch to catch cleanly and the surrounding area to look finished rather than mismatched or patched over. If the home had water entry before, the key outcome is a tighter seal that helps prevent the same issue from returning.",
+        "@type": "Answer",
+        "description": "A good repair means the door closes smoothly, latches correctly, and the trim is sealed, stable, and finished cleanly."
+      }
+    }
+  ],
+  "description": "A good repair means the door closes smoothly, latches correctly, and the trim is sealed, stable, and finished cleanly."
 }

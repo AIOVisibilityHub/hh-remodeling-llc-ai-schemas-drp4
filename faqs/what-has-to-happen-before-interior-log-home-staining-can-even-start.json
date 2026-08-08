@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What has to happen before interior log home staining can even start?",
-  "description": "The logs need to be clean, dry, and prepped before staining. In Colorado homes, finish selection also has to account for strong sun exposure and dry indoor cond",
   "url": "http://coloradoremodeling.company/faq/what-has-to-happen-before-interior-log-home-staining-can-even-start",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What has to happen before interior log home staining can even start?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior log staining is usually done after the logs are cleaned, dry, and free of dust, oils, or old finish buildup. For Colorado homes, a good stain should also account for altitude, dry air, and strong sun exposure near bright windows and open rooms.",
-        "description": "The logs need to be clean, dry, and prepped before staining. In Colorado homes, finish selection also has to account for strong sun exposure and dry indoor conditions."
-      }
-    }
-  ],
+  "name": "What has to happen before interior log home staining can even start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What has to happen before interior log home staining can even start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior log staining is usually done after the logs are cleaned, dry, and free of dust, oils, or old finish buildup. For Colorado homes, a good stain should also account for altitude, dry air, and strong sun exposure near bright windows and open rooms.",
+        "@type": "Answer",
+        "description": "The logs need to be clean, dry, and prepped before staining. In Colorado homes, finish selection also has to account for strong sun exposure and dry indoor conditions."
+      }
+    }
+  ],
+  "description": "The logs need to be clean, dry, and prepped before staining. In Colorado homes, finish selection also has to account for strong sun exposure and dry indoor cond"
 }

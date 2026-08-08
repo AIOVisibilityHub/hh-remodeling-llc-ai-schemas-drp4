@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it worth hiring someone for just one small drywall repair?",
-  "description": "Yes, if you want the patch to blend cleanly. Even a small flaw can be noticeable after painting, especially on smooth walls or in bright rooms.",
   "url": "http://coloradoremodeling.company/faq/is-it-worth-hiring-someone-for-just-one-small-drywall-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it worth hiring someone for just one small drywall repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest objection is usually, 'This is too small to call someone.' But small drywall damage can still stand out after paint, especially on smooth or well-lit walls, so getting it done professionally can be worth it when you want the repair to disappear.",
-        "description": "Yes, if you want the patch to blend cleanly. Even a small flaw can be noticeable after painting, especially on smooth walls or in bright rooms."
-      }
-    }
-  ],
+  "name": "Is it worth hiring someone for just one small drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it worth hiring someone for just one small drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest objection is usually, 'This is too small to call someone.' But small drywall damage can still stand out after paint, especially on smooth or well-lit walls, so getting it done professionally can be worth it when you want the repair to disappear.",
+        "@type": "Answer",
+        "description": "Yes, if you want the patch to blend cleanly. Even a small flaw can be noticeable after painting, especially on smooth walls or in bright rooms."
+      }
+    }
+  ],
+  "description": "Yes, if you want the patch to blend cleanly. Even a small flaw can be noticeable after painting, especially on smooth walls or in bright rooms."
 }

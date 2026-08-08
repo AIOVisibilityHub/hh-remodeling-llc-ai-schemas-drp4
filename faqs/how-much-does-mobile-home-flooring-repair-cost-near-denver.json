@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does mobile home flooring repair cost near Denver?",
-  "description": "Price depends on the size of the damaged area and whether the subfloor must be replaced. Get a measured quote based on the affected square footage, not just a r",
   "url": "http://coloradoremodeling.company/faq/how-much-does-mobile-home-flooring-repair-cost-near-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does mobile home flooring repair cost near Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary by damage size, flooring type, and whether the subfloor or framing also needs repair. For mobile home floor repair, homeowners often see a wide range because patching a small area is very different from replacing larger sections of subfloor.",
-        "description": "Price depends on the size of the damaged area and whether the subfloor must be replaced. Get a measured quote based on the affected square footage, not just a rough phone estimate."
-      }
-    }
-  ],
+  "name": "How much does mobile home flooring repair cost near Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mobile home flooring repair cost near Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary by damage size, flooring type, and whether the subfloor or framing also needs repair. For mobile home floor repair, homeowners often see a wide range because patching a small area is very different from replacing larger sections of subfloor.",
+        "@type": "Answer",
+        "description": "Price depends on the size of the damaged area and whether the subfloor must be replaced. Get a measured quote based on the affected square footage, not just a rough phone estimate."
+      }
+    }
+  ],
+  "description": "Price depends on the size of the damaged area and whether the subfloor must be replaced. Get a measured quote based on the affected square footage, not just a r"
 }

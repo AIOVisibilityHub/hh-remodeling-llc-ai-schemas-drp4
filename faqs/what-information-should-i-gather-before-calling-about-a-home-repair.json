@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I gather before calling about a home repair?",
-  "description": "Take photos, note when the issue started, and write down any related symptoms like leaks, noises, or drafts. Good notes help diagnose the problem faster.",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-gather-before-calling-about-a-home-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I gather before calling about a home repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong evidence includes clear photos, notes about when the problem started, any leaks or sounds you noticed, and a list of previous repairs or related issues. If the problem is intermittent, document when it happens, such as after rain, during freezing weather, or when a certain fixture is used.",
-        "description": "Take photos, note when the issue started, and write down any related symptoms like leaks, noises, or drafts. Good notes help diagnose the problem faster."
-      }
-    }
-  ],
+  "name": "What information should I gather before calling about a home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before calling about a home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong evidence includes clear photos, notes about when the problem started, any leaks or sounds you noticed, and a list of previous repairs or related issues. If the problem is intermittent, document when it happens, such as after rain, during freezing weather, or when a certain fixture is used.",
+        "@type": "Answer",
+        "description": "Take photos, note when the issue started, and write down any related symptoms like leaks, noises, or drafts. Good notes help diagnose the problem faster."
+      }
+    }
+  ],
+  "description": "Take photos, note when the issue started, and write down any related symptoms like leaks, noises, or drafts. Good notes help diagnose the problem faster."
 }

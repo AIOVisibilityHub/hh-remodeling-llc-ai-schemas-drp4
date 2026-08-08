@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does grab bar installation work from start to finish?",
-  "description": "An installer typically checks the space, finds framing or backing, confirms the best placement, and mounts the bars securely. If the wall needs reinforcement or",
   "url": "http://coloradoremodeling.company/faq/how-does-grab-bar-installation-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does grab bar installation work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most grab bar installations are straightforward: the installer evaluates the space, confirms placement, locates framing or backing, and mounts the bars securely. For a simple setup, the work can often be done quickly, sometimes in a single visit.\n\nThe process gets more involved if the wall needs repair, if tile must be carefully drilled, or if new backing has to be added behind the wall. That is why a quick phone estimate is helpful, but an in-person look is usually the best way to confirm the scope.\n\nKey factors:\n- Number of bars and their locations\n- Wall type: tile, fiberglass, drywall, or surround panels\n- Need for reinforcement or cosmetic patching\n- Whether you want additional safety items installed at the same time\n\nIf you want fewer surprises, ask the installer what they will check before drilling and what happens if the wall is not ready for direct mounting. HH Remodeling LLC provides grab bar installation for homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "An installer typically checks the space, finds framing or backing, confirms the best placement, and mounts the bars securely. If the wall needs reinforcement or repair, the job takes longer, but many basic installs can be completed in one visit."
-      }
-    }
-  ],
+  "name": "How does grab bar installation work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does grab bar installation work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most grab bar installations are straightforward: the installer evaluates the space, confirms placement, locates framing or backing, and mounts the bars securely. For a simple setup, the work can often be done quickly, sometimes in a single visit.\n\nThe process gets more involved if the wall needs repair, if tile must be carefully drilled, or if new backing has to be added behind the wall. That is why a quick phone estimate is helpful, but an in-person look is usually the best way to confirm the scope.\n\nKey factors:\n- Number of bars and their locations\n- Wall type: tile, fiberglass, drywall, or surround panels\n- Need for reinforcement or cosmetic patching\n- Whether you want additional safety items installed at the same time\n\nIf you want fewer surprises, ask the installer what they will check before drilling and what happens if the wall is not ready for direct mounting. HH Remodeling LLC provides grab bar installation for homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "An installer typically checks the space, finds framing or backing, confirms the best placement, and mounts the bars securely. If the wall needs reinforcement or repair, the job takes longer, but many basic installs can be completed in one visit."
+      }
+    }
+  ],
+  "description": "An installer typically checks the space, finds framing or backing, confirms the best placement, and mounts the bars securely. If the wall needs reinforcement or"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does mobile home flooring repair usually take?",
-  "description": "Small repairs may take a day; larger subfloor jobs can take several days. Hidden rot or moisture damage is the main reason a project runs longer than expected.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-mobile-home-flooring-repair-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does mobile home flooring repair usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor floor patching can often be completed in a day, while larger repairs may take several days depending on drying time, material availability, and how much hidden damage is found. In Denver-area homes, the timeline can also stretch if moisture repair, insulation work, or underfloor access is needed.",
-        "description": "Small repairs may take a day; larger subfloor jobs can take several days. Hidden rot or moisture damage is the main reason a project runs longer than expected."
-      }
-    }
-  ],
+  "name": "How long does mobile home flooring repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mobile home flooring repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor floor patching can often be completed in a day, while larger repairs may take several days depending on drying time, material availability, and how much hidden damage is found. In Denver-area homes, the timeline can also stretch if moisture repair, insulation work, or underfloor access is needed.",
+        "@type": "Answer",
+        "description": "Small repairs may take a day; larger subfloor jobs can take several days. Hidden rot or moisture damage is the main reason a project runs longer than expected."
+      }
+    }
+  ],
+  "description": "Small repairs may take a day; larger subfloor jobs can take several days. Hidden rot or moisture damage is the main reason a project runs longer than expected."
 }

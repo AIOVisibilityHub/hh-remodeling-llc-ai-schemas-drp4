@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I paint the inside, the outside, or both on a foreclosed home?",
-  "description": "Choose interior, exterior, or both based on condition and sale goals. Exterior boosts curb appeal; interior helps with showings and move-in readiness.",
   "url": "http://coloradoremodeling.company/faq/should-i-paint-the-inside-the-outside-or-both-on-a-foreclosed-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I paint the inside, the outside, or both on a foreclosed home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior painting is the better choice when the home only needs cosmetic refresh and the outside is still in decent shape. Exterior painting makes more sense when curb appeal is weak, weather has damaged siding or trim, or the property needs a stronger first impression for showings.",
-        "description": "Choose interior, exterior, or both based on condition and sale goals. Exterior boosts curb appeal; interior helps with showings and move-in readiness."
-      }
-    }
-  ],
+  "name": "Should I paint the inside, the outside, or both on a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint the inside, the outside, or both on a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior painting is the better choice when the home only needs cosmetic refresh and the outside is still in decent shape. Exterior painting makes more sense when curb appeal is weak, weather has damaged siding or trim, or the property needs a stronger first impression for showings.",
+        "@type": "Answer",
+        "description": "Choose interior, exterior, or both based on condition and sale goals. Exterior boosts curb appeal; interior helps with showings and move-in readiness."
+      }
+    }
+  ],
+  "description": "Choose interior, exterior, or both based on condition and sale goals. Exterior boosts curb appeal; interior helps with showings and move-in readiness."
 }

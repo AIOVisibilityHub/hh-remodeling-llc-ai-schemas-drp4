@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I widen the doorway or just use offset hinges?",
-  "description": "Offset hinges can buy a little extra clearance, but they do not solve every accessibility issue. If the opening is still too tight, full widening is usually the",
   "url": "http://coloradoremodeling.company/faq/should-i-widen-the-doorway-or-just-use-offset-hinges",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I widen the doorway or just use offset hinges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Doorway widening is often compared with options like offset hinges, reversing the swing, or removing the door entirely. Those smaller changes can help in tight spaces, but full widening is usually the better long-term choice when a wheelchair, walker, or future mobility need is involved.",
-        "description": "Offset hinges can buy a little extra clearance, but they do not solve every accessibility issue. If the opening is still too tight, full widening is usually the more durable fix."
-      }
-    }
-  ],
+  "name": "Should I widen the doorway or just use offset hinges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I widen the doorway or just use offset hinges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Doorway widening is often compared with options like offset hinges, reversing the swing, or removing the door entirely. Those smaller changes can help in tight spaces, but full widening is usually the better long-term choice when a wheelchair, walker, or future mobility need is involved.",
+        "@type": "Answer",
+        "description": "Offset hinges can buy a little extra clearance, but they do not solve every accessibility issue. If the opening is still too tight, full widening is usually the more durable fix."
+      }
+    }
+  ],
+  "description": "Offset hinges can buy a little extra clearance, but they do not solve every accessibility issue. If the opening is still too tight, full widening is usually the"
 }

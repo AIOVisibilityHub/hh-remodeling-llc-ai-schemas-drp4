@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it better to repair the floor or replace the whole thing in a mobile home?",
-  "description": "Repair is usually better for small, contained damage. Replacement makes more sense when rot is widespread or the floor system has failed in more than one area.",
   "url": "http://coloradoremodeling.company/faq/is-it-better-to-repair-the-floor-or-replace-the-whole-thing-in-a-mobile-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it better to repair the floor or replace the whole thing in a mobile home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When comparing repair options, look at whether the company checks for underlying water damage, replaces subfloor correctly, and explains what is and is not included. A lower quote is not always better if it only covers surface materials and skips structural repair.",
-        "description": "Repair is usually better for small, contained damage. Replacement makes more sense when rot is widespread or the floor system has failed in more than one area."
-      }
-    }
-  ],
+  "name": "Is it better to repair the floor or replace the whole thing in a mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair the floor or replace the whole thing in a mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing repair options, look at whether the company checks for underlying water damage, replaces subfloor correctly, and explains what is and is not included. A lower quote is not always better if it only covers surface materials and skips structural repair.",
+        "@type": "Answer",
+        "description": "Repair is usually better for small, contained damage. Replacement makes more sense when rot is widespread or the floor system has failed in more than one area."
+      }
+    }
+  ],
+  "description": "Repair is usually better for small, contained damage. Replacement makes more sense when rot is widespread or the floor system has failed in more than one area."
 }

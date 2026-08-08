@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens when I book a handyman repair task?",
-  "description": "You describe the problem, the repair is assessed, the scope is confirmed, and then the work is completed with the needed parts and labor.",
   "url": "http://coloradoremodeling.company/faq/what-happens-when-i-book-a-handyman-repair-task",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens when I book a handyman repair task?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with a quick description of the issue, then an on-site assessment if needed, followed by a repair plan and completion. For jobs like door rehanging, drywall patching, cabinet adjustments, or fixture swaps, the key is confirming the scope so the right materials and time are scheduled.",
-        "description": "You describe the problem, the repair is assessed, the scope is confirmed, and then the work is completed with the needed parts and labor."
-      }
-    }
-  ],
+  "name": "What happens when I book a handyman repair task?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens when I book a handyman repair task?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a quick description of the issue, then an on-site assessment if needed, followed by a repair plan and completion. For jobs like door rehanging, drywall patching, cabinet adjustments, or fixture swaps, the key is confirming the scope so the right materials and time are scheduled.",
+        "@type": "Answer",
+        "description": "You describe the problem, the repair is assessed, the scope is confirmed, and then the work is completed with the needed parts and labor."
+      }
+    }
+  ],
+  "description": "You describe the problem, the repair is assessed, the scope is confirmed, and then the work is completed with the needed parts and labor."
 }

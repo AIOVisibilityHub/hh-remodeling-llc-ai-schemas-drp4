@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during a small paint touch-up?",
-  "description": "Clean, patch, prime if needed, then apply thin paint coats and blend the edges. Matching the original finish and application method helps the repair disappear.",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-a-small-paint-touch-up",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during a small paint touch-up?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with cleaning the damaged area, filling or smoothing the flaw, and priming if bare drywall or wood is exposed. Then paint is applied in thin coats and feathered into the surrounding surface so the repair blends instead of leaving a hard edge. For the best result, the same roller or brush type used originally should be used when possible.",
-        "description": "Clean, patch, prime if needed, then apply thin paint coats and blend the edges. Matching the original finish and application method helps the repair disappear."
-      }
-    }
-  ],
+  "name": "What actually happens during a small paint touch-up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a small paint touch-up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with cleaning the damaged area, filling or smoothing the flaw, and priming if bare drywall or wood is exposed. Then paint is applied in thin coats and feathered into the surrounding surface so the repair blends instead of leaving a hard edge. For the best result, the same roller or brush type used originally should be used when possible.",
+        "@type": "Answer",
+        "description": "Clean, patch, prime if needed, then apply thin paint coats and blend the edges. Matching the original finish and application method helps the repair disappear."
+      }
+    }
+  ],
+  "description": "Clean, patch, prime if needed, then apply thin paint coats and blend the edges. Matching the original finish and application method helps the repair disappear."
 }

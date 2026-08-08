@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My door is sticking and won’t latch—what should I do first?",
-  "description": "Start with alignment: hinges, strike plate, and door sweep. Many sticking doors need adjustment, not replacement.",
   "url": "http://coloradoremodeling.company/faq/my-door-is-sticking-and-won-t-latch-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My door is sticking and won’t latch—what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the door sticks, scrapes the floor, or will not latch, the first step is usually a hinge and strike-plate adjustment rather than a full replacement. A technician can check alignment, tighten or reset hardware, and plane the edge only if needed.",
-        "description": "Start with alignment: hinges, strike plate, and door sweep. Many sticking doors need adjustment, not replacement."
-      }
-    }
-  ],
+  "name": "My door is sticking and won’t latch—what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My door is sticking and won’t latch—what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the door sticks, scrapes the floor, or will not latch, the first step is usually a hinge and strike-plate adjustment rather than a full replacement. A technician can check alignment, tighten or reset hardware, and plane the edge only if needed.",
+        "@type": "Answer",
+        "description": "Start with alignment: hinges, strike plate, and door sweep. Many sticking doors need adjustment, not replacement."
+      }
+    }
+  ],
+  "description": "Start with alignment: hinges, strike plate, and door sweep. Many sticking doors need adjustment, not replacement."
 }

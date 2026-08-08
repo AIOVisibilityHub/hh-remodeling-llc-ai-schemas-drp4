@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does damage repair for sale or rental preparation usually work?",
-  "description": "It usually starts with an assessment, then a repair plan, then the actual repairs, finish matching, and final cleanup. The goal is to get the property market-re",
   "url": "http://coloradoremodeling.company/faq/how-does-damage-repair-for-sale-or-rental-preparation-usually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does damage repair for sale or rental preparation usually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with an on-site assessment, then a repair plan that separates urgent fixes from cosmetic work. After that, the crew completes the repairs, matches finishes where possible, and checks the result so the property is ready for photos, showings, or move-in.",
-        "description": "It usually starts with an assessment, then a repair plan, then the actual repairs, finish matching, and final cleanup. The goal is to get the property market-ready without doing unnecessary work."
-      }
-    }
-  ],
+  "name": "How does damage repair for sale or rental preparation usually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does damage repair for sale or rental preparation usually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with an on-site assessment, then a repair plan that separates urgent fixes from cosmetic work. After that, the crew completes the repairs, matches finishes where possible, and checks the result so the property is ready for photos, showings, or move-in.",
+        "@type": "Answer",
+        "description": "It usually starts with an assessment, then a repair plan, then the actual repairs, finish matching, and final cleanup. The goal is to get the property market-ready without doing unnecessary work."
+      }
+    }
+  ],
+  "description": "It usually starts with an assessment, then a repair plan, then the actual repairs, finish matching, and final cleanup. The goal is to get the property market-re"
 }

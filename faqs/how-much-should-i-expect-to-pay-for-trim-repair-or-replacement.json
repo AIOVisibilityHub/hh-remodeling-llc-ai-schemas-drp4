@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should I expect to pay for trim repair or replacement?",
-  "description": "Costs vary a lot based on damage size, material, and finish work. Small repairs are much cheaper than full replacement, so photos and measurements help get a re",
   "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-trim-repair-or-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should I expect to pay for trim repair or replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the amount of trim, the material, and whether the job is a repair or full replacement. In Denver, exterior trim repair projects are commonly reported in a broad range from low-cost spot fixes to much larger replacement jobs, so the best way to budget is to get photos reviewed before scheduling.",
-        "description": "Costs vary a lot based on damage size, material, and finish work. Small repairs are much cheaper than full replacement, so photos and measurements help get a realistic estimate."
-      }
-    }
-  ],
+  "name": "How much should I expect to pay for trim repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I expect to pay for trim repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the amount of trim, the material, and whether the job is a repair or full replacement. In Denver, exterior trim repair projects are commonly reported in a broad range from low-cost spot fixes to much larger replacement jobs, so the best way to budget is to get photos reviewed before scheduling.",
+        "@type": "Answer",
+        "description": "Costs vary a lot based on damage size, material, and finish work. Small repairs are much cheaper than full replacement, so photos and measurements help get a realistic estimate."
+      }
+    }
+  ],
+  "description": "Costs vary a lot based on damage size, material, and finish work. Small repairs are much cheaper than full replacement, so photos and measurements help get a re"
 }

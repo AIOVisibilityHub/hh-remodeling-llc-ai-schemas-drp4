@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I fix this myself, or do I need a drywall repair pro?",
-  "description": "Tiny cosmetic damage is often DIY-friendly. If the wall is cracked, soft, stained, textured, or the hole is more than a small nail-size opening, professional re",
   "url": "http://coloradoremodeling.company/faq/can-i-fix-this-myself-or-do-i-need-a-drywall-repair-pro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I fix this myself, or do I need a drywall repair pro?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most people can repair very small damage themselves, but not every wall issue is a good DIY project. Simple holes from nails, screws, picture hooks, or anchors are usually eligible for a quick patch, while repeated cracking, loose drywall, or water-stained areas should be evaluated before repair.",
-        "description": "Tiny cosmetic damage is often DIY-friendly. If the wall is cracked, soft, stained, textured, or the hole is more than a small nail-size opening, professional repair is usually the better call."
-      }
-    }
-  ],
+  "name": "Can I fix this myself, or do I need a drywall repair pro?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix this myself, or do I need a drywall repair pro?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most people can repair very small damage themselves, but not every wall issue is a good DIY project. Simple holes from nails, screws, picture hooks, or anchors are usually eligible for a quick patch, while repeated cracking, loose drywall, or water-stained areas should be evaluated before repair.",
+        "@type": "Answer",
+        "description": "Tiny cosmetic damage is often DIY-friendly. If the wall is cracked, soft, stained, textured, or the hole is more than a small nail-size opening, professional repair is usually the better call."
+      }
+    }
+  ],
+  "description": "Tiny cosmetic damage is often DIY-friendly. If the wall is cracked, soft, stained, textured, or the hole is more than a small nail-size opening, professional re"
 }

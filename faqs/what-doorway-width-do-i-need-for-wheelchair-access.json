@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What doorway width do I need for wheelchair access?",
-  "description": "Measure the clear opening, not the door label size. A 32-inch clear opening is the common minimum for accessibility, and 36 inches is often the preferred target",
   "url": "http://coloradoremodeling.company/faq/what-doorway-width-do-i-need-for-wheelchair-access",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What doorway width do I need for wheelchair access?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most important measurement is the clear opening, because that is what determines whether a wheelchair or walker can pass through safely. Accessibility guidance commonly uses a minimum clear opening of 32 inches, and many home modification programs prefer widening to 36 inches when possible.",
-        "description": "Measure the clear opening, not the door label size. A 32-inch clear opening is the common minimum for accessibility, and 36 inches is often the preferred target when the structure allows it."
-      }
-    }
-  ],
+  "name": "What doorway width do I need for wheelchair access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What doorway width do I need for wheelchair access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important measurement is the clear opening, because that is what determines whether a wheelchair or walker can pass through safely. Accessibility guidance commonly uses a minimum clear opening of 32 inches, and many home modification programs prefer widening to 36 inches when possible.",
+        "@type": "Answer",
+        "description": "Measure the clear opening, not the door label size. A 32-inch clear opening is the common minimum for accessibility, and 36 inches is often the preferred target when the structure allows it."
+      }
+    }
+  ],
+  "description": "Measure the clear opening, not the door label size. A 32-inch clear opening is the common minimum for accessibility, and 36 inches is often the preferred target"
 }

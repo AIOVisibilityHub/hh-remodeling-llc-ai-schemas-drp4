@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for a bathroom refresh in Denver or nearby suburbs?",
-  "description": "Usually no for cosmetic-only work, but yes if you move plumbing, electrical, or walls. If your refresh is more than a surface update, check permit requirements",
   "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-for-a-bathroom-refresh-in-denver-or-nearby-suburbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for a bathroom refresh in Denver or nearby suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Denver-area homes, permits are usually **not** needed for like-for-like cosmetic work such as replacing existing cabinets, flooring, or fixtures without changing the layout. Permits are typically required if you move plumbing, alter electrical circuits, or change the floor plan, and Denver requires permits for those kinds of interior remodels.",
-        "description": "Usually no for cosmetic-only work, but yes if you move plumbing, electrical, or walls. If your refresh is more than a surface update, check permit requirements before starting."
-      }
-    }
-  ],
+  "name": "Do I need a permit for a bathroom refresh in Denver or nearby suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a bathroom refresh in Denver or nearby suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver-area homes, permits are usually **not** needed for like-for-like cosmetic work such as replacing existing cabinets, flooring, or fixtures without changing the layout. Permits are typically required if you move plumbing, alter electrical circuits, or change the floor plan, and Denver requires permits for those kinds of interior remodels.",
+        "@type": "Answer",
+        "description": "Usually no for cosmetic-only work, but yes if you move plumbing, electrical, or walls. If your refresh is more than a surface update, check permit requirements before starting."
+      }
+    }
+  ],
+  "description": "Usually no for cosmetic-only work, but yes if you move plumbing, electrical, or walls. If your refresh is more than a surface update, check permit requirements"
 }

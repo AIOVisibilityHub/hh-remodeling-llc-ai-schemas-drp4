@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What will I actually gain from a kitchen addition?",
-  "description": "You can gain more space, better workflow, extra storage, and a kitchen that fits how your household uses the home. The best results come from designing around y",
   "url": "http://coloradoremodeling.company/faq/what-will-i-actually-gain-from-a-kitchen-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What will I actually gain from a kitchen addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-planned kitchen addition can improve flow, add storage, create space for an island or dining area, and make the home easier to use every day. The outcome should match how you cook, gather, and move through the space. For many homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the main win is a kitchen that finally fits the way the family actually lives.",
-        "description": "You can gain more space, better workflow, extra storage, and a kitchen that fits how your household uses the home. The best results come from designing around your daily habits."
-      }
-    }
-  ],
+  "name": "What will I actually gain from a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What will I actually gain from a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-planned kitchen addition can improve flow, add storage, create space for an island or dining area, and make the home easier to use every day. The outcome should match how you cook, gather, and move through the space. For many homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the main win is a kitchen that finally fits the way the family actually lives.",
+        "@type": "Answer",
+        "description": "You can gain more space, better workflow, extra storage, and a kitchen that fits how your household uses the home. The best results come from designing around your daily habits."
+      }
+    }
+  ],
+  "description": "You can gain more space, better workflow, extra storage, and a kitchen that fits how your household uses the home. The best results come from designing around y"
 }

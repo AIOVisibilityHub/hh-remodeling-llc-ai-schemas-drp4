@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hire a painter for touch-ups or do it myself?",
-  "description": "DIY can work for tiny scuffs, but professional help is better when matching, texture, or sheen are important. The key difference is usually prep and blending, n",
   "url": "http://coloradoremodeling.company/faq/should-i-hire-a-painter-for-touch-ups-or-do-it-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hire a painter for touch-ups or do it myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For small repairs, compare whether the contractor is careful about prep, matching, and cleanup rather than only price. A cheaper quote may leave out priming, blending, or texture matching, which can make the repair obvious. The better option is the one that explains exactly how the touch-up will be tested and finished.",
-        "description": "DIY can work for tiny scuffs, but professional help is better when matching, texture, or sheen are important. The key difference is usually prep and blending, not just applying paint."
-      }
-    }
-  ],
+  "name": "Should I hire a painter for touch-ups or do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a painter for touch-ups or do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small repairs, compare whether the contractor is careful about prep, matching, and cleanup rather than only price. A cheaper quote may leave out priming, blending, or texture matching, which can make the repair obvious. The better option is the one that explains exactly how the touch-up will be tested and finished.",
+        "@type": "Answer",
+        "description": "DIY can work for tiny scuffs, but professional help is better when matching, texture, or sheen are important. The key difference is usually prep and blending, not just applying paint."
+      }
+    }
+  ],
+  "description": "DIY can work for tiny scuffs, but professional help is better when matching, texture, or sheen are important. The key difference is usually prep and blending, n"
 }

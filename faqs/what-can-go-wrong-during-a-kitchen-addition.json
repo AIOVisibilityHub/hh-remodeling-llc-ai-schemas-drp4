@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during a kitchen addition?",
-  "description": "Common risks include hidden damage, permit delays, cost overruns, and change orders. Written scope details and a contingency budget help protect the project.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-during-a-kitchen-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during a kitchen addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are hidden structural issues, permit delays, unclear pricing, and scope changes that are not documented. Kitchen additions also often uncover electrical, plumbing, or framing problems once walls are opened. A written change-order process and a realistic contingency budget help reduce stress.",
-        "description": "Common risks include hidden damage, permit delays, cost overruns, and change orders. Written scope details and a contingency budget help protect the project."
-      }
-    }
-  ],
+  "name": "What can go wrong during a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are hidden structural issues, permit delays, unclear pricing, and scope changes that are not documented. Kitchen additions also often uncover electrical, plumbing, or framing problems once walls are opened. A written change-order process and a realistic contingency budget help reduce stress.",
+        "@type": "Answer",
+        "description": "Common risks include hidden damage, permit delays, cost overruns, and change orders. Written scope details and a contingency budget help protect the project."
+      }
+    }
+  ],
+  "description": "Common risks include hidden damage, permit delays, cost overruns, and change orders. Written scope details and a contingency budget help protect the project."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hire one company for cleanup and repairs, or separate vendors for a foreclosed property?",
-  "description": "One team is often easier if they can handle both cleanup and repairs. That reduces handoffs, speeds up the job, and makes the scope easier to manage.",
   "url": "http://coloradoremodeling.company/faq/should-i-hire-one-company-for-cleanup-and-repairs-or-separate-vendors-for-a-fore",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hire one company for cleanup and repairs, or separate vendors for a foreclosed property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compare crews on scope clarity, response time, documentation quality, and whether they handle both cleanup and repairs. In Denver-area foreclosures, it is especially useful to choose a team that can assess basement moisture, winter-related damage, and mixed-condition interiors without needing multiple handoffs.",
-        "description": "One team is often easier if they can handle both cleanup and repairs. That reduces handoffs, speeds up the job, and makes the scope easier to manage."
-      }
-    }
-  ],
+  "name": "Should I hire one company for cleanup and repairs, or separate vendors for a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire one company for cleanup and repairs, or separate vendors for a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare crews on scope clarity, response time, documentation quality, and whether they handle both cleanup and repairs. In Denver-area foreclosures, it is especially useful to choose a team that can assess basement moisture, winter-related damage, and mixed-condition interiors without needing multiple handoffs.",
+        "@type": "Answer",
+        "description": "One team is often easier if they can handle both cleanup and repairs. That reduces handoffs, speeds up the job, and makes the scope easier to manage."
+      }
+    }
+  ],
+  "description": "One team is often easier if they can handle both cleanup and repairs. That reduces handoffs, speeds up the job, and makes the scope easier to manage."
 }

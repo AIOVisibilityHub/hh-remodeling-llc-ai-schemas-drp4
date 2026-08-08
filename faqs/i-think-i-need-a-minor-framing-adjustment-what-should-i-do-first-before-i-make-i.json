@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I think I need a minor framing adjustment—what should I do first before I make it worse?",
-  "description": "Start with a site check to confirm whether the issue is cosmetic, structural, or moisture-related. Don’t patch over bowed, cracked, or out-of-square framing unt",
   "url": "http://coloradoremodeling.company/faq/i-think-i-need-a-minor-framing-adjustment-what-should-i-do-first-before-i-make-i",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I think I need a minor framing adjustment—what should I do first before I make it worse?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor framing adjustments usually mean small, targeted corrections to wall, floor, or ceiling framing so doors, windows, finishes, or structural alignment sit correctly. For a new issue, the safest first step is a site check to confirm whether the problem is cosmetic, load-related, or caused by moisture or movement. If the framing is supporting anything structural, do not cover it up before it is evaluated.",
-        "description": "Start with a site check to confirm whether the issue is cosmetic, structural, or moisture-related. Don’t patch over bowed, cracked, or out-of-square framing until it’s evaluated, because the fix may need reinforcement rather than a simple trim adjustment."
-      }
-    }
-  ],
+  "name": "I think I need a minor framing adjustment—what should I do first before I make it worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I think I need a minor framing adjustment—what should I do first before I make it worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor framing adjustments usually mean small, targeted corrections to wall, floor, or ceiling framing so doors, windows, finishes, or structural alignment sit correctly. For a new issue, the safest first step is a site check to confirm whether the problem is cosmetic, load-related, or caused by moisture or movement. If the framing is supporting anything structural, do not cover it up before it is evaluated.",
+        "@type": "Answer",
+        "description": "Start with a site check to confirm whether the issue is cosmetic, structural, or moisture-related. Don’t patch over bowed, cracked, or out-of-square framing until it’s evaluated, because the fix may need reinforcement rather than a simple trim adjustment."
+      }
+    }
+  ],
+  "description": "Start with a site check to confirm whether the issue is cosmetic, structural, or moisture-related. Don’t patch over bowed, cracked, or out-of-square framing unt"
 }

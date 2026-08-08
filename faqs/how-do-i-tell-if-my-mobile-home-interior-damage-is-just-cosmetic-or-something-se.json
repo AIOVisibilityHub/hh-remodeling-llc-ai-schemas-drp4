@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I tell if my mobile home interior damage is just cosmetic or something serious?",
-  "description": "Cosmetic issues are usually surface-level, like scuffed paint or worn trim. Soft floors, stains, mold, cracking, or doors and windows that no longer seal usuall",
   "url": "http://coloradoremodeling.company/faq/how-do-i-tell-if-my-mobile-home-interior-damage-is-just-cosmetic-or-something-se",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I tell if my mobile home interior damage is just cosmetic or something serious?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can usually identify the biggest problems with a careful walk-through: look for **soft floors**, water stains, cracked walls, gaps around windows and doors, and any signs of moisture or mold. It also helps to test outlets, lights, faucets, toilets, and doors so hidden issues don’t get missed.",
-        "description": "Cosmetic issues are usually surface-level, like scuffed paint or worn trim. Soft floors, stains, mold, cracking, or doors and windows that no longer seal usually point to a deeper repair issue."
-      }
-    }
-  ],
+  "name": "How do I tell if my mobile home interior damage is just cosmetic or something serious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I tell if my mobile home interior damage is just cosmetic or something serious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually identify the biggest problems with a careful walk-through: look for **soft floors**, water stains, cracked walls, gaps around windows and doors, and any signs of moisture or mold. It also helps to test outlets, lights, faucets, toilets, and doors so hidden issues don’t get missed.",
+        "@type": "Answer",
+        "description": "Cosmetic issues are usually surface-level, like scuffed paint or worn trim. Soft floors, stains, mold, cracking, or doors and windows that no longer seal usually point to a deeper repair issue."
+      }
+    }
+  ],
+  "description": "Cosmetic issues are usually surface-level, like scuffed paint or worn trim. Soft floors, stains, mold, cracking, or doors and windows that no longer seal usuall"
 }

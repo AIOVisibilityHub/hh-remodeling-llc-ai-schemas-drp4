@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for staining a cabin interior?",
-  "description": "Most cabin interior staining jobs include cleaning, prep, stain application, and sealing. Good prep matters most because it helps the color apply evenly and imp",
   "url": "http://coloradoremodeling.company/faq/what-is-the-process-for-staining-a-cabin-interior",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for staining a cabin interior?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The usual process starts with cleaning, light sanding or stripping where needed, and protecting nearby surfaces. After that, stain is applied in controlled coats, excess is wiped off, and a topcoat or sealer is added if the project calls for extra durability.",
-        "description": "Most cabin interior staining jobs include cleaning, prep, stain application, and sealing. Good prep matters most because it helps the color apply evenly and improves long-term durability."
-      }
-    }
-  ],
+  "name": "What is the process for staining a cabin interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for staining a cabin interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The usual process starts with cleaning, light sanding or stripping where needed, and protecting nearby surfaces. After that, stain is applied in controlled coats, excess is wiped off, and a topcoat or sealer is added if the project calls for extra durability.",
+        "@type": "Answer",
+        "description": "Most cabin interior staining jobs include cleaning, prep, stain application, and sealing. Good prep matters most because it helps the color apply evenly and improves long-term durability."
+      }
+    }
+  ],
+  "description": "Most cabin interior staining jobs include cleaning, prep, stain application, and sealing. Good prep matters most because it helps the color apply evenly and imp"
 }

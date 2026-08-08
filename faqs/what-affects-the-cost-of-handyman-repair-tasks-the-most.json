@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of handyman repair tasks the most?",
-  "description": "The biggest cost drivers are labor time, parts, and whether you can combine several small repairs into one visit.",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-handyman-repair-tasks-the-most",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of handyman repair tasks the most?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on labor time, parts, and the complexity of the repair. Small jobs are often the most cost-effective when you bundle several punch-list items together, because one visit can handle multiple fixes instead of charging separately for each trip.",
-        "description": "The biggest cost drivers are labor time, parts, and whether you can combine several small repairs into one visit."
-      }
-    }
-  ],
+  "name": "What affects the cost of handyman repair tasks the most?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of handyman repair tasks the most?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on labor time, parts, and the complexity of the repair. Small jobs are often the most cost-effective when you bundle several punch-list items together, because one visit can handle multiple fixes instead of charging separately for each trip.",
+        "@type": "Answer",
+        "description": "The biggest cost drivers are labor time, parts, and whether you can combine several small repairs into one visit."
+      }
+    }
+  ],
+  "description": "The biggest cost drivers are labor time, parts, and whether you can combine several small repairs into one visit."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I try to shim or straighten the framing myself, or is this a contractor job?",
-  "description": "If it’s a small cosmetic alignment issue, DIY may be possible. If the framing supports a door, window, wall, or other structural load, a contractor is the safer",
   "url": "http://coloradoremodeling.company/faq/should-i-try-to-shim-or-straighten-the-framing-myself-or-is-this-a-contractor-jo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I try to shim or straighten the framing myself, or is this a contractor job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compared with full framing replacement, minor adjustments are usually faster, less disruptive, and more cost-effective when the structure is basically sound. Compared with DIY patching, professional work is safer when the framing affects load, openings, or visible finish fit. If the repair is near doors, windows, or any structural member, professional evaluation is usually the better choice.",
-        "description": "If it’s a small cosmetic alignment issue, DIY may be possible. If the framing supports a door, window, wall, or other structural load, a contractor is the safer choice because the wrong correction can create bigger problems."
-      }
-    }
-  ],
+  "name": "Should I try to shim or straighten the framing myself, or is this a contractor job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to shim or straighten the framing myself, or is this a contractor job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compared with full framing replacement, minor adjustments are usually faster, less disruptive, and more cost-effective when the structure is basically sound. Compared with DIY patching, professional work is safer when the framing affects load, openings, or visible finish fit. If the repair is near doors, windows, or any structural member, professional evaluation is usually the better choice.",
+        "@type": "Answer",
+        "description": "If it’s a small cosmetic alignment issue, DIY may be possible. If the framing supports a door, window, wall, or other structural load, a contractor is the safer choice because the wrong correction can create bigger problems."
+      }
+    }
+  ],
+  "description": "If it’s a small cosmetic alignment issue, DIY may be possible. If the framing supports a door, window, wall, or other structural load, a contractor is the safer"
 }

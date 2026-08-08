@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my house is a good candidate for a kitchen addition?",
-  "description": "If your kitchen is cramped, poorly laid out, or missing storage and workspace, it may be a strong candidate. A site review is the fastest way to confirm feasibi",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-house-is-a-good-candidate-for-a-kitchen-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my house is a good candidate for a kitchen addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A kitchen addition is usually a good fit if your current kitchen is too small, the layout is awkward, or you need room for an island, pantry, or dining area. It also makes sense when the kitchen is limiting how your home functions day to day. In the Denver metro area, the property layout and zoning rules can also affect what is possible.",
-        "description": "If your kitchen is cramped, poorly laid out, or missing storage and workspace, it may be a strong candidate. A site review is the fastest way to confirm feasibility."
-      }
-    }
-  ],
+  "name": "How do I know if my house is a good candidate for a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my house is a good candidate for a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition is usually a good fit if your current kitchen is too small, the layout is awkward, or you need room for an island, pantry, or dining area. It also makes sense when the kitchen is limiting how your home functions day to day. In the Denver metro area, the property layout and zoning rules can also affect what is possible.",
+        "@type": "Answer",
+        "description": "If your kitchen is cramped, poorly laid out, or missing storage and workspace, it may be a strong candidate. A site review is the fastest way to confirm feasibility."
+      }
+    }
+  ],
+  "description": "If your kitchen is cramped, poorly laid out, or missing storage and workspace, it may be a strong candidate. A site review is the fastest way to confirm feasibi"
 }

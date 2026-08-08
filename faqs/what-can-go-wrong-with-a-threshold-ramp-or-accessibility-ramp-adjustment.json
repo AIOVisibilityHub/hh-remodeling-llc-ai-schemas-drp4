@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with a threshold ramp or accessibility ramp adjustment?",
-  "description": "The biggest risks are a ramp that’s too steep, too narrow, or poorly matched to the doorway. Drainage, snow, door swing, and landing space also matter a lot.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-threshold-ramp-or-accessibility-ramp-adjustment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with a threshold ramp or accessibility ramp adjustment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are choosing a ramp that is too steep, too narrow, or too short for the doorway, which can create safety issues and poor usability. Another common problem is ignoring drainage, door swing, snow buildup, or landing space, which can make the entrance difficult to use after installation.",
-        "description": "The biggest risks are a ramp that’s too steep, too narrow, or poorly matched to the doorway. Drainage, snow, door swing, and landing space also matter a lot."
-      }
-    }
-  ],
+  "name": "What can go wrong with a threshold ramp or accessibility ramp adjustment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a threshold ramp or accessibility ramp adjustment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are choosing a ramp that is too steep, too narrow, or too short for the doorway, which can create safety issues and poor usability. Another common problem is ignoring drainage, door swing, snow buildup, or landing space, which can make the entrance difficult to use after installation.",
+        "@type": "Answer",
+        "description": "The biggest risks are a ramp that’s too steep, too narrow, or poorly matched to the doorway. Drainage, snow, door swing, and landing space also matter a lot."
+      }
+    }
+  ],
+  "description": "The biggest risks are a ramp that’s too steep, too narrow, or poorly matched to the doorway. Drainage, snow, door swing, and landing space also matter a lot."
 }

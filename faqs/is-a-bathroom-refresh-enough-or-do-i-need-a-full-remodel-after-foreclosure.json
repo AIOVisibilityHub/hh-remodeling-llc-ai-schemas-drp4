@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is a bathroom refresh enough, or do I need a full remodel after foreclosure?",
-  "description": "Choose a refresh if the room works and only looks worn. Choose a full remodel if there is major damage, bad layout, or repeated plumbing issues.",
   "url": "http://coloradoremodeling.company/faq/is-a-bathroom-refresh-enough-or-do-i-need-a-full-remodel-after-foreclosure",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is a bathroom refresh enough, or do I need a full remodel after foreclosure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A foreclosed bathroom refresh is often chosen when the room is functional but dated, while a full remodel is better when the layout is bad or the systems are failing. If the vanity, tub, toilet, and tile are mostly serviceable, a refresh usually gives the best value; if the room has repeated leaks or major damage, remodeling is the safer choice.",
-        "description": "Choose a refresh if the room works and only looks worn. Choose a full remodel if there is major damage, bad layout, or repeated plumbing issues."
-      }
-    }
-  ],
+  "name": "Is a bathroom refresh enough, or do I need a full remodel after foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is a bathroom refresh enough, or do I need a full remodel after foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foreclosed bathroom refresh is often chosen when the room is functional but dated, while a full remodel is better when the layout is bad or the systems are failing. If the vanity, tub, toilet, and tile are mostly serviceable, a refresh usually gives the best value; if the room has repeated leaks or major damage, remodeling is the safer choice.",
+        "@type": "Answer",
+        "description": "Choose a refresh if the room works and only looks worn. Choose a full remodel if there is major damage, bad layout, or repeated plumbing issues."
+      }
+    }
+  ],
+  "description": "Choose a refresh if the room works and only looks worn. Choose a full remodel if there is major damage, bad layout, or repeated plumbing issues."
 }

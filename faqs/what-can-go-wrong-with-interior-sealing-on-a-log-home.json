@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with interior sealing on a log home?",
-  "description": "The biggest risks are trapping moisture, using the wrong sealant, or choosing a product that cracks when the logs move. Proper prep and the right flexible mater",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-interior-sealing-on-a-log-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with interior sealing on a log home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are using the wrong product, sealing over hidden moisture, or creating a finish that cannot move with the wood. Those mistakes can lead to cracking, trapped moisture, or a seal that fails again quickly.",
-        "description": "The biggest risks are trapping moisture, using the wrong sealant, or choosing a product that cracks when the logs move. Proper prep and the right flexible material matter most."
-      }
-    }
-  ],
+  "name": "What can go wrong with interior sealing on a log home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with interior sealing on a log home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are using the wrong product, sealing over hidden moisture, or creating a finish that cannot move with the wood. Those mistakes can lead to cracking, trapped moisture, or a seal that fails again quickly.",
+        "@type": "Answer",
+        "description": "The biggest risks are trapping moisture, using the wrong sealant, or choosing a product that cracks when the logs move. Proper prep and the right flexible material matter most."
+      }
+    }
+  ],
+  "description": "The biggest risks are trapping moisture, using the wrong sealant, or choosing a product that cracks when the logs move. Proper prep and the right flexible mater"
 }

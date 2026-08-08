@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit to add a bathroom, or can I just build it?",
-  "description": "Most bathroom additions need permits if plumbing, electrical, or walls are being changed. If the new bath is only cosmetic and stays in the same footprint, perm",
   "url": "http://coloradoremodeling.company/faq/do-i-need-a-permit-to-add-a-bathroom-or-can-i-just-build-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to add a bathroom, or can I just build it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a permit is typically needed when a bathroom addition changes plumbing, electrical, or structural components. Cosmetic work like repainting or swapping fixtures in the same location is usually simpler, but adding a new toilet, moving a shower, or opening walls generally triggers review. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the safest approach is to confirm permit requirements before work starts so the project does not get delayed. Ask whether the contractor handles permits and inspections as part of the job. That question can save time and avoid expensive rework later.",
-        "description": "Most bathroom additions need permits if plumbing, electrical, or walls are being changed. If the new bath is only cosmetic and stays in the same footprint, permit needs may be lower—but always verify locally first."
-      }
-    }
-  ],
+  "name": "Do I need a permit to add a bathroom, or can I just build it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to add a bathroom, or can I just build it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a permit is typically needed when a bathroom addition changes plumbing, electrical, or structural components. Cosmetic work like repainting or swapping fixtures in the same location is usually simpler, but adding a new toilet, moving a shower, or opening walls generally triggers review. If you are in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the safest approach is to confirm permit requirements before work starts so the project does not get delayed. Ask whether the contractor handles permits and inspections as part of the job. That question can save time and avoid expensive rework later.",
+        "@type": "Answer",
+        "description": "Most bathroom additions need permits if plumbing, electrical, or walls are being changed. If the new bath is only cosmetic and stays in the same footprint, permit needs may be lower—but always verify locally first."
+      }
+    }
+  ],
+  "description": "Most bathroom additions need permits if plumbing, electrical, or walls are being changed. If the new bath is only cosmetic and stays in the same footprint, perm"
 }

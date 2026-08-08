@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with interior wear-and-tear repairs?",
-  "description": "The biggest risks are bad color matching, visible patching, and letting a small issue turn into a bigger repair.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-interior-wear-and-tear-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with interior wear-and-tear repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are using the wrong repair method, mismatching the finish, or delaying the fix until the damage spreads. A poor repair can be more noticeable than the original problem, especially on visible surfaces like upholstery, drywall, trim, and flooring.",
-        "description": "The biggest risks are bad color matching, visible patching, and letting a small issue turn into a bigger repair."
-      }
-    }
-  ],
+  "name": "What can go wrong with interior wear-and-tear repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with interior wear-and-tear repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are using the wrong repair method, mismatching the finish, or delaying the fix until the damage spreads. A poor repair can be more noticeable than the original problem, especially on visible surfaces like upholstery, drywall, trim, and flooring.",
+        "@type": "Answer",
+        "description": "The biggest risks are bad color matching, visible patching, and letting a small issue turn into a bigger repair."
+      }
+    }
+  ],
+  "description": "The biggest risks are bad color matching, visible patching, and letting a small issue turn into a bigger repair."
 }

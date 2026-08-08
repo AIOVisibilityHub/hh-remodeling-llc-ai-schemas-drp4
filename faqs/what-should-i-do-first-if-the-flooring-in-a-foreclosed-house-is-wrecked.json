@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if the flooring in a foreclosed house is wrecked?",
-  "description": "Start with a full flooring inspection, including the subfloor. In foreclosed homes, visible damage often hides moisture or structural issues that affect the fin",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-if-the-flooring-in-a-foreclosed-house-is-wrecked",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if the flooring in a foreclosed house is wrecked?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the foreclosed property has damaged, missing, or stained flooring, the first step is a full walk-through to identify what can be repaired and what needs replacement. In Denver-area homes, moisture, pet damage, and long vacancy often affect subfloors too, so a contractor should check beneath the visible surface before quoting work.",
-        "description": "Start with a full flooring inspection, including the subfloor. In foreclosed homes, visible damage often hides moisture or structural issues that affect the final scope and price."
-      }
-    }
-  ],
+  "name": "What should I do first if the flooring in a foreclosed house is wrecked?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if the flooring in a foreclosed house is wrecked?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the foreclosed property has damaged, missing, or stained flooring, the first step is a full walk-through to identify what can be repaired and what needs replacement. In Denver-area homes, moisture, pet damage, and long vacancy often affect subfloors too, so a contractor should check beneath the visible surface before quoting work.",
+        "@type": "Answer",
+        "description": "Start with a full flooring inspection, including the subfloor. In foreclosed homes, visible damage often hides moisture or structural issues that affect the final scope and price."
+      }
+    }
+  ],
+  "description": "Start with a full flooring inspection, including the subfloor. In foreclosed homes, visible damage often hides moisture or structural issues that affect the fin"
 }

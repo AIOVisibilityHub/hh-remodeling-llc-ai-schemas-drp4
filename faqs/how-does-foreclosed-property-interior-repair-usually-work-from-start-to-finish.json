@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does foreclosed property interior repair usually work from start to finish?",
-  "description": "It typically goes walkthrough, estimate, cleanup, repairs, then final documentation. The exact steps depend on how damaged, dirty, or stripped the interior is.",
   "url": "http://coloradoremodeling.company/faq/how-does-foreclosed-property-interior-repair-usually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does foreclosed property interior repair usually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with a walkthrough, then a scope estimate, then cleanup, repair, and final documentation. Depending on the condition, that can include debris removal, odor control, drywall or flooring replacement, fixture repairs, and a final broom-clean finish.",
-        "description": "It typically goes walkthrough, estimate, cleanup, repairs, then final documentation. The exact steps depend on how damaged, dirty, or stripped the interior is."
-      }
-    }
-  ],
+  "name": "How does foreclosed property interior repair usually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does foreclosed property interior repair usually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a walkthrough, then a scope estimate, then cleanup, repair, and final documentation. Depending on the condition, that can include debris removal, odor control, drywall or flooring replacement, fixture repairs, and a final broom-clean finish.",
+        "@type": "Answer",
+        "description": "It typically goes walkthrough, estimate, cleanup, repairs, then final documentation. The exact steps depend on how damaged, dirty, or stripped the interior is."
+      }
+    }
+  ],
+  "description": "It typically goes walkthrough, estimate, cleanup, repairs, then final documentation. The exact steps depend on how damaged, dirty, or stripped the interior is."
 }

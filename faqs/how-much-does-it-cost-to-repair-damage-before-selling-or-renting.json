@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to repair damage before selling or renting?",
-  "description": "Costs vary a lot based on the damage type and size. The best value usually comes from fixing the issues that would hurt showings, inspections, or move-in confid",
   "url": "http://coloradoremodeling.company/faq/how-much-does-it-cost-to-repair-damage-before-selling-or-renting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to repair damage before selling or renting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the type of damage, the size of the area, and how much finish matching is needed. Minor drywall or trim repair is usually much less expensive than replacing flooring, addressing water damage, or rebuilding after fire, so the best value comes from fixing what affects marketability most.",
-        "description": "Costs vary a lot based on the damage type and size. The best value usually comes from fixing the issues that would hurt showings, inspections, or move-in confidence the most."
-      }
-    }
-  ],
+  "name": "How much does it cost to repair damage before selling or renting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair damage before selling or renting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the type of damage, the size of the area, and how much finish matching is needed. Minor drywall or trim repair is usually much less expensive than replacing flooring, addressing water damage, or rebuilding after fire, so the best value comes from fixing what affects marketability most.",
+        "@type": "Answer",
+        "description": "Costs vary a lot based on the damage type and size. The best value usually comes from fixing the issues that would hurt showings, inspections, or move-in confidence the most."
+      }
+    }
+  ],
+  "description": "Costs vary a lot based on the damage type and size. The best value usually comes from fixing the issues that would hurt showings, inspections, or move-in confid"
 }

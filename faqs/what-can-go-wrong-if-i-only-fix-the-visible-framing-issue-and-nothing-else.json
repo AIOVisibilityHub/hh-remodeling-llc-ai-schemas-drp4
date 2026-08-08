@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if I only fix the visible framing issue and nothing else?",
-  "description": "The big risk is fixing the symptom instead of the cause. If movement, moisture, or rot is left alone, the same problem can return and damage drywall, trim, floo",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-only-fix-the-visible-framing-issue-and-nothing-else",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if I only fix the visible framing issue and nothing else?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risk is treating a structural or moisture problem like a cosmetic one. If the framing is adjusted without fixing the cause, the same issue can come back and damage drywall, flooring, cabinets, or trim. There is also a risk of creating new alignment problems if the repair is made without checking the full opening or adjacent framing.",
-        "description": "The big risk is fixing the symptom instead of the cause. If movement, moisture, or rot is left alone, the same problem can return and damage drywall, trim, flooring, or doors again."
-      }
-    }
-  ],
+  "name": "What can go wrong if I only fix the visible framing issue and nothing else?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I only fix the visible framing issue and nothing else?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risk is treating a structural or moisture problem like a cosmetic one. If the framing is adjusted without fixing the cause, the same issue can come back and damage drywall, flooring, cabinets, or trim. There is also a risk of creating new alignment problems if the repair is made without checking the full opening or adjacent framing.",
+        "@type": "Answer",
+        "description": "The big risk is fixing the symptom instead of the cause. If movement, moisture, or rot is left alone, the same problem can return and damage drywall, trim, flooring, or doors again."
+      }
+    }
+  ],
+  "description": "The big risk is fixing the symptom instead of the cause. If movement, moisture, or rot is left alone, the same problem can return and damage drywall, trim, floo"
 }

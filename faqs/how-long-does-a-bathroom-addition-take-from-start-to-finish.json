@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a bathroom addition take from start to finish?",
-  "description": "A bathroom addition usually takes several weeks, and larger or more complicated builds can take longer. Permit timing, plumbing changes, and product lead times",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-bathroom-addition-take-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a bathroom addition take from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A bathroom addition is often a multi-week project, and more complex jobs can take longer if permits, inspections, or hidden repairs slow things down. Simple powder rooms can move faster than full baths, while projects that change layout or require major plumbing work usually take longer. In the Denver area, many homeowners should plan around design, permitting, demolition, rough-in work, finishes, and final inspection rather than expecting a quick cosmetic job. If you have a deadline, tell the contractor up front so they can schedule materials and trades around it. The biggest delays usually come from special-order fixtures and unforeseen framing or plumbing issues.",
-        "description": "A bathroom addition usually takes several weeks, and larger or more complicated builds can take longer. Permit timing, plumbing changes, and product lead times are the main reasons schedules stretch."
-      }
-    }
-  ],
+  "name": "How long does a bathroom addition take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom addition take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition is often a multi-week project, and more complex jobs can take longer if permits, inspections, or hidden repairs slow things down. Simple powder rooms can move faster than full baths, while projects that change layout or require major plumbing work usually take longer. In the Denver area, many homeowners should plan around design, permitting, demolition, rough-in work, finishes, and final inspection rather than expecting a quick cosmetic job. If you have a deadline, tell the contractor up front so they can schedule materials and trades around it. The biggest delays usually come from special-order fixtures and unforeseen framing or plumbing issues.",
+        "@type": "Answer",
+        "description": "A bathroom addition usually takes several weeks, and larger or more complicated builds can take longer. Permit timing, plumbing changes, and product lead times are the main reasons schedules stretch."
+      }
+    }
+  ],
+  "description": "A bathroom addition usually takes several weeks, and larger or more complicated builds can take longer. Permit timing, plumbing changes, and product lead times"
 }

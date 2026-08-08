@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My trim is rotting or splitting—what should I do first before it gets worse?",
-  "description": "Check for soft wood, water stains, gaps, or peeling paint. If the trim is rotted, buckling, or detached, schedule an inspection soon so the damaged section can",
   "url": "http://coloradoremodeling.company/faq/my-trim-is-rotting-or-splitting-what-should-i-do-first-before-it-gets-worse",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My trim is rotting or splitting—what should I do first before it gets worse?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the trim is soft, swollen, cracked through, or pulling away from the wall, repair is usually needed right away because the damage can spread quickly. In many homes around Denver and the south metro, moisture-related trim problems start small but get worse if the source of water or impact damage is left alone.",
-        "description": "Check for soft wood, water stains, gaps, or peeling paint. If the trim is rotted, buckling, or detached, schedule an inspection soon so the damaged section can be repaired or replaced before the issue spreads."
-      }
-    }
-  ],
+  "name": "My trim is rotting or splitting—what should I do first before it gets worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My trim is rotting or splitting—what should I do first before it gets worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the trim is soft, swollen, cracked through, or pulling away from the wall, repair is usually needed right away because the damage can spread quickly. In many homes around Denver and the south metro, moisture-related trim problems start small but get worse if the source of water or impact damage is left alone.",
+        "@type": "Answer",
+        "description": "Check for soft wood, water stains, gaps, or peeling paint. If the trim is rotted, buckling, or detached, schedule an inspection soon so the damaged section can be repaired or replaced before the issue spreads."
+      }
+    }
+  ],
+  "description": "Check for soft wood, water stains, gaps, or peeling paint. If the trim is rotted, buckling, or detached, schedule an inspection soon so the damaged section can"
 }

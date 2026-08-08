@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a good small paint touch-up look like when it is done?",
-  "description": "A successful touch-up should blend in at normal viewing distance and not catch the eye in different lighting. Exact color and sheen matching make that much more",
   "url": "http://coloradoremodeling.company/faq/what-should-a-good-small-paint-touch-up-look-like-when-it-is-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a good small paint touch-up look like when it is done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good outcome is a repair that disappears at normal viewing distance in daylight and artificial light. The best results come from matching the original paint exactly and keeping the repair as small as possible. If the paint is older or the wall texture is uneven, a nearly invisible touch-up may not be realistic.",
-        "description": "A successful touch-up should blend in at normal viewing distance and not catch the eye in different lighting. Exact color and sheen matching make that much more likely."
-      }
-    }
-  ],
+  "name": "What should a good small paint touch-up look like when it is done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a good small paint touch-up look like when it is done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good outcome is a repair that disappears at normal viewing distance in daylight and artificial light. The best results come from matching the original paint exactly and keeping the repair as small as possible. If the paint is older or the wall texture is uneven, a nearly invisible touch-up may not be realistic.",
+        "@type": "Answer",
+        "description": "A successful touch-up should blend in at normal viewing distance and not catch the eye in different lighting. Exact color and sheen matching make that much more likely."
+      }
+    }
+  ],
+  "description": "A successful touch-up should blend in at normal viewing distance and not catch the eye in different lighting. Exact color and sheen matching make that much more"
 }

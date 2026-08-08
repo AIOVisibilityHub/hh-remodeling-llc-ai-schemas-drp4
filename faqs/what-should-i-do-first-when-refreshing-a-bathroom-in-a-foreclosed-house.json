@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first when refreshing a bathroom in a foreclosed house?",
-  "description": "Start by checking for leaks, water damage, and unsafe plumbing before doing any cosmetic work. If the room is structurally sound, focus on cleaning, patching, p",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-when-refreshing-a-bathroom-in-a-foreclosed-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first when refreshing a bathroom in a foreclosed house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A foreclosed-property bathroom refresh is usually a **cosmetic update** first: clean out damaged materials, check for leaks, replace worn fixtures, and then repaint, re-caulk, re-grout, and install new lighting or hardware if the layout is still usable. If you see moisture damage, mold-like staining, soft drywall, or plumbing problems, those issues need to be handled before any finish work.",
-        "description": "Start by checking for leaks, water damage, and unsafe plumbing before doing any cosmetic work. If the room is structurally sound, focus on cleaning, patching, painting, re-caulking, and replacing worn fixtures."
-      }
-    }
-  ],
+  "name": "What should I do first when refreshing a bathroom in a foreclosed house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first when refreshing a bathroom in a foreclosed house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foreclosed-property bathroom refresh is usually a **cosmetic update** first: clean out damaged materials, check for leaks, replace worn fixtures, and then repaint, re-caulk, re-grout, and install new lighting or hardware if the layout is still usable. If you see moisture damage, mold-like staining, soft drywall, or plumbing problems, those issues need to be handled before any finish work.",
+        "@type": "Answer",
+        "description": "Start by checking for leaks, water damage, and unsafe plumbing before doing any cosmetic work. If the room is structurally sound, focus on cleaning, patching, painting, re-caulking, and replacing worn fixtures."
+      }
+    }
+  ],
+  "description": "Start by checking for leaks, water damage, and unsafe plumbing before doing any cosmetic work. If the room is structurally sound, focus on cleaning, patching, p"
 }

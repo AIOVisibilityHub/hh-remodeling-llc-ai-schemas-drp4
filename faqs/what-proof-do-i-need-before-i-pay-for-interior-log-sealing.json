@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proof do I need before I pay for interior log sealing?",
-  "description": "Photos of gaps, notes about draft locations, and any moisture or mildew signs are usually enough to start. Good sealing decisions should be based on where the l",
   "url": "http://coloradoremodeling.company/faq/what-proof-do-i-need-before-i-pay-for-interior-log-sealing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proof do I need before I pay for interior log sealing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You want to see evidence that the problem is actually air leakage or joint failure, not just normal wood movement. Photos of the gaps, notes about where drafts are felt, and any signs of moisture or mildew help a contractor recommend the right interior sealing approach.",
-        "description": "Photos of gaps, notes about draft locations, and any moisture or mildew signs are usually enough to start. Good sealing decisions should be based on where the leaks are, not guesswork."
-      }
-    }
-  ],
+  "name": "What proof do I need before I pay for interior log sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proof do I need before I pay for interior log sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You want to see evidence that the problem is actually air leakage or joint failure, not just normal wood movement. Photos of the gaps, notes about where drafts are felt, and any signs of moisture or mildew help a contractor recommend the right interior sealing approach.",
+        "@type": "Answer",
+        "description": "Photos of gaps, notes about draft locations, and any moisture or mildew signs are usually enough to start. Good sealing decisions should be based on where the leaks are, not guesswork."
+      }
+    }
+  ],
+  "description": "Photos of gaps, notes about draft locations, and any moisture or mildew signs are usually enough to start. Good sealing decisions should be based on where the l"
 }

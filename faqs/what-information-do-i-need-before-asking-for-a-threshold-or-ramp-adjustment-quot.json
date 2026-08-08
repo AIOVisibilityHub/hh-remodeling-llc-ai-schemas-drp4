@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before asking for a threshold or ramp adjustment quote?",
-  "description": "Have the rise, doorway width, photos, and any site obstacles ready before requesting a quote. Those details are usually enough to determine the right kind of ad",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-asking-for-a-threshold-or-ramp-adjustment-quot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before asking for a threshold or ramp adjustment quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good documentation is usually a few clear photos, the exact rise measurement, the doorway width, and notes about any obstacles like doors swinging outward, uneven concrete, or snow exposure. If you already have a doctor’s note, insurance requirement, or equipment recommendation, bring that too, but the physical measurements matter most for the design.",
-        "description": "Have the rise, doorway width, photos, and any site obstacles ready before requesting a quote. Those details are usually enough to determine the right kind of adjustment."
-      }
-    }
-  ],
+  "name": "What information do I need before asking for a threshold or ramp adjustment quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before asking for a threshold or ramp adjustment quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good documentation is usually a few clear photos, the exact rise measurement, the doorway width, and notes about any obstacles like doors swinging outward, uneven concrete, or snow exposure. If you already have a doctor’s note, insurance requirement, or equipment recommendation, bring that too, but the physical measurements matter most for the design.",
+        "@type": "Answer",
+        "description": "Have the rise, doorway width, photos, and any site obstacles ready before requesting a quote. Those details are usually enough to determine the right kind of adjustment."
+      }
+    }
+  ],
+  "description": "Have the rise, doorway width, photos, and any site obstacles ready before requesting a quote. Those details are usually enough to determine the right kind of ad"
 }

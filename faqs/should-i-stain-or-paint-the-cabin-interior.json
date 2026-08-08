@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I stain or paint the cabin interior?",
-  "description": "Choose staining if you want to keep the natural wood look and grain. Choose paint if the surface is heavily worn, mismatched, or you want a fully opaque finish",
   "url": "http://coloradoremodeling.company/faq/should-i-stain-or-paint-the-cabin-interior",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I stain or paint the cabin interior?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Denver-area homes, interior staining is often compared with painting because climate, dryness, and sunlight can affect appearance and maintenance. If you want a natural wood look and the surface is in good condition, staining is usually the better choice; if the wood is heavily patched or mismatched, painting may be easier to uniformize.",
-        "description": "Choose staining if you want to keep the natural wood look and grain. Choose paint if the surface is heavily worn, mismatched, or you want a fully opaque finish that hides imperfections."
-      }
-    }
-  ],
+  "name": "Should I stain or paint the cabin interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I stain or paint the cabin interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Denver-area homes, interior staining is often compared with painting because climate, dryness, and sunlight can affect appearance and maintenance. If you want a natural wood look and the surface is in good condition, staining is usually the better choice; if the wood is heavily patched or mismatched, painting may be easier to uniformize.",
+        "@type": "Answer",
+        "description": "Choose staining if you want to keep the natural wood look and grain. Choose paint if the surface is heavily worn, mismatched, or you want a fully opaque finish that hides imperfections."
+      }
+    }
+  ],
+  "description": "Choose staining if you want to keep the natural wood look and grain. Choose paint if the surface is heavily worn, mismatched, or you want a fully opaque finish"
 }

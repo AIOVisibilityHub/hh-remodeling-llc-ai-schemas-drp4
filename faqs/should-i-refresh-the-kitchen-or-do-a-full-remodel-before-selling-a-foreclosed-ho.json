@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I refresh the kitchen or do a full remodel before selling a foreclosed home?",
-  "description": "If the kitchen still works, refresh it first. Reserve a full remodel for major damage, failed cabinets, or layouts that cannot be saved with cosmetic work.",
   "url": "http://coloradoremodeling.company/faq/should-i-refresh-the-kitchen-or-do-a-full-remodel-before-selling-a-foreclosed-ho",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I refresh the kitchen or do a full remodel before selling a foreclosed home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For budget-conscious owners, a refresh is usually the smarter choice than a complete kitchen rebuild. If you are comparing options, prioritize cabinet refinishing, deep cleaning, hardware updates, and minor repairs before replacing major components that still work.",
-        "description": "If the kitchen still works, refresh it first. Reserve a full remodel for major damage, failed cabinets, or layouts that cannot be saved with cosmetic work."
-      }
-    }
-  ],
+  "name": "Should I refresh the kitchen or do a full remodel before selling a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I refresh the kitchen or do a full remodel before selling a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For budget-conscious owners, a refresh is usually the smarter choice than a complete kitchen rebuild. If you are comparing options, prioritize cabinet refinishing, deep cleaning, hardware updates, and minor repairs before replacing major components that still work.",
+        "@type": "Answer",
+        "description": "If the kitchen still works, refresh it first. Reserve a full remodel for major damage, failed cabinets, or layouts that cannot be saved with cosmetic work."
+      }
+    }
+  ],
+  "description": "If the kitchen still works, refresh it first. Reserve a full remodel for major damage, failed cabinets, or layouts that cannot be saved with cosmetic work."
 }

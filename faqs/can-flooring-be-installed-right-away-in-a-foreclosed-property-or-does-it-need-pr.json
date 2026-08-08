@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can flooring be installed right away in a foreclosed property, or does it need prep first?",
-  "description": "Most foreclosed homes need prep before new flooring goes in. Cleaning, moisture checks, and subfloor repairs often come before installation.",
   "url": "http://coloradoremodeling.company/faq/can-flooring-be-installed-right-away-in-a-foreclosed-property-or-does-it-need-pr",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can flooring be installed right away in a foreclosed property, or does it need prep first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can usually move forward with installation once the property is secured, cleaned out, and any active water or structural problems are addressed. If the home has been vacant for a while, the flooring job may need prep work first, such as debris removal, moisture repair, or subfloor leveling.",
-        "description": "Most foreclosed homes need prep before new flooring goes in. Cleaning, moisture checks, and subfloor repairs often come before installation."
-      }
-    }
-  ],
+  "name": "Can flooring be installed right away in a foreclosed property, or does it need prep first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can flooring be installed right away in a foreclosed property, or does it need prep first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually move forward with installation once the property is secured, cleaned out, and any active water or structural problems are addressed. If the home has been vacant for a while, the flooring job may need prep work first, such as debris removal, moisture repair, or subfloor leveling.",
+        "@type": "Answer",
+        "description": "Most foreclosed homes need prep before new flooring goes in. Cleaning, moisture checks, and subfloor repairs often come before installation."
+      }
+    }
+  ],
+  "description": "Most foreclosed homes need prep before new flooring goes in. Cleaning, moisture checks, and subfloor repairs often come before installation."
 }

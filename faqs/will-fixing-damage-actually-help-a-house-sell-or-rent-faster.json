@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will fixing damage actually help a house sell or rent faster?",
-  "description": "Yes, when the repairs improve first impressions and reduce obvious objections. Clean, finished spaces usually show better and feel easier to buy or rent.",
   "url": "http://coloradoremodeling.company/faq/will-fixing-damage-actually-help-a-house-sell-or-rent-faster",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will fixing damage actually help a house sell or rent faster?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Well-done repair work usually leads to better photos, fewer objections, smoother inspections, and a property that feels move-in ready. In some cases, strategic repairs can make the difference between a fast listing and one that sits because buyers or renters see too much work left to do.",
-        "description": "Yes, when the repairs improve first impressions and reduce obvious objections. Clean, finished spaces usually show better and feel easier to buy or rent."
-      }
-    }
-  ],
+  "name": "Will fixing damage actually help a house sell or rent faster?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will fixing damage actually help a house sell or rent faster?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well-done repair work usually leads to better photos, fewer objections, smoother inspections, and a property that feels move-in ready. In some cases, strategic repairs can make the difference between a fast listing and one that sits because buyers or renters see too much work left to do.",
+        "@type": "Answer",
+        "description": "Yes, when the repairs improve first impressions and reduce obvious objections. Clean, finished spaces usually show better and feel easier to buy or rent."
+      }
+    }
+  ],
+  "description": "Yes, when the repairs improve first impressions and reduce obvious objections. Clean, finished spaces usually show better and feel easier to buy or rent."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it better to patch a small drywall hole myself or hire someone?",
-  "description": "DIY makes sense for tiny cosmetic fixes. For visible walls, texture matching, or several repairs, hiring a pro usually gives a cleaner result with less hassle.",
   "url": "http://coloradoremodeling.company/faq/is-it-better-to-patch-a-small-drywall-hole-myself-or-hire-someone",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it better to patch a small drywall hole myself or hire someone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY is worth comparing against professional repair when you care about speed, texture matching, or a clean paint-ready finish. If you only have one tiny hole, DIY may save money; if you have multiple spots or a wall that’s highly visible, hiring a pro usually saves frustration.",
-        "description": "DIY makes sense for tiny cosmetic fixes. For visible walls, texture matching, or several repairs, hiring a pro usually gives a cleaner result with less hassle."
-      }
-    }
-  ],
+  "name": "Is it better to patch a small drywall hole myself or hire someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to patch a small drywall hole myself or hire someone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY is worth comparing against professional repair when you care about speed, texture matching, or a clean paint-ready finish. If you only have one tiny hole, DIY may save money; if you have multiple spots or a wall that’s highly visible, hiring a pro usually saves frustration.",
+        "@type": "Answer",
+        "description": "DIY makes sense for tiny cosmetic fixes. For visible walls, texture matching, or several repairs, hiring a pro usually gives a cleaner result with less hassle."
+      }
+    }
+  ],
+  "description": "DIY makes sense for tiny cosmetic fixes. For visible walls, texture matching, or several repairs, hiring a pro usually gives a cleaner result with less hassle."
 }

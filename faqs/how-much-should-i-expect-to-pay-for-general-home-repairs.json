@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should I expect to pay for general home repairs?",
-  "description": "Costs depend on the repair, materials, and labor. Early fixes usually cost less than waiting until the problem spreads.",
   "url": "http://coloradoremodeling.company/faq/how-much-should-i-expect-to-pay-for-general-home-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should I expect to pay for general home repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary widely based on the type of repair, labor, materials, and whether the problem is cosmetic or structural. The best value usually comes from fixing issues early, because delayed repairs often lead to more damage, more labor, and higher total cost.",
-        "description": "Costs depend on the repair, materials, and labor. Early fixes usually cost less than waiting until the problem spreads."
-      }
-    }
-  ],
+  "name": "How much should I expect to pay for general home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I expect to pay for general home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary widely based on the type of repair, labor, materials, and whether the problem is cosmetic or structural. The best value usually comes from fixing issues early, because delayed repairs often lead to more damage, more labor, and higher total cost.",
+        "@type": "Answer",
+        "description": "Costs depend on the repair, materials, and labor. Early fixes usually cost less than waiting until the problem spreads."
+      }
+    }
+  ],
+  "description": "Costs depend on the repair, materials, and labor. Early fixes usually cost less than waiting until the problem spreads."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I repair my door or replace it entirely?",
-  "description": "Repair is best for alignment and hardware issues; replacement is better for warping, rot, or major frame damage.",
   "url": "http://coloradoremodeling.company/faq/should-i-repair-my-door-or-replace-it-entirely",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I repair my door or replace it entirely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—door repair is often the better choice when the slab, frame, and hardware are still in good shape. Replacement makes more sense if the door is badly warped, rotted, cracked, or the frame is damaged beyond a simple adjustment.",
-        "description": "Repair is best for alignment and hardware issues; replacement is better for warping, rot, or major frame damage."
-      }
-    }
-  ],
+  "name": "Should I repair my door or replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my door or replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—door repair is often the better choice when the slab, frame, and hardware are still in good shape. Replacement makes more sense if the door is badly warped, rotted, cracked, or the frame is damaged beyond a simple adjustment.",
+        "@type": "Answer",
+        "description": "Repair is best for alignment and hardware issues; replacement is better for warping, rot, or major frame damage."
+      }
+    }
+  ],
+  "description": "Repair is best for alignment and hardware issues; replacement is better for warping, rot, or major frame damage."
 }

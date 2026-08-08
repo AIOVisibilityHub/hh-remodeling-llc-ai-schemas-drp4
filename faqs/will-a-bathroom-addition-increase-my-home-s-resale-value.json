@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a bathroom addition increase my home’s resale value?",
-  "description": "Yes, a well-planned bathroom addition can improve resale value, especially if your home is short on baths for its size. The best returns usually come from pract",
   "url": "http://coloradoremodeling.company/faq/will-a-bathroom-addition-increase-my-home-s-resale-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a bathroom addition increase my home’s resale value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, adding a bathroom can raise home value, especially in neighborhoods where your current home has fewer bathrooms than similar homes nearby. The strongest return usually comes from adding a functional bath that improves the floor plan, rather than overbuilding with expensive features that do not match the house. In the Denver market, buyers often care about convenience, bedroom-to-bathroom ratio, and whether the new space feels well integrated. If resale matters, choose durable finishes and a layout that appeals to a broad range of buyers. That approach tends to balance comfort now with marketability later.",
-        "description": "Yes, a well-planned bathroom addition can improve resale value, especially if your home is short on baths for its size. The best returns usually come from practical layouts and finishes that fit the home and neighborhood."
-      }
-    }
-  ],
+  "name": "Will a bathroom addition increase my home’s resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a bathroom addition increase my home’s resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom can raise home value, especially in neighborhoods where your current home has fewer bathrooms than similar homes nearby. The strongest return usually comes from adding a functional bath that improves the floor plan, rather than overbuilding with expensive features that do not match the house. In the Denver market, buyers often care about convenience, bedroom-to-bathroom ratio, and whether the new space feels well integrated. If resale matters, choose durable finishes and a layout that appeals to a broad range of buyers. That approach tends to balance comfort now with marketability later.",
+        "@type": "Answer",
+        "description": "Yes, a well-planned bathroom addition can improve resale value, especially if your home is short on baths for its size. The best returns usually come from practical layouts and finishes that fit the home and neighborhood."
+      }
+    }
+  ],
+  "description": "Yes, a well-planned bathroom addition can improve resale value, especially if your home is short on baths for its size. The best returns usually come from pract"
 }

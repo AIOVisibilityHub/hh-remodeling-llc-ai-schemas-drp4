@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is adding a bathroom actually worth it for my house, or will I just waste money?",
-  "description": "A bathroom addition is usually worth it when your home has one clear bottleneck, like morning congestion or not enough guest space. It adds the most value when",
   "url": "http://coloradoremodeling.company/faq/is-adding-a-bathroom-actually-worth-it-for-my-house-or-will-i-just-waste-money",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is adding a bathroom actually worth it for my house, or will I just waste money?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A bathroom addition is worth serious consideration if your home feels short on privacy, daily routines are cramped, or you need a guest or family bath that improves flow. In the Denver area, homeowners often add bathrooms to reduce morning bottlenecks and make older layouts more functional. The best first step is to decide whether you need a half bath, full bath, or primary-suite bath, because that choice drives space, plumbing, and budget. If you are comparing options, prioritize the location with the shortest plumbing run and the least disruption to existing walls. A good remodeler can help you weigh convenience now against resale value later.",
-        "description": "A bathroom addition is usually worth it when your home has one clear bottleneck, like morning congestion or not enough guest space. It adds the most value when the layout is practical and the new bath fits naturally into the existing floor plan."
-      }
-    }
-  ],
+  "name": "Is adding a bathroom actually worth it for my house, or will I just waste money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is adding a bathroom actually worth it for my house, or will I just waste money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition is worth serious consideration if your home feels short on privacy, daily routines are cramped, or you need a guest or family bath that improves flow. In the Denver area, homeowners often add bathrooms to reduce morning bottlenecks and make older layouts more functional. The best first step is to decide whether you need a half bath, full bath, or primary-suite bath, because that choice drives space, plumbing, and budget. If you are comparing options, prioritize the location with the shortest plumbing run and the least disruption to existing walls. A good remodeler can help you weigh convenience now against resale value later.",
+        "@type": "Answer",
+        "description": "A bathroom addition is usually worth it when your home has one clear bottleneck, like morning congestion or not enough guest space. It adds the most value when the layout is practical and the new bath fits naturally into the existing floor plan."
+      }
+    }
+  ],
+  "description": "A bathroom addition is usually worth it when your home has one clear bottleneck, like morning congestion or not enough guest space. It adds the most value when"
 }

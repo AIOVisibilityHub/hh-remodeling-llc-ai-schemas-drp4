@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can interior log staining make my home look lighter, darker, or just more natural?",
-  "description": "Yes. Interior log staining can shift the look lighter, darker, or more natural while still showing the wood grain, depending on the stain chosen.",
   "url": "http://coloradoremodeling.company/faq/can-interior-log-staining-make-my-home-look-lighter-darker-or-just-more-natural",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can interior log staining make my home look lighter, darker, or just more natural?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, interior staining can change the look a lot, but the result depends on the current wood tone and how much color the stain adds. Log-home stain suppliers offer options from lighter to darker tones and custom color matching, so you can usually go warmer, richer, or more natural without losing the grain.",
-        "description": "Yes. Interior log staining can shift the look lighter, darker, or more natural while still showing the wood grain, depending on the stain chosen."
-      }
-    }
-  ],
+  "name": "Can interior log staining make my home look lighter, darker, or just more natural?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can interior log staining make my home look lighter, darker, or just more natural?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, interior staining can change the look a lot, but the result depends on the current wood tone and how much color the stain adds. Log-home stain suppliers offer options from lighter to darker tones and custom color matching, so you can usually go warmer, richer, or more natural without losing the grain.",
+        "@type": "Answer",
+        "description": "Yes. Interior log staining can shift the look lighter, darker, or more natural while still showing the wood grain, depending on the stain chosen."
+      }
+    }
+  ],
+  "description": "Yes. Interior log staining can shift the look lighter, darker, or more natural while still showing the wood grain, depending on the stain chosen."
 }

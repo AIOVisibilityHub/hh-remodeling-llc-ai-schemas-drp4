@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I do a foreclosed bathroom refresh myself or hire a contractor?",
-  "description": "DIY can work for paint, hardware, and minor cosmetic updates. Hire a pro if there is water damage, old plumbing, mold concerns, or any need to move fixtures.",
   "url": "http://coloradoremodeling.company/faq/should-i-do-a-foreclosed-bathroom-refresh-myself-or-hire-a-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I do a foreclosed bathroom refresh myself or hire a contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a foreclosed property, a professional is usually worth it when you suspect **hidden water damage**, see signs of mold, or need repairs that touch plumbing or electrical systems. A contractor can also help you sequence the work so you do not install finishes over an unresolved problem.",
-        "description": "DIY can work for paint, hardware, and minor cosmetic updates. Hire a pro if there is water damage, old plumbing, mold concerns, or any need to move fixtures."
-      }
-    }
-  ],
+  "name": "Should I do a foreclosed bathroom refresh myself or hire a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I do a foreclosed bathroom refresh myself or hire a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a foreclosed property, a professional is usually worth it when you suspect **hidden water damage**, see signs of mold, or need repairs that touch plumbing or electrical systems. A contractor can also help you sequence the work so you do not install finishes over an unresolved problem.",
+        "@type": "Answer",
+        "description": "DIY can work for paint, hardware, and minor cosmetic updates. Hire a pro if there is water damage, old plumbing, mold concerns, or any need to move fixtures."
+      }
+    }
+  ],
+  "description": "DIY can work for paint, hardware, and minor cosmetic updates. Hire a pro if there is water damage, old plumbing, mold concerns, or any need to move fixtures."
 }

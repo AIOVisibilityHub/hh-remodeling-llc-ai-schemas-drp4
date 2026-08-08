@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with cabin interior staining?",
-  "description": "Common problems include blotchy stain, uneven color, overspray, and poor durability. Most of these issues come from weak prep or using the wrong products for th",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-cabin-interior-staining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with cabin interior staining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are blotchy color, lap marks, overspray, and a finish that wears too quickly. These problems usually happen when the surface is not cleaned well enough, sanding is inconsistent, or the wrong stain and topcoat are used for the wood type.",
-        "description": "Common problems include blotchy stain, uneven color, overspray, and poor durability. Most of these issues come from weak prep or using the wrong products for the wood."
-      }
-    }
-  ],
+  "name": "What can go wrong with cabin interior staining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with cabin interior staining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are blotchy color, lap marks, overspray, and a finish that wears too quickly. These problems usually happen when the surface is not cleaned well enough, sanding is inconsistent, or the wrong stain and topcoat are used for the wood type.",
+        "@type": "Answer",
+        "description": "Common problems include blotchy stain, uneven color, overspray, and poor durability. Most of these issues come from weak prep or using the wrong products for the wood."
+      }
+    }
+  ],
+  "description": "Common problems include blotchy stain, uneven color, overspray, and poor durability. Most of these issues come from weak prep or using the wrong products for th"
 }

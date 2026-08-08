@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if the damage is normal wear and tear or something that needs repair?",
-  "description": "Minor fading, scuffs, and small holes are usually normal wear; larger tears, burns, broken pieces, or damage that affects function usually needs repair.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-the-damage-is-normal-wear-and-tear-or-something-that-needs-repa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if the damage is normal wear and tear or something that needs repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Eligibility depends on whether the damage is ordinary aging or something beyond normal use. Fading paint, small nail holes, worn carpet, and minor scuffs are typically treated as normal wear, while large tears, burns, broken parts, water damage, or missing material usually need repair.",
-        "description": "Minor fading, scuffs, and small holes are usually normal wear; larger tears, burns, broken pieces, or damage that affects function usually needs repair."
-      }
-    }
-  ],
+  "name": "How do I know if the damage is normal wear and tear or something that needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the damage is normal wear and tear or something that needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Eligibility depends on whether the damage is ordinary aging or something beyond normal use. Fading paint, small nail holes, worn carpet, and minor scuffs are typically treated as normal wear, while large tears, burns, broken parts, water damage, or missing material usually need repair.",
+        "@type": "Answer",
+        "description": "Minor fading, scuffs, and small holes are usually normal wear; larger tears, burns, broken pieces, or damage that affects function usually needs repair."
+      }
+    }
+  ],
+  "description": "Minor fading, scuffs, and small holes are usually normal wear; larger tears, burns, broken pieces, or damage that affects function usually needs repair."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect a good handyman repair to look like when it’s done?",
-  "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-a-good-handyman-repair-to-look-like-when-it-s-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect a good handyman repair to look like when it’s done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The outcome should be a repair that works correctly and looks clean enough to blend with the surrounding area. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the most common wins are doors that latch properly, walls patched cleanly, and hardware or trim that looks finished.",
-        "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware."
-      }
-    }
-  ],
+  "name": "What should I expect a good handyman repair to look like when it’s done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect a good handyman repair to look like when it’s done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The outcome should be a repair that works correctly and looks clean enough to blend with the surrounding area. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the most common wins are doors that latch properly, walls patched cleanly, and hardware or trim that looks finished.",
+        "@type": "Answer",
+        "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware."
+      }
+    }
+  ],
+  "description": "A good repair should function properly and blend in cleanly with the surrounding surface, trim, or hardware."
 }

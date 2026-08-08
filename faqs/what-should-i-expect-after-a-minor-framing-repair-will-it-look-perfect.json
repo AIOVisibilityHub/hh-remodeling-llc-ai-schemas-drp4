@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after a minor framing repair—will it look perfect?",
-  "description": "You should expect better alignment, smoother finish installation, and proper function for doors, trim, or openings. It may not be perfect like new construction,",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-a-minor-framing-repair-will-it-look-perfect",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after a minor framing repair—will it look perfect?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good outcome is a frame that is straight enough for the finish work to install cleanly and function properly, with doors closing, trim fitting, and surfaces lining up as intended. In many cases, a minor adjustment is enough to restore normal use without major demolition. If the framing is part of an older or previously repaired area, the result may be improved alignment rather than perfect new-construction tolerances.",
-        "description": "You should expect better alignment, smoother finish installation, and proper function for doors, trim, or openings. It may not be perfect like new construction, but it should be corrected enough to work and look right."
-      }
-    }
-  ],
+  "name": "What should I expect after a minor framing repair—will it look perfect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after a minor framing repair—will it look perfect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good outcome is a frame that is straight enough for the finish work to install cleanly and function properly, with doors closing, trim fitting, and surfaces lining up as intended. In many cases, a minor adjustment is enough to restore normal use without major demolition. If the framing is part of an older or previously repaired area, the result may be improved alignment rather than perfect new-construction tolerances.",
+        "@type": "Answer",
+        "description": "You should expect better alignment, smoother finish installation, and proper function for doors, trim, or openings. It may not be perfect like new construction, but it should be corrected enough to work and look right."
+      }
+    }
+  ],
+  "description": "You should expect better alignment, smoother finish installation, and proper function for doors, trim, or openings. It may not be perfect like new construction,"
 }

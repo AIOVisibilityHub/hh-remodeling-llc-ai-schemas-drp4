@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Where is the best place to add a bathroom in my home?",
-  "description": "The best location is usually the one closest to existing plumbing and with enough space for proper layout and ventilation. Basement, hallway, and primary-suite",
   "url": "http://coloradoremodeling.company/faq/where-is-the-best-place-to-add-a-bathroom-in-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Where is the best place to add a bathroom in my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first step is to choose the best location, then confirm whether the room can support plumbing, ventilation, and code-compliant clearances. Many homeowners start with a basement, a spare closet, or an expanded primary suite, but the right answer depends on where drains, vents, and structural framing already exist. In older homes, adding a bathroom can be easier if it is placed near existing plumbing stacks or above another wet area. You should also think about privacy, traffic flow, and whether the new room will feel natural instead of squeezed in. A practical plan starts with layout, not finishes.",
-        "description": "The best location is usually the one closest to existing plumbing and with enough space for proper layout and ventilation. Basement, hallway, and primary-suite additions are common because they can reduce cost and disruption."
-      }
-    }
-  ],
+  "name": "Where is the best place to add a bathroom in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Where is the best place to add a bathroom in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to choose the best location, then confirm whether the room can support plumbing, ventilation, and code-compliant clearances. Many homeowners start with a basement, a spare closet, or an expanded primary suite, but the right answer depends on where drains, vents, and structural framing already exist. In older homes, adding a bathroom can be easier if it is placed near existing plumbing stacks or above another wet area. You should also think about privacy, traffic flow, and whether the new room will feel natural instead of squeezed in. A practical plan starts with layout, not finishes.",
+        "@type": "Answer",
+        "description": "The best location is usually the one closest to existing plumbing and with enough space for proper layout and ventilation. Basement, hallway, and primary-suite additions are common because they can reduce cost and disruption."
+      }
+    }
+  ],
+  "description": "The best location is usually the one closest to existing plumbing and with enough space for proper layout and ventilation. Basement, hallway, and primary-suite"
 }

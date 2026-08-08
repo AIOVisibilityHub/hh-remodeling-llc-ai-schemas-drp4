@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it cheaper to repair trim or replace it?",
-  "description": "Repair is usually cheaper, but replacement often makes more sense for rot, warping, or repeated damage. The better value depends on how much life is left in the",
   "url": "http://coloradoremodeling.company/faq/is-it-cheaper-to-repair-trim-or-replace-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it cheaper to repair trim or replace it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Repair is usually the better value when the damage is small and isolated; replacement is better when the trim is rotted, warped, or repeatedly failing. If you are comparing options in the Denver metro, ask for both repair and replacement pricing so you can see whether a short-term patch or a longer-term fix makes more sense.",
-        "description": "Repair is usually cheaper, but replacement often makes more sense for rot, warping, or repeated damage. The better value depends on how much life is left in the existing trim."
-      }
-    }
-  ],
+  "name": "Is it cheaper to repair trim or replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to repair trim or replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair is usually the better value when the damage is small and isolated; replacement is better when the trim is rotted, warped, or repeatedly failing. If you are comparing options in the Denver metro, ask for both repair and replacement pricing so you can see whether a short-term patch or a longer-term fix makes more sense.",
+        "@type": "Answer",
+        "description": "Repair is usually cheaper, but replacement often makes more sense for rot, warping, or repeated damage. The better value depends on how much life is left in the existing trim."
+      }
+    }
+  ],
+  "description": "Repair is usually cheaper, but replacement often makes more sense for rot, warping, or repeated damage. The better value depends on how much life is left in the"
 }

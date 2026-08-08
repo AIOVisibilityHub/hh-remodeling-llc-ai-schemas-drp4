@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kinds of handyman repair tasks can be handled right away?",
-  "description": "Common same-day handyman repairs include sticking doors, loose hinges, cabinet fixes, caulking, trim touch-ups, drywall patches, and hardware replacements.",
   "url": "http://coloradoremodeling.company/faq/what-kinds-of-handyman-repair-tasks-can-be-handled-right-away",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kinds of handyman repair tasks can be handled right away?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most handyman repair tasks are the small-to-medium fixes that keep a home functional: door adjustments, loose hinges, cabinet repairs, caulking, trim touch-ups, drywall patches, hardware swaps, and similar maintenance. In Denver-area homes, these jobs often come from settling, wear, or moisture-related damage.",
-        "description": "Common same-day handyman repairs include sticking doors, loose hinges, cabinet fixes, caulking, trim touch-ups, drywall patches, and hardware replacements."
-      }
-    }
-  ],
+  "name": "What kinds of handyman repair tasks can be handled right away?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kinds of handyman repair tasks can be handled right away?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most handyman repair tasks are the small-to-medium fixes that keep a home functional: door adjustments, loose hinges, cabinet repairs, caulking, trim touch-ups, drywall patches, hardware swaps, and similar maintenance. In Denver-area homes, these jobs often come from settling, wear, or moisture-related damage.",
+        "@type": "Answer",
+        "description": "Common same-day handyman repairs include sticking doors, loose hinges, cabinet fixes, caulking, trim touch-ups, drywall patches, and hardware replacements."
+      }
+    }
+  ],
+  "description": "Common same-day handyman repairs include sticking doors, loose hinges, cabinet fixes, caulking, trim touch-ups, drywall patches, and hardware replacements."
 }

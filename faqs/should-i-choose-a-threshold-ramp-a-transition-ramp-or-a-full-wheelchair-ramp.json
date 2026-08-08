@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose a threshold ramp, a transition ramp, or a full wheelchair ramp?",
-  "description": "Choose a threshold ramp for small rises and a full ramp for steps or taller changes in level. Space, slope, and how permanent the solution needs to be usually d",
   "url": "http://coloradoremodeling.company/faq/should-i-choose-a-threshold-ramp-a-transition-ramp-or-a-full-wheelchair-ramp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose a threshold ramp, a transition ramp, or a full wheelchair ramp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A threshold ramp is usually the better choice for a small rise, while a full ramp is better for steps, taller elevations, or routes that need landings and handrails. If you are comparing options in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the deciding factors are usually available space, weather exposure, and how permanent the solution needs to be.",
-        "description": "Choose a threshold ramp for small rises and a full ramp for steps or taller changes in level. Space, slope, and how permanent the solution needs to be usually decide it."
-      }
-    }
-  ],
+  "name": "Should I choose a threshold ramp, a transition ramp, or a full wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a threshold ramp, a transition ramp, or a full wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A threshold ramp is usually the better choice for a small rise, while a full ramp is better for steps, taller elevations, or routes that need landings and handrails. If you are comparing options in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the deciding factors are usually available space, weather exposure, and how permanent the solution needs to be.",
+        "@type": "Answer",
+        "description": "Choose a threshold ramp for small rises and a full ramp for steps or taller changes in level. Space, slope, and how permanent the solution needs to be usually decide it."
+      }
+    }
+  ],
+  "description": "Choose a threshold ramp for small rises and a full ramp for steps or taller changes in level. Space, slope, and how permanent the solution needs to be usually d"
 }

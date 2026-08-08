@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does interior log home sealing actually work — is it just caulk in the cracks?",
-  "description": "It is more than caulk. The job typically involves cleaning, repairing problem areas, and using flexible log-home sealants so the logs can move without reopening",
   "url": "http://coloradoremodeling.company/faq/how-does-interior-log-home-sealing-actually-work-is-it-just-caulk-in-the-cracks",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does interior log home sealing actually work — is it just caulk in the cracks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with cleaning the interior surfaces, then repairing damaged areas and filling gaps with the right backing and sealant system. For log homes, the goal is a flexible seal that moves with the wood instead of a rigid patch that cracks as the logs shift.",
-        "description": "It is more than caulk. The job typically involves cleaning, repairing problem areas, and using flexible log-home sealants so the logs can move without reopening the gaps."
-      }
-    }
-  ],
+  "name": "How does interior log home sealing actually work — is it just caulk in the cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does interior log home sealing actually work — is it just caulk in the cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with cleaning the interior surfaces, then repairing damaged areas and filling gaps with the right backing and sealant system. For log homes, the goal is a flexible seal that moves with the wood instead of a rigid patch that cracks as the logs shift.",
+        "@type": "Answer",
+        "description": "It is more than caulk. The job typically involves cleaning, repairing problem areas, and using flexible log-home sealants so the logs can move without reopening the gaps."
+      }
+    }
+  ],
+  "description": "It is more than caulk. The job typically involves cleaning, repairing problem areas, and using flexible log-home sealants so the logs can move without reopening"
 }

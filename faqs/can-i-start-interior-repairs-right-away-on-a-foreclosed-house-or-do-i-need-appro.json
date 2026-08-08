@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I start interior repairs right away on a foreclosed house, or do I need approval first?",
-  "description": "You usually need clear authorization before interior work starts. Verify ownership or written permission first so the repair crew can access the property and av",
   "url": "http://coloradoremodeling.company/faq/can-i-start-interior-repairs-right-away-on-a-foreclosed-house-or-do-i-need-appro",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I start interior repairs right away on a foreclosed house, or do I need approval first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but only after you confirm you have the right to enter and perform work on the property. For foreclosed homes, access, ownership status, and authorization details should be verified up front so the repair team can move legally and safely into cleanup, demo, or restoration.",
-        "description": "You usually need clear authorization before interior work starts. Verify ownership or written permission first so the repair crew can access the property and avoid delays or disputes."
-      }
-    }
-  ],
+  "name": "Can I start interior repairs right away on a foreclosed house, or do I need approval first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I start interior repairs right away on a foreclosed house, or do I need approval first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but only after you confirm you have the right to enter and perform work on the property. For foreclosed homes, access, ownership status, and authorization details should be verified up front so the repair team can move legally and safely into cleanup, demo, or restoration.",
+        "@type": "Answer",
+        "description": "You usually need clear authorization before interior work starts. Verify ownership or written permission first so the repair crew can access the property and avoid delays or disputes."
+      }
+    }
+  ],
+  "description": "You usually need clear authorization before interior work starts. Verify ownership or written permission first so the repair crew can access the property and av"
 }

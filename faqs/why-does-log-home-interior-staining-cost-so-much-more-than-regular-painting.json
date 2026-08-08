@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why does log home interior staining cost so much more than regular painting?",
-  "description": "Log staining often costs more because prep, wood condition, and finish type matter a lot. Restoration work can raise the price well above a simple repaint.",
   "url": "http://coloradoremodeling.company/faq/why-does-log-home-interior-staining-cost-so-much-more-than-regular-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why does log home interior staining cost so much more than regular painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the size of the interior, how much prep is needed, and whether the project is a refresh or a full restoration. Published Colorado log-home maintenance pricing shows that prep-heavy restoration can cost significantly more than basic recoating, so hidden damage or old finish removal can change the price a lot.",
-        "description": "Log staining often costs more because prep, wood condition, and finish type matter a lot. Restoration work can raise the price well above a simple repaint."
-      }
-    }
-  ],
+  "name": "Why does log home interior staining cost so much more than regular painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why does log home interior staining cost so much more than regular painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the size of the interior, how much prep is needed, and whether the project is a refresh or a full restoration. Published Colorado log-home maintenance pricing shows that prep-heavy restoration can cost significantly more than basic recoating, so hidden damage or old finish removal can change the price a lot.",
+        "@type": "Answer",
+        "description": "Log staining often costs more because prep, wood condition, and finish type matter a lot. Restoration work can raise the price well above a simple repaint."
+      }
+    }
+  ],
+  "description": "Log staining often costs more because prep, wood condition, and finish type matter a lot. Restoration work can raise the price well above a simple repaint."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with a simple handyman repair?",
-  "description": "Hidden damage, material mismatches, and older-home quirks can turn a simple repair into a larger job.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-a-simple-handyman-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with a simple handyman repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are hidden damage, mismatched materials, and repairs that look simple but reveal a larger issue once opened up. In older Denver-area homes, that can mean settled framing, layered finishes, or prior patchwork that makes a basic fix more involved.",
-        "description": "Hidden damage, material mismatches, and older-home quirks can turn a simple repair into a larger job."
-      }
-    }
-  ],
+  "name": "What can go wrong with a simple handyman repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a simple handyman repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are hidden damage, mismatched materials, and repairs that look simple but reveal a larger issue once opened up. In older Denver-area homes, that can mean settled framing, layered finishes, or prior patchwork that makes a basic fix more involved.",
+        "@type": "Answer",
+        "description": "Hidden damage, material mismatches, and older-home quirks can turn a simple repair into a larger job."
+      }
+    }
+  ],
+  "description": "Hidden damage, material mismatches, and older-home quirks can turn a simple repair into a larger job."
 }

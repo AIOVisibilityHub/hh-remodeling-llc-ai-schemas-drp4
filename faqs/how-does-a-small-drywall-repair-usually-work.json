@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a small drywall repair usually work?",
-  "description": "Small repairs usually involve filling, drying, sanding, and repainting. Bigger spots may need a patch first, then compound and a final paint touch-up.",
   "url": "http://coloradoremodeling.company/faq/how-does-a-small-drywall-repair-usually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a small drywall repair usually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical small drywall repair starts by cleaning loose debris, filling the hole or crack, letting the compound dry, sanding it smooth, and then painting the area to match. For slightly larger openings, a patch may be used before finishing and touch-up.",
-        "description": "Small repairs usually involve filling, drying, sanding, and repainting. Bigger spots may need a patch first, then compound and a final paint touch-up."
-      }
-    }
-  ],
+  "name": "How does a small drywall repair usually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a small drywall repair usually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical small drywall repair starts by cleaning loose debris, filling the hole or crack, letting the compound dry, sanding it smooth, and then painting the area to match. For slightly larger openings, a patch may be used before finishing and touch-up.",
+        "@type": "Answer",
+        "description": "Small repairs usually involve filling, drying, sanding, and repainting. Bigger spots may need a patch first, then compound and a final paint touch-up."
+      }
+    }
+  ],
+  "description": "Small repairs usually involve filling, drying, sanding, and repainting. Bigger spots may need a patch first, then compound and a final paint touch-up."
 }

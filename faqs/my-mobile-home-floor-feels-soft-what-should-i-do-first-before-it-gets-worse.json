@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My mobile home floor feels soft—what should I do first before it gets worse?",
-  "description": "Stop walking on the damaged area, check for leaks or moisture, and inspect the subfloor before repairing the surface. If the floor is sagging or soft in multipl",
   "url": "http://coloradoremodeling.company/faq/my-mobile-home-floor-feels-soft-what-should-i-do-first-before-it-gets-worse",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My mobile home floor feels soft—what should I do first before it gets worse?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the floor feels soft, bouncy, or spongy, the first step is to find the source of moisture before patching anything. In a mobile home, damaged subflooring often means there is leak-related rot that will keep spreading if the cause is not fixed.",
-        "description": "Stop walking on the damaged area, check for leaks or moisture, and inspect the subfloor before repairing the surface. If the floor is sagging or soft in multiple spots, have it evaluated before you add new flooring."
-      }
-    }
-  ],
+  "name": "My mobile home floor feels soft—what should I do first before it gets worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My mobile home floor feels soft—what should I do first before it gets worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the floor feels soft, bouncy, or spongy, the first step is to find the source of moisture before patching anything. In a mobile home, damaged subflooring often means there is leak-related rot that will keep spreading if the cause is not fixed.",
+        "@type": "Answer",
+        "description": "Stop walking on the damaged area, check for leaks or moisture, and inspect the subfloor before repairing the surface. If the floor is sagging or soft in multiple spots, have it evaluated before you add new flooring."
+      }
+    }
+  ],
+  "description": "Stop walking on the damaged area, check for leaks or moisture, and inspect the subfloor before repairing the surface. If the floor is sagging or soft in multipl"
 }

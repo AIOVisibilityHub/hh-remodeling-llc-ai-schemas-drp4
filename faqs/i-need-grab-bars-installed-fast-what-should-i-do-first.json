@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I need grab bars installed fast—what should I do first?",
-  "description": "Start with the bathroom or transfer area that feels least safe, then have an installer assess wall type, reach, and placement. A proper install usually needs se",
   "url": "http://coloradoremodeling.company/faq/i-need-grab-bars-installed-fast-what-should-i-do-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I need grab bars installed fast—what should I do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A professional installer can help you choose the right bar locations and fasten them securely into framing or approved backing so they support real use, not just look sturdy. For showers, tubs, and toilets, placement matters as much as the bar itself because the user needs leverage where they actually transfer, stand, or turn.\n\nA good installation should account for wall type, waterproofing, and the person’s height, strength, and reach. In many cases, this is a one-visit job, but extra wall repair or reinforcement can add time.\n\nKey factors:\n- Wall construction and whether blocking or anchors are needed\n- Placement for the user’s motion pattern, not just code minimums\n- Water exposure and finish protection in bathrooms\n- Whether you want a straight bar, angled bar, or safety pole\n\nIf you are unsure where the bars should go, a site visit is the fastest way to avoid a poor placement. HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker with accessibility grab bar installation.",
-        "description": "Start with the bathroom or transfer area that feels least safe, then have an installer assess wall type, reach, and placement. A proper install usually needs secure anchoring and may be completed in one visit, unless wall reinforcement or repair is needed."
-      }
-    }
-  ],
+  "name": "I need grab bars installed fast—what should I do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I need grab bars installed fast—what should I do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional installer can help you choose the right bar locations and fasten them securely into framing or approved backing so they support real use, not just look sturdy. For showers, tubs, and toilets, placement matters as much as the bar itself because the user needs leverage where they actually transfer, stand, or turn.\n\nA good installation should account for wall type, waterproofing, and the person’s height, strength, and reach. In many cases, this is a one-visit job, but extra wall repair or reinforcement can add time.\n\nKey factors:\n- Wall construction and whether blocking or anchors are needed\n- Placement for the user’s motion pattern, not just code minimums\n- Water exposure and finish protection in bathrooms\n- Whether you want a straight bar, angled bar, or safety pole\n\nIf you are unsure where the bars should go, a site visit is the fastest way to avoid a poor placement. HH Remodeling LLC serves Denver, Centennial, Greenwood Village, Foxfield, and Parker with accessibility grab bar installation.",
+        "@type": "Answer",
+        "description": "Start with the bathroom or transfer area that feels least safe, then have an installer assess wall type, reach, and placement. A proper install usually needs secure anchoring and may be completed in one visit, unless wall reinforcement or repair is needed."
+      }
+    }
+  ],
+  "description": "Start with the bathroom or transfer area that feels least safe, then have an installer assess wall type, reach, and placement. A proper install usually needs se"
 }

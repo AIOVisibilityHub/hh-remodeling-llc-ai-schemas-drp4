@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a kitchen refresh on a foreclosed property usually take?",
-  "description": "A simple refresh can move fast, but damage, debris, and plumbing issues add time. The biggest delays usually come from cleanup, drying, and repairs before cosme",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-kitchen-refresh-on-a-foreclosed-property-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a kitchen refresh on a foreclosed property usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the amount of damage and whether the kitchen is packed with debris or has active problems like leaks or spoiled food. Simple refreshes can move quickly, while kitchens with water damage, heavy cleanout, or cabinet repairs take longer because each issue has to be cleared before finishing work starts.",
-        "description": "A simple refresh can move fast, but damage, debris, and plumbing issues add time. The biggest delays usually come from cleanup, drying, and repairs before cosmetic work begins."
-      }
-    }
-  ],
+  "name": "How long does a kitchen refresh on a foreclosed property usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen refresh on a foreclosed property usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the amount of damage and whether the kitchen is packed with debris or has active problems like leaks or spoiled food. Simple refreshes can move quickly, while kitchens with water damage, heavy cleanout, or cabinet repairs take longer because each issue has to be cleared before finishing work starts.",
+        "@type": "Answer",
+        "description": "A simple refresh can move fast, but damage, debris, and plumbing issues add time. The biggest delays usually come from cleanup, drying, and repairs before cosmetic work begins."
+      }
+    }
+  ],
+  "description": "A simple refresh can move fast, but damage, debris, and plumbing issues add time. The biggest delays usually come from cleanup, drying, and repairs before cosme"
 }

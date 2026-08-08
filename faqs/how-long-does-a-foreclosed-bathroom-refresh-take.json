@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a foreclosed bathroom refresh take?",
-  "description": "Most cosmetic refreshes take about 1–2 weeks. If hidden water damage or plumbing problems show up, expect the schedule to stretch beyond that.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-a-foreclosed-bathroom-refresh-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a foreclosed bathroom refresh take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A simple refresh can often be completed in **1–2 weeks** when materials are available and no hidden damage is uncovered. If demo reveals plumbing, subfloor, mold, or electrical issues, the timeline usually extends because those repairs must be finished before the cosmetic work.",
-        "description": "Most cosmetic refreshes take about 1–2 weeks. If hidden water damage or plumbing problems show up, expect the schedule to stretch beyond that."
-      }
-    }
-  ],
+  "name": "How long does a foreclosed bathroom refresh take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a foreclosed bathroom refresh take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple refresh can often be completed in **1–2 weeks** when materials are available and no hidden damage is uncovered. If demo reveals plumbing, subfloor, mold, or electrical issues, the timeline usually extends because those repairs must be finished before the cosmetic work.",
+        "@type": "Answer",
+        "description": "Most cosmetic refreshes take about 1–2 weeks. If hidden water damage or plumbing problems show up, expect the schedule to stretch beyond that."
+      }
+    }
+  ],
+  "description": "Most cosmetic refreshes take about 1–2 weeks. If hidden water damage or plumbing problems show up, expect the schedule to stretch beyond that."
 }

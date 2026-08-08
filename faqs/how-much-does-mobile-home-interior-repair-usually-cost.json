@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does mobile home interior repair usually cost?",
-  "description": "Simple cosmetic repairs are cheaper, but hidden water damage, flooring, and wall repairs can raise the price quickly. The final cost depends on how much materia",
   "url": "http://coloradoremodeling.company/faq/how-much-does-mobile-home-interior-repair-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does mobile home interior repair usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost depends on the size of the damage and whether the problem is isolated or tied to water intrusion. Small interior fixes may stay manageable, but repairs involving flooring, drywall, trim, or underbelly-related moisture damage usually cost more because the hidden damage is often larger than it first appears.",
-        "description": "Simple cosmetic repairs are cheaper, but hidden water damage, flooring, and wall repairs can raise the price quickly. The final cost depends on how much material has to be replaced and whether there is moisture or structural damage."
-      }
-    }
-  ],
+  "name": "How much does mobile home interior repair usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mobile home interior repair usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on the size of the damage and whether the problem is isolated or tied to water intrusion. Small interior fixes may stay manageable, but repairs involving flooring, drywall, trim, or underbelly-related moisture damage usually cost more because the hidden damage is often larger than it first appears.",
+        "@type": "Answer",
+        "description": "Simple cosmetic repairs are cheaper, but hidden water damage, flooring, and wall repairs can raise the price quickly. The final cost depends on how much material has to be replaced and whether there is moisture or structural damage."
+      }
+    }
+  ],
+  "description": "Simple cosmetic repairs are cheaper, but hidden water damage, flooring, and wall repairs can raise the price quickly. The final cost depends on how much materia"
 }

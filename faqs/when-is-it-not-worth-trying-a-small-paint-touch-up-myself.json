@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is it not worth trying a small paint touch-up myself?",
-  "description": "If the area is highly visible, the paint is old, or matching is uncertain, DIY often creates more work. In those cases, a professional assessment is usually the",
   "url": "http://coloradoremodeling.company/faq/when-is-it-not-worth-trying-a-small-paint-touch-up-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is it not worth trying a small paint touch-up myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the damage is in a high-visibility area, the paint is older than expected, or you only have a small amount of leftover paint, it is worth getting help instead of guessing. That is especially true when the wall has sheen, texture, or fading differences that can make a small repair obvious. A careful assessment can save time and prevent a patchy result.",
-        "description": "If the area is highly visible, the paint is old, or matching is uncertain, DIY often creates more work. In those cases, a professional assessment is usually the safer choice."
-      }
-    }
-  ],
+  "name": "When is it not worth trying a small paint touch-up myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is it not worth trying a small paint touch-up myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the damage is in a high-visibility area, the paint is older than expected, or you only have a small amount of leftover paint, it is worth getting help instead of guessing. That is especially true when the wall has sheen, texture, or fading differences that can make a small repair obvious. A careful assessment can save time and prevent a patchy result.",
+        "@type": "Answer",
+        "description": "If the area is highly visible, the paint is old, or matching is uncertain, DIY often creates more work. In those cases, a professional assessment is usually the safer choice."
+      }
+    }
+  ],
+  "description": "If the area is highly visible, the paint is old, or matching is uncertain, DIY often creates more work. In those cases, a professional assessment is usually the"
 }

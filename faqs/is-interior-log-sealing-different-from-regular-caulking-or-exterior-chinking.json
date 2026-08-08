@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is interior log sealing different from regular caulking or exterior chinking?",
-  "description": "Yes. Log homes need flexible products and methods that handle wood movement, so regular caulking is not always the right answer. Interior sealing and exterior c",
   "url": "http://coloradoremodeling.company/faq/is-interior-log-sealing-different-from-regular-caulking-or-exterior-chinking",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is interior log sealing different from regular caulking or exterior chinking?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior sealing is not the same as exterior chinking or general air sealing in a standard house. Log homes need materials that stay flexible and work with the natural movement of logs, so a log-home specialist is usually the better choice.",
-        "description": "Yes. Log homes need flexible products and methods that handle wood movement, so regular caulking is not always the right answer. Interior sealing and exterior chinking solve related but different problems."
-      }
-    }
-  ],
+  "name": "Is interior log sealing different from regular caulking or exterior chinking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is interior log sealing different from regular caulking or exterior chinking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior sealing is not the same as exterior chinking or general air sealing in a standard house. Log homes need materials that stay flexible and work with the natural movement of logs, so a log-home specialist is usually the better choice.",
+        "@type": "Answer",
+        "description": "Yes. Log homes need flexible products and methods that handle wood movement, so regular caulking is not always the right answer. Interior sealing and exterior chinking solve related but different problems."
+      }
+    }
+  ],
+  "description": "Yes. Log homes need flexible products and methods that handle wood movement, so regular caulking is not always the right answer. Interior sealing and exterior c"
 }

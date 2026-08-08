@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do typical home repairs take to schedule and finish?",
-  "description": "Emergency issues should be handled right away. Simple fixes may be quick, but larger repairs can take longer if parts, permits, or hidden damage are involved.",
   "url": "http://coloradoremodeling.company/faq/how-long-do-typical-home-repairs-take-to-schedule-and-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do typical home repairs take to schedule and finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the repair, but urgent issues like active leaks, electrical problems, or water intrusion should be addressed as soon as possible. Minor fixes may take a short visit, while more involved repairs can take longer if materials must be ordered or hidden damage is found.",
-        "description": "Emergency issues should be handled right away. Simple fixes may be quick, but larger repairs can take longer if parts, permits, or hidden damage are involved."
-      }
-    }
-  ],
+  "name": "How long do typical home repairs take to schedule and finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical home repairs take to schedule and finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the repair, but urgent issues like active leaks, electrical problems, or water intrusion should be addressed as soon as possible. Minor fixes may take a short visit, while more involved repairs can take longer if materials must be ordered or hidden damage is found.",
+        "@type": "Answer",
+        "description": "Emergency issues should be handled right away. Simple fixes may be quick, but larger repairs can take longer if parts, permits, or hidden damage are involved."
+      }
+    }
+  ],
+  "description": "Emergency issues should be handled right away. Simple fixes may be quick, but larger repairs can take longer if parts, permits, or hidden damage are involved."
 }

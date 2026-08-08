@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does doorway widening for accessibility usually cost?",
-  "description": "Price varies based on wall structure, finish repairs, and any permit or inspection work. It is usually more affordable when done alongside other remodeling rath",
   "url": "http://coloradoremodeling.company/faq/how-much-does-doorway-widening-for-accessibility-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does doorway widening for accessibility usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends mostly on whether the wall is load-bearing, how much finish repair is needed, and whether you are changing the door hardware or swing. Homeowners often budget more if the project is part of a larger accessibility remodel, because the setup and finish work can be shared across multiple improvements.",
-        "description": "Price varies based on wall structure, finish repairs, and any permit or inspection work. It is usually more affordable when done alongside other remodeling rather than as a standalone emergency fix."
-      }
-    }
-  ],
+  "name": "How much does doorway widening for accessibility usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does doorway widening for accessibility usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends mostly on whether the wall is load-bearing, how much finish repair is needed, and whether you are changing the door hardware or swing. Homeowners often budget more if the project is part of a larger accessibility remodel, because the setup and finish work can be shared across multiple improvements.",
+        "@type": "Answer",
+        "description": "Price varies based on wall structure, finish repairs, and any permit or inspection work. It is usually more affordable when done alongside other remodeling rather than as a standalone emergency fix."
+      }
+    }
+  ],
+  "description": "Price varies based on wall structure, finish repairs, and any permit or inspection work. It is usually more affordable when done alongside other remodeling rath"
 }

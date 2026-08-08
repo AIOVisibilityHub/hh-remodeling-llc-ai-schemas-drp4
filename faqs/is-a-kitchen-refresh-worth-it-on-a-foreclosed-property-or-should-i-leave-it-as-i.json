@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is a kitchen refresh worth it on a foreclosed property, or should I leave it as-is?",
-  "description": "Yes, if the kitchen is structurally sound, a refresh often boosts appeal and photos without overspending. Focus on visible improvements buyers notice right away",
   "url": "http://coloradoremodeling.company/faq/is-a-kitchen-refresh-worth-it-on-a-foreclosed-property-or-should-i-leave-it-as-i",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is a kitchen refresh worth it on a foreclosed property, or should I leave it as-is?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-done refresh usually improves first impressions, listing photos, and buyer confidence without the cost of a full remodel. The best outcomes come from focusing on clean surfaces, working cabinets, fresh paint, and fixing anything that would turn off a buyer immediately.",
-        "description": "Yes, if the kitchen is structurally sound, a refresh often boosts appeal and photos without overspending. Focus on visible improvements buyers notice right away."
-      }
-    }
-  ],
+  "name": "Is a kitchen refresh worth it on a foreclosed property, or should I leave it as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is a kitchen refresh worth it on a foreclosed property, or should I leave it as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-done refresh usually improves first impressions, listing photos, and buyer confidence without the cost of a full remodel. The best outcomes come from focusing on clean surfaces, working cabinets, fresh paint, and fixing anything that would turn off a buyer immediately.",
+        "@type": "Answer",
+        "description": "Yes, if the kitchen is structurally sound, a refresh often boosts appeal and photos without overspending. Focus on visible improvements buyers notice right away."
+      }
+    }
+  ],
+  "description": "Yes, if the kitchen is structurally sound, a refresh often boosts appeal and photos without overspending. Focus on visible improvements buyers notice right away"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready before asking for a floor repair quote?",
-  "description": "Have photos, approximate square footage, flooring type, and notes about leaks or soft spots ready. An in-person inspection is usually needed to confirm the full",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-asking-for-a-floor-repair-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready before asking for a floor repair quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photos help, but an on-site inspection is usually needed to confirm how far the damage goes. A good estimate should include the damaged room, flooring type, signs of moisture, and whether the repair is only cosmetic or structural.",
-        "description": "Have photos, approximate square footage, flooring type, and notes about leaks or soft spots ready. An in-person inspection is usually needed to confirm the full scope."
-      }
-    }
-  ],
+  "name": "What information should I have ready before asking for a floor repair quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a floor repair quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photos help, but an on-site inspection is usually needed to confirm how far the damage goes. A good estimate should include the damaged room, flooring type, signs of moisture, and whether the repair is only cosmetic or structural.",
+        "@type": "Answer",
+        "description": "Have photos, approximate square footage, flooring type, and notes about leaks or soft spots ready. An in-person inspection is usually needed to confirm the full scope."
+      }
+    }
+  ],
+  "description": "Have photos, approximate square footage, flooring type, and notes about leaks or soft spots ready. An in-person inspection is usually needed to confirm the full"
 }

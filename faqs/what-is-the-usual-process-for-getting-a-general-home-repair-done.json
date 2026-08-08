@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the usual process for getting a general home repair done?",
-  "description": "Expect an inspection, estimate, scheduling, and then the repair. Make sure the area is accessible and ask what materials or permits are needed.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-usual-process-for-getting-a-general-home-repair-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the usual process for getting a general home repair done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most general home repairs start with an inspection of the affected area, then a written estimate, scheduling, and the repair itself. Good planning means clearing access to the work area, confirming what materials are needed, and asking whether permits are required before work begins.",
-        "description": "Expect an inspection, estimate, scheduling, and then the repair. Make sure the area is accessible and ask what materials or permits are needed."
-      }
-    }
-  ],
+  "name": "What is the usual process for getting a general home repair done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the usual process for getting a general home repair done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most general home repairs start with an inspection of the affected area, then a written estimate, scheduling, and the repair itself. Good planning means clearing access to the work area, confirming what materials are needed, and asking whether permits are required before work begins.",
+        "@type": "Answer",
+        "description": "Expect an inspection, estimate, scheduling, and then the repair. Make sure the area is accessible and ask what materials or permits are needed."
+      }
+    }
+  ],
+  "description": "Expect an inspection, estimate, scheduling, and then the repair. Make sure the area is accessible and ask what materials or permits are needed."
 }

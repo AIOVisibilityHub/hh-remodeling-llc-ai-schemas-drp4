@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What photos or proof do I need before I ask for interior wear-and-tear repair?",
-  "description": "Take clear photos, include close-ups and wider shots, and note the size, location, and cause of the damage if you know it.",
   "url": "http://coloradoremodeling.company/faq/what-photos-or-proof-do-i-need-before-i-ask-for-interior-wear-and-tear-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What photos or proof do I need before I ask for interior wear-and-tear repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Photos matter most, along with a clear description of the damage, measurements, and any details about what happened. If the issue involves a rental, lease return, or damage claim, keep dated photos and any repair estimates or invoices together so there is a clean record of what was damaged and how it was handled.",
-        "description": "Take clear photos, include close-ups and wider shots, and note the size, location, and cause of the damage if you know it."
-      }
-    }
-  ],
+  "name": "What photos or proof do I need before I ask for interior wear-and-tear repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What photos or proof do I need before I ask for interior wear-and-tear repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Photos matter most, along with a clear description of the damage, measurements, and any details about what happened. If the issue involves a rental, lease return, or damage claim, keep dated photos and any repair estimates or invoices together so there is a clean record of what was damaged and how it was handled.",
+        "@type": "Answer",
+        "description": "Take clear photos, include close-ups and wider shots, and note the size, location, and cause of the damage if you know it."
+      }
+    }
+  ],
+  "description": "Take clear photos, include close-ups and wider shots, and note the size, location, and cause of the damage if you know it."
 }

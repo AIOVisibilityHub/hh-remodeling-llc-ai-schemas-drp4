@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does doorway widening for accessibility actually work?",
-  "description": "A contractor measures the opening, checks the wall structure, and then reframes the doorway if widening is feasible. The project often includes header changes,",
   "url": "http://coloradoremodeling.company/faq/how-does-doorway-widening-for-accessibility-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does doorway widening for accessibility actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with measuring the existing opening, checking wall structure, and deciding whether the door swing should be changed. If widening is approved, the work can include reframing the opening, adjusting or adding a header, patching drywall, and installing a wider door and trim.",
-        "description": "A contractor measures the opening, checks the wall structure, and then reframes the doorway if widening is feasible. The project often includes header changes, drywall repair, and installing a new door and trim."
-      }
-    }
-  ],
+  "name": "How does doorway widening for accessibility actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does doorway widening for accessibility actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with measuring the existing opening, checking wall structure, and deciding whether the door swing should be changed. If widening is approved, the work can include reframing the opening, adjusting or adding a header, patching drywall, and installing a wider door and trim.",
+        "@type": "Answer",
+        "description": "A contractor measures the opening, checks the wall structure, and then reframes the doorway if widening is feasible. The project often includes header changes, drywall repair, and installing a new door and trim."
+      }
+    }
+  ],
+  "description": "A contractor measures the opening, checks the wall structure, and then reframes the doorway if widening is feasible. The project often includes header changes,"
 }

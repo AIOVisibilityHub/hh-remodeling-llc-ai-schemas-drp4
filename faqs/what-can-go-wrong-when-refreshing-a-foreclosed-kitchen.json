@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when refreshing a foreclosed kitchen?",
-  "description": "Hidden leaks, mold, bad wiring, pests, and unsafe leftovers are the main risks. If you skip inspection or cleanup, small problems can turn into expensive repair",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-refreshing-a-foreclosed-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when refreshing a foreclosed kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are hidden water damage, mold, bad wiring, pest activity, and spoiled food or hazardous materials left in cabinets or appliances. In a foreclosed kitchen, skipping inspection or cleanup can lead to health issues, inspection delays, and repairs that cost more later.",
-        "description": "Hidden leaks, mold, bad wiring, pests, and unsafe leftovers are the main risks. If you skip inspection or cleanup, small problems can turn into expensive repairs."
-      }
-    }
-  ],
+  "name": "What can go wrong when refreshing a foreclosed kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when refreshing a foreclosed kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are hidden water damage, mold, bad wiring, pest activity, and spoiled food or hazardous materials left in cabinets or appliances. In a foreclosed kitchen, skipping inspection or cleanup can lead to health issues, inspection delays, and repairs that cost more later.",
+        "@type": "Answer",
+        "description": "Hidden leaks, mold, bad wiring, pests, and unsafe leftovers are the main risks. If you skip inspection or cleanup, small problems can turn into expensive repairs."
+      }
+    }
+  ],
+  "description": "Hidden leaks, mold, bad wiring, pests, and unsafe leftovers are the main risks. If you skip inspection or cleanup, small problems can turn into expensive repair"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do common handyman repairs usually take?",
-  "description": "Small repairs can take under an hour; multi-step jobs like drywall patching or door repair may take longer if materials or drying time are needed.",
   "url": "http://coloradoremodeling.company/faq/how-long-do-common-handyman-repairs-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do common handyman repairs usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the task. Simple fixes like hardware swaps, caulking, or minor adjustments may take under an hour, while drywall patching, door repair, or multiple punch-list items can take longer if drying time or part matching is involved.",
-        "description": "Small repairs can take under an hour; multi-step jobs like drywall patching or door repair may take longer if materials or drying time are needed."
-      }
-    }
-  ],
+  "name": "How long do common handyman repairs usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do common handyman repairs usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the task. Simple fixes like hardware swaps, caulking, or minor adjustments may take under an hour, while drywall patching, door repair, or multiple punch-list items can take longer if drying time or part matching is involved.",
+        "@type": "Answer",
+        "description": "Small repairs can take under an hour; multi-step jobs like drywall patching or door repair may take longer if materials or drying time are needed."
+      }
+    }
+  ],
+  "description": "Small repairs can take under an hour; multi-step jobs like drywall patching or door repair may take longer if materials or drying time are needed."
 }

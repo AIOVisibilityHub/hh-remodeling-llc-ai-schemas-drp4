@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of cabin interior staining?",
-  "description": "Price depends on the size of the interior, wood condition, prep work, and the finish system used. Repairs, stripping, and extra coats usually increase the total",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-cabin-interior-staining",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of cabin interior staining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by square footage, wood condition, prep level, stain type, and how many surfaces are included. If the wood needs stripping, repairs, or multiple finish coats, the price rises because labor and materials increase.",
-        "description": "Price depends on the size of the interior, wood condition, prep work, and the finish system used. Repairs, stripping, and extra coats usually increase the total cost."
-      }
-    }
-  ],
+  "name": "What affects the cost of cabin interior staining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of cabin interior staining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by square footage, wood condition, prep level, stain type, and how many surfaces are included. If the wood needs stripping, repairs, or multiple finish coats, the price rises because labor and materials increase.",
+        "@type": "Answer",
+        "description": "Price depends on the size of the interior, wood condition, prep work, and the finish system used. Repairs, stripping, and extra coats usually increase the total cost."
+      }
+    }
+  ],
+  "description": "Price depends on the size of the interior, wood condition, prep work, and the finish system used. Repairs, stripping, and extra coats usually increase the total"
 }

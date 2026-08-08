@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is a threshold or ramp adjustment worth it, or can I just use a portable ramp?",
-  "description": "Portable ramps can work for small, temporary needs, but they are not ideal for every doorway. If the entrance is used often or faces snow, uneven concrete, or a",
   "url": "http://coloradoremodeling.company/faq/is-a-threshold-or-ramp-adjustment-worth-it-or-can-i-just-use-a-portable-ramp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is a threshold or ramp adjustment worth it, or can I just use a portable ramp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many people try a portable or low-cost option first, but that only works if the rise is small and the fit is secure. If the doorway sees regular use, the surface is uneven, or the device needs to be used in winter, a custom solution is usually more reliable and easier to live with.",
-        "description": "Portable ramps can work for small, temporary needs, but they are not ideal for every doorway. If the entrance is used often or faces snow, uneven concrete, or a larger rise, a custom solution is usually better."
-      }
-    }
-  ],
+  "name": "Is a threshold or ramp adjustment worth it, or can I just use a portable ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is a threshold or ramp adjustment worth it, or can I just use a portable ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many people try a portable or low-cost option first, but that only works if the rise is small and the fit is secure. If the doorway sees regular use, the surface is uneven, or the device needs to be used in winter, a custom solution is usually more reliable and easier to live with.",
+        "@type": "Answer",
+        "description": "Portable ramps can work for small, temporary needs, but they are not ideal for every doorway. If the entrance is used often or faces snow, uneven concrete, or a larger rise, a custom solution is usually better."
+      }
+    }
+  ],
+  "description": "Portable ramps can work for small, temporary needs, but they are not ideal for every doorway. If the entrance is used often or faces snow, uneven concrete, or a"
 }

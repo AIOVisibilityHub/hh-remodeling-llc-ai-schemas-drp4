@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a kitchen addition cost in the Denver area?",
-  "description": "Kitchen addition costs depend on size, structure, utilities, and finish level, so there is no single price. A line-item estimate is the best way to understand y",
   "url": "http://coloradoremodeling.company/faq/how-much-does-a-kitchen-addition-cost-in-the-denver-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a kitchen addition cost in the Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary widely based on square footage, structural work, finishes, plumbing, electrical, and how much of the existing kitchen must be reworked. Denver-area kitchen expansions are often substantial projects, and larger additions can run much higher than a simple remodel. A detailed line-item estimate is the best way to compare value and avoid surprise costs.",
-        "description": "Kitchen addition costs depend on size, structure, utilities, and finish level, so there is no single price. A line-item estimate is the best way to understand your real budget."
-      }
-    }
-  ],
+  "name": "How much does a kitchen addition cost in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen addition cost in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary widely based on square footage, structural work, finishes, plumbing, electrical, and how much of the existing kitchen must be reworked. Denver-area kitchen expansions are often substantial projects, and larger additions can run much higher than a simple remodel. A detailed line-item estimate is the best way to compare value and avoid surprise costs.",
+        "@type": "Answer",
+        "description": "Kitchen addition costs depend on size, structure, utilities, and finish level, so there is no single price. A line-item estimate is the best way to understand your real budget."
+      }
+    }
+  ],
+  "description": "Kitchen addition costs depend on size, structure, utilities, and finish level, so there is no single price. A line-item estimate is the best way to understand y"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after mobile home floor repair is done?",
-  "description": "The floor should feel solid again and the damaged section should no longer flex or sag. If moisture was the cause, the source must also be fixed or the problem",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-mobile-home-floor-repair-is-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after mobile home floor repair is done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A proper repair should leave the floor feeling solid, level, and free of soft spots, with no signs of ongoing moisture. In many cases, the biggest improvement is not just appearance but restoring safe support under the finished flooring.",
-        "description": "The floor should feel solid again and the damaged section should no longer flex or sag. If moisture was the cause, the source must also be fixed or the problem may return."
-      }
-    }
-  ],
+  "name": "What should I expect after mobile home floor repair is done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after mobile home floor repair is done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A proper repair should leave the floor feeling solid, level, and free of soft spots, with no signs of ongoing moisture. In many cases, the biggest improvement is not just appearance but restoring safe support under the finished flooring.",
+        "@type": "Answer",
+        "description": "The floor should feel solid again and the damaged section should no longer flex or sag. If moisture was the cause, the source must also be fixed or the problem may return."
+      }
+    }
+  ],
+  "description": "The floor should feel solid again and the damaged section should no longer flex or sag. If moisture was the cause, the source must also be fixed or the problem"
 }

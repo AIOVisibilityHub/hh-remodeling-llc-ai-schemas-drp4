@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before getting a flooring quote for a foreclosed property?",
-  "description": "Bring photos, room measurements, and notes about leaks, odors, or visible damage. A site visit is still important because foreclosed homes often have hidden iss",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-flooring-quote-for-a-foreclosed-prop",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before getting a flooring quote for a foreclosed property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most useful evidence is clear photos of every damaged area, notes about odors or leaks, and any known history of water intrusion or vacancy. If you want a reliable quote, a contractor should also see the property in person because foreclosed homes often hide subfloor and moisture problems.",
-        "description": "Bring photos, room measurements, and notes about leaks, odors, or visible damage. A site visit is still important because foreclosed homes often have hidden issues."
-      }
-    }
-  ],
+  "name": "What information do I need before getting a flooring quote for a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before getting a flooring quote for a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful evidence is clear photos of every damaged area, notes about odors or leaks, and any known history of water intrusion or vacancy. If you want a reliable quote, a contractor should also see the property in person because foreclosed homes often hide subfloor and moisture problems.",
+        "@type": "Answer",
+        "description": "Bring photos, room measurements, and notes about leaks, odors, or visible damage. A site visit is still important because foreclosed homes often have hidden issues."
+      }
+    }
+  ],
+  "description": "Bring photos, room measurements, and notes about leaks, odors, or visible damage. A site visit is still important because foreclosed homes often have hidden iss"
 }

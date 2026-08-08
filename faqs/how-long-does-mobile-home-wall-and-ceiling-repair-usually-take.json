@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does mobile home wall and ceiling repair usually take?",
-  "description": "Simple patches may take one visit, while bigger water-damage or texture-match repairs can take longer because of drying and finish work.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-mobile-home-wall-and-ceiling-repair-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does mobile home wall and ceiling repair usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a basic patch, repairs can often be completed in a single visit once materials are on hand. Larger jobs, leak-related damage, or texture matching may take longer because drying time, cleanup, and finish work all add steps.",
-        "description": "Simple patches may take one visit, while bigger water-damage or texture-match repairs can take longer because of drying and finish work."
-      }
-    }
-  ],
+  "name": "How long does mobile home wall and ceiling repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does mobile home wall and ceiling repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a basic patch, repairs can often be completed in a single visit once materials are on hand. Larger jobs, leak-related damage, or texture matching may take longer because drying time, cleanup, and finish work all add steps.",
+        "@type": "Answer",
+        "description": "Simple patches may take one visit, while bigger water-damage or texture-match repairs can take longer because of drying and finish work."
+      }
+    }
+  ],
+  "description": "Simple patches may take one visit, while bigger water-damage or texture-match repairs can take longer because of drying and finish work."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if a foreclosed property is painted too fast?",
-  "description": "If prep is rushed, paint can peel, stain can bleed through, and hidden damage may show up after the job is done.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-a-foreclosed-property-is-painted-too-fast",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if a foreclosed property is painted too fast?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risk is painting over problems instead of fixing them first, which can lead to peeling, stains bleeding through, and poor adhesion. A careful contractor should check for moisture, damaged drywall, and surface contamination before applying primer or finish coats.",
-        "description": "If prep is rushed, paint can peel, stain can bleed through, and hidden damage may show up after the job is done."
-      }
-    }
-  ],
+  "name": "What can go wrong if a foreclosed property is painted too fast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if a foreclosed property is painted too fast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risk is painting over problems instead of fixing them first, which can lead to peeling, stains bleeding through, and poor adhesion. A careful contractor should check for moisture, damaged drywall, and surface contamination before applying primer or finish coats.",
+        "@type": "Answer",
+        "description": "If prep is rushed, paint can peel, stain can bleed through, and hidden damage may show up after the job is done."
+      }
+    }
+  ],
+  "description": "If prep is rushed, paint can peel, stain can bleed through, and hidden damage may show up after the job is done."
 }

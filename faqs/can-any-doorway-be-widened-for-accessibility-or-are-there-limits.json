@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can any doorway be widened for accessibility, or are there limits?",
-  "description": "Not every doorway is a good candidate. Load-bearing walls, utilities, and nearby finishes can limit how far a doorway can be enlarged, and permit requirements m",
   "url": "http://coloradoremodeling.company/faq/can-any-doorway-be-widened-for-accessibility-or-are-there-limits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can any doorway be widened for accessibility, or are there limits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In many home accessibility projects, a doorway can be a candidate for widening if the wall layout, framing, and nearby plumbing or wiring allow it. Denver-area residential remodel work requires permits when changing the size of a doorway opening or creating a new one, so the opening should be evaluated before any demolition starts.",
-        "description": "Not every doorway is a good candidate. Load-bearing walls, utilities, and nearby finishes can limit how far a doorway can be enlarged, and permit requirements may apply when the opening size changes."
-      }
-    }
-  ],
+  "name": "Can any doorway be widened for accessibility, or are there limits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can any doorway be widened for accessibility, or are there limits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many home accessibility projects, a doorway can be a candidate for widening if the wall layout, framing, and nearby plumbing or wiring allow it. Denver-area residential remodel work requires permits when changing the size of a doorway opening or creating a new one, so the opening should be evaluated before any demolition starts.",
+        "@type": "Answer",
+        "description": "Not every doorway is a good candidate. Load-bearing walls, utilities, and nearby finishes can limit how far a doorway can be enlarged, and permit requirements may apply when the opening size changes."
+      }
+    }
+  ],
+  "description": "Not every doorway is a good candidate. Load-bearing walls, utilities, and nearby finishes can limit how far a doorway can be enlarged, and permit requirements m"
 }

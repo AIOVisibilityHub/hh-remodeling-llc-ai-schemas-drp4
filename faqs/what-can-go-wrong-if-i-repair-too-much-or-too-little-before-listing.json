@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if I repair too much or too little before listing?",
-  "description": "Too much repair can waste money, while too little can scare off buyers or tenants. The safest approach is targeted work focused on visible, functional, and insp",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-repair-too-much-or-too-little-before-listing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if I repair too much or too little before listing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is over-repairing and spending money on improvements that do not raise the sale price or rental value enough to justify the cost. Another risk is leaving visible damage unresolved, which can hurt showings, inspections, or move-in speed.",
-        "description": "Too much repair can waste money, while too little can scare off buyers or tenants. The safest approach is targeted work focused on visible, functional, and inspection-related problems."
-      }
-    }
-  ],
+  "name": "What can go wrong if I repair too much or too little before listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I repair too much or too little before listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is over-repairing and spending money on improvements that do not raise the sale price or rental value enough to justify the cost. Another risk is leaving visible damage unresolved, which can hurt showings, inspections, or move-in speed.",
+        "@type": "Answer",
+        "description": "Too much repair can waste money, while too little can scare off buyers or tenants. The safest approach is targeted work focused on visible, functional, and inspection-related problems."
+      }
+    }
+  ],
+  "description": "Too much repair can waste money, while too little can scare off buyers or tenants. The safest approach is targeted work focused on visible, functional, and insp"
 }

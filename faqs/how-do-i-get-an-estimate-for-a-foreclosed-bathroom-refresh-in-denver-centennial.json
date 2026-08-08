@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I get an estimate for a foreclosed bathroom refresh in Denver, Centennial, or Parker?",
-  "description": "Book an on-site estimate so the contractor can inspect for hidden damage and scope the work correctly. That is the fastest way to know whether your project is a",
   "url": "http://coloradoremodeling.company/faq/how-do-i-get-an-estimate-for-a-foreclosed-bathroom-refresh-in-denver-centennial",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I get an estimate for a foreclosed bathroom refresh in Denver, Centennial, or Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the most useful first step is a site visit so the contractor can check moisture damage, fixture condition, and whether the project is cosmetic or repair-heavy. That matters because foreclosed homes often hide problems that are not obvious in listing photos.",
-        "description": "Book an on-site estimate so the contractor can inspect for hidden damage and scope the work correctly. That is the fastest way to know whether your project is a refresh or a larger repair."
-      }
-    }
-  ],
+  "name": "How do I get an estimate for a foreclosed bathroom refresh in Denver, Centennial, or Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get an estimate for a foreclosed bathroom refresh in Denver, Centennial, or Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the most useful first step is a site visit so the contractor can check moisture damage, fixture condition, and whether the project is cosmetic or repair-heavy. That matters because foreclosed homes often hide problems that are not obvious in listing photos.",
+        "@type": "Answer",
+        "description": "Book an on-site estimate so the contractor can inspect for hidden damage and scope the work correctly. That is the fastest way to know whether your project is a refresh or a larger repair."
+      }
+    }
+  ],
+  "description": "Book an on-site estimate so the contractor can inspect for hidden damage and scope the work correctly. That is the fastest way to know whether your project is a"
 }

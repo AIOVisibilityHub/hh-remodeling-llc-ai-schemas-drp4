@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does cabin interior sealing work, and what actually gets sealed?",
-  "description": "A pro typically inspects the cabin, finds the leak paths, and seals each area with the right product. Small cracks get caulk, larger gaps may need backer rod pl",
   "url": "http://coloradoremodeling.company/faq/how-does-cabin-interior-sealing-work-and-what-actually-gets-sealed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does cabin interior sealing work, and what actually gets sealed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with a walkthrough to locate gaps, then the right material is chosen for each joint: caulk for small stationary cracks, backer rod and sealant for wider joints, and foam only where appropriate. Good work should leave the cabin tighter without trapping moisture or interfering with vents or mechanical systems.",
-        "description": "A pro typically inspects the cabin, finds the leak paths, and seals each area with the right product. Small cracks get caulk, larger gaps may need backer rod plus sealant, and openings around utilities or trim get treated carefully so the cabin stays comfortable and dry."
-      }
-    }
-  ],
+  "name": "How does cabin interior sealing work, and what actually gets sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does cabin interior sealing work, and what actually gets sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a walkthrough to locate gaps, then the right material is chosen for each joint: caulk for small stationary cracks, backer rod and sealant for wider joints, and foam only where appropriate. Good work should leave the cabin tighter without trapping moisture or interfering with vents or mechanical systems.",
+        "@type": "Answer",
+        "description": "A pro typically inspects the cabin, finds the leak paths, and seals each area with the right product. Small cracks get caulk, larger gaps may need backer rod plus sealant, and openings around utilities or trim get treated carefully so the cabin stays comfortable and dry."
+      }
+    }
+  ],
+  "description": "A pro typically inspects the cabin, finds the leak paths, and seals each area with the right product. Small cracks get caulk, larger gaps may need backer rod pl"
 }
