@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can trim and molding be installed in any basement, or are there spaces that need extra prep?",
-  "description": "Most basements can take trim, but uneven floors, moisture, and unfinished walls often need prep first. The installer should inspect the space before promising a",
   "url": "http://coloradoremodeling.company/faq/can-trim-and-molding-be-installed-in-any-basement-or-are-there-spaces-that-need",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can trim and molding be installed in any basement, or are there spaces that need extra prep?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most basement trim jobs are straightforward, but installation can get tricky around uneven slabs, warped framing, HVAC returns, and tight corners. If your basement is unfinished or partly finished, it may also need extra prep before trim can sit flush and look clean.",
-        "description": "Most basements can take trim, but uneven floors, moisture, and unfinished walls often need prep first. The installer should inspect the space before promising a finished look."
-      }
-    }
-  ],
+  "name": "Can trim and molding be installed in any basement, or are there spaces that need extra prep?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can trim and molding be installed in any basement, or are there spaces that need extra prep?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most basement trim jobs are straightforward, but installation can get tricky around uneven slabs, warped framing, HVAC returns, and tight corners. If your basement is unfinished or partly finished, it may also need extra prep before trim can sit flush and look clean.",
+        "@type": "Answer",
+        "description": "Most basements can take trim, but uneven floors, moisture, and unfinished walls often need prep first. The installer should inspect the space before promising a finished look."
+      }
+    }
+  ],
+  "description": "Most basements can take trim, but uneven floors, moisture, and unfinished walls often need prep first. The installer should inspect the space before promising a"
 }

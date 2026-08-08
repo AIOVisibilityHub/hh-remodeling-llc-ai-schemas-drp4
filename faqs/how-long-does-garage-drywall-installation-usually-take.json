@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does garage drywall installation usually take?",
-  "description": "Most garage drywall jobs take 1–3 days, but finishing and drying time can stretch that longer. Removal of damaged drywall or extra detailing can add more time.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-garage-drywall-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does garage drywall installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a typical garage, the timeline is often **one to three days**, depending on size, finish level, and whether old material must be removed first. Drying time between coats of compound can extend the project if a smoother finish is requested.",
-        "description": "Most garage drywall jobs take 1–3 days, but finishing and drying time can stretch that longer. Removal of damaged drywall or extra detailing can add more time."
-      }
-    }
-  ],
+  "name": "How long does garage drywall installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage drywall installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a typical garage, the timeline is often **one to three days**, depending on size, finish level, and whether old material must be removed first. Drying time between coats of compound can extend the project if a smoother finish is requested.",
+        "@type": "Answer",
+        "description": "Most garage drywall jobs take 1–3 days, but finishing and drying time can stretch that longer. Removal of damaged drywall or extra detailing can add more time."
+      }
+    }
+  ],
+  "description": "Most garage drywall jobs take 1–3 days, but finishing and drying time can stretch that longer. Removal of damaged drywall or extra detailing can add more time."
 }

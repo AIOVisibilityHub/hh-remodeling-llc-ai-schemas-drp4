@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between structural wall framing and regular wall framing?",
-  "description": "Structural framing carries loads and usually needs more design, permits, and inspection than a regular partition wall. The right comparison is not just price, b",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-structural-wall-framing-and-regular-wall-framing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between structural wall framing and regular wall framing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compared with non-structural partition framing, structural wall framing usually needs more planning, more precise sizing, and often permit or engineering review. If the wall carries load or adds bracing, do not compare it only on labor price; compare the proposed layout, materials, and approval steps instead.",
-        "description": "Structural framing carries loads and usually needs more design, permits, and inspection than a regular partition wall. The right comparison is not just price, but safety and code compliance."
-      }
-    }
-  ],
+  "name": "What is the difference between structural wall framing and regular wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between structural wall framing and regular wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compared with non-structural partition framing, structural wall framing usually needs more planning, more precise sizing, and often permit or engineering review. If the wall carries load or adds bracing, do not compare it only on labor price; compare the proposed layout, materials, and approval steps instead.",
+        "@type": "Answer",
+        "description": "Structural framing carries loads and usually needs more design, permits, and inspection than a regular partition wall. The right comparison is not just price, but safety and code compliance."
+      }
+    }
+  ],
+  "description": "Structural framing carries loads and usually needs more design, permits, and inspection than a regular partition wall. The right comparison is not just price, b"
 }

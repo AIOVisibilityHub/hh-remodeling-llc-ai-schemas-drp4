@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I should repair my garage door or just replace it?",
-  "description": "Replace it when the door is badly damaged, inefficient, or repeatedly failing. If multiple parts are worn out, a full upgrade usually makes more sense than patc",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-i-should-repair-my-garage-door-or-just-replace-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I should repair my garage door or just replace it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your door is sagging, noisy, dented, hard to open, or losing a lot of heat, replacement is often the better value than repeated repairs. A newer insulated door can improve comfort in attached garages and reduce drafts, especially in Colorado weather. If the springs, tracks, and panels are all failing, upgrading the whole system is usually the more practical fix.",
-        "description": "Replace it when the door is badly damaged, inefficient, or repeatedly failing. If multiple parts are worn out, a full upgrade usually makes more sense than patching it."
-      }
-    }
-  ],
+  "name": "How do I know if I should repair my garage door or just replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I should repair my garage door or just replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your door is sagging, noisy, dented, hard to open, or losing a lot of heat, replacement is often the better value than repeated repairs. A newer insulated door can improve comfort in attached garages and reduce drafts, especially in Colorado weather. If the springs, tracks, and panels are all failing, upgrading the whole system is usually the more practical fix.",
+        "@type": "Answer",
+        "description": "Replace it when the door is badly damaged, inefficient, or repeatedly failing. If multiple parts are worn out, a full upgrade usually makes more sense than patching it."
+      }
+    }
+  ],
+  "description": "Replace it when the door is badly damaged, inefficient, or repeatedly failing. If multiple parts are worn out, a full upgrade usually makes more sense than patc"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does crown molding installation cost near Denver?",
-  "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-crown-molding-installation-cost-near-denver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does crown molding installation cost near Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest cost drivers are the material you choose, the total linear footage, room height, corner complexity, and how much prep or finishing is needed. Denver-area pricing varies widely, but homeowners commonly see projects range from a few hundred dollars for small simple rooms to several thousand dollars for larger or more detailed installs.",
-        "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more."
-      }
-    }
-  ],
+  "name": "How much does crown molding installation cost near Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does crown molding installation cost near Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest cost drivers are the material you choose, the total linear footage, room height, corner complexity, and how much prep or finishing is needed. Denver-area pricing varies widely, but homeowners commonly see projects range from a few hundred dollars for small simple rooms to several thousand dollars for larger or more detailed installs.",
+        "@type": "Answer",
+        "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more."
+      }
+    }
+  ],
+  "description": "Cost depends on material, room size, and complexity; simple projects can be a few hundred dollars, while larger jobs cost more."
 }

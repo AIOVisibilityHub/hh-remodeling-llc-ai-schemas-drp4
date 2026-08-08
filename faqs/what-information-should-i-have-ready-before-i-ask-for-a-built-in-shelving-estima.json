@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready before I ask for a built-in shelving estimate?",
-  "description": "Have room measurements, photos, and a few style examples ready before requesting an estimate.",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-i-ask-for-a-built-in-shelving-estima",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready before I ask for a built-in shelving estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most useful evidence is clear photos, room measurements, and a basic idea of what you want the shelves to store. If you already have inspiration images, include those too, because style and finish can change the scope a lot. For homes in places like Denver or Parker, photos of the wall, baseboards, outlets, and nearby furniture help reduce surprises.",
-        "description": "Have room measurements, photos, and a few style examples ready before requesting an estimate."
-      }
-    }
-  ],
+  "name": "What information should I have ready before I ask for a built-in shelving estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before I ask for a built-in shelving estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful evidence is clear photos, room measurements, and a basic idea of what you want the shelves to store. If you already have inspiration images, include those too, because style and finish can change the scope a lot. For homes in places like Denver or Parker, photos of the wall, baseboards, outlets, and nearby furniture help reduce surprises.",
+        "@type": "Answer",
+        "description": "Have room measurements, photos, and a few style examples ready before requesting an estimate."
+      }
+    }
+  ],
+  "description": "Have room measurements, photos, and a few style examples ready before requesting an estimate."
 }

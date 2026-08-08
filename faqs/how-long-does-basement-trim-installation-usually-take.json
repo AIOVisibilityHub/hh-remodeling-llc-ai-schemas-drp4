@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does basement trim installation usually take?",
-  "description": "Simple jobs can be done fast, but custom trim or prep work adds time. Removal, repairs, caulking, and finish work are the biggest schedule factors.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-basement-trim-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does basement trim installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical project can move quickly once measurements are final, but timing depends on room size, trim complexity, and whether painting or stain work is included. If the basement needs wall repairs, leveling, or removal of old trim, expect the schedule to stretch.",
-        "description": "Simple jobs can be done fast, but custom trim or prep work adds time. Removal, repairs, caulking, and finish work are the biggest schedule factors."
-      }
-    }
-  ],
+  "name": "How long does basement trim installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement trim installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical project can move quickly once measurements are final, but timing depends on room size, trim complexity, and whether painting or stain work is included. If the basement needs wall repairs, leveling, or removal of old trim, expect the schedule to stretch.",
+        "@type": "Answer",
+        "description": "Simple jobs can be done fast, but custom trim or prep work adds time. Removal, repairs, caulking, and finish work are the biggest schedule factors."
+      }
+    }
+  ],
+  "description": "Simple jobs can be done fast, but custom trim or prep work adds time. Removal, repairs, caulking, and finish work are the biggest schedule factors."
 }

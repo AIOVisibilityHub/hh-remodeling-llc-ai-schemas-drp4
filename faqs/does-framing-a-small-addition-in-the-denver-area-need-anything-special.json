@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does framing a small addition in the Denver area need anything special?",
-  "description": "Yes. Local homes, site access, and tie-in details can affect framing in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Tight lots and inspection t",
   "url": "http://coloradoremodeling.company/faq/does-framing-a-small-addition-in-the-denver-area-need-anything-special",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does framing a small addition in the Denver area need anything special?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you’re in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the main local issue is that framing has to fit the existing home, local site conditions, and the way the addition connects to nearby structures. That matters even more in tighter lots or neighborhoods where access, staging, and inspection timing can affect the job.",
-        "description": "Yes. Local homes, site access, and tie-in details can affect framing in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Tight lots and inspection timing can add complexity."
-      }
-    }
-  ],
+  "name": "Does framing a small addition in the Denver area need anything special?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does framing a small addition in the Denver area need anything special?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the main local issue is that framing has to fit the existing home, local site conditions, and the way the addition connects to nearby structures. That matters even more in tighter lots or neighborhoods where access, staging, and inspection timing can affect the job.",
+        "@type": "Answer",
+        "description": "Yes. Local homes, site access, and tie-in details can affect framing in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Tight lots and inspection timing can add complexity."
+      }
+    }
+  ],
+  "description": "Yes. Local homes, site access, and tie-in details can affect framing in Denver, Centennial, Greenwood Village, Foxfield, and Parker. Tight lots and inspection t"
 }

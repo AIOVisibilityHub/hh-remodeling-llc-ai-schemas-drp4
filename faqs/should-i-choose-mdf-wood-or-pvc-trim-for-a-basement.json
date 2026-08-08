@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose MDF, wood, or PVC trim for a basement?",
-  "description": "MDF is usually the budget option, while wood and PVC are better for durability or moisture concerns. The right choice depends on how dry the basement stays and",
   "url": "http://coloradoremodeling.company/faq/should-i-choose-mdf-wood-or-pvc-trim-for-a-basement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose MDF, wood, or PVC trim for a basement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best material depends on moisture exposure, budget, and the look you want. MDF is often budget-friendly for dry basements, while wood or PVC can be better if you want more durability or if the basement has humidity concerns.",
-        "description": "MDF is usually the budget option, while wood and PVC are better for durability or moisture concerns. The right choice depends on how dry the basement stays and the finish you want."
-      }
-    }
-  ],
+  "name": "Should I choose MDF, wood, or PVC trim for a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose MDF, wood, or PVC trim for a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best material depends on moisture exposure, budget, and the look you want. MDF is often budget-friendly for dry basements, while wood or PVC can be better if you want more durability or if the basement has humidity concerns.",
+        "@type": "Answer",
+        "description": "MDF is usually the budget option, while wood and PVC are better for durability or moisture concerns. The right choice depends on how dry the basement stays and the finish you want."
+      }
+    }
+  ],
+  "description": "MDF is usually the budget option, while wood and PVC are better for durability or moisture concerns. The right choice depends on how dry the basement stays and"
 }

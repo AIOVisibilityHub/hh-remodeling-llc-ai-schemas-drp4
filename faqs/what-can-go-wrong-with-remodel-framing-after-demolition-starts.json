@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with remodel framing after demolition starts?",
-  "description": "Common problems include hidden damage, structural surprises, and framing that does not line up with plumbing or electrical work. Older homes often uncover issue",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-remodel-framing-after-demolition-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with remodel framing after demolition starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are hidden structural issues, out-of-square walls, and framing that conflicts with other trades or inspection requirements. In remodels, older homes can also reveal damage or previous DIY work that adds time and cost once walls are opened.",
-        "description": "Common problems include hidden damage, structural surprises, and framing that does not line up with plumbing or electrical work. Older homes often uncover issues once the walls are opened."
-      }
-    }
-  ],
+  "name": "What can go wrong with remodel framing after demolition starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with remodel framing after demolition starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are hidden structural issues, out-of-square walls, and framing that conflicts with other trades or inspection requirements. In remodels, older homes can also reveal damage or previous DIY work that adds time and cost once walls are opened.",
+        "@type": "Answer",
+        "description": "Common problems include hidden damage, structural surprises, and framing that does not line up with plumbing or electrical work. Older homes often uncover issues once the walls are opened."
+      }
+    }
+  ],
+  "description": "Common problems include hidden damage, structural surprises, and framing that does not line up with plumbing or electrical work. Older homes often uncover issue"
 }

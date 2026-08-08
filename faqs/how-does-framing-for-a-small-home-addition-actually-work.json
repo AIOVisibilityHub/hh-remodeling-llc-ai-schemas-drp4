@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does framing for a small home addition actually work?",
-  "description": "Framing comes after site prep and foundation work. The crew builds the floor, walls, and roof structure, then ties the new framing into the existing home.",
   "url": "http://coloradoremodeling.company/faq/how-does-framing-for-a-small-home-addition-actually-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does framing for a small home addition actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing usually starts after site prep and foundation work are complete. The crew builds the floor system, walls, and roof structure, then checks alignment and connection points so the new framing matches the existing house.",
-        "description": "Framing comes after site prep and foundation work. The crew builds the floor, walls, and roof structure, then ties the new framing into the existing home."
-      }
-    }
-  ],
+  "name": "How does framing for a small home addition actually work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does framing for a small home addition actually work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing usually starts after site prep and foundation work are complete. The crew builds the floor system, walls, and roof structure, then checks alignment and connection points so the new framing matches the existing house.",
+        "@type": "Answer",
+        "description": "Framing comes after site prep and foundation work. The crew builds the floor, walls, and roof structure, then ties the new framing into the existing home."
+      }
+    }
+  ],
+  "description": "Framing comes after site prep and foundation work. The crew builds the floor, walls, and roof structure, then ties the new framing into the existing home."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first before framing a small addition?",
-  "description": "First get a structural review and define the addition size, roof tie-in, foundation needs, and any load-bearing changes. That gives the framer a clear plan and",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-framing-a-small-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first before framing a small addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with a structural review of the existing house, then confirm the addition’s size, roof tie-in, foundation needs, and whether any load-bearing walls will change. For small additions in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the framing plan should be coordinated with the rest of the build so the new space ties cleanly into the old structure.",
-        "description": "First get a structural review and define the addition size, roof tie-in, foundation needs, and any load-bearing changes. That gives the framer a clear plan and helps avoid expensive rework."
-      }
-    }
-  ],
+  "name": "What should I do first before framing a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before framing a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a structural review of the existing house, then confirm the addition’s size, roof tie-in, foundation needs, and whether any load-bearing walls will change. For small additions in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the framing plan should be coordinated with the rest of the build so the new space ties cleanly into the old structure.",
+        "@type": "Answer",
+        "description": "First get a structural review and define the addition size, roof tie-in, foundation needs, and any load-bearing changes. That gives the framer a clear plan and helps avoid expensive rework."
+      }
+    }
+  ],
+  "description": "First get a structural review and define the addition size, roof tie-in, foundation needs, and any load-bearing changes. That gives the framer a clear plan and"
 }

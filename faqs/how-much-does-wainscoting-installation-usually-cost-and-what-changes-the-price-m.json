@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does wainscoting installation usually cost, and what changes the price most?",
-  "description": "Price usually depends on room size, materials, prep work, and how detailed the trim is. Simple projects cost less; custom designs and wall repairs cost more.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-wainscoting-installation-usually-cost-and-what-changes-the-price-m",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does wainscoting installation usually cost, and what changes the price most?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost is driven by material choice, wall prep, trim complexity, and total square footage or linear footage. More detailed styles, taller wainscoting, and repairs for damaged walls will increase the price, while simpler panel styles are usually more budget-friendly.",
-        "description": "Price usually depends on room size, materials, prep work, and how detailed the trim is. Simple projects cost less; custom designs and wall repairs cost more."
-      }
-    }
-  ],
+  "name": "How much does wainscoting installation usually cost, and what changes the price most?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does wainscoting installation usually cost, and what changes the price most?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost is driven by material choice, wall prep, trim complexity, and total square footage or linear footage. More detailed styles, taller wainscoting, and repairs for damaged walls will increase the price, while simpler panel styles are usually more budget-friendly.",
+        "@type": "Answer",
+        "description": "Price usually depends on room size, materials, prep work, and how detailed the trim is. Simple projects cost less; custom designs and wall repairs cost more."
+      }
+    }
+  ],
+  "description": "Price usually depends on room size, materials, prep work, and how detailed the trim is. Simple projects cost less; custom designs and wall repairs cost more."
 }

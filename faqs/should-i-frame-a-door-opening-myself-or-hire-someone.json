@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I frame a door opening myself or hire someone?",
-  "description": "DIY can work for simple jobs, but professional framing is the safer choice when the opening is structural or needs exact measurements.",
   "url": "http://coloradoremodeling.company/faq/should-i-frame-a-door-opening-myself-or-hire-someone",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I frame a door opening myself or hire someone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing DIY and professional framing, the key difference is risk: DIY may work for non-structural projects, but professionals are better for load-bearing walls, precise rough openings, and permit-sensitive remodels. In Denver and nearby areas like Centennial, Greenwood Village, Foxfield, and Parker, professional help is especially useful when the opening size is changing or the wall support is uncertain.",
-        "description": "DIY can work for simple jobs, but professional framing is the safer choice when the opening is structural or needs exact measurements."
-      }
-    }
-  ],
+  "name": "Should I frame a door opening myself or hire someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I frame a door opening myself or hire someone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing DIY and professional framing, the key difference is risk: DIY may work for non-structural projects, but professionals are better for load-bearing walls, precise rough openings, and permit-sensitive remodels. In Denver and nearby areas like Centennial, Greenwood Village, Foxfield, and Parker, professional help is especially useful when the opening size is changing or the wall support is uncertain.",
+        "@type": "Answer",
+        "description": "DIY can work for simple jobs, but professional framing is the safer choice when the opening is structural or needs exact measurements."
+      }
+    }
+  ],
+  "description": "DIY can work for simple jobs, but professional framing is the safer choice when the opening is structural or needs exact measurements."
 }

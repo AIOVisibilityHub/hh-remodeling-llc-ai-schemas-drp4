@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if the door casing was installed correctly?",
-  "description": "Good casing looks even, has tight joints, and covers the gap cleanly. You should not see big gaps, crooked lines, loose trim, or obvious nail damage.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-the-door-casing-was-installed-correctly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if the door casing was installed correctly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-installed casing should look straight, sit evenly against the wall, and leave consistent reveals around the door. It should also cover the gap cleanly, with tight joints and no visible nail pops, splitting, or large caulk lines.",
-        "description": "Good casing looks even, has tight joints, and covers the gap cleanly. You should not see big gaps, crooked lines, loose trim, or obvious nail damage."
-      }
-    }
-  ],
+  "name": "How do I know if the door casing was installed correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the door casing was installed correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-installed casing should look straight, sit evenly against the wall, and leave consistent reveals around the door. It should also cover the gap cleanly, with tight joints and no visible nail pops, splitting, or large caulk lines.",
+        "@type": "Answer",
+        "description": "Good casing looks even, has tight joints, and covers the gap cleanly. You should not see big gaps, crooked lines, loose trim, or obvious nail damage."
+      }
+    }
+  ],
+  "description": "Good casing looks even, has tight joints, and covers the gap cleanly. You should not see big gaps, crooked lines, loose trim, or obvious nail damage."
 }

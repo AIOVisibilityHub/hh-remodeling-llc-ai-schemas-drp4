@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to get structural wall framing checked before removing or changing a wall?",
-  "description": "If the wall may be load-bearing or part of a remodel, get it checked first. Structural changes usually need design review, permits, and inspections before work",
   "url": "http://coloradoremodeling.company/faq/do-i-need-to-get-structural-wall-framing-checked-before-removing-or-changing-a-w",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to get structural wall framing checked before removing or changing a wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—if the wall is load-bearing, damaged, or part of a structural remodel, it should be reviewed before anyone starts cutting studs or removing finishes. In the Denver area, structural changes typically move through permit and inspection steps, and more complex work may need stamped drawings from a licensed engineer or architect.",
-        "description": "If the wall may be load-bearing or part of a remodel, get it checked first. Structural changes usually need design review, permits, and inspections before work starts."
-      }
-    }
-  ],
+  "name": "Do I need to get structural wall framing checked before removing or changing a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get structural wall framing checked before removing or changing a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—if the wall is load-bearing, damaged, or part of a structural remodel, it should be reviewed before anyone starts cutting studs or removing finishes. In the Denver area, structural changes typically move through permit and inspection steps, and more complex work may need stamped drawings from a licensed engineer or architect.",
+        "@type": "Answer",
+        "description": "If the wall may be load-bearing or part of a remodel, get it checked first. Structural changes usually need design review, permits, and inspections before work starts."
+      }
+    }
+  ],
+  "description": "If the wall may be load-bearing or part of a remodel, get it checked first. Structural changes usually need design review, permits, and inspections before work"
 }

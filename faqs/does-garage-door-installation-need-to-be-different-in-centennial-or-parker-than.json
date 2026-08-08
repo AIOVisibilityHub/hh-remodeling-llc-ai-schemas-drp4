@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does garage door installation need to be different in Centennial or Parker than in Denver?",
-  "description": "Yes. Local weather, hail risk, and older openings can change the best door choice and the final installation scope.",
   "url": "http://coloradoremodeling.company/faq/does-garage-door-installation-need-to-be-different-in-centennial-or-parker-than",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does garage door installation need to be different in Centennial or Parker than in Denver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For homes in Centennial, Greenwood Village, and Parker, local factors like hail exposure, winter drafts, and garage insulation needs can affect which door is the best fit. Attached garages usually benefit most from insulated doors and stronger hardware. If your neighborhood has older framing or a nonstandard opening, local measurements matter more than online pricing guides.",
-        "description": "Yes. Local weather, hail risk, and older openings can change the best door choice and the final installation scope."
-      }
-    }
-  ],
+  "name": "Does garage door installation need to be different in Centennial or Parker than in Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does garage door installation need to be different in Centennial or Parker than in Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homes in Centennial, Greenwood Village, and Parker, local factors like hail exposure, winter drafts, and garage insulation needs can affect which door is the best fit. Attached garages usually benefit most from insulated doors and stronger hardware. If your neighborhood has older framing or a nonstandard opening, local measurements matter more than online pricing guides.",
+        "@type": "Answer",
+        "description": "Yes. Local weather, hail risk, and older openings can change the best door choice and the final installation scope."
+      }
+    }
+  ],
+  "description": "Yes. Local weather, hail risk, and older openings can change the best door choice and the final installation scope."
 }

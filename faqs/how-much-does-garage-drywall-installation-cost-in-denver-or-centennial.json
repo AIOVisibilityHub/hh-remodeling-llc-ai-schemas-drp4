@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does garage drywall installation cost in Denver or Centennial?",
-  "description": "Cost depends on garage size, finish level, and whether fire-rated drywall or tear-out is needed. Smaller jobs may be in the low thousands, while larger or more",
   "url": "http://coloradoremodeling.company/faq/how-much-does-garage-drywall-installation-cost-in-denver-or-centennial",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does garage drywall installation cost in Denver or Centennial?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pricing usually depends on square footage, finish quality, ceiling height, and whether the job includes fire-rated board, demolition, or texture matching. In Denver-area markets, smaller projects may land in the low thousands, while larger or more detailed garages cost more.",
-        "description": "Cost depends on garage size, finish level, and whether fire-rated drywall or tear-out is needed. Smaller jobs may be in the low thousands, while larger or more finished garages cost more."
-      }
-    }
-  ],
+  "name": "How much does garage drywall installation cost in Denver or Centennial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does garage drywall installation cost in Denver or Centennial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing usually depends on square footage, finish quality, ceiling height, and whether the job includes fire-rated board, demolition, or texture matching. In Denver-area markets, smaller projects may land in the low thousands, while larger or more detailed garages cost more.",
+        "@type": "Answer",
+        "description": "Cost depends on garage size, finish level, and whether fire-rated drywall or tear-out is needed. Smaller jobs may be in the low thousands, while larger or more finished garages cost more."
+      }
+    }
+  ],
+  "description": "Cost depends on garage size, finish level, and whether fire-rated drywall or tear-out is needed. Smaller jobs may be in the low thousands, while larger or more"
 }

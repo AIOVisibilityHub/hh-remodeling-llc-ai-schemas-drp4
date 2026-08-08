@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does garage wall framing usually take?",
-  "description": "Simple garage wall framing may take a few days, but permitting, structural repairs, and add-ons like door openings can stretch the timeline.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-garage-wall-framing-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does garage wall framing usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on whether you are framing one wall, a full garage interior, or a detached structure, but many standard garage wall framing jobs can be completed in a few days once materials are on site. Delays usually come from permitting, structural changes, or waiting on other work like foundation repair or overhead door installation.",
-        "description": "Simple garage wall framing may take a few days, but permitting, structural repairs, and add-ons like door openings can stretch the timeline."
-      }
-    }
-  ],
+  "name": "How long does garage wall framing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage wall framing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on whether you are framing one wall, a full garage interior, or a detached structure, but many standard garage wall framing jobs can be completed in a few days once materials are on site. Delays usually come from permitting, structural changes, or waiting on other work like foundation repair or overhead door installation.",
+        "@type": "Answer",
+        "description": "Simple garage wall framing may take a few days, but permitting, structural repairs, and add-ons like door openings can stretch the timeline."
+      }
+    }
+  ],
+  "description": "Simple garage wall framing may take a few days, but permitting, structural repairs, and add-ons like door openings can stretch the timeline."
 }

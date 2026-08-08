@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before getting a custom trim quote?",
-  "description": "Have measurements, photos, trim style ideas, and notes about damage or repairs ready. For custom or damaged areas, an on-site look is usually needed for an accu",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-custom-trim-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before getting a custom trim quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should expect a contractor to confirm measurements, trim style, material, finish level, and any prep work needed before giving a firm price. Photos can help for simple jobs, but they usually are not enough if the space has damage, uneven surfaces, or custom details.",
-        "description": "Have measurements, photos, trim style ideas, and notes about damage or repairs ready. For custom or damaged areas, an on-site look is usually needed for an accurate quote."
-      }
-    }
-  ],
+  "name": "What information do I need before getting a custom trim quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before getting a custom trim quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect a contractor to confirm measurements, trim style, material, finish level, and any prep work needed before giving a firm price. Photos can help for simple jobs, but they usually are not enough if the space has damage, uneven surfaces, or custom details.",
+        "@type": "Answer",
+        "description": "Have measurements, photos, trim style ideas, and notes about damage or repairs ready. For custom or damaged areas, an on-site look is usually needed for an accurate quote."
+      }
+    }
+  ],
+  "description": "Have measurements, photos, trim style ideas, and notes about damage or repairs ready. For custom or damaged areas, an on-site look is usually needed for an accu"
 }

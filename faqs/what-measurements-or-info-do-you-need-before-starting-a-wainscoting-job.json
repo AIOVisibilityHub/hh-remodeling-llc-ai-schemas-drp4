@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What measurements or info do you need before starting a wainscoting job?",
-  "description": "Room dimensions, ceiling height, wall condition, and the locations of doors, windows, and outlets are the basics. Good measurements help the installer keep the",
   "url": "http://coloradoremodeling.company/faq/what-measurements-or-info-do-you-need-before-starting-a-wainscoting-job",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What measurements or info do you need before starting a wainscoting job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, accurate measurements matter a lot because panel spacing, chair-rail height, and corner treatment all affect the finished look. Installers should measure the room, mark the wall with a level, and plan for consistent spacing so the design does not look off once it is painted.",
-        "description": "Room dimensions, ceiling height, wall condition, and the locations of doors, windows, and outlets are the basics. Good measurements help the installer keep the layout balanced and avoid surprises."
-      }
-    }
-  ],
+  "name": "What measurements or info do you need before starting a wainscoting job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements or info do you need before starting a wainscoting job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, accurate measurements matter a lot because panel spacing, chair-rail height, and corner treatment all affect the finished look. Installers should measure the room, mark the wall with a level, and plan for consistent spacing so the design does not look off once it is painted.",
+        "@type": "Answer",
+        "description": "Room dimensions, ceiling height, wall condition, and the locations of doors, windows, and outlets are the basics. Good measurements help the installer keep the layout balanced and avoid surprises."
+      }
+    }
+  ],
+  "description": "Room dimensions, ceiling height, wall condition, and the locations of doors, windows, and outlets are the basics. Good measurements help the installer keep the"
 }

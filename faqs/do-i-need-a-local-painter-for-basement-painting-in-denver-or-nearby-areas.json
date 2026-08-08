@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a local painter for basement painting in Denver or nearby areas?",
-  "description": "A local painter is helpful because Denver-area basements often need moisture-aware prep and product choices. Ask for nearby references and basement-specific exp",
   "url": "http://coloradoremodeling.company/faq/do-i-need-a-local-painter-for-basement-painting-in-denver-or-nearby-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a local painter for basement painting in Denver or nearby areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Local conditions matter because basement work in Denver, Centennial, Greenwood Village, Foxfield, and Parker often involves older foundations, temperature swings, and moisture questions that affect prep and product choice. A local painter should understand how to evaluate dampness, select the right primer, and plan around basement-specific drying and ventilation needs. If you live in one of these areas, ask for recent local references so you can confirm the company has handled similar homes nearby.",
-        "description": "A local painter is helpful because Denver-area basements often need moisture-aware prep and product choices. Ask for nearby references and basement-specific experience in your area."
-      }
-    }
-  ],
+  "name": "Do I need a local painter for basement painting in Denver or nearby areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a local painter for basement painting in Denver or nearby areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local conditions matter because basement work in Denver, Centennial, Greenwood Village, Foxfield, and Parker often involves older foundations, temperature swings, and moisture questions that affect prep and product choice. A local painter should understand how to evaluate dampness, select the right primer, and plan around basement-specific drying and ventilation needs. If you live in one of these areas, ask for recent local references so you can confirm the company has handled similar homes nearby.",
+        "@type": "Answer",
+        "description": "A local painter is helpful because Denver-area basements often need moisture-aware prep and product choices. Ask for nearby references and basement-specific experience in your area."
+      }
+    }
+  ],
+  "description": "A local painter is helpful because Denver-area basements often need moisture-aware prep and product choices. Ask for nearby references and basement-specific exp"
 }

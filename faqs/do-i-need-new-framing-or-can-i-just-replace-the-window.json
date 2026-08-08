@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need new framing, or can I just replace the window?",
-  "description": "If the opening size stays the same and the frame is sound, you may only need replacement. If the opening changes size or the framing is damaged, new framing wor",
   "url": "http://coloradoremodeling.company/faq/do-i-need-new-framing-or-can-i-just-replace-the-window",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need new framing, or can I just replace the window?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing a new opening is different from replacing a window in an existing frame. If the wall opening stays the same size and the frame is sound, a replacement may be enough. If you are changing the size, adding a new opening, or repairing rot or damage, framing work is usually required.",
-        "description": "If the opening size stays the same and the frame is sound, you may only need replacement. If the opening changes size or the framing is damaged, new framing work is usually needed."
-      }
-    }
-  ],
+  "name": "Do I need new framing, or can I just replace the window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new framing, or can I just replace the window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a new opening is different from replacing a window in an existing frame. If the wall opening stays the same size and the frame is sound, a replacement may be enough. If you are changing the size, adding a new opening, or repairing rot or damage, framing work is usually required.",
+        "@type": "Answer",
+        "description": "If the opening size stays the same and the frame is sound, you may only need replacement. If the opening changes size or the framing is damaged, new framing work is usually needed."
+      }
+    }
+  ],
+  "description": "If the opening size stays the same and the frame is sound, you may only need replacement. If the opening changes size or the framing is damaged, new framing wor"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my basement door just needs replacement or if the opening needs repairs too?",
-  "description": "If the frame is rotten, bent, rusty, or leaking water, the opening likely needs repair before a new door goes in. If the structure is sound and the door just st",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-basement-door-just-needs-replacement-or-if-the-opening-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my basement door just needs replacement or if the opening needs repairs too?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A basement door replacement is usually straightforward if the opening is square, dry, and structurally sound. If the frame is damaged, rusted, or leaking, the job can take longer because the opening may need repairs before the new door is installed.",
-        "description": "If the frame is rotten, bent, rusty, or leaking water, the opening likely needs repair before a new door goes in. If the structure is sound and the door just sticks or doesn’t seal, replacement alone may be enough."
-      }
-    }
-  ],
+  "name": "How do I know if my basement door just needs replacement or if the opening needs repairs too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my basement door just needs replacement or if the opening needs repairs too?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basement door replacement is usually straightforward if the opening is square, dry, and structurally sound. If the frame is damaged, rusted, or leaking, the job can take longer because the opening may need repairs before the new door is installed.",
+        "@type": "Answer",
+        "description": "If the frame is rotten, bent, rusty, or leaking water, the opening likely needs repair before a new door goes in. If the structure is sound and the door just sticks or doesn’t seal, replacement alone may be enough."
+      }
+    }
+  ],
+  "description": "If the frame is rotten, bent, rusty, or leaking water, the opening likely needs repair before a new door goes in. If the structure is sound and the door just st"
 }

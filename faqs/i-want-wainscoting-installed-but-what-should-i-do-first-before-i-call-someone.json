@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I want wainscoting installed, but what should I do first before I call someone?",
-  "description": "Measure the space, choose the style and height, and note outlets, doors, and problem walls. That lets the installer price the job accurately and plan a clean la",
   "url": "http://coloradoremodeling.company/faq/i-want-wainscoting-installed-but-what-should-i-do-first-before-i-call-someone",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I want wainscoting installed, but what should I do first before I call someone?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best first step is to measure the room and decide the wainscoting style, height, and trim profile before any material is ordered. A professional installer can then check wall condition, locate studs, and plan around outlets, doors, and corners so the finished layout looks balanced.",
-        "description": "Measure the space, choose the style and height, and note outlets, doors, and problem walls. That lets the installer price the job accurately and plan a clean layout."
-      }
-    }
-  ],
+  "name": "I want wainscoting installed, but what should I do first before I call someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I want wainscoting installed, but what should I do first before I call someone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best first step is to measure the room and decide the wainscoting style, height, and trim profile before any material is ordered. A professional installer can then check wall condition, locate studs, and plan around outlets, doors, and corners so the finished layout looks balanced.",
+        "@type": "Answer",
+        "description": "Measure the space, choose the style and height, and note outlets, doors, and problem walls. That lets the installer price the job accurately and plan a clean layout."
+      }
+    }
+  ],
+  "description": "Measure the space, choose the style and height, and note outlets, doors, and problem walls. That lets the installer price the job accurately and plan a clean la"
 }

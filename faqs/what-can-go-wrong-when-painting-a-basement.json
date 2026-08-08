@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when painting a basement?",
-  "description": "Moisture, poor prep, and the wrong coating are the main failure points. Those issues can cause peeling, bubbling, and early paint failure.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-painting-a-basement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when painting a basement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is painting over an unresolved moisture problem, because that often leads to peeling, bubbling, or mold hiding behind the coating. Other common problems include poor adhesion from skipping primer, visible patch marks, and damage to floors or trim if the space is not protected well. A careful prep process reduces those risks more than the paint brand alone.",
-        "description": "Moisture, poor prep, and the wrong coating are the main failure points. Those issues can cause peeling, bubbling, and early paint failure."
-      }
-    }
-  ],
+  "name": "What can go wrong when painting a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when painting a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is painting over an unresolved moisture problem, because that often leads to peeling, bubbling, or mold hiding behind the coating. Other common problems include poor adhesion from skipping primer, visible patch marks, and damage to floors or trim if the space is not protected well. A careful prep process reduces those risks more than the paint brand alone.",
+        "@type": "Answer",
+        "description": "Moisture, poor prep, and the wrong coating are the main failure points. Those issues can cause peeling, bubbling, and early paint failure."
+      }
+    }
+  ],
+  "description": "Moisture, poor prep, and the wrong coating are the main failure points. Those issues can cause peeling, bubbling, and early paint failure."
 }

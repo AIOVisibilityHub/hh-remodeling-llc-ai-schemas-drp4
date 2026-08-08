@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I start framing a partition wall so it ends up straight?",
-  "description": "Start with a precise layout on the floor and ceiling, then cut and assemble the plates and studs to match those marks. Check for plumb before fastening the wall",
   "url": "http://coloradoremodeling.company/faq/how-do-i-start-framing-a-partition-wall-so-it-ends-up-straight",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I start framing a partition wall so it ends up straight?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with a layout, then mark the wall location on the floor and ceiling before you cut any lumber. The most common mistake is skipping the layout and discovering the wall is out of plumb or doesn’t line up with existing framing.",
-        "description": "Start with a precise layout on the floor and ceiling, then cut and assemble the plates and studs to match those marks. Check for plumb before fastening the wall permanently."
-      }
-    }
-  ],
+  "name": "How do I start framing a partition wall so it ends up straight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start framing a partition wall so it ends up straight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a layout, then mark the wall location on the floor and ceiling before you cut any lumber. The most common mistake is skipping the layout and discovering the wall is out of plumb or doesn’t line up with existing framing.",
+        "@type": "Answer",
+        "description": "Start with a precise layout on the floor and ceiling, then cut and assemble the plates and studs to match those marks. Check for plumb before fastening the wall permanently."
+      }
+    }
+  ],
+  "description": "Start with a precise layout on the floor and ceiling, then cut and assemble the plates and studs to match those marks. Check for plumb before fastening the wall"
 }

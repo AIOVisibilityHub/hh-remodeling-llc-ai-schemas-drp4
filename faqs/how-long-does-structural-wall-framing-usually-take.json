@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does structural wall framing usually take?",
-  "description": "Simple framing may be fast, but structural wall framing often takes longer because of permits, inspections, and possible engineering review. The schedule depend",
   "url": "http://coloradoremodeling.company/faq/how-long-does-structural-wall-framing-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does structural wall framing usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on whether the wall is simple or structural. A straightforward framing job can move quickly, but Denver-area structural work often takes longer because design review, permit approval, inspections, and any required stamped plans must happen before drywall or insulation closes the wall.",
-        "description": "Simple framing may be fast, but structural wall framing often takes longer because of permits, inspections, and possible engineering review. The schedule depends on complexity and approval steps."
-      }
-    }
-  ],
+  "name": "How long does structural wall framing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does structural wall framing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on whether the wall is simple or structural. A straightforward framing job can move quickly, but Denver-area structural work often takes longer because design review, permit approval, inspections, and any required stamped plans must happen before drywall or insulation closes the wall.",
+        "@type": "Answer",
+        "description": "Simple framing may be fast, but structural wall framing often takes longer because of permits, inspections, and possible engineering review. The schedule depends on complexity and approval steps."
+      }
+    }
+  ],
+  "description": "Simple framing may be fast, but structural wall framing often takes longer because of permits, inspections, and possible engineering review. The schedule depend"
 }

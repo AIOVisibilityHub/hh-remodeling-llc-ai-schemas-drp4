@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does window casing installation usually take?",
-  "description": "One window can often be done in a few hours. More windows, custom trim, or repairs to the frame and drywall can turn it into a longer project.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-window-casing-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does window casing installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A straightforward casing project may take a few hours for a single window, while multiple windows or trim repairs can take most of a day or longer. Timing depends on whether the old casing must be removed, whether the frame needs prep work, and whether the finish needs paint or stain drying time. If you are coordinating with a window replacement, casing is often handled right after the window is set.",
-        "description": "One window can often be done in a few hours. More windows, custom trim, or repairs to the frame and drywall can turn it into a longer project."
-      }
-    }
-  ],
+  "name": "How long does window casing installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window casing installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward casing project may take a few hours for a single window, while multiple windows or trim repairs can take most of a day or longer. Timing depends on whether the old casing must be removed, whether the frame needs prep work, and whether the finish needs paint or stain drying time. If you are coordinating with a window replacement, casing is often handled right after the window is set.",
+        "@type": "Answer",
+        "description": "One window can often be done in a few hours. More windows, custom trim, or repairs to the frame and drywall can turn it into a longer project."
+      }
+    }
+  ],
+  "description": "One window can often be done in a few hours. More windows, custom trim, or repairs to the frame and drywall can turn it into a longer project."
 }

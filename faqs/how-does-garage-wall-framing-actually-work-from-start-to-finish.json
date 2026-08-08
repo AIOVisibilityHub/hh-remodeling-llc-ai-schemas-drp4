@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does garage wall framing actually work from start to finish?",
-  "description": "The process usually includes measuring, layout, anchoring, building the wall sections, setting them plumb, and then preparing for inspection or the next trade.",
   "url": "http://coloradoremodeling.company/faq/how-does-garage-wall-framing-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does garage wall framing actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most garage wall framing work, a contractor typically evaluates the wall layout, measures the space, checks the slab or anchor points, and confirms the wall can be built straight and square. If the project is in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the framing plan should also account for local permit and inspection requirements before walls are closed in.",
-        "description": "The process usually includes measuring, layout, anchoring, building the wall sections, setting them plumb, and then preparing for inspection or the next trade."
-      }
-    }
-  ],
+  "name": "How does garage wall framing actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does garage wall framing actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most garage wall framing work, a contractor typically evaluates the wall layout, measures the space, checks the slab or anchor points, and confirms the wall can be built straight and square. If the project is in Denver, Centennial, Greenwood Village, Foxfield, or Parker, the framing plan should also account for local permit and inspection requirements before walls are closed in.",
+        "@type": "Answer",
+        "description": "The process usually includes measuring, layout, anchoring, building the wall sections, setting them plumb, and then preparing for inspection or the next trade."
+      }
+    }
+  ],
+  "description": "The process usually includes measuring, layout, anchoring, building the wall sections, setting them plumb, and then preparing for inspection or the next trade."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does partition wall framing usually take?",
-  "description": "Basic partition framing can be completed quickly, but finish work and utility changes extend the timeline. Expect the project to be staged from layout through d",
   "url": "http://coloradoremodeling.company/faq/how-long-does-partition-wall-framing-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does partition wall framing usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A simple non-load-bearing partition wall is usually much faster than a structural wall change, but the total timeline depends on layout, framing, drywall, finishing, and any electrical work. In the Denver area, small interior wall projects are often completed in phases rather than all at once.",
-        "description": "Basic partition framing can be completed quickly, but finish work and utility changes extend the timeline. Expect the project to be staged from layout through drywall and trim."
-      }
-    }
-  ],
+  "name": "How long does partition wall framing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does partition wall framing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple non-load-bearing partition wall is usually much faster than a structural wall change, but the total timeline depends on layout, framing, drywall, finishing, and any electrical work. In the Denver area, small interior wall projects are often completed in phases rather than all at once.",
+        "@type": "Answer",
+        "description": "Basic partition framing can be completed quickly, but finish work and utility changes extend the timeline. Expect the project to be staged from layout through drywall and trim."
+      }
+    }
+  ],
+  "description": "Basic partition framing can be completed quickly, but finish work and utility changes extend the timeline. Expect the project to be staged from layout through d"
 }

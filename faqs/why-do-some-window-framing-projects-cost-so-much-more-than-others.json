@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why do some window framing projects cost so much more than others?",
-  "description": "Price changes with wall structure, header work, repairs, and permit-related complexity. Bigger structural changes and damaged framing usually cost more than a s",
   "url": "http://coloradoremodeling.company/faq/why-do-some-window-framing-projects-cost-so-much-more-than-others",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why do some window framing projects cost so much more than others?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost varies with wall structure, header size, material repairs, and whether the opening is new or a resize of an existing opening. Local Denver pricing for framing work can range widely depending on scope, and structural changes usually cost more than a basic opening. If the wall has water damage or needs reframing, expect the price to increase.",
-        "description": "Price changes with wall structure, header work, repairs, and permit-related complexity. Bigger structural changes and damaged framing usually cost more than a simple opening."
-      }
-    }
-  ],
+  "name": "Why do some window framing projects cost so much more than others?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why do some window framing projects cost so much more than others?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost varies with wall structure, header size, material repairs, and whether the opening is new or a resize of an existing opening. Local Denver pricing for framing work can range widely depending on scope, and structural changes usually cost more than a basic opening. If the wall has water damage or needs reframing, expect the price to increase.",
+        "@type": "Answer",
+        "description": "Price changes with wall structure, header work, repairs, and permit-related complexity. Bigger structural changes and damaged framing usually cost more than a simple opening."
+      }
+    }
+  ],
+  "description": "Price changes with wall structure, header work, repairs, and permit-related complexity. Bigger structural changes and damaged framing usually cost more than a s"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I paint basement walls if there has been moisture or a leak?",
-  "description": "Only if the wall is dry and the moisture problem is solved. If there is active seepage, dampness, or mold, fix that first or the paint is likely to fail.",
   "url": "http://coloradoremodeling.company/faq/can-i-paint-basement-walls-if-there-has-been-moisture-or-a-leak",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I paint basement walls if there has been moisture or a leak?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You may be able to paint the basement only if the walls are dry, stable, and free of active water intrusion. If the basement has ongoing seepage, damp spots, mold, or recurring efflorescence, painting alone is not a real fix and will usually peel or bubble later. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the dry climate does not eliminate basement moisture problems, so the surface still needs to be evaluated carefully.",
-        "description": "Only if the wall is dry and the moisture problem is solved. If there is active seepage, dampness, or mold, fix that first or the paint is likely to fail."
-      }
-    }
-  ],
+  "name": "Can I paint basement walls if there has been moisture or a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint basement walls if there has been moisture or a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may be able to paint the basement only if the walls are dry, stable, and free of active water intrusion. If the basement has ongoing seepage, damp spots, mold, or recurring efflorescence, painting alone is not a real fix and will usually peel or bubble later. In Denver, Centennial, Greenwood Village, Foxfield, and Parker, the dry climate does not eliminate basement moisture problems, so the surface still needs to be evaluated carefully.",
+        "@type": "Answer",
+        "description": "Only if the wall is dry and the moisture problem is solved. If there is active seepage, dampness, or mold, fix that first or the paint is likely to fail."
+      }
+    }
+  ],
+  "description": "Only if the wall is dry and the moisture problem is solved. If there is active seepage, dampness, or mold, fix that first or the paint is likely to fail."
 }

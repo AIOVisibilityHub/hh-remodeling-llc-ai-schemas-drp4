@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with window casing installation?",
-  "description": "Common problems are gaps, uneven corners, and trim that looks unfinished. Hidden rot or frame damage can also cause the work to fail early if it is not repaired",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-window-casing-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with window casing installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are poor fit, visible gaps, cracked caulk lines, and trim that does not match the rest of the home. If the installer skips frame prep, you can also end up covering moisture damage instead of fixing it. In Colorado homes, dry indoor air and seasonal movement can make sloppy joints and weak fastening show up faster.",
-        "description": "Common problems are gaps, uneven corners, and trim that looks unfinished. Hidden rot or frame damage can also cause the work to fail early if it is not repaired first."
-      }
-    }
-  ],
+  "name": "What can go wrong with window casing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with window casing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are poor fit, visible gaps, cracked caulk lines, and trim that does not match the rest of the home. If the installer skips frame prep, you can also end up covering moisture damage instead of fixing it. In Colorado homes, dry indoor air and seasonal movement can make sloppy joints and weak fastening show up faster.",
+        "@type": "Answer",
+        "description": "Common problems are gaps, uneven corners, and trim that looks unfinished. Hidden rot or frame damage can also cause the work to fail early if it is not repaired first."
+      }
+    }
+  ],
+  "description": "Common problems are gaps, uneven corners, and trim that looks unfinished. Hidden rot or frame damage can also cause the work to fail early if it is not repaired"
 }

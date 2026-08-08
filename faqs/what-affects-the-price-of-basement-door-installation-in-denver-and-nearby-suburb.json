@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the price of basement door installation in Denver and nearby suburbs?",
-  "description": "Price is driven by the door material, labor, opening condition, and any repairs around the frame or foundation. A clean replacement costs less than a project th",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-price-of-basement-door-installation-in-denver-and-nearby-suburb",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the price of basement door installation in Denver and nearby suburbs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the door type, labor, site access, and whether any framing or foundation repair is needed. Local Denver pricing varies widely because basement entries often require extra prep, sealing, or structural work beyond a standard door swap.",
-        "description": "Price is driven by the door material, labor, opening condition, and any repairs around the frame or foundation. A clean replacement costs less than a project that needs structural fixes or waterproofing."
-      }
-    }
-  ],
+  "name": "What affects the price of basement door installation in Denver and nearby suburbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the price of basement door installation in Denver and nearby suburbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the door type, labor, site access, and whether any framing or foundation repair is needed. Local Denver pricing varies widely because basement entries often require extra prep, sealing, or structural work beyond a standard door swap.",
+        "@type": "Answer",
+        "description": "Price is driven by the door material, labor, opening condition, and any repairs around the frame or foundation. A clean replacement costs less than a project that needs structural fixes or waterproofing."
+      }
+    }
+  ],
+  "description": "Price is driven by the door material, labor, opening condition, and any repairs around the frame or foundation. A clean replacement costs less than a project th"
 }

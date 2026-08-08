@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the signs that my wall framing may have a structural problem?",
-  "description": "Look for bowed or out-of-plumb walls, sagging, and diagonal cracks around doors and windows. Those signs often mean the framing or foundation needs evaluation.",
   "url": "http://coloradoremodeling.company/faq/what-are-the-signs-that-my-wall-framing-may-have-a-structural-problem",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the signs that my wall framing may have a structural problem?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Signs that the framing may need evaluation include walls that are out of plumb, bowed, or not straight, plus cracking around doors and windows, sagging, or uneven wall surfaces. If you see diagonal cracks at openings, that can point to soil or foundation movement rather than just a cosmetic drywall problem.",
-        "description": "Look for bowed or out-of-plumb walls, sagging, and diagonal cracks around doors and windows. Those signs often mean the framing or foundation needs evaluation."
-      }
-    }
-  ],
+  "name": "What are the signs that my wall framing may have a structural problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my wall framing may have a structural problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that the framing may need evaluation include walls that are out of plumb, bowed, or not straight, plus cracking around doors and windows, sagging, or uneven wall surfaces. If you see diagonal cracks at openings, that can point to soil or foundation movement rather than just a cosmetic drywall problem.",
+        "@type": "Answer",
+        "description": "Look for bowed or out-of-plumb walls, sagging, and diagonal cracks around doors and windows. Those signs often mean the framing or foundation needs evaluation."
+      }
+    }
+  ],
+  "description": "Look for bowed or out-of-plumb walls, sagging, and diagonal cracks around doors and windows. Those signs often mean the framing or foundation needs evaluation."
 }

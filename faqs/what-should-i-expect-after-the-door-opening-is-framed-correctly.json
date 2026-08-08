@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after the door opening is framed correctly?",
-  "description": "The door should fit squarely, close smoothly, and have enough adjustment room for shimming and finishing.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-the-door-opening-is-framed-correctly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after the door opening is framed correctly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-framed opening should leave enough space for the door unit, shims, and adjustments so the door hangs plumb, opens smoothly, and seals correctly. If the framing is done well, installation is cleaner and the finished door is less likely to stick or gap.",
-        "description": "The door should fit squarely, close smoothly, and have enough adjustment room for shimming and finishing."
-      }
-    }
-  ],
+  "name": "What should I expect after the door opening is framed correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after the door opening is framed correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-framed opening should leave enough space for the door unit, shims, and adjustments so the door hangs plumb, opens smoothly, and seals correctly. If the framing is done well, installation is cleaner and the finished door is less likely to stick or gap.",
+        "@type": "Answer",
+        "description": "The door should fit squarely, close smoothly, and have enough adjustment room for shimming and finishing."
+      }
+    }
+  ],
+  "description": "The door should fit squarely, close smoothly, and have enough adjustment room for shimming and finishing."
 }

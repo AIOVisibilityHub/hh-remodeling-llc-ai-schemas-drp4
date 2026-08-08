@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is basement flooring worth it, or should I just leave the concrete as-is?",
-  "description": "If the basement is used regularly, flooring is usually worth it—but only if the slab is properly prepared. Skipping prep can make a cheap job turn expensive fas",
   "url": "http://coloradoremodeling.company/faq/is-basement-flooring-worth-it-or-should-i-just-leave-the-concrete-as-is",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is basement flooring worth it, or should I just leave the concrete as-is?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you want a floor that lasts, the main objection is usually not the material cost but the prep cost. In basements, spending more on moisture control and proper installation usually prevents far more expensive repairs later, especially if the space has had leaks or dampness before.",
-        "description": "If the basement is used regularly, flooring is usually worth it—but only if the slab is properly prepared. Skipping prep can make a cheap job turn expensive fast."
-      }
-    }
-  ],
+  "name": "Is basement flooring worth it, or should I just leave the concrete as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is basement flooring worth it, or should I just leave the concrete as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you want a floor that lasts, the main objection is usually not the material cost but the prep cost. In basements, spending more on moisture control and proper installation usually prevents far more expensive repairs later, especially if the space has had leaks or dampness before.",
+        "@type": "Answer",
+        "description": "If the basement is used regularly, flooring is usually worth it—but only if the slab is properly prepared. Skipping prep can make a cheap job turn expensive fast."
+      }
+    }
+  ],
+  "description": "If the basement is used regularly, flooring is usually worth it—but only if the slab is properly prepared. Skipping prep can make a cheap job turn expensive fas"
 }

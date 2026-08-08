@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What type of garage door is the best upgrade for a home in this area?",
-  "description": "Insulated steel is usually the best value for attached garages. Choose non-insulated for detached spaces, or premium materials if style matters more than budget",
   "url": "http://coloradoremodeling.company/faq/what-type-of-garage-door-is-the-best-upgrade-for-a-home-in-this-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What type of garage door is the best upgrade for a home in this area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most Colorado homes, insulated steel is the best all-around upgrade because it balances price, durability, and energy efficiency. Non-insulated steel is cheaper and fine for detached or unheated garages, while wood, aluminum-glass, and carriage styles cost more and are chosen more for appearance. Your best choice depends on whether the garage is attached, how often you use it, and how much maintenance you want.",
-        "description": "Insulated steel is usually the best value for attached garages. Choose non-insulated for detached spaces, or premium materials if style matters more than budget."
-      }
-    }
-  ],
+  "name": "What type of garage door is the best upgrade for a home in this area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What type of garage door is the best upgrade for a home in this area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most Colorado homes, insulated steel is the best all-around upgrade because it balances price, durability, and energy efficiency. Non-insulated steel is cheaper and fine for detached or unheated garages, while wood, aluminum-glass, and carriage styles cost more and are chosen more for appearance. Your best choice depends on whether the garage is attached, how often you use it, and how much maintenance you want.",
+        "@type": "Answer",
+        "description": "Insulated steel is usually the best value for attached garages. Choose non-insulated for detached spaces, or premium materials if style matters more than budget."
+      }
+    }
+  ],
+  "description": "Insulated steel is usually the best value for attached garages. Choose non-insulated for detached spaces, or premium materials if style matters more than budget"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do you need to quote framing for my addition?",
-  "description": "Bring plans, measurements, photos, and any engineering details you have. Clearer project information leads to a more accurate framing quote.",
   "url": "http://coloradoremodeling.company/faq/what-information-do-you-need-to-quote-framing-for-my-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do you need to quote framing for my addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You’ll usually need the addition plans, measurements, photos of the existing structure, and any engineering notes you already have. The clearer the information, the easier it is to price the framing accurately and flag issues before work begins.",
-        "description": "Bring plans, measurements, photos, and any engineering details you have. Clearer project information leads to a more accurate framing quote."
-      }
-    }
-  ],
+  "name": "What information do you need to quote framing for my addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need to quote framing for my addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’ll usually need the addition plans, measurements, photos of the existing structure, and any engineering notes you already have. The clearer the information, the easier it is to price the framing accurately and flag issues before work begins.",
+        "@type": "Answer",
+        "description": "Bring plans, measurements, photos, and any engineering details you have. Clearer project information leads to a more accurate framing quote."
+      }
+    }
+  ],
+  "description": "Bring plans, measurements, photos, and any engineering details you have. Clearer project information leads to a more accurate framing quote."
 }

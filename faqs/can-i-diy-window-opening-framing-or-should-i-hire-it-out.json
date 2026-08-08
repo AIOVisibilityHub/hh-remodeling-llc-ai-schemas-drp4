@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I DIY window opening framing, or should I hire it out?",
-  "description": "DIY may be possible for very simple non-structural work, but damaged walls, load-bearing conditions, and resized openings are best handled by a professional. Th",
   "url": "http://coloradoremodeling.company/faq/can-i-diy-window-opening-framing-or-should-i-hire-it-out",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I DIY window opening framing, or should I hire it out?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the wall shows rot, water damage, uneven studs, or signs of load-bearing construction, it’s better to bring in a professional rather than guess. That also applies when the opening is being resized, when utilities are nearby, or when you need the frame to match existing windows exactly. A pro can verify the rough opening, header, and weatherproofing details before the window goes in.",
-        "description": "DIY may be possible for very simple non-structural work, but damaged walls, load-bearing conditions, and resized openings are best handled by a professional. The risk is getting the support or sizing wrong."
-      }
-    }
-  ],
+  "name": "Can I DIY window opening framing, or should I hire it out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY window opening framing, or should I hire it out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the wall shows rot, water damage, uneven studs, or signs of load-bearing construction, it’s better to bring in a professional rather than guess. That also applies when the opening is being resized, when utilities are nearby, or when you need the frame to match existing windows exactly. A pro can verify the rough opening, header, and weatherproofing details before the window goes in.",
+        "@type": "Answer",
+        "description": "DIY may be possible for very simple non-structural work, but damaged walls, load-bearing conditions, and resized openings are best handled by a professional. The risk is getting the support or sizing wrong."
+      }
+    }
+  ],
+  "description": "DIY may be possible for very simple non-structural work, but damaged walls, load-bearing conditions, and resized openings are best handled by a professional. Th"
 }

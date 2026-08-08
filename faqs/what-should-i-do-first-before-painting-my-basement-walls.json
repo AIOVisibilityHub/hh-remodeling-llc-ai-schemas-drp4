@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first before painting my basement walls?",
-  "description": "Check for dampness, peeling, mold, and past leaks first. Fix moisture issues before painting, then clean, patch, sand, and prime the surface with a basement-app",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-painting-my-basement-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first before painting my basement walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first step is to check for moisture, peeling paint, efflorescence, or past leaks before any paint goes on the wall. If those issues are present, they need to be corrected first or the new finish can fail early. A proper basement painting job in Denver-area homes usually starts with cleaning, patching, sanding, priming, and choosing a coating made for below-grade surfaces.",
-        "description": "Check for dampness, peeling, mold, and past leaks first. Fix moisture issues before painting, then clean, patch, sand, and prime the surface with a basement-appropriate product."
-      }
-    }
-  ],
+  "name": "What should I do first before painting my basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before painting my basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to check for moisture, peeling paint, efflorescence, or past leaks before any paint goes on the wall. If those issues are present, they need to be corrected first or the new finish can fail early. A proper basement painting job in Denver-area homes usually starts with cleaning, patching, sanding, priming, and choosing a coating made for below-grade surfaces.",
+        "@type": "Answer",
+        "description": "Check for dampness, peeling, mold, and past leaks first. Fix moisture issues before painting, then clean, patch, sand, and prime the surface with a basement-appropriate product."
+      }
+    }
+  ],
+  "description": "Check for dampness, peeling, mold, and past leaks first. Fix moisture issues before painting, then clean, patch, sand, and prime the surface with a basement-app"
 }

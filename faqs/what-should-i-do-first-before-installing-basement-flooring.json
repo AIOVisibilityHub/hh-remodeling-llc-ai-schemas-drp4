@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first before installing basement flooring?",
-  "description": "Check the slab for moisture, levelness, and any active leaks before picking a floor. In Denver-area basements, waterproof LVP or tile is often the safest starti",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-first-before-installing-basement-flooring",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first before installing basement flooring?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most basements in Denver and nearby suburbs, the safest starting point is to check for moisture before choosing a floor. A floating **waterproof LVP** or **tile** system is usually a stronger choice than carpet or solid hardwood because basements can have slab moisture and temperature swings. The best option depends on whether the slab is dry, level, and already finished.",
-        "description": "Check the slab for moisture, levelness, and any active leaks before picking a floor. In Denver-area basements, waterproof LVP or tile is often the safest starting point."
-      }
-    }
-  ],
+  "name": "What should I do first before installing basement flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before installing basement flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most basements in Denver and nearby suburbs, the safest starting point is to check for moisture before choosing a floor. A floating **waterproof LVP** or **tile** system is usually a stronger choice than carpet or solid hardwood because basements can have slab moisture and temperature swings. The best option depends on whether the slab is dry, level, and already finished.",
+        "@type": "Answer",
+        "description": "Check the slab for moisture, levelness, and any active leaks before picking a floor. In Denver-area basements, waterproof LVP or tile is often the safest starting point."
+      }
+    }
+  ],
+  "description": "Check the slab for moisture, levelness, and any active leaks before picking a floor. In Denver-area basements, waterproof LVP or tile is often the safest starti"
 }

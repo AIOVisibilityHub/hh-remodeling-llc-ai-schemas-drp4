@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What has to be done before new drywall hanging starts?",
-  "description": "Before hanging drywall, the framing, wiring, plumbing, and insulation should be finished. Ceilings are typically hung first, then walls, with sheets fastened in",
   "url": "http://coloradoremodeling.company/faq/what-has-to-be-done-before-new-drywall-hanging-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What has to be done before new drywall hanging starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by confirming the framing, insulation, wiring, and plumbing are complete before any sheets go up. For a clean install, drywall is usually hung on ceilings first, then walls, with fasteners placed into studs or framing at regular spacing so the boards stay flat and seams are easier to finish.",
-        "description": "Before hanging drywall, the framing, wiring, plumbing, and insulation should be finished. Ceilings are typically hung first, then walls, with sheets fastened into studs or framing at proper spacing."
-      }
-    }
-  ],
+  "name": "What has to be done before new drywall hanging starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What has to be done before new drywall hanging starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by confirming the framing, insulation, wiring, and plumbing are complete before any sheets go up. For a clean install, drywall is usually hung on ceilings first, then walls, with fasteners placed into studs or framing at regular spacing so the boards stay flat and seams are easier to finish.",
+        "@type": "Answer",
+        "description": "Before hanging drywall, the framing, wiring, plumbing, and insulation should be finished. Ceilings are typically hung first, then walls, with sheets fastened into studs or framing at proper spacing."
+      }
+    }
+  ],
+  "description": "Before hanging drywall, the framing, wiring, plumbing, and insulation should be finished. Ceilings are typically hung first, then walls, with sheets fastened in"
 }

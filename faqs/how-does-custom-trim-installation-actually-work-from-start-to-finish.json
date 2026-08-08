@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does custom trim installation actually work from start to finish?",
-  "description": "It usually goes from measuring and material selection to cutting, fitting, fastening, caulking, and finishing. More detailed trim styles take longer because lay",
   "url": "http://coloradoremodeling.company/faq/how-does-custom-trim-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does custom trim installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually includes measuring, material selection, cutting, fitting, fastening, caulking, and finishing. Simple baseboard or casing projects move faster, while crown molding, wainscoting, and custom profiles take more layout time because alignment has to be exact.",
-        "description": "It usually goes from measuring and material selection to cutting, fitting, fastening, caulking, and finishing. More detailed trim styles take longer because layout and alignment matter more."
-      }
-    }
-  ],
+  "name": "How does custom trim installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does custom trim installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually includes measuring, material selection, cutting, fitting, fastening, caulking, and finishing. Simple baseboard or casing projects move faster, while crown molding, wainscoting, and custom profiles take more layout time because alignment has to be exact.",
+        "@type": "Answer",
+        "description": "It usually goes from measuring and material selection to cutting, fitting, fastening, caulking, and finishing. More detailed trim styles take longer because layout and alignment matter more."
+      }
+    }
+  ],
+  "description": "It usually goes from measuring and material selection to cutting, fitting, fastening, caulking, and finishing. More detailed trim styles take longer because lay"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after new window casing is installed?",
-  "description": "You should get a cleaner, more finished window opening. Casing improves appearance and protection around the edge, but it does not change how the window operate",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-new-window-casing-is-installed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after new window casing is installed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "New casing should make the window look finished, cleaner, and more aligned with the room’s style. It will not improve window performance by itself, but it can make replacement windows look complete and can hide old damage around the opening. If you are comparing options, the biggest difference is usually style and durability, not function.",
-        "description": "You should get a cleaner, more finished window opening. Casing improves appearance and protection around the edge, but it does not change how the window operates."
-      }
-    }
-  ],
+  "name": "What should I expect after new window casing is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after new window casing is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New casing should make the window look finished, cleaner, and more aligned with the room’s style. It will not improve window performance by itself, but it can make replacement windows look complete and can hide old damage around the opening. If you are comparing options, the biggest difference is usually style and durability, not function.",
+        "@type": "Answer",
+        "description": "You should get a cleaner, more finished window opening. Casing improves appearance and protection around the edge, but it does not change how the window operates."
+      }
+    }
+  ],
+  "description": "You should get a cleaner, more finished window opening. Casing improves appearance and protection around the edge, but it does not change how the window operate"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong when framing a small addition?",
-  "description": "Common risks are hidden structural issues, poor tie-ins, delays, and surprise changes after work starts. Older homes and complex roof connections are especially",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-when-framing-a-small-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong when framing a small addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are hidden structural issues, bad tie-ins to the existing house, delays from inspections or materials, and changes that appear only after demolition or layout work begins. These problems are more likely when the existing home is older or when the addition connects to a roofline or load-bearing wall.",
-        "description": "Common risks are hidden structural issues, poor tie-ins, delays, and surprise changes after work starts. Older homes and complex roof connections are especially prone to surprises."
-      }
-    }
-  ],
+  "name": "What can go wrong when framing a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when framing a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are hidden structural issues, bad tie-ins to the existing house, delays from inspections or materials, and changes that appear only after demolition or layout work begins. These problems are more likely when the existing home is older or when the addition connects to a roofline or load-bearing wall.",
+        "@type": "Answer",
+        "description": "Common risks are hidden structural issues, poor tie-ins, delays, and surprise changes after work starts. Older homes and complex roof connections are especially prone to surprises."
+      }
+    }
+  ],
+  "description": "Common risks are hidden structural issues, poor tie-ins, delays, and surprise changes after work starts. Older homes and complex roof connections are especially"
 }

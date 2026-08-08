@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What do I need to check before starting basement drywall installation?",
-  "description": "Make sure the basement is dry, framed, and ready for drywall before any sheets go up. You generally should not attach drywall directly to concrete walls, and yo",
   "url": "http://coloradoremodeling.company/faq/what-do-i-need-to-check-before-starting-basement-drywall-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What do I need to check before starting basement drywall installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest first step is to confirm the basement is dry, fully framed, and ready for board before hanging drywall. In basement work, drywall should not go directly against concrete; it needs a proper wall assembly with space for insulation, wiring, and a flatter finished surface. Planning the layout first also helps avoid outlet, duct, and plumbing surprises.",
-        "description": "Make sure the basement is dry, framed, and ready for drywall before any sheets go up. You generally should not attach drywall directly to concrete walls, and you need to account for insulation, wiring, and any outlets or pipes."
-      }
-    }
-  ],
+  "name": "What do I need to check before starting basement drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to check before starting basement drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest first step is to confirm the basement is dry, fully framed, and ready for board before hanging drywall. In basement work, drywall should not go directly against concrete; it needs a proper wall assembly with space for insulation, wiring, and a flatter finished surface. Planning the layout first also helps avoid outlet, duct, and plumbing surprises.",
+        "@type": "Answer",
+        "description": "Make sure the basement is dry, framed, and ready for drywall before any sheets go up. You generally should not attach drywall directly to concrete walls, and you need to account for insulation, wiring, and any outlets or pipes."
+      }
+    }
+  ],
+  "description": "Make sure the basement is dry, framed, and ready for drywall before any sheets go up. You generally should not attach drywall directly to concrete walls, and yo"
 }

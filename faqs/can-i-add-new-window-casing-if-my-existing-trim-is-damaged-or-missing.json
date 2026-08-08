@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I add new window casing if my existing trim is damaged or missing?",
-  "description": "Yes. Damaged or missing trim is one of the most common reasons to replace window casing. A contractor may need to repair the frame or wall first if there is rot",
   "url": "http://coloradoremodeling.company/faq/can-i-add-new-window-casing-if-my-existing-trim-is-damaged-or-missing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I add new window casing if my existing trim is damaged or missing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners schedule casing installation after a window replacement or when existing trim is cracked, warped, or missing. If the window frame is sound and the opening is already square, the work is usually straightforward. If there is water damage, rot, or uneven drywall, the job can take longer because repairs may be needed first.",
-        "description": "Yes. Damaged or missing trim is one of the most common reasons to replace window casing. A contractor may need to repair the frame or wall first if there is rot or damage."
-      }
-    }
-  ],
+  "name": "Can I add new window casing if my existing trim is damaged or missing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add new window casing if my existing trim is damaged or missing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners schedule casing installation after a window replacement or when existing trim is cracked, warped, or missing. If the window frame is sound and the opening is already square, the work is usually straightforward. If there is water damage, rot, or uneven drywall, the job can take longer because repairs may be needed first.",
+        "@type": "Answer",
+        "description": "Yes. Damaged or missing trim is one of the most common reasons to replace window casing. A contractor may need to repair the frame or wall first if there is rot or damage."
+      }
+    }
+  ],
+  "description": "Yes. Damaged or missing trim is one of the most common reasons to replace window casing. A contractor may need to repair the frame or wall first if there is rot"
 }

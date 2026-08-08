@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should good wainscoting look like when it’s done, and how high should it go?",
-  "description": "It should look straight, secure, and balanced with the room. Many designs use about the lower third of the wall, but the right height depends on the space.",
   "url": "http://coloradoremodeling.company/faq/what-should-good-wainscoting-look-like-when-it-s-done-and-how-high-should-it-go",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should good wainscoting look like when it’s done, and how high should it go?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Well-installed wainscoting should look straight, feel solid, and create a finished lower wall that matches the room style. If you want a classic look, the lower third of the wall is a common design target, but the exact height should fit the room and ceiling height.",
-        "description": "It should look straight, secure, and balanced with the room. Many designs use about the lower third of the wall, but the right height depends on the space."
-      }
-    }
-  ],
+  "name": "What should good wainscoting look like when it’s done, and how high should it go?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should good wainscoting look like when it’s done, and how high should it go?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well-installed wainscoting should look straight, feel solid, and create a finished lower wall that matches the room style. If you want a classic look, the lower third of the wall is a common design target, but the exact height should fit the room and ceiling height.",
+        "@type": "Answer",
+        "description": "It should look straight, secure, and balanced with the room. Many designs use about the lower third of the wall, but the right height depends on the space."
+      }
+    }
+  ],
+  "description": "It should look straight, secure, and balanced with the room. Many designs use about the lower third of the wall, but the right height depends on the space."
 }

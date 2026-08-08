@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need before getting a garage insulation quote?",
-  "description": "You’ll want garage size, wall and ceiling condition, whether it’s attached, and where the drafts are. Photos or an on-site inspection help get a more accurate q",
   "url": "http://coloradoremodeling.company/faq/what-information-do-i-need-before-getting-a-garage-insulation-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need before getting a garage insulation quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The strongest evidence is the condition of the garage itself: drafts, temperature swings, exposed framing, thin or missing insulation, and rooms above or beside the garage. If you want the most accurate recommendation, a pro should inspect the walls, ceiling, door, and any leakage points before quoting materials.",
-        "description": "You’ll want garage size, wall and ceiling condition, whether it’s attached, and where the drafts are. Photos or an on-site inspection help get a more accurate quote."
-      }
-    }
-  ],
+  "name": "What information do I need before getting a garage insulation quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before getting a garage insulation quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The strongest evidence is the condition of the garage itself: drafts, temperature swings, exposed framing, thin or missing insulation, and rooms above or beside the garage. If you want the most accurate recommendation, a pro should inspect the walls, ceiling, door, and any leakage points before quoting materials.",
+        "@type": "Answer",
+        "description": "You’ll want garage size, wall and ceiling condition, whether it’s attached, and where the drafts are. Photos or an on-site inspection help get a more accurate quote."
+      }
+    }
+  ],
+  "description": "You’ll want garage size, wall and ceiling condition, whether it’s attached, and where the drafts are. Photos or an on-site inspection help get a more accurate q"
 }

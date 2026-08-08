@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with finish carpentry installation?",
-  "description": "Common problems include gaps, uneven cuts, poor alignment, and damage to nearby surfaces. Careful measurement and proper prep reduce most of these issues.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-finish-carpentry-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with finish carpentry installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are poor measuring, visible gaps, uneven cuts, and damage to nearby drywall or flooring during installation. These problems are more common when the room is out of square, the walls are uneven, or the installer does not account for finish tolerances.",
-        "description": "Common problems include gaps, uneven cuts, poor alignment, and damage to nearby surfaces. Careful measurement and proper prep reduce most of these issues."
-      }
-    }
-  ],
+  "name": "What can go wrong with finish carpentry installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with finish carpentry installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are poor measuring, visible gaps, uneven cuts, and damage to nearby drywall or flooring during installation. These problems are more common when the room is out of square, the walls are uneven, or the installer does not account for finish tolerances.",
+        "@type": "Answer",
+        "description": "Common problems include gaps, uneven cuts, poor alignment, and damage to nearby surfaces. Careful measurement and proper prep reduce most of these issues."
+      }
+    }
+  ],
+  "description": "Common problems include gaps, uneven cuts, poor alignment, and damage to nearby surfaces. Careful measurement and proper prep reduce most of these issues."
 }

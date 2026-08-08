@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of basement drywall installation?",
-  "description": "Basement drywall cost is driven by size, finish level, ceiling work, and how much prep is needed around ducts, plumbing, and electrical. Moisture issues or fram",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-basement-drywall-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of basement drywall installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on square footage, ceiling height, finishing level, insulation or framing prep, and how much cutting is needed around pipes, ducts, and outlets. Basement work often costs more than a simple room because the layout is less predictable and moisture protection may be needed. The cleanest way to get a useful estimate is to measure the space and note any obstacles or damage before asking for pricing.",
-        "description": "Basement drywall cost is driven by size, finish level, ceiling work, and how much prep is needed around ducts, plumbing, and electrical. Moisture issues or framing repairs can raise the price."
-      }
-    }
-  ],
+  "name": "What affects the cost of basement drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of basement drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on square footage, ceiling height, finishing level, insulation or framing prep, and how much cutting is needed around pipes, ducts, and outlets. Basement work often costs more than a simple room because the layout is less predictable and moisture protection may be needed. The cleanest way to get a useful estimate is to measure the space and note any obstacles or damage before asking for pricing.",
+        "@type": "Answer",
+        "description": "Basement drywall cost is driven by size, finish level, ceiling work, and how much prep is needed around ducts, plumbing, and electrical. Moisture issues or framing repairs can raise the price."
+      }
+    }
+  ],
+  "description": "Basement drywall cost is driven by size, finish level, ceiling work, and how much prep is needed around ducts, plumbing, and electrical. Moisture issues or fram"
 }

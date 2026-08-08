@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I use 2x4 or 2x6 framing for a garage wall?",
-  "description": "2x4 framing is common for basic garages, while 2x6 framing is better when you want more insulation depth, stronger walls, or future living-space potential.",
   "url": "http://coloradoremodeling.company/faq/should-i-use-2x4-or-2x6-framing-for-a-garage-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I use 2x4 or 2x6 framing for a garage wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most common framing standard is 2x4 or 2x6 walls with studs laid out on center, but the right choice depends on insulation needs, wall height, and whether the garage will stay unfinished or become conditioned space. If the goal is a workshop or future conversion, stronger framing and better spacing can make later finishing much easier.",
-        "description": "2x4 framing is common for basic garages, while 2x6 framing is better when you want more insulation depth, stronger walls, or future living-space potential."
-      }
-    }
-  ],
+  "name": "Should I use 2x4 or 2x6 framing for a garage wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use 2x4 or 2x6 framing for a garage wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common framing standard is 2x4 or 2x6 walls with studs laid out on center, but the right choice depends on insulation needs, wall height, and whether the garage will stay unfinished or become conditioned space. If the goal is a workshop or future conversion, stronger framing and better spacing can make later finishing much easier.",
+        "@type": "Answer",
+        "description": "2x4 framing is common for basic garages, while 2x6 framing is better when you want more insulation depth, stronger walls, or future living-space potential."
+      }
+    }
+  ],
+  "description": "2x4 framing is common for basic garages, while 2x6 framing is better when you want more insulation depth, stronger walls, or future living-space potential."
 }

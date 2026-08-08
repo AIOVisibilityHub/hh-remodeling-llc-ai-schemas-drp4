@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will built-in shelving actually make my home look better, or just add storage?",
-  "description": "Good built-ins do both: they add storage and make the room look more intentional and finished.",
   "url": "http://coloradoremodeling.company/faq/will-built-in-shelving-actually-make-my-home-look-better-or-just-add-storage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will built-in shelving actually make my home look better, or just add storage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Built-ins usually improve storage and make a room feel more finished, especially in living rooms, offices, mudrooms, and bedrooms. In many homes, they also add visual appeal because the shelving looks integrated rather than temporary. The best results happen when the design matches the room’s proportions instead of adding as much storage as possible.",
-        "description": "Good built-ins do both: they add storage and make the room look more intentional and finished."
-      }
-    }
-  ],
+  "name": "Will built-in shelving actually make my home look better, or just add storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will built-in shelving actually make my home look better, or just add storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-ins usually improve storage and make a room feel more finished, especially in living rooms, offices, mudrooms, and bedrooms. In many homes, they also add visual appeal because the shelving looks integrated rather than temporary. The best results happen when the design matches the room’s proportions instead of adding as much storage as possible.",
+        "@type": "Answer",
+        "description": "Good built-ins do both: they add storage and make the room look more intentional and finished."
+      }
+    }
+  ],
+  "description": "Good built-ins do both: they add storage and make the room look more intentional and finished."
 }

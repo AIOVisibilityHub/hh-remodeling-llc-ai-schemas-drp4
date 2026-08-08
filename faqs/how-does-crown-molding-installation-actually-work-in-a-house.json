@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does crown molding installation actually work in a house?",
-  "description": "It’s measured, cut, installed along the wall-ceiling line, then filled, caulked, and painted for a clean finish.",
   "url": "http://coloradoremodeling.company/faq/how-does-crown-molding-installation-actually-work-in-a-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does crown molding installation actually work in a house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crown molding installation usually means measuring the room, cutting the molding to fit corners, fastening it to the wall/ceiling line, and finishing gaps with caulk and paint touch-ups. For most homes in the Denver metro area, a professional installer can usually handle the whole process with minimal disruption, but rooms with uneven walls or tricky corners take more time.",
-        "description": "It’s measured, cut, installed along the wall-ceiling line, then filled, caulked, and painted for a clean finish."
-      }
-    }
-  ],
+  "name": "How does crown molding installation actually work in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does crown molding installation actually work in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding installation usually means measuring the room, cutting the molding to fit corners, fastening it to the wall/ceiling line, and finishing gaps with caulk and paint touch-ups. For most homes in the Denver metro area, a professional installer can usually handle the whole process with minimal disruption, but rooms with uneven walls or tricky corners take more time.",
+        "@type": "Answer",
+        "description": "It’s measured, cut, installed along the wall-ceiling line, then filled, caulked, and painted for a clean finish."
+      }
+    }
+  ],
+  "description": "It’s measured, cut, installed along the wall-ceiling line, then filled, caulked, and painted for a clean finish."
 }

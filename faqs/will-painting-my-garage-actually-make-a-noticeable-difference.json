@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will painting my garage actually make a noticeable difference?",
-  "description": "Yes. Fresh paint and clean trim usually make a garage look brighter, cleaner, and more finished. It also helps surfaces resist everyday wear better.",
   "url": "http://coloradoremodeling.company/faq/will-painting-my-garage-actually-make-a-noticeable-difference",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will painting my garage actually make a noticeable difference?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a garage, good results usually mean cleaner walls, sharper trim lines, and a space that looks more finished and is easier to maintain. Paint can also help protect surfaces from everyday wear, especially around trim, doors, and high-touch areas.",
-        "description": "Yes. Fresh paint and clean trim usually make a garage look brighter, cleaner, and more finished. It also helps surfaces resist everyday wear better."
-      }
-    }
-  ],
+  "name": "Will painting my garage actually make a noticeable difference?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will painting my garage actually make a noticeable difference?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a garage, good results usually mean cleaner walls, sharper trim lines, and a space that looks more finished and is easier to maintain. Paint can also help protect surfaces from everyday wear, especially around trim, doors, and high-touch areas.",
+        "@type": "Answer",
+        "description": "Yes. Fresh paint and clean trim usually make a garage look brighter, cleaner, and more finished. It also helps surfaces resist everyday wear better."
+      }
+    }
+  ],
+  "description": "Yes. Fresh paint and clean trim usually make a garage look brighter, cleaner, and more finished. It also helps surfaces resist everyday wear better."
 }

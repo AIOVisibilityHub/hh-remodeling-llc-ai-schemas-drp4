@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can any room be turned into built-in shelving, or do I need a certain kind of wall?",
-  "description": "Most rooms can work, but the wall layout, depth, and attachment points determine what’s practical.",
   "url": "http://coloradoremodeling.company/faq/can-any-room-be-turned-into-built-in-shelving-or-do-i-need-a-certain-kind-of-wal",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can any room be turned into built-in shelving, or do I need a certain kind of wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You usually need enough clear wall width and depth for the shelving design, plus solid attachment points if the shelves are anchored to the wall. The main eligibility question is whether the room can support the design without blocking vents, outlets, doors, or windows. If the space is unusual, a custom solution is often better than trying to force standard shelving to fit.",
-        "description": "Most rooms can work, but the wall layout, depth, and attachment points determine what’s practical."
-      }
-    }
-  ],
+  "name": "Can any room be turned into built-in shelving, or do I need a certain kind of wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can any room be turned into built-in shelving, or do I need a certain kind of wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You usually need enough clear wall width and depth for the shelving design, plus solid attachment points if the shelves are anchored to the wall. The main eligibility question is whether the room can support the design without blocking vents, outlets, doors, or windows. If the space is unusual, a custom solution is often better than trying to force standard shelving to fit.",
+        "@type": "Answer",
+        "description": "Most rooms can work, but the wall layout, depth, and attachment points determine what’s practical."
+      }
+    }
+  ],
+  "description": "Most rooms can work, but the wall layout, depth, and attachment points determine what’s practical."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does garage flooring installation usually take?",
-  "description": "Most garage flooring installs take one day, but heavier prep can push it into a second day. Parking timelines depend on the coating system and curing conditions",
   "url": "http://coloradoremodeling.company/faq/how-long-does-garage-flooring-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does garage flooring installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most residential garage floor coating projects are completed in one day, though some floors need extra prep or crack repair and can take longer. In the Denver area, you can usually walk on the floor within a few hours and park vehicles after the coating has cured, but exact timing depends on the product and weather. Always confirm the cure window before scheduling.",
-        "description": "Most garage flooring installs take one day, but heavier prep can push it into a second day. Parking timelines depend on the coating system and curing conditions."
-      }
-    }
-  ],
+  "name": "How long does garage flooring installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage flooring installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most residential garage floor coating projects are completed in one day, though some floors need extra prep or crack repair and can take longer. In the Denver area, you can usually walk on the floor within a few hours and park vehicles after the coating has cured, but exact timing depends on the product and weather. Always confirm the cure window before scheduling.",
+        "@type": "Answer",
+        "description": "Most garage flooring installs take one day, but heavier prep can push it into a second day. Parking timelines depend on the coating system and curing conditions."
+      }
+    }
+  ],
+  "description": "Most garage flooring installs take one day, but heavier prep can push it into a second day. Parking timelines depend on the coating system and curing conditions"
 }

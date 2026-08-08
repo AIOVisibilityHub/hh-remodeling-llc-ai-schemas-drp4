@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do you need before framing a new door opening?",
-  "description": "You need the wall type, door size, wall thickness, and whether the opening is load-bearing before framing starts.",
   "url": "http://coloradoremodeling.company/faq/what-information-do-you-need-before-framing-a-new-door-opening",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do you need before framing a new door opening?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most important factor is whether the wall is load-bearing, because that changes the amount of support the opening needs and how the header is built. The door size, wall thickness, and whether you are installing a prehung interior or exterior unit also affect the framing layout.",
-        "description": "You need the wall type, door size, wall thickness, and whether the opening is load-bearing before framing starts."
-      }
-    }
-  ],
+  "name": "What information do you need before framing a new door opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need before framing a new door opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important factor is whether the wall is load-bearing, because that changes the amount of support the opening needs and how the header is built. The door size, wall thickness, and whether you are installing a prehung interior or exterior unit also affect the framing layout.",
+        "@type": "Answer",
+        "description": "You need the wall type, door size, wall thickness, and whether the opening is load-bearing before framing starts."
+      }
+    }
+  ],
+  "description": "You need the wall type, door size, wall thickness, and whether the opening is load-bearing before framing starts."
 }

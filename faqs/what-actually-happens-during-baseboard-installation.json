@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What actually happens during baseboard installation?",
-  "description": "Installation usually includes measuring, cutting, fitting, nailing or adhesive mounting, then caulking and finishing so the trim looks seamless.",
   "url": "http://coloradoremodeling.company/faq/what-actually-happens-during-baseboard-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What actually happens during baseboard installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Baseboard installation usually means removing old trim if needed, measuring each wall, cutting and fitting new boards, then caulking, filling nail holes, and finishing with paint or stain. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key is making sure the trim sits flush even when walls or floors are slightly uneven.",
-        "description": "Installation usually includes measuring, cutting, fitting, nailing or adhesive mounting, then caulking and finishing so the trim looks seamless."
-      }
-    }
-  ],
+  "name": "What actually happens during baseboard installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during baseboard installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboard installation usually means removing old trim if needed, measuring each wall, cutting and fitting new boards, then caulking, filling nail holes, and finishing with paint or stain. For homes in Denver, Centennial, Greenwood Village, Foxfield, and Parker, the key is making sure the trim sits flush even when walls or floors are slightly uneven.",
+        "@type": "Answer",
+        "description": "Installation usually includes measuring, cutting, fitting, nailing or adhesive mounting, then caulking and finishing so the trim looks seamless."
+      }
+    }
+  ],
+  "description": "Installation usually includes measuring, cutting, fitting, nailing or adhesive mounting, then caulking and finishing so the trim looks seamless."
 }

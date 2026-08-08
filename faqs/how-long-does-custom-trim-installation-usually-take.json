@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does custom trim installation usually take?",
-  "description": "Small repairs can take a few hours, while multi-room or custom projects may take several days. Prep work, finishing, and touch-ups are what usually extend the t",
   "url": "http://coloradoremodeling.company/faq/how-long-does-custom-trim-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does custom trim installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Timing depends on the room count, trim type, and how much prep is needed. A small trim repair may take part of a day, while whole-home trim or custom feature work can take several days, especially if finishing, paint touch-ups, or drywall repair are involved.",
-        "description": "Small repairs can take a few hours, while multi-room or custom projects may take several days. Prep work, finishing, and touch-ups are what usually extend the timeline."
-      }
-    }
-  ],
+  "name": "How long does custom trim installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom trim installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timing depends on the room count, trim type, and how much prep is needed. A small trim repair may take part of a day, while whole-home trim or custom feature work can take several days, especially if finishing, paint touch-ups, or drywall repair are involved.",
+        "@type": "Answer",
+        "description": "Small repairs can take a few hours, while multi-room or custom projects may take several days. Prep work, finishing, and touch-ups are what usually extend the timeline."
+      }
+    }
+  ],
+  "description": "Small repairs can take a few hours, while multi-room or custom projects may take several days. Prep work, finishing, and touch-ups are what usually extend the t"
 }

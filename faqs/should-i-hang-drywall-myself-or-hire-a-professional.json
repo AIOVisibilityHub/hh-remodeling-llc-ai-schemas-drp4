@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I hang drywall myself or hire a professional?",
-  "description": "DIY can work for small, simple areas, but a pro is usually better for ceilings, tall walls, and fast timelines. Professional hanging also reduces the risk of un",
   "url": "http://coloradoremodeling.company/faq/should-i-hang-drywall-myself-or-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I hang drywall myself or hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker hire a pro when the project includes ceilings, tall walls, tricky cuts, or a tight timeline. Professional hanging also helps when you want flatter seams, fewer screw pops, and less risk of damaging electrical or plumbing lines hidden in the wall.",
-        "description": "DIY can work for small, simple areas, but a pro is usually better for ceilings, tall walls, and fast timelines. Professional hanging also reduces the risk of uneven seams and hidden utility damage."
-      }
-    }
-  ],
+  "name": "Should I hang drywall myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hang drywall myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker hire a pro when the project includes ceilings, tall walls, tricky cuts, or a tight timeline. Professional hanging also helps when you want flatter seams, fewer screw pops, and less risk of damaging electrical or plumbing lines hidden in the wall.",
+        "@type": "Answer",
+        "description": "DIY can work for small, simple areas, but a pro is usually better for ceilings, tall walls, and fast timelines. Professional hanging also reduces the risk of uneven seams and hidden utility damage."
+      }
+    }
+  ],
+  "description": "DIY can work for small, simple areas, but a pro is usually better for ceilings, tall walls, and fast timelines. Professional hanging also reduces the risk of un"
 }

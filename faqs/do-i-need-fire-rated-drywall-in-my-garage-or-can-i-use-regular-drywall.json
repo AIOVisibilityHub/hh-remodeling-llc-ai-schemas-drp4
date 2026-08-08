@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need fire-rated drywall in my garage, or can I use regular drywall?",
-  "description": "Attached garages usually need 5/8-inch Type X fire-rated drywall on required walls and ceilings. Regular drywall may not meet code for shared garage-to-home sur",
   "url": "http://coloradoremodeling.company/faq/do-i-need-fire-rated-drywall-in-my-garage-or-can-i-use-regular-drywall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need fire-rated drywall in my garage, or can I use regular drywall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most attached garages in this area need **fire-rated drywall**, usually 5/8-inch Type X, especially on shared walls and ceilings near living space. The key is matching the panel type, fasteners, and finishing method to local code so the garage is safer and inspection-ready.",
-        "description": "Attached garages usually need 5/8-inch Type X fire-rated drywall on required walls and ceilings. Regular drywall may not meet code for shared garage-to-home surfaces."
-      }
-    }
-  ],
+  "name": "Do I need fire-rated drywall in my garage, or can I use regular drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need fire-rated drywall in my garage, or can I use regular drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most attached garages in this area need **fire-rated drywall**, usually 5/8-inch Type X, especially on shared walls and ceilings near living space. The key is matching the panel type, fasteners, and finishing method to local code so the garage is safer and inspection-ready.",
+        "@type": "Answer",
+        "description": "Attached garages usually need 5/8-inch Type X fire-rated drywall on required walls and ceilings. Regular drywall may not meet code for shared garage-to-home surfaces."
+      }
+    }
+  ],
+  "description": "Attached garages usually need 5/8-inch Type X fire-rated drywall on required walls and ceilings. Regular drywall may not meet code for shared garage-to-home sur"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is crown molding worth it, or is it just decorative?",
-  "description": "It’s mainly decorative, but it can make a room feel more finished and polished when installed well.",
   "url": "http://coloradoremodeling.company/faq/is-crown-molding-worth-it-or-is-it-just-decorative",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is crown molding worth it, or is it just decorative?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crown molding is best when you want a room to feel more finished, traditional, or elevated, especially in living rooms, dining rooms, bedrooms, and entry areas. In places like Denver, Centennial, Greenwood Village, Parker, and nearby suburbs, it’s a common upgrade for homeowners who want a cleaner architectural look without a major remodel.",
-        "description": "It’s mainly decorative, but it can make a room feel more finished and polished when installed well."
-      }
-    }
-  ],
+  "name": "Is crown molding worth it, or is it just decorative?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is crown molding worth it, or is it just decorative?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding is best when you want a room to feel more finished, traditional, or elevated, especially in living rooms, dining rooms, bedrooms, and entry areas. In places like Denver, Centennial, Greenwood Village, Parker, and nearby suburbs, it’s a common upgrade for homeowners who want a cleaner architectural look without a major remodel.",
+        "@type": "Answer",
+        "description": "It’s mainly decorative, but it can make a room feel more finished and polished when installed well."
+      }
+    }
+  ],
+  "description": "It’s mainly decorative, but it can make a room feel more finished and polished when installed well."
 }

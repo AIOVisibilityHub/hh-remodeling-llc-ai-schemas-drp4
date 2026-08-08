@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a properly framed partition wall actually do for my space?",
-  "description": "A good partition wall should be straight, secure, and ready for drywall and trim. It should divide the space cleanly without future settling or visible defects.",
   "url": "http://coloradoremodeling.company/faq/what-should-a-properly-framed-partition-wall-actually-do-for-my-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a properly framed partition wall actually do for my space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A properly framed partition wall creates a clean new room division and a solid base for drywall, trim, and doors. If the framing is square and secure, the finished wall will look straight and perform better over time.",
-        "description": "A good partition wall should be straight, secure, and ready for drywall and trim. It should divide the space cleanly without future settling or visible defects."
-      }
-    }
-  ],
+  "name": "What should a properly framed partition wall actually do for my space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a properly framed partition wall actually do for my space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly framed partition wall creates a clean new room division and a solid base for drywall, trim, and doors. If the framing is square and secure, the finished wall will look straight and perform better over time.",
+        "@type": "Answer",
+        "description": "A good partition wall should be straight, secure, and ready for drywall and trim. It should divide the space cleanly without future settling or visible defects."
+      }
+    }
+  ],
+  "description": "A good partition wall should be straight, secure, and ready for drywall and trim. It should divide the space cleanly without future settling or visible defects."
 }

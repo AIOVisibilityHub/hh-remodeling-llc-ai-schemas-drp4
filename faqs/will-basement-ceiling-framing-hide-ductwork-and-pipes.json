@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will basement ceiling framing hide ductwork and pipes?",
-  "description": "Yes. Ceiling framing is commonly used to box in ductwork, pipes, and beams with soffits or dropped sections so the finished basement looks cleaner.",
   "url": "http://coloradoremodeling.company/faq/will-basement-ceiling-framing-hide-ductwork-and-pipes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will basement ceiling framing hide ductwork and pipes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if you need to conceal HVAC ductwork, plumbing lines, electrical runs, or steel beams. Ceiling framing is also used to create soffits, partial drops, or framed chases that make the basement look cleaner while preserving as much open space as possible.",
-        "description": "Yes. Ceiling framing is commonly used to box in ductwork, pipes, and beams with soffits or dropped sections so the finished basement looks cleaner."
-      }
-    }
-  ],
+  "name": "Will basement ceiling framing hide ductwork and pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will basement ceiling framing hide ductwork and pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if you need to conceal HVAC ductwork, plumbing lines, electrical runs, or steel beams. Ceiling framing is also used to create soffits, partial drops, or framed chases that make the basement look cleaner while preserving as much open space as possible.",
+        "@type": "Answer",
+        "description": "Yes. Ceiling framing is commonly used to box in ductwork, pipes, and beams with soffits or dropped sections so the finished basement looks cleaner."
+      }
+    }
+  ],
+  "description": "Yes. Ceiling framing is commonly used to box in ductwork, pipes, and beams with soffits or dropped sections so the finished basement looks cleaner."
 }

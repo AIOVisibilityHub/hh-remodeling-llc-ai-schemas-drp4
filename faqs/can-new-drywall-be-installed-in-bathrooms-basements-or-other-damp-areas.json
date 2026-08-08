@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can new drywall be installed in bathrooms, basements, or other damp areas?",
-  "description": "Yes, but damp areas usually need moisture-resistant drywall and the right ventilation plan. Standard drywall is not the best choice where regular moisture is ex",
   "url": "http://coloradoremodeling.company/faq/can-new-drywall-be-installed-in-bathrooms-basements-or-other-damp-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can new drywall be installed in bathrooms, basements, or other damp areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use moisture-resistant drywall in bathrooms, kitchens, laundry rooms, and other humid spaces. If the area may get wet often, the installer should also think about ventilation and where standard drywall should be avoided so the finished surface lasts longer.",
-        "description": "Yes, but damp areas usually need moisture-resistant drywall and the right ventilation plan. Standard drywall is not the best choice where regular moisture is expected."
-      }
-    }
-  ],
+  "name": "Can new drywall be installed in bathrooms, basements, or other damp areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can new drywall be installed in bathrooms, basements, or other damp areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use moisture-resistant drywall in bathrooms, kitchens, laundry rooms, and other humid spaces. If the area may get wet often, the installer should also think about ventilation and where standard drywall should be avoided so the finished surface lasts longer.",
+        "@type": "Answer",
+        "description": "Yes, but damp areas usually need moisture-resistant drywall and the right ventilation plan. Standard drywall is not the best choice where regular moisture is expected."
+      }
+    }
+  ],
+  "description": "Yes, but damp areas usually need moisture-resistant drywall and the right ventilation plan. Standard drywall is not the best choice where regular moisture is ex"
 }

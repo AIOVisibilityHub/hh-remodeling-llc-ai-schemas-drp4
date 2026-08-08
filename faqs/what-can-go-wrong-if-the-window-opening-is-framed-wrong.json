@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if the window opening is framed wrong?",
-  "description": "Bad framing can cause fit issues, structural problems, leaks, and finish damage. Header sizing, load-bearing walls, and exact rough opening dimensions matter mo",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-the-window-opening-is-framed-wrong",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if the window opening is framed wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risk is framing the opening too small, too large, or without enough structural support. If the header is undersized or the wall is load-bearing, the window may not install correctly and the wall can be compromised. Poor framing can also create air leaks, water intrusion, and finish problems later.",
-        "description": "Bad framing can cause fit issues, structural problems, leaks, and finish damage. Header sizing, load-bearing walls, and exact rough opening dimensions matter most."
-      }
-    }
-  ],
+  "name": "What can go wrong if the window opening is framed wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if the window opening is framed wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is framing the opening too small, too large, or without enough structural support. If the header is undersized or the wall is load-bearing, the window may not install correctly and the wall can be compromised. Poor framing can also create air leaks, water intrusion, and finish problems later.",
+        "@type": "Answer",
+        "description": "Bad framing can cause fit issues, structural problems, leaks, and finish damage. Header sizing, load-bearing walls, and exact rough opening dimensions matter most."
+      }
+    }
+  ],
+  "description": "Bad framing can cause fit issues, structural problems, leaks, and finish damage. Header sizing, load-bearing walls, and exact rough opening dimensions matter mo"
 }

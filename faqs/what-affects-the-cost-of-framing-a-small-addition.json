@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What affects the cost of framing a small addition?",
-  "description": "Main cost drivers are size, materials, roof changes, labor, and structural complexity. Tight tie-ins and load-bearing changes usually cost more.",
   "url": "http://coloradoremodeling.company/faq/what-affects-the-cost-of-framing-a-small-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What affects the cost of framing a small addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on square footage, lumber or steel needs, roof changes, labor, and whether the project includes structural upgrades. Small additions often cost less than major expansions, but tight tie-ins, custom roof lines, and load-bearing changes can raise the framing budget quickly.",
-        "description": "Main cost drivers are size, materials, roof changes, labor, and structural complexity. Tight tie-ins and load-bearing changes usually cost more."
-      }
-    }
-  ],
+  "name": "What affects the cost of framing a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of framing a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on square footage, lumber or steel needs, roof changes, labor, and whether the project includes structural upgrades. Small additions often cost less than major expansions, but tight tie-ins, custom roof lines, and load-bearing changes can raise the framing budget quickly.",
+        "@type": "Answer",
+        "description": "Main cost drivers are size, materials, roof changes, labor, and structural complexity. Tight tie-ins and load-bearing changes usually cost more."
+      }
+    }
+  ],
+  "description": "Main cost drivers are size, materials, roof changes, labor, and structural complexity. Tight tie-ins and load-bearing changes usually cost more."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I do wainscoting myself or hire an installer?",
-  "description": "DIY can work for a simple room, but professionals are better for custom layouts, uneven walls, and a cleaner finish. If the room has lots of cuts or trim detail",
   "url": "http://coloradoremodeling.company/faq/should-i-do-wainscoting-myself-or-hire-an-installer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I do wainscoting myself or hire an installer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are choosing between DIY and hiring a professional, the biggest difference is accuracy and finish quality. DIY can work for simple rooms, but professional installation is usually the better choice when walls are uneven, the layout is custom, or you want clean joints and consistent trim lines.",
-        "description": "DIY can work for a simple room, but professionals are better for custom layouts, uneven walls, and a cleaner finish. If the room has lots of cuts or trim detail, hiring usually saves time and frustration."
-      }
-    }
-  ],
+  "name": "Should I do wainscoting myself or hire an installer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I do wainscoting myself or hire an installer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are choosing between DIY and hiring a professional, the biggest difference is accuracy and finish quality. DIY can work for simple rooms, but professional installation is usually the better choice when walls are uneven, the layout is custom, or you want clean joints and consistent trim lines.",
+        "@type": "Answer",
+        "description": "DIY can work for a simple room, but professionals are better for custom layouts, uneven walls, and a cleaner finish. If the room has lots of cuts or trim detail, hiring usually saves time and frustration."
+      }
+    }
+  ],
+  "description": "DIY can work for a simple room, but professionals are better for custom layouts, uneven walls, and a cleaner finish. If the room has lots of cuts or trim detail"
 }

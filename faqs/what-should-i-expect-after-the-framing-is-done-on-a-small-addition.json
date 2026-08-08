@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after the framing is done on a small addition?",
-  "description": "Expect a solid structural shell with straight walls and clean tie-ins for the next trades. Good framing helps prevent cracks, sagging, and alignment problems la",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-the-framing-is-done-on-a-small-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after the framing is done on a small addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-framed addition should feel like part of the original house, with straight walls, proper structural support, and clean transitions for drywall, siding, and roofing. If the framing is done correctly, later trades can move faster and the finished space is less likely to have cracks, sagging, or alignment problems.",
-        "description": "Expect a solid structural shell with straight walls and clean tie-ins for the next trades. Good framing helps prevent cracks, sagging, and alignment problems later."
-      }
-    }
-  ],
+  "name": "What should I expect after the framing is done on a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after the framing is done on a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-framed addition should feel like part of the original house, with straight walls, proper structural support, and clean transitions for drywall, siding, and roofing. If the framing is done correctly, later trades can move faster and the finished space is less likely to have cracks, sagging, or alignment problems.",
+        "@type": "Answer",
+        "description": "Expect a solid structural shell with straight walls and clean tie-ins for the next trades. Good framing helps prevent cracks, sagging, and alignment problems later."
+      }
+    }
+  ],
+  "description": "Expect a solid structural shell with straight walls and clean tie-ins for the next trades. Good framing helps prevent cracks, sagging, and alignment problems la"
 }

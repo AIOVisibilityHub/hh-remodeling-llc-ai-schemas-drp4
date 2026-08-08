@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect after structural wall framing is completed?",
-  "description": "A correct job should leave you with a straight, stable wall that carries loads properly and passes inspection. The result should not be sagging, cracking, or ou",
   "url": "http://coloradoremodeling.company/faq/what-should-i-expect-after-structural-wall-framing-is-completed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect after structural wall framing is completed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When done correctly, structural wall framing should produce a wall that stays straight, carries loads properly, and supports the finishes without movement or cracking. In many Denver-area projects, the final outcome also depends on whether the framing matches the approved plan and passes inspection before the wall is closed.",
-        "description": "A correct job should leave you with a straight, stable wall that carries loads properly and passes inspection. The result should not be sagging, cracking, or out-of-plumb surfaces."
-      }
-    }
-  ],
+  "name": "What should I expect after structural wall framing is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect after structural wall framing is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When done correctly, structural wall framing should produce a wall that stays straight, carries loads properly, and supports the finishes without movement or cracking. In many Denver-area projects, the final outcome also depends on whether the framing matches the approved plan and passes inspection before the wall is closed.",
+        "@type": "Answer",
+        "description": "A correct job should leave you with a straight, stable wall that carries loads properly and passes inspection. The result should not be sagging, cracking, or out-of-plumb surfaces."
+      }
+    }
+  ],
+  "description": "A correct job should leave you with a straight, stable wall that carries loads properly and passes inspection. The result should not be sagging, cracking, or ou"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does basement drywall installation take?",
-  "description": "The hanging may be quick, but finishing takes longer because joint compound needs drying time between coats. Basement humidity, ceiling work, and lots of cutout",
   "url": "http://coloradoremodeling.company/faq/how-long-does-basement-drywall-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does basement drywall installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drywall hanging itself can move quickly, but the full project usually takes several days because mud and compound need drying time between coats. Small, straightforward rooms may finish faster, while larger basements or projects with lots of cuts, corners, and ceiling work take longer. Humidity and temperature can also slow drying and finishing.",
-        "description": "The hanging may be quick, but finishing takes longer because joint compound needs drying time between coats. Basement humidity, ceiling work, and lots of cutouts can add extra days."
-      }
-    }
-  ],
+  "name": "How long does basement drywall installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement drywall installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall hanging itself can move quickly, but the full project usually takes several days because mud and compound need drying time between coats. Small, straightforward rooms may finish faster, while larger basements or projects with lots of cuts, corners, and ceiling work take longer. Humidity and temperature can also slow drying and finishing.",
+        "@type": "Answer",
+        "description": "The hanging may be quick, but finishing takes longer because joint compound needs drying time between coats. Basement humidity, ceiling work, and lots of cutouts can add extra days."
+      }
+    }
+  ],
+  "description": "The hanging may be quick, but finishing takes longer because joint compound needs drying time between coats. Basement humidity, ceiling work, and lots of cutout"
 }

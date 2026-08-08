@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if basement drywall installation was done well?",
-  "description": "Look for smooth seams, clean corners, and no visible screw heads after priming and painting. Cracks, pops, or ridges usually mean the work was rushed or the fra",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-basement-drywall-installation-was-done-well",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if basement drywall installation was done well?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good finish should have flat seams, well-blended corners, and screw heads that are not visible after paint. In basements, the most common quality issues are cracked seams, nail or screw pops, and rough patches caused by rushed finishing or movement in the framing. Good lighting during the final inspection helps catch defects before paint goes on.",
-        "description": "Look for smooth seams, clean corners, and no visible screw heads after priming and painting. Cracks, pops, or ridges usually mean the work was rushed or the framing moved."
-      }
-    }
-  ],
+  "name": "How do I know if basement drywall installation was done well?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if basement drywall installation was done well?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good finish should have flat seams, well-blended corners, and screw heads that are not visible after paint. In basements, the most common quality issues are cracked seams, nail or screw pops, and rough patches caused by rushed finishing or movement in the framing. Good lighting during the final inspection helps catch defects before paint goes on.",
+        "@type": "Answer",
+        "description": "Look for smooth seams, clean corners, and no visible screw heads after priming and painting. Cracks, pops, or ridges usually mean the work was rushed or the framing moved."
+      }
+    }
+  ],
+  "description": "Look for smooth seams, clean corners, and no visible screw heads after priming and painting. Cracks, pops, or ridges usually mean the work was rushed or the fra"
 }

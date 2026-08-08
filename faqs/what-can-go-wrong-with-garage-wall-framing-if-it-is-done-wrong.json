@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with garage wall framing if it is done wrong?",
-  "description": "Common problems include crooked walls, bad door openings, poor fastening, and finish issues later. A bad frame can create expensive rework.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-garage-wall-framing-if-it-is-done-wrong",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with garage wall framing if it is done wrong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing is risky when walls are not square, when the slab is out of level, or when the garage door opening is not sized correctly. Those problems can lead to drywall issues, doors that do not fit, and walls that bow or rack under load, so a clean layout and solid fastening matter from the start.",
-        "description": "Common problems include crooked walls, bad door openings, poor fastening, and finish issues later. A bad frame can create expensive rework."
-      }
-    }
-  ],
+  "name": "What can go wrong with garage wall framing if it is done wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with garage wall framing if it is done wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing is risky when walls are not square, when the slab is out of level, or when the garage door opening is not sized correctly. Those problems can lead to drywall issues, doors that do not fit, and walls that bow or rack under load, so a clean layout and solid fastening matter from the start.",
+        "@type": "Answer",
+        "description": "Common problems include crooked walls, bad door openings, poor fastening, and finish issues later. A bad frame can create expensive rework."
+      }
+    }
+  ],
+  "description": "Common problems include crooked walls, bad door openings, poor fastening, and finish issues later. A bad frame can create expensive rework."
 }

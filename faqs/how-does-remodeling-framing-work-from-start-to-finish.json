@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does remodeling framing work from start to finish?",
-  "description": "Framing starts with layout and measurements, then demolition, rebuild, and structural checks. After that, rough-in trades follow and the space is prepared for i",
   "url": "http://coloradoremodeling.company/faq/how-does-remodeling-framing-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does remodeling framing work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with measuring the existing space, confirming the new layout, and identifying structural changes. Then the crew removes old material, builds the new frame, checks that everything is square and plumb, and coordinates around electrical, plumbing, and HVAC rough-ins before inspection and drywall.",
-        "description": "Framing starts with layout and measurements, then demolition, rebuild, and structural checks. After that, rough-in trades follow and the space is prepared for inspection and drywall."
-      }
-    }
-  ],
+  "name": "How does remodeling framing work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does remodeling framing work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with measuring the existing space, confirming the new layout, and identifying structural changes. Then the crew removes old material, builds the new frame, checks that everything is square and plumb, and coordinates around electrical, plumbing, and HVAC rough-ins before inspection and drywall.",
+        "@type": "Answer",
+        "description": "Framing starts with layout and measurements, then demolition, rebuild, and structural checks. After that, rough-in trades follow and the space is prepared for inspection and drywall."
+      }
+    }
+  ],
+  "description": "Framing starts with layout and measurements, then demolition, rebuild, and structural checks. After that, rough-in trades follow and the space is prepared for i"
 }

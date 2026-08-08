@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong with garage flooring installation?",
-  "description": "The biggest risks are peeling, bubbling, and slippery surfaces. Most failures come from weak prep, hidden moisture, or the wrong coating system.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-with-garage-flooring-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong with garage flooring installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are poor adhesion, peeling, hot-tire pickup, and moisture-related failure if the concrete was not prepared correctly. Slipperiness can also be an issue if the finish is too smooth or the installer does not add the right traction profile. Choosing the wrong system for Denver weather can shorten the life of the floor.",
-        "description": "The biggest risks are peeling, bubbling, and slippery surfaces. Most failures come from weak prep, hidden moisture, or the wrong coating system."
-      }
-    }
-  ],
+  "name": "What can go wrong with garage flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with garage flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are poor adhesion, peeling, hot-tire pickup, and moisture-related failure if the concrete was not prepared correctly. Slipperiness can also be an issue if the finish is too smooth or the installer does not add the right traction profile. Choosing the wrong system for Denver weather can shorten the life of the floor.",
+        "@type": "Answer",
+        "description": "The biggest risks are peeling, bubbling, and slippery surfaces. Most failures come from weak prep, hidden moisture, or the wrong coating system."
+      }
+    }
+  ],
+  "description": "The biggest risks are peeling, bubbling, and slippery surfaces. Most failures come from weak prep, hidden moisture, or the wrong coating system."
 }

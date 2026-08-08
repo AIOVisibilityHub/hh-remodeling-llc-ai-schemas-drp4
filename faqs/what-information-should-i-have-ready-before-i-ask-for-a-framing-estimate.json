@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready before I ask for a framing estimate?",
-  "description": "Have a clear layout, opening sizes, wall changes, and any known utility locations ready. The more accurate your plan, the more useful the framing estimate will",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-i-ask-for-a-framing-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready before I ask for a framing estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good framing depends on clear documentation before work starts: the planned layout, wall locations, opening sizes, and whether any walls are structural. You should also know where electrical, plumbing, and HVAC lines are so the framing plan does not conflict with rough-ins.",
-        "description": "Have a clear layout, opening sizes, wall changes, and any known utility locations ready. The more accurate your plan, the more useful the framing estimate will be."
-      }
-    }
-  ],
+  "name": "What information should I have ready before I ask for a framing estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before I ask for a framing estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good framing depends on clear documentation before work starts: the planned layout, wall locations, opening sizes, and whether any walls are structural. You should also know where electrical, plumbing, and HVAC lines are so the framing plan does not conflict with rough-ins.",
+        "@type": "Answer",
+        "description": "Have a clear layout, opening sizes, wall changes, and any known utility locations ready. The more accurate your plan, the more useful the framing estimate will be."
+      }
+    }
+  ],
+  "description": "Have a clear layout, opening sizes, wall changes, and any known utility locations ready. The more accurate your plan, the more useful the framing estimate will"
 }

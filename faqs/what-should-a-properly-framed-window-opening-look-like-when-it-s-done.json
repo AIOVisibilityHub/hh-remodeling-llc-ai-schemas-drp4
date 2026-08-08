@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should a properly framed window opening look like when it’s done?",
-  "description": "It should be square, level, structurally supported, and sized to the window’s rough opening. Good framing makes installation, sealing, and finish work much easi",
   "url": "http://coloradoremodeling.company/faq/what-should-a-properly-framed-window-opening-look-like-when-it-s-done",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should a properly framed window opening look like when it’s done?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A correctly framed opening gives you a square, level, properly supported space that matches the new window’s rough-opening requirements. That usually means smoother installation, better sealing, and fewer callbacks. If the framing is off, the finish trim and weatherproofing often suffer even if the window itself is good.",
-        "description": "It should be square, level, structurally supported, and sized to the window’s rough opening. Good framing makes installation, sealing, and finish work much easier."
-      }
-    }
-  ],
+  "name": "What should a properly framed window opening look like when it’s done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should a properly framed window opening look like when it’s done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A correctly framed opening gives you a square, level, properly supported space that matches the new window’s rough-opening requirements. That usually means smoother installation, better sealing, and fewer callbacks. If the framing is off, the finish trim and weatherproofing often suffer even if the window itself is good.",
+        "@type": "Answer",
+        "description": "It should be square, level, structurally supported, and sized to the window’s rough opening. Good framing makes installation, sealing, and finish work much easier."
+      }
+    }
+  ],
+  "description": "It should be square, level, structurally supported, and sized to the window’s rough opening. Good framing makes installation, sealing, and finish work much easi"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to rebuild the framing if I’m changing a door opening size?",
-  "description": "Yes. Changing a doorway size usually means redoing the framing so the opening is properly supported, and Denver generally requires permits for resizing or creat",
   "url": "http://coloradoremodeling.company/faq/do-i-need-to-rebuild-the-framing-if-i-m-changing-a-door-opening-size",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to rebuild the framing if I’m changing a door opening size?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you’re changing the size of an existing doorway or cutting a new opening, the frame usually needs to be rebuilt so the header, king studs, and jack studs support the wall correctly. In Denver, those changes typically also trigger a permit review when the opening size is altered or a new doorway is created.",
-        "description": "Yes. Changing a doorway size usually means redoing the framing so the opening is properly supported, and Denver generally requires permits for resizing or creating a new doorway."
-      }
-    }
-  ],
+  "name": "Do I need to rebuild the framing if I’m changing a door opening size?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to rebuild the framing if I’m changing a door opening size?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you’re changing the size of an existing doorway or cutting a new opening, the frame usually needs to be rebuilt so the header, king studs, and jack studs support the wall correctly. In Denver, those changes typically also trigger a permit review when the opening size is altered or a new doorway is created.",
+        "@type": "Answer",
+        "description": "Yes. Changing a doorway size usually means redoing the framing so the opening is properly supported, and Denver generally requires permits for resizing or creating a new doorway."
+      }
+    }
+  ],
+  "description": "Yes. Changing a doorway size usually means redoing the framing so the opening is properly supported, and Denver generally requires permits for resizing or creat"
 }

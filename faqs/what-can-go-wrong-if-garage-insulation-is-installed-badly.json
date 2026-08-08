@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if garage insulation is installed badly?",
-  "description": "Bad installation can trap moisture, leave air gaps, or use the wrong material for the space. That lowers comfort and can create avoidable problems later.",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-garage-insulation-is-installed-badly",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if garage insulation is installed badly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main risks are trapping moisture, blocking ventilation, or choosing a material that does not fit the wall or ceiling type. Poor installation can also leave gaps around the garage door, outlets, or rim joists, which reduces performance and can waste money.",
-        "description": "Bad installation can trap moisture, leave air gaps, or use the wrong material for the space. That lowers comfort and can create avoidable problems later."
-      }
-    }
-  ],
+  "name": "What can go wrong if garage insulation is installed badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if garage insulation is installed badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main risks are trapping moisture, blocking ventilation, or choosing a material that does not fit the wall or ceiling type. Poor installation can also leave gaps around the garage door, outlets, or rim joists, which reduces performance and can waste money.",
+        "@type": "Answer",
+        "description": "Bad installation can trap moisture, leave air gaps, or use the wrong material for the space. That lowers comfort and can create avoidable problems later."
+      }
+    }
+  ],
+  "description": "Bad installation can trap moisture, leave air gaps, or use the wrong material for the space. That lowers comfort and can create avoidable problems later."
 }

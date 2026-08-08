@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my wall can be framed as a structural wall?",
-  "description": "A wall is eligible only if its load path, headers, studs, and bracing are designed for the loads it will carry. Load-bearing walls need a proper structural layo",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-wall-can-be-framed-as-a-structural-wall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my wall can be framed as a structural wall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A structural wall framing project is usually eligible when the existing wall can safely carry the intended loads or when a proper redesign is done first. If the wall supports floors, roof loads, or bracing, the layout, header size, stud spacing, and shear details must match code and the specific site conditions.",
-        "description": "A wall is eligible only if its load path, headers, studs, and bracing are designed for the loads it will carry. Load-bearing walls need a proper structural layout, not guesswork."
-      }
-    }
-  ],
+  "name": "How do I know if my wall can be framed as a structural wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wall can be framed as a structural wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A structural wall framing project is usually eligible when the existing wall can safely carry the intended loads or when a proper redesign is done first. If the wall supports floors, roof loads, or bracing, the layout, header size, stud spacing, and shear details must match code and the specific site conditions.",
+        "@type": "Answer",
+        "description": "A wall is eligible only if its load path, headers, studs, and bracing are designed for the loads it will carry. Load-bearing walls need a proper structural layout, not guesswork."
+      }
+    }
+  ],
+  "description": "A wall is eligible only if its load path, headers, studs, and bracing are designed for the loads it will carry. Load-bearing walls need a proper structural layo"
 }

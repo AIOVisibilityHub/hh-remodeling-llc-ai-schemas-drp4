@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong if I finish basement drywall before fixing moisture issues?",
-  "description": "If moisture is not handled first, finished basement walls can bubble, stain, or grow mold behind the drywall. Fix leaks, drainage, and humidity problems before",
   "url": "http://coloradoremodeling.company/faq/what-can-go-wrong-if-i-finish-basement-drywall-before-fixing-moisture-issues",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong if I finish basement drywall before fixing moisture issues?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest warning sign is moisture: stains, musty smells, damp concrete, or previous mold mean the wall assembly needs more than just drywall. In basements, finishing over an unresolved leak or humidity issue can trap problems behind the wall and lead to repairs later.",
-        "description": "If moisture is not handled first, finished basement walls can bubble, stain, or grow mold behind the drywall. Fix leaks, drainage, and humidity problems before closing the walls."
-      }
-    }
-  ],
+  "name": "What can go wrong if I finish basement drywall before fixing moisture issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I finish basement drywall before fixing moisture issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest warning sign is moisture: stains, musty smells, damp concrete, or previous mold mean the wall assembly needs more than just drywall. In basements, finishing over an unresolved leak or humidity issue can trap problems behind the wall and lead to repairs later.",
+        "@type": "Answer",
+        "description": "If moisture is not handled first, finished basement walls can bubble, stain, or grow mold behind the drywall. Fix leaks, drainage, and humidity problems before closing the walls."
+      }
+    }
+  ],
+  "description": "If moisture is not handled first, finished basement walls can bubble, stain, or grow mold behind the drywall. Fix leaks, drainage, and humidity problems before"
 }

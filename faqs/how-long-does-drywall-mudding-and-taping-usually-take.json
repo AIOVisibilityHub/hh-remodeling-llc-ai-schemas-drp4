@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does drywall mudding and taping usually take?",
-  "description": "Plan on 2–3 coats and multiple drying periods, so even a straightforward job usually takes several days from start to ready-to-paint.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-drywall-mudding-and-taping-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does drywall mudding and taping usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most drywall finishing takes at least 2 to 3 coats: one to bed the tape, one to build the joint, and one to refine the surface. A simple room can often be finished in a few days, but drying time, room temperature, and humidity can stretch the schedule.",
-        "description": "Plan on 2–3 coats and multiple drying periods, so even a straightforward job usually takes several days from start to ready-to-paint."
-      }
-    }
-  ],
+  "name": "How long does drywall mudding and taping usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall mudding and taping usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most drywall finishing takes at least 2 to 3 coats: one to bed the tape, one to build the joint, and one to refine the surface. A simple room can often be finished in a few days, but drying time, room temperature, and humidity can stretch the schedule.",
+        "@type": "Answer",
+        "description": "Plan on 2–3 coats and multiple drying periods, so even a straightforward job usually takes several days from start to ready-to-paint."
+      }
+    }
+  ],
+  "description": "Plan on 2–3 coats and multiple drying periods, so even a straightforward job usually takes several days from start to ready-to-paint."
 }

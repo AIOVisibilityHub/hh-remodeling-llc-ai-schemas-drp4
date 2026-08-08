@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I compare when hiring someone for baseboard installation?",
-  "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-compare-when-hiring-someone-for-baseboard-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I compare when hiring someone for baseboard installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are comparing installers, ask whether they handle removal, patching, caulking, and painting, or only the trim itself. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to ask about experience with uneven walls, flooring transitions, and finish quality before you hire.",
-        "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions."
-      }
-    }
-  ],
+  "name": "What should I compare when hiring someone for baseboard installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when hiring someone for baseboard installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are comparing installers, ask whether they handle removal, patching, caulking, and painting, or only the trim itself. For homeowners in Denver, Centennial, Greenwood Village, Foxfield, and Parker, it also helps to ask about experience with uneven walls, flooring transitions, and finish quality before you hire.",
+        "@type": "Answer",
+        "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions."
+      }
+    }
+  ],
+  "description": "Compare scope, finish quality, removal and patching services, and experience with uneven walls or flooring transitions."
 }

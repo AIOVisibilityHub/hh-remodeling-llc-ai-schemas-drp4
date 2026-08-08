@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does baseboard installation usually take?",
-  "description": "A simple room can be done quickly, but corners, removal of old trim, and finishing work can add time.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-baseboard-installation-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does baseboard installation usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most baseboard jobs are straightforward, but the size of the room, the number of corners, and whether old trim must be removed can change the timeline and cost. More complex layouts or homes needing patching and repainting will take longer than a simple swap in a single room.",
-        "description": "A simple room can be done quickly, but corners, removal of old trim, and finishing work can add time."
-      }
-    }
-  ],
+  "name": "How long does baseboard installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does baseboard installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most baseboard jobs are straightforward, but the size of the room, the number of corners, and whether old trim must be removed can change the timeline and cost. More complex layouts or homes needing patching and repainting will take longer than a simple swap in a single room.",
+        "@type": "Answer",
+        "description": "A simple room can be done quickly, but corners, removal of old trim, and finishing work can add time."
+      }
+    }
+  ],
+  "description": "A simple room can be done quickly, but corners, removal of old trim, and finishing work can add time."
 }

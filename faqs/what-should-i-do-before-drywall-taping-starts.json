@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do before drywall taping starts?",
-  "description": "Before taping, make sure seams are secure, gaps are filled, and damaged paper or broken edges are repaired so the finish coats bond properly.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-do-before-drywall-taping-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do before drywall taping starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most rooms, the fastest safe answer is to fix anything that is loose, badly aligned, or has gaps before taping starts. Small screw holes and seams are normal to finish, but bigger gaps, torn drywall paper, or uneven joints usually need pre-filling or repair first.",
-        "description": "Before taping, make sure seams are secure, gaps are filled, and damaged paper or broken edges are repaired so the finish coats bond properly."
-      }
-    }
-  ],
+  "name": "What should I do before drywall taping starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before drywall taping starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most rooms, the fastest safe answer is to fix anything that is loose, badly aligned, or has gaps before taping starts. Small screw holes and seams are normal to finish, but bigger gaps, torn drywall paper, or uneven joints usually need pre-filling or repair first.",
+        "@type": "Answer",
+        "description": "Before taping, make sure seams are secure, gaps are filled, and damaged paper or broken edges are repaired so the finish coats bond properly."
+      }
+    }
+  ],
+  "description": "Before taping, make sure seams are secure, gaps are filled, and damaged paper or broken edges are repaired so the finish coats bond properly."
 }

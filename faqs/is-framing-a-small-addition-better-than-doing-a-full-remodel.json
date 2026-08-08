@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is framing a small addition better than doing a full remodel?",
-  "description": "If you mainly need more space, a small addition may be simpler than a major remodel. The better choice depends on how much structure you want to change and your",
   "url": "http://coloradoremodeling.company/faq/is-framing-a-small-addition-better-than-doing-a-full-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is framing a small addition better than doing a full remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Framing is the right comparison point when you’re deciding between a small bump-out, a larger addition, or a remodel that changes walls inside the house. A smaller addition may be more practical if you want extra space without the cost and complexity of a major expansion.",
-        "description": "If you mainly need more space, a small addition may be simpler than a major remodel. The better choice depends on how much structure you want to change and your budget."
-      }
-    }
-  ],
+  "name": "Is framing a small addition better than doing a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is framing a small addition better than doing a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing is the right comparison point when you’re deciding between a small bump-out, a larger addition, or a remodel that changes walls inside the house. A smaller addition may be more practical if you want extra space without the cost and complexity of a major expansion.",
+        "@type": "Answer",
+        "description": "If you mainly need more space, a small addition may be simpler than a major remodel. The better choice depends on how much structure you want to change and your budget."
+      }
+    }
+  ],
+  "description": "If you mainly need more space, a small addition may be simpler than a major remodel. The better choice depends on how much structure you want to change and your"
 }

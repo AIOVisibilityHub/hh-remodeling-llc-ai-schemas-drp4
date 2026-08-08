@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information should I have ready before asking for a basement door estimate?",
-  "description": "Have photos, rough measurements, and notes about leaks, rust, sticking, or frame damage ready. The more detail you provide, the more accurate the estimate will",
   "url": "http://coloradoremodeling.company/faq/what-information-should-i-have-ready-before-asking-for-a-basement-door-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information should I have ready before asking for a basement door estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An installer usually needs the opening dimensions, photos of the existing door, and details about any leaks, rust, or frame damage. If you want an accurate estimate, include whether the project is a full replacement or a new opening, since those are very different jobs.",
-        "description": "Have photos, rough measurements, and notes about leaks, rust, sticking, or frame damage ready. The more detail you provide, the more accurate the estimate will be."
-      }
-    }
-  ],
+  "name": "What information should I have ready before asking for a basement door estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a basement door estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An installer usually needs the opening dimensions, photos of the existing door, and details about any leaks, rust, or frame damage. If you want an accurate estimate, include whether the project is a full replacement or a new opening, since those are very different jobs.",
+        "@type": "Answer",
+        "description": "Have photos, rough measurements, and notes about leaks, rust, sticking, or frame damage ready. The more detail you provide, the more accurate the estimate will be."
+      }
+    }
+  ],
+  "description": "Have photos, rough measurements, and notes about leaks, rust, sticking, or frame damage ready. The more detail you provide, the more accurate the estimate will"
 }

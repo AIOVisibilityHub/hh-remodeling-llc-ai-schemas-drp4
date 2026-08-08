@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does garage wall framing cost, and what should be included in the quote?",
-  "description": "Price depends on wall size, materials, and complexity. Compare quotes by checking whether labor, lumber, fastening, and opening details are all included.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-garage-wall-framing-cost-and-what-should-be-included-in-the-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does garage wall framing cost, and what should be included in the quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Costs vary based on wall length, lumber size, whether the garage is attached or detached, and how much prep is needed around the slab, door openings, or existing structure. If you are comparing bids, make sure each quote includes labor, lumber, fasteners, fastening to the slab, and any framing needed around windows or garage doors so you are comparing the same scope.",
-        "description": "Price depends on wall size, materials, and complexity. Compare quotes by checking whether labor, lumber, fastening, and opening details are all included."
-      }
-    }
-  ],
+  "name": "How much does garage wall framing cost, and what should be included in the quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does garage wall framing cost, and what should be included in the quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary based on wall length, lumber size, whether the garage is attached or detached, and how much prep is needed around the slab, door openings, or existing structure. If you are comparing bids, make sure each quote includes labor, lumber, fasteners, fastening to the slab, and any framing needed around windows or garage doors so you are comparing the same scope.",
+        "@type": "Answer",
+        "description": "Price depends on wall size, materials, and complexity. Compare quotes by checking whether labor, lumber, fastening, and opening details are all included."
+      }
+    }
+  ],
+  "description": "Price depends on wall size, materials, and complexity. Compare quotes by checking whether labor, lumber, fastening, and opening details are all included."
 }

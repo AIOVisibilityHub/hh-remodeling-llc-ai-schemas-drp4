@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know when drywall is ready to prime?",
-  "description": "It’s ready when the joints feel flat by hand, the tape is fully covered, and there are no bubbles, ridges, or visible seam lines.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-when-drywall-is-ready-to-prime",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know when drywall is ready to prime?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drywall is usually ready for primer when the seams are flat, the tape edges cannot be felt, and there are no visible ridges, bubbles, or deep tool marks. If you can run your hand across the surface and still feel transitions, it needs more sanding or another coat.",
-        "description": "It’s ready when the joints feel flat by hand, the tape is fully covered, and there are no bubbles, ridges, or visible seam lines."
-      }
-    }
-  ],
+  "name": "How do I know when drywall is ready to prime?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when drywall is ready to prime?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall is usually ready for primer when the seams are flat, the tape edges cannot be felt, and there are no visible ridges, bubbles, or deep tool marks. If you can run your hand across the surface and still feel transitions, it needs more sanding or another coat.",
+        "@type": "Answer",
+        "description": "It’s ready when the joints feel flat by hand, the tape is fully covered, and there are no bubbles, ridges, or visible seam lines."
+      }
+    }
+  ],
+  "description": "It’s ready when the joints feel flat by hand, the tape is fully covered, and there are no bubbles, ridges, or visible seam lines."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install casing around one door?",
-  "description": "A simple single-door casing install often takes a few hours. If there’s repair work, custom trim, or multiple doors, plan for most of a day or longer.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-install-casing-around-one-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install casing around one door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most straightforward interior casing jobs can be completed in a few hours, but the timeline depends on how many doors you’re doing and whether any jamb or drywall repair is needed first. If the casing is being matched to existing trim in homes around Denver, Centennial, or Parker, extra time may be needed for custom cuts and finishing.",
-        "description": "A simple single-door casing install often takes a few hours. If there’s repair work, custom trim, or multiple doors, plan for most of a day or longer."
-      }
-    }
-  ],
+  "name": "How long does it take to install casing around one door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install casing around one door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most straightforward interior casing jobs can be completed in a few hours, but the timeline depends on how many doors you’re doing and whether any jamb or drywall repair is needed first. If the casing is being matched to existing trim in homes around Denver, Centennial, or Parker, extra time may be needed for custom cuts and finishing.",
+        "@type": "Answer",
+        "description": "A simple single-door casing install often takes a few hours. If there’s repair work, custom trim, or multiple doors, plan for most of a day or longer."
+      }
+    }
+  ],
+  "description": "A simple single-door casing install often takes a few hours. If there’s repair work, custom trim, or multiple doors, plan for most of a day or longer."
 }

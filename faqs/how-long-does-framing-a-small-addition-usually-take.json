@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does framing a small addition usually take?",
-  "description": "It depends on the size, weather, materials, and structural complexity. A simple addition frames faster than a complex tie-in or second-story build.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-framing-a-small-addition-usually-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does framing a small addition usually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small additions can move quickly once the foundation is ready, but timing depends on weather, material availability, inspection timing, and how much structural tie-in is required. In the Denver metro area, a simple addition may frame faster than a second-story or complex bump-out, which needs more coordination.",
-        "description": "It depends on the size, weather, materials, and structural complexity. A simple addition frames faster than a complex tie-in or second-story build."
-      }
-    }
-  ],
+  "name": "How long does framing a small addition usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does framing a small addition usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small additions can move quickly once the foundation is ready, but timing depends on weather, material availability, inspection timing, and how much structural tie-in is required. In the Denver metro area, a simple addition may frame faster than a second-story or complex bump-out, which needs more coordination.",
+        "@type": "Answer",
+        "description": "It depends on the size, weather, materials, and structural complexity. A simple addition frames faster than a complex tie-in or second-story build."
+      }
+    }
+  ],
+  "description": "It depends on the size, weather, materials, and structural complexity. A simple addition frames faster than a complex tie-in or second-story build."
 }

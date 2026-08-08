@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What prep work should be included before garage painting and trim work?",
-  "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer.",
   "url": "http://coloradoremodeling.company/faq/what-prep-work-should-be-included-before-garage-painting-and-trim-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What prep work should be included before garage painting and trim work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good garage paint job starts with cleaning, patching, sanding, and priming the surfaces that need it. For trim work, the painter should also caulk gaps, repair minor imperfections, and protect adjacent surfaces so the finish looks clean and holds up in a high-use space.",
-        "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer."
-      }
-    }
-  ],
+  "name": "What prep work should be included before garage painting and trim work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What prep work should be included before garage painting and trim work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good garage paint job starts with cleaning, patching, sanding, and priming the surfaces that need it. For trim work, the painter should also caulk gaps, repair minor imperfections, and protect adjacent surfaces so the finish looks clean and holds up in a high-use space.",
+        "@type": "Answer",
+        "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer."
+      }
+    }
+  ],
+  "description": "Expect cleaning, patching, sanding, priming, and caulking before paint goes on. Good prep is what helps garage walls and trim finish smoothly and last longer."
 }

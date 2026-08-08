@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I paint my basement myself or hire a professional?",
-  "description": "DIY can work for a dry, simple basement, but pros are better for concrete, block, cracks, or moisture concerns. If prep is complicated, professional work is usu",
   "url": "http://coloradoremodeling.company/faq/should-i-paint-my-basement-myself-or-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I paint my basement myself or hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY is usually better for a simple, dry basement with sound drywall and minor cosmetic touch-ups. Professional help makes more sense if the walls are concrete or block, if there are cracks or moisture stains, or if you want the job done with the right primers and coatings the first time. In Denver-area homes, older basements often have hidden prep issues that make professional evaluation worthwhile.",
-        "description": "DIY can work for a dry, simple basement, but pros are better for concrete, block, cracks, or moisture concerns. If prep is complicated, professional work is usually the safer choice."
-      }
-    }
-  ],
+  "name": "Should I paint my basement myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint my basement myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY is usually better for a simple, dry basement with sound drywall and minor cosmetic touch-ups. Professional help makes more sense if the walls are concrete or block, if there are cracks or moisture stains, or if you want the job done with the right primers and coatings the first time. In Denver-area homes, older basements often have hidden prep issues that make professional evaluation worthwhile.",
+        "@type": "Answer",
+        "description": "DIY can work for a dry, simple basement, but pros are better for concrete, block, cracks, or moisture concerns. If prep is complicated, professional work is usually the safer choice."
+      }
+    }
+  ],
+  "description": "DIY can work for a dry, simple basement, but pros are better for concrete, block, cracks, or moisture concerns. If prep is complicated, professional work is usu"
 }

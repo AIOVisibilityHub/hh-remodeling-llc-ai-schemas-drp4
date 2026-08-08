@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I use green board or regular drywall in my basement walls?",
-  "description": "Use moisture-resistant drywall when basement walls are below grade or have any moisture risk. Regular drywall can work in dry areas, but Denver basements often",
   "url": "http://coloradoremodeling.company/faq/should-i-use-green-board-or-regular-drywall-in-my-basement-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I use green board or regular drywall in my basement walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most Denver-area basements, moisture-resistant or mold-resistant drywall is the safer choice, especially for below-grade walls. The right board depends on how dry the space stays, whether there are past moisture issues, and whether the walls are against concrete.",
-        "description": "Use moisture-resistant drywall when basement walls are below grade or have any moisture risk. Regular drywall can work in dry areas, but Denver basements often benefit from a more moisture-tolerant product."
-      }
-    }
-  ],
+  "name": "Should I use green board or regular drywall in my basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use green board or regular drywall in my basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most Denver-area basements, moisture-resistant or mold-resistant drywall is the safer choice, especially for below-grade walls. The right board depends on how dry the space stays, whether there are past moisture issues, and whether the walls are against concrete.",
+        "@type": "Answer",
+        "description": "Use moisture-resistant drywall when basement walls are below grade or have any moisture risk. Regular drywall can work in dry areas, but Denver basements often benefit from a more moisture-tolerant product."
+      }
+    }
+  ],
+  "description": "Use moisture-resistant drywall when basement walls are below grade or have any moisture risk. Regular drywall can work in dry areas, but Denver basements often"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I use regular drywall or moisture-resistant drywall in a basement?",
-  "description": "Use the board type that matches the moisture risk. Standard drywall works in many framed basement walls, but mold-resistant or moisture-resistant board is often",
   "url": "http://coloradoremodeling.company/faq/should-i-use-regular-drywall-or-moisture-resistant-drywall-in-a-basement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I use regular drywall or moisture-resistant drywall in a basement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in most basements you should use standard drywall on framed interior walls, but moisture conditions matter. If the space has humidity, splash risk, or past water issues, a mold-resistant or moisture-ready board may be a better fit for those areas. The right choice depends on the basement’s actual conditions, not just the room use.",
-        "description": "Use the board type that matches the moisture risk. Standard drywall works in many framed basement walls, but mold-resistant or moisture-resistant board is often smarter for damp or humid basements."
-      }
-    }
-  ],
+  "name": "Should I use regular drywall or moisture-resistant drywall in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use regular drywall or moisture-resistant drywall in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most basements you should use standard drywall on framed interior walls, but moisture conditions matter. If the space has humidity, splash risk, or past water issues, a mold-resistant or moisture-ready board may be a better fit for those areas. The right choice depends on the basement’s actual conditions, not just the room use.",
+        "@type": "Answer",
+        "description": "Use the board type that matches the moisture risk. Standard drywall works in many framed basement walls, but mold-resistant or moisture-resistant board is often smarter for damp or humid basements."
+      }
+    }
+  ],
+  "description": "Use the board type that matches the moisture risk. Standard drywall works in many framed basement walls, but mold-resistant or moisture-resistant board is often"
 }

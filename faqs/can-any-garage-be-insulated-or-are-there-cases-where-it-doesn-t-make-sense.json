@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can any garage be insulated, or are there cases where it doesn't make sense?",
-  "description": "Most garages can be insulated, but attached garages and spaces next to living areas usually get the best payoff. The right method depends on the wall type, ceil",
   "url": "http://coloradoremodeling.company/faq/can-any-garage-be-insulated-or-are-there-cases-where-it-doesn-t-make-sense",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can any garage be insulated, or are there cases where it doesn't make sense?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most garages can be insulated, but the best method depends on whether the walls are open or already drywalled, whether the garage is attached or detached, and whether electrical or framing changes are involved. Attached garages and garages with rooms above them usually benefit the most because they affect comfort in the home, not just the garage itself.",
-        "description": "Most garages can be insulated, but attached garages and spaces next to living areas usually get the best payoff. The right method depends on the wall type, ceiling layout, and any wiring or framing constraints."
-      }
-    }
-  ],
+  "name": "Can any garage be insulated, or are there cases where it doesn't make sense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can any garage be insulated, or are there cases where it doesn't make sense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most garages can be insulated, but the best method depends on whether the walls are open or already drywalled, whether the garage is attached or detached, and whether electrical or framing changes are involved. Attached garages and garages with rooms above them usually benefit the most because they affect comfort in the home, not just the garage itself.",
+        "@type": "Answer",
+        "description": "Most garages can be insulated, but attached garages and spaces next to living areas usually get the best payoff. The right method depends on the wall type, ceiling layout, and any wiring or framing constraints."
+      }
+    }
+  ],
+  "description": "Most garages can be insulated, but attached garages and spaces next to living areas usually get the best payoff. The right method depends on the wall type, ceil"
 }

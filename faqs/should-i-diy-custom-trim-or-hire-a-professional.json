@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I DIY custom trim or hire a professional?",
-  "description": "DIY is fine for simple trim in straight, easy rooms, but custom or detailed work is much harder to finish well. A professional is usually worth it when the room",
   "url": "http://coloradoremodeling.company/faq/should-i-diy-custom-trim-or-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I DIY custom trim or hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY can work for small, simple baseboard projects, but custom profiles, crown molding, and uneven rooms are much easier to get wrong. If you want a cleaner finish, faster turnaround, or help with repairs behind the trim, hiring a professional is usually the safer choice.",
-        "description": "DIY is fine for simple trim in straight, easy rooms, but custom or detailed work is much harder to finish well. A professional is usually worth it when the room is uneven or the finish needs to look seamless."
-      }
-    }
-  ],
+  "name": "Should I DIY custom trim or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I DIY custom trim or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY can work for small, simple baseboard projects, but custom profiles, crown molding, and uneven rooms are much easier to get wrong. If you want a cleaner finish, faster turnaround, or help with repairs behind the trim, hiring a professional is usually the safer choice.",
+        "@type": "Answer",
+        "description": "DIY is fine for simple trim in straight, easy rooms, but custom or detailed work is much harder to finish well. A professional is usually worth it when the room is uneven or the finish needs to look seamless."
+      }
+    }
+  ],
+  "description": "DIY is fine for simple trim in straight, easy rooms, but custom or detailed work is much harder to finish well. A professional is usually worth it when the room"
 }

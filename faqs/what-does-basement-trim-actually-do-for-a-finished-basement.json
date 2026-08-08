@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does basement trim actually do for a finished basement?",
-  "description": "Trim makes a basement look finished, hides wall gaps, and protects drywall from wear. It is both a cosmetic upgrade and a practical finishing detail.",
   "url": "http://coloradoremodeling.company/faq/what-does-basement-trim-actually-do-for-a-finished-basement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does basement trim actually do for a finished basement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, trim and molding can improve the finished look of a basement by hiding gaps, defining the room, and making walls look more complete. It also helps protect drywall edges from scuffs in high-traffic areas like hallways, family rooms, and basement stairs.",
-        "description": "Trim makes a basement look finished, hides wall gaps, and protects drywall from wear. It is both a cosmetic upgrade and a practical finishing detail."
-      }
-    }
-  ],
+  "name": "What does basement trim actually do for a finished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does basement trim actually do for a finished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, trim and molding can improve the finished look of a basement by hiding gaps, defining the room, and making walls look more complete. It also helps protect drywall edges from scuffs in high-traffic areas like hallways, family rooms, and basement stairs.",
+        "@type": "Answer",
+        "description": "Trim makes a basement look finished, hides wall gaps, and protects drywall from wear. It is both a cosmetic upgrade and a practical finishing detail."
+      }
+    }
+  ],
+  "description": "Trim makes a basement look finished, hides wall gaps, and protects drywall from wear. It is both a cosmetic upgrade and a practical finishing detail."
 }

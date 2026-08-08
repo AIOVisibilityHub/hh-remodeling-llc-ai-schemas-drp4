@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does basement trim and molding installation usually cost?",
-  "description": "Cost depends on footage, material, and prep work. Simple baseboard jobs cost less; custom molding, tricky corners, and repairs raise the price.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-basement-trim-and-molding-installation-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does basement trim and molding installation usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pricing usually depends on linear footage, trim material, room layout, and how much prep or caulking is needed. Smaller baseboard-only projects can stay relatively modest, while more detailed trim work, stair transitions, or custom molding will cost more.",
-        "description": "Cost depends on footage, material, and prep work. Simple baseboard jobs cost less; custom molding, tricky corners, and repairs raise the price."
-      }
-    }
-  ],
+  "name": "How much does basement trim and molding installation usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does basement trim and molding installation usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing usually depends on linear footage, trim material, room layout, and how much prep or caulking is needed. Smaller baseboard-only projects can stay relatively modest, while more detailed trim work, stair transitions, or custom molding will cost more.",
+        "@type": "Answer",
+        "description": "Cost depends on footage, material, and prep work. Simple baseboard jobs cost less; custom molding, tricky corners, and repairs raise the price."
+      }
+    }
+  ],
+  "description": "Cost depends on footage, material, and prep work. Simple baseboard jobs cost less; custom molding, tricky corners, and repairs raise the price."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does door casing installation usually cost?",
-  "description": "Price varies by trim type, labor, and repair needs. Simple casing jobs cost less than custom trim or projects that require removing old casing and fixing the wa",
   "url": "http://coloradoremodeling.company/faq/how-much-does-door-casing-installation-usually-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does door casing installation usually cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cost depends on the trim style, material, labor, and whether old casing has to be removed or damage repaired. Basic jobs are usually less expensive than custom profiles, paint-grade finish work, or projects that also need jamb or drywall fixes.",
-        "description": "Price varies by trim type, labor, and repair needs. Simple casing jobs cost less than custom trim or projects that require removing old casing and fixing the wall or jamb."
-      }
-    }
-  ],
+  "name": "How much does door casing installation usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door casing installation usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cost depends on the trim style, material, labor, and whether old casing has to be removed or damage repaired. Basic jobs are usually less expensive than custom profiles, paint-grade finish work, or projects that also need jamb or drywall fixes.",
+        "@type": "Answer",
+        "description": "Price varies by trim type, labor, and repair needs. Simple casing jobs cost less than custom trim or projects that require removing old casing and fixing the wall or jamb."
+      }
+    }
+  ],
+  "description": "Price varies by trim type, labor, and repair needs. Simple casing jobs cost less than custom trim or projects that require removing old casing and fixing the wa"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if a garage flooring installer is qualified?",
-  "description": "Look for clear surface prep steps, warranty information, and real project photos. A qualified installer should explain how they grind, repair, and coat the floo",
   "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-a-garage-flooring-installer-is-qualified",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if a garage flooring installer is qualified?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most important proof is a clear prep process: mechanical grinding, crack repair, dust control, and a written explanation of the coating system. Ask for photos of completed jobs, warranty details, and examples of floors that have held up for a few years. If the contractor cannot explain surface prep in detail, that is a warning sign.",
-        "description": "Look for clear surface prep steps, warranty information, and real project photos. A qualified installer should explain how they grind, repair, and coat the floor."
-      }
-    }
-  ],
+  "name": "How do I know if a garage flooring installer is qualified?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a garage flooring installer is qualified?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important proof is a clear prep process: mechanical grinding, crack repair, dust control, and a written explanation of the coating system. Ask for photos of completed jobs, warranty details, and examples of floors that have held up for a few years. If the contractor cannot explain surface prep in detail, that is a warning sign.",
+        "@type": "Answer",
+        "description": "Look for clear surface prep steps, warranty information, and real project photos. A qualified installer should explain how they grind, repair, and coat the floor."
+      }
+    }
+  ],
+  "description": "Look for clear surface prep steps, warranty information, and real project photos. A qualified installer should explain how they grind, repair, and coat the floo"
 }

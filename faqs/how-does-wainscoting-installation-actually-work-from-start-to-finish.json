@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does wainscoting installation actually work from start to finish?",
-  "description": "It usually includes layout, wall prep, panel and trim attachment, then caulk, sanding, and finishing. The key is getting the spacing and trim lines right before",
   "url": "http://coloradoremodeling.company/faq/how-does-wainscoting-installation-actually-work-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does wainscoting installation actually work from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process usually starts with layout marks, then prep, then panel and trim installation, followed by caulk, filler, sanding, and paint or stain. Good installers also check spacing around corners, door casings, windows, and baseboards so the design stays consistent across the room.",
-        "description": "It usually includes layout, wall prep, panel and trim attachment, then caulk, sanding, and finishing. The key is getting the spacing and trim lines right before anything is fastened."
-      }
-    }
-  ],
+  "name": "How does wainscoting installation actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does wainscoting installation actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with layout marks, then prep, then panel and trim installation, followed by caulk, filler, sanding, and paint or stain. Good installers also check spacing around corners, door casings, windows, and baseboards so the design stays consistent across the room.",
+        "@type": "Answer",
+        "description": "It usually includes layout, wall prep, panel and trim attachment, then caulk, sanding, and finishing. The key is getting the spacing and trim lines right before anything is fastened."
+      }
+    }
+  ],
+  "description": "It usually includes layout, wall prep, panel and trim attachment, then caulk, sanding, and finishing. The key is getting the spacing and trim lines right before"
 }

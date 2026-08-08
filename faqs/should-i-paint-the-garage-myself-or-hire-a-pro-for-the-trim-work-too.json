@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I paint the garage myself or hire a pro for the trim work too?",
-  "description": "DIY can work for simple touch-ups, but trim repairs and full garage repainting are usually better left to a pro. You get better prep, cleaner lines, and less ch",
   "url": "http://coloradoremodeling.company/faq/should-i-paint-the-garage-myself-or-hire-a-pro-for-the-trim-work-too",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I paint the garage myself or hire a pro for the trim work too?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you are choosing between DIY and hiring a professional, the biggest differences are prep quality, time, and finish consistency. Hiring a pro makes more sense when the trim needs repairs, the surfaces are heavily worn, or you want the project done faster with fewer mistakes.",
-        "description": "DIY can work for simple touch-ups, but trim repairs and full garage repainting are usually better left to a pro. You get better prep, cleaner lines, and less chance of rework."
-      }
-    }
-  ],
+  "name": "Should I paint the garage myself or hire a pro for the trim work too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint the garage myself or hire a pro for the trim work too?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are choosing between DIY and hiring a professional, the biggest differences are prep quality, time, and finish consistency. Hiring a pro makes more sense when the trim needs repairs, the surfaces are heavily worn, or you want the project done faster with fewer mistakes.",
+        "@type": "Answer",
+        "description": "DIY can work for simple touch-ups, but trim repairs and full garage repainting are usually better left to a pro. You get better prep, cleaner lines, and less chance of rework."
+      }
+    }
+  ],
+  "description": "DIY can work for simple touch-ups, but trim repairs and full garage repainting are usually better left to a pro. You get better prep, cleaner lines, and less ch"
 }

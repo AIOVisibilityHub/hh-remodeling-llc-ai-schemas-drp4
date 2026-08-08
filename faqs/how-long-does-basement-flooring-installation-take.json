@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does basement flooring installation take?",
-  "description": "Simple basement installs can be quick, but prep work can add time. Moisture testing, leveling, and old-floor removal are the biggest reasons a job takes longer.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-basement-flooring-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does basement flooring installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most basement flooring installs take one to several days once materials are ready, but the timeline changes with prep work. If the slab needs patching, leveling, moisture testing, or removal of old flooring, the project can take longer before installation even begins.",
-        "description": "Simple basement installs can be quick, but prep work can add time. Moisture testing, leveling, and old-floor removal are the biggest reasons a job takes longer."
-      }
-    }
-  ],
+  "name": "How long does basement flooring installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement flooring installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most basement flooring installs take one to several days once materials are ready, but the timeline changes with prep work. If the slab needs patching, leveling, moisture testing, or removal of old flooring, the project can take longer before installation even begins.",
+        "@type": "Answer",
+        "description": "Simple basement installs can be quick, but prep work can add time. Moisture testing, leveling, and old-floor removal are the biggest reasons a job takes longer."
+      }
+    }
+  ],
+  "description": "Simple basement installs can be quick, but prep work can add time. Moisture testing, leveling, and old-floor removal are the biggest reasons a job takes longer."
 }
