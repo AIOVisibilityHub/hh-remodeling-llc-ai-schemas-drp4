@@ -1,137 +1,385 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-07T01:51:01.817Z",
+  "generatedAt": "2026-08-08T20:14:12.406Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
-    "pagesUrl": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4",
+    "pagesUrl": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4",
     "phone": "303-505-0866",
     "email": "Hhremodelingllc1986.ab@gmail.com",
     "locations": [
       {
-        "name": "HH Remodeling LLC Office",
-        "address": "21990 Irish Dr",
-        "city": "Aurora",
-        "state": "CO",
         "zip": "80016",
+        "city": "Aurora",
+        "name": "HH Remodeling LLC Office",
+        "email": "Hhremodelingllc1986.ab@gmail.com",
         "phone": "303-505-0866",
-        "email": "Hhremodelingllc1986.ab@gmail.com"
+        "state": "CO",
+        "address": "21990 Irish Dr"
       }
     ],
     "services": [
-      "Here is a granular, one‑per‑line breakdown of actual services (no commas), based on HH Remodeling’s listed categories and typical residential remodeling work. ",
-      "Kitchen cabinet removal  ",
-      "Kitchen cabinet installation  ",
-      "Kitchen countertop installation  ",
-      "Kitchen backsplash tile installation  ",
-      "Kitchen sink and faucet coordination  ",
-      "Kitchen appliance layout and hookup coordination  ",
-      "Kitchen flooring installation  ",
-      "Kitchen painting and trim work  ",
-      "Bathroom tub removal  ",
-      "Bathroom tub installation  ",
-      "Bathroom shower removal  ",
-      "Bathroom shower installation  ",
-      "Bathroom vanity installation  ",
-      "Bathroom countertop installation  ",
-      "Bathroom tile and stone installation  ",
-      "Bathroom waterproofing  ",
-      "Bathroom fixture installation  ",
-      "Bathroom flooring installation  ",
-      "Bathroom painting and trim work  ",
-      "Basement wall framing  ",
-      "Basement ceiling framing  ",
-      "Basement drywall installation  ",
-      "Basement drywall finishing  ",
-      "Basement door installation  ",
-      "Basement trim and molding installation  ",
-      "Basement painting  ",
-      "Basement flooring installation  ",
-      "Garage wall framing  ",
-      "Garage insulation installation  ",
-      "Garage drywall installation  ",
-      "Garage door installation or upgrade  ",
-      "Garage flooring installation  ",
-      "Garage painting and trim work  ",
-      "Finish carpentry installation  ",
-      "Baseboard installation  ",
-      "Crown molding installation  ",
-      "Door casing installation  ",
-      "Window casing installation  ",
-      "Wainscoting installation  ",
-      "Built‑in shelving installation  ",
-      "Custom trim installation  ",
-      "Structural wall framing  ",
-      "Partition wall framing  ",
-      "Door opening framing  ",
-      "Window opening framing  ",
-      "Framing for remodels  ",
-      "Framing for small additions  ",
-      "New drywall hanging  ",
-      "Drywall taping and mudding  ",
-      "Drywall sanding  ",
-      "Drywall patching  ",
-      "Drywall texture repair  ",
-      "Ceramic tile installation  ",
-      "Porcelain tile installation  ",
-      "Natural stone tile installation  ",
-      "Tile floor installation  ",
-      "Tile wall installation  ",
-      "Shower tile installation  ",
-      "Backsplash tile installation  ",
-      "Grout application and sealing  ",
-      "Marble tile installation  ",
-      "Interior wall painting  ",
-      "Interior ceiling painting  ",
-      "Interior trim painting  ",
-      "Interior door painting  ",
-      "Full interior paint packages  ",
-      "General contractor project management  ",
-      "Sub‑trade coordination for plumbing  ",
-      "Sub‑trade coordination for electrical  ",
-      "Permit and inspection coordination support  ",
-      "Whole‑house interior renovation  ",
-      "Single‑room interior renovation  ",
-      "Multi‑room interior renovation  ",
-      "Interior layout reconfiguration  ",
-      "Room addition planning  ",
-      "Room addition framing  ",
-      "Room addition drywall and finish work  ",
-      "Kitchen additions  ",
-      "Bathroom additions  ",
-      "Handyman repair tasks  ",
-      "Door adjustment and repair  ",
-      "Trim repair and replacement  ",
-      "Small drywall repairs  ",
-      "Small paint touch‑ups  ",
-      "Minor framing adjustments  ",
-      "General home repair  ",
-      "Interior wear‑and‑tear repair  ",
-      "Damage repair for sale or rental preparation  ",
-      "Mobile home interior repair  ",
-      "Mobile home wall and ceiling repair  ",
-      "Mobile home flooring repair  ",
-      "Mobile home trim and door repair  ",
-      "Accessibility grab bar installation  ",
-      "Doorway widening for accessibility  ",
-      "Threshold and ramp adjustments for accessibility  ",
-      "Bathroom accessibility modifications  ",
-      "Foreclosed property interior repair  ",
-      "Foreclosed property painting  ",
-      "Foreclosed property flooring installation  ",
-      "Foreclosed property kitchen refresh  ",
-      "Foreclosed property bathroom refresh  ",
-      "Log home interior staining  ",
-      "Log home interior sealing  ",
-      "Cabin interior staining  ",
-      "Cabin interior sealing  ",
-      "Log and cabin trim repair  ",
-      "Log and cabin finish upgrades  ",
-      "Emergency interior storm damage repair  ",
-      "Water damage interior repair  ",
-      "Storm related drywall replacement  ",
-      "Storm related painting and finish work  ",
-      "Insurance coordinated interior restoration"
+      "Kitchen Remodeling",
+      "Full Kitchen Remodels",
+      "Kitchen Renovation",
+      "Kitchen Upgrades",
+      "Kitchen Layout Updates",
+      "Kitchen Cabinet Removal",
+      "Kitchen Cabinet Installation",
+      "Kitchen Cabinet Replacement",
+      "Kitchen Countertop Installation",
+      "Kitchen Countertop Replacement",
+      "Kitchen Backsplash Installation",
+      "Kitchen Backsplash Tile Installation",
+      "Kitchen Flooring Installation",
+      "Kitchen Drywall Installation",
+      "Kitchen Drywall Repair",
+      "Kitchen Painting",
+      "Kitchen Trim Installation",
+      "Kitchen Molding Installation",
+      "Kitchen Door Frame Repair",
+      "Kitchen Finish Carpentry",
+      "Kitchen Tile Installation",
+      "Kitchen Sink And Faucet Installation",
+      "Kitchen Appliance Layout Planning",
+      "Kitchen Appliance Hookup Coordination",
+      "Kitchen Additions",
+      "Bathroom Remodeling",
+      "Full Bathroom Remodels",
+      "Bathroom Renovation",
+      "Bathroom Upgrades",
+      "Bathroom Tub Removal",
+      "Bathroom Tub Installation",
+      "Bathroom Shower Removal",
+      "Bathroom Shower Installation",
+      "Bathroom Vanity Installation",
+      "Bathroom Countertop Installation",
+      "Bathroom Tile Installation",
+      "Bathroom Tile And Stone Installation",
+      "Bathroom Floor Tile Installation",
+      "Bathroom Wall Tile Installation",
+      "Bathroom Shower Tile Installation",
+      "Bathroom Marble Installation",
+      "Bathroom Waterproofing",
+      "Bathroom Fixture Installation",
+      "Bathroom Flooring Installation",
+      "Bathroom Drywall Installation",
+      "Bathroom Drywall Repair",
+      "Bathroom Painting",
+      "Bathroom Trim Installation",
+      "Bathroom Molding Installation",
+      "Bathroom Door Frame Repair",
+      "Bathroom Finish Carpentry",
+      "Bathroom Additions",
+      "Basement Remodeling",
+      "Basement Custom Design",
+      "Basement Renovation",
+      "Basement Finishing",
+      "Basement Interior Finishing",
+      "Basement Wall Framing",
+      "Basement Ceiling Framing",
+      "Basement Drywall Installation",
+      "Basement Drywall Repair",
+      "Basement Drywall Finishing",
+      "Basement Door Installation",
+      "Basement Flooring Installation",
+      "Basement Tile Installation",
+      "Basement Trim Installation",
+      "Basement Molding Installation",
+      "Basement Door Frame Installation",
+      "Basement Finish Carpentry",
+      "Basement Painting",
+      "Garage Remodeling",
+      "Garage Conversions",
+      "Garage Renovation",
+      "Garage Interior Upgrades",
+      "Garage Wall Framing",
+      "Garage Insulation Installation",
+      "Garage Drywall Installation",
+      "Garage Drywall Repair",
+      "Garage Door Installation Or Upgrade",
+      "Garage Door Frame Repair",
+      "Garage Flooring Installation",
+      "Garage Tile Installation",
+      "Garage Trim Installation",
+      "Garage Finish Carpentry",
+      "Garage Interior Finishing",
+      "Garage Painting",
+      "Drywall Installation",
+      "Drywall Repair",
+      "Drywall Patching",
+      "Drywall Finishing",
+      "Drywall Taping And Mudding",
+      "Drywall Sanding",
+      "Drywall Texture Repair",
+      "New Drywall Hanging",
+      "Drywall Restoration",
+      "Drywall Remodeling Work",
+      "Storm Related Drywall Replacement",
+      "Finish Carpentry",
+      "Interior Finish Carpentry",
+      "Finish Carpentry Installation",
+      "Custom Framing",
+      "Structural Wall Framing",
+      "Interior Framing",
+      "Wall Framing",
+      "Partition Wall Framing",
+      "Door Opening Framing",
+      "Window Opening Framing",
+      "Framing For Remodels",
+      "Framing For Small Additions",
+      "Door Frame Installation",
+      "Door Frame Repair",
+      "Door Casing Installation",
+      "Window Casing Installation",
+      "Trim Installation",
+      "Custom Trim Installation",
+      "Trim Repair And Replacement",
+      "Interior Trim Work",
+      "Molding Installation",
+      "Custom Molding Work",
+      "Crown Molding Installation",
+      "Baseboard Installation",
+      "Wainscoting Installation",
+      "Built In Shelving Installation",
+      "Interior Finishing",
+      "Ceramic Tile Installation",
+      "Porcelain Tile Installation",
+      "Natural Stone Tile Installation",
+      "Marble Tile Installation",
+      "Tile And Marble Installation",
+      "Floor Tile Installation",
+      "Wall Tile Installation",
+      "Shower Tile Installation",
+      "Backsplash Tile Installation",
+      "Grout Application And Sealing",
+      "Residential Painting",
+      "Interior Painting",
+      "Interior Wall Painting",
+      "Interior Ceiling Painting",
+      "Interior Trim Painting",
+      "Interior Door Painting",
+      "Full Interior Paint Packages",
+      "Paint Touch Ups",
+      "Remodel Painting",
+      "Storm Related Painting And Finish Work",
+      "Residential Remodeling",
+      "Home Remodeling",
+      "Whole Home Remodeling",
+      "Home Renovation",
+      "Home Improvement",
+      "Interior Remodeling",
+      "Interior Renovation",
+      "Interior Layout Reconfiguration",
+      "Single Room Interior Renovation",
+      "Multi Room Interior Renovation",
+      "Room Remodeling",
+      "Room Renovation",
+      "Interior Upgrades",
+      "Home Additions",
+      "Room Additions",
+      "Room Addition Planning",
+      "Room Addition Framing",
+      "Room Addition Drywall And Finish Work",
+      "Residential General Contracting",
+      "General Contractor Services",
+      "General Contractor Project Management",
+      "Construction Services",
+      "Sub Trade Coordination For Plumbing",
+      "Sub Trade Coordination For Electrical",
+      "Permit And Inspection Coordination Support",
+      "Handyman Services",
+      "Handyman Repair Tasks",
+      "Home Maintenance",
+      "Property Maintenance",
+      "Home Repair",
+      "General Home Repair",
+      "Interior Home Repair",
+      "Minor Home Repairs",
+      "Interior Wear And Tear Repair",
+      "Door Adjustment And Repair",
+      "Trim Repair",
+      "Molding Repair",
+      "Small Drywall Repairs",
+      "Small Paint Touch Ups",
+      "Minor Framing Adjustments",
+      "Maintenance For Rental Properties",
+      "Maintenance For Residential Properties",
+      "Damage Repair For Sale Or Rental Preparation",
+      "Home Restoration",
+      "Interior Restoration",
+      "Property Restoration",
+      "Restoration Remodeling",
+      "Restoration Maintenance",
+      "Interior Damage Repair",
+      "Water Damage Interior Repair",
+      "Storm Damage Repair",
+      "Emergency Storm Damage Repair",
+      "Emergency Interior Storm Damage Repair",
+      "Insurance Coordinated Interior Restoration",
+      "Mobile Home Remodeling",
+      "Mobile Home Repair",
+      "Mobile Home Interior Repair",
+      "Mobile Home Wall And Ceiling Repair",
+      "Mobile Home Drywall Repair",
+      "Mobile Home Flooring Repair",
+      "Mobile Home Painting",
+      "Mobile Home Trim Repair",
+      "Mobile Home Trim And Door Repair",
+      "Foreclosed Property Remodeling",
+      "Foreclosed Property Repair",
+      "Foreclosed Property Renovation",
+      "Foreclosed Property Interior Repair",
+      "Foreclosed Property Painting",
+      "Foreclosed Property Flooring Installation",
+      "Foreclosed Property Kitchen Refresh",
+      "Foreclosed Property Bathroom Refresh",
+      "Rental Property Repair",
+      "Rental Property Remodeling",
+      "Log Home Refinishing",
+      "Log Home Interior Staining",
+      "Log Home Interior Sealing",
+      "Log Home Maintenance",
+      "Log And Cabin Trim Repair",
+      "Log And Cabin Finish Upgrades",
+      "Cabin Refinishing",
+      "Log Cabin Refinishing",
+      "Cabin Interior Staining",
+      "Cabin Interior Sealing",
+      "Cabin Maintenance",
+      "Disability Remodeling",
+      "Accessibility Remodeling",
+      "Accessible Home Modifications",
+      "Bathroom Accessibility Remodeling",
+      "Accessible Bathroom Renovation",
+      "Accessible Bathroom Modifications",
+      "Walk In Shower Installation",
+      "Low Threshold Shower Installation",
+      "Curbless Shower Conversion",
+      "Tub To Shower Conversion",
+      "Walk In Tub Installation Coordination",
+      "Shower Grab Bar Installation",
+      "Toilet Grab Bar Installation",
+      "Bathroom Safety Rail Installation",
+      "Shower Seat Installation",
+      "Fold Down Shower Seat Installation",
+      "Handheld Showerhead Installation",
+      "Adjustable Showerhead Installation",
+      "Comfort Height Toilet Installation",
+      "Raised Toilet Installation",
+      "Non Slip Bathroom Flooring",
+      "Slip Resistant Shower Flooring",
+      "Bathroom Lighting Upgrades",
+      "Bathroom Night Light Installation",
+      "Easy Grip Faucet Installation",
+      "Lever Faucet Installation",
+      "Accessible Vanity Installation",
+      "Wheelchair Accessible Vanity Installation",
+      "Bathroom Doorway Widening",
+      "Bathroom Threshold Removal",
+      "Senior Home Safety Assessments",
+      "Aging In Place Remodeling",
+      "Senior Friendly Home Remodeling",
+      "Mobility Improvement Remodeling",
+      "Fall Prevention Home Modifications",
+      "Whole Home Accessibility Upgrades",
+      "Barrier Free Home Modifications",
+      "Wheelchair Accessible Home Modifications",
+      "Walker Friendly Home Modifications",
+      "Senior Home Maintenance",
+      "Senior Home Repair Services",
+      "Senior Home Maintenance Services",
+      "Wheelchair Ramp Installation",
+      "Threshold Ramp Installation",
+      "Exterior Entry Ramp Installation",
+      "Ramp Repair",
+      "Threshold And Ramp Adjustments",
+      "Front Entrance Accessibility Upgrades",
+      "Back Entrance Accessibility Upgrades",
+      "Garage Entry Accessibility Upgrades",
+      "Porch Accessibility Modifications",
+      "Handrail Installation",
+      "Stair Handrail Installation",
+      "Outdoor Handrail Installation",
+      "Handrail Repair",
+      "Stair Safety Upgrades",
+      "Exterior Pathway Safety Improvements",
+      "Driveway To Entry Access Improvements",
+      "Exterior Lighting Installation",
+      "Doorway Widening",
+      "Hallway Clearance Improvements",
+      "Interior Doorway Accessibility Modifications",
+      "Wheelchair Accessible Doorways",
+      "Walker Accessible Doorways",
+      "Door Frame Modifications",
+      "Lever Door Handle Installation",
+      "Easy Grip Door Hardware Installation",
+      "Door Threshold Removal",
+      "Low Profile Threshold Installation",
+      "Threshold Repair",
+      "Floor Transition Repairs",
+      "Floor Level Transition Improvements",
+      "Interior Trip Hazard Removal",
+      "Trip Hazard Repair",
+      "Rug Removal Support",
+      "Accessible Kitchen Remodeling",
+      "Senior Friendly Kitchen Remodeling",
+      "Wheelchair Accessible Kitchen Remodeling",
+      "Kitchen Clearance Improvements",
+      "Kitchen Pathway Widening",
+      "Accessible Kitchen Layout Updates",
+      "Lower Countertop Installation",
+      "Multi Height Countertop Installation",
+      "Accessible Kitchen Sink Installation",
+      "Knee Clearance Under Sink Installation",
+      "Pull Out Cabinet Shelf Installation",
+      "Pull Down Cabinet Shelf Installation",
+      "Lazy Susan Cabinet Installation",
+      "Soft Close Drawer Installation",
+      "Easy Access Drawer Installation",
+      "Easy Grip Cabinet Pull Installation",
+      "D Shaped Cabinet Handle Installation",
+      "Lever Style Kitchen Faucet Installation",
+      "Kitchen Task Lighting Installation",
+      "Under Cabinet Lighting Installation",
+      "Kitchen Lighting Upgrades",
+      "Accessible Kitchen Outlet Placement",
+      "Non Slip Kitchen Flooring",
+      "Kitchen Trip Hazard Removal",
+      "Accessible Appliance Space Planning",
+      "Bedroom Accessibility Modifications",
+      "Bedroom Safety Upgrades",
+      "Bedroom Pathway Clearance",
+      "Bedroom Lighting Upgrades",
+      "Bedroom Night Light Installation",
+      "Bedroom Handrail Installation",
+      "Accessible Closet Modifications",
+      "Easy Access Closet Shelving",
+      "Closet Lighting Installation",
+      "Living Room Accessibility Modifications",
+      "Living Room Trip Hazard Removal",
+      "Living Room Lighting Upgrades",
+      "Living Room Pathway Clearance",
+      "Accessible Furniture Space Planning",
+      "Laundry Room Accessibility Modifications",
+      "Accessible Laundry Room Layout",
+      "Laundry Room Safety Upgrades",
+      "Laundry Room Lighting Upgrades",
+      "Laundry Room Flooring Upgrades",
+      "Laundry Room Doorway Widening",
+      "Home Lighting Safety Upgrades",
+      "Hallway Lighting Installation",
+      "Stairway Lighting Installation",
+      "Motion Sensor Lighting Installation",
+      "Night Light Installation",
+      "Non Glare Lighting Upgrades",
+      "Light Switch Accessibility Upgrades",
+      "Rocker Light Switch Installation",
+      "Safety Lighting Repair",
+      "Accessibility Feature Maintenance",
+      "Non Slip Flooring Installation",
+      "Slip Resistant Flooring Installation",
+      "Loose Flooring Repair"
     ],
     "cities": [
       "Denver",
@@ -191,24 +439,24 @@
     ]
   },
   "package": {
-    "totalFiles": 1849,
-    "totalBytes": 6971229,
+    "totalFiles": 1093,
+    "totalBytes": 3246528,
     "stats": {
-      "faqs": 1070,
-      "helpArticles": 297,
-      "services": 378,
-      "webpages": 0,
-      "personnel": 80,
-      "products": 0,
-      "locations": 1,
-      "awards": 0,
-      "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 0,
       "qna": 0,
+      "faqs": 1070,
+      "press": 0,
+      "total": 1072,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
       "research": 0,
-      "total": 1827
+      "services": 0,
+      "webpages": 0,
+      "locations": 1,
+      "personnel": 0,
+      "caseStudies": 0,
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -222,2300 +470,6 @@
     "readme": "README.md"
   },
   "categories": {
-    "services": [
-      {
-        "path": "services/remodeling-denver-service.json",
-        "bytes": 2371,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-centennial-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-greenwood-village-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-foxfield-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-parker-service.json",
-        "bytes": 2371,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-glendale-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-commerce-city-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-englewood-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-sheridan-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-littleton-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-highlands-ranch-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-lone-tree-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-cherry-hills-village-service.json",
-        "bytes": 2427,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-bow-mar-service.json",
-        "bytes": 2375,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-columbine-valley-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-southglenn-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-meridian-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-castlewood-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-dove-valley-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-watkins-service.json",
-        "bytes": 2375,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-bennett-service.json",
-        "bytes": 2375,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-strasburg-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-thornton-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-northglenn-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-federal-heights-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-westminster-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-arvada-service.json",
-        "bytes": 2371,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-lakewood-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-golden-service.json",
-        "bytes": 2371,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-edgewater-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-mountain-view-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-wheat-ridge-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-broomfield-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-louisville-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-lafayette-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-erie-service.json",
-        "bytes": 2363,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-firestone-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-frederick-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-longmont-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-boulder-service.json",
-        "bytes": 2375,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-superior-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-elizabeth-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-kiowa-service.json",
-        "bytes": 2367,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-byers-service.json",
-        "bytes": 2367,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-deer-trail-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-castle-rock-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-franktown-service.json",
-        "bytes": 2383,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-larkspur-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-sedalia-service.json",
-        "bytes": 2375,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-monument-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-palmer-lake-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-fountain-service.json",
-        "bytes": 2379,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-security-widefield-service.json",
-        "bytes": 2419,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/remodeling-colorado-springs-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-denver-service.json",
-        "bytes": 1317,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-centennial-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-greenwood-village-service.json",
-        "bytes": 1361,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-foxfield-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-parker-service.json",
-        "bytes": 1317,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-glendale-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-commerce-city-service.json",
-        "bytes": 1345,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-englewood-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-sheridan-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-littleton-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-highlands-ranch-service.json",
-        "bytes": 1353,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-lone-tree-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-cherry-hills-village-service.json",
-        "bytes": 1373,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-bow-mar-service.json",
-        "bytes": 1321,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-columbine-valley-service.json",
-        "bytes": 1357,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-southglenn-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-meridian-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-castlewood-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-dove-valley-service.json",
-        "bytes": 1337,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-watkins-service.json",
-        "bytes": 1321,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-bennett-service.json",
-        "bytes": 1321,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-strasburg-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-thornton-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-northglenn-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-federal-heights-service.json",
-        "bytes": 1353,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-westminster-service.json",
-        "bytes": 1337,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-arvada-service.json",
-        "bytes": 1317,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-lakewood-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-golden-service.json",
-        "bytes": 1317,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-edgewater-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-mountain-view-service.json",
-        "bytes": 1345,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-wheat-ridge-service.json",
-        "bytes": 1337,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-broomfield-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-louisville-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-lafayette-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-erie-service.json",
-        "bytes": 1309,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-firestone-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-frederick-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-longmont-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-boulder-service.json",
-        "bytes": 1321,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-superior-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-elizabeth-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-kiowa-service.json",
-        "bytes": 1313,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-byers-service.json",
-        "bytes": 1313,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-deer-trail-service.json",
-        "bytes": 1333,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-castle-rock-service.json",
-        "bytes": 1337,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-franktown-service.json",
-        "bytes": 1329,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-larkspur-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-sedalia-service.json",
-        "bytes": 1321,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-monument-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-palmer-lake-service.json",
-        "bytes": 1337,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-fountain-service.json",
-        "bytes": 1325,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-security-widefield-service.json",
-        "bytes": 1365,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/restoration-service-colorado-springs-service.json",
-        "bytes": 1357,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-denver-service.json",
-        "bytes": 2395,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-centennial-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-greenwood-village-service.json",
-        "bytes": 2439,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-foxfield-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-parker-service.json",
-        "bytes": 2395,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-glendale-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-commerce-city-service.json",
-        "bytes": 2423,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-englewood-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-sheridan-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-littleton-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-highlands-ranch-service.json",
-        "bytes": 2431,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-lone-tree-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-cherry-hills-village-service.json",
-        "bytes": 2451,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-bow-mar-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-columbine-valley-service.json",
-        "bytes": 2435,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-southglenn-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-meridian-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-castlewood-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-dove-valley-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-watkins-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-bennett-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-strasburg-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-thornton-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-northglenn-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-federal-heights-service.json",
-        "bytes": 2431,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-westminster-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-arvada-service.json",
-        "bytes": 2395,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-lakewood-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-golden-service.json",
-        "bytes": 2395,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-edgewater-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-mountain-view-service.json",
-        "bytes": 2423,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-wheat-ridge-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-broomfield-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-louisville-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-lafayette-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-erie-service.json",
-        "bytes": 2387,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-firestone-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-frederick-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-longmont-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-boulder-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-superior-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-elizabeth-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-kiowa-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-byers-service.json",
-        "bytes": 2391,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-deer-trail-service.json",
-        "bytes": 2411,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-castle-rock-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-franktown-service.json",
-        "bytes": 2407,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-larkspur-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-sedalia-service.json",
-        "bytes": 2399,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-monument-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-palmer-lake-service.json",
-        "bytes": 2415,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-fountain-service.json",
-        "bytes": 2403,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-security-widefield-service.json",
-        "bytes": 2443,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/general-contractor-colorado-springs-service.json",
-        "bytes": 2435,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-denver-service.json",
-        "bytes": 1299,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-centennial-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-greenwood-village-service.json",
-        "bytes": 1343,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-foxfield-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-parker-service.json",
-        "bytes": 1299,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-glendale-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-commerce-city-service.json",
-        "bytes": 1327,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-englewood-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-sheridan-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-littleton-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-highlands-ranch-service.json",
-        "bytes": 1335,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-lone-tree-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-cherry-hills-village-service.json",
-        "bytes": 1355,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-bow-mar-service.json",
-        "bytes": 1303,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-columbine-valley-service.json",
-        "bytes": 1339,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-southglenn-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-meridian-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-castlewood-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-dove-valley-service.json",
-        "bytes": 1319,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-watkins-service.json",
-        "bytes": 1303,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-bennett-service.json",
-        "bytes": 1303,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-strasburg-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-thornton-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-northglenn-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-federal-heights-service.json",
-        "bytes": 1335,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-westminster-service.json",
-        "bytes": 1319,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-arvada-service.json",
-        "bytes": 1299,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-lakewood-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-golden-service.json",
-        "bytes": 1299,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-edgewater-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-mountain-view-service.json",
-        "bytes": 1327,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-wheat-ridge-service.json",
-        "bytes": 1319,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-broomfield-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-louisville-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-lafayette-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-erie-service.json",
-        "bytes": 1291,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-firestone-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-frederick-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-longmont-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-boulder-service.json",
-        "bytes": 1303,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-superior-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-elizabeth-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-kiowa-service.json",
-        "bytes": 1295,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-byers-service.json",
-        "bytes": 1295,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-deer-trail-service.json",
-        "bytes": 1315,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-castle-rock-service.json",
-        "bytes": 1319,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-franktown-service.json",
-        "bytes": 1311,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-larkspur-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-sedalia-service.json",
-        "bytes": 1303,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-monument-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-palmer-lake-service.json",
-        "bytes": 1319,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-fountain-service.json",
-        "bytes": 1307,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-security-widefield-service.json",
-        "bytes": 1347,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/handyman-service-colorado-springs-service.json",
-        "bytes": 1339,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-denver-service.json",
-        "bytes": 2449,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-centennial-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-greenwood-village-service.json",
-        "bytes": 2493,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-foxfield-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-parker-service.json",
-        "bytes": 2449,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-glendale-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-commerce-city-service.json",
-        "bytes": 2477,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-englewood-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-sheridan-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-littleton-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-highlands-ranch-service.json",
-        "bytes": 2485,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-lone-tree-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-cherry-hills-village-service.json",
-        "bytes": 2505,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-bow-mar-service.json",
-        "bytes": 2453,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-columbine-valley-service.json",
-        "bytes": 2489,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-southglenn-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-meridian-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-castlewood-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-dove-valley-service.json",
-        "bytes": 2469,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-watkins-service.json",
-        "bytes": 2453,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-bennett-service.json",
-        "bytes": 2453,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-strasburg-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-thornton-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-northglenn-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-federal-heights-service.json",
-        "bytes": 2485,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-westminster-service.json",
-        "bytes": 2469,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-arvada-service.json",
-        "bytes": 2449,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-lakewood-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-golden-service.json",
-        "bytes": 2449,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-edgewater-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-mountain-view-service.json",
-        "bytes": 2477,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-wheat-ridge-service.json",
-        "bytes": 2469,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-broomfield-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-louisville-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-lafayette-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-erie-service.json",
-        "bytes": 2441,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-firestone-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-frederick-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-longmont-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-boulder-service.json",
-        "bytes": 2453,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-superior-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-elizabeth-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-kiowa-service.json",
-        "bytes": 2445,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-byers-service.json",
-        "bytes": 2445,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-deer-trail-service.json",
-        "bytes": 2465,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-castle-rock-service.json",
-        "bytes": 2469,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-franktown-service.json",
-        "bytes": 2461,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-larkspur-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-sedalia-service.json",
-        "bytes": 2453,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-monument-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-palmer-lake-service.json",
-        "bytes": 2469,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-fountain-service.json",
-        "bytes": 2457,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-security-widefield-service.json",
-        "bytes": 2497,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/refinishing-log-and-cabin-service-colorado-springs-service.json",
-        "bytes": 2489,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-denver-service.json",
-        "bytes": 1308,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-centennial-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-greenwood-village-service.json",
-        "bytes": 1352,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-foxfield-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-parker-service.json",
-        "bytes": 1308,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-glendale-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-commerce-city-service.json",
-        "bytes": 1336,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-englewood-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-sheridan-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-littleton-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-highlands-ranch-service.json",
-        "bytes": 1344,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-lone-tree-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-cherry-hills-village-service.json",
-        "bytes": 1364,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-bow-mar-service.json",
-        "bytes": 1312,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-columbine-valley-service.json",
-        "bytes": 1348,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-southglenn-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-meridian-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-castlewood-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-dove-valley-service.json",
-        "bytes": 1328,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-watkins-service.json",
-        "bytes": 1312,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-bennett-service.json",
-        "bytes": 1312,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-strasburg-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-thornton-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-northglenn-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-federal-heights-service.json",
-        "bytes": 1344,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-westminster-service.json",
-        "bytes": 1328,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-arvada-service.json",
-        "bytes": 1308,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-lakewood-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-golden-service.json",
-        "bytes": 1308,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-edgewater-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-mountain-view-service.json",
-        "bytes": 1336,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-wheat-ridge-service.json",
-        "bytes": 1328,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-broomfield-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-louisville-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-lafayette-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-erie-service.json",
-        "bytes": 1300,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-firestone-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-frederick-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-longmont-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-boulder-service.json",
-        "bytes": 1312,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-superior-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-elizabeth-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-kiowa-service.json",
-        "bytes": 1304,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-byers-service.json",
-        "bytes": 1304,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-deer-trail-service.json",
-        "bytes": 1324,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-castle-rock-service.json",
-        "bytes": 1328,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-franktown-service.json",
-        "bytes": 1320,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-larkspur-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-sedalia-service.json",
-        "bytes": 1312,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-monument-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-palmer-lake-service.json",
-        "bytes": 1328,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-fountain-service.json",
-        "bytes": 1316,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-security-widefield-service.json",
-        "bytes": 1356,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-remodeling-colorado-springs-service.json",
-        "bytes": 1348,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-denver-service.json",
-        "bytes": 2374,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-centennial-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-greenwood-village-service.json",
-        "bytes": 2418,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-foxfield-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-parker-service.json",
-        "bytes": 2374,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-glendale-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-commerce-city-service.json",
-        "bytes": 2402,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-englewood-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-sheridan-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-littleton-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-highlands-ranch-service.json",
-        "bytes": 2410,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-lone-tree-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-cherry-hills-village-service.json",
-        "bytes": 2430,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-bow-mar-service.json",
-        "bytes": 2378,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-columbine-valley-service.json",
-        "bytes": 2414,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-southglenn-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-meridian-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-castlewood-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-dove-valley-service.json",
-        "bytes": 2394,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-watkins-service.json",
-        "bytes": 2378,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-bennett-service.json",
-        "bytes": 2378,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-strasburg-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-thornton-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-northglenn-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-federal-heights-service.json",
-        "bytes": 2410,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-westminster-service.json",
-        "bytes": 2394,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-arvada-service.json",
-        "bytes": 2374,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-lakewood-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-golden-service.json",
-        "bytes": 2374,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-edgewater-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-mountain-view-service.json",
-        "bytes": 2402,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-wheat-ridge-service.json",
-        "bytes": 2394,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-broomfield-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-louisville-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-lafayette-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-erie-service.json",
-        "bytes": 2366,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-firestone-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-frederick-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-longmont-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-boulder-service.json",
-        "bytes": 2378,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-superior-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-elizabeth-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-kiowa-service.json",
-        "bytes": 2370,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-byers-service.json",
-        "bytes": 2370,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-deer-trail-service.json",
-        "bytes": 2390,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-castle-rock-service.json",
-        "bytes": 2394,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-franktown-service.json",
-        "bytes": 2386,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-larkspur-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-sedalia-service.json",
-        "bytes": 2378,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-monument-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-palmer-lake-service.json",
-        "bytes": 2394,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-fountain-service.json",
-        "bytes": 2382,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-security-widefield-service.json",
-        "bytes": 2422,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/maintenance-colorado-springs-service.json",
-        "bytes": 2414,
-        "purpose": "schema"
-      }
-    ],
-    "lawyers": [
-      {
-        "path": "lawyers/abraham-becerra-owner-profile.json",
-        "bytes": 3118,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-denver.json",
-        "bytes": 1172,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-centennial.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-greenwood-village.json",
-        "bytes": 1183,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-foxfield.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-parker.json",
-        "bytes": 1172,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-glendale.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-commerce-city.json",
-        "bytes": 1179,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-englewood.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-sheridan.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-littleton.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-highlands-ranch.json",
-        "bytes": 1181,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-lone-tree.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-cherry-hills-village.json",
-        "bytes": 1186,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bow-mar.json",
-        "bytes": 1173,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-columbine-valley.json",
-        "bytes": 1182,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-southglenn.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-meridian.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-castlewood.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-dove-valley.json",
-        "bytes": 1177,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-watkins.json",
-        "bytes": 1173,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bennett.json",
-        "bytes": 1173,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-strasburg.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-thornton.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-northglenn.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-federal-heights.json",
-        "bytes": 1181,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-westminster.json",
-        "bytes": 1177,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-arvada.json",
-        "bytes": 1172,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-lakewood.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-golden.json",
-        "bytes": 1172,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-edgewater.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-mountain-view.json",
-        "bytes": 1179,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-wheat-ridge.json",
-        "bytes": 1177,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-broomfield.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-louisville.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-lafayette.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-erie.json",
-        "bytes": 1170,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-firestone.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-frederick.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-longmont.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-boulder.json",
-        "bytes": 1173,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-superior.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-elizabeth.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kiowa.json",
-        "bytes": 1171,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-byers.json",
-        "bytes": 1171,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-deer-trail.json",
-        "bytes": 1176,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-castle-rock.json",
-        "bytes": 1177,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-franktown.json",
-        "bytes": 1175,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-larkspur.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-sedalia.json",
-        "bytes": 1173,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-monument.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-palmer-lake.json",
-        "bytes": 1177,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-fountain.json",
-        "bytes": 1174,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-security-widefield.json",
-        "bytes": 1184,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-colorado-springs.json",
-        "bytes": 1182,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kitchen-remodeling-denver-faq.json",
-        "bytes": 1001,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kitchen-remodeling-centennial-faq.json",
-        "bytes": 1017,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kitchen-remodeling-greenwood-village-faq.json",
-        "bytes": 1045,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kitchen-remodeling-foxfield-faq.json",
-        "bytes": 1009,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-kitchen-remodeling-parker-faq.json",
-        "bytes": 1001,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bathroom-remodeling-denver-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bathroom-remodeling-centennial-faq.json",
-        "bytes": 1021,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bathroom-remodeling-greenwood-village-faq.json",
-        "bytes": 1049,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bathroom-remodeling-foxfield-faq.json",
-        "bytes": 1013,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-bathroom-remodeling-parker-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-basement-remodeling-denver-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-basement-remodeling-centennial-faq.json",
-        "bytes": 1021,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-basement-remodeling-greenwood-village-faq.json",
-        "bytes": 1049,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-basement-remodeling-foxfield-faq.json",
-        "bytes": 1013,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-basement-remodeling-parker-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-garage-remodeling-denver-faq.json",
-        "bytes": 997,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-garage-remodeling-centennial-faq.json",
-        "bytes": 1013,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-garage-remodeling-greenwood-village-faq.json",
-        "bytes": 1041,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-garage-remodeling-foxfield-faq.json",
-        "bytes": 1005,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-garage-remodeling-parker-faq.json",
-        "bytes": 997,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-finish-carpentry-denver-faq.json",
-        "bytes": 993,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-finish-carpentry-centennial-faq.json",
-        "bytes": 1009,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-finish-carpentry-greenwood-village-faq.json",
-        "bytes": 1037,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-finish-carpentry-foxfield-faq.json",
-        "bytes": 1001,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/abraham-becerra-owner-finish-carpentry-parker-faq.json",
-        "bytes": 993,
-        "purpose": "schema"
-      }
-    ],
     "locations": [
       {
         "path": "locations/hh-remodeling-llc-office.json",
@@ -7882,1532 +5836,40 @@
         "purpose": "schema"
       }
     ],
-    "help": [
-      {
-        "path": "help/what-to-do-when-your-kitchen-cabinets-need-removing.json",
-        "bytes": 3538,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-in-kitchen-cabinet-removal.json",
-        "bytes": 3578,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-professional-for-kitchen-cabinet-removal.json",
-        "bytes": 3501,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/should-i-remove-my-kitchen-cabinets-myself-or-hire-help.json",
-        "bytes": 3505,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-ultimate-checklist-for-kitchen-cabinet-removal.json",
-        "bytes": 3557,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/kitchen-cabinet-removal-what-happens-when.json",
-        "bytes": 3496,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/cabinet-chaos-what-to-do-when-your-kitchen-remodel-goes-sideways.json",
-        "bytes": 3574,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-your-kitchen-ready-for-new-cabinets-a-pre-install-checklist.json",
-        "bytes": 3594,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-your-kitchen-cabinet-installation.json",
-        "bytes": 3762,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/countertop-conundrums-what-to-expect-during-installation.json",
-        "bytes": 3652,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/seamless-solutions-avoiding-common-countertop-installation-mistakes.json",
-        "bytes": 3981,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-the-pros-for-kitchen-countertops.json",
-        "bytes": 3959,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-kitchen-backsplash-tile-installation.json",
-        "bytes": 3445,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-installing-your-kitchen-backsplash.json",
-        "bytes": 3570,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-long-does-it-really-take-to-install-a-kitchen-backsplash.json",
-        "bytes": 3653,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-isn-t-my-faucet-fitting-with-my-new-sink.json",
-        "bytes": 3723,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-when-coordinating-your-kitchen-sink-and-faucet.json",
-        "bytes": 3599,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/signs-you-need-professional-help-with-sink-and-faucet-installation.json",
-        "bytes": 3648,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/shower-installation-when-to-call-a-pro.json",
-        "bytes": 3410,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-leaks-shower-installation-mistakes.json",
-        "bytes": 3441,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/seamless-shower-install-what-to-expect.json",
-        "bytes": 3386,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/choosing-a-new-vanity-what-to-consider.json",
-        "bytes": 3456,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-new-vanity-might-not-fit.json",
-        "bytes": 3584,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/vanity-installation-what-happens-when.json",
-        "bytes": 3415,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/picking-the-right-bathroom-countertop-quartz-vs-granite.json",
-        "bytes": 3818,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-during-your-bathroom-countertop-installation.json",
-        "bytes": 3764,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-when-installing-bathroom-countertops.json",
-        "bytes": 3869,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/choosing-the-best-tile-for-your-bathroom-floors-walls-and-showers.json",
-        "bytes": 3834,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-know-about-bathroom-tile-installation-timelines.json",
-        "bytes": 3704,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/don-t-make-these-mistakes-with-your-bathroom-tile-installation.json",
-        "bytes": 3882,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-shower-isn-t-waterproof-and-what-to-do-about-it.json",
-        "bytes": 3714,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-waterproofing-your-bathroom.json",
-        "bytes": 3733,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/getting-your-bathroom-waterproofing-right-the-first-time.json",
-        "bytes": 3924,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/ensuring-your-bathroom-fixtures-don-t-leak.json",
-        "bytes": 3811,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-installing-new-bathroom-fixtures.json",
-        "bytes": 3735,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-process-of-flawless-bathroom-fixture-installation.json",
-        "bytes": 4183,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-bathroom-floor-feel-spongy.json",
-        "bytes": 3207,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/bathroom-flooring-waterproof-vs-water-resistant-what-do-you-really-need.json",
-        "bytes": 3682,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-in-bathroom-floor-installation.json",
-        "bytes": 3611,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/my-bathroom-paint-is-peeling-what-went-wrong.json",
-        "bytes": 3620,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/choosing-the-right-finish-semi-gloss-vs-satin-for-your-bathroom-walls.json",
-        "bytes": 3840,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-to-call-a-professional-for-bathroom-painting-and-trim.json",
-        "bytes": 3809,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-handle-moisture-before-framing-your-basement-walls.json",
-        "bytes": 3511,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-when-framing-basement-walls.json",
-        "bytes": 3664,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-basement-wall-framing.json",
-        "bytes": 3573,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/tackling-complex-basement-ceiling-framing.json",
-        "bytes": 3648,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-low-ceilings-in-your-basement-remodel.json",
-        "bytes": 3835,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-to-bring-in-a-pro-for-basement-ceiling-framing.json",
-        "bytes": 3750,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-basement-drywall-always-get-moldy.json",
-        "bytes": 3936,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-installing-basement-drywall.json",
-        "bytes": 4082,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-long-does-it-really-take-to-drywall-a-basement.json",
-        "bytes": 4351,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-happens-during-basement-drywall-finishing.json",
-        "bytes": 4982,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-are-my-drywall-joints-cracking-after-painting.json",
-        "bytes": 4457,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-pro-for-basement-drywall-finishing.json",
-        "bytes": 4799,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-basement-paint-keep-peeling.json",
-        "bytes": 3825,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-prep-your-basement-walls-for-a-flawless-paint-job.json",
-        "bytes": 3839,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-pro-for-your-basement-painting-project.json",
-        "bytes": 3848,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/my-basement-floor-is-uneven-now-what.json",
-        "bytes": 3671,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-in-basement-flooring-installation.json",
-        "bytes": 4095,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-professional-help-essential-for-basement-flooring.json",
-        "bytes": 3974,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-garage-framing-goes-wrong.json",
-        "bytes": 3847,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-timeline-for-your-garage-wall-framing-project.json",
-        "bytes": 3913,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-your-garage-wall-framing-up-to-code.json",
-        "bytes": 4231,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-know-before-insulating-your-garage.json",
-        "bytes": 3859,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-insulation-blunders-in-your-garage.json",
-        "bytes": 4099,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-does-garage-insulation-require-an-inspection.json",
-        "bytes": 3948,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-garage-drywall-needs-to-be-fire-rated.json",
-        "bytes": 3669,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-drywall-installation-mistakes-in-your-garage.json",
-        "bytes": 3587,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-permitting-process-for-garage-drywall-finishing.json",
-        "bytes": 3572,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-when-upgrading-your-garage-door.json",
-        "bytes": 3654,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/torsion-springs-why-professional-installation-is-crucial.json",
-        "bytes": 3639,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/getting-your-garage-door-installation-right-a-checklist.json",
-        "bytes": 4311,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-garage-floor-coating-keep-failing.json",
-        "bytes": 3489,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-pick-the-right-garage-floor-for-your-home.json",
-        "bytes": 3494,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-happens-during-a-garage-floor-installation.json",
-        "bytes": 4215,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-your-garage-walls-look-dingy.json",
-        "bytes": 3501,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-process-of-getting-your-garage-painted.json",
-        "bytes": 4270,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-people-make-when-painting-their-garage.json",
-        "bytes": 3930,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-look-for-in-a-finish-carpenter.json",
-        "bytes": 3546,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-finish-carpentry-mistakes.json",
-        "bytes": 3644,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-to-call-a-pro-for-finish-carpentry.json",
-        "bytes": 3851,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-your-baseboard-installation.json",
-        "bytes": 3613,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-baseboard-installation-problems.json",
-        "bytes": 3645,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-a-professional-for-baseboard-installation.json",
-        "bytes": 3915,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/crown-molding-when-your-walls-aren-t-perfectly-flat.json",
-        "bytes": 3687,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-get-seamless-crown-molding-corners.json",
-        "bytes": 3511,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-crown-molding-installation-errors.json",
-        "bytes": 3679,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-your-door-casing-doesn-t-fit-right.json",
-        "bytes": 3655,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-choose-the-best-door-casing-style.json",
-        "bytes": 3689,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-mistakes-in-door-casing-installation.json",
-        "bytes": 3636,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-window-casing-looks-off-and-how-to-fix-it.json",
-        "bytes": 3460,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/window-casing-installation-a-step-by-step-guide.json",
-        "bytes": 3507,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-in-the-pros-for-tricky-window-trim.json",
-        "bytes": 3608,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/wainscoting-installation-mistakes-to-avoid.json",
-        "bytes": 3593,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/wainscoting-styles-which-one-works-best-for-your-home.json",
-        "bytes": 3717,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/preparing-your-walls-for-a-flawless-wainscoting-project.json",
-        "bytes": 3655,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/my-shelves-are-sagging-what-now.json",
-        "bytes": 3652,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/thinking-built-in-shelves-here-s-what-you-need-to-know-first.json",
-        "bytes": 3672,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-aren-t-my-built-in-shelves-level-common-installation-mistakes.json",
-        "bytes": 3719,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/picking-the-perfect-trim-a-quick-guide.json",
-        "bytes": 3702,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/help-my-walls-aren-t-straight-and-my-trim-looks-wonky.json",
-        "bytes": 3802,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/molding-mistakes-to-avoid-for-a-professional-finish.json",
-        "bytes": 3795,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-your-wall-load-bearing-how-to-tell-if-it-needs-professional-structural-framin.json",
-        "bytes": 3547,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-when-framing-a-structural-wall-and-how-to-avoid-them.json",
-        "bytes": 3628,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-do-you-need-a-pro-for-structural-wall-changes.json",
-        "bytes": 3578,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-new-interior-partition-wall.json",
-        "bytes": 3671,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-pitfalls-in-partition-wall-framing.json",
-        "bytes": 3718,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-an-expert-for-interior-wall-projects.json",
-        "bytes": 3607,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-new-door-isn-t-fitting-right.json",
-        "bytes": 3634,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-a-pro-for-door-framing.json",
-        "bytes": 3568,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-door-framing-blunders.json",
-        "bytes": 3737,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-happens-when-your-new-window-doesn-t-fit.json",
-        "bytes": 3785,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/getting-your-window-opening-dimensions-just-right.json",
-        "bytes": 3641,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-in-the-experts-for-window-framing.json",
-        "bytes": 3811,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-remodel-hits-a-framing-snag.json",
-        "bytes": 3398,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/demystifying-load-bearing-walls-in-remodels.json",
-        "bytes": 3584,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-delays-in-your-remodel-framing-project.json",
-        "bytes": 4121,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-your-small-addition-framing-project-truly-ready-to-start.json",
-        "bytes": 3789,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/navigating-permits-for-your-home-addition-framing.json",
-        "bytes": 3668,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-dodge-when-framing-a-new-addition.json",
-        "bytes": 4229,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-isn-t-my-drywall-turning-out-smooth.json",
-        "bytes": 3465,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-hanging-new-drywall.json",
-        "bytes": 3464,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-drywall-finishing.json",
-        "bytes": 3704,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-mistakes-when-hanging-new-drywall-sheets.json",
-        "bytes": 3829,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/getting-a-super-smooth-finish-how-many-coats-of-mud.json",
-        "bytes": 3653,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-prepare-a-room-for-new-drywall-installation.json",
-        "bytes": 3970,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-drywall-sanding-job-goes-wrong-how-to-fix-it.json",
-        "bytes": 3370,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/tackling-drywall-sanding-dust-tips-for-a-cleaner-home.json",
-        "bytes": 3515,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-should-you-call-a-pro-for-drywall-sanding.json",
-        "bytes": 3606,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-about-pesky-drywall-cracks-patching-solutions.json",
-        "bytes": 3474,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-your-drywall-patch-not-blending-troubleshooting-tips.json",
-        "bytes": 3673,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-to-call-a-professional-for-drywall-patching.json",
-        "bytes": 3936,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-drywall-texture-repair-just-isn-t-blending-in.json",
-        "bytes": 3486,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-drywall-repair-mistakes.json",
-        "bytes": 3525,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-drywall-texture-repair.json",
-        "bytes": 3509,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-your-new-tile-floor-looks-uneven.json",
-        "bytes": 3632,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-pitfalls-in-ceramic-tile-installation.json",
-        "bytes": 3623,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-professional-for-tile-work.json",
-        "bytes": 3577,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-isn-t-my-porcelain-tile-lasting.json",
-        "bytes": 3644,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-prepare-for-a-porcelain-tile-installation.json",
-        "bytes": 3476,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-porcelain-tile-installation-mistakes.json",
-        "bytes": 3717,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-natural-stone-tile-right-for-my-kitchen.json",
-        "bytes": 3722,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-mistakes-to-avoid-when-installing-natural-stone-tile.json",
-        "bytes": 3837,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-get-professional-help-with-natural-stone-tile.json",
-        "bytes": 4190,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-tiling-over-existing-floors.json",
-        "bytes": 3323,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-prepare-your-subfloor-for-tile-installation.json",
-        "bytes": 4183,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-in-floor-tiling-projects.json",
-        "bytes": 4000,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/can-you-install-wall-tile-over-old-finishes.json",
-        "bytes": 3407,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/steps-for-a-successful-wall-tile-installation.json",
-        "bytes": 4153,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-watch-out-for-when-tiling-walls.json",
-        "bytes": 4208,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-when-tiling-your-shower.json",
-        "bytes": 3456,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-shower-tile-installation-disasters.json",
-        "bytes": 3501,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-a-pro-for-shower-tiling.json",
-        "bytes": 3439,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-in-backsplash-tile-installation.json",
-        "bytes": 3522,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-perfect-backsplash-tile-project.json",
-        "bytes": 3335,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-happens-during-a-backsplash-tile-install.json",
-        "bytes": 3495,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-isn-t-my-grout-sealer-working.json",
-        "bytes": 3447,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-know-if-your-grout-needs-sealing.json",
-        "bytes": 3351,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-grout-sealing-mistakes.json",
-        "bytes": 3451,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-installing-marble-tile.json",
-        "bytes": 3490,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-installing-marble-tile.json",
-        "bytes": 3542,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-pro-for-marble-tile-work.json",
-        "bytes": 3443,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-interior-walls-need-a-fresh-coat.json",
-        "bytes": 3657,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-wall-painting-mistakes.json",
-        "bytes": 3694,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-during-interior-wall-painting.json",
-        "bytes": 3632,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-ceiling-paint-might-not-be-cutting-it.json",
-        "bytes": 3716,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-steer-clear-of-when-painting-ceilings.json",
-        "bytes": 3730,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-ceiling-painting.json",
-        "bytes": 3651,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-interior-trim-paint-keep-peeling.json",
-        "bytes": 3602,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-get-a-flawless-finish-on-your-interior-trim.json",
-        "bytes": 4066,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-should-i-ask-my-painter-about-trim-painting.json",
-        "bytes": 3823,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-newly-painted-door-look-streaky.json",
-        "bytes": 3742,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-prep-your-interior-doors-for-a-professional-paint-job.json",
-        "bytes": 4421,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-professional-interior-door-painting-a-must-have.json",
-        "bytes": 4352,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-during-your-interior-paint-project.json",
-        "bytes": 3618,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-interior-painting-mistakes.json",
-        "bytes": 3662,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-pros-for-your-interior-paint-job.json",
-        "bytes": 3675,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/understanding-what-a-general-contractor-actually-does.json",
-        "bytes": 3583,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-remodel-needs-a-project-manager.json",
-        "bytes": 3631,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/navigating-common-general-contractor-project-pitfalls.json",
-        "bytes": 3708,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-remodel-needs-expert-plumbing-coordination.json",
-        "bytes": 3526,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-plumbing-rough-in-headaches.json",
-        "bytes": 3628,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-in-plumbing-coordination-for-your-remodel.json",
-        "bytes": 3871,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/navigating-electrical-coordination-in-a-remodel.json",
-        "bytes": 3598,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/preventing-electrical-rough-in-conflicts.json",
-        "bytes": 4004,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-electrical-remodeling-mistakes-to-avoid.json",
-        "bytes": 3819,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-isn-t-my-permit-application-moving-forward.json",
-        "bytes": 3722,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-scheduling-permit-inspections.json",
-        "bytes": 3660,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-permit-process-a-step-by-step-guide-for-homeowners.json",
-        "bytes": 4667,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-hire-a-pro-for-your-whole-house-remodel.json",
-        "bytes": 3706,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-pitfalls-in-whole-house-renovations.json",
-        "bytes": 4363,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/getting-your-whole-house-renovation-approved-a-timeline.json",
-        "bytes": 4905,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-single-room-renovation-without-headaches.json",
-        "bytes": 3462,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-costly-mistakes-in-your-single-room-project.json",
-        "bytes": 3624,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/single-room-renovation-when-to-diy-vs-hire-a-pro.json",
-        "bytes": 3560,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-multi-room-renovation-for-success.json",
-        "bytes": 3654,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-a-timeline-for-your-multi-room-project.json",
-        "bytes": 3652,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-your-multi-room-remodel.json",
-        "bytes": 3744,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-home-feels-cramped-reconfiguring-your-layout.json",
-        "bytes": 3718,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/making-the-most-of-your-space-a-layout-reconfiguration-checklist.json",
-        "bytes": 3850,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoid-these-mistakes-when-changing-your-home-s-layout.json",
-        "bytes": 3834,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/considering-a-room-addition-what-to-ask-yourself-first.json",
-        "bytes": 3706,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-room-addition-planning-timeline-what-to-expect.json",
-        "bytes": 3884,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/don-t-make-these-mistakes-when-planning-your-room-addition.json",
-        "bytes": 3714,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-framing-fails-in-your-room-addition.json",
-        "bytes": 3455,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-for-flawless-room-addition-framing.json",
-        "bytes": 3606,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-room-addition-framing-feels-shaky-what-to-do.json",
-        "bytes": 3707,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/making-your-room-addition-drywall-smooth-and-seamless.json",
-        "bytes": 3740,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-right-time-to-start-drywall-in-your-room-addition.json",
-        "bytes": 3654,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-room-addition-drywall-might-be-cracking.json",
-        "bytes": 3822,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-kitchen-addition-plans-hit-a-snag.json",
-        "bytes": 3667,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-kitchen-addition-headaches.json",
-        "bytes": 3573,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-during-your-kitchen-addition.json",
-        "bytes": 3738,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/navigating-the-permits-for-your-new-bathroom.json",
-        "bytes": 3649,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-ultimate-bathroom-addition-checklist.json",
-        "bytes": 4601,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-your-bathroom-addition.json",
-        "bytes": 4131,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-expect-when-hiring-a-handyman.json",
-        "bytes": 3304,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-handyman-hiring-mistakes.json",
-        "bytes": 3404,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-do-you-really-need-a-handyman.json",
-        "bytes": 3757,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/tackling-stubborn-sticky-doors.json",
-        "bytes": 3165,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/diagnosing-door-issues-is-it-the-hinge-or-the-latch.json",
-        "bytes": 3462,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-door-repairs.json",
-        "bytes": 3652,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-trim-keep-getting-damaged.json",
-        "bytes": 3486,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/should-i-repair-or-replace-damaged-trim.json",
-        "bytes": 3484,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-when-fixing-trim-yourself.json",
-        "bytes": 3523,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-do-i-have-cracks-in-my-drywall.json",
-        "bytes": 3527,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/can-i-patch-this-drywall-hole-myself.json",
-        "bytes": 3502,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-drywall-patching-blunders.json",
-        "bytes": 3500,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-wall-paint-look-patchy-after-touch-ups.json",
-        "bytes": 3493,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-make-small-paint-touch-ups-seamless.json",
-        "bytes": 3399,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-should-i-call-a-pro-for-paint-touch-ups.json",
-        "bytes": 3715,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-your-doorway-isn-t-square-anymore.json",
-        "bytes": 3534,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/can-i-fix-minor-framing-issues-myself.json",
-        "bytes": 3585,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-a-pro-for-framing-adjustments.json",
-        "bytes": 3911,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-you-notice-small-home-repairs-piling-up.json",
-        "bytes": 3408,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-get-started-with-home-repair-projects.json",
-        "bytes": 3398,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-to-avoid-when-hiring-for-home-repairs.json",
-        "bytes": 3557,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-consider-before-tackling-interior-wear-and-tear.json",
-        "bytes": 3490,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-address-wear-and-tear-in-your-home.json",
-        "bytes": 3608,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-people-make-when-fixing-interior-wear-and-tear.json",
-        "bytes": 3651,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-repairs-should-you-tackle-before-selling-your-home.json",
-        "bytes": 3563,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-should-you-fix-damage-versus-offering-a-price-reduction.json",
-        "bytes": 3574,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-handle-inspection-repair-requests-on-a-tight-timeline.json",
-        "bytes": 3625,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-determine-if-mobile-home-damage-is-wear-and-tear-or-tenant-caused.json",
-        "bytes": 3727,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-when-you-discover-a-leak-in-your-mobile-home.json",
-        "bytes": 3695,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/key-steps-for-documenting-mobile-home-repairs-for-insurance-or-resale.json",
-        "bytes": 2743,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-mobile-home-walls-start-sagging-what-to-do.json",
-        "bytes": 3337,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-mobile-home-ceiling-look-damaged.json",
-        "bytes": 3533,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-when-repairing-mobile-home-walls-and-ceilings.json",
-        "bytes": 3825,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/my-mobile-home-floor-feels-soft-now-what.json",
-        "bytes": 3331,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/dealing-with-mobile-home-flooring-damage-a-checklist.json",
-        "bytes": 3851,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-mobile-home-floor-issues.json",
-        "bytes": 3950,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-your-foreclosed-property-needs-a-fresh-coat-what-to-do.json",
-        "bytes": 3483,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-painting-pitfalls-in-foreclosed-properties.json",
-        "bytes": 3618,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-professional-painting-necessary-for-a-foreclosed-home.json",
-        "bytes": 3599,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/tackling-subfloor-woes-in-a-foreclosed-property.json",
-        "bytes": 3511,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-installing-flooring-in-a-foreclosed-home.json",
-        "bytes": 3641,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-should-you-call-a-pro-for-foreclosed-property-flooring.json",
-        "bytes": 3594,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-look-for-when-refreshing-a-foreclosed-kitchen.json",
-        "bytes": 3521,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-costly-mistakes-in-your-foreclosed-kitchen-renovation.json",
-        "bytes": 3678,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-your-foreclosed-kitchen-refresh.json",
-        "bytes": 3849,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-plan-your-foreclosed-property-bathroom-refresh.json",
-        "bytes": 4052,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/don-t-get-tripped-up-common-mistakes-in-foreclosed-bathroom-renovations.json",
-        "bytes": 3744,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-a-professional-essential-for-a-foreclosed-property-bathroom-refresh.json",
-        "bytes": 4128,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-does-my-log-home-s-interior-look-blotchy-after-staining.json",
-        "bytes": 3611,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-can-i-tell-if-my-log-home-s-interior-is-ready-for-staining.json",
-        "bytes": 3522,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-should-i-consider-professional-help-for-interior-log-staining.json",
-        "bytes": 3486,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/do-interior-log-walls-really-need-a-sealer.json",
-        "bytes": 3554,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-to-re-seal-my-log-home-s-interior-logs.json",
-        "bytes": 3611,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-s-the-difference-between-log-home-interior-stain-and-sealer.json",
-        "bytes": 3721,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-cabin-stain-looks-different-than-the-sample.json",
-        "bytes": 3387,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/5-mistakes-to-avoid-when-staining-your-cabin-interior.json",
-        "bytes": 3824,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-cabin-interior-staining.json",
-        "bytes": 3845,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-cabin-sealing-really-necessary-for-interior-wood.json",
-        "bytes": 3480,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/my-cabin-s-existing-sealant-is-peeling-now-what.json",
-        "bytes": 3482,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-often-should-i-reseal-my-cabin-s-interior.json",
-        "bytes": 3479,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-log-cabin-trim-repair.json",
-        "bytes": 3673,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-about-rotting-log-cabin-trim.json",
-        "bytes": 3496,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/avoiding-common-mistakes-in-log-home-finishing.json",
-        "bytes": 3777,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-time-for-a-log-home-finish-upgrade.json",
-        "bytes": 3585,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/the-right-way-to-prepare-logs-for-a-new-finish.json",
-        "bytes": 3589,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-repair-vs-replace-log-cabin-trim.json",
-        "bytes": 3882,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-to-do-immediately-after-interior-storm-damage.json",
-        "bytes": 3433,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-call-a-pro-for-storm-damage-in-colorado.json",
-        "bytes": 3771,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-to-avoid-after-interior-storm-damage.json",
-        "bytes": 3594,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-respond-to-interior-water-damage.json",
-        "bytes": 3442,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-acting-fast-on-water-damage-is-key.json",
-        "bytes": 3971,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/common-mistakes-to-avoid-after-water-damage.json",
-        "bytes": 3565,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-storm-damaged-drywall-needs-more-than-just-drying.json",
-        "bytes": 3411,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-dealing-with-storm-damaged-drywall.json",
-        "bytes": 3401,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-is-it-safe-to-paint-after-storm-drywall-repair.json",
-        "bytes": 3468,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/how-to-get-your-walls-looking-seamless-after-storm-repair.json",
-        "bytes": 3426,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/why-your-freshly-painted-wall-looks-patchy-after-storm-repair.json",
-        "bytes": 3601,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/is-my-sagging-ceiling-drywall-a-hazard-after-a-storm.json",
-        "bytes": 3587,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/what-happens-if-my-insurer-s-estimate-is-too-low.json",
-        "bytes": 3611,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-filing-a-home-damage-claim.json",
-        "bytes": 4190,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/when-to-bring-in-a-pro-for-home-restoration.json",
-        "bytes": 4191,
-        "purpose": "schema"
-      }
-    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 2998,
+        "bytes": 2879,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 120314,
+        "bytes": 9701,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 495574,
+        "bytes": 96501,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 1581,
+        "bytes": 1536,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3483,
+        "bytes": 3438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 505610,
+        "bytes": 505578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 509829,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "team-members.html",
-        "bytes": 47850,
+        "bytes": 1584,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -9419,7 +5881,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5997,
+        "bytes": 12689,
         "purpose": "LLM hint"
       },
       {
@@ -9444,37 +5906,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 867494,
+        "bytes": 547416,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 278684,
+        "bytes": 181661,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 278684,
+        "bytes": 181661,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5839,
+        "bytes": 12470,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 281427,
+        "bytes": 182994,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 346957,
+        "bytes": 213135,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1604,
+        "bytes": 1464,
         "purpose": "Standard sitemap"
       }
     ]
@@ -9482,7 +5944,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4/",
+      "pagesUrl": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
     }
   }

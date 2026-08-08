@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-07T01:51:01.800Z",
+  "generatedAt": "2026-08-08T20:14:12.394Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -12,7 +12,7 @@
   "entity": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
-    "aiDataHub": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
+    "aiDataHub": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
   },
   "related": [
     {
@@ -23,7 +23,7 @@
     {
       "role": "ai-data-hub",
       "label": "HH Remodeling LLC — AI Data Hub",
-      "url": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
+      "url": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
     },
     {
       "role": "mirror-repo",
@@ -35,13 +35,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
+      "url": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/hh-remodeling-llc-ai-schemas-drp4/",
+      "pagesUrl": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
     }
   }
