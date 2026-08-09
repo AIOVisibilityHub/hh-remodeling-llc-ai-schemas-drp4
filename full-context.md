@@ -1,14 +1,16 @@
 # HH Remodeling LLC — Full AI Context
 
 **Canonical URL:** http://coloradoremodeling.company
-**Generated:** 2026-08-08
+**Generated:** 2026-08-09
 
 ## Overview
 HH Remodeling LLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **1070** faqs
+- **1146** faqs
+- **15** reviews
 - **1** locations
+- **1014** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources

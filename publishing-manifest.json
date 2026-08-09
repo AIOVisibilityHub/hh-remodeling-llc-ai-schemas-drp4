@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-08T20:14:12.406Z",
+  "generatedAt": "2026-08-09T19:30:44.840Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -439,15 +439,15 @@
     ]
   },
   "package": {
-    "totalFiles": 1093,
-    "totalBytes": 3246528,
+    "totalFiles": 2199,
+    "totalBytes": 9890438,
     "stats": {
       "qna": 0,
-      "faqs": 1070,
+      "faqs": 1146,
       "press": 0,
-      "total": 1072,
+      "total": 2178,
       "awards": 0,
-      "reviews": 0,
+      "reviews": 15,
       "products": 0,
       "research": 0,
       "services": 0,
@@ -455,7 +455,7 @@
       "locations": 1,
       "personnel": 0,
       "caseStudies": 0,
-      "helpArticles": 0,
+      "helpArticles": 1014,
       "organization": 1
     }
   },
@@ -481,6 +481,5078 @@
       {
         "path": "organization/hh-remodeling-llc-organization.json",
         "bytes": 4341,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/what-to-do-when-your-kitchen-remodel-budget-feels-out-of-control.json",
+        "bytes": 3619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-kitchen-remodel-to-avoid-delays.json",
+        "bytes": 3533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-starting-a-kitchen-renovation.json",
+        "bytes": 4026,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-full-kitchen-gut-renovation.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-timeline-for-your-full-kitchen-remodel.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-full-kitchen-remodel-always-the-best-option.json",
+        "bytes": 3815,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-remodel-stalls-out.json",
+        "bytes": 3541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-kitchen-renovation-needs-a-clear-plan.json",
+        "bytes": 3485,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-a-kitchen-reno-here-s-when-to-call-the-pros.json",
+        "bytes": 4132,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-upgrading-your-kitchen.json",
+        "bytes": 3496,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-your-kitchen.json",
+        "bytes": 3991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-kitchen-upgrades-require-a-professional-hand.json",
+        "bytes": 4271,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-kitchen-layout-isn-t-working-for-you.json",
+        "bytes": 4156,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-a-more-functional-kitchen-layout.json",
+        "bytes": 3582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-redesigning-your-kitchen.json",
+        "bytes": 4238,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-for-kitchen-cabinet-removal.json",
+        "bytes": 4113,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-safely-remove-kitchen-cabinets-without-damage.json",
+        "bytes": 4922,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-a-pro-for-cabinet-demolition.json",
+        "bytes": 4380,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-with-kitchen-cabinet-installation.json",
+        "bytes": 3609,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-common-kitchen-cabinet-installation-problems.json",
+        "bytes": 3512,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-professional-for-cabinet-installation.json",
+        "bytes": 3957,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-does-kitchen-cabinet-replacement-really-involve.json",
+        "bytes": 3674,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-pitfalls-in-kitchen-cabinet-replacement.json",
+        "bytes": 3923,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-replace-your-kitchen-cabinets.json",
+        "bytes": 4082,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-choosing-your-new-kitchen-countertops.json",
+        "bytes": 3490,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-kitchen-countertop-installation.json",
+        "bytes": 3536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-new-countertops.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-replace-your-kitchen-countertops.json",
+        "bytes": 3815,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-involved-in-a-kitchen-countertop-replacement.json",
+        "bytes": 3636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-your-cabinets-need-to-be-replaced-before-new-countertops.json",
+        "bytes": 3847,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-backsplash-looks-dated.json",
+        "bytes": 3392,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-backsplash-installation-mistakes.json",
+        "bytes": 3573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-hire-a-pro-for-backsplash-installation.json",
+        "bytes": 3847,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-timeline-for-backsplash-tile-installation.json",
+        "bytes": 4587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-caulking-important-for-your-kitchen-backsplash.json",
+        "bytes": 4254,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-outlets-and-switches-in-your-backsplash.json",
+        "bytes": 4663,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-choosing-kitchen-flooring.json",
+        "bytes": 3482,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-kitchen-for-new-flooring-installation.json",
+        "bytes": 3769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-during-kitchen-flooring-installation.json",
+        "bytes": 3655,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-kitchen-drywall-installation.json",
+        "bytes": 3692,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-for-professional-kitchen-drywall-help.json",
+        "bytes": 4136,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-steer-clear-of-during-kitchen-drywall-repair.json",
+        "bytes": 4204,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-that-ugly-drywall-patch-in-your-kitchen.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-seamless-drywall-repair-in-your-kitchen.json",
+        "bytes": 4751,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-hh-remodeling-llc-fix-my-kitchen-s-water-damaged-drywall.json",
+        "bytes": 3873,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-kitchen-paint-look-uneven.json",
+        "bytes": 3796,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prep-your-kitchen-walls-for-a-perfect-paint-job.json",
+        "bytes": 4729,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-painting-your-kitchen.json",
+        "bytes": 4433,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-kitchen-trim-look-gappy.json",
+        "bytes": 3278,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-seamless-kitchen-trim-installation.json",
+        "bytes": 3425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-kitchen-trim-installation.json",
+        "bytes": 3754,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-kitchen-molding.json",
+        "bytes": 4068,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-molding-for-your-kitchen-cabinets.json",
+        "bytes": 3680,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solving-common-problems-with-kitchen-molding.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-door-frame-is-cracked.json",
+        "bytes": 3429,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-repair-vs-replace-your-kitchen-door-frame.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-repairing-kitchen-door-frames.json",
+        "bytes": 3622,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/achieving-a-seamless-look-with-kitchen-finish-carpentry.json",
+        "bytes": 3657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-kitchen-trim-not-matching.json",
+        "bytes": 3686,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-professional-for-kitchen-finish-carpentry.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-kitchen-tile-projects.json",
+        "bytes": 3639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-kitchen-ready-for-new-tile.json",
+        "bytes": 3534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-kitchen-tile-lasts.json",
+        "bytes": 3660,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-new-kitchen-faucet-leaks.json",
+        "bytes": 3547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-sure-your-new-sink-fits-just-right.json",
+        "bytes": 3650,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-professional-sink-and-faucet-installation-matters.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-kitchen-layout-working.json",
+        "bytes": 3453,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-kitchen-appliance-layout-for-better-workflow.json",
+        "bytes": 4237,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-kitchen-appliance-layout.json",
+        "bytes": 4093,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/who-coordinates-kitchen-appliance-hookups.json",
+        "bytes": 3997,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-your-kitchen-appliances-arrive.json",
+        "bytes": 4166,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-kitchen-appliance-hookup-timing-matter.json",
+        "bytes": 4483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/timeline-for-kitchen-appliance-hookups.json",
+        "bytes": 4578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-professional-help-with-kitchen-appliance-layout-planning.json",
+        "bytes": 4339,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-professional-help-with-appliance-hookups.json",
+        "bytes": 4331,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-kitchen-addition-a-timeline.json",
+        "bytes": 3671,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-kitchen-addition-project.json",
+        "bytes": 3522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-kitchen-addition.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/your-step-by-step-guide-to-a-smooth-bathroom-remodel.json",
+        "bytes": 3557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-that-delay-bathroom-remodels.json",
+        "bytes": 3469,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-the-experts-for-your-bathroom-renovation.json",
+        "bytes": 3578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-timeline-of-a-full-bathroom-remodel.json",
+        "bytes": 3494,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-bathroom-remodel-budget-gets-out-of-hand.json",
+        "bytes": 3460,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-your-bathroom-remodel.json",
+        "bytes": 3418,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-smart-choices-for-your-bathroom-renovation.json",
+        "bytes": 3399,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-bathroom-renovation-project.json",
+        "bytes": 3469,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-renovation-vs-full-bathroom-remodel-which-is-right-for-you.json",
+        "bytes": 3582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-bathroom-remodel-timeline-effectively.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-hire-a-pro-for-your-bathroom-upgrade.json",
+        "bytes": 3840,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-bathroom-tub-to-shower-conversion.json",
+        "bytes": 3772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-for-your-bathroom-tub-removal-project.json",
+        "bytes": 3947,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-proper-waterproofing-is-key-after-tub-removal.json",
+        "bytes": 3922,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-new-bathtub-doesn-t-fit.json",
+        "bytes": 4299,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-installing-a-new-bathtub.json",
+        "bytes": 4353,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-it-really-take-to-install-a-new-bathtub.json",
+        "bytes": 4554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-when-removing-your-old-shower.json",
+        "bytes": 4428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-shower-removal.json",
+        "bytes": 4336,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/uncovering-hidden-problems-during-shower-removal.json",
+        "bytes": 2513,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-shower-installation-goes-wrong-common-mistakes-to-avoid.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-new-shower-a-step-by-step-guide.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-with-your-bathroom-shower-renovation-a-checklist.json",
+        "bytes": 3621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-vanity-installation-mistakes-and-how-to-avoid-them.json",
+        "bytes": 3626,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-bathroom-vanity-upgrade.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-bathroom-vanity-project.json",
+        "bytes": 3623,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/picking-the-perfect-countertop-for-your-bathroom-a-guide.json",
+        "bytes": 3502,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-bathroom-countertop-installation.json",
+        "bytes": 3369,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-choosing-a-bathroom-countertop.json",
+        "bytes": 3565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-tile-for-your-bathroom-remodel.json",
+        "bytes": 3594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-bathroom-tile-installation-process-a-step-by-step-guide.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-mistakes-to-skip-during-bathroom-tile-projects.json",
+        "bytes": 3563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/picking-the-right-pro-for-your-bathroom-tile-project.json",
+        "bytes": 3772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-installing-bathroom-tile.json",
+        "bytes": 3728,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-the-experts-for-your-bathroom-tile.json",
+        "bytes": 3600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-bathroom-floor-ready-for-new-tile.json",
+        "bytes": 3789,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-bathroom-floor-tile-installation-really-take.json",
+        "bytes": 3741,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-you-really-need-a-pro-for-your-bathroom-floor-tile.json",
+        "bytes": 3749,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-bathroom-wall-tiles-uneven.json",
+        "bytes": 2554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-the-most-common-mistakes-in-diy-bathroom-wall-tiling.json",
+        "bytes": 4058,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-right-order-wall-tile-before-floor-tile-in-your-bathroom.json",
+        "bytes": 4151,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-best-way-to-waterproof-a-shower-before-tiling.json",
+        "bytes": 4368,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-before-i-can-use-my-newly-tiled-shower.json",
+        "bytes": 4345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-call-a-pro-for-your-shower-tile-installation.json",
+        "bytes": 4515,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-bathroom-marble-look-dull-after-installation.json",
+        "bytes": 3434,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-pick-the-right-marble-finish-for-your-bathroom.json",
+        "bytes": 3347,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-most-common-marble-installation-mistakes-to-avoid.json",
+        "bytes": 3425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-shower-leaking-after-a-renovation.json",
+        "bytes": 3443,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-bathroom-waterproofing-really-necessary.json",
+        "bytes": 3887,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-tell-if-my-bathroom-waterproofing-failed.json",
+        "bytes": 3991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-new-faucet-just-doesn-t-fit-avoiding-fixture-installation-headaches.json",
+        "bytes": 3555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-common-mistakes-to-avoid-during-bathroom-fixture-installation.json",
+        "bytes": 3633,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-my-bathroom-fixture-installation.json",
+        "bytes": 3593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-new-bathroom-floor-spongy-preventing-flooring-installation-issues.json",
+        "bytes": 3581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-5-mistakes-to-avoid-when-installing-bathroom-flooring.json",
+        "bytes": 3737,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-bathroom-flooring-project.json",
+        "bytes": 3543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-bathroom-drywall-keep-getting-damaged.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-bathroom-drywall-installation.json",
+        "bytes": 3748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-timeline-for-bathroom-drywall-installation.json",
+        "bytes": 4621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-bathroom-drywall-damage-just-cosmetic.json",
+        "bytes": 4206,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-replace-vs-patch-bathroom-drywall.json",
+        "bytes": 4705,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-drywall-for-your-bathroom-remodel.json",
+        "bytes": 4482,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-bathroom-paint-peel-so-fast.json",
+        "bytes": 3356,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-painting-your-bathroom.json",
+        "bytes": 3829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-your-bathroom-painting-project.json",
+        "bytes": 3523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-call-a-pro-for-bathroom-trim-installation.json",
+        "bytes": 3914,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-flawless-bathroom-trim-installation.json",
+        "bytes": 4304,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-when-choosing-bathroom-trim.json",
+        "bytes": 4096,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-bathroom-molding-won-t-stick.json",
+        "bytes": 3769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prevent-moisture-damage-to-bathroom-molding.json",
+        "bytes": 3669,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-bathroom-molding.json",
+        "bytes": 4076,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/should-you-repair-or-replace-a-damaged-bathroom-door-frame.json",
+        "bytes": 3952,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-bathroom-door-frame-keep-swelling.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fixing-a-wobbly-bathroom-door-frame-a-step-by-step-guide.json",
+        "bytes": 4266,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-bathroom-trim-doesn-t-match.json",
+        "bytes": 4049,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solving-the-mystery-of-gaps-in-bathroom-finish-work.json",
+        "bytes": 3021,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-custom-bathroom-trim.json",
+        "bytes": 3926,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-bathroom-addition-here-s-what-to-ask-first.json",
+        "bytes": 4175,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-your-bathroom-addition-project.json",
+        "bytes": 4297,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-a-bathroom-addition-really-take.json",
+        "bytes": 2412,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-know-before-finishing-your-basement.json",
+        "bytes": 3551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-timeline-for-a-basement-renovation.json",
+        "bytes": 2405,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-basement-remodeling-mistakes.json",
+        "bytes": 3705,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-considerations-for-basement-custom-design.json",
+        "bytes": 3595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-professional-for-your-basement-project.json",
+        "bytes": 3518,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/designing-a-basement-that-doesn-t-feel-like-a-basement.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-a-damp-basement-before-you-remodel.json",
+        "bytes": 3527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-basement-renovation-feels-overwhelming.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-basement-renovation-layout-effectively.json",
+        "bytes": 3615,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-hidden-costs-in-your-basement-finishing-project.json",
+        "bytes": 3711,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-a-basement-finishing-project-really-take.json",
+        "bytes": 3561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-basement-finishing-contractor.json",
+        "bytes": 3648,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-basement-floods-and-after.json",
+        "bytes": 3406,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-basement-ready-for-finishing-a-pre-project-checklist.json",
+        "bytes": 3509,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-basement-project-stay-on-budget.json",
+        "bytes": 3755,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-basement-wall-framing-need-a-pro.json",
+        "bytes": 3610,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/framing-your-basement-walls-common-mistakes-to-sidestep.json",
+        "bytes": 3836,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-keep-your-finished-basement-dry-and-cozy.json",
+        "bytes": 3772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-obstructions-in-your-basement-ceiling-framing.json",
+        "bytes": 3711,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-basement-ceiling-framing.json",
+        "bytes": 3707,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-basement-ceiling-framing.json",
+        "bytes": 4107,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solving-moisture-issues-before-basement-drywall-installation.json",
+        "bytes": 3812,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-drywall-seams-right-on-basement-beams-and-soffits.json",
+        "bytes": 3822,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-professional-basement-drywall-installation-matters.json",
+        "bytes": 4365,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-basement-drywall-has-water-damage.json",
+        "bytes": 3304,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-basement-drywall-needs-professional-repair.json",
+        "bytes": 3377,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-drywall-finishing.json",
+        "bytes": 3430,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-process-of-repairing-water-damaged-basement-drywall.json",
+        "bytes": 3439,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-a-seamless-drywall-finish-in-your-basement.json",
+        "bytes": 3440,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-choose-patching-vs-replacing-drywall-in-your-basement.json",
+        "bytes": 3533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-new-basement-door-let-in-daylight.json",
+        "bytes": 2681,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-basement-door-installation.json",
+        "bytes": 3900,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-common-mistakes-in-basement-door-installation.json",
+        "bytes": 4259,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-basement-floor-feels-damp-what-now.json",
+        "bytes": 4127,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-process-for-installing-basement-flooring.json",
+        "bytes": 4466,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-get-professional-help-for-basement-flooring.json",
+        "bytes": 4325,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-basement-slab-ready-for-tile.json",
+        "bytes": 3524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-moisture-before-tiling-your-basement.json",
+        "bytes": 3502,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cracked-basement-tile-what-went-wrong.json",
+        "bytes": 3723,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-trim-for-your-basement.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-avoid-when-installing-basement-trim.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-professional-basement-trim-installation-matters.json",
+        "bytes": 3621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-basement-molding-just-won-t-sit-right.json",
+        "bytes": 3613,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-gaps-in-your-basement-molding-installation.json",
+        "bytes": 3744,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-molding-profile-for-your-basement.json",
+        "bytes": 3765,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-install-a-basement-door-frame-in-a-tricky-opening.json",
+        "bytes": 3909,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preventing-gaps-around-your-new-basement-door-frame.json",
+        "bytes": 3707,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-you-need-a-pro-for-your-basement-door-frame-installation.json",
+        "bytes": 3797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-a-smooth-finish-carpentry-installation-in-your-basement.json",
+        "bytes": 3579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-in-basement-finish-carpentry-and-how-to-avoid-them.json",
+        "bytes": 3593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-your-basement-finish-carpentry.json",
+        "bytes": 3768,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-basement-for-painting-success.json",
+        "bytes": 3494,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-basement-painting-project.json",
+        "bytes": 3592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-basement-painting-blunders-a-checklist.json",
+        "bytes": 4111,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-remodeling-your-garage.json",
+        "bytes": 3551,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-garage-remodel-needs-a-clear-plan.json",
+        "bytes": 3463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-garage-remodel.json",
+        "bytes": 3526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-converting-your-garage-worth-the-effort.json",
+        "bytes": 3581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-garage-conversion-where-to-start.json",
+        "bytes": 3514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-sidestep-in-garage-conversions.json",
+        "bytes": 3592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-kicking-off-your-garage-renovation.json",
+        "bytes": 3509,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-to-avoid-during-your-garage-renovation.json",
+        "bytes": 3631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-bring-in-a-pro-for-your-garage-remodel.json",
+        "bytes": 3893,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-yourself-before-upgrading-your-garage-interior.json",
+        "bytes": 3496,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/i-want-a-better-garage-interior-where-do-i-start.json",
+        "bytes": 3912,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-people-make-when-upgrading-their-garage-interior.json",
+        "bytes": 3678,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-garage-wall-bowing.json",
+        "bytes": 3523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-my-garage-walls-aren-t-square.json",
+        "bytes": 3545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-hire-a-pro-for-garage-wall-framing.json",
+        "bytes": 3770,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-garage-is-always-cold-how-can-i-insulate-it-better.json",
+        "bytes": 3500,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-best-insulation-for-a-garage.json",
+        "bytes": 3587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-professional-help-with-garage-insulation.json",
+        "bytes": 3868,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-bother-drywalling-your-garage.json",
+        "bytes": 3457,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-drywalling-your-garage.json",
+        "bytes": 3455,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-call-a-pro-for-garage-drywall-installation.json",
+        "bytes": 3657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-garage-drywall-is-damaged-now-what.json",
+        "bytes": 3689,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-garage-drywall-repair-mistakes.json",
+        "bytes": 3677,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-repair-your-garage-drywall.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-finishing-your-garage.json",
+        "bytes": 3476,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-garage-finishing-mistakes.json",
+        "bytes": 3538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-need-a-permit-to-finish-my-garage.json",
+        "bytes": 3606,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-paint-for-your-garage.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-to-a-perfectly-painted-garage.json",
+        "bytes": 4277,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-garage-painting.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-drywall-keep-cracking.json",
+        "bytes": 3572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-until-my-new-drywall-is-ready-for-paint.json",
+        "bytes": 3433,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-recurring-drywall-cracks.json",
+        "bytes": 3973,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-before-hiring-a-drywall-installer.json",
+        "bytes": 4060,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-patch-this-drywall-hole-myself.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-drywall.json",
+        "bytes": 4376,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-drywall-patch-keep-cracking.json",
+        "bytes": 3598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-best-way-to-fix-a-large-hole-in-my-wall.json",
+        "bytes": 3600,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-stop-trying-to-patch-drywall-myself.json",
+        "bytes": 3638,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-rush-drywall-finishing.json",
+        "bytes": 3752,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-many-coats-of-mud-do-i-really-need-for-drywall.json",
+        "bytes": 4213,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-drywall-finishing-a-must.json",
+        "bytes": 3756,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-drywall-seams-show-through-paint-troubleshooting-guide.json",
+        "bytes": 3627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-drywall-tape-keeps-bubbling-common-mistakes-to-avoid.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-a-smooth-finish-how-to-properly-mud-drywall.json",
+        "bytes": 3587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-avoid-over-sanding-your-drywall.json",
+        "bytes": 3725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-best-way-to-sand-drywall-for-a-flawless-finish.json",
+        "bytes": 3617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-grit-sandpaper-should-you-use-for-drywall.json",
+        "bytes": 3686,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-drywall-patch-look-so-obvious.json",
+        "bytes": 3539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-seamlessly-blend-drywall-texture-repairs.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-drywall-texture-issues.json",
+        "bytes": 3810,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-drywall-hanging-mistakes.json",
+        "bytes": 3722,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-walls-ready-a-drywall-hanging-checklist.json",
+        "bytes": 3910,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-my-new-drywall-project.json",
+        "bytes": 3728,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-drywall-repair-becomes-a-bigger-headache.json",
+        "bytes": 3603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-seamless-drywall-patch-every-time.json",
+        "bytes": 3589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-drywall-repair-blunders.json",
+        "bytes": 3516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-drywall-remodeling-project.json",
+        "bytes": 3575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-drywall-remodel-needs-a-pro.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-drywall-remodeling-mistakes-to-steer-clear-of.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-drywall-gets-storm-damaged.json",
+        "bytes": 3160,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-shouldn-t-ignore-moldy-drywall-after-a-storm.json",
+        "bytes": 3326,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-drywall-replacement.json",
+        "bytes": 3378,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-the-perfect-finish-a-guide-to-finish-carpentry.json",
+        "bytes": 3399,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-finish-carpentry-project.json",
+        "bytes": 3322,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-finish-carpentry-mistakes-to-avoid.json",
+        "bytes": 3495,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-trim-doesn-t-look-right-after-a-renovation.json",
+        "bytes": 3697,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-finish-carpentry-projects.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-interior-finish-carpentry.json",
+        "bytes": 3597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-to-a-smooth-finish-carpentry-project.json",
+        "bytes": 4440,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-sure-your-finish-carpentry-lasts-avoiding-installation-pitfalls.json",
+        "bytes": 3794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-finish-carpentry-installation.json",
+        "bytes": 3940,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-custom-framing-mistakes.json",
+        "bytes": 3681,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-custom-framing-really-take.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-in-a-custom-framing-consultation.json",
+        "bytes": 3690,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-need-a-pro-for-structural-wall-framing.json",
+        "bytes": 3828,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-structural-wall-framing-isn-t-done-right.json",
+        "bytes": 3939,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-structural-wall-framing-project.json",
+        "bytes": 3823,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-interior-wall-project-going-sideways-common-mistakes-to-avoid.json",
+        "bytes": 3636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-moving-a-wall-here-s-what-you-need-to-know-first.json",
+        "bytes": 3631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/diy-interior-framing-when-to-call-in-a-pro.json",
+        "bytes": 3669,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-secret-to-straight-walls-a-wall-framing-checklist.json",
+        "bytes": 3711,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-new-wall-might-not-be-perfect-common-wall-framing-errors.json",
+        "bytes": 3771,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-wall-frame-right-what-to-look-for-in-a-pro.json",
+        "bytes": 3663,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-new-wall-not-straight.json",
+        "bytes": 3507,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-a-new-interior-wall.json",
+        "bytes": 3422,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-framing-a-wall.json",
+        "bytes": 3769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-rough-opening-do-i-need-for-my-door.json",
+        "bytes": 3486,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-essential-checklist-for-your-door-opening-project.json",
+        "bytes": 4054,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-crooked-door-frames.json",
+        "bytes": 3537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-new-window-opening-isn-t-square.json",
+        "bytes": 3915,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-frame-a-window-opening-properly.json",
+        "bytes": 3807,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-framing-for-a-new-window.json",
+        "bytes": 3952,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-you-need-to-reframe-an-existing-window.json",
+        "bytes": 3907,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-hidden-dangers-of-diy-remodel-framing.json",
+        "bytes": 3926,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-remodel-framing-hits-a-snag.json",
+        "bytes": 3965,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-addition-framing.json",
+        "bytes": 3578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-costs-of-framing-a-small-home-addition.json",
+        "bytes": 3612,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-structural-engineer-for-framing-projects.json",
+        "bytes": 3573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-door-frame-right-a-step-by-step-guide.json",
+        "bytes": 4090,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-hidden-dangers-of-diy-door-frame-installation.json",
+        "bytes": 3573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-a-professional-door-frame-installation-becomes-essential.json",
+        "bytes": 3587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-door-frame-just-won-t-latch-anymore.json",
+        "bytes": 3398,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-repairing-door-frames.json",
+        "bytes": 3608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-door-frame-damage-needs-a-pro.json",
+        "bytes": 3855,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-door-casing-style-for-your-home.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-door-casings.json",
+        "bytes": 3619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-door-casing-installation.json",
+        "bytes": 3975,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-window-casing-look-off.json",
+        "bytes": 3507,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tackling-tricky-window-casing-installation.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-window-casing-needs-a-pro-s-touch.json",
+        "bytes": 4079,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-trim-doesn-t-look-seamless-what-went-wrong.json",
+        "bytes": 3653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-trim-for-your-home.json",
+        "bytes": 3639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-professional-finish-on-your-interior-trim.json",
+        "bytes": 4485,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-custom-trim.json",
+        "bytes": 3640,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-custom-trim-installation-mistakes.json",
+        "bytes": 3642,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-process-of-custom-trim-installation.json",
+        "bytes": 4142,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-perfect-match-for-damaged-trim.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-trim-repair-vs-full-replacement.json",
+        "bytes": 3763,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/knowing-when-to-repair-or-replace-your-home-s-trim.json",
+        "bytes": 4335,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-interior-trim-isn-t-quite-right-what-to-do.json",
+        "bytes": 3734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-trim-just-right-a-step-by-step-guide.json",
+        "bytes": 3589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-installing-interior-trim.json",
+        "bytes": 3881,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-molding-joints-showing-gaps.json",
+        "bytes": 3797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/molding-installation-a-professional-s-process.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-you-re-unsure-about-molding-choices.json",
+        "bytes": 3837,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-world-of-custom-molding-what-to-ask-for.json",
+        "bytes": 3431,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-custom-molding-really-take.json",
+        "bytes": 3404,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-costly-mistakes-in-custom-molding-projects.json",
+        "bytes": 3539,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-crown-molding-profile-for-your-home.json",
+        "bytes": 3496,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tackling-uneven-walls-a-guide-to-crown-molding-installation.json",
+        "bytes": 3502,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-in-crown-molding-projects-and-how-to-avoid-them.json",
+        "bytes": 3626,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-uneven-walls-for-perfect-baseboard-installation.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-baseboard-installation-blunders.json",
+        "bytes": 3798,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-baseboards-just-aren-t-right-what-to-do.json",
+        "bytes": 3754,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-wainscoting-project-might-need-a-pro.json",
+        "bytes": 3796,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/achieving-seamless-wainscoting-a-step-by-step-guide.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-tricky-outlets-during-wainscoting-installation.json",
+        "bytes": 3829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-installing-built-in-shelves.json",
+        "bytes": 3426,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-built-in-shelving-project.json",
+        "bytes": 3306,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-built-in-shelves.json",
+        "bytes": 3438,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-interior-finish-for-your-home.json",
+        "bytes": 3347,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-know-before-your-interior-finishing-project.json",
+        "bytes": 3439,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-interior-finishing-fails.json",
+        "bytes": 3714,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-tile-floor-lay-flat.json",
+        "bytes": 3337,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-do-i-need-to-know-before-installing-ceramic-tile.json",
+        "bytes": 3414,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/help-my-grout-lines-look-terrible.json",
+        "bytes": 3505,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-porcelain-tile-really-better-than-ceramic.json",
+        "bytes": 3572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-get-my-porcelain-tile-to-last.json",
+        "bytes": 3432,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-call-a-professional-for-porcelain-tile-work.json",
+        "bytes": 3912,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-much-extra-tile-do-you-really-need-for-stone-installation.json",
+        "bytes": 3357,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/does-your-natural-stone-tile-need-sealing.json",
+        "bytes": 3381,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-natural-stone-tile-projects.json",
+        "bytes": 3489,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-marble-tile-go-over-a-wood-floor.json",
+        "bytes": 3462,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-much-marble-tile-should-you-order.json",
+        "bytes": 3385,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-sealing-marble-tile-is-non-negotiable.json",
+        "bytes": 3543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-new-tile-floor-look-uneven.json",
+        "bytes": 3596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-floor-tile-installation-really-take.json",
+        "bytes": 3481,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-your-own-floor-tile.json",
+        "bytes": 3870,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-marble-tile-staining-after-installation.json",
+        "bytes": 3786,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-ready-for-your-tile-installation-a-checklist.json",
+        "bytes": 3999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-hire-a-pro-for-tile-marble-installation.json",
+        "bytes": 4133,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-wall-tile-layout-look-off-center.json",
+        "bytes": 3040,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prep-your-walls-for-a-perfect-tile-installation.json",
+        "bytes": 3257,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-wall-tile.json",
+        "bytes": 3393,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prevent-leaks-in-your-shower-tile-project.json",
+        "bytes": 3382,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-shower-pan-ready-for-tile.json",
+        "bytes": 3402,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-tiling-a-shower.json",
+        "bytes": 3578,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-new-backsplash-doesn-t-look-right.json",
+        "bytes": 3629,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-backsplash-tile-installation-really-take.json",
+        "bytes": 3707,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-backsplash-installation-a-must.json",
+        "bytes": 3637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-you-need-to-seal-grout-and-when.json",
+        "bytes": 3520,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-common-grout-application-problems.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-grout-sealing-a-must.json",
+        "bytes": 3574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-residential-painter.json",
+        "bytes": 3533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prep-your-home-for-interior-painting.json",
+        "bytes": 3374,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-hiring-a-residential-painter.json",
+        "bytes": 3697,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-new-paint-last.json",
+        "bytes": 3492,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-a-quote-for-your-painting-project.json",
+        "bytes": 3502,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-interior-painting.json",
+        "bytes": 3810,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-freshly-painted-walls-look-uneven.json",
+        "bytes": 3472,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-smooth-finish-when-painting-interior-walls.json",
+        "bytes": 4517,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-the-most-common-interior-wall-painting-blunders.json",
+        "bytes": 3880,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-ceiling-paint-looks-streaky-and-uneven.json",
+        "bytes": 3722,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prep-a-stained-ceiling-for-a-perfect-paint-job.json",
+        "bytes": 4463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-hire-a-pro-for-interior-ceiling-painting.json",
+        "bytes": 4067,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-trim-paint-just-won-t-stick.json",
+        "bytes": 3598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prepping-your-interior-trim-for-a-flawless-finish.json",
+        "bytes": 3432,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-paint-for-your-home-s-trim.json",
+        "bytes": 3645,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-freshly-painted-doors-feel-sticky.json",
+        "bytes": 3636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-interior-doors-ready-for-a-new-coat-of-paint.json",
+        "bytes": 3442,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-professional-door-painting-quote.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-from-a-full-interior-paint-package.json",
+        "bytes": 3419,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-paint-touch-up-might-not-be-blending.json",
+        "bytes": 3394,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-for-a-whole-home-interior-painting-project.json",
+        "bytes": 3657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-between-a-full-repaint-and-strategic-touch-ups.json",
+        "bytes": 3647,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-when-planning-interior-painting.json",
+        "bytes": 3847,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-hire-a-pro-for-paint-touch-ups.json",
+        "bytes": 3869,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-remodel-paint-job-goes-sideways.json",
+        "bytes": 3740,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prepping-your-home-for-a-flawless-remodel-paint-finish.json",
+        "bytes": 4174,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-remodel-painting-timeline-just-right.json",
+        "bytes": 5232,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-a-storm-damages-your-home-s-finish.json",
+        "bytes": 5313,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-your-home-is-ready-for-post-storm-painting.json",
+        "bytes": 4576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-storm-damage-painting.json",
+        "bytes": 4737,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-remodel-stops-moving-forward.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-a-checklist-for-your-residential-remodel.json",
+        "bytes": 4387,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-hire-a-professional-for-your-remodeling-project.json",
+        "bytes": 4747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-budget-for-your-dream-home-renovation.json",
+        "bytes": 4449,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-your-home-remodeling-project.json",
+        "bytes": 4679,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-my-major-renovation.json",
+        "bytes": 4575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-interior-upgrade-gets-complicated.json",
+        "bytes": 3360,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-interior-remodel-staying-on-budget.json",
+        "bytes": 3487,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-interior-upgrade-without-stress.json",
+        "bytes": 3344,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-home-addition-project-taking-so-long.json",
+        "bytes": 3444,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-avoid-costly-mistakes-in-your-home-addition.json",
+        "bytes": 3747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-first-step-to-planning-a-home-addition.json",
+        "bytes": 3288,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-plan-your-home-addition-here-s-how-to-start.json",
+        "bytes": 4228,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-room-addition-planning.json",
+        "bytes": 4198,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-room-addition-right-for-your-colorado-home.json",
+        "bytes": 4218,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-room-addition-goes-over-budget.json",
+        "bytes": 4393,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-real-timeline-for-a-home-room-addition.json",
+        "bytes": 4501,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-questions-to-ask-before-starting-a-room-addition.json",
+        "bytes": 4460,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-remodeling-project-needs-a-general-contractor.json",
+        "bytes": 3764,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-home-renovation.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-home-renovation-started-right-a-checklist.json",
+        "bytes": 4017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-before-hiring-a-general-contractor.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-it-s-time-to-hire-a-general-contractor-for-your-renovation.json",
+        "bytes": 4319,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-world-of-general-contractor-services.json",
+        "bytes": 3624,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-when-working-with-a-general-contractor.json",
+        "bytes": 3454,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-general-contractor-for-your-project.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-with-your-remodeling-project.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-permit-needed-for-my-construction-project.json",
+        "bytes": 3614,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-home-construction-project-effectively.json",
+        "bytes": 3492,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-bring-in-a-professional-for-your-remodel.json",
+        "bytes": 3916,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-plumbing-coordination-isn-t-flowing-smoothly.json",
+        "bytes": 3503,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-plumbing-rough-in-right-the-first-time.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-your-plumbing-coordination-needs.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-electrical-coordination-mistakes-that-can-zap-your-project.json",
+        "bytes": 3584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-smooth-electrical-rough-ins.json",
+        "bytes": 3626,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-expert-for-electrical-coordination.json",
+        "bytes": 3554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-permit-s-stuck-common-delays-to-watch-out-for.json",
+        "bytes": 3780,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/scheduling-your-inspection-don-t-miss-these-critical-deadlines.json",
+        "bytes": 3619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seamless-inspections-your-checklist-for-a-smooth-process.json",
+        "bytes": 4294,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-really-need-a-handyman-vs-a-specialized-pro.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-small-repairs-what-to-expect-when-hiring-a-handyman.json",
+        "bytes": 3603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-pitfalls-in-handyman-projects-common-mistakes-to-sidestep.json",
+        "bytes": 3792,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-call-a-handyman-instead-of-a-specialist.json",
+        "bytes": 3569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-hiring-for-small-repairs.json",
+        "bytes": 3516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-ready-for-a-handyman-visit.json",
+        "bytes": 3477,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-home-needs-seasonal-maintenance.json",
+        "bytes": 3639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-home-maintenance-service.json",
+        "bytes": 3631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-home-maintenance-check-up.json",
+        "bytes": 3635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-you-notice-a-persistent-leak.json",
+        "bytes": 3505,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-property-maintenance-mistakes.json",
+        "bytes": 3725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-home-repairs.json",
+        "bytes": 3765,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-ultimate-property-maintenance-checklist.json",
+        "bytes": 4364,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-unexpected-home-repairs.json",
+        "bytes": 4608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-property-maintenance-provider.json",
+        "bytes": 3766,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-home-repair-projects.json",
+        "bytes": 3668,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-contractor-for-your-general-home-repair-needs.json",
+        "bytes": 3587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-general-home-repairs.json",
+        "bytes": 3510,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tackling-interior-home-repair-a-step-by-step-guide.json",
+        "bytes": 3515,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-interior-home-repair-needs-professional-attention.json",
+        "bytes": 3801,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-interior-home-repair.json",
+        "bytes": 3693,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-minor-home-repairs.json",
+        "bytes": 3459,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-faucet-won-t-stop-dripping.json",
+        "bytes": 3454,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-minor-home-repair-blunders.json",
+        "bytes": 3547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-persistent-interior-wear-and-tear.json",
+        "bytes": 3491,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-drywall-bubbling.json",
+        "bytes": 3595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-with-interior-paint-and-drywall-fixes.json",
+        "bytes": 3734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-door-just-won-t-close-right.json",
+        "bytes": 3534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-door-stick-with-the-seasons.json",
+        "bytes": 3608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-mistakes-people-make-with-diy-door-repairs.json",
+        "bytes": 3836,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-uneven-or-gapping-trim.json",
+        "bytes": 3654,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/trim-repair-diy-or-call-a-professional.json",
+        "bytes": 3622,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-trim-looks-bad-after-flooring-changes-now-what.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-molding-repairs.json",
+        "bytes": 3554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-molding-is-damaged.json",
+        "bytes": 3616,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-molding-repair-mistakes-to-avoid.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-drywall-needs-professional-repair.json",
+        "bytes": 3567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-small-drywall-damage.json",
+        "bytes": 3621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-drywall-repair.json",
+        "bytes": 3669,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-my-paint-touch-ups-look-worse-than-before.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-small-paint-touch-ups-blend-seamlessly.json",
+        "bytes": 4390,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-a-small-paint-touch-up-not-enough.json",
+        "bytes": 4031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-fix-a-sticking-door-with-a-minor-framing-adjustment.json",
+        "bytes": 3960,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-tell-if-a-framing-issue-is-serious-or-just-cosmetic.json",
+        "bytes": 4243,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-dealing-with-minor-framing-issues.json",
+        "bytes": 4553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-rental-property-needs-a-repair.json",
+        "bytes": 3479,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-costly-mistakes-in-rental-property-maintenance.json",
+        "bytes": 3515,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-call-a-pro-for-your-rental-property.json",
+        "bytes": 4031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-when-maintaining-your-home.json",
+        "bytes": 3576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/a-simple-plan-for-home-upkeep.json",
+        "bytes": 3443,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/don-t-overlook-these-common-home-maintenance-errors.json",
+        "bytes": 3590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-water-damage-strikes-your-home.json",
+        "bytes": 3522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-home-restoration-projects.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-home-restoration.json",
+        "bytes": 3817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-home-for-sale-or-rent-after-damage.json",
+        "bytes": 3633,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-when-to-repair-vs-disclose-property-damage.json",
+        "bytes": 3807,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-essential-checklist-for-selling-a-damaged-home.json",
+        "bytes": 4190,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-interior-remodel-feels-overwhelming.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-interior-restoration-project-successfully.json",
+        "bytes": 3580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-your-interior-remodel.json",
+        "bytes": 3890,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-disaster-strikes-your-property.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-property-restoration-after-damage.json",
+        "bytes": 3664,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-acting-fast-matters-after-property-damage.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-restoration-remodel.json",
+        "bytes": 3571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-restoration-remodeling.json",
+        "bytes": 3589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-contractor-for-your-restoration-project.json",
+        "bytes": 3693,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-restoration-maintenance-after-a-remodel.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-restoration-maintenance-plan.json",
+        "bytes": 3630,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-in-restoration-maintenance.json",
+        "bytes": 3669,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-interior-damage-repair.json",
+        "bytes": 3532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-my-interior-damage-truly-disappear.json",
+        "bytes": 3451,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-interior-damage-repair-mistakes.json",
+        "bytes": 3528,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-water-damage-repair.json",
+        "bytes": 3338,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-acting-fast-on-water-damage-matters.json",
+        "bytes": 3522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-water-damage-restoration-service.json",
+        "bytes": 3387,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-storm-damage-hits-your-home.json",
+        "bytes": 3537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-emergency-storm-damage-when-you-need-help-fast.json",
+        "bytes": 3528,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-really-need-professional-storm-damage-repair.json",
+        "bytes": 3617,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-acting-fast-after-a-storm-can-save-you-money-and-headaches.json",
+        "bytes": 3546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-essential-checklist-for-storm-damage-repair-documentation.json",
+        "bytes": 3657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-dealing-with-storm-damage.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-a-storm-damages-your-home-interior.json",
+        "bytes": 3440,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-emergency-interior-storm-damage.json",
+        "bytes": 3883,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-filing-an-insurance-claim.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-you-need-a-pro-for-storm-damage-repair.json",
+        "bytes": 3885,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-insurance-claims-for-interior-restoration.json",
+        "bytes": 3425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/working-with-your-insurer-for-home-restoration.json",
+        "bytes": 3459,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-my-mobile-home-even-be-remodeled.json",
+        "bytes": 3743,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-in-mobile-home-remodels-and-how-to-avoid-them.json",
+        "bytes": 3729,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-remodeling-your-mobile-home.json",
+        "bytes": 3795,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-call-a-pro-for-mobile-home-repairs.json",
+        "bytes": 3680,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-approach-mobile-home-repair-before-remodeling.json",
+        "bytes": 3723,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-essential-mobile-home-repair-checklist.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-mobile-home-walls-are-looking-rough.json",
+        "bytes": 3409,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-water-damage-in-your-mobile-home.json",
+        "bytes": 3444,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-diy-blunders-in-mobile-home-wall-repairs.json",
+        "bytes": 3889,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-sagging-ceilings-in-your-mobile-home.json",
+        "bytes": 3466,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-that-mobile-home-ceiling-stain-a-big-deal.json",
+        "bytes": 3553,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-mobile-home-needs-professional-wall-repair.json",
+        "bytes": 3945,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-soft-spots-in-your-mobile-home-floor.json",
+        "bytes": 4374,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-repairing-mobile-home-drywall.json",
+        "bytes": 4367,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-mobile-home-floor-uneven.json",
+        "bytes": 4398,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-mobile-home-drywall-cracks.json",
+        "bytes": 4733,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-patch-small-holes-in-mobile-home-drywall.json",
+        "bytes": 5760,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-water-damaged-mobile-home-floors.json",
+        "bytes": 5689,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-mobile-home-paint-keep-peeling.json",
+        "bytes": 3565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-before-hiring-for-mobile-home-painting.json",
+        "bytes": 3547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-mobile-home-ready-for-a-new-paint-job.json",
+        "bytes": 3827,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-mobile-home-trim-need-repair-instead-of-just-paint.json",
+        "bytes": 3425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-spot-hidden-damage-in-mobile-home-trim.json",
+        "bytes": 3451,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/steps-to-take-when-your-mobile-home-trim-is-damaged.json",
+        "bytes": 4906,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-mobile-home-door-just-won-t-close-right.json",
+        "bytes": 3321,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fixing-mobile-home-doors-common-mistakes-to-avoid.json",
+        "bytes": 3417,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-mobile-home-door-and-trim-repair.json",
+        "bytes": 3658,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-unknowns-of-foreclosed-property-remodeling.json",
+        "bytes": 3522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-costly-errors-in-foreclosed-property-remodeling.json",
+        "bytes": 3449,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-essential-for-foreclosed-property-rehab.json",
+        "bytes": 3817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-foreclosed-property-repairs.json",
+        "bytes": 3535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tackling-hidden-damage-in-foreclosed-properties.json",
+        "bytes": 3542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/your-step-by-step-guide-to-foreclosed-property-repairs.json",
+        "bytes": 4229,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/don-t-let-a-foreclosure-property-renovation-break-your-bank.json",
+        "bytes": 3569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-foreclosed-property-renovation-timeline.json",
+        "bytes": 4198,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foreclosed-property-repair-vs-renovation-what-s-the-difference.json",
+        "bytes": 3828,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-a-foreclosed-property-has-hidden-damage.json",
+        "bytes": 3594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-renovating-a-foreclosed-property-interior.json",
+        "bytes": 3550,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-important-for-foreclosed-property-interior-repairs.json",
+        "bytes": 3379,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-shouldn-t-paint-a-foreclosed-home-before-addressing-underlying-issues.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-approach-painting-a-foreclosed-home-with-extensive-wear.json",
+        "bytes": 3428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-just-paint-over-stains-in-a-foreclosed-property.json",
+        "bytes": 3532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-foreclosed-property-is-missing-flooring.json",
+        "bytes": 3604,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-in-foreclosed-property-flooring-installation.json",
+        "bytes": 3598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-foreclosed-property-flooring-issues.json",
+        "bytes": 3569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-you-refresh-a-foreclosed-property-kitchen.json",
+        "bytes": 3581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-updating-a-foreclosed-kitchen.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-get-professional-help-for-a-foreclosed-kitchen.json",
+        "bytes": 3662,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-foreclosed-property-bathroom-has-hidden-damage.json",
+        "bytes": 3458,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-a-bathroom-refresh-for-a-foreclosed-property.json",
+        "bytes": 3368,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-renovating-a-foreclosed-property-bathroom.json",
+        "bytes": 3483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-before-starting-a-rental-property-repair.json",
+        "bytes": 3479,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prioritize-repairs-in-a-rental-property.json",
+        "bytes": 3348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-repairing-your-rental-property.json",
+        "bytes": 3471,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-maximize-your-rental-property-remodel-roi.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-remodeling-a-rental-property.json",
+        "bytes": 3548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-your-rental-remodel.json",
+        "bytes": 3531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-refinishing-my-log-home-really-necessary.json",
+        "bytes": 3704,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-refinishing-your-log-home.json",
+        "bytes": 3565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-log-home-for-refinishing.json",
+        "bytes": 3490,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-log-home-staining-look-right.json",
+        "bytes": 3576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/log-home-interior-staining-what-you-need-to-know-first.json",
+        "bytes": 3453,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-log-home-interior-staining.json",
+        "bytes": 3449,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-interior-sealing-necessary-for-log-homes.json",
+        "bytes": 3654,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-in-interior-log-home-sealing.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-a-perfect-interior-log-seal.json",
+        "bytes": 3490,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-re-stain-your-log-home-in-colorado.json",
+        "bytes": 3313,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-makes-a-good-stain-for-your-log-home.json",
+        "bytes": 3434,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-maintaining-your-log-home.json",
+        "bytes": 3483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-tell-if-your-log-cabin-trim-needs-patching-or-replacing.json",
+        "bytes": 3434,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-cracks-in-your-cabin-trim.json",
+        "bytes": 3526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-expert-for-log-cabin-trim-repair.json",
+        "bytes": 3707,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-refinish-your-cabin-spotting-the-signs.json",
+        "bytes": 3485,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-log-cabin-refinishing-really-take.json",
+        "bytes": 3445,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-log-cabin-staining.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-cabin-s-finish-is-failing.json",
+        "bytes": 3982,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/your-guide-to-a-beautifully-refinished-cabin.json",
+        "bytes": 3861,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maintaining-your-cabin-s-finish-a-timeline.json",
+        "bytes": 3475,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-needs-disability-modifications.json",
+        "bytes": 3591,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-an-accessibility-remodel-that-really-works.json",
+        "bytes": 4197,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-disability-remodeling.json",
+        "bytes": 3836,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-an-accessibility-remodeling-contractor.json",
+        "bytes": 4272,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-consider-disability-remodeling-for-your-home.json",
+        "bytes": 4497,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-for-a-successful-accessibility-home-renovation.json",
+        "bytes": 5099,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-creates-mobility-barriers.json",
+        "bytes": 3696,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prioritize-accessible-home-modifications.json",
+        "bytes": 3572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-home-accessibility-projects.json",
+        "bytes": 4005,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-planning-a-bathroom-accessibility-remodel.json",
+        "bytes": 3591,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-accessible-bathroom-meets-your-needs.json",
+        "bytes": 3592,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-bathroom-accessibility-remodeling.json",
+        "bytes": 4047,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-accessible-bathroom-renovations-a-complete-guide.json",
+        "bytes": 3569,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-in-accessible-bathroom-remodeling.json",
+        "bytes": 3451,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-accessible-bathroom-renovation.json",
+        "bytes": 3717,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-bathroom-more-accessible-a-step-by-step-process.json",
+        "bytes": 4070,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-planning-accessible-bathroom-modifications.json",
+        "bytes": 3612,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-accessible-bathroom-grab-bars-might-not-be-safe.json",
+        "bytes": 3696,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-perfect-walk-in-shower-installation.json",
+        "bytes": 3521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-installing-a-walk-in-shower.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-walk-in-shower-right-for-my-small-bathroom.json",
+        "bytes": 3629,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-installing-a-low-threshold-shower.json",
+        "bytes": 3693,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-step-by-step-guide-to-low-threshold-shower-installation.json",
+        "bytes": 3907,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-low-threshold-shower-needs-professional-installation.json",
+        "bytes": 3722,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-curbless-shower-leaking.json",
+        "bytes": 3563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-involved-in-a-curbless-shower-conversion.json",
+        "bytes": 3486,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-hire-a-professional-for-a-curbless-shower-conversion.json",
+        "bytes": 3555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-long-does-a-tub-to-shower-conversion-really-take.json",
+        "bytes": 3849,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-tub-to-shower-conversion-right-for-my-home.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-converting-your-tub-to-a-shower.json",
+        "bytes": 4158,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-walk-in-tub-won-t-fit-through-the-door.json",
+        "bytes": 3567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-walk-in-tub-installation.json",
+        "bytes": 3644,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-you-need-professional-help-with-walk-in-tub-installation.json",
+        "bytes": 3611,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-shower-grab-bar-stays-put.json",
+        "bytes": 3477,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/where-s-the-best-place-to-put-a-grab-bar-in-my-shower.json",
+        "bytes": 2497,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-shower-grab-bar-project.json",
+        "bytes": 3950,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/toilet-grab-bars-side-wall-or-back-wall.json",
+        "bytes": 3417,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-toilet-grab-bar-installation-mistakes.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-pro-help-for-toilet-grab-bars.json",
+        "bytes": 3482,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-safety-rails-shower-or-tub.json",
+        "bytes": 3430,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-high-should-my-bathroom-safety-rails-be.json",
+        "bytes": 3448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-with-bathroom-safety-rail-installation.json",
+        "bytes": 3529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/picking-the-perfect-shower-seat-what-you-need-to-know.json",
+        "bytes": 3604,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/folding-shower-seats-finding-the-right-fit-for-your-bathroom.json",
+        "bytes": 3690,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-blunders-when-installing-a-shower-seat-and-how-to-avoid-them.json",
+        "bytes": 3648,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-headaches-key-steps-for-a-smooth-fold-down-shower-seat-install.json",
+        "bytes": 3725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-the-pros-for-your-shower-seat-installation.json",
+        "bytes": 3555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-deal-with-ada-style-shower-seat-heights.json",
+        "bytes": 3853,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/showerhead-not-adjusting-what-to-check-first.json",
+        "bytes": 3595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-a-new-showerhead.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-new-handheld-showerhead-is-leaking.json",
+        "bytes": 3790,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-handheld-showerhead-underperforming.json",
+        "bytes": 3614,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-the-perfect-spray-a-guide-to-adjustable-showerheads.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/simple-steps-for-installing-your-new-showerhead.json",
+        "bytes": 4348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-comfort-height-toilet-right-for-your-bathroom.json",
+        "bytes": 4085,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-leaks-after-your-comfort-height-toilet-installation.json",
+        "bytes": 2686,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/worried-about-slipping-what-to-look-for-in-bathroom-flooring.json",
+        "bytes": 3802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-you-make-your-current-bathroom-floor-less-slippery.json",
+        "bytes": 3836,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-with-non-slip-flooring.json",
+        "bytes": 4072,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-shower-flooring-how-to-prevent-slips.json",
+        "bytes": 3801,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-upgrade-your-shower-floor-for-better-safety.json",
+        "bytes": 4116,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-pick-the-best-material-for-a-slip-resistant-shower.json",
+        "bytes": 4039,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-brighten-up-a-dim-bathroom.json",
+        "bytes": 3936,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-bathroom-lighting-mistakes.json",
+        "bytes": 4087,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-lighting-upgrade-timeline-what-to-expect.json",
+        "bytes": 4672,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/setting-up-a-gentle-bathroom-night-light-system.json",
+        "bytes": 4007,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preventing-glare-with-bathroom-night-lighting.json",
+        "bytes": 4124,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-consider-hardwired-bathroom-night-lights.json",
+        "bytes": 4321,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-new-faucet-leaks-after-installation.json",
+        "bytes": 3618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-faucet-installation-headaches.json",
+        "bytes": 3517,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-an-easy-grip-faucet-right-for-my-kitchen.json",
+        "bytes": 3603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-leaks-after-lever-faucet-install.json",
+        "bytes": 3545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-sure-your-new-lever-faucet-works-perfectly.json",
+        "bytes": 3585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-upgrade-to-a-lever-faucet.json",
+        "bytes": 3637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-accessible-vanity-truly-accessible.json",
+        "bytes": 3757,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-an-accessible-vanity-installation-that-actually-works.json",
+        "bytes": 4277,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-mistakes-to-avoid-when-installing-an-accessible-vanity.json",
+        "bytes": 4264,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-wheelchair-accessible-vanity-working-for-me.json",
+        "bytes": 3973,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-wheelchair-accessible-vanity-meets-all-needs.json",
+        "bytes": 4398,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-a-wheelchair-accessible-vanity.json",
+        "bytes": 3865,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-bathroom-door-wide-enough.json",
+        "bytes": 3634,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-bathroom-more-accessible-with-a-wider-doorway.json",
+        "bytes": 3618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-widening-a-bathroom-doorway.json",
+        "bytes": 4048,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-removing-a-bathroom-threshold.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-safely-remove-a-bathroom-threshold-for-better-access.json",
+        "bytes": 4317,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-removing-a-bathroom-threshold.json",
+        "bytes": 3829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-home-really-safe-for-aging-in-place.json",
+        "bytes": 3299,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-senior-home-safety-assessment.json",
+        "bytes": 3382,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-senior-home-safety-assessment.json",
+        "bytes": 3436,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-aging-in-place-remodeling.json",
+        "bytes": 3516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-aging-in-place-remodel-what-comes-first.json",
+        "bytes": 3389,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-consider-aging-in-place-modifications.json",
+        "bytes": 3908,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-a-senior-friendly-bathroom-remodel.json",
+        "bytes": 3759,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-for-future-mobility-needs-in-your-home-remodel.json",
+        "bytes": 3267,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-5-mistakes-in-senior-home-remodeling.json",
+        "bytes": 4200,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-to-improve-home-mobility-for-limited-balance.json",
+        "bytes": 4418,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-mobility-improvement-projects.json",
+        "bytes": 4301,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-remodel-supports-long-term-mobility.json",
+        "bytes": 4808,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-you-keep-tripping-at-home.json",
+        "bytes": 3525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-bathroom-a-fall-risk-waiting-to-happen.json",
+        "bytes": 3635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-trying-to-prevent-falls-at-home.json",
+        "bytes": 4181,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-home-more-usable-across-every-room.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-accessibility-upgrades-for-your-home.json",
+        "bytes": 3848,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-it-s-time-for-whole-home-accessibility-improvements.json",
+        "bytes": 4560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-making-your-home-barrier-free.json",
+        "bytes": 3409,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-wheelchair-accessible-home-remodel.json",
+        "bytes": 3328,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-mistakes-in-your-home-accessibility-project.json",
+        "bytes": 3458,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-wheelchair-accessible-modifications.json",
+        "bytes": 3461,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-to-a-barrier-free-bathroom.json",
+        "bytes": 3366,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-expert-for-your-home-modifications.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-home-safe-for-a-walker.json",
+        "bytes": 3338,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-trip-hazards-in-your-home.json",
+        "bytes": 3475,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-hire-a-pro-for-walker-friendly-modifications.json",
+        "bytes": 3564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-maintenance-tasks-should-seniors-prioritize.json",
+        "bytes": 3456,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-help-with-senior-home-maintenance.json",
+        "bytes": 3546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-senior-home-maintenance.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-for-senior-home-repairs.json",
+        "bytes": 3589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-senior-home-safer-a-repair-checklist.json",
+        "bytes": 3740,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-hiring-for-senior-home-repairs.json",
+        "bytes": 3573,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-proactive-senior-home-maintenance-right-for-you.json",
+        "bytes": 3696,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-home-for-senior-maintenance-visits.json",
+        "bytes": 3639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-ramp-wheelchair-vs-threshold.json",
+        "bytes": 3579,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-needs-a-wheelchair-ramp.json",
+        "bytes": 3428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-installing-a-wheelchair-ramp.json",
+        "bytes": 3623,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-measure-for-a-threshold-ramp.json",
+        "bytes": 3452,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-professional-help-with-threshold-ramps.json",
+        "bytes": 3566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-with-diy-threshold-ramps.json",
+        "bytes": 3543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-ramp-feels-unsafe-what-to-look-for.json",
+        "bytes": 3417,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-ramp-repair-mistakes.json",
+        "bytes": 3638,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-ramp-wobbly-how-to-know-when-to-call-a-pro.json",
+        "bytes": 3559,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-for-an-exterior-entry-ramp.json",
+        "bytes": 3536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-before-installing-an-entry-ramp.json",
+        "bytes": 3683,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-ramp-for-your-home.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-door-threshold-a-tripping-hazard.json",
+        "bytes": 3465,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-the-right-ramp-for-your-doorway.json",
+        "bytes": 3354,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-ramp-installation-mistakes.json",
+        "bytes": 3843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-entrance-truly-accessible.json",
+        "bytes": 3530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-a-seamless-front-entrance-accessibility-upgrade.json",
+        "bytes": 3628,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-missteps-in-front-entrance-accessibility-projects.json",
+        "bytes": 3838,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-back-entrance-might-still-need-accessibility-upgrades.json",
+        "bytes": 3882,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-back-door-isn-t-used-by-the-public-does-it-still-need-to-be-accessible.json",
+        "bytes": 3923,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-upgrading-back-entrance-accessibility.json",
+        "bytes": 3936,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-garage-entry-accessible-what-to-measure-first.json",
+        "bytes": 3762,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-garage-entry-truly-accessible-a-quick-checklist.json",
+        "bytes": 3970,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-when-planning-a-garage-entry-accessibility-ramp.json",
+        "bytes": 3835,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-porch-accessible-even-with-a-ramp.json",
+        "bytes": 3514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-i-need-a-professional-for-porch-modifications.json",
+        "bytes": 3436,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-a-porch-accessible-for-a-wheelchair.json",
+        "bytes": 3359,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-installing-an-outdoor-handrail.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-common-mistakes-when-installing-a-handrail.json",
+        "bytes": 3501,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-kind-of-handrail-should-i-choose-for-outdoor-stairs.json",
+        "bytes": 3640,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-stair-handrail-might-be-wobbly-and-how-to-fix-it.json",
+        "bytes": 3597,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stair-handrail-installation-what-to-ask-before-you-start.json",
+        "bytes": 3588,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-stair-handrail-up-to-code-a-quick-check.json",
+        "bytes": 3653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-outdoor-handrail-wood-metal-or-something-else.json",
+        "bytes": 3797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-outdoor-handrails.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-outdoor-handrail-project.json",
+        "bytes": 4009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-handrail-feel-loose.json",
+        "bytes": 3182,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-handrail-repair-mistakes.json",
+        "bytes": 3537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-replace-not-just-repair-a-handrail.json",
+        "bytes": 3598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-upgrading-your-stairs-for-safety.json",
+        "bytes": 3483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-stair-safety-upgrade.json",
+        "bytes": 4114,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-your-stair-handrails.json",
+        "bytes": 4028,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-makes-your-outdoor-walkways-risky.json",
+        "bytes": 3398,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-spot-pathway-hazards-around-your-home.json",
+        "bytes": 3899,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-when-improving-pathway-safety.json",
+        "bytes": 3717,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-home-entry-safer-from-the-driveway.json",
+        "bytes": 4324,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-causes-unsafe-driveway-to-entry-routes.json",
+        "bytes": 3940,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-improving-driveway-access.json",
+        "bytes": 4240,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-outdoor-lighting-project-might-not-look-right.json",
+        "bytes": 3630,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-home-s-exterior-lighting-installation.json",
+        "bytes": 4567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-best-outdoor-lighting-fixtures-for-your-colorado-home.json",
+        "bytes": 4144,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-widening-a-doorway.json",
+        "bytes": 4206,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-approach-widening-a-load-bearing-doorway.json",
+        "bytes": 4984,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-widening-a-doorway.json",
+        "bytes": 4302,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-hallway-feel-so-cramped.json",
+        "bytes": 4296,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-hallways-wider-without-tearing-down-walls.json",
+        "bytes": 4797,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-improving-hallway-clearance.json",
+        "bytes": 4532,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-interior-doorways-aren-t-accessible.json",
+        "bytes": 4459,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-widening-doorways.json",
+        "bytes": 4510,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-hh-remodeling-llc-the-right-choice-for-accessibility-modifications.json",
+        "bytes": 4623,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-doorway-feels-too-narrow-understanding-clear-width-for-wheelchairs.json",
+        "bytes": 3436,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-room-when-to-widen-a-doorway-for-wheelchair-access.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-planning-wheelchair-accessible-doorways.json",
+        "bytes": 3593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/opening-up-space-what-to-consider-for-walker-accessible-doorways.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-planning-for-walker-accessible-doorways.json",
+        "bytes": 3605,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-it-s-time-to-modify-your-doorways-for-walker-access.json",
+        "bytes": 3956,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-door-frame-just-isn-t-right-anymore.json",
+        "bytes": 3269,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-a-smooth-door-frame-installation.json",
+        "bytes": 3292,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-door-frame-modification-mishaps.json",
+        "bytes": 3381,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-lever-handle-installation-problems.json",
+        "bytes": 3420,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-lever-door-handle-for-your-home.json",
+        "bytes": 3473,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-an-expert-for-lever-handle-upgrades.json",
+        "bytes": 3760,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-new-door-hardware-doesn-t-fit.json",
+        "bytes": 2717,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-installing-door-hardware.json",
+        "bytes": 3662,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-with-door-hardware-installation.json",
+        "bytes": 3489,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-safely-remove-a-stubborn-door-threshold.json",
+        "bytes": 3937,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-door-threshold-needs-replacing.json",
+        "bytes": 3755,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-professional-door-threshold-removal.json",
+        "bytes": 4438,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-door-threshold-not-sealing-properly-anymore.json",
+        "bytes": 3529,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-common-mistakes-when-installing-a-new-threshold.json",
+        "bytes": 3562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-threshold-issues.json",
+        "bytes": 3908,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-low-profile-threshold-right-for-my-home.json",
+        "bytes": 3599,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-fix-a-drafty-door-threshold.json",
+        "bytes": 4147,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-check-before-getting-a-new-threshold-installed.json",
+        "bytes": 4225,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-floor-transition-strip-comes-loose-a-fix-it-guide.json",
+        "bytes": 3389,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preventing-future-floor-transition-headaches-a-checklist.json",
+        "bytes": 3431,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-repairing-floor-transitions.json",
+        "bytes": 3491,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-smooth-out-uneven-floors-between-rooms.json",
+        "bytes": 3469,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-a-floor-level-transition-project.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-professional-help-with-floor-level-transitions.json",
+        "bytes": 3541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-counts-as-a-trip-hazard-indoors.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-identify-hidden-trip-hazards-in-your-home.json",
+        "bytes": 3424,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-fixing-floor-hazards.json",
+        "bytes": 3622,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-repair-a-trip-hazard-immediately.json",
+        "bytes": 3755,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-permanently-fix-uneven-indoor-surfaces.json",
+        "bytes": 3646,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-choose-a-contractor-for-trip-hazard-repair.json",
+        "bytes": 3702,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-old-rug-won-t-budge.json",
+        "bytes": 3486,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-help-for-tough-rug-removal-jobs.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-during-rug-removal.json",
+        "bytes": 3714,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/designing-a-kitchen-that-works-for-everyone.json",
+        "bytes": 3836,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-features-for-an-accessible-kitchen-remodel.json",
+        "bytes": 3881,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-accessible-kitchen-project-timeline.json",
+        "bytes": 3293,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-a-senior-friendly-kitchen-remodel.json",
+        "bytes": 3541,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-a-kitchen-for-senior-accessibility.json",
+        "bytes": 4187,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-senior-kitchen-design.json",
+        "bytes": 4237,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-when-planning-a-wheelchair-accessible-kitchen.json",
+        "bytes": 3630,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-design-a-kitchen-for-wheelchair-users.json",
+        "bytes": 4295,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-mistakes-to-sidestep-in-wheelchair-kitchen-remodeling.json",
+        "bytes": 4498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-kitchen-feel-so-cramped.json",
+        "bytes": 4303,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-kitchen-clearance-mistakes.json",
+        "bytes": 4332,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-sense-of-kitchen-aisle-widths.json",
+        "bytes": 4358,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-widen-your-kitchen-pathways.json",
+        "bytes": 4440,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-narrow-kitchen-passages.json",
+        "bytes": 4419,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-for-better-kitchen-flow.json",
+        "bytes": 4971,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-an-accessible-kitchen-layout.json",
+        "bytes": 3590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-kitchen-layout-is-truly-accessible.json",
+        "bytes": 3642,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-planning-an-accessible-kitchen.json",
+        "bytes": 3665,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-low-should-your-kitchen-countertops-be.json",
+        "bytes": 3784,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/steps-to-install-a-lowered-kitchen-countertop.json",
+        "bytes": 4338,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-lowered-countertops.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-kitchen-countertops-need-different-heights.json",
+        "bytes": 3625,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-ignore-countertop-level-issues.json",
+        "bytes": 3737,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-height-countertops-when-is-professional-help-essential.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-kitchen-sink-actually-accessible-how-to-tell.json",
+        "bytes": 3668,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-errors-to-avoid-when-installing-an-accessible-kitchen-sink.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-in-the-pros-for-your-accessible-kitchen-sink.json",
+        "bytes": 4128,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-under-sink-clearance-isn-t-enough.json",
+        "bytes": 3345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-with-accessible-sink-installation.json",
+        "bytes": 3516,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-important-for-knee-clearance-under-sink-installation.json",
+        "bytes": 3571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-measure-for-a-new-pull-out-cabinet-shelf.json",
+        "bytes": 3377,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-common-issues-with-pull-out-cabinet-shelves.json",
+        "bytes": 3499,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-mistakes-to-avoid-when-installing-pull-out-cabinet-shelves.json",
+        "bytes": 3817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cabinet-not-big-enough-for-a-pull-down-shelf-here-s-what-to-check.json",
+        "bytes": 3463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-installing-a-pull-down-cabinet-shelf.json",
+        "bytes": 3314,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-pull-down-cabinet-shelf-installation.json",
+        "bytes": 3603,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-lazy-susan-isn-t-turning-smoothly-what-went-wrong.json",
+        "bytes": 3377,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-lazy-susan-for-your-corner-cabinet.json",
+        "bytes": 3498,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-with-a-tricky-lazy-susan-installation.json",
+        "bytes": 3645,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-soft-close-drawers-close-quietly.json",
+        "bytes": 3421,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/retrofitting-soft-close-drawers-what-you-need-to-know.json",
+        "bytes": 3440,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/soft-close-drawer-installation-mistakes-to-avoid.json",
+        "bytes": 3814,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/achieving-easy-access-in-your-drawers-a-quick-guide.json",
+        "bytes": 3411,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-easy-access-drawers-aren-t-so-easy-anymore.json",
+        "bytes": 3401,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-installing-easy-access-drawers.json",
+        "bytes": 3775,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-cabinet-pull-installation-went-wrong.json",
+        "bytes": 3570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/should-you-install-easy-grip-cabinet-pulls-yourself.json",
+        "bytes": 3548,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-easy-grip-cabinet-pulls-are-installed-perfectly.json",
+        "bytes": 3841,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-installing-d-shaped-cabinet-handles.json",
+        "bytes": 3672,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-with-d-shaped-cabinet-handle-installation.json",
+        "bytes": 3919,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-accurately-mark-holes-for-d-shaped-cabinet-handles.json",
+        "bytes": 4779,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-new-faucet-leaking-after-installation.json",
+        "bytes": 3408,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-when-installing-a-lever-style-kitchen-faucet.json",
+        "bytes": 3622,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-faucet-installation-issues.json",
+        "bytes": 4036,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-the-best-light-for-your-kitchen-prep-areas.json",
+        "bytes": 3621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-kitchen-task-lighting.json",
+        "bytes": 3654,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-electrician-for-kitchen-lighting-upgrades.json",
+        "bytes": 4258,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-under-cabinet-lights-turn-on.json",
+        "bytes": 3527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/under-cabinet-lighting-mistakes-to-avoid.json",
+        "bytes": 3542,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-under-cabinet-lighting-installation.json",
+        "bytes": 3584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-kitchen-lighting-upgrade-where-to-start.json",
+        "bytes": 3512,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-glare-and-shadows-in-your-kitchen-lighting.json",
+        "bytes": 3525,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-kitchen-needs-more-than-just-a-fixture-swap.json",
+        "bytes": 3667,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/where-should-kitchen-outlets-go-for-accessibility.json",
+        "bytes": 3430,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-kitchen-outlet-placement-for-wheelchair-users.json",
+        "bytes": 3443,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-with-accessible-kitchen-outlet-placement.json",
+        "bytes": 3590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-non-slip-kitchen-flooring-what-to-look-for.json",
+        "bytes": 3439,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-kitchen-floor-is-truly-slip-resistant.json",
+        "bytes": 3348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/non-slip-kitchen-flooring-myths-vs-facts.json",
+        "bytes": 3585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-slippery-spots-in-your-kitchen.json",
+        "bytes": 3280,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-loose-kitchen-tiles-and-mats.json",
+        "bytes": 3258,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-kitchen-safe-from-cords-and-clutter.json",
+        "bytes": 3496,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-kitchen-for-easy-appliance-access.json",
+        "bytes": 3613,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-in-accessible-kitchen-layout.json",
+        "bytes": 3628,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-think-about-accessible-appliance-space.json",
+        "bytes": 3708,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-bedroom-needs-a-safety-upgrade.json",
+        "bytes": 3554,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-bedroom-safer-a-step-by-step-guide.json",
+        "bytes": 3407,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoid-these-bedroom-accessibility-blunders.json",
+        "bytes": 3552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-bedroom-work-for-you-accessibility-basics.json",
+        "bytes": 3533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bedroom-safety-vs-accessibility-what-s-the-difference.json",
+        "bytes": 3758,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-bedroom-safety.json",
+        "bytes": 3534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-bedroom-for-better-flow-and-safety.json",
+        "bytes": 3379,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-bedroom-layout-mistakes-that-make-your-room-feel-smaller.json",
+        "bytes": 3523,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-a-tricky-bedroom-layout.json",
+        "bytes": 3589,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-your-bedroom-lighting-just-right-for-any-mood.json",
+        "bytes": 3574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-bedroom-lighting-feels-all-wrong-and-how-to-change-it.json",
+        "bytes": 3631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-an-electrician-for-your-bedroom-lighting-project.json",
+        "bytes": 3720,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-night-light-glares.json",
+        "bytes": 3478,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-night-light-installation-mistakes.json",
+        "bytes": 3643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-with-bedroom-night-lights.json",
+        "bytes": 4153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-bedroom-handrail-wobbly.json",
+        "bytes": 3637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-handrail-for-your-bedroom.json",
+        "bytes": 3653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-in-a-pro-for-bedroom-handrails.json",
+        "bytes": 4095,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-closet-shelves-aren-t-working-for-you.json",
+        "bytes": 3564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-accessible-closet-renovation.json",
+        "bytes": 3470,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-designing-easy-access-shelving.json",
+        "bytes": 3620,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-closet-really-accessible.json",
+        "bytes": 3540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/simple-steps-to-better-closet-storage.json",
+        "bytes": 3467,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-upgrade-your-closet-for-accessibility.json",
+        "bytes": 3488,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-closet-lighting-feel-so-dim.json",
+        "bytes": 3415,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-adding-lighting-to-your-closet.json",
+        "bytes": 3329,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-closet-lighting.json",
+        "bytes": 3628,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-living-room-working-for-me-anymore.json",
+        "bytes": 3389,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-living-room-more-accessible-for-everyone.json",
+        "bytes": 3912,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-professional-help-for-living-room-accessibility.json",
+        "bytes": 3968,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-about-that-pesky-living-room-trip-hazard.json",
+        "bytes": 3560,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-your-living-room-rugs-a-trip-hazard-here-s-what-to-do.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-living-room-trip-hazard-mistakes.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-living-room-dark-what-to-do-about-inadequate-lighting.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-upgrade-your-living-room-lighting.json",
+        "bytes": 3897,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-living-room-lighting-causing-glare-how-to-fix-it.json",
+        "bytes": 3786,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-living-room-feel-so-cramped.json",
+        "bytes": 3785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-ideal-width-for-living-room-walkways.json",
+        "bytes": 3814,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-living-room-pathways.json",
+        "bytes": 3854,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/designing-an-accessible-living-room-where-to-start.json",
+        "bytes": 3951,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-ensure-your-furniture-layout-is-truly-accessible.json",
+        "bytes": 4134,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-in-accessible-furniture-arrangement.json",
+        "bytes": 4278,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-make-your-laundry-room-accessible.json",
+        "bytes": 3518,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-with-laundry-room-accessibility-modifications.json",
+        "bytes": 3456,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-laundry-room-accessibility.json",
+        "bytes": 3567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-an-accessible-laundry-room-layout.json",
+        "bytes": 3504,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-steps-for-an-accessible-laundry-room-design.json",
+        "bytes": 3481,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-pro-for-accessible-laundry-room-changes.json",
+        "bytes": 3696,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-dryer-vent-is-clogged.json",
+        "bytes": 3349,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-biggest-laundry-room-safety-mistakes.json",
+        "bytes": 3586,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-professional-help-for-laundry-room-safety.json",
+        "bytes": 3933,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-laundry-room-so-dark.json",
+        "bytes": 3426,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-brighten-up-a-dim-laundry-space.json",
+        "bytes": 3595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-laundry-room-lighting.json",
+        "bytes": 4204,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/which-laundry-room-floorings-actually-hold-up.json",
+        "bytes": 3656,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-laundry-room-floor-flooded-what-now.json",
+        "bytes": 3929,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-your-laundry-room-floor.json",
+        "bytes": 2663,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-laundry-room-doorway-too-narrow.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-before-widening-a-laundry-room-doorway.json",
+        "bytes": 3932,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-pro-for-laundry-room-doorway-widening.json",
+        "bytes": 4049,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-tell-if-your-home-s-wiring-can-handle-new-lighting.json",
+        "bytes": 3421,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-get-a-permit-for-lighting-upgrades.json",
+        "bytes": 3418,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-hallway-lights.json",
+        "bytes": 3348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-many-lights-do-i-need-for-a-bright-hallway.json",
+        "bytes": 3384,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-upgrade-your-hallway-lighting.json",
+        "bytes": 3620,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-avoid-common-mistakes-in-home-lighting-projects.json",
+        "bytes": 3942,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-my-stair-lights-flicker-and-how-to-fix-it.json",
+        "bytes": 3456,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-the-perfect-stairway-lighting-layout.json",
+        "bytes": 3357,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-between-wall-sconces-or-recessed-lights-for-your-stairway.json",
+        "bytes": 3626,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-won-t-my-motion-sensor-lights-stay-on.json",
+        "bytes": 3537,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-motion-sensor-lights-right-for-every-home.json",
+        "bytes": 3556,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-sidestep-with-motion-sensor-lighting.json",
+        "bytes": 3845,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-new-night-light-not-turning-on-automatically.json",
+        "bytes": 3609,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-night-light-installation-goes-wrong.json",
+        "bytes": 3544,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-professional-help-with-night-light-installation.json",
+        "bytes": 3802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-do-i-still-have-glare-after-upgrading-my-lighting.json",
+        "bytes": 3601,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-a-glare-free-lighting-upgrade-for-your-denver-home.json",
+        "bytes": 4577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-non-glare-lighting-upgrades.json",
+        "bytes": 4268,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-light-switch-might-not-be-working-for-you.json",
+        "bytes": 3500,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-light-switches-more-accessible.json",
+        "bytes": 3415,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-upgrading-light-switches-for-accessibility.json",
+        "bytes": 3698,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-rocker-switches-right-for-your-home.json",
+        "bytes": 3638,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/installing-a-rocker-light-switch-what-you-need-to-know.json",
+        "bytes": 3574,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-installing-rocker-light-switches.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-safety-light-flickering-or-not-turning-on.json",
+        "bytes": 3944,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-emergency-lights-fail-their-test.json",
+        "bytes": 4424,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-needed-for-safety-lighting.json",
+        "bytes": 4429,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-accessibility-features-unreliable.json",
+        "bytes": 3970,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-accessibility-feature-maintenance.json",
+        "bytes": 4750,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maintaining-your-home-s-accessibility-features-a-checklist.json",
+        "bytes": 5302,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-kitchen-floor-is-a-slip-and-slide-hazard.json",
+        "bytes": 3444,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-non-slip-flooring-for-your-bathroom.json",
+        "bytes": 3476,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-non-slip-flooring-worth-the-investment-for-your-family.json",
+        "bytes": 3692,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-upgrade-to-slip-resistant-flooring.json",
+        "bytes": 3564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-home-safer-a-slip-resistant-flooring-checklist.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-picking-slip-resistant-floors.json",
+        "bytes": 3843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-floor-feel-bouncy.json",
+        "bytes": 3416,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-fix-loose-flooring-myself.json",
+        "bytes": 3452,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-flooring-repair.json",
+        "bytes": 4483,
         "purpose": "schema"
       }
     ],
@@ -5834,12 +10906,474 @@
         "path": "faqs/do-i-need-a-local-contractor-for-insurance-coordinated-interior-restoration-in-t.json",
         "bytes": 1367,
         "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-log-home-refinishing.json",
+        "bytes": 1063,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-refinishing-my-log-cabin.json",
+        "bytes": 1306,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-log-home-refinishing-process-take.json",
+        "bytes": 1297,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-log-cabin-staining-and-restaining.json",
+        "bytes": 1382,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-affect-the-cost-of-log-home-refinishing.json",
+        "bytes": 1352,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-strip-the-old-stain-before-restaining-my-log-home.json",
+        "bytes": 1422,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-stain-for-my-log-home.json",
+        "bytes": 1398,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-areas-do-you-serve-for-log-home-refinishing.json",
+        "bytes": 969,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-your-log-cabin-restoration-services.json",
+        "bytes": 1315,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-professional-log-home-refinishing-important.json",
+        "bytes": 1406,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-a-log-home-be-refinished.json",
+        "bytes": 1146,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-cost-of-log-cabin-refinishing-services.json",
+        "bytes": 1154,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-involved-in-the-log-cabin-stripping-process.json",
+        "bytes": 1244,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-stains-are-best-for-log-homes.json",
+        "bytes": 1330,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-restoring-my-log-cabin-instead-of-just-refinishing.json",
+        "bytes": 1383,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-log-home-refinishing-take.json",
+        "bytes": 1227,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-professional-log-cabin-refinishing-services.json",
+        "bytes": 1368,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-log-cabin-refinishing-services-in-centennial-co.json",
+        "bytes": 1232,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-log-home-refinishing-and-restoring.json",
+        "bytes": 1305,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-log-cabin-stripping-involve.json",
+        "bytes": 1209,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-stains-are-used-for-log-homes.json",
+        "bytes": 1275,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-log-home-needs-refinishing.json",
+        "bytes": 1172,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-log-cabin-restaining.json",
+        "bytes": 1218,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-log-home-refinishing-cost-in-the-denver-area.json",
+        "bytes": 1191,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-professional-log-cabin-refinishing-services.json",
+        "bytes": 1316,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-log-home-refinishing-services-in-highlands-ranch-or-castle-rock.json",
+        "bytes": 1368,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-log-cabin-restoration-and-preservation.json",
+        "bytes": 1404,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-log-home-needs-restoration-or-just-preservation.json",
+        "bytes": 1374,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-for-log-cabin-restoration-in-the-denver-area.json",
+        "bytes": 1256,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-log-home-restoration-project-usually-take.json",
+        "bytes": 1306,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-key-steps-involved-in-a-log-cabin-renovation.json",
+        "bytes": 1299,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-have-my-log-home-inspected-for-preservation-needs.json",
+        "bytes": 1235,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-damage-can-occur-to-log-homes-that-require-restoration.json",
+        "bytes": 1305,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-areas-do-you-serve-for-log-home-restoration-and-preservation-services.json",
+        "bytes": 1254,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-log-home-restoration-company.json",
+        "bytes": 1314,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-log-home-renovation-improve-energy-efficiency.json",
+        "bytes": 1280,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-log-cabin-restoration-and-log-cabin-preservation.json",
+        "bytes": 1374,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-professional-log-home-restoration.json",
+        "bytes": 1290,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-involved-in-a-typical-log-cabin-renovation-project.json",
+        "bytes": 1379,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-log-home-restoration-cost-in-the-denver-area.json",
+        "bytes": 1302,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-log-cabin-restoration-project-usually-take.json",
+        "bytes": 1283,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-maintenance-is-required-after-log-cabin-restoration.json",
+        "bytes": 1253,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-preserving-my-log-home.json",
+        "bytes": 1273,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-contractor-for-log-home-restoration-in-parker.json",
+        "bytes": 1336,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-log-cabin-renovation-improve-energy-efficiency.json",
+        "bytes": 1353,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-chinking-and-why-is-it-important-for-log-homes.json",
+        "bytes": 1322,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-signs-that-my-log-home-needs-refinishing.json",
+        "bytes": 1100,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-cost-of-log-home-refinishing-in-the-denver-area.json",
+        "bytes": 1179,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-refinishing-a-log-home.json",
+        "bytes": 1120,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-finishes-are-used-for-log-home-refinishing.json",
+        "bytes": 1185,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-contractor-for-log-home-refinishing.json",
+        "bytes": 1163,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-refinish-or-replace-damaged-logs.json",
+        "bytes": 1151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-refinish-my-log-home-myself-or-should-i-hire-a-professional.json",
+        "bytes": 1239,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-log-home-refinishing-services-in-denver-centennial-and-parker.json",
+        "bytes": 1188,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-consider-log-home-restoration.json",
+        "bytes": 1252,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-involved-in-the-log-cabin-restoration-process.json",
+        "bytes": 1257,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-log-cabin-restoration-project-take.json",
+        "bytes": 1247,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-benefits-of-professional-log-home-preservation.json",
+        "bytes": 1294,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-contractor-for-log-cabin-restoration-in-the-denver-are.json",
+        "bytes": 1413,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-maintenance-is-needed-after-log-home-renovation.json",
+        "bytes": 1293,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-signs-of-log-rot-in-a-log-home.json",
+        "bytes": 1166,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-log-home-restoration-services-in-parker-colorado.json",
+        "bytes": 1193,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-process-for-refinishing-a-log-home.json",
+        "bytes": 1181,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-stains-and-sealants-are-best-for-log-homes-in-colorado.json",
+        "bytes": 1215,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-refinish-a-log-cabin.json",
+        "bytes": 1080,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-log-home-refinishing-contractor.json",
+        "bytes": 1207,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-have-my-log-home-inspected.json",
+        "bytes": 936,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-signs-of-rot-in-a-log-cabin.json",
+        "bytes": 905,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-way-to-clean-log-home-exteriors.json",
+        "bytes": 970,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-stain-for-my-log-cabin.json",
+        "bytes": 1056,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-re-stain-or-re-seal-my-log-home.json",
+        "bytes": 983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-chinking-and-caulking-for-log-homes.json",
+        "bytes": 1057,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-prevent-insect-damage-in-my-log-home.json",
+        "bytes": 1024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-in-a-log-home-maintenance-contractor-in-the-denver-area.json",
+        "bytes": 1153,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-log-home-restoration-typically-cost.json",
+        "bytes": 1013,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-maintenance-is-needed-for-the-interior-of-a-log-home.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/eric-s-1-review.json",
+        "bytes": 507,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/roger-w-2-review.json",
+        "bytes": 419,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/will-m-3-review.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/verified-customer-4-review.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/verified-customer-5-review.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/verified-customer-6-review.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/verified-customer-7-review.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-8-review.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-9-review.json",
+        "bytes": 452,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-10-review.json",
+        "bytes": 435,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-11-review.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-12-review.json",
+        "bytes": 436,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-13-review.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/anonymous-14-review.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kimbra-d-15-review.json",
+        "bytes": 440,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 220,
+        "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 2879,
+        "bytes": 2927,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -5854,7 +11388,7 @@
       },
       {
         "path": "reviews.html",
-        "bytes": 1536,
+        "bytes": 16473,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -5864,12 +11398,12 @@
       },
       {
         "path": "faqs.html",
-        "bytes": 505578,
+        "bytes": 547692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1584,
+        "bytes": 1526154,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -5906,32 +11440,32 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 547416,
+        "bytes": 1043815,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 181661,
+        "bytes": 339932,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 181661,
+        "bytes": 339932,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12470,
+        "bytes": 12511,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 182994,
+        "bytes": 340195,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 213135,
+        "bytes": 415569,
         "purpose": "AI sitemap"
       },
       {
