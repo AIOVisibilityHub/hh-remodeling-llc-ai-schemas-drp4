@@ -1,0 +1,247 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Denver",
+        "@type": "City"
+      },
+      {
+        "name": "Centennial",
+        "@type": "City"
+      },
+      {
+        "name": "Greenwood Village",
+        "@type": "City"
+      },
+      {
+        "name": "Foxfield",
+        "@type": "City"
+      },
+      {
+        "name": "Parker",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Commerce City",
+        "@type": "City"
+      },
+      {
+        "name": "Englewood",
+        "@type": "City"
+      },
+      {
+        "name": "Sheridan",
+        "@type": "City"
+      },
+      {
+        "name": "Littleton",
+        "@type": "City"
+      },
+      {
+        "name": "Highlands Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Lone Tree",
+        "@type": "City"
+      },
+      {
+        "name": "Cherry Hills Village",
+        "@type": "City"
+      },
+      {
+        "name": "Bow Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Columbine Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Southglenn",
+        "@type": "City"
+      },
+      {
+        "name": "Meridian",
+        "@type": "City"
+      },
+      {
+        "name": "Castlewood",
+        "@type": "City"
+      },
+      {
+        "name": "Dove Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Watkins",
+        "@type": "City"
+      },
+      {
+        "name": "Bennett",
+        "@type": "City"
+      },
+      {
+        "name": "Strasburg",
+        "@type": "City"
+      },
+      {
+        "name": "Thornton",
+        "@type": "City"
+      },
+      {
+        "name": "Northglenn",
+        "@type": "City"
+      },
+      {
+        "name": "Federal Heights",
+        "@type": "City"
+      },
+      {
+        "name": "Westminster",
+        "@type": "City"
+      },
+      {
+        "name": "Arvada",
+        "@type": "City"
+      },
+      {
+        "name": "Lakewood",
+        "@type": "City"
+      },
+      {
+        "name": "Golden",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Mountain View",
+        "@type": "City"
+      },
+      {
+        "name": "Wheat Ridge",
+        "@type": "City"
+      },
+      {
+        "name": "Broomfield",
+        "@type": "City"
+      },
+      {
+        "name": "Louisville",
+        "@type": "City"
+      },
+      {
+        "name": "Lafayette",
+        "@type": "City"
+      },
+      {
+        "name": "Erie",
+        "@type": "City"
+      },
+      {
+        "name": "Firestone",
+        "@type": "City"
+      },
+      {
+        "name": "Frederick",
+        "@type": "City"
+      },
+      {
+        "name": "Longmont",
+        "@type": "City"
+      },
+      {
+        "name": "Boulder",
+        "@type": "City"
+      },
+      {
+        "name": "Superior",
+        "@type": "City"
+      },
+      {
+        "name": "Elizabeth",
+        "@type": "City"
+      },
+      {
+        "name": "Kiowa",
+        "@type": "City"
+      },
+      {
+        "name": "Byers",
+        "@type": "City"
+      },
+      {
+        "name": "Deer Trail",
+        "@type": "City"
+      },
+      {
+        "name": "Castle Rock",
+        "@type": "City"
+      },
+      {
+        "name": "Franktown",
+        "@type": "City"
+      },
+      {
+        "name": "Larkspur",
+        "@type": "City"
+      },
+      {
+        "name": "Sedalia",
+        "@type": "City"
+      },
+      {
+        "name": "Monument",
+        "@type": "City"
+      },
+      {
+        "name": "Palmer Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain",
+        "@type": "City"
+      },
+      {
+        "name": "Security-Widefield",
+        "@type": "City"
+      },
+      {
+        "name": "Colorado Springs",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Your Closet Really Accessible?",
+    "text": "Is Your Closet Really Accessible?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Ever wonder if your closet truly meets your accessibility needs, or if it's just 'getting by'? A truly accessible closet goes beyond just looking organized; it’s about function and ease of use, especially from a seated position. If you find yourself struggling with tight doorways, or if you can't easily reach items without straining or asking for help, your closet might need some modifications. Key indicators include whether there’s enough open floor space for comfortable maneuvering, if your hanging rods are at a height that works for you, and if your shelving allows for easy viewing and retrieval of items. You should also consider the type of doors you have – swing doors can often be a barrier. If you're encountering any of these issues regularly, or if you're feeling limited by your current closet setup, it's a good time to evaluate its accessibility. HH Remodeling LLC specializes in disability and accessibility modifications, and we can help assess your current closet and transform it into a space that genuinely serves your needs, making your daily routine much smoother.",
+      "@type": "Answer",
+      "author": {
+        "name": "HH Remodeling LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}
