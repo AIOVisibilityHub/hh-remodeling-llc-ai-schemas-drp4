@@ -1,0 +1,270 @@
+{
+  "name": "Your Step-by-Step Guide to Foreclosed Property Repairs",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting a foreclosed property ready for its new life can feel overwhelming, but breaking it down into steps makes it much more manageable. Here’s a simple guide to get you started on the right foot.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "**Step 1: Inspect and Secure the Property.** As soon as you have access, do a thorough inspection of the structure, utilities, and look for any signs of moisture. Immediately secure the property by re-keying all locks and addressing any broken windows or doors to prevent further damage or unauthorized entry.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "**Step 2: Prevent Further Damage.** This is all about stabilizing the property. Think about winterizing if it’s vacant during cold months, repairing any active leaks, and addressing immediate safety hazards. This step is critical before you even think about cosmetic work.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "**Step 3: Document Conditions.** Take plenty of photos and notes of the property's condition before any work begins. This documentation can be super helpful for insurance claims, budgeting, and tracking progress.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "**Step 4: Tackle Major Repairs First.** Prioritize structural issues, roofing problems, significant plumbing or electrical faults, and any mold remediation. These are the critical repairs that ensure the home is safe and sound before you move onto aesthetics. Remember, a professional can help you navigate these bigger challenges.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "**Step 5: Move to Cosmetic Upgrades.** Once the bones of the house are solid, you can start with the fun stuff like painting, flooring, and updating fixtures. Always remember, the order matters. Get the fundamentals right, and the rest will follow.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial",
+      "@type": "City"
+    },
+    {
+      "name": "Greenwood Village",
+      "@type": "City"
+    },
+    {
+      "name": "Foxfield",
+      "@type": "City"
+    },
+    {
+      "name": "Parker",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Commerce City",
+      "@type": "City"
+    },
+    {
+      "name": "Englewood",
+      "@type": "City"
+    },
+    {
+      "name": "Sheridan",
+      "@type": "City"
+    },
+    {
+      "name": "Littleton",
+      "@type": "City"
+    },
+    {
+      "name": "Highlands Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Lone Tree",
+      "@type": "City"
+    },
+    {
+      "name": "Cherry Hills Village",
+      "@type": "City"
+    },
+    {
+      "name": "Bow Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Columbine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Southglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Castlewood",
+      "@type": "City"
+    },
+    {
+      "name": "Dove Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Watkins",
+      "@type": "City"
+    },
+    {
+      "name": "Bennett",
+      "@type": "City"
+    },
+    {
+      "name": "Strasburg",
+      "@type": "City"
+    },
+    {
+      "name": "Thornton",
+      "@type": "City"
+    },
+    {
+      "name": "Northglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Federal Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Westminster",
+      "@type": "City"
+    },
+    {
+      "name": "Arvada",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Golden",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain View",
+      "@type": "City"
+    },
+    {
+      "name": "Wheat Ridge",
+      "@type": "City"
+    },
+    {
+      "name": "Broomfield",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Erie",
+      "@type": "City"
+    },
+    {
+      "name": "Firestone",
+      "@type": "City"
+    },
+    {
+      "name": "Frederick",
+      "@type": "City"
+    },
+    {
+      "name": "Longmont",
+      "@type": "City"
+    },
+    {
+      "name": "Boulder",
+      "@type": "City"
+    },
+    {
+      "name": "Superior",
+      "@type": "City"
+    },
+    {
+      "name": "Elizabeth",
+      "@type": "City"
+    },
+    {
+      "name": "Kiowa",
+      "@type": "City"
+    },
+    {
+      "name": "Byers",
+      "@type": "City"
+    },
+    {
+      "name": "Deer Trail",
+      "@type": "City"
+    },
+    {
+      "name": "Castle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Franktown",
+      "@type": "City"
+    },
+    {
+      "name": "Larkspur",
+      "@type": "City"
+    },
+    {
+      "name": "Sedalia",
+      "@type": "City"
+    },
+    {
+      "name": "Monument",
+      "@type": "City"
+    },
+    {
+      "name": "Palmer Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain",
+      "@type": "City"
+    },
+    {
+      "name": "Security-Widefield",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    }
+  ],
+  "description": "Your Step-by-Step Guide to Foreclosed Property Repairs"
+}
