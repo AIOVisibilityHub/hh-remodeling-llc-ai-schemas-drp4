@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of stains are used for log homes?",
+  "description": "Log homes use various oil-based, water-based, or specialized stains that offer protection and enhance the wood's appearance.",
+  "url": "http://coloradoremodeling.company/faq/what-kind-of-stains-are-used-for-log-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of stains are used for log homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are various types of stains used for log homes, each offering different levels of protection and aesthetic qualities. These include oil-based stains, water-based stains, and sometimes specialized transparent or semi-transparent finishes. The choice of stain depends on factors like desired color, durability, and breathability of the wood. Reputable refinishing services in Denver and surrounding areas will recommend stains designed specifically for log homes that provide UV protection, water repellency, and fungal resistance.",
+        "description": "Log homes use various oil-based, water-based, or specialized stains that offer protection and enhance the wood's appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider restoring my log cabin instead of just refinishing?",
+  "description": "Consider restoring your log cabin when there is significant damage like rot, insect infestation, or structural issues, rather than just surface wear.",
+  "url": "http://coloradoremodeling.company/faq/when-should-i-consider-restoring-my-log-cabin-instead-of-just-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider restoring my log cabin instead of just refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restoring a log cabin is a more intensive process than refinishing, typically undertaken when there's significant damage beyond surface wear. This could include extensive rot, severe insect infestation, structural issues, or major log deterioration. Refinishing addresses aesthetic and protective needs, while restoration involves repair and replacement of damaged logs to maintain structural integrity and extend the cabin's lifespan. An assessment can determine the best approach for your property.",
+        "description": "Consider restoring your log cabin when there is significant damage like rot, insect infestation, or structural issues, rather than just surface wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

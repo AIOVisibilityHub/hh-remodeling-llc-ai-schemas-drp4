@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right stain for my log cabin?",
+  "description": "Consider UV protection, water repellency, and desired look when choosing a log cabin stain.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-choose-the-right-stain-for-my-log-cabin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right stain for my log cabin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right stain involves considering factors like UV protection, water repellency, and the desired aesthetic. Oil-based stains penetrate deeper and offer good protection, while water-based stains are easier to clean up and often have lower VOCs. It's important to select a stain specifically designed for log homes to ensure proper adhesion and longevity.",
+        "description": "Consider UV protection, water repellency, and desired look when choosing a log cabin stain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

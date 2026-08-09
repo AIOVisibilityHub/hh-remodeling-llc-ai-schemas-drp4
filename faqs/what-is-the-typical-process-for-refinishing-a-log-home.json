@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for refinishing a log home?",
+  "description": "The typical process involves cleaning, repairing, staining, and sealing the logs to protect and restore the home's exterior.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-typical-process-for-refinishing-a-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for refinishing a log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The log home refinishing process generally starts with cleaning and preparing the logs, often involving power washing or chemical stripping to remove old finishes. Next, any damaged or rotted logs are repaired or replaced. A fresh stain is then applied, followed by a clear topcoat sealant to provide protection against the elements. The entire process aims to restore the logs' appearance and durability.",
+        "description": "The typical process involves cleaning, repairing, staining, and sealing the logs to protect and restore the home's exterior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

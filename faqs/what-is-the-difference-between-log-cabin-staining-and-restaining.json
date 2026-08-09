@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between log cabin staining and restaining?",
+  "description": "Staining is the initial application of finish to new logs, while restaining is reapplying finish to previously stained logs as part of maintenance.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-log-cabin-staining-and-restaining",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between log cabin staining and restaining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Log cabin staining refers to the initial application of a protective and decorative finish to new or freshly stripped logs. This process seals the wood, protects it from UV rays and moisture, and enhances its natural beauty. Restaining, on the other hand, involves reapplying stain to logs that already have a previous finish, often after cleaning or stripping. Restaining is part of routine maintenance to refresh the appearance and renew protection as the original finish ages. Both processes are crucial for log home longevity.",
+        "description": "Staining is the initial application of finish to new logs, while restaining is reapplying finish to previously stained logs as part of maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

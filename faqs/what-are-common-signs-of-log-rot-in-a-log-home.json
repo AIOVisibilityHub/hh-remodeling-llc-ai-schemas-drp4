@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs of log rot in a log home?",
+  "description": "Signs of log rot are discolored, soft, or spongy wood, fungal growth, musty odors, and shrinking or cracking logs.",
+  "url": "http://coloradoremodeling.company/faq/what-are-common-signs-of-log-rot-in-a-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs of log rot in a log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs of log rot include discolored or darkened wood, a soft or spongy texture when pressed, and the presence of fungal growth like mushrooms. You might also notice a musty odor, shrinking or cracking logs, and areas where wood crumbles easily. Rot often occurs in areas exposed to consistent moisture, such as near ground level, around windows and doors, or under eaves. Early detection is key to preventing widespread damage.",
+        "description": "Signs of log rot are discolored, soft, or spongy wood, fungal growth, musty odors, and shrinking or cracking logs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

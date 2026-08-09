@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in your log cabin restoration services?",
+  "description": "Our log cabin restoration services include cleaning, stripping, repairing logs, chinking/caulking, and applying new stains or sealants.",
+  "url": "http://coloradoremodeling.company/faq/what-is-included-in-your-log-cabin-restoration-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in your log cabin restoration services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our log cabin restoration services are comprehensive, addressing various aspects of your cabin's exterior. This typically includes a thorough cleaning to remove dirt and mildew, stripping of old finishes, repair or replacement of damaged logs, chinking or caulking maintenance to seal gaps, and the application of new stains or sealants for protection and aesthetic appeal. The specific scope of work is tailored to the individual needs and condition of each log cabin, ensuring a complete and lasting restoration.",
+        "description": "Our log cabin restoration services include cleaning, stripping, repairing logs, chinking/caulking, and applying new stains or sealants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

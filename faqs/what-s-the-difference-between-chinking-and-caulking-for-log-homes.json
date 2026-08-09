@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between chinking and caulking for log homes?",
+  "description": "Chinking fills large log gaps, while caulking seals smaller ones, both for weatherproofing.",
+  "url": "http://coloradoremodeling.company/faq/what-s-the-difference-between-chinking-and-caulking-for-log-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between chinking and caulking for log homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chinking is a flexible sealant used in larger gaps between logs, often seen in older or more rustic log homes. It has a textured appearance and is designed to move with the logs. Caulking is used for smaller gaps and joints, providing a more discreet seal. Both are vital for weatherproofing and energy efficiency.",
+        "description": "Chinking fills large log gaps, while caulking seals smaller ones, both for weatherproofing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Will M."
+  },
+  "reviewBody": "If I have work I need done in the future, I’ll turn to H&H again because I can trust that at the end of the day I’m going to end up with high-quality work, and that they will finish the project in a timely fashion.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "HH Remodeling LLC",
+    "url": "http://coloradoremodeling.company/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "general contracting / remodeling"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a typical log cabin renovation project?",
+  "description": "Log cabin renovation typically involves inspection, cleaning, repairing logs, applying new finishes, and updating chinking, with options for interior modificati",
+  "url": "http://coloradoremodeling.company/faq/what-is-involved-in-a-typical-log-cabin-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a typical log cabin renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical log cabin renovation project with HH Remodeling LLC often begins with a thorough inspection to identify areas needing attention. This can involve cleaning the logs, repairing or replacing damaged sections, applying new stains or sealants, and updating chinking. Depending on your goals, renovations can also include interior modifications, window and door replacements, or adding new features to enhance comfort and functionality. We tailor each project to the specific needs and desires of the homeowner.",
+        "description": "Log cabin renovation typically involves inspection, cleaning, repairing logs, applying new finishes, and updating chinking, with options for interior modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

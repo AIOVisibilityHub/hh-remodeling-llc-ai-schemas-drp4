@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of finishes are used for log home refinishing?",
+  "description": "Common finishes include oil-based and water-based stains and sealants, each with different properties and benefits.",
+  "url": "http://coloradoremodeling.company/faq/what-types-of-finishes-are-used-for-log-home-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of finishes are used for log home refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are several types of finishes used for log home refinishing, primarily oil-based and water-based stains and sealants. Oil-based finishes penetrate the wood deeply, offering excellent protection and a natural look. Water-based finishes are often more environmentally friendly, dry faster, and offer good UV protection. The best choice depends on factors like climate, desired appearance, and maintenance preferences.",
+        "description": "Common finishes include oil-based and water-based stains and sealants, each with different properties and benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

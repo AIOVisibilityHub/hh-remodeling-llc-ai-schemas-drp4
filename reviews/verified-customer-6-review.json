@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Verified Customer"
+  },
+  "reviewBody": "They helped us understand what it was going to cost. We knew that there are always surprises, and they helped us through that as well. Also, they helped us with the design phase. I didn’t know what I wanted in some instances, and they came up with some great ideas.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "HH Remodeling LLC",
+    "url": "http://coloradoremodeling.company/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "home renovation"
+      }
+    }
+  }
+}

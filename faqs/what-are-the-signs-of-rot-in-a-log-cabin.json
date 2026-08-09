@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs of rot in a log cabin?",
+  "description": "Discoloration, softness, crumbling wood, and musty odors are signs of rot.",
+  "url": "http://coloradoremodeling.company/faq/what-are-the-signs-of-rot-in-a-log-cabin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs of rot in a log cabin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of rot in a log cabin include discoloration, softness or spongy texture when poked, crumbling wood, and a musty odor. You might also notice fungal growth or areas where the wood appears distorted or shrunken. Early detection is crucial to prevent the spread of rot.",
+        "description": "Discoloration, softness, crumbling wood, and musty odors are signs of rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

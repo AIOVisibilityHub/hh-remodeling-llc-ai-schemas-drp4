@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider log home restoration?",
+  "description": "Consider restoration if you see widespread rot, deep cracks, insect damage, failing chinking, water leaks, or severe weathering.",
+  "url": "http://coloradoremodeling.company/faq/when-should-i-consider-log-home-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider log home restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider log home restoration if you notice signs of significant deterioration, such as widespread rot, deep cracks in the logs, insect damage, or failing chinking. Other indicators include water leaks, drafts, or a faded and weathered appearance that regular cleaning and sealing can't resolve. Addressing these issues promptly can prevent more extensive and costly repairs down the line. A professional assessment can help determine the extent of the damage and the best course of action.",
+        "description": "Consider restoration if you see widespread rot, deep cracks, insect damage, failing chinking, water leaks, or severe weathering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

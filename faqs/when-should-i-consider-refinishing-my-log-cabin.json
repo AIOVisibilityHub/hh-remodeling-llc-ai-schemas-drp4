@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider refinishing my log cabin?",
+  "description": "Consider refinishing your log cabin when you see fading, peeling, cracking finishes, graying logs, or chink separation. This usually occurs every 3-7 years.",
+  "url": "http://coloradoremodeling.company/faq/when-should-i-consider-refinishing-my-log-cabin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider refinishing my log cabin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider refinishing your log cabin when you notice signs of wear and tear, such as fading, peeling, or cracking of the existing finish. Other indicators include graying logs, excessive chink separation, or evidence of water penetration or insect activity. Typically, log homes require refinishing every 3-7 years, depending on factors like sun exposure, climate, and the quality of the previous finish. Regular inspections can help determine the optimal time for maintenance.",
+        "description": "Consider refinishing your log cabin when you see fading, peeling, cracking finishes, graying logs, or chink separation. This usually occurs every 3-7 years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

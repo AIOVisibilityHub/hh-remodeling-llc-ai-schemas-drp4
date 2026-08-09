@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect the cost of log home refinishing?",
+  "description": "Log home refinishing costs depend on home size, condition, stain type, accessibility, necessary repairs, and labor for stripping, cleaning, and application.",
+  "url": "http://coloradoremodeling.company/faq/what-factors-affect-the-cost-of-log-home-refinishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect the cost of log home refinishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of log home refinishing is influenced by several factors. These include the size of your home, its current condition (e.g., amount of rot, insect damage, or existing finish to be removed), the type of stain or sealant chosen, the accessibility of the logs, and the extent of any necessary repairs. Labor costs for stripping, cleaning, sanding, and applying new finishes also play a significant role. Requesting a detailed quote from a local service can help you understand the specific costs for your project.",
+        "description": "Log home refinishing costs depend on home size, condition, stain type, accessibility, necessary repairs, and labor for stripping, cleaning, and application."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

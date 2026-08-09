@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is needed after log home renovation?",
+  "description": "Regular maintenance includes annual inspections, cleaning logs, reapplying protective finishes every few years, and ensuring good drainage.",
+  "url": "http://coloradoremodeling.company/faq/what-kind-of-maintenance-is-needed-after-log-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is needed after log home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a log home renovation, regular maintenance is crucial to protect your investment. This typically involves annual inspections for signs of wear, moisture intrusion, or insect activity. Cleaning the logs and reapplying protective finishes or sealants every few years, as recommended by your contractor, is essential to maintain their integrity and appearance. Keeping gutters clean and ensuring proper drainage around the foundation also helps prevent water damage.",
+        "description": "Regular maintenance includes annual inspections, cleaning logs, reapplying protective finishes every few years, and ensuring good drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

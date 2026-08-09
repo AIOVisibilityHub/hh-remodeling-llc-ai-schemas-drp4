@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my log home needs restoration or just preservation?",
+  "description": "Assess for widespread rot, insect damage, or structural issues for restoration; fading or minor deterioration suggests preservation.",
+  "url": "http://coloradoremodeling.company/faq/how-do-i-know-if-my-log-home-needs-restoration-or-just-preservation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my log home needs restoration or just preservation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The need for restoration or preservation depends on the extent of wear and damage to your log home. If you observe widespread rot, significant insect damage, compromised structural integrity, or large gaps in your chinking, restoration is likely necessary. If your logs are generally sound but show signs of fading, minor surface deterioration, or if it's been several years since the last treatment, preservation efforts like cleaning, staining, and sealing would be appropriate. A professional inspection can accurately assess the condition.",
+        "description": "Assess for widespread rot, insect damage, or structural issues for restoration; fading or minor deterioration suggests preservation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

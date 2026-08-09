@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a log cabin restoration project usually take?",
+  "description": "Log cabin restoration duration varies from days to months, depending on the project's scope, from minor repairs to extensive structural work.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-a-log-cabin-restoration-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a log cabin restoration project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a log cabin restoration project depends on the scope of work. Smaller projects, such as re-chinking or re-sealing, might take a few days to a couple of weeks. More extensive restorations involving log replacement, structural repairs, or full exterior refinishing can take several weeks to a few months. HH Remodeling LLC works efficiently while maintaining high-quality standards and will provide an estimated timeline during the planning phase.",
+        "description": "Log cabin restoration duration varies from days to months, depending on the project's scope, from minor repairs to extensive structural work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between log home refinishing and restoring?",
+  "description": "Refinishing addresses appearance and protection, while restoration is a more comprehensive process that includes structural repairs.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-log-home-refinishing-and-restoring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between log home refinishing and restoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refinishing a log home primarily focuses on the exterior appearance and protection, involving cleaning, stripping, staining, and sealing. Restoration, while encompassing refinishing, is a more comprehensive process that can include structural repairs, log replacement, chinking and caulking repair, and addressing issues like rot or insect damage. Restoration aims to bring the log home back to its original condition, or better, addressing both aesthetic and structural concerns.",
+        "description": "Refinishing addresses appearance and protection, while restoration is a more comprehensive process that includes structural repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

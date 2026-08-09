@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of stains are best for log homes?",
+  "description": "Best log home stains include oil-based, water-based, and acrylic, each offering different durability, UV protection, and color choices.",
+  "url": "http://coloradoremodeling.company/faq/what-types-of-stains-are-best-for-log-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of stains are best for log homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right stain for your log home is essential for protection and aesthetics. There are various types, including oil-based, water-based, and acrylic stains. Each offers different levels of durability, UV protection, and color options. Oil-based stains penetrate deeply, offering good protection, while water-based and acrylic stains are often more environmentally friendly and easier to clean. We can help you choose the best stain for your log home in Denver, Centennial, Greenwood Village, or Parker based on your specific needs and the home's exposure.",
+        "description": "Best log home stains include oil-based, water-based, and acrylic, each offering different durability, UV protection, and color choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

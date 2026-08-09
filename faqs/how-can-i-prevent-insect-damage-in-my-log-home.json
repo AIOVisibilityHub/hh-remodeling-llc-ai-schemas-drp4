@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prevent insect damage in my log home?",
+  "description": "Regular inspections, maintaining log finish, addressing moisture, and borate treatments prevent insect damage.",
+  "url": "http://coloradoremodeling.company/faq/how-can-i-prevent-insect-damage-in-my-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prevent insect damage in my log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing insect damage involves regular inspections, maintaining a proper finish on your logs, and addressing any moisture issues promptly. Applying borate treatments can offer long-term protection against wood-boring insects. Keep vegetation trimmed away from the cabin to reduce access for pests.",
+        "description": "Regular inspections, maintaining log finish, addressing moisture, and borate treatments prevent insect damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

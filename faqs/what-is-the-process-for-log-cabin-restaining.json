@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for log cabin restaining?",
+  "description": "Log cabin restaining involves applying new stain to clean, stripped logs, often followed by a sealant for added protection.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-process-for-log-cabin-restaining",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for log cabin restaining?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The log cabin restaining process typically begins after the logs have been thoroughly cleaned and any old finishes have been stripped. Once the surface is clean and dry, a new coat of stain is applied evenly to the logs. This is often followed by a topcoat sealant to provide additional protection against moisture, UV rays, and insect damage. Multiple coats may be applied depending on the type of stain and desired finish, with proper drying time between each application.",
+        "description": "Log cabin restaining involves applying new stain to clean, stripped logs, often followed by a sealant for added protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

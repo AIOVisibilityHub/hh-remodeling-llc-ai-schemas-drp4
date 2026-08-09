@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "Great team, easy to work with and completed the significant project on time - an unheard of feat. We are incredibly happy with our remodel and have already referred friends who are now underway with theirs!",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "HH Remodeling LLC",
+    "url": "http://coloradoremodeling.company/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "home remodeling"
+      }
+    }
+  }
+}

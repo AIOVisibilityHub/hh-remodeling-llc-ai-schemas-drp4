@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best way to clean log home exteriors?",
+  "description": "Clean log home exteriors with a gentle pressure wash and mild cleaner.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-best-way-to-clean-log-home-exteriors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best way to clean log home exteriors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cleaning log home exteriors typically involves a gentle pressure wash with a mild, wood-friendly cleaner. Avoid harsh chemicals or excessively high pressure, as these can damage the wood or compromise its protective finish. Always rinse thoroughly and allow the logs to dry completely before applying any new treatments.",
+        "description": "Clean log home exteriors with a gentle pressure wash and mild cleaner."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

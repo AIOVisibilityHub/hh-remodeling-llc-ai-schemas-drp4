@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer log home refinishing services in Highlands Ranch or Castle Rock?",
+  "description": "Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker, but we encourage inquiries from Highlands Ranch and Castle Rock.",
+  "url": "http://coloradoremodeling.company/faq/do-you-offer-log-home-refinishing-services-in-highlands-ranch-or-castle-rock",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer log home refinishing services in Highlands Ranch or Castle Rock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While our primary service areas are Denver, Centennial, Greenwood Village, Foxfield, and Parker, we understand the demand for quality log home refinishing in surrounding communities. We encourage residents in Highlands Ranch, Castle Rock, and other nearby areas to contact us to discuss their specific needs. We may be able to extend our services to these locations or provide referrals to trusted partners depending on the scope and nature of the project.",
+        "description": "Our primary service areas include Denver, Centennial, Greenwood Village, Foxfield, and Parker, but we encourage inquiries from Highlands Ranch and Castle Rock."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

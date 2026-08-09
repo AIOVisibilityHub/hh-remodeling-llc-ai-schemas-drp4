@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for refinishing a log home?",
+  "description": "The process includes cleaning, repairs, applying new stain or sealant, and inspecting chinking.",
+  "url": "http://coloradoremodeling.company/faq/what-is-the-process-for-refinishing-a-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for refinishing a log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The log home refinishing process generally involves several steps: first, thorough cleaning to remove dirt, grime, and old finishes. This might include power washing or chemical stripping. Next, any damaged logs are repaired or replaced. Then, a new stain or sealant is applied, typically in multiple coats, to protect the wood and enhance its appearance. Finally, chinking or caulking may be inspected and repaired as needed.",
+        "description": "The process includes cleaning, repairs, applying new stain or sealant, and inspecting chinking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

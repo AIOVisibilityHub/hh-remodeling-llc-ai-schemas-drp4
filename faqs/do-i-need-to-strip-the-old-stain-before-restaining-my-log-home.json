@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to strip the old stain before restaining my log home?",
+  "description": "Stripping old stain before restaining depends on the existing finish's condition and the new stain type; it's often recommended for peeling or discolored finish",
+  "url": "http://coloradoremodeling.company/faq/do-i-need-to-strip-the-old-stain-before-restaining-my-log-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to strip the old stain before restaining my log home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need to strip the old stain before restaining your log home depends on the condition of the existing finish and the type of new stain you plan to use. If the old stain is peeling, flaking, or severely discolored, stripping is generally recommended to ensure proper adhesion of the new stain and a uniform appearance. If the old finish is in good condition and compatible with the new stain, a thorough cleaning and light sanding might suffice. A professional assessment can help determine the best approach for your specific situation.",
+        "description": "Stripping old stain before restaining depends on the existing finish's condition and the new stain type; it's often recommended for peeling or discolored finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

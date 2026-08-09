@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does log home refinishing take?",
+  "description": "Log home refinishing typically takes 1-3 weeks, depending on the home's size, condition, and weather, including stripping, drying, sanding, and staining.",
+  "url": "http://coloradoremodeling.company/faq/how-long-does-log-home-refinishing-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does log home refinishing take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a log home refinishing project varies based on the size of the home, its condition, and weather conditions. A typical refinishing project for an average-sized log home in areas like Denver or Parker might take anywhere from one to three weeks. This includes time for stripping, drying, sanding, and applying multiple coats of stain and sealant. We provide a projected timeline after a thorough assessment of your property.",
+        "description": "Log home refinishing typically takes 1-3 weeks, depending on the home's size, condition, and weather, including stripping, drying, sanding, and staining."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

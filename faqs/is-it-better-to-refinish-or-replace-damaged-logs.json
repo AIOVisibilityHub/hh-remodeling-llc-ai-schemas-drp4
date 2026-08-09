@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to refinish or replace damaged logs?",
+  "description": "Refinish minor damage, replace logs with extensive or structural damage. A professional assessment is recommended.",
+  "url": "http://coloradoremodeling.company/faq/is-it-better-to-refinish-or-replace-damaged-logs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to refinish or replace damaged logs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to refinish or replace damaged logs depends on the extent of the damage. If logs have minor surface rot, insect damage, or checking, they can often be repaired and refinished. However, if the damage is structural, extensive, or has compromised the integrity of a log beyond repair, replacement is the safer and more effective option. A professional assessment can determine the best course of action.",
+        "description": "Refinish minor damage, replace logs with extensive or structural damage. A professional assessment is recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

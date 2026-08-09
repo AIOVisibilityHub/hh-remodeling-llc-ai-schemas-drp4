@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I have my log home inspected?",
+  "description": "Log homes should be inspected annually to catch issues early.",
+  "url": "http://coloradoremodeling.company/faq/how-often-should-i-have-my-log-home-inspected",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I have my log home inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Annual inspections are recommended for log homes. This helps identify potential issues early, such as rot, insect infestations, or sealant deterioration, which can prevent more costly repairs down the line. Factors like local climate and the age of the home might influence the frequency of necessary inspections.",
+        "description": "Log homes should be inspected annually to catch issues early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
