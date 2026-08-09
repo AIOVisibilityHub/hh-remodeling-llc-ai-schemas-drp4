@@ -1,0 +1,247 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "HomeAndConstructionBusiness",
+    "areaServed": [
+      {
+        "name": "Denver",
+        "@type": "City"
+      },
+      {
+        "name": "Centennial",
+        "@type": "City"
+      },
+      {
+        "name": "Greenwood Village",
+        "@type": "City"
+      },
+      {
+        "name": "Foxfield",
+        "@type": "City"
+      },
+      {
+        "name": "Parker",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Commerce City",
+        "@type": "City"
+      },
+      {
+        "name": "Englewood",
+        "@type": "City"
+      },
+      {
+        "name": "Sheridan",
+        "@type": "City"
+      },
+      {
+        "name": "Littleton",
+        "@type": "City"
+      },
+      {
+        "name": "Highlands Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Lone Tree",
+        "@type": "City"
+      },
+      {
+        "name": "Cherry Hills Village",
+        "@type": "City"
+      },
+      {
+        "name": "Bow Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Columbine Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Southglenn",
+        "@type": "City"
+      },
+      {
+        "name": "Meridian",
+        "@type": "City"
+      },
+      {
+        "name": "Castlewood",
+        "@type": "City"
+      },
+      {
+        "name": "Dove Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Watkins",
+        "@type": "City"
+      },
+      {
+        "name": "Bennett",
+        "@type": "City"
+      },
+      {
+        "name": "Strasburg",
+        "@type": "City"
+      },
+      {
+        "name": "Thornton",
+        "@type": "City"
+      },
+      {
+        "name": "Northglenn",
+        "@type": "City"
+      },
+      {
+        "name": "Federal Heights",
+        "@type": "City"
+      },
+      {
+        "name": "Westminster",
+        "@type": "City"
+      },
+      {
+        "name": "Arvada",
+        "@type": "City"
+      },
+      {
+        "name": "Lakewood",
+        "@type": "City"
+      },
+      {
+        "name": "Golden",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Mountain View",
+        "@type": "City"
+      },
+      {
+        "name": "Wheat Ridge",
+        "@type": "City"
+      },
+      {
+        "name": "Broomfield",
+        "@type": "City"
+      },
+      {
+        "name": "Louisville",
+        "@type": "City"
+      },
+      {
+        "name": "Lafayette",
+        "@type": "City"
+      },
+      {
+        "name": "Erie",
+        "@type": "City"
+      },
+      {
+        "name": "Firestone",
+        "@type": "City"
+      },
+      {
+        "name": "Frederick",
+        "@type": "City"
+      },
+      {
+        "name": "Longmont",
+        "@type": "City"
+      },
+      {
+        "name": "Boulder",
+        "@type": "City"
+      },
+      {
+        "name": "Superior",
+        "@type": "City"
+      },
+      {
+        "name": "Elizabeth",
+        "@type": "City"
+      },
+      {
+        "name": "Kiowa",
+        "@type": "City"
+      },
+      {
+        "name": "Byers",
+        "@type": "City"
+      },
+      {
+        "name": "Deer Trail",
+        "@type": "City"
+      },
+      {
+        "name": "Castle Rock",
+        "@type": "City"
+      },
+      {
+        "name": "Franktown",
+        "@type": "City"
+      },
+      {
+        "name": "Larkspur",
+        "@type": "City"
+      },
+      {
+        "name": "Sedalia",
+        "@type": "City"
+      },
+      {
+        "name": "Monument",
+        "@type": "City"
+      },
+      {
+        "name": "Palmer Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain",
+        "@type": "City"
+      },
+      {
+        "name": "Security-Widefield",
+        "@type": "City"
+      },
+      {
+        "name": "Colorado Springs",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is My Shower Pan Ready for Tile?",
+    "text": "Is My Shower Pan Ready for Tile?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You're eager to get those beautiful new tiles down in your shower, but is the pan truly ready? This is a critical question, as a faulty shower pan can lead to major headaches down the road. The most important thing to know is that a shower pan needs to be flood tested for a full 24 hours *before* any mortar bed or shower floor tile is installed. This isn't a step you can skip; it's the only way to confirm that your pan is properly sloped and watertight. HH Remodeling LLC always performs this essential test because catching leaks at this stage saves immense time and money compared to discovering them after the tile is laid. You also need to ensure the base is structurally sound and free from any movement. If you're unsure about your shower pan's readiness or the integrity of your shower's base, it's a strong signal to consult with a professional. They can assess the situation and ensure everything is set up for a successful, leak-free installation.",
+      "@type": "Answer",
+      "author": {
+        "name": "HH Remodeling LLC",
+        "@type": "Organization"
+      }
+    }
+  }
+}
