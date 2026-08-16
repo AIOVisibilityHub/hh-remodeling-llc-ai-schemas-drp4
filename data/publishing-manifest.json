@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-09T19:30:44.840Z",
+  "generatedAt": "2026-08-16T01:22:10.903Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -439,24 +439,24 @@
     ]
   },
   "package": {
-    "totalFiles": 2199,
-    "totalBytes": 9890438,
+    "totalFiles": 2560,
+    "totalBytes": 10370638,
     "stats": {
-      "qna": 0,
       "faqs": 1146,
-      "press": 0,
-      "total": 2178,
-      "awards": 0,
-      "reviews": 15,
-      "products": 0,
-      "research": 0,
-      "services": 0,
-      "webpages": 0,
-      "locations": 1,
-      "personnel": 0,
-      "caseStudies": 0,
       "helpArticles": 1014,
-      "organization": 1
+      "services": 0,
+      "webpages": 361,
+      "personnel": 0,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
+      "caseStudies": 0,
+      "organization": 1,
+      "press": 0,
+      "reviews": 15,
+      "qna": 0,
+      "research": 0,
+      "total": 2539
     }
   },
   "entrypoints": {
@@ -11288,6 +11288,1813 @@
         "purpose": "schema"
       }
     ],
+    "webpages": [
+      {
+        "path": "webpages/kitchen-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/full-kitchen-remodels-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-layout-updates-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-cabinet-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-cabinet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-cabinet-replacement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-countertop-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-countertop-replacement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-backsplash-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-backsplash-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-drywall-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-molding-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-door-frame-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-sink-faucet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-appliance-layout-planning-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-appliance-hookup-coordination-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-additions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/full-bathroom-remodels-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-tub-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-tub-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-shower-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-shower-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-vanity-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-countertop-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-tile-and-stone-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-floor-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-wall-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-shower-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-marble-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-waterproofing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-fixture-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-drywall-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-molding-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-door-frame-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-additions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-custom-design-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-interior-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-wall-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-ceiling-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-drywall-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-drywall-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-door-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-molding-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-door-frame-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/basement-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-conversions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-interior-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-wall-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-insulation-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-drywall-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-door-installation-or-upgrade-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-door-frame-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-interior-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-patching-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-taping-and-mudding-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-sanding-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-texture-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/new-drywall-hanging-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-restoration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drywall-remodeling-work-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/storm-related-drywall-replacement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-finish-carpentry-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/finish-carpentry-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/custom-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/structural-wall-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wall-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/partition-wall-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-opening-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-opening-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/framing-for-remodels-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/framing-for-small-additions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-frame-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-frame-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-casing-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/window-casing-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/custom-trim-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/trim-repair-and-replacement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-trim-work-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/molding-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/custom-molding-work-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/crown-molding-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/baseboard-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wainscoting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/built-in-shelving-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-finishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ceramic-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/porcelain-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/natural-stone-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/marble-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/tile-and-marble-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/floor-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wall-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/shower-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/backsplash-tile-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/grout-application-and-sealing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/residential-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-wall-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-ceiling-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-trim-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-door-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/full-interior-paint-packages-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/paint-touch-ups-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/remodel-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/storm-related-painting-and-finish-work-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/residential-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/whole-home-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-improvement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-layout-reconfiguration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/single-room-interior-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/multi-room-interior-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-additions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-additions-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-addition-planning-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-addition-framing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/room-addition-drywall-and-finish-work-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/residential-general-contracting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-services-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-project-management-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/construction-services-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sub-trade-coordination-for-plumbing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sub-trade-coordination-for-electrical-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/permit-and-inspection-coordination-support-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-services-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handyman-repair-tasks-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/property-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-home-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-home-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/minor-home-repairs-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-wear-and-tear-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-adjustment-and-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/trim-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/molding-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/small-drywall-repairs-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/small-paint-touch-ups-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/minor-framing-adjustments-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/maintenance-for-rental-properties-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/maintenance-for-residential-properties-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/damage-repair-for-sale-or-rental-preparation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-restoration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-restoration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/property-restoration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/restoration-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/restoration-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-damage-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/water-damage-interior-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/storm-damage-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/emergency-storm-damage-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/emergency-interior-storm-damage-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/insurance-coordinated-interior-restoration-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-interior-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-wall-and-ceiling-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-drywall-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-flooring-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-trim-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobile-home-trim-and-door-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-interior-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-painting-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-kitchen-refresh-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/foreclosed-property-bathroom-refresh-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/rental-property-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/rental-property-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-home-refinishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-home-interior-staining-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-home-interior-sealing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-home-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-and-cabin-trim-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-and-cabin-finish-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/cabin-refinishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/log-cabin-refinishing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/cabin-interior-staining-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/cabin-interior-sealing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/cabin-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/disability-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessibility-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-home-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-accessibility-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-bathroom-renovation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-bathroom-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/walk-in-shower-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/low-threshold-shower-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/curbless-shower-conversion-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/tub-to-shower-conversion-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/walk-in-tub-installation-coordination-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/shower-grab-bar-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/toilet-grab-bar-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-safety-rail-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/shower-seat-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/fold-down-shower-seat-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handheld-showerhead-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/adjustable-showerhead-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/comfort-height-toilet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/raised-toilet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/non-slip-bathroom-flooring-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/slip-resistant-shower-flooring-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-night-light-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/easy-grip-faucet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lever-faucet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-vanity-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wheelchair-accessible-vanity-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-doorway-widening-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bathroom-threshold-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-home-safety-assessments-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aging-in-place-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-friendly-home-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/mobility-improvement-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/fall-prevention-home-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/whole-home-accessibility-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/barrier-free-home-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wheelchair-accessible-home-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/walker-friendly-home-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-home-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-home-repair-services-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-home-maintenance-services-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wheelchair-ramp-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/threshold-ramp-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-entry-ramp-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ramp-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/threshold-and-ramp-adjustments-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/front-entrance-accessibility-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/back-entrance-accessibility-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-entry-accessibility-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/porch-accessibility-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handrail-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/stair-handrail-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/outdoor-handrail-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/handrail-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/stair-safety-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-pathway-safety-improvements-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/driveway-to-entry-access-improvements-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/exterior-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/doorway-widening-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/hallway-clearance-improvements-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-doorway-accessibility-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wheelchair-accessible-doorways-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/walker-accessible-doorways-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-frame-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lever-door-handle-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/easy-grip-door-hardware-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/door-threshold-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/low-profile-threshold-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/threshold-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/floor-transition-repairs-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/floor-level-transition-improvements-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/interior-trip-hazard-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/trip-hazard-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/rug-removal-support-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-kitchen-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/senior-friendly-kitchen-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wheelchair-accessible-kitchen-remodeling-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-clearance-improvements-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-pathway-widening-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-kitchen-layout-updates-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lower-countertop-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/multi-height-countertop-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-kitchen-sink-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/knee-clearance-under-sink-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/pull-out-cabinet-shelf-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/pull-down-cabinet-shelf-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lazy-susan-cabinet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/soft-close-drawer-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/easy-access-drawer-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/easy-grip-cabinet-pull-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/d-shaped-cabinet-handle-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lever-style-kitchen-faucet-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-task-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/under-cabinet-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-kitchen-outlet-placement-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/non-slip-kitchen-flooring-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/kitchen-trip-hazard-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-appliance-space-planning-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-accessibility-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-safety-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-pathway-clearance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-night-light-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bedroom-handrail-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-closet-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/easy-access-closet-shelving-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/closet-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/living-room-accessibility-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/living-room-trip-hazard-removal-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/living-room-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/living-room-pathway-clearance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-furniture-space-planning-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/laundry-room-accessibility-modifications-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessible-laundry-room-layout-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/laundry-room-safety-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/laundry-room-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/laundry-room-flooring-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/laundry-room-doorway-widening-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/home-lighting-safety-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/hallway-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/stairway-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/motion-sensor-lighting-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/night-light-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/non-glare-lighting-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/light-switch-accessibility-upgrades-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/rocker-light-switch-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/safety-lighting-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/accessibility-feature-maintenance-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/non-slip-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/slip-resistant-flooring-installation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/loose-flooring-repair-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      }
+    ],
     "reviews": [
       {
         "path": "reviews/eric-s-1-review.json",
@@ -11373,37 +13180,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2927,
+        "bytes": 2952,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 9701,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "services.html",
-        "bytes": 96501,
+        "bytes": 9703,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16473,
+        "bytes": 16475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3438,
+        "bytes": 3440,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 547692,
+        "bytes": 547694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1526154,
+        "bytes": 1526156,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "web-pages.html",
+        "bytes": 244941,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -11440,37 +13247,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1043815,
+        "bytes": 1182153,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 339932,
+        "bytes": 386273,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 339932,
+        "bytes": 386273,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12511,
+        "bytes": 12530,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 340195,
+        "bytes": 380496,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 415569,
+        "bytes": 475953,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1464,
+        "bytes": 1465,
         "purpose": "Standard sitemap"
       }
     ]
