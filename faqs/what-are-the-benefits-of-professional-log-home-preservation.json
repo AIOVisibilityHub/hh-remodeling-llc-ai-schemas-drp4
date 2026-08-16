@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of professional log home preservation?",
-  "description": "Benefits include extended lifespan, preventing costly repairs, enhanced curb appeal, and protection from rot, insects, and UV damage.",
   "url": "http://coloradoremodeling.company/faq/what-are-the-benefits-of-professional-log-home-preservation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of professional log home preservation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional log home preservation offers numerous benefits, including extending the lifespan of your home, preventing costly future repairs, and enhancing its curb appeal. Expert preservation techniques protect your logs from rot, insect infestation, and UV damage, maintaining structural integrity and energy efficiency. Regular maintenance by professionals ensures proper application of sealants and finishes, tailored to your log home's specific needs and local climate conditions.",
-        "description": "Benefits include extended lifespan, preventing costly repairs, enhanced curb appeal, and protection from rot, insects, and UV damage."
-      }
-    }
-  ],
+  "name": "What are the benefits of professional log home preservation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional log home preservation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional log home preservation offers numerous benefits, including extending the lifespan of your home, preventing costly future repairs, and enhancing its curb appeal. Expert preservation techniques protect your logs from rot, insect infestation, and UV damage, maintaining structural integrity and energy efficiency. Regular maintenance by professionals ensures proper application of sealants and finishes, tailored to your log home's specific needs and local climate conditions.",
+        "@type": "Answer",
+        "description": "Benefits include extended lifespan, preventing costly repairs, enhanced curb appeal, and protection from rot, insects, and UV damage."
+      }
+    }
+  ],
+  "description": "Benefits include extended lifespan, preventing costly repairs, enhanced curb appeal, and protection from rot, insects, and UV damage."
 }

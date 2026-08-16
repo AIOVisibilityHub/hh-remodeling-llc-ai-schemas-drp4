@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is log home refinishing?",
-  "description": "Log home refinishing restores and protects the exterior of a log home by cleaning, repairing, and applying new finishes.",
   "url": "http://coloradoremodeling.company/faq/what-is-log-home-refinishing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is log home refinishing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Log home refinishing is the process of restoring the exterior of a log home. This typically involves cleaning the logs, stripping old finishes, making repairs to damaged logs, and applying new stains and sealants. The goal is to protect the logs from weather, UV damage, and insects, while also enhancing the home's aesthetic appeal and preserving its structural integrity.",
-        "description": "Log home refinishing restores and protects the exterior of a log home by cleaning, repairing, and applying new finishes."
-      }
-    }
-  ],
+  "name": "What is log home refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is log home refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Log home refinishing is the process of restoring the exterior of a log home. This typically involves cleaning the logs, stripping old finishes, making repairs to damaged logs, and applying new stains and sealants. The goal is to protect the logs from weather, UV damage, and insects, while also enhancing the home's aesthetic appeal and preserving its structural integrity.",
+        "@type": "Answer",
+        "description": "Log home refinishing restores and protects the exterior of a log home by cleaning, repairing, and applying new finishes."
+      }
+    }
+  ],
+  "description": "Log home refinishing restores and protects the exterior of a log home by cleaning, repairing, and applying new finishes."
 }

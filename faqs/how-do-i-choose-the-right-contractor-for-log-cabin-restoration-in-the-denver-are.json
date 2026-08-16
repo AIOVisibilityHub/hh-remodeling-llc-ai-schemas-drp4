@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for log cabin restoration in the Denver area?",
-  "description": "Choose a contractor with specific log home experience, check licensing and insurance, ask for references, and ensure a detailed estimate and process explanation",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-the-right-contractor-for-log-cabin-restoration-in-the-denver-are",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for log cabin restoration in the Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a log cabin restoration contractor in the Denver area, look for companies with specific experience in log home projects. Verify their licensing and insurance. Ask for references and view examples of their previous work. A reputable contractor will conduct a thorough inspection, provide a detailed estimate, and clearly explain the restoration process. HH Remodeling LLC specializes in log home restoration in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
-        "description": "Choose a contractor with specific log home experience, check licensing and insurance, ask for references, and ensure a detailed estimate and process explanation."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for log cabin restoration in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for log cabin restoration in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a log cabin restoration contractor in the Denver area, look for companies with specific experience in log home projects. Verify their licensing and insurance. Ask for references and view examples of their previous work. A reputable contractor will conduct a thorough inspection, provide a detailed estimate, and clearly explain the restoration process. HH Remodeling LLC specializes in log home restoration in Denver, Centennial, Greenwood Village, Foxfield, and Parker.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific log home experience, check licensing and insurance, ask for references, and ensure a detailed estimate and process explanation."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific log home experience, check licensing and insurance, ask for references, and ensure a detailed estimate and process explanation"
 }

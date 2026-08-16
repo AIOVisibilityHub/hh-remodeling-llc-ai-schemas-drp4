@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is needed for the interior of a log home?",
-  "description": "Interior log maintenance includes cleaning, checking for moisture, and maintaining humidity levels.",
   "url": "http://coloradoremodeling.company/faq/what-maintenance-is-needed-for-the-interior-of-a-log-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is needed for the interior of a log home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Interior log home maintenance typically involves dusting and cleaning the logs, checking for any signs of moisture intrusion, and occasionally re-applying interior sealants or finishes if needed. Maintaining proper humidity levels indoors is also important to prevent logs from drying out and cracking.",
-        "description": "Interior log maintenance includes cleaning, checking for moisture, and maintaining humidity levels."
-      }
-    }
-  ],
+  "name": "What maintenance is needed for the interior of a log home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is needed for the interior of a log home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior log home maintenance typically involves dusting and cleaning the logs, checking for any signs of moisture intrusion, and occasionally re-applying interior sealants or finishes if needed. Maintaining proper humidity levels indoors is also important to prevent logs from drying out and cracking.",
+        "@type": "Answer",
+        "description": "Interior log maintenance includes cleaning, checking for moisture, and maintaining humidity levels."
+      }
+    }
+  ],
+  "description": "Interior log maintenance includes cleaning, checking for moisture, and maintaining humidity levels."
 }

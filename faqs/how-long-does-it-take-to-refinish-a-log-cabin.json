@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to refinish a log cabin?",
-  "description": "The time to refinish a log cabin varies from one to several weeks, depending on its size and condition.",
   "url": "http://coloradoremodeling.company/faq/how-long-does-it-take-to-refinish-a-log-cabin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to refinish a log cabin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of log cabin refinishing depends on the size and complexity of the cabin, the weather conditions, and the extent of preparation and repairs required. A typical project can take anywhere from one to several weeks. Larger cabins or those needing significant log repair will naturally take longer. We'll provide a more precise timeline after assessing your cabin.",
-        "description": "The time to refinish a log cabin varies from one to several weeks, depending on its size and condition."
-      }
-    }
-  ],
+  "name": "How long does it take to refinish a log cabin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to refinish a log cabin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of log cabin refinishing depends on the size and complexity of the cabin, the weather conditions, and the extent of preparation and repairs required. A typical project can take anywhere from one to several weeks. Larger cabins or those needing significant log repair will naturally take longer. We'll provide a more precise timeline after assessing your cabin.",
+        "@type": "Answer",
+        "description": "The time to refinish a log cabin varies from one to several weeks, depending on its size and condition."
+      }
+    }
+  ],
+  "description": "The time to refinish a log cabin varies from one to several weeks, depending on its size and condition."
 }

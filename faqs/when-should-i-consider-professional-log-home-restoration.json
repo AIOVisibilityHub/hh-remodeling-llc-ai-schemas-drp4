@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider professional log home restoration?",
-  "description": "Consider professional log home restoration when you observe significant wear, such as wood rot, insect damage, or compromised chinking.",
   "url": "http://coloradoremodeling.company/faq/when-should-i-consider-professional-log-home-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider professional log home restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider professional log home restoration when you notice signs of significant wear, such as widespread wood rot, insect damage, compromised chinking, or severe weathering. These issues can compromise the structural integrity and energy efficiency of your home if left unaddressed. Early intervention can prevent more extensive and costly repairs down the line. HH Remodeling LLC can assess the condition of your log home and recommend the most appropriate restoration plan.",
-        "description": "Consider professional log home restoration when you observe significant wear, such as wood rot, insect damage, or compromised chinking."
-      }
-    }
-  ],
+  "name": "When should I consider professional log home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional log home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional log home restoration when you notice signs of significant wear, such as widespread wood rot, insect damage, compromised chinking, or severe weathering. These issues can compromise the structural integrity and energy efficiency of your home if left unaddressed. Early intervention can prevent more extensive and costly repairs down the line. HH Remodeling LLC can assess the condition of your log home and recommend the most appropriate restoration plan.",
+        "@type": "Answer",
+        "description": "Consider professional log home restoration when you observe significant wear, such as wood rot, insect damage, or compromised chinking."
+      }
+    }
+  ],
+  "description": "Consider professional log home restoration when you observe significant wear, such as wood rot, insect damage, or compromised chinking."
 }

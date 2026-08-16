@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I refinish my log home myself, or should I hire a professional?",
-  "description": "Hiring a professional is often recommended due to the complexity and labor involved, ensuring a proper and lasting finish.",
   "url": "http://coloradoremodeling.company/faq/can-i-refinish-my-log-home-myself-or-should-i-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I refinish my log home myself, or should I hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While it's possible to refinish a log home as a DIY project, it's a labor-intensive and complex task that often requires specialized equipment and expertise. Professionals have the experience to properly assess log condition, select appropriate products, and ensure a thorough and long-lasting finish. Hiring a professional can save time, prevent costly mistakes, and achieve a superior result, especially for larger or older homes.",
-        "description": "Hiring a professional is often recommended due to the complexity and labor involved, ensuring a proper and lasting finish."
-      }
-    }
-  ],
+  "name": "Can I refinish my log home myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I refinish my log home myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to refinish a log home as a DIY project, it's a labor-intensive and complex task that often requires specialized equipment and expertise. Professionals have the experience to properly assess log condition, select appropriate products, and ensure a thorough and long-lasting finish. Hiring a professional can save time, prevent costly mistakes, and achieve a superior result, especially for larger or older homes.",
+        "@type": "Answer",
+        "description": "Hiring a professional is often recommended due to the complexity and labor involved, ensuring a proper and lasting finish."
+      }
+    }
+  ],
+  "description": "Hiring a professional is often recommended due to the complexity and labor involved, ensuring a proper and lasting finish."
 }

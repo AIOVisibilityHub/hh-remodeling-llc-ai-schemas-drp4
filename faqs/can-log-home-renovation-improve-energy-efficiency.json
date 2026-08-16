@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can log home renovation improve energy efficiency?",
-  "description": "Yes, renovation can improve energy efficiency through better insulation, updated windows, and sealing air leaks.",
   "url": "http://coloradoremodeling.company/faq/can-log-home-renovation-improve-energy-efficiency",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can log home renovation improve energy efficiency?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, log home renovation can significantly improve energy efficiency. During a renovation, you can upgrade insulation in walls, roofs, and foundations, and replace old, inefficient windows and doors with energy-efficient models. Re-chinking or re-sealing gaps in the log structure can eliminate air leaks, further reducing heat loss or gain. Addressing moisture issues and improving ventilation also contributes to a more efficient and comfortable home. These improvements can lead to lower utility bills and a reduced environmental footprint.",
-        "description": "Yes, renovation can improve energy efficiency through better insulation, updated windows, and sealing air leaks."
-      }
-    }
-  ],
+  "name": "Can log home renovation improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can log home renovation improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, log home renovation can significantly improve energy efficiency. During a renovation, you can upgrade insulation in walls, roofs, and foundations, and replace old, inefficient windows and doors with energy-efficient models. Re-chinking or re-sealing gaps in the log structure can eliminate air leaks, further reducing heat loss or gain. Addressing moisture issues and improving ventilation also contributes to a more efficient and comfortable home. These improvements can lead to lower utility bills and a reduced environmental footprint.",
+        "@type": "Answer",
+        "description": "Yes, renovation can improve energy efficiency through better insulation, updated windows, and sealing air leaks."
+      }
+    }
+  ],
+  "description": "Yes, renovation can improve energy efficiency through better insulation, updated windows, and sealing air leaks."
 }

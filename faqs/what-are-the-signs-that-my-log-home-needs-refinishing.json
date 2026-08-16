@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the signs that my log home needs refinishing?",
-  "description": "Signs your log home needs refinishing include fading stain, graying logs, water damage, and peeling finishes.",
   "url": "http://coloradoremodeling.company/faq/what-are-the-signs-that-my-log-home-needs-refinishing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the signs that my log home needs refinishing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key signs that your log home needs refinishing include fading or peeling stain, graying logs, visible water damage, and insect activity. You might also notice mold or mildew growth. If water no longer beads on the surface of the logs, it indicates the sealant has failed. Addressing these issues promptly can prevent more extensive and costly repairs later.",
-        "description": "Signs your log home needs refinishing include fading stain, graying logs, water damage, and peeling finishes."
-      }
-    }
-  ],
+  "name": "What are the signs that my log home needs refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my log home needs refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your log home needs refinishing include fading or peeling stain, graying logs, visible water damage, and insect activity. You might also notice mold or mildew growth. If water no longer beads on the surface of the logs, it indicates the sealant has failed. Addressing these issues promptly can prevent more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Signs your log home needs refinishing include fading stain, graying logs, water damage, and peeling finishes."
+      }
+    }
+  ],
+  "description": "Signs your log home needs refinishing include fading stain, graying logs, water damage, and peeling finishes."
 }

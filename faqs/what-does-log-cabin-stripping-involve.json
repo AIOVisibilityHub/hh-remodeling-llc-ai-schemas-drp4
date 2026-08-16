@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does log cabin stripping involve?",
-  "description": "Log cabin stripping removes old finishes from logs using methods like media blasting or chemical strippers to prepare the surface for new stains.",
   "url": "http://coloradoremodeling.company/faq/what-does-log-cabin-stripping-involve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does log cabin stripping involve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Log cabin stripping is the process of removing old, failing finishes from the logs. This can be done using various methods, including media blasting (such as corn cob blasting or glass blasting) or chemical strippers. The goal is to create a clean, bare wood surface that can properly absorb new stains and sealants, ensuring better adhesion and a longer-lasting finish. Proper stripping is crucial for the success of the refinishing project.",
-        "description": "Log cabin stripping removes old finishes from logs using methods like media blasting or chemical strippers to prepare the surface for new stains."
-      }
-    }
-  ],
+  "name": "What does log cabin stripping involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does log cabin stripping involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Log cabin stripping is the process of removing old, failing finishes from the logs. This can be done using various methods, including media blasting (such as corn cob blasting or glass blasting) or chemical strippers. The goal is to create a clean, bare wood surface that can properly absorb new stains and sealants, ensuring better adhesion and a longer-lasting finish. Proper stripping is crucial for the success of the refinishing project.",
+        "@type": "Answer",
+        "description": "Log cabin stripping removes old finishes from logs using methods like media blasting or chemical strippers to prepare the surface for new stains."
+      }
+    }
+  ],
+  "description": "Log cabin stripping removes old finishes from logs using methods like media blasting or chemical strippers to prepare the surface for new stains."
 }

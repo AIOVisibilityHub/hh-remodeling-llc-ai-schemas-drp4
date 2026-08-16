@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for log home restoration in Parker?",
-  "description": "Choose a log home restoration contractor in Parker with specialized experience, a strong portfolio, positive reviews, proper licensing, and clear estimates.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-the-right-contractor-for-log-home-restoration-in-parker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for log home restoration in Parker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a contractor for log home restoration in Parker, look for companies with specific experience in log homes, a strong portfolio of completed projects, and positive client testimonials. Ensure they are licensed and insured, and that they provide detailed estimates and timelines. HH Remodeling LLC specializes in log home restoration and serves the Parker area, offering expertise and transparent communication throughout the project.",
-        "description": "Choose a log home restoration contractor in Parker with specialized experience, a strong portfolio, positive reviews, proper licensing, and clear estimates."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for log home restoration in Parker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for log home restoration in Parker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for log home restoration in Parker, look for companies with specific experience in log homes, a strong portfolio of completed projects, and positive client testimonials. Ensure they are licensed and insured, and that they provide detailed estimates and timelines. HH Remodeling LLC specializes in log home restoration and serves the Parker area, offering expertise and transparent communication throughout the project.",
+        "@type": "Answer",
+        "description": "Choose a log home restoration contractor in Parker with specialized experience, a strong portfolio, positive reviews, proper licensing, and clear estimates."
+      }
+    }
+  ],
+  "description": "Choose a log home restoration contractor in Parker with specialized experience, a strong portfolio, positive reviews, proper licensing, and clear estimates."
 }

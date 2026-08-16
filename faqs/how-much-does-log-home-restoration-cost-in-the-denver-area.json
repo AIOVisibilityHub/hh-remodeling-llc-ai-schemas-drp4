@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does log home restoration cost in the Denver area?",
-  "description": "Costs vary based on home size, damage extent, wood type, and specific services needed. An on-site evaluation provides an accurate estimate.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-log-home-restoration-cost-in-the-denver-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does log home restoration cost in the Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of log home restoration in the Denver area can vary significantly based on several factors. These include the size of your log home, the extent of the damage, the type of wood, and the specific services required (e.g., log replacement, chinking, staining). Minor repairs and preservation might be less expensive than extensive structural restoration. It's best to get a detailed estimate after an on-site evaluation to understand the costs involved for your specific project.",
-        "description": "Costs vary based on home size, damage extent, wood type, and specific services needed. An on-site evaluation provides an accurate estimate."
-      }
-    }
-  ],
+  "name": "How much does log home restoration cost in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does log home restoration cost in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of log home restoration in the Denver area can vary significantly based on several factors. These include the size of your log home, the extent of the damage, the type of wood, and the specific services required (e.g., log replacement, chinking, staining). Minor repairs and preservation might be less expensive than extensive structural restoration. It's best to get a detailed estimate after an on-site evaluation to understand the costs involved for your specific project.",
+        "@type": "Answer",
+        "description": "Costs vary based on home size, damage extent, wood type, and specific services needed. An on-site evaluation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on home size, damage extent, wood type, and specific services needed. An on-site evaluation provides an accurate estimate."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of professional log cabin refinishing services?",
-  "description": "Professional log cabin refinishing provides expertise, specialized equipment, and quality materials for a durable, aesthetically pleasing, and long-lasting resu",
   "url": "http://coloradoremodeling.company/faq/what-are-the-benefits-of-professional-log-cabin-refinishing-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of professional log cabin refinishing services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional log cabin refinishing services offer expertise, specialized equipment, and high-quality materials that ensure a durable and aesthetically pleasing result. Professionals understand the specific needs of log homes, from proper stripping techniques to selecting the right stains and sealants for different climates. This prevents common DIY mistakes, prolongs the life of your logs, and enhances your home's value, saving you time and potential future repair costs.",
-        "description": "Professional log cabin refinishing provides expertise, specialized equipment, and quality materials for a durable, aesthetically pleasing, and long-lasting result."
-      }
-    }
-  ],
+  "name": "What are the benefits of professional log cabin refinishing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional log cabin refinishing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional log cabin refinishing services offer expertise, specialized equipment, and high-quality materials that ensure a durable and aesthetically pleasing result. Professionals understand the specific needs of log homes, from proper stripping techniques to selecting the right stains and sealants for different climates. This prevents common DIY mistakes, prolongs the life of your logs, and enhances your home's value, saving you time and potential future repair costs.",
+        "@type": "Answer",
+        "description": "Professional log cabin refinishing provides expertise, specialized equipment, and quality materials for a durable, aesthetically pleasing, and long-lasting result."
+      }
+    }
+  ],
+  "description": "Professional log cabin refinishing provides expertise, specialized equipment, and quality materials for a durable, aesthetically pleasing, and long-lasting resu"
 }

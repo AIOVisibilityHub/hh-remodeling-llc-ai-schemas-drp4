@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a log home restoration company?",
-  "description": "Look for experience, licensing, insurance, references, a portfolio, detailed estimates, and good communication.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-look-for-when-choosing-a-log-home-restoration-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a log home restoration company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a log home restoration company, look for experience specifically with log structures, as they require specialized knowledge. Check for proper licensing and insurance to ensure they are qualified and protected. Request references and review their portfolio of past projects to assess the quality of their work. A reputable company will also provide a detailed written estimate outlining the scope of work, materials, and timeline. Effective communication and a clear understanding of your needs are also crucial.",
-        "description": "Look for experience, licensing, insurance, references, a portfolio, detailed estimates, and good communication."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a log home restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a log home restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a log home restoration company, look for experience specifically with log structures, as they require specialized knowledge. Check for proper licensing and insurance to ensure they are qualified and protected. Request references and review their portfolio of past projects to assess the quality of their work. A reputable company will also provide a detailed written estimate outlining the scope of work, materials, and timeline. Effective communication and a clear understanding of your needs are also crucial.",
+        "@type": "Answer",
+        "description": "Look for experience, licensing, insurance, references, a portfolio, detailed estimates, and good communication."
+      }
+    }
+  ],
+  "description": "Look for experience, licensing, insurance, references, a portfolio, detailed estimates, and good communication."
 }

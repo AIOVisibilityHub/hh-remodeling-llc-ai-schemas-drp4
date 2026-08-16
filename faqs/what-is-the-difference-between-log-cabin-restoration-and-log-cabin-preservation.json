@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between log cabin restoration and log cabin preservation?",
-  "description": "Preservation maintains a log cabin's current state, while restoration repairs existing damage to bring it back to its original condition.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-difference-between-log-cabin-restoration-and-log-cabin-preservation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between log cabin restoration and log cabin preservation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Log cabin preservation focuses on maintaining the current condition of your log home to prevent future damage. This often involves routine cleaning, sealing, and pest control. Restoration, on the other hand, addresses existing damage to bring the log cabin back to its original or an improved state. This can include repairing or replacing damaged logs, chinking repair, and extensive cleaning and refinishing. HH Remodeling LLC offers both services to extend the life and beauty of your log home.",
-        "description": "Preservation maintains a log cabin's current state, while restoration repairs existing damage to bring it back to its original condition."
-      }
-    }
-  ],
+  "name": "What is the difference between log cabin restoration and log cabin preservation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between log cabin restoration and log cabin preservation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Log cabin preservation focuses on maintaining the current condition of your log home to prevent future damage. This often involves routine cleaning, sealing, and pest control. Restoration, on the other hand, addresses existing damage to bring the log cabin back to its original or an improved state. This can include repairing or replacing damaged logs, chinking repair, and extensive cleaning and refinishing. HH Remodeling LLC offers both services to extend the life and beauty of your log home.",
+        "@type": "Answer",
+        "description": "Preservation maintains a log cabin's current state, while restoration repairs existing damage to bring it back to its original condition."
+      }
+    }
+  ],
+  "description": "Preservation maintains a log cabin's current state, while restoration repairs existing damage to bring it back to its original condition."
 }

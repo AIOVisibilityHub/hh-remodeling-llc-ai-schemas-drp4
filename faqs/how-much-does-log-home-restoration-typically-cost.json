@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does log home restoration typically cost?",
-  "description": "Log home restoration costs vary greatly depending on damage and scope of work.",
   "url": "http://coloradoremodeling.company/faq/how-much-does-log-home-restoration-typically-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does log home restoration typically cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of log home restoration varies widely based on the extent of damage, the size of the home, the types of repairs needed (e.g., log replacement, media blasting, chinking), and the materials used. Minor repairs might be a few hundred dollars, while extensive restorations can run into thousands. Get a detailed quote for accurate pricing.",
-        "description": "Log home restoration costs vary greatly depending on damage and scope of work."
-      }
-    }
-  ],
+  "name": "How much does log home restoration typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does log home restoration typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of log home restoration varies widely based on the extent of damage, the size of the home, the types of repairs needed (e.g., log replacement, media blasting, chinking), and the materials used. Minor repairs might be a few hundred dollars, while extensive restorations can run into thousands. Get a detailed quote for accurate pricing.",
+        "@type": "Answer",
+        "description": "Log home restoration costs vary greatly depending on damage and scope of work."
+      }
+    }
+  ],
+  "description": "Log home restoration costs vary greatly depending on damage and scope of work."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose a contractor for log home refinishing?",
-  "description": "Choose a contractor with log home experience, good references, proper licensing and insurance, and a detailed estimate.",
   "url": "http://coloradoremodeling.company/faq/how-do-i-choose-a-contractor-for-log-home-refinishing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose a contractor for log home refinishing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a contractor for log home refinishing, look for experience specifically with log homes, as they require specialized knowledge. Ask for references and view their portfolio of previous projects. Ensure they are properly licensed and insured in your area, and request a detailed, written estimate that outlines the scope of work, materials, and timeline. Communication and clarity are key.",
-        "description": "Choose a contractor with log home experience, good references, proper licensing and insurance, and a detailed estimate."
-      }
-    }
-  ],
+  "name": "How do I choose a contractor for log home refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for log home refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for log home refinishing, look for experience specifically with log homes, as they require specialized knowledge. Ask for references and view their portfolio of previous projects. Ensure they are properly licensed and insured in your area, and request a detailed, written estimate that outlines the scope of work, materials, and timeline. Communication and clarity are key.",
+        "@type": "Answer",
+        "description": "Choose a contractor with log home experience, good references, proper licensing and insurance, and a detailed estimate."
+      }
+    }
+  ],
+  "description": "Choose a contractor with log home experience, good references, proper licensing and insurance, and a detailed estimate."
 }

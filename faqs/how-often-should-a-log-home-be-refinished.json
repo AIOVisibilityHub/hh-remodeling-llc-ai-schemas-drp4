@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should a log home be refinished?",
-  "description": "Log homes in Colorado typically need refinishing every 3-7 years, depending on sun exposure and finish quality.",
   "url": "http://coloradoremodeling.company/faq/how-often-should-a-log-home-be-refinished",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should a log home be refinished?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The frequency of log home refinishing depends on several factors, including climate, sun exposure, and the quality of the original stain and sealant. In Colorado, with its intense sun, log homes often require refinishing every 3-7 years. Homes with more shade or higher quality finishes might go longer, while those with significant sun exposure may need it more frequently. Regular inspections can help determine the optimal schedule.",
-        "description": "Log homes in Colorado typically need refinishing every 3-7 years, depending on sun exposure and finish quality."
-      }
-    }
-  ],
+  "name": "How often should a log home be refinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a log home be refinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of log home refinishing depends on several factors, including climate, sun exposure, and the quality of the original stain and sealant. In Colorado, with its intense sun, log homes often require refinishing every 3-7 years. Homes with more shade or higher quality finishes might go longer, while those with significant sun exposure may need it more frequently. Regular inspections can help determine the optimal schedule.",
+        "@type": "Answer",
+        "description": "Log homes in Colorado typically need refinishing every 3-7 years, depending on sun exposure and finish quality."
+      }
+    }
+  ],
+  "description": "Log homes in Colorado typically need refinishing every 3-7 years, depending on sun exposure and finish quality."
 }

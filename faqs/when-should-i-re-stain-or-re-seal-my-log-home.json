@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I re-stain or re-seal my log home?",
-  "description": "Re-stain or re-seal your log home every 3-7 years, or when the finish shows signs of wear.",
   "url": "http://coloradoremodeling.company/faq/when-should-i-re-stain-or-re-seal-my-log-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I re-stain or re-seal my log home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The need to re-stain or re-seal depends on the type of finish, exposure to elements, and the condition of the existing coating. Generally, most log homes require re-staining or re-sealing every 3-7 years. Look for signs like fading, cracking, peeling, or water not beading on the surface as indicators.",
-        "description": "Re-stain or re-seal your log home every 3-7 years, or when the finish shows signs of wear."
-      }
-    }
-  ],
+  "name": "When should I re-stain or re-seal my log home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I re-stain or re-seal my log home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The need to re-stain or re-seal depends on the type of finish, exposure to elements, and the condition of the existing coating. Generally, most log homes require re-staining or re-sealing every 3-7 years. Look for signs like fading, cracking, peeling, or water not beading on the surface as indicators.",
+        "@type": "Answer",
+        "description": "Re-stain or re-seal your log home every 3-7 years, or when the finish shows signs of wear."
+      }
+    }
+  ],
+  "description": "Re-stain or re-seal your log home every 3-7 years, or when the finish shows signs of wear."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in the log cabin restoration process?",
-  "description": "The process includes inspection, cleaning, repairing/replacing logs, chinking repair, and applying a new protective finish.",
   "url": "http://coloradoremodeling.company/faq/what-is-involved-in-the-log-cabin-restoration-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in the log cabin restoration process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The log cabin restoration process typically begins with a thorough inspection to identify all areas of concern. This is followed by cleaning to remove dirt, mildew, and old finishes. Damaged logs may be repaired or replaced. Chinking and caulking are often inspected and repaired to ensure a weather-tight seal. Finally, a new protective finish is applied to protect the logs from moisture, UV radiation, and insects. The specific steps can vary depending on the condition of the cabin.",
-        "description": "The process includes inspection, cleaning, repairing/replacing logs, chinking repair, and applying a new protective finish."
-      }
-    }
-  ],
+  "name": "What is involved in the log cabin restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the log cabin restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The log cabin restoration process typically begins with a thorough inspection to identify all areas of concern. This is followed by cleaning to remove dirt, mildew, and old finishes. Damaged logs may be repaired or replaced. Chinking and caulking are often inspected and repaired to ensure a weather-tight seal. Finally, a new protective finish is applied to protect the logs from moisture, UV radiation, and insects. The specific steps can vary depending on the condition of the cabin.",
+        "@type": "Answer",
+        "description": "The process includes inspection, cleaning, repairing/replacing logs, chinking repair, and applying a new protective finish."
+      }
+    }
+  ],
+  "description": "The process includes inspection, cleaning, repairing/replacing logs, chinking repair, and applying a new protective finish."
 }

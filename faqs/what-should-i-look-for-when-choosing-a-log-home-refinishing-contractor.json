@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a log home refinishing contractor?",
-  "description": "Look for experienced, insured, and licensed contractors with good references, and who provide clear proposals.",
   "url": "http://coloradoremodeling.company/faq/what-should-i-look-for-when-choosing-a-log-home-refinishing-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a log home refinishing contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a log home refinishing contractor, look for experience specifically with log homes, as this specialty work requires unique skills. Verify they are insured and licensed. Ask for references and view examples of their past work. A reputable contractor will provide a detailed proposal, clearly outlining the scope of work, materials to be used, and a timeline. Communication and transparency are key.",
-        "description": "Look for experienced, insured, and licensed contractors with good references, and who provide clear proposals."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a log home refinishing contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a log home refinishing contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a log home refinishing contractor, look for experience specifically with log homes, as this specialty work requires unique skills. Verify they are insured and licensed. Ask for references and view examples of their past work. A reputable contractor will provide a detailed proposal, clearly outlining the scope of work, materials to be used, and a timeline. Communication and transparency are key.",
+        "@type": "Answer",
+        "description": "Look for experienced, insured, and licensed contractors with good references, and who provide clear proposals."
+      }
+    }
+  ],
+  "description": "Look for experienced, insured, and licensed contractors with good references, and who provide clear proposals."
 }

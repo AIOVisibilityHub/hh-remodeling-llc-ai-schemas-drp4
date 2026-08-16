@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost of log home refinishing in the Denver area?",
-  "description": "Cost varies based on home size, condition, existing finish, and new materials. Get a detailed estimate.",
   "url": "http://coloradoremodeling.company/faq/what-is-the-typical-cost-of-log-home-refinishing-in-the-denver-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost of log home refinishing in the Denver area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of log home refinishing in the Denver area varies widely based on the size of the home, its current condition, the type of existing finish, and the new materials chosen. Factors like accessibility, the amount of repair work needed, and the specific products used all influence the final price. It's best to get a detailed estimate for your specific property to understand the potential investment.",
-        "description": "Cost varies based on home size, condition, existing finish, and new materials. Get a detailed estimate."
-      }
-    }
-  ],
+  "name": "What is the typical cost of log home refinishing in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of log home refinishing in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of log home refinishing in the Denver area varies widely based on the size of the home, its current condition, the type of existing finish, and the new materials chosen. Factors like accessibility, the amount of repair work needed, and the specific products used all influence the final price. It's best to get a detailed estimate for your specific property to understand the potential investment.",
+        "@type": "Answer",
+        "description": "Cost varies based on home size, condition, existing finish, and new materials. Get a detailed estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on home size, condition, existing finish, and new materials. Get a detailed estimate."
 }

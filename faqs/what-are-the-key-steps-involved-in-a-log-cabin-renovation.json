@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the key steps involved in a log cabin renovation?",
-  "description": "Key steps include assessment, planning, permitting, structural work, installations, and finishing touches.",
   "url": "http://coloradoremodeling.company/faq/what-are-the-key-steps-involved-in-a-log-cabin-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the key steps involved in a log cabin renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Log cabin renovation can encompass various improvements beyond restoration. Key steps often include assessing the current condition and identifying areas for improvement, such as updating kitchens or bathrooms, adding extensions, or improving insulation. The process typically involves design planning, obtaining necessary permits, preparing the site, performing structural modifications if needed, installing new fixtures or finishes, and finally, comprehensive cleaning and finishing touches. Specific steps will vary based on the renovation goals.",
-        "description": "Key steps include assessment, planning, permitting, structural work, installations, and finishing touches."
-      }
-    }
-  ],
+  "name": "What are the key steps involved in a log cabin renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in a log cabin renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Log cabin renovation can encompass various improvements beyond restoration. Key steps often include assessing the current condition and identifying areas for improvement, such as updating kitchens or bathrooms, adding extensions, or improving insulation. The process typically involves design planning, obtaining necessary permits, preparing the site, performing structural modifications if needed, installing new fixtures or finishes, and finally, comprehensive cleaning and finishing touches. Specific steps will vary based on the renovation goals.",
+        "@type": "Answer",
+        "description": "Key steps include assessment, planning, permitting, structural work, installations, and finishing touches."
+      }
+    }
+  ],
+  "description": "Key steps include assessment, planning, permitting, structural work, installations, and finishing touches."
 }

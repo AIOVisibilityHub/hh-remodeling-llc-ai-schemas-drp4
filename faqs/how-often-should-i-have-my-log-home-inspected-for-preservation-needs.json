@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I have my log home inspected for preservation needs?",
-  "description": "Professional inspections every 3-5 years are recommended to identify preservation needs early.",
   "url": "http://coloradoremodeling.company/faq/how-often-should-i-have-my-log-home-inspected-for-preservation-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I have my log home inspected for preservation needs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally recommended to have your log home professionally inspected every 3 to 5 years for preservation needs. This regular inspection helps identify potential issues like fading finishes, minor chinking cracks, or early signs of insect activity or moisture intrusion before they escalate into major problems. For newer log homes, or after significant weather events, more frequent visual inspections by the homeowner are also beneficial to catch any immediate concerns.",
-        "description": "Professional inspections every 3-5 years are recommended to identify preservation needs early."
-      }
-    }
-  ],
+  "name": "How often should I have my log home inspected for preservation needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my log home inspected for preservation needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your log home professionally inspected every 3 to 5 years for preservation needs. This regular inspection helps identify potential issues like fading finishes, minor chinking cracks, or early signs of insect activity or moisture intrusion before they escalate into major problems. For newer log homes, or after significant weather events, more frequent visual inspections by the homeowner are also beneficial to catch any immediate concerns.",
+        "@type": "Answer",
+        "description": "Professional inspections every 3-5 years are recommended to identify preservation needs early."
+      }
+    }
+  ],
+  "description": "Professional inspections every 3-5 years are recommended to identify preservation needs early."
 }

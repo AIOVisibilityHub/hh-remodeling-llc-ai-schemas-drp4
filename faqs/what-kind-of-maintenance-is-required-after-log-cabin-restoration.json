@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of maintenance is required after log cabin restoration?",
-  "description": "Post-restoration maintenance includes annual inspections, regular cleaning, and reapplication of sealants or stains every few years.",
   "url": "http://coloradoremodeling.company/faq/what-kind-of-maintenance-is-required-after-log-cabin-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of maintenance is required after log cabin restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After log cabin restoration, ongoing maintenance is crucial to protect your investment and prolong the life of your home. This typically includes annual inspections for signs of wear or damage, regular cleaning to prevent mold and mildew growth, and reapplication of sealants or stains every few years as recommended. HH Remodeling LLC can advise on a personalized maintenance schedule to keep your log home in excellent condition.",
-        "description": "Post-restoration maintenance includes annual inspections, regular cleaning, and reapplication of sealants or stains every few years."
-      }
-    }
-  ],
+  "name": "What kind of maintenance is required after log cabin restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required after log cabin restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After log cabin restoration, ongoing maintenance is crucial to protect your investment and prolong the life of your home. This typically includes annual inspections for signs of wear or damage, regular cleaning to prevent mold and mildew growth, and reapplication of sealants or stains every few years as recommended. HH Remodeling LLC can advise on a personalized maintenance schedule to keep your log home in excellent condition.",
+        "@type": "Answer",
+        "description": "Post-restoration maintenance includes annual inspections, regular cleaning, and reapplication of sealants or stains every few years."
+      }
+    }
+  ],
+  "description": "Post-restoration maintenance includes annual inspections, regular cleaning, and reapplication of sealants or stains every few years."
 }

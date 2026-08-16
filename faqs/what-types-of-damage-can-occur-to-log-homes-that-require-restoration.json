@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damage can occur to log homes that require restoration?",
-  "description": "Common damage includes wood rot, insect infestations, UV degradation, water infiltration, and structural issues.",
   "url": "http://coloradoremodeling.company/faq/what-types-of-damage-can-occur-to-log-homes-that-require-restoration",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damage can occur to log homes that require restoration?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Log homes can suffer from various types of damage that necessitate restoration. Common issues include wood rot, often caused by prolonged moisture exposure or poor drainage, and insect infestations from pests like carpenter bees or termites. UV radiation can degrade log finishes, leading to checking and cracking. Water infiltration through compromised chinking or sealants can also cause interior damage and mold growth. Structural issues due to settling or improper construction may also require restoration.",
-        "description": "Common damage includes wood rot, insect infestations, UV degradation, water infiltration, and structural issues."
-      }
-    }
-  ],
+  "name": "What types of damage can occur to log homes that require restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can occur to log homes that require restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Log homes can suffer from various types of damage that necessitate restoration. Common issues include wood rot, often caused by prolonged moisture exposure or poor drainage, and insect infestations from pests like carpenter bees or termites. UV radiation can degrade log finishes, leading to checking and cracking. Water infiltration through compromised chinking or sealants can also cause interior damage and mold growth. Structural issues due to settling or improper construction may also require restoration.",
+        "@type": "Answer",
+        "description": "Common damage includes wood rot, insect infestations, UV degradation, water infiltration, and structural issues."
+      }
+    }
+  ],
+  "description": "Common damage includes wood rot, insect infestations, UV degradation, water infiltration, and structural issues."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is professional log home refinishing important?",
-  "description": "Professional log home refinishing ensures proper protection, extends home longevity, and avoids costly mistakes by utilizing expert knowledge and equipment.",
   "url": "http://coloradoremodeling.company/faq/why-is-professional-log-home-refinishing-important",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is professional log home refinishing important?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional log home refinishing is important because it ensures the proper protection and longevity of your investment. Experts have the knowledge and specialized equipment to correctly assess log condition, safely remove old finishes, perform necessary repairs, and apply new coatings that adhere properly and offer maximum defense against UV rays, moisture, and pests. Attempting a DIY refinish without proper experience can lead to costly mistakes, inadequate protection, and a shorter lifespan for your home's exterior. Professional services also save you time and effort.",
-        "description": "Professional log home refinishing ensures proper protection, extends home longevity, and avoids costly mistakes by utilizing expert knowledge and equipment."
-      }
-    }
-  ],
+  "name": "Why is professional log home refinishing important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is professional log home refinishing important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional log home refinishing is important because it ensures the proper protection and longevity of your investment. Experts have the knowledge and specialized equipment to correctly assess log condition, safely remove old finishes, perform necessary repairs, and apply new coatings that adhere properly and offer maximum defense against UV rays, moisture, and pests. Attempting a DIY refinish without proper experience can lead to costly mistakes, inadequate protection, and a shorter lifespan for your home's exterior. Professional services also save you time and effort.",
+        "@type": "Answer",
+        "description": "Professional log home refinishing ensures proper protection, extends home longevity, and avoids costly mistakes by utilizing expert knowledge and equipment."
+      }
+    }
+  ],
+  "description": "Professional log home refinishing ensures proper protection, extends home longevity, and avoids costly mistakes by utilizing expert knowledge and equipment."
 }
