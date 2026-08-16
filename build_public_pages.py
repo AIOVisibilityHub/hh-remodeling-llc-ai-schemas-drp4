@@ -532,21 +532,48 @@ def build_webpages():
             source_path = os.path.join(root, filename).replace('\\', '/')
             html_path = source_path if filename.endswith('.html') else source_path[:-5] + '.html'
             title = filename.rsplit('.', 1)[0].replace('-', ' ').replace('_', ' ').title()
+            desc = ''
+            body = ''
+            services = []
+            places = []
             if filename.endswith('.json'):
                 try:
                     with open(source_path, 'r', encoding='utf-8') as f:
                         item = json.load(f)
                     title = _first(item.get('name'), item.get('headline')) or title
                     desc = _first(item.get('description'), item.get('abstract'))
+                    main = item.get('mainContentOfPage') or {}
+                    body = main.get('text') or item.get('articleBody') or item.get('text') or ''
+                    for m in (item.get('mentions') or []):
+                        nm = re.sub(r'(?:\s*Base)+$', '', str(m.get('name') or '')).strip()
+                        if not nm:
+                            continue
+                        if m.get('@type') == 'Service':
+                            if nm not in services: services.append(nm)
+                        else:
+                            if nm not in places: places.append(nm)
                 except Exception:
-                    desc = ''
-            else:
-                desc = ''
-            cards.append(f'<article class="card"><h2><a href="{esc(html_path)}">{esc(title)}</a></h2>{"<p>" + esc(desc) + "</p>" if desc else ""}<p><a href="{esc(html_path)}">Read page &rarr;</a></p></article>')
+                    pass
+            paras = ''.join(
+                f'<p>{esc(re.sub(r"(?:\s*Base)+$", "", p.strip()))}</p>'
+                for p in re.split(r'\n{2,}', body or desc or '') if p.strip()
+            )
+            extra = ''
+            if services:
+                extra += f'<p><strong>Related services:</strong> {esc(", ".join(services))}</p>'
+            if places:
+                extra += f'<p><strong>Locations served:</strong> {esc(", ".join(places))}</p>'
+            lead = f'<p><strong>{esc(desc)}</strong></p>' if desc and desc != body else ''
+            cards.append(
+                f'<article class="card"><h2><a href="{esc(html_path)}">{esc(title)}</a></h2>'
+                f'{lead}{paras}{extra}'
+                f'<p><a href="{esc(html_path)}">Read full page &rarr;</a></p></article>'
+            )
     if not cards:
         print(f'  \u23ed web-pages.html skipped (no webpage data)')
         return
     write_page('web-pages.html', 'Web Pages', f'<p>{len(cards)} topical web pages available.</p>' + ''.join(cards), f'Topical web pages from {BIZ}.')
+
 
 
 

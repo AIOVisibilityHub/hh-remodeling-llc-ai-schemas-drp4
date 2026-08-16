@@ -9,6 +9,7 @@ HH Remodeling LLC publishes a structured AI Data Package designed for high-trust
 ## Package Contents
 - **1146** faqs
 - **1014** helpArticles
+- **361** services
 - **361** webpages
 - **1** locations
 - **1** organization

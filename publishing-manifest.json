@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-16T19:34:16.648Z",
+  "generatedAt": "2026-08-16T19:56:05.774Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -439,12 +439,12 @@
     ]
   },
   "package": {
-    "totalFiles": 2560,
-    "totalBytes": 10370638,
+    "totalFiles": 2922,
+    "totalBytes": 15227856,
     "stats": {
       "faqs": 1146,
       "helpArticles": 1014,
-      "services": 0,
+      "services": 361,
       "webpages": 361,
       "personnel": 0,
       "products": 0,
@@ -456,7 +456,7 @@
       "reviews": 15,
       "qna": 0,
       "research": 0,
-      "total": 2539
+      "total": 2900
     }
   },
   "entrypoints": {
@@ -13095,6 +13095,1813 @@
         "purpose": "webpage"
       }
     ],
+    "services": [
+      {
+        "path": "services/kitchen-remodeling-service.json",
+        "bytes": 3682,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/full-kitchen-remodels-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-renovation-service.json",
+        "bytes": 3682,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-upgrades-service.json",
+        "bytes": 2586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-layout-updates-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-cabinet-removal-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-cabinet-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-cabinet-replacement-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-countertop-installation-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-countertop-replacement-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-backsplash-installation-service.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-backsplash-tile-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-flooring-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-drywall-installation-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-drywall-repair-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-painting-service.json",
+        "bytes": 2586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-trim-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-molding-installation-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-door-frame-repair-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-finish-carpentry-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-tile-installation-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-sink-and-faucet-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-appliance-layout-planning-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-appliance-hookup-coordination-service.json",
+        "bytes": 2649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-additions-service.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-remodeling-service.json",
+        "bytes": 2604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/full-bathroom-remodels-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-renovation-service.json",
+        "bytes": 2595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-upgrades-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-tub-removal-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-tub-installation-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-shower-removal-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-shower-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-vanity-installation-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-countertop-installation-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-tile-installation-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-tile-and-stone-installation-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-floor-tile-installation-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-wall-tile-installation-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-shower-tile-installation-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-marble-installation-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-waterproofing-service.json",
+        "bytes": 2604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-fixture-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-flooring-installation-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-drywall-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-drywall-repair-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-painting-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-trim-installation-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-molding-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-door-frame-repair-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-finish-carpentry-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-additions-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-remodeling-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-custom-design-service.json",
+        "bytes": 2604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-renovation-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-finishing-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-interior-finishing-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-wall-framing-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-ceiling-framing-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-drywall-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-drywall-repair-service.json",
+        "bytes": 3697,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-drywall-finishing-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-door-installation-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-flooring-installation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-tile-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-trim-installation-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-molding-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-door-frame-installation-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-finish-carpentry-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/basement-painting-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-remodeling-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-conversions-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-renovation-service.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-interior-upgrades-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-wall-framing-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-insulation-installation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-drywall-installation-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-drywall-repair-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-door-installation-or-upgrade-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-door-frame-repair-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-flooring-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-tile-installation-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-trim-installation-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-finish-carpentry-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-interior-finishing-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-painting-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-installation-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-repair-service.json",
+        "bytes": 2580,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-patching-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-finishing-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-taping-and-mudding-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-sanding-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-texture-repair-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-drywall-hanging-service.json",
+        "bytes": 2595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-restoration-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drywall-remodeling-work-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/storm-related-drywall-replacement-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/finish-carpentry-service.json",
+        "bytes": 2595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-finish-carpentry-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/finish-carpentry-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-framing-service.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structural-wall-framing-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-framing-service.json",
+        "bytes": 3676,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wall-framing-service.json",
+        "bytes": 2583,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/partition-wall-framing-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-opening-framing-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-opening-framing-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/framing-for-remodels-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/framing-for-small-additions-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-frame-installation-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-frame-repair-service.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-casing-installation-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/window-casing-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trim-installation-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-trim-installation-service.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trim-repair-and-replacement-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-trim-work-service.json",
+        "bytes": 3682,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/molding-installation-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-molding-work-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/crown-molding-installation-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/baseboard-installation-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wainscoting-installation-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/built-in-shelving-installation-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-finishing-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ceramic-tile-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/porcelain-tile-installation-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/natural-stone-tile-installation-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/marble-tile-installation-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/tile-and-marble-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/floor-tile-installation-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wall-tile-installation-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/shower-tile-installation-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/backsplash-tile-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/grout-application-and-sealing-service.json",
+        "bytes": 2634,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/residential-painting-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-painting-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-wall-painting-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-ceiling-painting-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-trim-painting-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-door-painting-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/full-interior-paint-packages-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/paint-touch-ups-service.json",
+        "bytes": 2583,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/remodel-painting-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/storm-related-painting-and-finish-work-service.json",
+        "bytes": 2652,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/residential-remodeling-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-remodeling-service.json",
+        "bytes": 2592,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/whole-home-remodeling-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-renovation-service.json",
+        "bytes": 2583,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-improvement-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-remodeling-service.json",
+        "bytes": 2595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-renovation-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-layout-reconfiguration-service.json",
+        "bytes": 2640,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/single-room-interior-renovation-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multi-room-interior-renovation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-remodeling-service.json",
+        "bytes": 3682,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-renovation-service.json",
+        "bytes": 2583,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-upgrades-service.json",
+        "bytes": 3679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-additions-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-additions-service.json",
+        "bytes": 3670,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-addition-planning-service.json",
+        "bytes": 2604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-addition-framing-service.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/room-addition-drywall-and-finish-work-service.json",
+        "bytes": 2649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/residential-general-contracting-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/general-contractor-services-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/general-contractor-project-management-service.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/construction-services-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sub-trade-coordination-for-plumbing-service.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sub-trade-coordination-for-electrical-service.json",
+        "bytes": 2649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/permit-and-inspection-coordination-support-service.json",
+        "bytes": 3754,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/handyman-services-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/handyman-repair-tasks-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-maintenance-service.json",
+        "bytes": 2586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/property-maintenance-service.json",
+        "bytes": 3697,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-repair-service.json",
+        "bytes": 2571,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/general-home-repair-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-home-repair-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/minor-home-repairs-service.json",
+        "bytes": 3682,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-wear-and-tear-repair-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-adjustment-and-repair-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trim-repair-service.json",
+        "bytes": 2571,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/molding-repair-service.json",
+        "bytes": 3670,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/small-drywall-repairs-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/small-paint-touch-ups-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/minor-framing-adjustments-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/maintenance-for-rental-properties-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/maintenance-for-residential-properties-service.json",
+        "bytes": 2652,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/damage-repair-for-sale-or-rental-preparation-service.json",
+        "bytes": 3760,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-restoration-service.json",
+        "bytes": 2595,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-restoration-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/property-restoration-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/restoration-remodeling-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/restoration-maintenance-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-damage-repair-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/water-damage-interior-repair-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/storm-damage-repair-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/emergency-storm-damage-repair-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/emergency-interior-storm-damage-repair-service.json",
+        "bytes": 3751,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/insurance-coordinated-interior-restoration-service.json",
+        "bytes": 2664,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-remodeling-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-repair-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-interior-repair-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-wall-and-ceiling-repair-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-drywall-repair-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-flooring-repair-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-painting-service.json",
+        "bytes": 3688,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-trim-repair-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobile-home-trim-and-door-repair-service.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-remodeling-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-repair-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-renovation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-interior-repair-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-painting-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-flooring-installation-service.json",
+        "bytes": 3751,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-kitchen-refresh-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreclosed-property-bathroom-refresh-service.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-property-repair-service.json",
+        "bytes": 2604,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-property-remodeling-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-home-refinishing-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-home-interior-staining-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-home-interior-sealing-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-home-maintenance-service.json",
+        "bytes": 3697,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-and-cabin-trim-repair-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-and-cabin-finish-upgrades-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cabin-refinishing-service.json",
+        "bytes": 2598,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/log-cabin-refinishing-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cabin-interior-staining-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cabin-interior-sealing-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cabin-maintenance-service.json",
+        "bytes": 2589,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/disability-remodeling-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessibility-remodeling-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-home-modifications-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-accessibility-remodeling-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-bathroom-renovation-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-bathroom-modifications-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/walk-in-shower-installation-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/low-threshold-shower-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/curbless-shower-conversion-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/tub-to-shower-conversion-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/walk-in-tub-installation-coordination-service.json",
+        "bytes": 3748,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/shower-grab-bar-installation-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/toilet-grab-bar-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-safety-rail-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/shower-seat-installation-service.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fold-down-shower-seat-installation-service.json",
+        "bytes": 2640,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/handheld-showerhead-installation-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/adjustable-showerhead-installation-service.json",
+        "bytes": 2640,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/comfort-height-toilet-installation-service.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/raised-toilet-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/non-slip-bathroom-flooring-service.json",
+        "bytes": 3706,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-resistant-shower-flooring-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-lighting-upgrades-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-night-light-installation-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/easy-grip-faucet-installation-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lever-faucet-installation-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-vanity-installation-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wheelchair-accessible-vanity-installation-service.json",
+        "bytes": 2661,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-doorway-widening-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-threshold-removal-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-home-safety-assessments-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/aging-in-place-remodeling-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-friendly-home-remodeling-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/mobility-improvement-remodeling-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fall-prevention-home-modifications-service.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/whole-home-accessibility-upgrades-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/barrier-free-home-modifications-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wheelchair-accessible-home-modifications-service.json",
+        "bytes": 2667,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/walker-friendly-home-modifications-service.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-home-maintenance-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-home-repair-services-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-home-maintenance-services-service.json",
+        "bytes": 2634,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wheelchair-ramp-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/threshold-ramp-installation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-entry-ramp-installation-service.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ramp-repair-service.json",
+        "bytes": 2571,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/threshold-and-ramp-adjustments-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/front-entrance-accessibility-upgrades-service.json",
+        "bytes": 2649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/back-entrance-accessibility-upgrades-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-entry-accessibility-upgrades-service.json",
+        "bytes": 2652,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/porch-accessibility-modifications-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/handrail-installation-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/stair-handrail-installation-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/outdoor-handrail-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/handrail-repair-service.json",
+        "bytes": 3673,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/stair-safety-upgrades-service.json",
+        "bytes": 2610,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-pathway-safety-improvements-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/driveway-to-entry-access-improvements-service.json",
+        "bytes": 2649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/exterior-lighting-installation-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/doorway-widening-service.json",
+        "bytes": 2586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hallway-clearance-improvements-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-doorway-accessibility-modifications-service.json",
+        "bytes": 2679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wheelchair-accessible-doorways-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/walker-accessible-doorways-service.json",
+        "bytes": 2616,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-frame-modifications-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lever-door-handle-installation-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/easy-grip-door-hardware-installation-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/door-threshold-removal-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/low-profile-threshold-installation-service.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/threshold-repair-service.json",
+        "bytes": 2586,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/floor-transition-repairs-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/floor-level-transition-improvements-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/interior-trip-hazard-removal-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trip-hazard-repair-service.json",
+        "bytes": 2601,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rug-removal-support-service.json",
+        "bytes": 3685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-kitchen-remodeling-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/senior-friendly-kitchen-remodeling-service.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wheelchair-accessible-kitchen-remodeling-service.json",
+        "bytes": 2658,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-clearance-improvements-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-pathway-widening-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-kitchen-layout-updates-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lower-countertop-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multi-height-countertop-installation-service.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-kitchen-sink-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knee-clearance-under-sink-installation-service.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pull-out-cabinet-shelf-installation-service.json",
+        "bytes": 2652,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pull-down-cabinet-shelf-installation-service.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lazy-susan-cabinet-installation-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/soft-close-drawer-installation-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/easy-access-drawer-installation-service.json",
+        "bytes": 2631,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/easy-grip-cabinet-pull-installation-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/d-shaped-cabinet-handle-installation-service.json",
+        "bytes": 2655,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lever-style-kitchen-faucet-installation-service.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-task-lighting-installation-service.json",
+        "bytes": 2640,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/under-cabinet-lighting-installation-service.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-lighting-upgrades-service.json",
+        "bytes": 2613,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-kitchen-outlet-placement-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/non-slip-kitchen-flooring-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-trip-hazard-removal-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-appliance-space-planning-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-accessibility-modifications-service.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-safety-upgrades-service.json",
+        "bytes": 2607,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-pathway-clearance-service.json",
+        "bytes": 3703,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-lighting-upgrades-service.json",
+        "bytes": 2622,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-night-light-installation-service.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bedroom-handrail-installation-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-closet-modifications-service.json",
+        "bytes": 3730,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/easy-access-closet-shelving-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/closet-lighting-installation-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-room-accessibility-modifications-service.json",
+        "bytes": 2664,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-room-trip-hazard-removal-service.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-room-lighting-upgrades-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-room-pathway-clearance-service.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-furniture-space-planning-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/laundry-room-accessibility-modifications-service.json",
+        "bytes": 3748,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessible-laundry-room-layout-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/laundry-room-safety-upgrades-service.json",
+        "bytes": 3712,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/laundry-room-lighting-upgrades-service.json",
+        "bytes": 2628,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/laundry-room-flooring-upgrades-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/laundry-room-doorway-widening-service.json",
+        "bytes": 2625,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-lighting-safety-upgrades-service.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hallway-lighting-installation-service.json",
+        "bytes": 2634,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/stairway-lighting-installation-service.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motion-sensor-lighting-installation-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/night-light-installation-service.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/non-glare-lighting-upgrades-service.json",
+        "bytes": 2619,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/light-switch-accessibility-upgrades-service.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rocker-light-switch-installation-service.json",
+        "bytes": 2643,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/safety-lighting-repair-service.json",
+        "bytes": 3694,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessibility-feature-maintenance-service.json",
+        "bytes": 2637,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/non-slip-flooring-installation-service.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-resistant-flooring-installation-service.json",
+        "bytes": 2646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/loose-flooring-repair-service.json",
+        "bytes": 3691,
+        "purpose": "schema"
+      }
+    ],
     "reviews": [
       {
         "path": "reviews/eric-s-1-review.json",
@@ -13180,37 +14987,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2952,
+        "bytes": 3011,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 9703,
+        "bytes": 9740,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 2035624,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16475,
+        "bytes": 16512,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3440,
+        "bytes": 3477,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 547694,
+        "bytes": 547731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1526156,
+        "bytes": 1863904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 244941,
+        "bytes": 1241413,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13247,37 +15059,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1182153,
+        "bytes": 1326197,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 386273,
+        "bytes": 433814,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 386273,
+        "bytes": 433814,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12530,
+        "bytes": 12549,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 380496,
+        "bytes": 423396,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 475953,
+        "bytes": 537920,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1465,
+        "bytes": 1601,
         "purpose": "Standard sitemap"
       }
     ]
