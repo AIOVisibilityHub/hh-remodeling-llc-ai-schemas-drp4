@@ -146,6 +146,7 @@ def sanitize_vertical(text):
 # ═══════════════════════════════════════
 PAGES = [('index.html','Home'),('about.html','About'),('services.html','Services'),
          ('reviews.html','Reviews'),('faqs.html','FAQs'),('articles.html','Articles'),
+         ('web-pages.html','Web Pages'),
          ('awards.html','Awards'),('contact.html','Contact')]
 
 # Track which pages will be built (pre-scanned for data)
@@ -159,6 +160,8 @@ def _prescan_pages():
         BUILT_PAGES.add('faqs.html')
     if os.path.isdir('help') and (glob.glob('help/**/*.json', recursive=True) or glob.glob('help/**/*.md', recursive=True)):
         BUILT_PAGES.add('articles.html')
+    if os.path.isdir('webpages') and (glob.glob('webpages/**/*.json', recursive=True) or glob.glob('webpages/**/*.html', recursive=True)):
+        BUILT_PAGES.add('web-pages.html')
 
     BUILT_PAGES.add('contact.html')  # always built (has fallback content)
     if os.path.isdir('services') and glob.glob('services/**/*.json', recursive=True):
@@ -227,6 +230,7 @@ def build_index():
         ('Reviews', 'reviews.html'),
         ('FAQs', 'faqs.html'),
         ('Articles', 'articles.html'),
+        ('Web Pages', 'web-pages.html'),
         ('Awards', 'awards.html'),
         ('Contact Us', 'contact.html'),
     ]
@@ -501,21 +505,48 @@ def build_help():
                     elif line.startswith('# '): html_lines.append(f'<h2>{esc(line[2:])}</h2>')
                     elif line.startswith(('- ','* ')): html_lines.append(f'<p>\u2022 {esc(line[2:])}</p>')
                     elif line.strip(): html_lines.append(f'<p>{esc(line)}</p>')
-                cards.append(f'<div class="card"><h2>{esc(title)}</h2>{"".join(html_lines)}</div>')
+                article_id = 'article-' + re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')[:72]
+                cards.append(f'<article class="card" id="{esc(article_id)}"><h2><a href="#{esc(article_id)}">{esc(title)}</a></h2>{"".join(html_lines)}<p><a href="#{esc(article_id)}">Article link</a></p></article>')
 
     # Also try JSON
     for h in load_json('help/**/*.json') or load_json('help/*.json'):
         if not isinstance(h, dict): continue
         title = _first(h.get('headline'), h.get('name'))
-        desc = _first(h.get('description'))
+        desc = _first(h.get('articleBody'), h.get('text'), h.get('description'))
         if not title: continue
-        cards.append(f'<div class="card"><h3>{esc(title)}</h3><p>{esc(desc)}</p></div>')
+        article_id = 'article-' + re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')[:72]
+        cards.append(f'<article class="card" id="{esc(article_id)}"><h2><a href="#{esc(article_id)}">{esc(title)}</a></h2><p>{esc(desc)}</p><p><a href="#{esc(article_id)}">Article link</a></p></article>')
 
     if not cards:
         print(f'  \u23ed articles.html skipped (no articles data)')
         return
     content = ''.join(cards)
     write_page('articles.html', 'Articles', f'<p>{len(cards)} articles available.</p>' + content, f'Articles and guides from {BIZ}.')
+
+def build_webpages():
+    cards = []
+    for root, dirs, files in os.walk('webpages') if os.path.isdir('webpages') else []:
+        for filename in sorted(files):
+            if not filename.endswith(('.json', '.html')):
+                continue
+            source_path = os.path.join(root, filename).replace('\\', '/')
+            html_path = source_path if filename.endswith('.html') else source_path[:-5] + '.html'
+            title = filename.rsplit('.', 1)[0].replace('-', ' ').replace('_', ' ').title()
+            if filename.endswith('.json'):
+                try:
+                    with open(source_path, 'r', encoding='utf-8') as f:
+                        item = json.load(f)
+                    title = _first(item.get('name'), item.get('headline')) or title
+                    desc = _first(item.get('description'), item.get('abstract'))
+                except Exception:
+                    desc = ''
+            else:
+                desc = ''
+            cards.append(f'<article class="card"><h2><a href="{esc(html_path)}">{esc(title)}</a></h2>{"<p>" + esc(desc) + "</p>" if desc else ""}<p><a href="{esc(html_path)}">Read page &rarr;</a></p></article>')
+    if not cards:
+        print(f'  \u23ed web-pages.html skipped (no webpage data)')
+        return
+    write_page('web-pages.html', 'Web Pages', f'<p>{len(cards)} topical web pages available.</p>' + ''.join(cards), f'Topical web pages from {BIZ}.')
 
 
 
@@ -628,6 +659,7 @@ if __name__ == '__main__':
         ('awards.html', build_awards),
         ('faqs.html', build_faqs),
         ('articles.html', build_help),
+        ('web-pages.html', build_webpages),
         ('contact.html', build_contact),
         ('index.html', build_index),
     ]
