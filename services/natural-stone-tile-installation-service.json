@@ -1,237 +1,237 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HomeAndConstructionBusiness",
-  "name": "Natural Stone Tile Installation",
-  "description": "HH Remodeling LLC provides Natural Stone Tile Installation in Denver, Centennial, Greenwood Village. Abraham Becerra is the owner and hands-on general/finish contractor behind HH Remodeling LLC, a residential remodeling company based in Aurora, Colorado and serving the greater Denver area. Founded in 2017 and listed as a BBB Accredited Business with an A+ rating, HH Remodeling specializes in full-scope kitchen and bathroom renovations, basement and garage remodels, and detailed interior finish work including custom framing, drywall installation and repair, tile and marble installation, finish carpentry, molding, and interior painting. Operating as a small, owner-operated business, Abraham acts as both the principal contact and on-site lead for many projects, coordinating sub-trades for plumbing and electrical while his crew focuses on carpentry, tile, drywall, and paint. In addition to standard home improvements and room additions, the company provides handyman and home repair services, mobile home repair, disability and accessibility modifications, foreclosed property rehab, log and cabin refinishing, and storm-damage restoration support, positioning itself as a single point of contact for most interior remodeling and repair needs at reasonable prices.",
-  "serviceType": "Natural Stone Tile Installation",
-  "provider": {
-    "@type": "HomeAndConstructionBusiness",
-    "name": "HH Remodeling LLC",
-    "url": "http://coloradoremodeling.company",
-    "telephone": "303-505-0866"
-  },
   "url": "http://coloradoremodeling.company",
-  "telephone": "303-505-0866",
+  "name": "Natural Stone Tile Installation",
+  "@type": "HomeAndConstructionBusiness",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Denver"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://coloradoremodeling.company",
+    "name": "HH Remodeling LLC",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "303-505-0866"
+  },
+  "telephone": "303-505-0866",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Denver"
+      "name": "Denver",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Centennial"
+      "name": "Centennial",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Greenwood Village"
+      "name": "Greenwood Village",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Foxfield"
+      "name": "Foxfield",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Parker"
+      "name": "Parker",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Glendale"
+      "name": "Glendale",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Commerce City"
+      "name": "Commerce City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Englewood"
+      "name": "Englewood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sheridan"
+      "name": "Sheridan",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Littleton"
+      "name": "Littleton",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Highlands Ranch"
+      "name": "Highlands Ranch",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lone Tree"
+      "name": "Lone Tree",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Cherry Hills Village"
+      "name": "Cherry Hills Village",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bow Mar"
+      "name": "Bow Mar",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Columbine Valley"
+      "name": "Columbine Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Southglenn"
+      "name": "Southglenn",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Meridian"
+      "name": "Meridian",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Castlewood"
+      "name": "Castlewood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Dove Valley"
+      "name": "Dove Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Watkins"
+      "name": "Watkins",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bennett"
+      "name": "Bennett",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Strasburg"
+      "name": "Strasburg",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Thornton"
+      "name": "Thornton",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Northglenn"
+      "name": "Northglenn",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Federal Heights"
+      "name": "Federal Heights",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Westminster"
+      "name": "Westminster",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Arvada"
+      "name": "Arvada",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lakewood"
+      "name": "Lakewood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Golden"
+      "name": "Golden",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Edgewater"
+      "name": "Edgewater",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Mountain View"
+      "name": "Mountain View",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Wheat Ridge"
+      "name": "Wheat Ridge",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Broomfield"
+      "name": "Broomfield",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Louisville"
+      "name": "Louisville",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lafayette"
+      "name": "Lafayette",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Erie"
+      "name": "Erie",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Firestone"
+      "name": "Firestone",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Frederick"
+      "name": "Frederick",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Longmont"
+      "name": "Longmont",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Boulder"
+      "name": "Boulder",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Superior"
+      "name": "Superior",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Elizabeth"
+      "name": "Elizabeth",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Kiowa"
+      "name": "Kiowa",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Byers"
+      "name": "Byers",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Deer Trail"
+      "name": "Deer Trail",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Castle Rock"
+      "name": "Castle Rock",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Franktown"
+      "name": "Franktown",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Larkspur"
+      "name": "Larkspur",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sedalia"
+      "name": "Sedalia",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Monument"
+      "name": "Monument",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Palmer Lake"
+      "name": "Palmer Lake",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Fountain"
+      "name": "Fountain",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Security-Widefield"
+      "name": "Security-Widefield",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Colorado Springs"
+      "name": "Colorado Springs",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "HH Remodeling LLC provides Natural Stone Tile Installation in Denver, Centennial, Greenwood Village. Abraham Becerra is the owner and hands-on general/finish contractor behind HH Remodeling LLC, a residential remodeling company based in Aurora, Colorado and serving the greater Denver area. Founded in 2017 and listed as a BBB Accredited Business with an A+ rating, HH Remodeling specializes in full-scope kitchen and bathroom renovations, basement and garage remodels, and detailed interior finish work including custom framing, drywall installation and repair, tile and marble installation, finish carpentry, molding, and interior painting. Operating as a small, owner-operated business, Abraham acts as both the principal contact and on-site lead for many projects, coordinating sub-trades for plumbing and electrical while his crew focuses on carpentry, tile, drywall, and paint. In addition to standard home improvements and room additions, the company provides handyman and home repair services, mobile home repair, disability and accessibility modifications, foreclosed property rehab, log and cabin refinishing, and storm-damage restoration support, positioning itself as a single point of contact for most interior remodeling and repair needs at reasonable prices.",
+  "serviceType": "Natural Stone Tile Installation"
 }
