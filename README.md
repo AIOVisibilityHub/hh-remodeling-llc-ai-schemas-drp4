@@ -10,13 +10,14 @@ Canonical AI Data Package for HH Remodeling LLC.
 
 ## Stats
 - 1146 faqs
-- 1014 helpArticles
+- 15 reviews
 - 361 services
 - 361 webpages
 - 1 locations
+- 1 personnel
+- 1014 helpArticles
 - 1 organization
-- 15 reviews
-- **2900** total
+- **2901** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] HH Remodeling LLC — canonical website — http://coloradoremodeling.company
@@ -407,6 +408,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 
 ### Locations (1)
 - [`locations/hh-remodeling-llc-office.json`](./locations/hh-remodeling-llc-office.json) — schema
+
+### Team Members (1)
+- [`team/abraham-becerra-profile.json`](./team/abraham-becerra-profile.json) — schema
 
 ### FAQs (1146)
 - [`faqs/are-your-handymen-licensed-and-insured-in-denver.json`](./faqs/are-your-handymen-licensed-and-insured-in-denver.json) — schema
@@ -2935,7 +2939,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`webpages/window-casing-installation-hub.json`](./webpages/window-casing-installation-hub.json) — webpage
 - [`webpages/window-opening-framing-hub.json`](./webpages/window-opening-framing-hub.json) — webpage
 
-### Public Pages (8)
+### Public Pages (9)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
@@ -2943,6 +2947,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
+- [`team-members.html`](./team-members.html) — LLM-optimized public page
 - [`web-pages.html`](./web-pages.html) — LLM-optimized public page
 
 ### Reviews (16)

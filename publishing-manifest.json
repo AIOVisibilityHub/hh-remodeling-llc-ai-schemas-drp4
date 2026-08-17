@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-16T19:56:05.774Z",
+  "generatedAt": "2026-08-17T22:50:30.831Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -439,24 +439,24 @@
     ]
   },
   "package": {
-    "totalFiles": 2922,
-    "totalBytes": 15227856,
+    "totalFiles": 2924,
+    "totalBytes": 15243534,
     "stats": {
+      "qna": 0,
       "faqs": 1146,
-      "helpArticles": 1014,
+      "press": 0,
+      "total": 2901,
+      "awards": 0,
+      "reviews": 15,
+      "products": 0,
+      "research": 0,
       "services": 361,
       "webpages": 361,
-      "personnel": 0,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 1,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 15,
-      "qna": 0,
-      "research": 0,
-      "total": 2900
+      "helpArticles": 1014,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -14902,6 +14902,13 @@
         "purpose": "schema"
       }
     ],
+    "team": [
+      {
+        "path": "team/abraham-becerra-profile.json",
+        "bytes": 2599,
+        "purpose": "schema"
+      }
+    ],
     "reviews": [
       {
         "path": "reviews/eric-s-1-review.json",
@@ -14987,42 +14994,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 3011,
+        "bytes": 3080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 9740,
+        "bytes": 13892,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 2035624,
+        "bytes": 2035669,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16512,
+        "bytes": 16557,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3477,
+        "bytes": 3522,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 547731,
+        "bytes": 547776,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1863904,
+        "bytes": 1863949,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 6354,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 1241413,
+        "bytes": 1241458,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -15059,37 +15071,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1326197,
+        "bytes": 1327236,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 433814,
+        "bytes": 434085,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 433814,
+        "bytes": 434085,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12549,
+        "bytes": 12567,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 423396,
+        "bytes": 423595,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 537920,
+        "bytes": 538216,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1601,
+        "bytes": 1741,
         "purpose": "Standard sitemap"
       }
     ]
