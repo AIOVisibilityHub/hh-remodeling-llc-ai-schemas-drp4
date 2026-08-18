@@ -10,14 +10,14 @@ Canonical AI Data Package for HH Remodeling LLC.
 
 ## Stats
 - 1146 faqs
-- 15 reviews
+- 1040 helpArticles
 - 361 services
 - 361 webpages
-- 1 locations
 - 1 personnel
-- 1014 helpArticles
+- 1 locations
 - 1 organization
-- **2901** total
+- 15 reviews
+- **2927** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] HH Remodeling LLC — canonical website — http://coloradoremodeling.company
@@ -1560,10 +1560,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-the-new-drywall-match-the-rest-of-the-wall-after-storm-damage-repair.json`](./faqs/will-the-new-drywall-match-the-rest-of-the-wall-after-storm-damage-repair.json) — schema
 - [`faqs/will-widening-one-doorway-make-a-real-difference-for-accessibility.json`](./faqs/will-widening-one-doorway-make-a-real-difference-for-accessibility.json) — schema
 
-### Help Articles (1014)
+### Help Articles (1040)
 - [`help/5-common-mistakes-to-avoid-during-bathroom-fixture-installation.json`](./help/5-common-mistakes-to-avoid-during-bathroom-fixture-installation.json) — schema
 - [`help/5-mistakes-people-make-with-diy-door-repairs.json`](./help/5-mistakes-people-make-with-diy-door-repairs.json) — schema
 - [`help/5-mistakes-to-avoid-when-installing-pull-out-cabinet-shelves.json`](./help/5-mistakes-to-avoid-when-installing-pull-out-cabinet-shelves.json) — schema
+- [`help/6-signs-your-bathroom-is-ready-for-a-remodel-in-colorado-springs.json`](./help/6-signs-your-bathroom-is-ready-for-a-remodel-in-colorado-springs.json) — schema
+- [`help/7-signs-you-need-a-kitchen-remodel-in-denver.json`](./help/7-signs-you-need-a-kitchen-remodel-in-denver.json) — schema
+- [`help/8-signs-you-need-an-interior-renovation-in-boulder.json`](./help/8-signs-you-need-an-interior-renovation-in-boulder.json) — schema
 - [`help/a-simple-plan-for-home-upkeep.json`](./help/a-simple-plan-for-home-upkeep.json) — schema
 - [`help/achieving-a-seamless-look-with-kitchen-finish-carpentry.json`](./help/achieving-a-seamless-look-with-kitchen-finish-carpentry.json) — schema
 - [`help/achieving-easy-access-in-your-drawers-a-quick-guide.json`](./help/achieving-easy-access-in-your-drawers-a-quick-guide.json) — schema
@@ -1693,6 +1696,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/common-drywall-remodeling-mistakes-to-steer-clear-of.json`](./help/common-drywall-remodeling-mistakes-to-steer-clear-of.json) — schema
 - [`help/common-errors-to-avoid-when-installing-an-accessible-kitchen-sink.json`](./help/common-errors-to-avoid-when-installing-an-accessible-kitchen-sink.json) — schema
 - [`help/common-finish-carpentry-mistakes-to-avoid.json`](./help/common-finish-carpentry-mistakes-to-avoid.json) — schema
+- [`help/common-garage-conversion-missteps-that-can-sink-your-project.json`](./help/common-garage-conversion-missteps-that-can-sink-your-project.json) — schema
 - [`help/common-missteps-in-front-entrance-accessibility-projects.json`](./help/common-missteps-in-front-entrance-accessibility-projects.json) — schema
 - [`help/common-mistakes-in-basement-finish-carpentry-and-how-to-avoid-them.json`](./help/common-mistakes-in-basement-finish-carpentry-and-how-to-avoid-them.json) — schema
 - [`help/common-mistakes-in-foreclosed-property-flooring-installation.json`](./help/common-mistakes-in-foreclosed-property-flooring-installation.json) — schema
@@ -1752,6 +1756,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/diy-interior-framing-when-to-call-in-a-pro.json`](./help/diy-interior-framing-when-to-call-in-a-pro.json) — schema
 - [`help/do-i-need-a-permit-to-finish-my-garage.json`](./help/do-i-need-a-permit-to-finish-my-garage.json) — schema
 - [`help/do-i-need-a-pro-for-structural-wall-framing.json`](./help/do-i-need-a-pro-for-structural-wall-framing.json) — schema
+- [`help/do-i-really-need-a-professional-for-my-bathroom-remodel-myths-vs-facts.json`](./help/do-i-really-need-a-professional-for-my-bathroom-remodel-myths-vs-facts.json) — schema
 - [`help/do-you-need-a-pro-for-your-basement-door-frame-installation.json`](./help/do-you-need-a-pro-for-your-basement-door-frame-installation.json) — schema
 - [`help/do-you-need-to-seal-grout-and-when.json`](./help/do-you-need-to-seal-grout-and-when.json) — schema
 - [`help/do-you-really-need-a-pro-for-your-bathroom-floor-tile.json`](./help/do-you-really-need-a-pro-for-your-bathroom-floor-tile.json) — schema
@@ -1790,6 +1795,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/getting-your-wall-frame-right-what-to-look-for-in-a-pro.json`](./help/getting-your-wall-frame-right-what-to-look-for-in-a-pro.json) — schema
 - [`help/getting-your-walls-ready-a-drywall-hanging-checklist.json`](./help/getting-your-walls-ready-a-drywall-hanging-checklist.json) — schema
 - [`help/help-my-grout-lines-look-terrible.json`](./help/help-my-grout-lines-look-terrible.json) — schema
+- [`help/how-can-i-protect-my-log-home-from-the-elements.json`](./help/how-can-i-protect-my-log-home-from-the-elements.json) — schema
 - [`help/how-can-i-tell-if-my-bathroom-waterproofing-failed.json`](./help/how-can-i-tell-if-my-bathroom-waterproofing-failed.json) — schema
 - [`help/how-do-i-get-my-porcelain-tile-to-last.json`](./help/how-do-i-get-my-porcelain-tile-to-last.json) — schema
 - [`help/how-high-should-my-bathroom-safety-rails-be.json`](./help/how-high-should-my-bathroom-safety-rails-be.json) — schema
@@ -1857,10 +1863,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-identify-hidden-trip-hazards-in-your-home.json`](./help/how-to-identify-hidden-trip-hazards-in-your-home.json) — schema
 - [`help/how-to-install-a-basement-door-frame-in-a-tricky-opening.json`](./help/how-to-install-a-basement-door-frame-in-a-tricky-opening.json) — schema
 - [`help/how-to-keep-your-finished-basement-dry-and-cozy.json`](./help/how-to-keep-your-finished-basement-dry-and-cozy.json) — schema
+- [`help/how-to-maintain-your-log-cabin-s-beauty.json`](./help/how-to-maintain-your-log-cabin-s-beauty.json) — schema
 - [`help/how-to-make-a-porch-accessible-for-a-wheelchair.json`](./help/how-to-make-a-porch-accessible-for-a-wheelchair.json) — schema
 - [`help/how-to-make-small-paint-touch-ups-blend-seamlessly.json`](./help/how-to-make-small-paint-touch-ups-blend-seamlessly.json) — schema
 - [`help/how-to-make-your-bathroom-more-accessible-with-a-wider-doorway.json`](./help/how-to-make-your-bathroom-more-accessible-with-a-wider-doorway.json) — schema
 - [`help/how-to-make-your-home-safe-for-a-walker.json`](./help/how-to-make-your-home-safe-for-a-walker.json) — schema
+- [`help/how-to-make-your-kitchen-work-for-you-as-you-get-older.json`](./help/how-to-make-your-kitchen-work-for-you-as-you-get-older.json) — schema
 - [`help/how-to-make-your-light-switches-more-accessible.json`](./help/how-to-make-your-light-switches-more-accessible.json) — schema
 - [`help/how-to-make-your-living-room-more-accessible-for-everyone.json`](./help/how-to-make-your-living-room-more-accessible-for-everyone.json) — schema
 - [`help/how-to-maximize-your-rental-property-remodel-roi.json`](./help/how-to-maximize-your-rental-property-remodel-roi.json) — schema
@@ -1884,6 +1892,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-plan-kitchen-outlet-placement-for-wheelchair-users.json`](./help/how-to-plan-kitchen-outlet-placement-for-wheelchair-users.json) — schema
 - [`help/how-to-plan-the-perfect-stairway-lighting-layout.json`](./help/how-to-plan-the-perfect-stairway-lighting-layout.json) — schema
 - [`help/how-to-plan-your-accessible-closet-renovation.json`](./help/how-to-plan-your-accessible-closet-renovation.json) — schema
+- [`help/how-to-plan-your-adu-project-smoothly.json`](./help/how-to-plan-your-adu-project-smoothly.json) — schema
 - [`help/how-to-plan-your-bathroom-remodel-timeline-effectively.json`](./help/how-to-plan-your-bathroom-remodel-timeline-effectively.json) — schema
 - [`help/how-to-plan-your-bathroom-vanity-upgrade.json`](./help/how-to-plan-your-bathroom-vanity-upgrade.json) — schema
 - [`help/how-to-plan-your-bedroom-for-better-flow-and-safety.json`](./help/how-to-plan-your-bedroom-for-better-flow-and-safety.json) — schema
@@ -1942,6 +1951,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/is-hh-remodeling-llc-the-right-choice-for-your-plumbing-coordination-needs.json`](./help/is-hh-remodeling-llc-the-right-choice-for-your-plumbing-coordination-needs.json) — schema
 - [`help/is-interior-sealing-necessary-for-log-homes.json`](./help/is-interior-sealing-necessary-for-log-homes.json) — schema
 - [`help/is-my-bathroom-drywall-damage-just-cosmetic.json`](./help/is-my-bathroom-drywall-damage-just-cosmetic.json) — schema
+- [`help/is-my-bathroom-too-small-for-a-real-remodel-myths-vs-facts.json`](./help/is-my-bathroom-too-small-for-a-real-remodel-myths-vs-facts.json) — schema
 - [`help/is-my-home-really-safe-for-aging-in-place.json`](./help/is-my-home-really-safe-for-aging-in-place.json) — schema
 - [`help/is-my-shower-pan-ready-for-tile.json`](./help/is-my-shower-pan-ready-for-tile.json) — schema
 - [`help/is-non-slip-flooring-worth-the-investment-for-your-family.json`](./help/is-non-slip-flooring-worth-the-investment-for-your-family.json) — schema
@@ -1957,6 +1967,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/is-your-garage-entry-truly-accessible-a-quick-checklist.json`](./help/is-your-garage-entry-truly-accessible-a-quick-checklist.json) — schema
 - [`help/is-your-handheld-showerhead-underperforming.json`](./help/is-your-handheld-showerhead-underperforming.json) — schema
 - [`help/is-your-interior-wall-project-going-sideways-common-mistakes-to-avoid.json`](./help/is-your-interior-wall-project-going-sideways-common-mistakes-to-avoid.json) — schema
+- [`help/is-your-kitchen-aging-faster-than-you-are.json`](./help/is-your-kitchen-aging-faster-than-you-are.json) — schema
 - [`help/is-your-kitchen-sink-actually-accessible-how-to-tell.json`](./help/is-your-kitchen-sink-actually-accessible-how-to-tell.json) — schema
 - [`help/is-your-laundry-room-doorway-too-narrow.json`](./help/is-your-laundry-room-doorway-too-narrow.json) — schema
 - [`help/is-your-living-room-dark-what-to-do-about-inadequate-lighting.json`](./help/is-your-living-room-dark-what-to-do-about-inadequate-lighting.json) — schema
@@ -2024,6 +2035,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/mistakes-to-avoid-when-painting-your-kitchen.json`](./help/mistakes-to-avoid-when-painting-your-kitchen.json) — schema
 - [`help/mistakes-to-avoid-when-planning-closet-lighting.json`](./help/mistakes-to-avoid-when-planning-closet-lighting.json) — schema
 - [`help/mistakes-to-avoid-when-planning-kitchen-task-lighting.json`](./help/mistakes-to-avoid-when-planning-kitchen-task-lighting.json) — schema
+- [`help/mistakes-to-avoid-when-planning-your-garage-conversion.json`](./help/mistakes-to-avoid-when-planning-your-garage-conversion.json) — schema
 - [`help/mistakes-to-avoid-when-planning-your-kitchen-appliance-layout.json`](./help/mistakes-to-avoid-when-planning-your-kitchen-appliance-layout.json) — schema
 - [`help/mistakes-to-avoid-when-planning-your-living-room-pathways.json`](./help/mistakes-to-avoid-when-planning-your-living-room-pathways.json) — schema
 - [`help/mistakes-to-avoid-when-refinishing-your-log-home.json`](./help/mistakes-to-avoid-when-refinishing-your-log-home.json) — schema
@@ -2052,6 +2064,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/my-garage-is-always-cold-how-can-i-insulate-it-better.json`](./help/my-garage-is-always-cold-how-can-i-insulate-it-better.json) — schema
 - [`help/my-laundry-room-floor-flooded-what-now.json`](./help/my-laundry-room-floor-flooded-what-now.json) — schema
 - [`help/my-lazy-susan-isn-t-turning-smoothly-what-went-wrong.json`](./help/my-lazy-susan-isn-t-turning-smoothly-what-went-wrong.json) — schema
+- [`help/my-log-home-looks-worn-what-can-i-do.json`](./help/my-log-home-looks-worn-what-can-i-do.json) — schema
 - [`help/my-trim-doesn-t-look-seamless-what-went-wrong.json`](./help/my-trim-doesn-t-look-seamless-what-went-wrong.json) — schema
 - [`help/my-trim-looks-bad-after-flooring-changes-now-what.json`](./help/my-trim-looks-bad-after-flooring-changes-now-what.json) — schema
 - [`help/navigating-accessible-bathroom-renovations-a-complete-guide.json`](./help/navigating-accessible-bathroom-renovations-a-complete-guide.json) — schema
@@ -2083,6 +2096,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/preventing-future-floor-transition-headaches-a-checklist.json`](./help/preventing-future-floor-transition-headaches-a-checklist.json) — schema
 - [`help/preventing-gaps-around-your-new-basement-door-frame.json`](./help/preventing-gaps-around-your-new-basement-door-frame.json) — schema
 - [`help/preventing-glare-with-bathroom-night-lighting.json`](./help/preventing-glare-with-bathroom-night-lighting.json) — schema
+- [`help/repair-or-refresh-making-the-best-home-improvement-decision.json`](./help/repair-or-refresh-making-the-best-home-improvement-decision.json) — schema
 - [`help/retrofitting-soft-close-drawers-what-you-need-to-know.json`](./help/retrofitting-soft-close-drawers-what-you-need-to-know.json) — schema
 - [`help/scheduling-your-inspection-don-t-miss-these-critical-deadlines.json`](./help/scheduling-your-inspection-don-t-miss-these-critical-deadlines.json) — schema
 - [`help/seamless-inspections-your-checklist-for-a-smooth-process.json`](./help/seamless-inspections-your-checklist-for-a-smooth-process.json) — schema
@@ -2105,6 +2119,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/signs-your-home-needs-seasonal-maintenance.json`](./help/signs-your-home-needs-seasonal-maintenance.json) — schema
 - [`help/signs-your-interior-doorways-aren-t-accessible.json`](./help/signs-your-interior-doorways-aren-t-accessible.json) — schema
 - [`help/signs-your-interior-home-repair-needs-professional-attention.json`](./help/signs-your-interior-home-repair-needs-professional-attention.json) — schema
+- [`help/signs-your-kitchen-needs-a-professional-touch.json`](./help/signs-your-kitchen-needs-a-professional-touch.json) — schema
+- [`help/signs-your-log-cabin-needs-a-fresh-restain.json`](./help/signs-your-log-cabin-needs-a-fresh-restain.json) — schema
+- [`help/signs-your-log-cabin-needs-professional-attention.json`](./help/signs-your-log-cabin-needs-professional-attention.json) — schema
 - [`help/signs-your-mobile-home-needs-professional-wall-repair.json`](./help/signs-your-mobile-home-needs-professional-wall-repair.json) — schema
 - [`help/simple-steps-for-installing-your-new-showerhead.json`](./help/simple-steps-for-installing-your-new-showerhead.json) — schema
 - [`help/simple-steps-to-better-closet-storage.json`](./help/simple-steps-to-better-closet-storage.json) — schema
@@ -2117,6 +2134,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/steps-to-take-when-your-mobile-home-trim-is-damaged.json`](./help/steps-to-take-when-your-mobile-home-trim-is-damaged.json) — schema
 - [`help/struggling-to-make-your-laundry-room-accessible.json`](./help/struggling-to-make-your-laundry-room-accessible.json) — schema
 - [`help/struggling-to-plan-your-home-addition-here-s-how-to-start.json`](./help/struggling-to-plan-your-home-addition-here-s-how-to-start.json) — schema
+- [`help/struggling-with-kitchen-access-what-to-consider.json`](./help/struggling-with-kitchen-access-what-to-consider.json) — schema
 - [`help/tackling-hidden-damage-in-foreclosed-properties.json`](./help/tackling-hidden-damage-in-foreclosed-properties.json) — schema
 - [`help/tackling-interior-home-repair-a-step-by-step-guide.json`](./help/tackling-interior-home-repair-a-step-by-step-guide.json) — schema
 - [`help/tackling-tricky-window-casing-installation.json`](./help/tackling-tricky-window-casing-installation.json) — schema
@@ -2137,6 +2155,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/the-step-by-step-guide-to-low-threshold-shower-installation.json`](./help/the-step-by-step-guide-to-low-threshold-shower-installation.json) — schema
 - [`help/the-ultimate-property-maintenance-checklist.json`](./help/the-ultimate-property-maintenance-checklist.json) — schema
 - [`help/thinking-about-a-kitchen-reno-here-s-when-to-call-the-pros.json`](./help/thinking-about-a-kitchen-reno-here-s-when-to-call-the-pros.json) — schema
+- [`help/thinking-about-an-adu-here-s-where-to-start.json`](./help/thinking-about-an-adu-here-s-where-to-start.json) — schema
 - [`help/thinking-about-moving-a-wall-here-s-what-you-need-to-know-first.json`](./help/thinking-about-moving-a-wall-here-s-what-you-need-to-know-first.json) — schema
 - [`help/timeline-for-kitchen-appliance-hookups.json`](./help/timeline-for-kitchen-appliance-hookups.json) — schema
 - [`help/toilet-grab-bars-side-wall-or-back-wall.json`](./help/toilet-grab-bars-side-wall-or-back-wall.json) — schema
@@ -2200,6 +2219,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-s-the-real-timeline-for-a-home-room-addition.json`](./help/what-s-the-real-timeline-for-a-home-room-addition.json) — schema
 - [`help/what-s-the-timeline-for-a-basement-renovation.json`](./help/what-s-the-timeline-for-a-basement-renovation.json) — schema
 - [`help/what-should-i-check-before-getting-a-new-threshold-installed.json`](./help/what-should-i-check-before-getting-a-new-threshold-installed.json) — schema
+- [`help/what-steps-are-involved-in-log-home-resurfacing.json`](./help/what-steps-are-involved-in-log-home-resurfacing.json) — schema
 - [`help/what-to-ask-before-hiring-a-drywall-installer.json`](./help/what-to-ask-before-hiring-a-drywall-installer.json) — schema
 - [`help/what-to-ask-before-hiring-a-general-contractor.json`](./help/what-to-ask-before-hiring-a-general-contractor.json) — schema
 - [`help/what-to-ask-before-hiring-for-mobile-home-painting.json`](./help/what-to-ask-before-hiring-for-mobile-home-painting.json) — schema
@@ -2293,6 +2313,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-to-expect-during-a-flooring-repair.json`](./help/what-to-expect-during-a-flooring-repair.json) — schema
 - [`help/what-to-expect-during-a-full-kitchen-gut-renovation.json`](./help/what-to-expect-during-a-full-kitchen-gut-renovation.json) — schema
 - [`help/what-to-expect-during-kitchen-drywall-installation.json`](./help/what-to-expect-during-kitchen-drywall-installation.json) — schema
+- [`help/what-to-expect-during-your-adu-construction.json`](./help/what-to-expect-during-your-adu-construction.json) — schema
 - [`help/what-to-expect-during-your-bathroom-countertop-installation.json`](./help/what-to-expect-during-your-bathroom-countertop-installation.json) — schema
 - [`help/what-to-expect-during-your-drywall-remodeling-project.json`](./help/what-to-expect-during-your-drywall-remodeling-project.json) — schema
 - [`help/what-to-expect-during-your-finish-carpentry-installation.json`](./help/what-to-expect-during-your-finish-carpentry-installation.json) — schema
@@ -2323,6 +2344,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-do-you-really-need-professional-storm-damage-repair.json`](./help/when-do-you-really-need-professional-storm-damage-repair.json) — schema
 - [`help/when-does-basement-wall-framing-need-a-pro.json`](./help/when-does-basement-wall-framing-need-a-pro.json) — schema
 - [`help/when-does-mobile-home-trim-need-repair-instead-of-just-paint.json`](./help/when-does-mobile-home-trim-need-repair-instead-of-just-paint.json) — schema
+- [`help/when-is-a-full-home-rebuild-the-right-choice.json`](./help/when-is-a-full-home-rebuild-the-right-choice.json) — schema
 - [`help/when-is-a-small-paint-touch-up-not-enough.json`](./help/when-is-a-small-paint-touch-up-not-enough.json) — schema
 - [`help/when-is-it-time-to-bring-in-a-professional-for-your-remodel.json`](./help/when-is-it-time-to-bring-in-a-professional-for-your-remodel.json) — schema
 - [`help/when-is-it-time-to-call-a-pro-for-drywall-replacement.json`](./help/when-is-it-time-to-call-a-pro-for-drywall-replacement.json) — schema
@@ -2408,6 +2430,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-to-call-a-professional-for-general-home-repairs.json`](./help/when-to-call-a-professional-for-general-home-repairs.json) — schema
 - [`help/when-to-call-a-professional-for-home-restoration.json`](./help/when-to-call-a-professional-for-home-restoration.json) — schema
 - [`help/when-to-call-an-electrician-for-your-bedroom-lighting-project.json`](./help/when-to-call-an-electrician-for-your-bedroom-lighting-project.json) — schema
+- [`help/when-to-call-for-a-kitchen-layout-redesign.json`](./help/when-to-call-for-a-kitchen-layout-redesign.json) — schema
 - [`help/when-to-call-for-senior-home-repairs.json`](./help/when-to-call-for-senior-home-repairs.json) — schema
 - [`help/when-to-call-in-a-pro-for-bedroom-handrails.json`](./help/when-to-call-in-a-pro-for-bedroom-handrails.json) — schema
 - [`help/when-to-call-in-the-pros-for-your-accessible-kitchen-sink.json`](./help/when-to-call-in-the-pros-for-your-accessible-kitchen-sink.json) — schema
@@ -2454,6 +2477,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-your-easy-access-drawers-aren-t-so-easy-anymore.json`](./help/when-your-easy-access-drawers-aren-t-so-easy-anymore.json) — schema
 - [`help/when-your-floor-transition-strip-comes-loose-a-fix-it-guide.json`](./help/when-your-floor-transition-strip-comes-loose-a-fix-it-guide.json) — schema
 - [`help/when-your-interior-trim-isn-t-quite-right-what-to-do.json`](./help/when-your-interior-trim-isn-t-quite-right-what-to-do.json) — schema
+- [`help/when-your-kitchen-just-doesn-t-function-anymore.json`](./help/when-your-kitchen-just-doesn-t-function-anymore.json) — schema
 - [`help/when-your-kitchen-needs-more-than-just-a-fixture-swap.json`](./help/when-your-kitchen-needs-more-than-just-a-fixture-swap.json) — schema
 - [`help/when-your-kitchen-upgrades-require-a-professional-hand.json`](./help/when-your-kitchen-upgrades-require-a-professional-hand.json) — schema
 - [`help/when-your-mobile-home-door-just-won-t-close-right.json`](./help/when-your-mobile-home-door-just-won-t-close-right.json) — schema
@@ -2476,6 +2500,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-are-my-accessibility-features-unreliable.json`](./help/why-are-my-accessibility-features-unreliable.json) — schema
 - [`help/why-are-my-bathroom-wall-tiles-uneven.json`](./help/why-are-my-bathroom-wall-tiles-uneven.json) — schema
 - [`help/why-are-my-molding-joints-showing-gaps.json`](./help/why-are-my-molding-joints-showing-gaps.json) — schema
+- [`help/why-bathroom-remodeling-costs-so-much-myths-vs-facts.json`](./help/why-bathroom-remodeling-costs-so-much-myths-vs-facts.json) — schema
 - [`help/why-bother-drywalling-your-garage.json`](./help/why-bother-drywalling-your-garage.json) — schema
 - [`help/why-do-i-still-have-glare-after-upgrading-my-lighting.json`](./help/why-do-i-still-have-glare-after-upgrading-my-lighting.json) — schema
 - [`help/why-do-my-paint-touch-ups-look-worse-than-before.json`](./help/why-do-my-paint-touch-ups-look-worse-than-before.json) — schema
@@ -2497,6 +2522,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-does-my-kitchen-paint-look-uneven.json`](./help/why-does-my-kitchen-paint-look-uneven.json) — schema
 - [`help/why-does-my-kitchen-trim-look-gappy.json`](./help/why-does-my-kitchen-trim-look-gappy.json) — schema
 - [`help/why-does-my-living-room-feel-so-cramped.json`](./help/why-does-my-living-room-feel-so-cramped.json) — schema
+- [`help/why-does-my-log-cabin-look-worn-out.json`](./help/why-does-my-log-cabin-look-worn-out.json) — schema
 - [`help/why-does-my-mobile-home-paint-keep-peeling.json`](./help/why-does-my-mobile-home-paint-keep-peeling.json) — schema
 - [`help/why-does-my-new-basement-door-let-in-daylight.json`](./help/why-does-my-new-basement-door-let-in-daylight.json) — schema
 - [`help/why-does-my-new-tile-floor-look-uneven.json`](./help/why-does-my-new-tile-floor-look-uneven.json) — schema

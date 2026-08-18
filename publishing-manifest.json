@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-17T22:50:30.831Z",
+  "generatedAt": "2026-08-18T00:21:29.302Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -439,24 +439,24 @@
     ]
   },
   "package": {
-    "totalFiles": 2924,
-    "totalBytes": 15243534,
+    "totalFiles": 2950,
+    "totalBytes": 15432375,
     "stats": {
-      "qna": 0,
       "faqs": 1146,
-      "press": 0,
-      "total": 2901,
-      "awards": 0,
-      "reviews": 15,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 1040,
       "services": 361,
       "webpages": 361,
-      "locations": 1,
       "personnel": 1,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 1014,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 15,
+      "qna": 0,
+      "research": 0,
+      "total": 2927
     }
   },
   "entrypoints": {
@@ -5553,6 +5553,136 @@
       {
         "path": "help/what-to-expect-during-a-flooring-repair.json",
         "bytes": 4483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-garage-conversion.json",
+        "bytes": 4701,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-kitchen-just-doesn-t-function-anymore.json",
+        "bytes": 3004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-garage-conversion-missteps-that-can-sink-your-project.json",
+        "bytes": 4854,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-kitchen-needs-a-professional-touch.json",
+        "bytes": 3975,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-for-a-kitchen-layout-redesign.json",
+        "bytes": 3941,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-log-home-looks-worn-what-can-i-do.json",
+        "bytes": 3787,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-steps-are-involved-in-log-home-resurfacing.json",
+        "bytes": 3847,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-protect-my-log-home-from-the-elements.json",
+        "bytes": 3994,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-bathroom-remodeling-costs-so-much-myths-vs-facts.json",
+        "bytes": 3866,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-really-need-a-professional-for-my-bathroom-remodel-myths-vs-facts.json",
+        "bytes": 3979,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-bathroom-too-small-for-a-real-remodel-myths-vs-facts.json",
+        "bytes": 3910,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-log-cabin-look-worn-out.json",
+        "bytes": 4175,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-maintain-your-log-cabin-s-beauty.json",
+        "bytes": 4534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-log-cabin-needs-professional-attention.json",
+        "bytes": 4524,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/7-signs-you-need-a-kitchen-remodel-in-denver.json",
+        "bytes": 3994,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/6-signs-your-bathroom-is-ready-for-a-remodel-in-colorado-springs.json",
+        "bytes": 4095,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/8-signs-you-need-an-interior-renovation-in-boulder.json",
+        "bytes": 4267,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-a-full-home-rebuild-the-right-choice.json",
+        "bytes": 3667,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/repair-or-refresh-making-the-best-home-improvement-decision.json",
+        "bytes": 3728,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-log-cabin-needs-a-fresh-restain.json",
+        "bytes": 3769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-an-adu-here-s-where-to-start.json",
+        "bytes": 3860,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-your-adu-project-smoothly.json",
+        "bytes": 3896,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-adu-construction.json",
+        "bytes": 2868,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-kitchen-aging-faster-than-you-are.json",
+        "bytes": 5049,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-kitchen-work-for-you-as-you-get-older.json",
+        "bytes": 5388,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-with-kitchen-access-what-to-consider.json",
+        "bytes": 5398,
         "purpose": "schema"
       }
     ],
@@ -15024,7 +15154,7 @@
       },
       {
         "path": "articles.html",
-        "bytes": 1863949,
+        "bytes": 1918645,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -15071,17 +15201,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1327236,
+        "bytes": 1338680,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 434085,
+        "bytes": 437752,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 434085,
+        "bytes": 437752,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -15091,12 +15221,12 @@
       },
       {
         "path": "README.md",
-        "bytes": 423595,
+        "bytes": 427185,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 538216,
+        "bytes": 542923,
         "purpose": "AI sitemap"
       },
       {
