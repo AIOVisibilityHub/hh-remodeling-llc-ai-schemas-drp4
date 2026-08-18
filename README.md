@@ -10,13 +10,13 @@ Canonical AI Data Package for HH Remodeling LLC.
 
 ## Stats
 - 1146 faqs
-- 1040 helpArticles
+- 15 reviews
 - 361 services
 - 361 webpages
-- 1 personnel
 - 1 locations
+- 1 personnel
+- 1040 helpArticles
 - 1 organization
-- 15 reviews
 - **2927** total
 
 ## Cross-Destination Index — Related AI Data Sources

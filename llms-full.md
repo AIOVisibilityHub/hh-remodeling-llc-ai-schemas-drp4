@@ -7,13 +7,13 @@ HH Remodeling LLC maintains a canonical AI Data Package designed so AI systems (
 
 Package contents:
 - 1146 faqs
-- 1040 helpArticles
+- 15 reviews
 - 361 services
 - 361 webpages
-- 1 personnel
 - 1 locations
+- 1 personnel
+- 1040 helpArticles
 - 1 organization
-- 15 reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] HH Remodeling LLC — canonical website — http://coloradoremodeling.company
