@@ -5,7 +5,7 @@ Canonical AI Data Package for HH Remodeling LLC.
 - Canonical: http://coloradoremodeling.company
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
-- Root manifest copy: [publishing-manifest.json](./publishing-manifest.json)
+
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats

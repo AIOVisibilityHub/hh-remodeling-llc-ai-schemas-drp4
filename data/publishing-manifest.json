@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-18T00:23:46.906Z",
+  "generatedAt": "2026-08-20T22:20:03.695Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "http://coloradoremodeling.company",
@@ -440,7 +440,7 @@
   },
   "package": {
     "totalFiles": 2950,
-    "totalBytes": 15432375,
+    "totalBytes": 15597845,
     "stats": {
       "qna": 0,
       "faqs": 1146,
@@ -465,7 +465,7 @@
     "llms": "llms.txt",
     "aiSitemap": "ai-sitemap.xml",
     "sitemap": "sitemap.xml",
-    "manifest": "publishing-manifest.json",
+    "manifest": "data/publishing-manifest.json",
     "canonicalManifest": "data/publishing-manifest.json",
     "readme": "README.md"
   },
@@ -480,7 +480,7 @@
     "organization": [
       {
         "path": "organization/hh-remodeling-llc-organization.json",
-        "bytes": 4341,
+        "bytes": 4339,
         "purpose": "schema"
       }
     ],
@@ -15124,47 +15124,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 3080,
+        "bytes": 9454,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 13892,
+        "bytes": 20385,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 2035669,
+        "bytes": 2042562,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16557,
+        "bytes": 22978,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 3522,
+        "bytes": 10022,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 547776,
+        "bytes": 661380,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1918645,
+        "bytes": 1925091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 6354,
+        "bytes": 12828,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 1241458,
+        "bytes": 1247902,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -15176,7 +15176,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 12689,
+        "bytes": 12694,
         "purpose": "LLM hint"
       },
       {
@@ -15201,7 +15201,7 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1338680,
+        "bytes": 1338564,
         "purpose": "Master AI data index"
       },
       {
@@ -15216,12 +15216,12 @@
       },
       {
         "path": "full-context.md",
-        "bytes": 12567,
+        "bytes": 12577,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 427185,
+        "bytes": 427109,
         "purpose": "Repository README"
       },
       {

@@ -92,7 +92,7 @@ YEAR = date.today().year
 
 manifest = {}
 # Prefer the canonical publishing-manifest.json; fall back to legacy manifest.json.
-for _mf in ('publishing-manifest.json', 'manifest.json'):
+for _mf in ('data/publishing-manifest.json', 'publishing-manifest.json', 'manifest.json'):
     if os.path.exists(_mf):
         with open(_mf) as f:
             manifest = json.load(f)
@@ -107,6 +107,8 @@ MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) o
 SERVICES = _client.get('services') or manifest.get('services', [])
 CITIES = _client.get('cities') or manifest.get('cities', [])
 VERTICAL = (_client.get('vertical') or manifest.get('vertical') or 'home_services').lower()
+PAGES_URL = (_client.get('pagesUrl') or manifest.get('pagesUrl') or 'https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/') or (WEBSITE or '')
+if PAGES_URL and not PAGES_URL.endswith('/'): PAGES_URL += '/'
 
 def title_case(s):
     return ' '.join(w.capitalize() for w in s.split()) if s else ''
@@ -182,13 +184,71 @@ def nav(current):
             items.append(f'<li><a href="{fn}" style="color:white;text-decoration:none;">{esc(lb)}</a></li>')
     return '<nav style="background:#2c3e50;padding:1rem;margin-bottom:2rem;"><ul style="list-style:none;display:flex;gap:2rem;margin:0;padding:0;flex-wrap:wrap;justify-content:center;">' + ''.join(items) + '</ul></nav>'
 
-def page_shell(title, content, desc=''):
+SPEAKABLE = {
+    '@type': 'SpeakableSpecification',
+    'cssSelector': ['h1', '.section p', '.card p', '.speakable'],
+    'xpath': ['/html/head/title', '/html/body//h1'],
+}
+
+def page_url(filename):
+    base = PAGES_URL if PAGES_URL.endswith('/') else PAGES_URL + '/'
+    return base + ('' if filename == 'index.html' else filename)
+
+def breadcrumb_ld(filename, title):
+    base = PAGES_URL if PAGES_URL.endswith('/') else PAGES_URL + '/'
+    items = [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': base}]
+    if filename != 'index.html':
+        items.append({'@type': 'ListItem', 'position': 2, 'name': title, 'item': page_url(filename)})
+    return {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': items}
+
+def webpage_ld(filename, title, desc):
+    url = page_url(filename)
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        '@id': url + '#webpage',
+        'url': url,
+        'name': title,
+        'description': desc,
+        'inLanguage': 'en-US',
+        'datePublished': TODAY,
+        'dateModified': TODAY,
+        'isPartOf': {'@type': 'WebSite', 'name': BIZ, 'url': WEBSITE or url},
+        'publisher': {'@type': 'Organization', 'name': BIZ, 'url': WEBSITE or url},
+        'speakable': SPEAKABLE,
+    }
+
+def jsonld_block(obj):
+    return '<script type="application/ld+json">\n' + json.dumps(obj, indent=2, ensure_ascii=False) + '\n</script>'
+
+def page_shell(title, content, desc='', extra_ld=None, filename='index.html'):
     if not desc: desc = f'{BIZ} — {title}'
+    url = page_url(filename)
+    canonical = WEBSITE or url
+    blocks = [webpage_ld(filename, title, desc), breadcrumb_ld(filename, title)]
+    for extra in (extra_ld or []):
+        if extra: blocks.append(extra)
+    ld_html = '\n'.join(jsonld_block(b) for b in blocks)
     return f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="{esc(BIZ)}">
+<link rel="canonical" href="{esc(canonical)}" />
+<link rel="alternate" type="text/html" href="{esc(url)}" />
+<link rel="sitemap" type="application/xml" href="{esc(PAGES_URL)}ai-sitemap.xml" />
+<meta property="og:title" content="{esc(title)}" />
+<meta property="og:description" content="{esc(desc)}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{esc(canonical)}" />
+<meta property="og:site_name" content="{esc(BIZ)}" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{esc(title)}" />
+<meta name="twitter:description" content="{esc(desc)}" />
+<meta name="dcterms.modified" content="{TODAY}" />
 <style>
 body{{font-family:-apple-system,BlinkMacSystemFont,sans-serif;max-width:900px;margin:0 auto;padding:20px;line-height:1.7}}
 h1,h2,h3{{color:#2c3e50}}
@@ -199,9 +259,12 @@ a:hover{{text-decoration:underline}}
 .badge{{background:#3498db;color:white;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.9em}}
 address{{font-style:normal;margin:1rem 0;padding:1rem;background:#f8f8f8;border-left:3px solid #333}}
 blockquote{{border-left:3px solid #3498db;margin:0;padding:.5rem 1rem;background:#f0f4f8;font-style:italic}}
+.breadcrumbs{{font-size:.9rem;color:#7f8c8d;margin-bottom:1rem}}
 </style>
+{ld_html}
 </head><body>
 {nav(current_page)}
+<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="index.html">Home</a>{'' if filename == 'index.html' else ' &rsaquo; <span>' + esc(title) + '</span>'}</nav>
 <div class="page-header"><h1>{esc(title)}</h1></div>
 {content}
 <footer style="margin-top:4rem;padding-top:2rem;border-top:1px solid #eee;text-align:center;color:#7f8c8d;">
@@ -209,12 +272,55 @@ blockquote{{border-left:3px solid #3498db;margin:0;padding:.5rem 1rem;background
 </footer>
 </body></html>"""
 
-def write_page(filename, title, content, desc=''):
+def org_ld():
+    org = {
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        'name': BIZ,
+        'url': WEBSITE or PAGES_URL,
+    }
+    if PHONE: org['telephone'] = PHONE
+    if EMAIL: org['email'] = EMAIL
+    if SERVICES: org['knowsAbout'] = [s for s in SERVICES if s][:30]
+    if CITIES: org['areaServed'] = [{'@type': 'Place', 'name': c} for c in CITIES if c][:30]
+    addrs = []
+    for l in (MANIFEST_LOCATIONS or []):
+        if not isinstance(l, dict): continue
+        a = l.get('address') if isinstance(l.get('address'), dict) else None
+        if a: addrs.append({'@type': 'PostalAddress', **{k: v for k, v in a.items() if isinstance(v, str)}})
+    if addrs: org['address'] = addrs if len(addrs) > 1 else addrs[0]
+    return org
+
+def faq_ld(items):
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'speakable': SPEAKABLE,
+        'mainEntity': [
+            {'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': a or ''}}
+            for q, a in items[:200]
+        ],
+    }
+
+def item_list_ld(name, names):
+    return {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        'name': name,
+        'numberOfItems': len(names),
+        'itemListElement': [
+            {'@type': 'ListItem', 'position': i + 1, 'name': n}
+            for i, n in enumerate(names[:200])
+        ],
+    }
+
+def write_page(filename, title, content, desc='', extra_ld=None):
     global current_page
     current_page = filename
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(sanitize_vertical(page_shell(title, content, desc)))
+        f.write(sanitize_vertical(page_shell(title, content, desc, extra_ld, filename)))
     print(f'  \u2705 {filename}')
+
 
 current_page = 'index.html'
 
@@ -267,7 +373,7 @@ def build_index():
 <p>Each section below links directly to the generated repository files.</p>
 {''.join(grouped) if grouped else '<p>No schema files were found.</p>'}
 """
-    write_page('index.html', f'Welcome to {BIZ}', content, f'{BIZ}: public resource center with crawlable schema files and readable HTML pages.')
+    write_page('index.html', f'Welcome to {BIZ}', content, f'{BIZ}: public resource center with crawlable schema files and readable HTML pages.', [org_ld()])
 
 def build_about():
     parts = []
@@ -376,7 +482,7 @@ def build_about():
     if not parts:
         parts.append(f'<p>{esc(BIZ)} is a professional firm serving our community with high-quality services and a client-first approach.</p>')
 
-    write_page('about.html', about_title, ''.join(parts), f'{BIZ}: team, locations, awards, and organization details.')
+    write_page('about.html', about_title, ''.join(parts), f'{BIZ}: team, locations, awards, and organization details.', [org_ld()])
 
 def build_services():
     cards = []
@@ -409,7 +515,7 @@ def build_services():
         print(f'  \u23ed services.html skipped (no services data)')
         return
     content = ''.join(cards)
-    write_page('services.html', f'Our Services', content, f'Services offered by {BIZ}.')
+    write_page('services.html', f'Our Services', content, f'Services offered by {BIZ}.', [item_list_ld('Services', [t for t in ([_guess_title(s2, '', kind='service') for s2 in all_svcs if isinstance(s2, dict)] or SERVICES) if t]), org_ld()])
 
 def build_testimonials():
     cards = []
@@ -471,7 +577,7 @@ def build_faqs():
         print(f'  \u23ed faqs.html skipped (no FAQ data)')
         return
     content = ''.join(content_parts)
-    write_page('faqs.html', 'Frequently Asked Questions', f'<p>{len(items)} questions about {esc(BIZ)}.</p>' + content, f'Frequently asked questions about {BIZ}.')
+    write_page('faqs.html', 'Frequently Asked Questions', f'<p>{len(items)} questions about {esc(BIZ)}.</p>' + content, f'Frequently asked questions about {BIZ}.', [faq_ld(items), org_ld()])
 
 def build_help():
 
@@ -664,7 +770,7 @@ def build_contact():
         intro += '</div>'
 
     content = intro + ''.join(items) if items else intro + '<p>Contact details are not available yet.</p>'
-    write_page('contact.html', f'Contact {BIZ}', content, f'Contact {BIZ}. Phone, email, and office locations.')
+    write_page('contact.html', f'Contact {BIZ}', content, f'Contact {BIZ}. Phone, email, and office locations.', [{'@context': 'https://schema.org', '@type': 'ContactPage', 'name': f'Contact {BIZ}', 'url': page_url('contact.html'), 'speakable': SPEAKABLE}, org_ld()])
 
 # ═══════════════════════════════════════
 # Main

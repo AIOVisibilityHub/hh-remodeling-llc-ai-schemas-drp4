@@ -1,7 +1,7 @@
 # HH Remodeling LLC — Full AI Context
 
 **Canonical URL:** http://coloradoremodeling.company
-**Generated:** 2026-08-18
+**Generated:** 2026-08-20
 
 ## Overview
 HH Remodeling LLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -444,4 +444,4 @@ Purpose: transparent source discovery, entity consistency, mirror verification, 
 - Colorado Springs
 
 ## Machine-Readable Index
-See [publishing-manifest.json](./publishing-manifest.json) for the full file index with categories, byte counts, and purposes.
+See [data/publishing-manifest.json](./data/publishing-manifest.json) for the full file index with categories, byte counts, and purposes.
