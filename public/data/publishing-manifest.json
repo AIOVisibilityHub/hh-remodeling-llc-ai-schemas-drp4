@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T21:10:08.247Z",
+  "generatedAt": "2026-08-21T23:08:36.393Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "https://hh-remodeling.aiovisibility.net",
-    "pagesUrl": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4",
+    "pagesUrl": "https://hh-remodeling.aiovisibility.net",
     "phone": "303-505-0866",
     "email": "Hhremodelingllc1986.ab@gmail.com",
     "locations": [
@@ -440,7 +440,7 @@
   },
   "package": {
     "totalFiles": 2943,
-    "totalBytes": 15578121,
+    "totalBytes": 15200938,
     "stats": {
       "qna": 0,
       "faqs": 1139,
@@ -15089,59 +15089,59 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 9502,
+        "bytes": 15040,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 20439,
+        "bytes": 25980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 2042616,
+        "bytes": 2048565,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 23112,
+        "bytes": 28587,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10088,
+        "bytes": 15638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 657249,
+        "bytes": 662873,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 1925145,
+        "bytes": 1930647,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 12882,
+        "bytes": 18420,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 1247956,
+        "bytes": 1253458,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 377,
+        "bytes": 319,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 12706,
+        "bytes": 12503,
         "purpose": "LLM hint"
       },
       {
@@ -15151,7 +15151,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 386,
+        "bytes": 357,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -15161,42 +15161,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1678,
+        "bytes": 1562,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1335324,
+        "bytes": 1250064,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 436731,
+        "bytes": 351558,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 436731,
+        "bytes": 351558,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12589,
+        "bytes": 12531,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 426063,
+        "bytes": 426005,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 541610,
+        "bytes": 371032,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1741,
+        "bytes": 1045,
         "purpose": "Standard sitemap"
       }
     ]
@@ -15204,7 +15204,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
-      "pagesUrl": "https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/",
+      "pagesUrl": "https://hh-remodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
     }
   }
