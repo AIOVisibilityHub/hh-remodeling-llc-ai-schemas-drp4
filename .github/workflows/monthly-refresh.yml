@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - HH Remodeling LLC' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4"
-          KEY="46c2644692251dfa1d19a251be087d8e"
+          SITE="https://hh-remodeling.aiovisibility.net"
+          KEY="26d15aba29a804f66c8ed3803c8d28eb"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
