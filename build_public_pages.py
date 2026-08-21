@@ -100,7 +100,7 @@ for _mf in ('data/publishing-manifest.json', 'publishing-manifest.json', 'manife
 
 _client = manifest.get('client', {}) if isinstance(manifest.get('client'), dict) else {}
 BIZ = _client.get('name') or manifest.get('businessName', 'HH Remodeling LLC')
-WEBSITE = _client.get('canonicalUrl') or manifest.get('canonicalUrl', '') or manifest.get('websiteUrl', 'http://coloradoremodeling.company/')
+WEBSITE = _client.get('canonicalUrl') or manifest.get('canonicalUrl', '') or manifest.get('websiteUrl', 'https://hh-remodeling.aiovisibility.net')
 PHONE = _client.get('phone') or manifest.get('phone', '')
 EMAIL = _client.get('email') or manifest.get('email', '')
 MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) or []

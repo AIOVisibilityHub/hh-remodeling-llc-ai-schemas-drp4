@@ -2,14 +2,14 @@
 
 Canonical AI Data Package for HH Remodeling LLC.
 
-- Canonical: http://coloradoremodeling.company
+- Canonical: https://hh-remodeling.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 1146 faqs
+- 1139 faqs
 - 15 reviews
 - 361 services
 - 361 webpages
@@ -17,10 +17,10 @@ Canonical AI Data Package for HH Remodeling LLC.
 - 1 personnel
 - 1040 helpArticles
 - 1 organization
-- **2927** total
+- **2920** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] HH Remodeling LLC — canonical website — http://coloradoremodeling.company
+- [canonical] HH Remodeling LLC — canonical website — https://hh-remodeling.aiovisibility.net
 - [ai-data-hub] HH Remodeling LLC — AI Data Hub — https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/hh-remodeling-llc-ai-schemas-drp4/ai-data.html
@@ -412,7 +412,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 ### Team Members (1)
 - [`team/abraham-becerra-profile.json`](./team/abraham-becerra-profile.json) — schema
 
-### FAQs (1146)
+### FAQs (1139)
 - [`faqs/are-your-handymen-licensed-and-insured-in-denver.json`](./faqs/are-your-handymen-licensed-and-insured-in-denver.json) — schema
 - [`faqs/can-a-general-contractor-help-with-design-and-planning.json`](./faqs/can-a-general-contractor-help-with-design-and-planning.json) — schema
 - [`faqs/can-any-bathroom-wall-support-a-grab-bar.json`](./faqs/can-any-bathroom-wall-support-a-grab-bar.json) — schema
@@ -797,7 +797,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-long-does-storm-drywall-replacement-usually-take.json`](./faqs/how-long-does-storm-drywall-replacement-usually-take.json) — schema
 - [`faqs/how-long-does-storm-related-exterior-painting-usually-take.json`](./faqs/how-long-does-storm-related-exterior-painting-usually-take.json) — schema
 - [`faqs/how-long-does-structural-wall-framing-usually-take.json`](./faqs/how-long-does-structural-wall-framing-usually-take.json) — schema
-- [`faqs/how-long-does-the-log-home-refinishing-process-take.json`](./faqs/how-long-does-the-log-home-refinishing-process-take.json) — schema
 - [`faqs/how-long-does-tile-floor-installation-take-from-start-to-finish.json`](./faqs/how-long-does-tile-floor-installation-take-from-start-to-finish.json) — schema
 - [`faqs/how-long-does-tile-wall-installation-usually-take.json`](./faqs/how-long-does-tile-wall-installation-usually-take.json) — schema
 - [`faqs/how-long-does-trim-repair-usually-take-and-what-slows-it-down.json`](./faqs/how-long-does-trim-repair-usually-take-and-what-slows-it-down.json) — schema
@@ -872,7 +871,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-much-does-log-cabin-refinishing-cost-in-the-denver-area.json`](./faqs/how-much-does-log-cabin-refinishing-cost-in-the-denver-area.json) — schema
 - [`faqs/how-much-does-log-home-refinishing-cost-in-the-denver-area.json`](./faqs/how-much-does-log-home-refinishing-cost-in-the-denver-area.json) — schema
 - [`faqs/how-much-does-log-home-restoration-cost-in-the-denver-area.json`](./faqs/how-much-does-log-home-restoration-cost-in-the-denver-area.json) — schema
-- [`faqs/how-much-does-log-home-restoration-typically-cost.json`](./faqs/how-much-does-log-home-restoration-typically-cost.json) — schema
 - [`faqs/how-much-does-marble-tile-installation-cost-and-what-drives-the-price-up.json`](./faqs/how-much-does-marble-tile-installation-cost-and-what-drives-the-price-up.json) — schema
 - [`faqs/how-much-does-mobile-home-flooring-repair-cost-near-denver.json`](./faqs/how-much-does-mobile-home-flooring-repair-cost-near-denver.json) — schema
 - [`faqs/how-much-does-mobile-home-interior-repair-usually-cost.json`](./faqs/how-much-does-mobile-home-interior-repair-usually-cost.json) — schema
@@ -1292,7 +1290,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-involved-in-a-typical-log-cabin-renovation-project.json`](./faqs/what-is-involved-in-a-typical-log-cabin-renovation-project.json) — schema
 - [`faqs/what-is-involved-in-the-log-cabin-restoration-process.json`](./faqs/what-is-involved-in-the-log-cabin-restoration-process.json) — schema
 - [`faqs/what-is-involved-in-the-log-cabin-stripping-process.json`](./faqs/what-is-involved-in-the-log-cabin-stripping-process.json) — schema
-- [`faqs/what-is-log-and-cabin-refinishing.json`](./faqs/what-is-log-and-cabin-refinishing.json) — schema
 - [`faqs/what-is-log-home-refinishing.json`](./faqs/what-is-log-home-refinishing.json) — schema
 - [`faqs/what-is-restoration-maintenance.json`](./faqs/what-is-restoration-maintenance.json) — schema
 - [`faqs/what-is-restoration-service.json`](./faqs/what-is-restoration-service.json) — schema
@@ -1302,7 +1299,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-cost-of-restoration-maintenance-services.json`](./faqs/what-is-the-cost-of-restoration-maintenance-services.json) — schema
 - [`faqs/what-is-the-difference-between-a-finish-upgrade-and-a-full-log-home-restoration.json`](./faqs/what-is-the-difference-between-a-finish-upgrade-and-a-full-log-home-restoration.json) — schema
 - [`faqs/what-is-the-difference-between-a-general-contractor-and-a-handyman.json`](./faqs/what-is-the-difference-between-a-general-contractor-and-a-handyman.json) — schema
-- [`faqs/what-is-the-difference-between-log-cabin-restoration-and-log-cabin-preservation.json`](./faqs/what-is-the-difference-between-log-cabin-restoration-and-log-cabin-preservation.json) — schema
 - [`faqs/what-is-the-difference-between-log-cabin-restoration-and-preservation.json`](./faqs/what-is-the-difference-between-log-cabin-restoration-and-preservation.json) — schema
 - [`faqs/what-is-the-difference-between-log-cabin-staining-and-restaining.json`](./faqs/what-is-the-difference-between-log-cabin-staining-and-restaining.json) — schema
 - [`faqs/what-is-the-difference-between-log-home-refinishing-and-restoring.json`](./faqs/what-is-the-difference-between-log-home-refinishing-and-restoring.json) — schema
@@ -1324,7 +1320,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-typical-cost-of-log-home-refinishing-in-the-denver-area.json`](./faqs/what-is-the-typical-cost-of-log-home-refinishing-in-the-denver-area.json) — schema
 - [`faqs/what-is-the-typical-cost-to-remodel-a-bathroom-in-denver.json`](./faqs/what-is-the-typical-cost-to-remodel-a-bathroom-in-denver.json) — schema
 - [`faqs/what-is-the-typical-process-for-a-kitchen-addition-from-start-to-finish.json`](./faqs/what-is-the-typical-process-for-a-kitchen-addition-from-start-to-finish.json) — schema
-- [`faqs/what-is-the-typical-process-for-refinishing-a-log-home.json`](./faqs/what-is-the-typical-process-for-refinishing-a-log-home.json) — schema
 - [`faqs/what-is-the-typical-remodeling-process.json`](./faqs/what-is-the-typical-remodeling-process.json) — schema
 - [`faqs/what-is-the-usual-process-for-getting-a-general-home-repair-done.json`](./faqs/what-is-the-usual-process-for-getting-a-general-home-repair-done.json) — schema
 - [`faqs/what-kind-of-basement-door-is-best-for-colorado-weather.json`](./faqs/what-kind-of-basement-door-is-best-for-colorado-weather.json) — schema
@@ -1504,7 +1499,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-should-drywall-and-finish-work-happen-in-a-room-addition.json`](./faqs/when-should-drywall-and-finish-work-happen-in-a-room-addition.json) — schema
 - [`faqs/when-should-i-bring-in-plumbing-coordination-on-a-remodel.json`](./faqs/when-should-i-bring-in-plumbing-coordination-on-a-remodel.json) — schema
 - [`faqs/when-should-i-consider-log-home-restoration.json`](./faqs/when-should-i-consider-log-home-restoration.json) — schema
-- [`faqs/when-should-i-consider-professional-log-home-restoration.json`](./faqs/when-should-i-consider-professional-log-home-restoration.json) — schema
 - [`faqs/when-should-i-consider-refinishing-my-log-cabin.json`](./faqs/when-should-i-consider-refinishing-my-log-cabin.json) — schema
 - [`faqs/when-should-i-consider-restoring-my-log-cabin-instead-of-just-refinishing.json`](./faqs/when-should-i-consider-restoring-my-log-cabin-instead-of-just-refinishing.json) — schema
 - [`faqs/when-should-i-coordinate-the-electrician-with-the-other-trades.json`](./faqs/when-should-i-coordinate-the-electrician-with-the-other-trades.json) — schema
@@ -1537,7 +1531,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/why-is-bathroom-waterproofing-so-important-in-denver-centennial-and-nearby-color.json`](./faqs/why-is-bathroom-waterproofing-so-important-in-denver-centennial-and-nearby-color.json) — schema
 - [`faqs/why-is-professional-log-home-refinishing-important.json`](./faqs/why-is-professional-log-home-refinishing-important.json) — schema
 - [`faqs/why-is-regular-maintenance-important-after-water-damage-repair.json`](./faqs/why-is-regular-maintenance-important-after-water-damage-repair.json) — schema
-- [`faqs/why-should-i-choose-a-professional-for-log-cabin-refinishing.json`](./faqs/why-should-i-choose-a-professional-for-log-cabin-refinishing.json) — schema
 - [`faqs/will-a-bathroom-addition-increase-my-home-s-resale-value.json`](./faqs/will-a-bathroom-addition-increase-my-home-s-resale-value.json) — schema
 - [`faqs/will-a-finish-upgrade-make-my-log-cabin-look-fake-or-overly-glossy.json`](./faqs/will-a-finish-upgrade-make-my-log-cabin-look-fake-or-overly-glossy.json) — schema
 - [`faqs/will-a-new-basement-door-actually-stop-leaks-and-drafts.json`](./faqs/will-a-new-basement-door-actually-stop-leaks-and-drafts.json) — schema
