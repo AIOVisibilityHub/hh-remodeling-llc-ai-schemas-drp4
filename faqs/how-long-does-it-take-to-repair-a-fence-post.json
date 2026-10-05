@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-repair-a-fence-post",
+  "name": "How long does it take to repair a fence post?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a fence post?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a fence post typically depends on the repair's complexity and the number of posts needing attention. A single, straightforward repair might be completed in a few hours. However, if concrete needs to be set, curing time must be factored in, which can extend the overall project duration. Larger projects involving multiple posts or significant structural issues will naturally take longer. Frasheski Construction provides estimated timelines specific to your project during the initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies by complexity; a single post might take hours. Concrete curing adds time. Frasheski Construction provides project-specific timelines."
+      }
+    }
+  ],
+  "description": "Repair time varies by complexity; a single post might take hours. Concrete curing adds time. Frasheski Construction provides project-specific timelines."
+}

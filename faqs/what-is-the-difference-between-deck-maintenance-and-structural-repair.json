@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-deck-maintenance-and-structural-repair",
+  "name": "What is the difference between deck maintenance and structural repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between deck maintenance and structural repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deck maintenance involves routine tasks like cleaning, staining, and tightening fasteners to preserve the deck's condition and extend its lifespan. Structural repair, however, addresses underlying issues that compromise the deck's safety and integrity, such as replacing rotted support posts, damaged beams, or failing ledger boards. Maintenance aims to prevent damage, while structural repair fixes existing problems that pose safety risks or code violations.",
+        "@type": "Answer",
+        "description": "Maintenance is routine care; structural repair fixes underlying safety and integrity issues like rotted posts or damaged beams."
+      }
+    }
+  ],
+  "description": "Maintenance is routine care; structural repair fixes underlying safety and integrity issues like rotted posts or damaged beams."
+}

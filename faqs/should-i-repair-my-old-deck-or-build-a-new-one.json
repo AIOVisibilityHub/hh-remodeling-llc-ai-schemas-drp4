@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-repair-my-old-deck-or-build-a-new-one",
+  "name": "Should I repair my old deck or build a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my old deck or build a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing an existing deck and building a new one depends on several factors, primarily the age and condition of the current structure. If the deck's foundation and most of its structural components are sound, repair is often a more cost-effective option. However, if there is widespread rot, significant structural damage, or if you desire a complete design change or different materials, a new deck might be a better long-term investment. We can assess your deck's integrity and discuss the pros and cons of each option to help you make an informed decision for your property.",
+        "@type": "Answer",
+        "description": "Consider repair if the foundation and structure are sound; opt for new if damage is widespread or you desire a major design change."
+      }
+    }
+  ],
+  "description": "Consider repair if the foundation and structure are sound; opt for new if damage is widespread or you desire a major design change."
+}

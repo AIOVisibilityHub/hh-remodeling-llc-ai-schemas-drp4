@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-fence-post-repair-in-berkeley-or-other-east-bay-cities",
+  "name": "Do I need a permit for fence post repair in Berkeley or other East Bay cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for fence post repair in Berkeley or other East Bay cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic fence post repairs that do not involve changing the fence's height, location, or materials significantly, a permit is generally not required in Berkeley or other East Bay cities. However, if the repair constitutes a substantial rebuild, alters the fence's dimensions, or involves constructing a new fence, you might need a permit. Specific requirements vary by municipality; for example, Berkeley may have different rules than Oakland or Albany for certain fence types or heights. It's advisable to check with your local city's planning department if you are unsure.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for basic repairs that don't alter height, location, or materials. Check with your local East Bay city planning department for significant rebuilds."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for basic repairs that don't alter height, location, or materials. Check with your local East Bay city planning department for si"
+}

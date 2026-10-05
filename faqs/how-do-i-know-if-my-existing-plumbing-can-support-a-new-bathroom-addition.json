@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-existing-plumbing-can-support-a-new-bathroom-addition",
+  "name": "How do I know if my existing plumbing can support a new bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing plumbing can support a new bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if your existing plumbing can support a new bathroom addition, a licensed plumber will assess your current water supply lines, drain lines, and water heater capacity. Factors like pipe diameter, material, and the overall load on your system are crucial. For instance, adding a new shower or toilet might require upgrading your main water line or increasing the capacity of your water heater to ensure adequate hot water and pressure for all fixtures, which is a common consideration for homes in areas like Oakland.",
+        "@type": "Answer",
+        "description": "A plumber assesses your current water supply, drain lines, and water heater capacity to see if they can support a new bathroom addition."
+      }
+    }
+  ],
+  "description": "A plumber assesses your current water supply, drain lines, and water heater capacity to see if they can support a new bathroom addition."
+}

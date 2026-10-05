@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-replace-or-repair-my-kitchen-plumbing-fixtures",
+  "name": "Should I replace or repair my kitchen plumbing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or repair my kitchen plumbing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to replace or repair kitchen plumbing fixtures depends on several factors, including the age of the fixture, the extent of the damage, and the cost of repair versus replacement. For older, frequently leaking, or corroded fixtures, replacement often offers a more long-term and cost-effective solution. A practical tradeoff is that while repair might be cheaper initially, replacement can provide updated aesthetics, improved functionality, and better water efficiency. Frasheski Construction can assess your current fixtures to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "The choice between replacing or repairing kitchen plumbing depends on fixture age, damage extent, and cost. Replacement often offers long-term benefits despite higher initial cost."
+      }
+    }
+  ],
+  "description": "The choice between replacing or repairing kitchen plumbing depends on fixture age, damage extent, and cost. Replacement often offers long-term benefits despite"
+}

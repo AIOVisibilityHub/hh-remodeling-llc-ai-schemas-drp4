@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-all-types-of-fence-posts-be-repaired-or-do-some-always-require-replacement",
+  "name": "Can all types of fence posts be repaired, or do some always require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of fence posts be repaired, or do some always require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most types of fence posts, including wood, metal, and vinyl, can be repaired to some extent, but the feasibility depends on the nature and severity of the damage. For instance, a slightly leaning wood post can often be straightened and reinforced, while a completely shattered vinyl post might require full replacement due to material limitations. Metal posts with significant rust or bends might also need replacement for structural integrity. A key decision factor is the structural integrity remaining; if the post is too compromised, repair is not a viable option.",
+        "@type": "Answer",
+        "description": "Most fence post types can be repaired, but some damage, like shattered vinyl or severe rust on metal, requires replacement. Structural integrity is the deciding factor."
+      }
+    }
+  ],
+  "description": "Most fence post types can be repaired, but some damage, like shattered vinyl or severe rust on metal, requires replacement. Structural integrity is the deciding"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-perform-small-deck-structural-repairs-myself-or-should-i-always-hire-a-pro",
+  "name": "Can I perform small deck structural repairs myself, or should I always hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform small deck structural repairs myself, or should I always hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic repairs like replacing a few deck boards or tightening loose fasteners might be feasible for a skilled homeowner, any repair involving the deck's structural integrity, such as compromised beams, posts, or ledger boards, should always be handled by a qualified professional. Improper structural repairs can lead to serious safety hazards and may not meet local building codes. A professional ensures the work is done safely and correctly.",
+        "@type": "Answer",
+        "description": "Minor cosmetic repairs can be DIY, but any structural integrity issues require a professional. Improper repairs can create safety hazards."
+      }
+    }
+  ],
+  "description": "Minor cosmetic repairs can be DIY, but any structural integrity issues require a professional. Improper repairs can create safety hazards."
+}

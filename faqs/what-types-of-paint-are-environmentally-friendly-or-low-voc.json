@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-paint-are-environmentally-friendly-or-low-voc",
+  "name": "What types of paint are environmentally friendly or low-VOC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of paint are environmentally friendly or low-VOC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many paint manufacturers now offer low-VOC (Volatile Organic Compound) or zero-VOC paint options, which contain fewer harmful chemicals and emit fewer odors. These paints are a good choice for improving indoor air quality, especially important for families, individuals with sensitivities, or in homes in densely populated areas like Albany or El Cerrito. Choosing low-VOC paints helps create a healthier living environment during and after the painting process. We can discuss these options and their performance characteristics to help you select the best choice for your project.",
+        "@type": "Answer",
+        "description": "Low-VOC or zero-VOC paints are environmentally friendly options that improve indoor air quality by emitting fewer chemicals and odors."
+      }
+    }
+  ],
+  "description": "Low-VOC or zero-VOC paints are environmentally friendly options that improve indoor air quality by emitting fewer chemicals and odors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-electrician-and-a-plumber",
+  "name": "What is the difference between an electrician and a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an electrician and a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An electrician specializes in installing, maintaining, and repairing electrical power, communications, lighting, and control systems. A plumber, on the other hand, focuses on systems that move fluids, such as water and waste, for heating, cooling, sewage, and drinking water. While both are critical trades in construction and home maintenance, their skill sets and areas of expertise are distinct. When planning a renovation or new build, it's essential to understand which professional is needed for specific tasks. For comprehensive projects in areas like Berkeley or Oakland, Frasheski Construction coordinates both specialties.",
+        "@type": "Answer",
+        "description": "Electricians handle electrical systems, while plumbers work with fluid systems like water and waste. Both are distinct and crucial trades."
+      }
+    }
+  ],
+  "description": "Electricians handle electrical systems, while plumbers work with fluid systems like water and waste. Both are distinct and crucial trades."
+}

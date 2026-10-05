@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-common-signs-that-my-wood-fence-needs-immediate-repair",
+  "name": "What are the common signs that my wood fence needs immediate repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my wood fence needs immediate repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your wood fence needs immediate repair include leaning posts, loose or detached panels, visible rot or fungal growth, significant insect damage (such as holes or sawdust trails), or compromised gate functionality. Addressing these issues promptly can prevent further deterioration and more costly repairs or full replacement down the line. We often see these signs in older fences that have not been maintained.",
+        "@type": "Answer",
+        "description": "Immediate repair is needed for leaning posts, loose panels, visible rot, insect damage, or faulty gates. Prompt action prevents worsening damage."
+      }
+    }
+  ],
+  "description": "Immediate repair is needed for leaning posts, loose panels, visible rot, insect damage, or faulty gates. Prompt action prevents worsening damage."
+}

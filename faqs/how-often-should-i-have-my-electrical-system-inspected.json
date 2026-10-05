@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-have-my-electrical-system-inspected",
+  "name": "How often should I have my electrical system inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my electrical system inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your electrical system inspected every 5-10 years, especially for older homes or after significant renovations. However, if you notice any unusual signs like burning smells, frequent breaker trips, or dimming lights, an immediate inspection is advised. This preparation ensures safety, identifies potential hazards, and helps prevent costly repairs down the line. Regular inspections help maintain the integrity and efficiency of your home's electrical infrastructure.",
+        "@type": "Answer",
+        "description": "Inspect your electrical system every 5-10 years, or immediately if you notice issues like burning smells or frequent breaker trips."
+      }
+    }
+  ],
+  "description": "Inspect your electrical system every 5-10 years, or immediately if you notice issues like burning smells or frequent breaker trips."
+}

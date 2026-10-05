@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-installing-new-lighting-during-a-bathroom-renovation",
+  "name": "What is the process for installing new lighting during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new lighting during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new lighting during a bathroom renovation typically starts with electrical planning, ensuring adequate circuits and switch locations. After demolition, new wiring is run to the fixture locations before walls are closed up. Fixtures are then installed after drywall and painting, followed by final electrical connections and testing. For areas like Berkeley, specific electrical codes may apply, which we ensure compliance with throughout the installation process for safety and functionality.",
+        "@type": "Answer",
+        "description": "New lighting installation in a bathroom involves electrical planning, wiring, fixture installation after drywall, and final connections. Local electrical codes are important."
+      }
+    }
+  ],
+  "description": "New lighting installation in a bathroom involves electrical planning, wiring, fixture installation after drywall, and final connections. Local electrical codes"
+}

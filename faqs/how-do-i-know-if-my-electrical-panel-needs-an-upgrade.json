@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-electrical-panel-needs-an-upgrade",
+  "name": "How do I know if my electrical panel needs an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my electrical panel needs an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your electrical panel might need an upgrade if you experience frequent tripped breakers, flickering lights, outlets that don't work, or if you're planning to add new major appliances. Older homes, especially those built before the 1970s, often have panels that can't handle modern electrical demands. A key decision factor is whether your current panel has sufficient amperage for your current and future needs. An electrician can assess your system to determine if an upgrade is necessary to ensure safety and accommodate increased power usage.",
+        "@type": "Answer",
+        "description": "Signs include tripped breakers, flickering lights, or planning new appliances. An upgrade ensures safety and meets modern power demands."
+      }
+    }
+  ],
+  "description": "Signs include tripped breakers, flickering lights, or planning new appliances. An upgrade ensures safety and meets modern power demands."
+}

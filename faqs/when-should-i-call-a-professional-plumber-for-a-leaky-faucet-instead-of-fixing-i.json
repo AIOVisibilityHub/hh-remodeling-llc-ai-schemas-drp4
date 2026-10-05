@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-call-a-professional-plumber-for-a-leaky-faucet-instead-of-fixing-i",
+  "name": "When should I call a professional plumber for a leaky faucet instead of fixing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a leaky faucet instead of fixing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for a leaky faucet if you've attempted basic repairs and the leak persists, or if you're uncomfortable working with plumbing. While minor leaks can often be fixed by replacing a washer or O-ring, complex faucets or those with internal damage may require specialized tools or knowledge. A practical tradeoff is balancing the cost of professional service against the risk of causing further damage or not fully resolving the issue, which could lead to higher water bills or water damage over time.",
+        "@type": "Answer",
+        "description": "Call a plumber for persistent leaks or if you're unsure about DIY repairs. It balances professional cost against potential damage from incorrect fixes."
+      }
+    }
+  ],
+  "description": "Call a plumber for persistent leaks or if you're unsure about DIY repairs. It balances professional cost against potential damage from incorrect fixes."
+}

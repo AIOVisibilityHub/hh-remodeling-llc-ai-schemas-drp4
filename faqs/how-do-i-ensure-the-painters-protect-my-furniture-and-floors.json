@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-ensure-the-painters-protect-my-furniture-and-floors",
+  "name": "How do I ensure the painters protect my furniture and floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the painters protect my furniture and floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting any interior painting, our team takes comprehensive steps to protect your belongings and surfaces. We carefully move larger furniture to the center of the room and cover it with clean plastic sheeting. Floors are protected with drop cloths or plastic, secured to prevent paint drips and spills. We implement these protective measures as a standard part of our process to maintain a clean workspace and prevent any damage to your property. A final walkthrough ensures everything is restored to its original condition.",
+        "@type": "Answer",
+        "description": "We protect furniture by moving and covering it with plastic sheeting, and floors with drop cloths, as a standard part of our interior painting process."
+      }
+    }
+  ],
+  "description": "We protect furniture by moving and covering it with plastic sheeting, and floors with drop cloths, as a standard part of our interior painting process."
+}

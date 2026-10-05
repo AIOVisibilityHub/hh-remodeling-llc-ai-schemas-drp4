@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-damaged-board-needs-replacement-or-just-repair",
+  "name": "How do I know if my damaged board needs replacement or just repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my damaged board needs replacement or just repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a damaged board depends on the extent and nature of the damage. Minor surface issues like small cracks or chips on a non-structural board might be repairable. However, if there's significant rot, structural compromise, or extensive insect damage, replacement is typically the safer and more durable solution. We conduct a thorough inspection to determine the best course of action, focusing on long-term stability and preventing recurring issues, which is a key part of our First-Party Insight in assessing damage.",
+        "@type": "Answer",
+        "description": "Replacement is needed for significant rot, structural compromise, or extensive insect damage. Minor surface issues may be repairable."
+      }
+    }
+  ],
+  "description": "Replacement is needed for significant rot, structural compromise, or extensive insect damage. Minor surface issues may be repairable."
+}

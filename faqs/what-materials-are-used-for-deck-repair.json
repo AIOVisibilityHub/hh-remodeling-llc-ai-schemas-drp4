@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-used-for-deck-repair",
+  "name": "What materials are used for deck repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for deck repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For deck repairs, we commonly work with pressure-treated lumber, cedar, redwood, and composite decking materials. The choice of material depends on the existing deck's composition, your budget, desired aesthetics, and durability requirements. For instance, matching existing redwood can maintain a consistent look, while using composite materials might offer enhanced longevity and less maintenance in specific repair areas. We can advise on the best material to ensure seamless integration and lasting results for your deck.",
+        "@type": "Answer",
+        "description": "We use pressure-treated lumber, cedar, redwood, and composite materials, chosen to match existing structures, budget, and durability needs."
+      }
+    }
+  ],
+  "description": "We use pressure-treated lumber, cedar, redwood, and composite materials, chosen to match existing structures, budget, and durability needs."
+}

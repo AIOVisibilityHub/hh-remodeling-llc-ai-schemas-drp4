@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-replace-just-a-few-damaged-deck-boards-or-do-i-need-to-replace-the-entire",
+  "name": "Can I replace just a few damaged deck boards, or do I need to replace the entire deck surface?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a few damaged deck boards, or do I need to replace the entire deck surface?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often replace individual or a small section of damaged deck boards, provided the surrounding boards and the underlying substructure are in good condition. This approach is more cost-effective and less disruptive than replacing the entire surface. However, a key consideration is matching the new boards to the existing ones in terms of material, color, and aging. It's important to assess if the overall wear and tear of the deck suggests that a full surface replacement would offer more uniform appearance and extend the life of the entire deck more effectively. Our assessment can help determine the most appropriate scope for your project.",
+        "@type": "Answer",
+        "description": "You can replace a few damaged deck boards if the surrounding structure is sound, but consider if a full replacement offers better uniformity and longevity."
+      }
+    }
+  ],
+  "description": "You can replace a few damaged deck boards if the surrounding structure is sound, but consider if a full replacement offers better uniformity and longevity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-deck-for-a-repair-service",
+  "name": "How can I prepare my deck for a repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my deck for a repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your deck for repair, you should clear all furniture, planters, grills, and other items from the deck surface and surrounding area. This provides our team with unobstructed access to assess and work on the deck efficiently. Additionally, ensure there is a clear path to the deck from where our crew will access the property. Informing us of any specific concerns or previous repair history during the initial consultation can also be very helpful in streamlining the repair process.",
+        "@type": "Answer",
+        "description": "Clear all furniture and items from the deck and ensure clear access for our team. Inform us of any specific concerns."
+      }
+    }
+  ],
+  "description": "Clear all furniture and items from the deck and ensure clear access for our team. Inform us of any specific concerns."
+}

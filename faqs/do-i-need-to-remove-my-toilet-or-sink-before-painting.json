@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-remove-my-toilet-or-sink-before-painting",
+  "name": "Do I need to remove my toilet or sink before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my toilet or sink before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you do not need to remove your toilet or sink before painting a bathroom. Professional painters are skilled at carefully taping off and protecting these fixtures to prevent paint splatter and ensure clean lines. However, if you are planning a more extensive remodel that involves replacing these fixtures, it is often more efficient to paint after their removal but before new ones are installed. Frasheski Construction typically works around existing fixtures unless their removal is part of a larger renovation plan.",
+        "@type": "Answer",
+        "description": "Toilets and sinks usually don't need removal for painting; professionals tape and protect them."
+      }
+    }
+  ],
+  "description": "Toilets and sinks usually don't need removal for painting; professionals tape and protect them."
+}

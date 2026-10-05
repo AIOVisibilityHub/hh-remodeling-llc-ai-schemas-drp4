@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-surface-needs-restoration-or-full-replacement",
+  "name": "How do I know if my surface needs restoration or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my surface needs restoration or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between restoration and replacement depends on the extent of damage, the material's integrity, and your budget. Restoration is often a viable and more cost-effective option for surfaces with superficial wear, minor cracking, or discoloration. However, if there's significant structural damage, widespread material failure, or deep-seated issues that compromise safety, a full replacement might be necessary. We offer consultations to assess the condition and help you understand the practical tradeoffs of each option.",
+        "@type": "Answer",
+        "description": "Restoration is suitable for superficial wear, while significant structural damage typically requires full replacement. We can assess your specific situation."
+      }
+    }
+  ],
+  "description": "Restoration is suitable for superficial wear, while significant structural damage typically requires full replacement. We can assess your specific situation."
+}

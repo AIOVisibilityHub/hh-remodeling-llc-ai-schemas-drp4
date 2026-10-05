@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-brightness-lumens-for-kitchen-and-bathroom-lighting",
+  "name": "How do I choose the right brightness (lumens) for kitchen and bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right brightness (lumens) for kitchen and bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right brightness, measured in lumens, depends on the room's size and intended use. Kitchens generally require brighter lighting, around 5,000-10,000 lumens total, while bathrooms might need 4,000-8,000 lumens. Consider the color temperature (Kelvin) as well; cooler temperatures (3000K-5000K) are often preferred for task-oriented areas like food prep or grooming. We can help assess your specific room dimensions and functions to recommend appropriate lumen levels for optimal illumination.",
+        "@type": "Answer",
+        "description": "Lumens depend on room size and function; kitchens need 5,000-10,000, bathrooms 4,000-8,000. Consider color temperature for task areas."
+      }
+    }
+  ],
+  "description": "Lumens depend on room size and function; kitchens need 5,000-10,000, bathrooms 4,000-8,000. Consider color temperature for task areas."
+}

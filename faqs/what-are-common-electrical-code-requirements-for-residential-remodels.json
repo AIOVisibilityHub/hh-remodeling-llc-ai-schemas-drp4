@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-electrical-code-requirements-for-residential-remodels",
+  "name": "What are common electrical code requirements for residential remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common electrical code requirements for residential remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common electrical code requirements for residential remodels often include specific rules for GFCI (Ground-Fault Circuit Interrupter) and AFCI (Arc-Fault Circuit Interrupter) protection in various areas like kitchens, bathrooms, bedrooms, and basements. It also dictates the minimum number of outlets per room, proper wire gauging for circuits, and safe installation practices for lighting and appliances. Your local jurisdiction, such as those in the East Bay, will follow the California Electrical Code, which is based on the National Electrical Code, with potential local amendments. Adhering to these codes ensures safety and passes inspections.",
+        "@type": "Answer",
+        "description": "Common electrical codes for remodels require GFCI/AFCI protection, specific outlet counts, proper wiring, and safe installation practices according to local and state standards."
+      }
+    }
+  ],
+  "description": "Common electrical codes for remodels require GFCI/AFCI protection, specific outlet counts, proper wiring, and safe installation practices according to local and"
+}

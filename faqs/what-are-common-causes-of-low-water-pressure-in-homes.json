@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-causes-of-low-water-pressure-in-homes",
+  "name": "What are common causes of low water pressure in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of low water pressure in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure can stem from various issues, including mineral buildup in pipes, corroded or clogged pipes, a faulty pressure regulator, or leaks in your plumbing system. Sometimes, the problem originates outside your home, such as municipal supply issues. To identify the exact cause, a plumber will typically inspect your pipes, check the main water shut-off valve, and test the pressure regulator. Understanding the cause is crucial for choosing the correct repair, ranging from simple valve adjustments to more complex repiping.",
+        "@type": "Answer",
+        "description": "Low water pressure can be caused by pipe buildup, corrosion, a faulty regulator, or leaks. A plumber can diagnose and address the issue."
+      }
+    }
+  ],
+  "description": "Low water pressure can be caused by pipe buildup, corrosion, a faulty regulator, or leaks. A plumber can diagnose and address the issue."
+}

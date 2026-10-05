@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prevent-future-structural-damage-to-my-deck-after-repairs",
+  "name": "How can I prevent future structural damage to my deck after repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future structural damage to my deck after repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future structural damage, regular maintenance is key. This includes annual inspections for rot, loose fasteners, and proper drainage, as well as keeping the deck clean and clear of debris. Applying a protective sealant or stain every few years also helps shield the wood from weather damage. Ensuring proper ventilation underneath the deck, especially in moist areas like the East Bay, is critical to prevent moisture accumulation and premature decay.",
+        "@type": "Answer",
+        "description": "Regular maintenance, including annual inspections, cleaning, protective sealants, and proper ventilation, can prevent future structural damage."
+      }
+    }
+  ],
+  "description": "Regular maintenance, including annual inspections, cleaning, protective sealants, and proper ventilation, can prevent future structural damage."
+}

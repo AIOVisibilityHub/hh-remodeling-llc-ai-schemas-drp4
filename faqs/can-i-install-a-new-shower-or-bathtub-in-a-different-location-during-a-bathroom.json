@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-a-new-shower-or-bathtub-in-a-different-location-during-a-bathroom",
+  "name": "Can I install a new shower or bathtub in a different location during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new shower or bathtub in a different location during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to install a new shower or bathtub in a different location during a bathroom renovation, but it significantly increases the complexity and cost of the project. Moving these fixtures typically requires re-routing water supply and drain lines, which may involve breaking into concrete slabs or opening up walls and floors. This also often necessitates obtaining additional permits and can extend the project timeline. We can evaluate the feasibility and provide a detailed plan for such changes, helping you weigh the tradeoffs involved in your desired layout.",
+        "@type": "Answer",
+        "description": "Moving a shower or bathtub requires re-routing pipes, increasing complexity and cost, and often needs additional permits. We can assess feasibility."
+      }
+    }
+  ],
+  "description": "Moving a shower or bathtub requires re-routing pipes, increasing complexity and cost, and often needs additional permits. We can assess feasibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-railing-needs-repair-or-full-replacement",
+  "name": "How do I know if my railing needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my railing needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether your railing needs repair or full replacement depends on the extent of the damage. Minor issues like a few loose pickets or a small section of rot can often be repaired. However, widespread structural damage, significant rot in support posts, or extensive material degradation typically necessitate a full replacement. Frasheski Construction provides site assessments to evaluate the railing's condition and recommend the most cost-effective and safest long-term solution based on our experience in the Berkeley and East Bay areas.",
+        "@type": "Answer",
+        "description": "Minor damage often allows for repair, while widespread structural issues or rot usually require full replacement. We assess to recommend the best solution."
+      }
+    }
+  ],
+  "description": "Minor damage often allows for repair, while widespread structural issues or rot usually require full replacement. We assess to recommend the best solution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-furniture-out-of-the-room-before-painting",
+  "name": "Do I need to move furniture out of the room before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture out of the room before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always strictly necessary to completely empty a room, it is highly recommended to remove as much furniture as possible. This allows for easier access to all wall surfaces, speeds up the painting process, and minimizes the risk of paint splatters on your belongings. Smaller items and valuables should definitely be removed. For larger, immovable pieces, we can help shift them to the center of the room and cover them thoroughly to protect them from paint. This preparation step helps ensure efficiency and a cleaner outcome.",
+        "@type": "Answer",
+        "description": "Removing furniture is recommended for easier access and to protect belongings; large items can be moved and covered."
+      }
+    }
+  ],
+  "description": "Removing furniture is recommended for easier access and to protect belongings; large items can be moved and covered."
+}

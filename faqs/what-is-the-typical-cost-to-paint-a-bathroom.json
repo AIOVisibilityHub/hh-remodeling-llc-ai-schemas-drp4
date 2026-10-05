@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-to-paint-a-bathroom",
+  "name": "What is the typical cost to paint a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to paint a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to paint a bathroom can vary significantly, generally ranging from a few hundred to over a thousand dollars. Factors influencing the price include the bathroom's square footage, the height of the ceilings, the condition of the walls requiring repair, and the quality of paint chosen. While standard painting provides a refresh, specialized finishes or extensive surface preparation can increase the total cost. Frasheski Construction provides detailed estimates based on a thorough assessment of your specific project.",
+        "@type": "Answer",
+        "description": "Bathroom painting costs vary based on size, wall condition, and paint quality; expect a few hundred to over a thousand dollars."
+      }
+    }
+  ],
+  "description": "Bathroom painting costs vary based on size, wall condition, and paint quality; expect a few hundred to over a thousand dollars."
+}

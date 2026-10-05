@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-wood-fence-repair-take",
+  "name": "How long does a typical wood fence repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood fence repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood fence repair depends on the extent and type of damage. Minor repairs, such as replacing a few pickets or a single post, might take a few hours to a full day. More extensive repairs involving multiple sections or structural adjustments could take several days. We provide an estimated timeline after a thorough on-site assessment, ensuring transparency before starting any work.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage severity. Minor repairs can take hours to a day, while extensive work may take several days. We provide timelines after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage severity. Minor repairs can take hours to a day, while extensive work may take several days. We provide timelines after asses"
+}

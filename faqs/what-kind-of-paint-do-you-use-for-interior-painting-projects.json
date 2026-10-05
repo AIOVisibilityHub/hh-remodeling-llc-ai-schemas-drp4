@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-do-you-use-for-interior-painting-projects",
+  "name": "What kind of paint do you use for interior painting projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior painting projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, low-VOC (Volatile Organic Compound) latex paints for interior projects due to their durability, ease of cleaning, and minimal odor. The specific brand and finish (e.g., flat, eggshell, satin) are selected based on the room's function, desired aesthetic, and your preferences. For example, high-traffic areas or kitchens often benefit from more durable, washable finishes like satin or eggshell. We are happy to discuss various options and their respective benefits during our consultation.",
+        "@type": "Answer",
+        "description": "We use high-quality, low-VOC latex paints, selecting specific brands and finishes based on room function, desired aesthetic, and client preference."
+      }
+    }
+  ],
+  "description": "We use high-quality, low-VOC latex paints, selecting specific brands and finishes based on room function, desired aesthetic, and client preference."
+}

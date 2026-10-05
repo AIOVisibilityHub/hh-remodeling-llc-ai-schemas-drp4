@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-deck-repair",
+  "name": "What is the typical process for deck repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for deck repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our deck repair process generally begins with a thorough inspection of your existing deck to identify all issues, from surface damage to structural integrity. Following this, we provide a detailed proposal outlining the necessary repairs and estimated costs. Once approved, our team carefully removes damaged components, makes structural reinforcements if needed, replaces deteriorated wood, and ensures all new materials are properly secured and finished to match or improve your deck's appearance and safety. The specific steps depend on the assessment and complexity of the project.",
+        "@type": "Answer",
+        "description": "The process involves inspection, proposal, removal of damaged parts, structural repair, and replacement of materials. Specific steps vary by project."
+      }
+    }
+  ],
+  "description": "The process involves inspection, proposal, removal of damaged parts, structural repair, and replacement of materials. Specific steps vary by project."
+}

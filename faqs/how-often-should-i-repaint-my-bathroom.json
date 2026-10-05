@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-repaint-my-bathroom",
+  "name": "How often should I repaint my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should generally consider repainting your bathroom every 3-5 years, or sooner if you notice peeling, bubbling, or mildew growth. The high humidity and frequent cleaning in bathrooms mean paint can deteriorate faster than in other rooms. Regular inspection of your bathroom paint can help identify areas that need attention. Frasheski Construction offers assessments to determine the optimal timing for repainting, ensuring your bathroom remains protected and visually appealing.",
+        "@type": "Answer",
+        "description": "Repaint bathrooms every 3-5 years, or sooner if paint shows signs of wear from humidity."
+      }
+    }
+  ],
+  "description": "Repaint bathrooms every 3-5 years, or sooner if paint shows signs of wear from humidity."
+}

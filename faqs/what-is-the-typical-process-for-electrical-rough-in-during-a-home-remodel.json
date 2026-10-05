@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-electrical-rough-in-during-a-home-remodel",
+  "name": "What is the typical process for electrical rough-in during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for electrical rough-in during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The electrical rough-in process involves installing all necessary wiring, junction boxes, and electrical panels before insulation and drywall are installed. After demolition, the electrician marks locations for outlets, switches, and fixtures according to the approved plans. Wires are then run through wall studs, ceiling joists, and floor joists, connecting to the main electrical panel. This stage requires careful planning and adherence to electrical codes. Once the rough-in is complete and inspected by the local authority, insulation and drywall can proceed, followed by the final electrical trim-out.",
+        "@type": "Answer",
+        "description": "Electrical rough-in involves installing wiring, boxes, and panels in walls before insulation and drywall, followed by local inspections."
+      }
+    }
+  ],
+  "description": "Electrical rough-in involves installing wiring, boxes, and panels in walls before insulation and drywall, followed by local inspections."
+}

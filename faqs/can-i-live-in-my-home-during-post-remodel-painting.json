@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-post-remodel-painting",
+  "name": "Can I live in my home during post-remodel painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during post-remodel painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to live in your home during post-remodel painting, it requires careful coordination and can impact your comfort due to paint fumes and limited access to certain areas. Painters at Frasheski Construction typically use low-VOC paints where possible to minimize odors, but some disruption is unavoidable. Discussing the painting schedule and potential for temporary relocation for specific phases, such as whole-interior painting, will help manage expectations and minimize inconvenience.",
+        "@type": "Answer",
+        "description": "Living in your home during painting is possible but involves fumes and limited access; discuss schedules and low-VOC options with your contractor."
+      }
+    }
+  ],
+  "description": "Living in your home during painting is possible but involves fumes and limited access; discuss schedules and low-VOC options with your contractor."
+}

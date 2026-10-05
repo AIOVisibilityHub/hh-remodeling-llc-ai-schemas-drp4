@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-hire-a-plumber-and-electrician-for-a-vanity-upgrade",
+  "name": "Do I need to hire a plumber and electrician for a vanity upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a plumber and electrician for a vanity upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most bathroom vanity upgrades, especially those involving new plumbing fixtures or relocating existing lines, a licensed plumber is necessary to ensure proper water supply and drainage connections. If you're adding new lighting, outlets within the vanity, or moving existing electrical, a qualified electrician is also essential for safety and code compliance. We manage all necessary sub-trades like plumbers and electricians, streamlining the process so you don't have to coordinate multiple contractors.",
+        "@type": "Answer",
+        "description": "Yes, a plumber is typically needed for new fixtures or lines, and an electrician if adding or moving outlets/lighting within the vanity."
+      }
+    }
+  ],
+  "description": "Yes, a plumber is typically needed for new fixtures or lines, and an electrician if adding or moving outlets/lighting within the vanity."
+}

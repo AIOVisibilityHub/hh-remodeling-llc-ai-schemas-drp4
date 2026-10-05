@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-typically-take-to-paint-a-room",
+  "name": "How long does it typically take to paint a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to paint a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a room varies based on its size, the amount of prep work needed, and the number of coats. A standard bedroom, for instance, might take one to two days including surface preparation, patching, priming, and applying two coats of paint. Larger rooms or those with extensive damage requiring repair can take longer. It's important to account for drying times between coats, which can extend the overall project duration. We prioritize thorough preparation to ensure a durable and high-quality finish.",
+        "@type": "Answer",
+        "description": "Painting a room typically takes 1-2 days, depending on size, prep work, and number of coats, including drying times."
+      }
+    }
+  ],
+  "description": "Painting a room typically takes 1-2 days, depending on size, prep work, and number of coats, including drying times."
+}

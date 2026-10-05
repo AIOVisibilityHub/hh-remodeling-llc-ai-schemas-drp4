@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-regarding-smart-home-technology-integration-during-an-ele",
+  "name": "What should I consider regarding smart home technology integration during an electrical remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider regarding smart home technology integration during an electrical remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When integrating smart home technology during an electrical remodel, consider the type of devices you want to install and their power and networking requirements. Many smart devices, such as smart switches, dimmers, and thermostats, require specific wiring configurations, like a neutral wire, which may not be present in older homes. Plan for adequate Wi-Fi coverage and consider dedicated data lines for high-bandwidth devices. Discussing your smart home goals with your electrician early allows for the necessary infrastructure to be installed, ensuring seamless integration and future expandability.",
+        "@type": "Answer",
+        "description": "Consider smart device power and networking needs, such as neutral wire requirements, and discuss with your electrician early to integrate smart home tech seamlessly."
+      }
+    }
+  ],
+  "description": "Consider smart device power and networking needs, such as neutral wire requirements, and discuss with your electrician early to integrate smart home tech seamle"
+}

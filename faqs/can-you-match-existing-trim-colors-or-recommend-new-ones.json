@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-trim-colors-or-recommend-new-ones",
+  "name": "Can you match existing trim colors or recommend new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim colors or recommend new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can absolutely match existing trim colors or help you select new ones. For color matching, we use advanced color-matching technology or professional swatch comparisons to accurately replicate your current trim color. If you're looking for a change, our team can provide expert recommendations based on your home's aesthetic, natural lighting, and wall colors. We can also help you choose a consistent trim color across different rooms, which often enhances flow and cohesion throughout your home in areas like Berkeley and Albany.",
+        "@type": "Answer",
+        "description": "We can match existing trim colors using advanced technology or recommend new ones based on your home's aesthetic, lighting, and wall colors."
+      }
+    }
+  ],
+  "description": "We can match existing trim colors using advanced technology or recommend new ones based on your home's aesthetic, lighting, and wall colors."
+}

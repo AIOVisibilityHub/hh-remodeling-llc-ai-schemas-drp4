@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-choose-the-right-color-for-my-bathroom",
+  "name": "How can I choose the right color for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right color for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right bathroom color often depends on the bathroom's size, lighting, and your desired aesthetic. Lighter colors can make small bathrooms feel larger and brighter, while darker hues can add a sense of luxury or drama to larger spaces. Consider how the color will complement existing fixtures and tiles. Frasheski Construction can provide insights into current trends and classic choices that perform well in East Bay homes, helping you achieve a cohesive and appealing look.",
+        "@type": "Answer",
+        "description": "Consider bathroom size, lighting, and existing fixtures when choosing a color; lighter colors suit small spaces."
+      }
+    }
+  ],
+  "description": "Consider bathroom size, lighting, and existing fixtures when choosing a color; lighter colors suit small spaces."
+}

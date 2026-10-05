@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-use-my-stairs-during-the-repair-process",
+  "name": "Can I use my stairs during the repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my stairs during the repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For safety reasons, it is generally not recommended to use stairs while they are undergoing significant repair, especially if structural components like treads or risers are being replaced or stabilized. Our team prioritizes your safety and will advise on access limitations. Depending on the scope of work, we may be able to restrict access to only a portion of the staircase or implement temporary safety measures. Frasheski Construction will communicate any necessary access restrictions during the planning phase to minimize disruption.",
+        "@type": "Answer",
+        "description": "Using stairs during significant repair is generally unsafe. Frasheski Construction will advise on access limitations and temporary safety measures during the repair process."
+      }
+    }
+  ],
+  "description": "Using stairs during significant repair is generally unsafe. Frasheski Construction will advise on access limitations and temporary safety measures during the re"
+}

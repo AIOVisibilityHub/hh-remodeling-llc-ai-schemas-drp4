@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-repair-or-replace-a-rotted-fence-post",
+  "name": "Should I repair or replace a rotted fence post?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace a rotted fence post?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a rotted fence post depends on the severity and location of the rot. If the rot is confined to the base and the rest of the post is sound, repair using a post-saver or concrete reinforcement might be sufficient. However, if the rot extends significantly up the post or affects multiple sides, replacement is often a more durable long-term solution. A practical tradeoff is balancing the immediate cost savings of repair against the longevity and stability offered by a full replacement. An assessment by Frasheski Construction can help determine the best approach.",
+        "@type": "Answer",
+        "description": "Repair minor rot at the base; replace if rot is extensive. Balance immediate cost savings of repair against the long-term stability of replacement."
+      }
+    }
+  ],
+  "description": "Repair minor rot at the base; replace if rot is extensive. Balance immediate cost savings of repair against the long-term stability of replacement."
+}
