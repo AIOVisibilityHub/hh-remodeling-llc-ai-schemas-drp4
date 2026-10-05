@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-reasons-for-gate-repair",
+  "name": "What are common reasons for gate repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for gate repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common reasons for gate repair include motor malfunctions, sensor issues, physical damage from impacts, worn-out hinges or rollers, and electrical problems. Weather conditions can also affect gate operation, leading to rust or corrosion that impairs functionality. Regular use can cause components to wear down over time, requiring professional attention to maintain smooth operation and security.",
+        "@type": "Answer",
+        "description": "Common reasons for gate repair include motor or sensor malfunctions, physical damage, worn components, and electrical issues."
+      }
+    }
+  ],
+  "description": "Common reasons for gate repair include motor or sensor malfunctions, physical damage, worn components, and electrical issues."
+}

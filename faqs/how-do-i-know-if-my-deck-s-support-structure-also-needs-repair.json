@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-deck-s-support-structure-also-needs-repair",
+  "name": "How do I know if my deck's support structure also needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my deck's support structure also needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are replacing deck boards, it's crucial to inspect the underlying support structure for signs of rot, insect damage, or structural weakness. Look for soft spots, crumbling wood, or excessive movement in joists, beams, and posts. Any visible damage or instability in these components indicates that the support structure also needs repair or replacement to ensure the deck's safety and longevity.",
+        "@type": "Answer",
+        "description": "Inspect the support structure for rot, insect damage, or weakness if replacing boards. Address any issues for safety and longevity."
+      }
+    }
+  ],
+  "description": "Inspect the support structure for rot, insect damage, or weakness if replacing boards. Address any issues for safety and longevity."
+}

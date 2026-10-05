@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-replace-my-kitchen-faucet-versus-repairing-it",
+  "name": "When should I replace my kitchen faucet versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my kitchen faucet versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your kitchen faucet if it frequently leaks, has low water pressure, or shows significant signs of wear and tear like corrosion or difficulty in operation. If the repair cost approaches the cost of a new, more efficient faucet, replacement is often a better long-term investment. Simple issues like a dripping faucet due to a worn-out washer can often be repaired cost-effectively.",
+        "@type": "Answer",
+        "description": "Replace your kitchen faucet if it frequently leaks, has low pressure, or shows significant wear; repair it for minor issues like a dripping washer."
+      }
+    }
+  ],
+  "description": "Replace your kitchen faucet if it frequently leaks, has low pressure, or shows significant wear; repair it for minor issues like a dripping washer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-causes-fence-posts-to-fail",
+  "name": "What causes fence posts to fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes fence posts to fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fence posts typically fail due to a combination of environmental factors and structural issues. Common causes include rot at the ground line, often from prolonged moisture exposure, poor drainage, or inadequate sealing. Insect infestations like termites or carpenter ants can also compromise post integrity. Additionally, strong winds, soil shifting, or impact damage can weaken posts over time, leading to instability and eventual failure.",
+        "@type": "Answer",
+        "description": "Fence posts fail due to rot from moisture, insect damage, strong winds, soil shifting, or impact."
+      }
+    }
+  ],
+  "description": "Fence posts fail due to rot from moisture, insect damage, strong winds, soil shifting, or impact."
+}

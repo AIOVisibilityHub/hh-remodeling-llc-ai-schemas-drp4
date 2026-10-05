@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-preparation-is-needed-before-you-start-painting-my-kitchen",
+  "name": "What preparation is needed before you start painting my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before you start painting my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin painting your kitchen, our team will take several essential steps to protect your home and ensure a high-quality finish. This includes carefully covering countertops, floors, and appliances with drop cloths and plastic sheeting. We will also remove cabinet doors and drawers, hardware, and light fixtures as needed. Surfaces will be thoroughly cleaned, degreased, and sanded to create an optimal painting surface. Any holes or imperfections will be filled and smoothed.",
+        "@type": "Answer",
+        "description": "We prepare by covering surfaces, removing hardware, cleaning, sanding, and filling imperfections."
+      }
+    }
+  ],
+  "description": "We prepare by covering surfaces, removing hardware, cleaning, sanding, and filling imperfections."
+}

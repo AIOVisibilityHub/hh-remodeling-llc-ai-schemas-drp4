@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-create-a-realistic-budget-for-my-remodel",
+  "name": "How do I create a realistic budget for my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I create a realistic budget for my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To create a realistic remodel budget, begin by identifying your priorities and must-have features. Research average costs for similar projects in the Berkeley and East Bay areas. Include a contingency fund, typically 10-20% of your total budget, for unexpected expenses. Discuss your budget openly with your contractor, as they can provide valuable insights and help you make cost-effective decisions.",
+        "@type": "Answer",
+        "description": "Identify priorities, research local costs, and include a 10-20% contingency fund in your remodel budget."
+      }
+    }
+  ],
+  "description": "Identify priorities, research local costs, and include a 10-20% contingency fund in your remodel budget."
+}

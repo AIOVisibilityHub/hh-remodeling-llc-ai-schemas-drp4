@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-repairing-and-replacing-a-wood-fence-panel",
+  "name": "What is the difference between repairing and replacing a wood fence panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a wood fence panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a wood fence panel involves fixing specific damaged sections, such as replacing a few pickets or a rail, to restore its functionality and appearance. Replacing a wood fence panel means removing the entire section and installing a new one. Repair is suitable for localized damage, while replacement is often necessary for widespread rot, structural failure, or significant aesthetic issues.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific damaged sections; replacing means installing a new entire panel. Repair is for localized damage, replacement for widespread issues."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific damaged sections; replacing means installing a new entire panel. Repair is for localized damage, replacement for widespread issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-colors-are-best-for-a-small-bathroom",
+  "name": "What colors are best for a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are best for a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small bathrooms, lighter paint colors are generally recommended as they reflect more light, making the space feel larger and more open. Soft neutrals like off-white, light gray, or pale blues and greens can create a serene and airy atmosphere. While darker colors can add drama, they tend to make a small space feel more enclosed. Consider your overall home aesthetic and existing fixtures when choosing a color.",
+        "@type": "Answer",
+        "description": "Lighter colors like off-white, light gray, or pale blues and greens are best for small bathrooms to make the space feel larger and more open."
+      }
+    }
+  ],
+  "description": "Lighter colors like off-white, light gray, or pale blues and greens are best for small bathrooms to make the space feel larger and more open."
+}

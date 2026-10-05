@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-professional-fence-post-repair",
+  "name": "When do I need professional fence-post repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional fence-post repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional fence-post repair if you notice significant wobbling, leaning, or rotting at the base of your fence posts. Other signs include visible cracks, insect damage, or if your fence is no longer standing straight. Addressing these issues promptly prevents further damage to the entire fence structure, maintaining its stability and appearance. Early repair can often be more cost-effective than a full fence replacement.",
+        "@type": "Answer",
+        "description": "Professional fence-post repair is needed for significant wobbling, leaning, rot, cracks, insect damage, or if the fence is not straight."
+      }
+    }
+  ],
+  "description": "Professional fence-post repair is needed for significant wobbling, leaning, rot, cracks, insect damage, or if the fence is not straight."
+}

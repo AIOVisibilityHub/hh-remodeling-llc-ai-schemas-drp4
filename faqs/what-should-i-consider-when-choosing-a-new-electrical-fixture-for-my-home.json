@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-a-new-electrical-fixture-for-my-home",
+  "name": "What should I consider when choosing a new electrical fixture for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new electrical fixture for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new electrical fixture, consider its purpose, style, and compatibility with your existing electrical system. Think about the amount of light needed, the aesthetic of your room, and whether you want features like dimming capabilities or smart home integration. Ensure the fixture's size and weight are appropriate for its location and that your electrical box can support it. Also, check for energy efficiency ratings. Consulting with an electrician can help ensure your chosen fixture is suitable and safely installed.",
+        "@type": "Answer",
+        "description": "When choosing an electrical fixture, consider its purpose, style, light output, size, compatibility with your electrical system, and energy efficiency."
+      }
+    }
+  ],
+  "description": "When choosing an electrical fixture, consider its purpose, style, light output, size, compatibility with your electrical system, and energy efficiency."
+}

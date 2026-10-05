@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-deck-repair-services-in-oakland-and-the-surrounding-east-bay-area",
+  "name": "Do you offer deck repair services in Oakland and the surrounding East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer deck repair services in Oakland and the surrounding East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly offers comprehensive deck repair services throughout Oakland and the wider East Bay area. Our service region includes Berkeley, Albany, El Cerrito, and other surrounding communities. We understand the specific needs and weather considerations of decks in this region, ensuring durable and effective repairs. Contact us to schedule an inspection and receive a personalized estimate for your deck repair project in the East Bay.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction provides deck repair services in Oakland, Berkeley, Albany, El Cerrito, and the surrounding East Bay area."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction provides deck repair services in Oakland, Berkeley, Albany, El Cerrito, and the surrounding East Bay area."
+}

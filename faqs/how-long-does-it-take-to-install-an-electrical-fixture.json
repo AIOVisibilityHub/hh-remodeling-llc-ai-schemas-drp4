@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-install-an-electrical-fixture",
+  "name": "How long does it take to install an electrical fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an electrical fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install an electrical fixture can range from 30 minutes to several hours, depending on the complexity. A straightforward replacement of a light fixture in an existing electrical box might take less than an hour. Installing a ceiling fan, especially one that requires assembly or has complex wiring, could take 1-2 hours. If new wiring needs to be run, or if the electrical box needs to be installed or relocated, the process will take significantly longer, potentially half a day or more, requiring more extensive work.",
+        "@type": "Answer",
+        "description": "Installation time for an electrical fixture varies from 30 minutes to several hours, depending on complexity and if new wiring is needed."
+      }
+    }
+  ],
+  "description": "Installation time for an electrical fixture varies from 30 minutes to several hours, depending on complexity and if new wiring is needed."
+}

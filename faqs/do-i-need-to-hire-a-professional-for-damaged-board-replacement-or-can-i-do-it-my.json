@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-hire-a-professional-for-damaged-board-replacement-or-can-i-do-it-my",
+  "name": "Do I need to hire a professional for damaged board replacement, or can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a professional for damaged board replacement, or can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface repairs might be suitable for a skilled DIYer, significant damaged board replacement, especially involving structural elements or large areas, is best handled by professionals. We have the expertise, tools, and experience to ensure proper structural integrity, correct material matching, and a durable, aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "Professionals are recommended for significant or structural damaged board replacement to ensure proper integrity and finish."
+      }
+    }
+  ],
+  "description": "Professionals are recommended for significant or structural damaged board replacement to ensure proper integrity and finish."
+}

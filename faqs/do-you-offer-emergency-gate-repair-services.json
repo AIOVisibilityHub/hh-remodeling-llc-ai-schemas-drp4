@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-gate-repair-services",
+  "name": "Do you offer emergency gate repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency gate repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We understand that gate malfunctions can happen unexpectedly and often require urgent attention, especially for security reasons. While we do not explicitly advertise 24/7 emergency services, we strive to respond to urgent repair requests promptly. Please contact us as soon as possible if you have an urgent gate repair need in the Berkeley, East Bay, Oakland, Albany, or El Cerrito areas, and we will do our best to accommodate you.",
+        "@type": "Answer",
+        "description": "We do not offer 24/7 emergency services, but we aim to respond promptly to urgent gate repair requests."
+      }
+    }
+  ],
+  "description": "We do not offer 24/7 emergency services, but we aim to respond promptly to urgent gate repair requests."
+}

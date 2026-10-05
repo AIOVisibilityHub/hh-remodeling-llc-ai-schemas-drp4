@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-materials-do-you-use-for-stair-repair",
+  "name": "What types of materials do you use for stair repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials do you use for stair repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use a variety of high-quality materials for stair repair, selected to match your existing stairs or improve their durability. This includes different types of wood, such as oak or pine, as well as composite materials, and concrete. The choice of material depends on the stair's location, existing construction, and your preferences.",
+        "@type": "Answer",
+        "description": "We use various high-quality materials like wood, composite, and concrete for stair repair."
+      }
+    }
+  ],
+  "description": "We use various high-quality materials like wood, composite, and concrete for stair repair."
+}

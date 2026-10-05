@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-repairing-my-stairs-improve-my-home-s-value",
+  "name": "Can repairing my stairs improve my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can repairing my stairs improve my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing damaged or outdated stairs can significantly improve your home's aesthetic appeal and safety, which can positively impact its overall value. Well-maintained stairs contribute to a positive first impression and can be a strong selling point. Addressing repairs proactively also prevents more expensive issues down the line.",
+        "@type": "Answer",
+        "description": "Yes, repairing stairs improves aesthetics and safety, positively impacting home value and preventing future costs."
+      }
+    }
+  ],
+  "description": "Yes, repairing stairs improves aesthetics and safety, positively impacting home value and preventing future costs."
+}

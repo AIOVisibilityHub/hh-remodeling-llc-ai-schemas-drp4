@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-plumbing-coordination-begin-during-construction",
+  "name": "When should plumbing coordination begin during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should plumbing coordination begin during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing coordination should begin early in the design phase of a construction project. This allows for integration with architectural plans and structural elements, preventing costly rework later on. Early involvement ensures that adequate space is allocated for pipes and equipment and that the plumbing system aligns with the overall building design and functionality.",
+        "@type": "Answer",
+        "description": "Plumbing coordination should begin early in the design phase to integrate with architectural plans."
+      }
+    }
+  ],
+  "description": "Plumbing coordination should begin early in the design phase to integrate with architectural plans."
+}

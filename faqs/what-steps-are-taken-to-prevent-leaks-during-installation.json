@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-steps-are-taken-to-prevent-leaks-during-installation",
+  "name": "What steps are taken to prevent leaks during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are taken to prevent leaks during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent leaks, plumbers use several methods, including proper pipe fitting and sealing techniques, such as using thread sealant or Teflon tape on threaded connections. All connections are tightened to the correct specifications, avoiding overtightening which can crack pipes or fittings. After installation, the system undergoes pressure testing, where water is run through the new pipes at elevated pressure to detect any weaknesses or leaks before walls are closed up and fixtures are permanently installed. Thorough visual inspections are also conducted at each stage.",
+        "@type": "Answer",
+        "description": "Plumbers prevent leaks through proper pipe fitting, sealing techniques, correct tightening, pressure testing, and thorough visual inspections."
+      }
+    }
+  ],
+  "description": "Plumbers prevent leaks through proper pipe fitting, sealing techniques, correct tightening, pressure testing, and thorough visual inspections."
+}

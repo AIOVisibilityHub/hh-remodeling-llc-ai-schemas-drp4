@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-electrical-fixture-installation",
+  "name": "What is involved in electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electrical fixture installation involves safely connecting a new lighting fixture, ceiling fan, or other electrical device to your home's wiring. This typically includes turning off power at the circuit breaker, removing the old fixture, preparing the new fixture for installation, wiring it correctly to the existing electrical box, mounting it securely, and then restoring power to test its functionality. For complex installations or when modifying existing wiring, professional help is recommended to ensure safety and compliance with electrical codes.",
+        "@type": "Answer",
+        "description": "Electrical fixture installation connects new devices to your home's wiring, involving safety steps like power cutoff and correct wiring."
+      }
+    }
+  ],
+  "description": "Electrical fixture installation connects new devices to your home's wiring, involving safety steps like power cutoff and correct wiring."
+}

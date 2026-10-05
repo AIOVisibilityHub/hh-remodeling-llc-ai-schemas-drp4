@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-plumber-and-a-plumbing-coordinator-on-a-construc",
+  "name": "What's the difference between a plumber and a plumbing coordinator on a construction site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a plumber and a plumbing coordinator on a construction site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumber primarily focuses on the physical installation, repair, and maintenance of plumbing systems. A plumbing coordinator, however, oversees the entire planning and integration of these systems within a larger construction project. The coordinator ensures all plumbing aspects align with architectural plans, budgets, and schedules, and that they integrate smoothly with other trades.",
+        "@type": "Answer",
+        "description": "A plumber installs and repairs, while a plumbing coordinator plans and integrates plumbing systems within a project."
+      }
+    }
+  ],
+  "description": "A plumber installs and repairs, while a plumbing coordinator plans and integrates plumbing systems within a project."
+}

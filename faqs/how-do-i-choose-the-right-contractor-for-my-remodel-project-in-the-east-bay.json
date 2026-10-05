@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-remodel-project-in-the-east-bay",
+  "name": "How do I choose the right contractor for my remodel project in the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my remodel project in the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor in the East Bay, look for experience with projects similar to yours. Verify their licensing and insurance. Request references and review their portfolio. Pay attention to communication style and ensure they understand your vision and budget. Obtaining multiple bids can also help you compare services and pricing.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, references, portfolio, communication, and competitive bids."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, references, portfolio, communication, and competitive bids."
+}

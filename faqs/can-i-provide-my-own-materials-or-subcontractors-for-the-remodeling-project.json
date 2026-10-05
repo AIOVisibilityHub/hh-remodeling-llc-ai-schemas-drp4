@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-provide-my-own-materials-or-subcontractors-for-the-remodeling-project",
+  "name": "Can I provide my own materials or subcontractors for the remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own materials or subcontractors for the remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Frasheski Construction typically manages all material procurement and subcontractor selection to ensure quality, consistency, and timely delivery, we are open to discussing your preferences. If you have specific materials you'd like to use or a particular subcontractor you prefer, please discuss this with us early in the planning phase. We will evaluate how it integrates into the overall project plan and ensure it meets our quality standards and project requirements.",
+        "@type": "Answer",
+        "description": "We typically manage materials and subcontractors, but we're open to discussing your preferences during planning to ensure integration and quality."
+      }
+    }
+  ],
+  "description": "We typically manage materials and subcontractors, but we're open to discussing your preferences during planning to ensure integration and quality."
+}

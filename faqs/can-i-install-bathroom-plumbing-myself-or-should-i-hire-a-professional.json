@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-bathroom-plumbing-myself-or-should-i-hire-a-professional",
+  "name": "Can I install bathroom plumbing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install bathroom plumbing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor plumbing tasks can be DIY, significant bathroom plumbing installation, especially rough-ins or modifications to the main water and drainage systems, should be handled by a professional. Professionals have the necessary expertise, tools, and understanding of local building codes to ensure the work is done safely, correctly, and up to standard. Improper installation can lead to leaks, water damage, and costly repairs down the line, and may not pass inspection.",
+        "@type": "Answer",
+        "description": "Hire a professional for significant bathroom plumbing installation due to the complexity, safety, code compliance, and risk of improper installation."
+      }
+    }
+  ],
+  "description": "Hire a professional for significant bathroom plumbing installation due to the complexity, safety, code compliance, and risk of improper installation."
+}

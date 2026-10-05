@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-the-cost-of-plumbing-services-in-the-east-bay",
+  "name": "What factors influence the cost of plumbing services in the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of plumbing services in the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of plumbing services in the East Bay is influenced by the type and complexity of the job, the materials required, and the time it takes to complete. Emergency services outside of normal hours may also incur higher costs. We provide detailed estimates before starting any work.",
+        "@type": "Answer",
+        "description": "Plumbing service costs in the East Bay depend on job complexity, materials, time, and whether it's an emergency service."
+      }
+    }
+  ],
+  "description": "Plumbing service costs in the East Bay depend on job complexity, materials, time, and whether it's an emergency service."
+}

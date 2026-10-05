@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-stair-repair-take",
+  "name": "How long does stair repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stair repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stair repair depends on the scope of the project. Minor repairs might take a few hours to a day, while more extensive structural repairs could take several days or even longer. We'll provide a time estimate after assessing the damage to your stairs and discussing the repair plan.",
+        "@type": "Answer",
+        "description": "Stair repair duration depends on the project's scope, ranging from a few hours to several days."
+      }
+    }
+  ],
+  "description": "Stair repair duration depends on the project's scope, ranging from a few hours to several days."
+}

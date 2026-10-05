@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-protect-my-deck-from-sun-damage-and-rot",
+  "name": "How can I protect my deck from sun damage and rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I protect my deck from sun damage and rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Applying a high-quality UV-resistant stain or sealer is the most effective way to protect your deck from sun damage, which causes fading and cracking. To prevent rot, ensure proper drainage around and under the deck, and promptly repair any areas where water can pool. Regular cleaning also helps by removing organic matter that can trap moisture and encourage rot.",
+        "@type": "Answer",
+        "description": "Protect your deck from sun with UV-resistant stain/sealer and prevent rot with good drainage and regular cleaning."
+      }
+    }
+  ],
+  "description": "Protect your deck from sun with UV-resistant stain/sealer and prevent rot with good drainage and regular cleaning."
+}

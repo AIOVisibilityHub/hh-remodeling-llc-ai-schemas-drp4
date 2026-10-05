@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-replace-damaged-boards",
+  "name": "How long does it take to replace damaged boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace damaged boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of damaged board replacement depends on the size and complexity of the project. Small, isolated areas might be completed within a day. Larger projects, or those requiring extensive preparation and custom cuts, could take several days to a week. We provide an estimated timeline with your project quote after our initial assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on size and complexity, ranging from a day for small areas to several days or a week for larger projects."
+      }
+    }
+  ],
+  "description": "Project duration depends on size and complexity, ranging from a day for small areas to several days or a week for larger projects."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-repair-my-wood-fence-panel",
+  "name": "When should I repair my wood fence panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my wood fence panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your wood fence panel when you notice signs of damage such as loose pickets, rotting wood, leaning sections, or visible cracks. Prompt repairs can prevent further deterioration and extend the lifespan of your fence. Addressing minor issues early can also save you money compared to a full fence replacement.",
+        "@type": "Answer",
+        "description": "Repair your wood fence panel when you observe loose pickets, rot, leaning sections, or cracks."
+      }
+    }
+  ],
+  "description": "Repair your wood fence panel when you observe loose pickets, rot, leaning sections, or cracks."
+}

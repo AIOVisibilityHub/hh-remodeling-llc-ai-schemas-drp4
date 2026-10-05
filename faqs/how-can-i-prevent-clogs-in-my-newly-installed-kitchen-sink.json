@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prevent-clogs-in-my-newly-installed-kitchen-sink",
+  "name": "How can I prevent clogs in my newly installed kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent clogs in my newly installed kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent clogs in your newly installed kitchen sink, avoid pouring grease or oil down the drain. Use a sink strainer to catch food particles, coffee grounds, and other debris. Regularly flush the drain with hot water to help clear any minor buildup. For sinks with garbage disposals, always run cold water while operating and avoid putting fibrous or hard items into it. Regular maintenance can significantly extend the life of your kitchen plumbing.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease in the drain, using a sink strainer, and regularly flushing with hot water."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease in the drain, using a sink strainer, and regularly flushing with hot water."
+}

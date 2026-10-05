@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-start-planning-my-home-remodel",
+  "name": "When should I start planning my home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning my home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ideally, you should start planning your home remodel several months before you intend to begin construction. This allows ample time for design, obtaining necessary permits, selecting materials, and scheduling contractors. For larger projects, it's beneficial to start even earlier to account for potential delays in material availability or permit approvals.",
+        "@type": "Answer",
+        "description": "Start planning several months before construction to allow time for design, permits, and material selection."
+      }
+    }
+  ],
+  "description": "Start planning several months before construction to allow time for design, permits, and material selection."
+}

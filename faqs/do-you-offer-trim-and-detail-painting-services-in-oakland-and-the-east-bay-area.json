@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-trim-and-detail-painting-services-in-oakland-and-the-east-bay-area",
+  "name": "Do you offer trim and detail painting services in Oakland and the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer trim and detail painting services in Oakland and the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly serves Oakland and the broader East Bay area, including Albany, El Cerrito, and surrounding communities. We bring our expertise in trim and detail painting to homeowners across these regions, ensuring high-quality results for every project.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction offers trim and detail painting services throughout Oakland and the East Bay, including Albany and El Cerrito."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction offers trim and detail painting services throughout Oakland and the East Bay, including Albany and El Cerrito."
+}

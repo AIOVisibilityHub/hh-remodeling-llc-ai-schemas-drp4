@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-professional-gate-repair",
+  "name": "When do I need professional gate repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional gate repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional gate repair when you notice issues such as the gate not opening or closing properly, making unusual noises, or showing visible damage. If safety sensors are not working, or if the gate moves erratically, it's crucial to call a professional. Attempting DIY repairs on complex gate systems can be unsafe and may lead to further damage. Our team serves Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
+        "@type": "Answer",
+        "description": "Call for professional gate repair if your gate isn't operating correctly, makes unusual noises, or has visible damage, especially if safety is a concern."
+      }
+    }
+  ],
+  "description": "Call for professional gate repair if your gate isn't operating correctly, makes unusual noises, or has visible damage, especially if safety is a concern."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-deck-instead-of-just-repairing-it",
+  "name": "When should I consider replacing my deck instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my deck instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your deck rather than repairing it if the majority of the structure, including the frame and foundation, is compromised by rot, insect damage, or significant structural issues. If the cost of repairs approaches or exceeds the cost of a new deck, replacement might be a more economical long-term solution. A professional assessment can help you make this decision.",
+        "@type": "Answer",
+        "description": "Replace your deck if most of the structure is compromised or if repair costs are similar to replacement costs. A professional assessment can help."
+      }
+    }
+  ],
+  "description": "Replace your deck if most of the structure is compromised or if repair costs are similar to replacement costs. A professional assessment can help."
+}

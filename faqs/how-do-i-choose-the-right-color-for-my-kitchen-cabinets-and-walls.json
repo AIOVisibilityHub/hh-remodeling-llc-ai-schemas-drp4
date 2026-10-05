@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-color-for-my-kitchen-cabinets-and-walls",
+  "name": "How do I choose the right color for my kitchen cabinets and walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my kitchen cabinets and walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right colors for your kitchen cabinets and walls involves considering your home's overall aesthetic, the amount of natural light, and your personal style. Lighter colors can make a small kitchen feel larger and brighter, while darker shades can add drama and sophistication. We can provide color consultations and offer samples to help you visualize different options in your space. We also consider existing elements like countertops and flooring to ensure a cohesive look.",
+        "@type": "Answer",
+        "description": "Consider your home's aesthetic, natural light, and personal style when choosing kitchen cabinet and wall colors."
+      }
+    }
+  ],
+  "description": "Consider your home's aesthetic, natural light, and personal style when choosing kitchen cabinet and wall colors."
+}

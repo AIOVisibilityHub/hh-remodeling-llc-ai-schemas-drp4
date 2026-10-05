@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-railing-replacement-instead-of-just-repair",
+  "name": "When should I consider railing replacement instead of just repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider railing replacement instead of just repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider railing replacement if the damage is widespread, structural integrity is compromised, or if the cost of repair approaches or exceeds the cost of a new installation. Extensive rot, severe corrosion, or significant structural weakening often warrant replacement to ensure long-term safety and durability.",
+        "@type": "Answer",
+        "description": "Consider replacement for widespread damage, compromised structure, or high repair costs."
+      }
+    }
+  ],
+  "description": "Consider replacement for widespread damage, compromised structure, or high repair costs."
+}

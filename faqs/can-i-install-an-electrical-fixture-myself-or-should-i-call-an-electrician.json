@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-an-electrical-fixture-myself-or-should-i-call-an-electrician",
+  "name": "Can I install an electrical fixture myself, or should I call an electrician?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install an electrical fixture myself, or should I call an electrician?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For simple replacements of existing light fixtures with similar ones, a DIY installation might be feasible if you are comfortable with basic electrical work and safety precautions. However, for any installation involving new wiring, moving an electrical box, or installing complex fixtures like ceiling fans with remote controls, it's highly recommended to call a qualified electrician. Electrical work carries risks, and a professional ensures safety, proper function, and compliance with local codes in areas like Alameda and San Francisco.",
+        "@type": "Answer",
+        "description": "DIY electrical fixture installation is possible for simple replacements, but complex tasks like new wiring or heavy fixtures require a qualified electrician for safety."
+      }
+    }
+  ],
+  "description": "DIY electrical fixture installation is possible for simple replacements, but complex tasks like new wiring or heavy fixtures require a qualified electrician for"
+}

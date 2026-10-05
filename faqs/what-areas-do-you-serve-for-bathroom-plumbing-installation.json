@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-bathroom-plumbing-installation",
+  "name": "What areas do you serve for bathroom plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for bathroom plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide bathroom plumbing installation services in Berkeley, Oakland, Albany, and El Cerrito. Our team is familiar with the specific plumbing codes and requirements for these East Bay cities. If you are located in these areas, we can assist with your bathroom plumbing needs, from minor upgrades to complete new installations.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for bathroom plumbing installation, understanding local codes."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for bathroom plumbing installation, understanding local codes."
+}

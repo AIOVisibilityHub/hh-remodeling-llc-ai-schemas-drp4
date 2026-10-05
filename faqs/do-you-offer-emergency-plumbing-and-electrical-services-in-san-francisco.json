@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-plumbing-and-electrical-services-in-san-francisco",
+  "name": "Do you offer emergency plumbing and electrical services in San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency plumbing and electrical services in San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Frasheski Construction primarily serves the East Bay areas including Berkeley, Oakland, and Albany, we understand that emergencies can arise. For services specifically within San Francisco, we recommend contacting local licensed professionals who can respond quickly to your emergency plumbing or electrical needs.",
+        "@type": "Answer",
+        "description": "We primarily serve the East Bay; for San Francisco emergency services, we recommend contacting local licensed professionals."
+      }
+    }
+  ],
+  "description": "We primarily serve the East Bay; for San Francisco emergency services, we recommend contacting local licensed professionals."
+}

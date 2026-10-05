@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-the-paint-or-stain-of-the-existing-boards",
+  "name": "Can you match the paint or stain of the existing boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match the paint or stain of the existing boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we strive to match the paint or stain of your existing boards as closely as possible. Our team takes samples and works to ensure the new boards blend seamlessly with your property's current appearance. This attention to detail helps maintain the aesthetic integrity of your home or business.",
+        "@type": "Answer",
+        "description": "We aim to match the paint or stain of existing boards to ensure a seamless blend with your property's appearance."
+      }
+    }
+  ],
+  "description": "We aim to match the paint or stain of existing boards to ensure a seamless blend with your property's appearance."
+}

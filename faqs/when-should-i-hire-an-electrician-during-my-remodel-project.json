@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-hire-an-electrician-during-my-remodel-project",
+  "name": "When should I hire an electrician during my remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire an electrician during my remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to involve an electrician early in your remodel planning process, ideally during the design phase. This allows them to identify potential challenges, suggest efficient solutions, and ensure that electrical plans align with your overall remodel goals. They can also help with budgeting and ensure code compliance from the outset. Early engagement prevents costly delays and rework down the line.",
+        "@type": "Answer",
+        "description": "Hire an electrician early in the remodel's design phase to identify challenges, plan solutions, and ensure code compliance."
+      }
+    }
+  ],
+  "description": "Hire an electrician early in the remodel's design phase to identify challenges, plan solutions, and ensure code compliance."
+}

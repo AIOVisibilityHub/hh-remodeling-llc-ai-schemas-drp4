@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-is-responsible-for-trade-scheduling-on-a-construction-project",
+  "name": "Who is responsible for trade scheduling on a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for trade scheduling on a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "On a construction project, the general contractor or project manager is primarily responsible for trade scheduling. They oversee the entire project, coordinate with all subcontractors, and ensure that the schedule is developed, communicated, and adhered to. While they manage the overall schedule, individual trade supervisors are responsible for scheduling and managing their own crews within the broader project timeline.",
+        "@type": "Answer",
+        "description": "The general contractor or project manager is primarily responsible for trade scheduling on a construction project."
+      }
+    }
+  ],
+  "description": "The general contractor or project manager is primarily responsible for trade scheduling on a construction project."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-influence-trade-sequencing-decisions",
+  "name": "What factors influence trade sequencing decisions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence trade sequencing decisions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence trade sequencing decisions, including structural dependencies (e.g., framing before roofing), regulatory requirements and inspections, material lead times, site access limitations, and the availability of specific tradespeople. Weather conditions can also play a role, especially for exterior work. Effective sequencing considers all these elements to create a realistic and efficient project timeline.",
+        "@type": "Answer",
+        "description": "Factors influencing trade sequencing include structural dependencies, regulations, material lead times, and site access."
+      }
+    }
+  ],
+  "description": "Factors influencing trade sequencing include structural dependencies, regulations, material lead times, and site access."
+}

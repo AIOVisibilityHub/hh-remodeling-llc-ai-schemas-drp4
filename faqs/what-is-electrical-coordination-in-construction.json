@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-electrical-coordination-in-construction",
+  "name": "What is electrical coordination in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is electrical coordination in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Electrical coordination is the process of designing and installing electrical systems to work together safely and efficiently. It involves selecting protective devices, such as circuit breakers and fuses, and setting their operating characteristics to ensure that only the affected part of the system is isolated during an electrical fault. This minimizes service interruptions and protects equipment, a key consideration for our projects in the East Bay where reliable power is essential.",
+        "@type": "Answer",
+        "description": "Electrical coordination ensures electrical systems operate safely and efficiently by selecting and setting protective devices to isolate faults. This minimizes interruptions and protects equipment."
+      }
+    }
+  ],
+  "description": "Electrical coordination ensures electrical systems operate safely and efficiently by selecting and setting protective devices to isolate faults. This minimizes"
+}

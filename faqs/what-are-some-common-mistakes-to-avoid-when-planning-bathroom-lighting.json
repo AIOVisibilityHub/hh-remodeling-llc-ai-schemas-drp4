@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-some-common-mistakes-to-avoid-when-planning-bathroom-lighting",
+  "name": "What are some common mistakes to avoid when planning bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common mistakes to avoid when planning bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include relying on a single overhead light, using fixtures that cast shadows on your face at the mirror, and neglecting proper ventilation-rated fixtures in wet areas. Avoid fixtures that are too dim or too bright, and ensure the light temperature complements your bathroom's finishes. Always consider safety and local electrical codes, especially in damp environments.",
+        "@type": "Answer",
+        "description": "Avoid single overhead lights, poor mirror lighting, non-rated wet area fixtures, and incorrect brightness or light temperature."
+      }
+    }
+  ],
+  "description": "Avoid single overhead lights, poor mirror lighting, non-rated wet area fixtures, and incorrect brightness or light temperature."
+}

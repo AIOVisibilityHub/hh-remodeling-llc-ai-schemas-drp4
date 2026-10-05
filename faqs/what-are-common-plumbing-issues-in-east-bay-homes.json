@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-plumbing-issues-in-east-bay-homes",
+  "name": "What are common plumbing issues in East Bay homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing issues in East Bay homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing issues in East Bay homes include leaky faucets, clogged drains, water heater problems, and running toilets. Due to older infrastructure in areas like Berkeley and Oakland, pipe corrosion and tree root intrusion can also be prevalent. We address these issues with efficient repair and replacement services.",
+        "@type": "Answer",
+        "description": "Common plumbing issues include leaks, clogs, water heater problems, and running toilets, often compounded by older infrastructure."
+      }
+    }
+  ],
+  "description": "Common plumbing issues include leaks, clogs, water heater problems, and running toilets, often compounded by older infrastructure."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-fence-post-repair",
+  "name": "What is the process for fence-post repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for fence-post repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fence-post repair process usually begins with an assessment of the damage to determine if the post needs to be reinforced, straightened, or replaced. For minor issues, a repair spur or concrete may be used to stabilize the existing post. If the damage is extensive, the old post will be carefully removed, ensuring minimal disruption to the surrounding fence panels. A new post, often treated for ground contact, is then installed, plumbed, and securely concreted into place. The fence section is reattached, and the area is cleaned up.",
+        "@type": "Answer",
+        "description": "The fence-post repair process involves assessing damage, reinforcing or replacing the post, and securely installing a new one if needed."
+      }
+    }
+  ],
+  "description": "The fence-post repair process involves assessing damage, reinforcing or replacing the post, and securely installing a new one if needed."
+}

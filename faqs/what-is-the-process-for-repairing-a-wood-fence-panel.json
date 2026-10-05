@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-repairing-a-wood-fence-panel",
+  "name": "What is the process for repairing a wood fence panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a wood fence panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a wood fence panel typically involves an initial assessment of the damage, removal of compromised components, preparation of the area, installation of new or repaired parts, and finishing touches such as staining or sealing to match the existing fence. We ensure the repaired section integrates seamlessly with the rest of your fence.",
+        "@type": "Answer",
+        "description": "The repair process includes assessment, removal of damaged parts, installation of new components, and finishing."
+      }
+    }
+  ],
+  "description": "The repair process includes assessment, removal of damaged parts, installation of new components, and finishing."
+}

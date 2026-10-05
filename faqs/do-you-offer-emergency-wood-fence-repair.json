@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-wood-fence-repair",
+  "name": "Do you offer emergency wood fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency wood fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we strive to accommodate urgent repair needs, emergency services depend on our current schedule and the nature of the damage. We recommend contacting us as soon as possible if you have immediate concerns about your wood fence's security or integrity, especially after severe weather events. We will assess the situation and work with you to prioritize necessary repairs to ensure the safety and security of your property.",
+        "@type": "Answer",
+        "description": "Emergency wood fence repair depends on our schedule and damage nature; contact us for urgent concerns, especially after severe weather."
+      }
+    }
+  ],
+  "description": "Emergency wood fence repair depends on our schedule and damage nature; contact us for urgent concerns, especially after severe weather."
+}

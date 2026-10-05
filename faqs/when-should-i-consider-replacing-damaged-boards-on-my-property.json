@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-damaged-boards-on-my-property",
+  "name": "When should I consider replacing damaged boards on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing damaged boards on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing damaged boards when you notice signs of rot, such as soft or crumbling wood, visible mold growth, pest infestations like termites, or extensive cracking and warping. Timely replacement prevents the damage from spreading to adjacent structures and avoids more costly repairs in the future. Regular inspections can help identify issues early.",
+        "@type": "Answer",
+        "description": "Replace damaged boards when you see signs of rot, pests, or extensive cracking to prevent further damage."
+      }
+    }
+  ],
+  "description": "Replace damaged boards when you see signs of rot, pests, or extensive cracking to prevent further damage."
+}

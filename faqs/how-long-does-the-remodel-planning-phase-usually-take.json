@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-the-remodel-planning-phase-usually-take",
+  "name": "How long does the remodel planning phase usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the remodel planning phase usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the remodel planning phase varies depending on the complexity and size of the project. For smaller remodels, it might take a few weeks. Larger, more intricate projects involving multiple design iterations and extensive permit applications could extend to several months. Effective communication and prompt decision-making on your part can help streamline this phase.",
+        "@type": "Answer",
+        "description": "Planning time varies from weeks to months, depending on project complexity and decision-making speed."
+      }
+    }
+  ],
+  "description": "Planning time varies from weeks to months, depending on project complexity and decision-making speed."
+}

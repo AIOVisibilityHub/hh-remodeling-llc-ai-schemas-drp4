@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-repair-a-fence-post-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a fence post myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a fence post myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor fence post issues like loose screws or small cracks might be manageable for a DIY enthusiast, significant damage such as extensive rot, leaning, or structural instability usually requires professional expertise. Professionals have the right tools, knowledge of local soil conditions, and experience to ensure the repair is durable and safe, preventing further issues. Incorrect DIY repairs can lead to greater problems and costs in the long run.",
+        "@type": "Answer",
+        "description": "Hire a professional for significant fence post damage like extensive rot or leaning; DIY is suitable only for minor issues."
+      }
+    }
+  ],
+  "description": "Hire a professional for significant fence post damage like extensive rot or leaning; DIY is suitable only for minor issues."
+}

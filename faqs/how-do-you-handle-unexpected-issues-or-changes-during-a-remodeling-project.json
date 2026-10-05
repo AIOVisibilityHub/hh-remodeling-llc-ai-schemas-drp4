@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-handle-unexpected-issues-or-changes-during-a-remodeling-project",
+  "name": "How do you handle unexpected issues or changes during a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle unexpected issues or changes during a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Frasheski Construction, we anticipate and proactively manage potential issues during a remodeling project. If unexpected challenges or changes arise, our project manager will promptly communicate with you, explain the situation, and present viable solutions. We discuss any implications for the budget or timeline and obtain your approval before proceeding. Our goal is to address issues transparently and efficiently to minimize disruptions to your project.",
+        "@type": "Answer",
+        "description": "We communicate unexpected issues promptly, explain solutions, and get your approval before proceeding to minimize disruptions."
+      }
+    }
+  ],
+  "description": "We communicate unexpected issues promptly, explain solutions, and get your approval before proceeding to minimize disruptions."
+}

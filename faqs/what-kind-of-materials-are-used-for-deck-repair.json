@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-materials-are-used-for-deck-repair",
+  "name": "What kind of materials are used for deck repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for deck repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for deck repair typically match those of the existing deck to ensure aesthetic consistency and structural integrity. Common materials include pressure-treated lumber (pine, fir), cedar, redwood, and composite decking. Fasteners such as galvanized screws, stainless steel screws, and hurricane ties are used to secure components. Depending on the repair, sealants, stains, and protective coatings may also be applied to enhance durability and appearance. The choice of material often depends on climate, budget, and desired longevity.",
+        "@type": "Answer",
+        "description": "Materials include pressure-treated lumber, cedar, redwood, composite decking, and various fasteners and protective coatings."
+      }
+    }
+  ],
+  "description": "Materials include pressure-treated lumber, cedar, redwood, composite decking, and various fasteners and protective coatings."
+}

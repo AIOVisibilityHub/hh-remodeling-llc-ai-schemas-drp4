@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-there-eco-friendly-options-for-deck-cleaning-and-sealing",
+  "name": "Are there eco-friendly options for deck cleaning and sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there eco-friendly options for deck cleaning and sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many eco-friendly deck cleaning solutions are available that use biodegradable ingredients instead of harsh chemicals. For sealing and staining, look for low-VOC (Volatile Organic Compound) or water-based products. These options are better for the environment and safer for your family and pets. Your local hardware store or deck professional can guide you to suitable products.",
+        "@type": "Answer",
+        "description": "Yes, look for biodegradable cleaners and low-VOC or water-based sealants and stains for eco-friendly options."
+      }
+    }
+  ],
+  "description": "Yes, look for biodegradable cleaners and low-VOC or water-based sealants and stains for eco-friendly options."
+}

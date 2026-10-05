@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-do-if-i-have-a-persistent-electrical-issue-in-my-albany-home",
+  "name": "What should I do if I have a persistent electrical issue in my Albany home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have a persistent electrical issue in my Albany home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have a persistent electrical issue in your Albany home, such as a circuit that repeatedly trips or outlets that don't work, contact a qualified electrician immediately. Avoid attempting DIY repairs, as electrical work can be dangerous. Our team can diagnose and safely resolve complex electrical problems.",
+        "@type": "Answer",
+        "description": "For persistent electrical issues in your Albany home, contact a qualified electrician immediately and avoid DIY repairs."
+      }
+    }
+  ],
+  "description": "For persistent electrical issues in your Albany home, contact a qualified electrician immediately and avoid DIY repairs."
+}

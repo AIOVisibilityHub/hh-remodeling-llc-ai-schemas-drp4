@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-rough-in-and-finish-plumbing",
+  "name": "What is the difference between rough-in and finish plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough-in and finish plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in plumbing involves installing all the hidden components of the plumbing system before the walls and floors are closed up. This includes running water supply lines, drainpipes, and vent pipes to their designated locations for fixtures. Finish plumbing, on the other hand, occurs after the walls and floors are completed and involves installing the visible fixtures like sinks, toilets, faucets, and showerheads, and connecting them to the rough-in pipes. Finish plumbing gives the bathroom its final functional appearance.",
+        "@type": "Answer",
+        "description": "Rough-in plumbing involves installing hidden pipes before walls are closed, while finish plumbing is the installation of visible fixtures after walls are complete."
+      }
+    }
+  ],
+  "description": "Rough-in plumbing involves installing hidden pipes before walls are closed, while finish plumbing is the installation of visible fixtures after walls are comple"
+}

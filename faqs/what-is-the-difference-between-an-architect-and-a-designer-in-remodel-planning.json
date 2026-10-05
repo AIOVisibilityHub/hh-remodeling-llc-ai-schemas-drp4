@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-architect-and-a-designer-in-remodel-planning",
+  "name": "What is the difference between an architect and a designer in remodel planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an architect and a designer in remodel planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect is typically responsible for the structural integrity and overall design of a building, often dealing with permits and complex structural changes. A designer, on the other hand, focuses more on aesthetics, functionality, and interior finishes. For many remodels, particularly those without major structural changes, a skilled designer may be sufficient. Some projects benefit from both.",
+        "@type": "Answer",
+        "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality."
+      }
+    }
+  ],
+  "description": "Architects handle structural design and permits, while designers focus on aesthetics and interior functionality."
+}

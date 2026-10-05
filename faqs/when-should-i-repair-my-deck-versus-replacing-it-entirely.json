@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-repair-my-deck-versus-replacing-it-entirely",
+  "name": "When should I repair my deck versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my deck versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your deck depends on the extent of the damage and the overall condition of its structure. If only a few boards are rotted, railings are loose, or there are minor surface issues, repair is usually the more cost-effective option. However, if the deck's foundation is compromised, there's widespread rot, significant structural damage, or the cost of repairs approaches that of a new deck, replacement might be a better long-term investment. A professional assessment can help you make the best decision for your situation.",
+        "@type": "Answer",
+        "description": "Repair when damage is minor and localized; replace when there's widespread rot, structural issues, or repair costs are too high."
+      }
+    }
+  ],
+  "description": "Repair when damage is minor and localized; replace when there's widespread rot, structural issues, or repair costs are too high."
+}

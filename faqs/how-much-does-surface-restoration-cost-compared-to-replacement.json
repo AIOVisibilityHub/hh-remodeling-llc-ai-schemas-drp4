@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-surface-restoration-cost-compared-to-replacement",
+  "name": "How much does surface restoration cost compared to replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does surface restoration cost compared to replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surface restoration is generally more cost-effective than full replacement. The exact cost depends on the type of surface, the extent of the damage, and the materials required. While replacement involves demolition, new material costs, and labor for installation, restoration focuses on repairing and enhancing existing structures. We can provide a detailed estimate after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Surface restoration is typically more cost-effective than full replacement, though costs vary based on damage and materials."
+      }
+    }
+  ],
+  "description": "Surface restoration is typically more cost-effective than full replacement, though costs vary based on damage and materials."
+}

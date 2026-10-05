@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-deck-repair-take",
+  "name": "How long does deck repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck repair depends on the scope and complexity of the project. Minor repairs, such as replacing a few boards or securing loose railings, might only take a day or two. More extensive repairs involving structural elements, multiple sections, or significant wood replacement could take several days to a week or more. Weather conditions can also influence the timeline, especially for tasks involving drying times for stains or sealants. Frasheski Construction can provide a more accurate time estimate after assessing your specific deck repair needs.",
+        "@type": "Answer",
+        "description": "Minor repairs can take a day or two, while extensive repairs might take several days to over a week, depending on the scope."
+      }
+    }
+  ],
+  "description": "Minor repairs can take a day or two, while extensive repairs might take several days to over a week, depending on the scope."
+}

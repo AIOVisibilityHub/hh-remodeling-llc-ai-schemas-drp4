@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-repair-a-wood-fence-panel",
+  "name": "How long does it take to repair a wood fence panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a wood fence panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a wood fence panel depends on the complexity and size of the repair. Minor fixes, such as replacing a few pickets, might take a few hours. More extensive repairs involving structural elements could take a full day or longer. We provide an estimated timeline with our repair quote.",
+        "@type": "Answer",
+        "description": "Repair time for a wood fence panel varies from a few hours for minor fixes to a day or more for extensive damage."
+      }
+    }
+  ],
+  "description": "Repair time for a wood fence panel varies from a few hours for minor fixes to a day or more for extensive damage."
+}

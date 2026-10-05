@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-upgrade-my-main-water-line-during-a-whole-house-remodel",
+  "name": "Do I need to upgrade my main water line during a whole-house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to upgrade my main water line during a whole-house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need to upgrade your main water line during a whole-house remodel, especially if you are adding multiple new bathrooms, a larger kitchen, or high-demand fixtures like rain showers. Older homes often have smaller diameter water lines that may not adequately support increased water usage. A plumber can assess your current system and proposed changes to determine if an upgrade is necessary to maintain sufficient water pressure and flow throughout your renovated home.",
+        "@type": "Answer",
+        "description": "An upgrade to your main water line may be needed during a whole-house remodel if you're adding many new fixtures or increasing water demand."
+      }
+    }
+  ],
+  "description": "An upgrade to your main water line may be needed during a whole-house remodel if you're adding many new fixtures or increasing water demand."
+}

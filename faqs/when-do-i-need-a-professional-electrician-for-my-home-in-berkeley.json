@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-a-professional-electrician-for-my-home-in-berkeley",
+  "name": "When do I need a professional electrician for my home in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a professional electrician for my home in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a professional electrician in Berkeley if you experience flickering lights, frequently tripped breakers, unusual burning smells from outlets, or if you're planning a major appliance installation or renovation. These are signs of potential electrical problems that require expert attention for safety and compliance.",
+        "@type": "Answer",
+        "description": "You need a professional electrician for flickering lights, tripped breakers, burning smells, or major appliance installations."
+      }
+    }
+  ],
+  "description": "You need a professional electrician for flickering lights, tripped breakers, burning smells, or major appliance installations."
+}

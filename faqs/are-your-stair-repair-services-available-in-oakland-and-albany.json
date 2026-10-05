@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-your-stair-repair-services-available-in-oakland-and-albany",
+  "name": "Are your stair repair services available in Oakland and Albany?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your stair repair services available in Oakland and Albany?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly serves Oakland and Albany, in addition to Berkeley, East Bay, El Cerrito, and other surrounding areas. We are a local construction company dedicated to providing quality stair repair services to our community.",
+        "@type": "Answer",
+        "description": "Yes, our stair repair services are available in Oakland, Albany, Berkeley, and other East Bay areas."
+      }
+    }
+  ],
+  "description": "Yes, our stair repair services are available in Oakland, Albany, Berkeley, and other East Bay areas."
+}

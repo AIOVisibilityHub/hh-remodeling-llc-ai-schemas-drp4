@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-communicate-with-the-project-manager-during-my-remodel",
+  "name": "How do I communicate with the project manager during my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I communicate with the project manager during my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Communication is a cornerstone of our project management approach at Frasheski Construction. You will have a dedicated project manager who serves as your primary point of contact. We establish regular communication channels, which can include weekly meetings, phone calls, emails, or a project management software portal, based on your preference. We ensure you are always informed about progress, milestones, and any decisions that need your input.",
+        "@type": "Answer",
+        "description": "You'll have a dedicated project manager and we establish regular communication channels based on your preference."
+      }
+    }
+  ],
+  "description": "You'll have a dedicated project manager and we establish regular communication channels based on your preference."
+}

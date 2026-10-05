@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-wood-do-you-use-for-damaged-board-replacement",
+  "name": "What kind of wood do you use for damaged board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of wood do you use for damaged board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use high-quality, durable wood that matches the existing structure's material and aesthetic as closely as possible. Common choices include redwood, cedar, and treated lumber, selected for their resistance to decay and pests, and suitability for the specific application. We discuss material options with you during the initial consultation.",
+        "@type": "Answer",
+        "description": "We use high-quality, durable wood like redwood, cedar, or treated lumber, matching existing materials and aesthetics."
+      }
+    }
+  ],
+  "description": "We use high-quality, durable wood like redwood, cedar, or treated lumber, matching existing materials and aesthetics."
+}

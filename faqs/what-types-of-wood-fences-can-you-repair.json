@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-wood-fences-can-you-repair",
+  "name": "What types of wood fences can you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood fences can you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair various types of wood fences commonly found in the Berkeley, East Bay, and Oakland areas. This includes picket fences, privacy fences, semi-privacy fences, and ranch-style fences. Our services cover different wood species, such as redwood, cedar, and pressure-treated pine. We address issues specific to each fence type and wood material, ensuring appropriate repair methods are used to match existing structures and maintain aesthetic consistency.",
+        "@type": "Answer",
+        "description": "We repair picket, privacy, semi-privacy, and ranch-style wood fences made from various wood species like redwood, cedar, and pressure-treated pine."
+      }
+    }
+  ],
+  "description": "We repair picket, privacy, semi-privacy, and ranch-style wood fences made from various wood species like redwood, cedar, and pressure-treated pine."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-railing-styles-during-a-repair",
+  "name": "Can you match existing railing styles during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing railing styles during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We strive to match existing railing styles as closely as possible during repairs. Our team will assess your current railing and discuss options for materials and finishes to blend the repaired section seamlessly with the original structure. In some cases, exact matches might be challenging for very old or custom designs, but we will always aim for the best aesthetic outcome.",
+        "@type": "Answer",
+        "description": "We aim to match existing railing styles during repairs to ensure aesthetic continuity."
+      }
+    }
+  ],
+  "description": "We aim to match existing railing styles during repairs to ensure aesthetic continuity."
+}

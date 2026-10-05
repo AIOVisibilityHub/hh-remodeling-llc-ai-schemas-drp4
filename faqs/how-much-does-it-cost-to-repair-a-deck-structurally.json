@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-repair-a-deck-structurally",
+  "name": "How much does it cost to repair a deck structurally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a deck structurally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deck structural repair varies widely depending on the extent of the damage, the materials needed, and the complexity of the work. Minor repairs, such as replacing a few joists, could be less, while extensive overhauls involving multiple support beams and posts will be more significant. It's best to get a detailed estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, materials, and complexity. Minor repairs are less, extensive overhauls more. A detailed on-site estimate is recommended."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, materials, and complexity. Minor repairs are less, extensive overhauls more. A detailed on-site estimate is recommended."
+}

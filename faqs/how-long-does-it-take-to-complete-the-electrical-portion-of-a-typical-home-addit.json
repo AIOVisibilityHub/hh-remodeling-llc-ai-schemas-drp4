@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-complete-the-electrical-portion-of-a-typical-home-addit",
+  "name": "How long does it take to complete the electrical portion of a typical home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete the electrical portion of a typical home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The electrical portion of a home addition varies in duration based on the size and complexity of the project. For a small room addition, it might take a few days to a week. Larger additions, especially those requiring new service panels or extensive wiring, could take several weeks. This timeframe includes rough-in wiring, fixture installation, and final testing. Coordination with other trades and inspection schedules also influence the overall timeline.",
+        "@type": "Answer",
+        "description": "Electrical work for a home addition can take a few days to several weeks, depending on project size and complexity."
+      }
+    }
+  ],
+  "description": "Electrical work for a home addition can take a few days to several weeks, depending on project size and complexity."
+}

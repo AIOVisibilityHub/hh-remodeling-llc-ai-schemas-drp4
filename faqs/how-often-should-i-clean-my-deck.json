@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-clean-my-deck",
+  "name": "How often should I clean my deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I clean my deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning frequency depends on your local climate and deck usage. In areas like Berkeley or Oakland, a thorough cleaning at least once a year is recommended to remove dirt, pollen, and mildew. If your deck is heavily used, under trees, or in a damp environment, you might consider cleaning it semi-annually. Regular sweeping can help prevent debris accumulation between deep cleans.",
+        "@type": "Answer",
+        "description": "Clean your deck at least once a year, or semi-annually if heavily used or in a damp environment."
+      }
+    }
+  ],
+  "description": "Clean your deck at least once a year, or semi-annually if heavily used or in a damp environment."
+}

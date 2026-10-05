@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-plumbing-repair-and-a-full-replacement",
+  "name": "What's the difference between a plumbing repair and a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a plumbing repair and a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing repair addresses a specific fault, like a leaking pipe or a faulty fixture, to restore function. A full replacement involves installing new pipes or components, often due to extensive damage, age, or to upgrade to more efficient systems. We assess the damage to determine the most cost-effective and durable solution for your home.",
+        "@type": "Answer",
+        "description": "Repair fixes a specific fault, while replacement involves installing new components due to extensive damage or age."
+      }
+    }
+  ],
+  "description": "Repair fixes a specific fault, while replacement involves installing new components due to extensive damage or age."
+}

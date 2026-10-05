@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-trim-colors-or-do-i-need-to-choose-a-new-one",
+  "name": "Can you match existing trim colors or do I need to choose a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim colors or do I need to choose a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can match existing trim colors. We use color matching technology and professional expertise to ensure a seamless blend with your current paint scheme. If you prefer, we can also help you select new colors that complement your interior design and enhance the overall look of your home.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing trim colors or help you choose new ones that complement your interior design."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing trim colors or help you choose new ones that complement your interior design."
+}

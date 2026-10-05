@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-challenges-in-plumbing-coordination-for-construction",
+  "name": "What are common challenges in plumbing coordination for construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in plumbing coordination for construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in plumbing coordination include resolving clashes with other building systems like HVAC and electrical, managing material deliveries and storage on site, and ensuring compliance with evolving local building codes. Communication breakdowns between different trades and changes in design during construction can also pose significant challenges.",
+        "@type": "Answer",
+        "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes."
+      }
+    }
+  ],
+  "description": "Common challenges include resolving clashes with other systems, managing materials, and complying with building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-bathroom-plumbing",
+  "name": "When should I consider replacing my bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your bathroom plumbing if you notice frequent leaks, low water pressure, discolored water, or if your home has old, outdated piping materials like galvanized steel or polybutylene. These older materials are prone to corrosion and failure, leading to costly damage. During a major bathroom renovation, it's also an opportune time to upgrade plumbing to ensure long-term reliability and to accommodate new fixture layouts or increased water demands.",
+        "@type": "Answer",
+        "description": "Consider replacement with frequent leaks, low pressure, discolored water, or if you have old piping materials, or during a major renovation."
+      }
+    }
+  ],
+  "description": "Consider replacement with frequent leaks, low pressure, discolored water, or if you have old piping materials, or during a major renovation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-kitchen-plumbing-work-in-the-east-bay",
+  "name": "Do I need a permit for kitchen plumbing work in the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for kitchen plumbing work in the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many East Bay cities, including Berkeley, Oakland, and El Cerrito, a permit is typically required for significant kitchen plumbing work. This often includes projects that involve altering existing plumbing lines, installing new fixtures in new locations, or any work that affects the integrity of the plumbing system. Minor repairs or like-for-like fixture replacements usually do not require a permit. It is always advisable to check with your local building department to confirm permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "A permit is often required for significant kitchen plumbing work in the East Bay, such as altering lines or installing new fixtures."
+      }
+    }
+  ],
+  "description": "A permit is often required for significant kitchen plumbing work in the East Bay, such as altering lines or installing new fixtures."
+}

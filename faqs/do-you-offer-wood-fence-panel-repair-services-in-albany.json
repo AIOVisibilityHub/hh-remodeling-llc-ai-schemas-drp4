@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-wood-fence-panel-repair-services-in-albany",
+  "name": "Do you offer wood fence panel repair services in Albany?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer wood fence panel repair services in Albany?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer comprehensive wood fence panel repair services in Albany and the surrounding East Bay area. Our team is experienced in addressing various types of fence damage, ensuring durable and aesthetically pleasing results that blend with your existing fence. Contact us to schedule an assessment and receive a personalized quote for your repair needs.",
+        "@type": "Answer",
+        "description": "Yes, we provide wood fence panel repair services in Albany and the East Bay area. Contact us for an assessment."
+      }
+    }
+  ],
+  "description": "Yes, we provide wood fence panel repair services in Albany and the East Bay area. Contact us for an assessment."
+}

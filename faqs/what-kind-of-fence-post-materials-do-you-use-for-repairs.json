@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-fence-post-materials-do-you-use-for-repairs",
+  "name": "What kind of fence post materials do you use for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of fence post materials do you use for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use pressure-treated lumber for wooden fence post repairs, as it's highly resistant to rot, insects, and moisture, ensuring longevity. For specific applications or aesthetic preferences, we can also use cedar, redwood, or metal posts. The choice of material depends on the existing fence type, the local environment, and your budget. We select materials that provide durability and seamlessly integrate with your current fence structure.",
+        "@type": "Answer",
+        "description": "We use pressure-treated lumber, cedar, redwood, or metal posts for repairs, chosen based on existing fence type and environment."
+      }
+    }
+  ],
+  "description": "We use pressure-treated lumber, cedar, redwood, or metal posts for repairs, chosen based on existing fence type and environment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-railing-repair-typically-cost-in-the-east-bay-area",
+  "name": "How much does railing repair typically cost in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does railing repair typically cost in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of railing repair in the East Bay area varies depending on the material, the extent of the damage, and the complexity of the repair. Minor fixes like tightening loose components might be less expensive, while replacing damaged sections or addressing structural issues will cost more. We recommend requesting a quote for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on material, damage extent, and complexity."
+      }
+    }
+  ],
+  "description": "Costs vary based on material, damage extent, and complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-manage-all-types-of-remodeling-projects-including-kitchens-bathrooms-and",
+  "name": "Do you manage all types of remodeling projects, including kitchens, bathrooms, and additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you manage all types of remodeling projects, including kitchens, bathrooms, and additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction provides complete remodeling project management for a wide range of projects. This includes kitchen remodels, bathroom renovations, whole-home makeovers, room additions, and exterior renovations. Our expertise spans various project sizes and complexities, and we apply the same rigorous project management principles to ensure a successful outcome for every client in the Berkeley, East Bay, and surrounding areas.",
+        "@type": "Answer",
+        "description": "Yes, we manage all types of remodeling projects, including kitchens, bathrooms, whole-home renovations, and additions."
+      }
+    }
+  ],
+  "description": "Yes, we manage all types of remodeling projects, including kitchens, bathrooms, whole-home renovations, and additions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-stair-repair-with-frasheski-construction",
+  "name": "What is the process for stair repair with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for stair repair with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a free consultation to assess the condition of your stairs and discuss your concerns. We then provide a detailed estimate and repair plan. Once approved, our team schedules the work, performs the repairs using quality materials, and ensures the area is clean upon completion. We prioritize safety and durability in all our projects.",
+        "@type": "Answer",
+        "description": "Our process involves a consultation, estimate, repair plan, scheduling, execution, and site cleanup."
+      }
+    }
+  ],
+  "description": "Our process involves a consultation, estimate, repair plan, scheduling, execution, and site cleanup."
+}

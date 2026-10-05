@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-gate-repair-cost",
+  "name": "How much does gate repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gate repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gate repair varies depending on the type of gate, the extent of the damage, and the specific parts needed. Minor repairs, such as adjusting sensors or tightening loose components, may be less expensive than major repairs involving motor replacement or significant structural work. We provide a detailed estimate after assessing the gate's condition. For a precise quote in the Berkeley, East Bay, Oakland, Albany, or El Cerrito areas, it's best to schedule a consultation.",
+        "@type": "Answer",
+        "description": "Gate repair costs vary based on the type of gate, damage extent, and parts needed. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Gate repair costs vary based on the type of gate, damage extent, and parts needed. We provide estimates after assessment."
+}

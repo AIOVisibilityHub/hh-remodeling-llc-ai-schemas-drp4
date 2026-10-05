@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-develop-a-trade-schedule",
+  "name": "How long does it take to develop a trade schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to develop a trade schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to develop a trade schedule varies significantly based on the complexity and scale of the construction project. For smaller, straightforward projects, it might take a few days. Larger, more intricate projects involving many trades and phases could require several weeks of planning and coordination. The process is often iterative, with adjustments made as the project progresses and new information becomes available.",
+        "@type": "Answer",
+        "description": "The time to develop a trade schedule varies by project complexity, from days for small projects to weeks for large ones."
+      }
+    }
+  ],
+  "description": "The time to develop a trade schedule varies by project complexity, from days for small projects to weeks for large ones."
+}
