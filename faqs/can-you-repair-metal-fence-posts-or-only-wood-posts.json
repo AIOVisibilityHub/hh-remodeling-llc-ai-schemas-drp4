@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-repair-metal-fence-posts-or-only-wood-posts",
+  "name": "Can you repair metal fence posts or only wood posts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair metal fence posts or only wood posts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While wood fence posts are most commonly repaired, we can also address issues with metal fence posts. Metal post repair often involves straightening bent posts, re-setting loose posts in concrete, or welding breaks. The repair method depends on the type of metal, the extent of the damage, and the specific function of the fence. An assessment will determine the feasibility and best approach for metal post repair.",
+        "@type": "Answer",
+        "description": "We repair both wood and metal fence posts; metal post repairs may involve straightening, re-setting, or welding, depending on the damage."
+      }
+    }
+  ],
+  "description": "We repair both wood and metal fence posts; metal post repairs may involve straightening, re-setting, or welding, depending on the damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-wood-do-you-use-for-fence-panel-repairs",
+  "name": "What kind of wood do you use for fence panel repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of wood do you use for fence panel repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For wood fence panel repairs, we prioritize using materials that match your existing fence as closely as possible in terms of wood type and quality. Common wood types include redwood, cedar, and treated pine, chosen for their durability and aesthetic appeal. If an exact match is not feasible or if you prefer an upgrade, we can discuss alternative durable and suitable wood options that blend well with your current fence structure. We source high-quality materials for all repairs.",
+        "@type": "Answer",
+        "description": "We use wood types like redwood, cedar, or treated pine that match your existing fence or offer durable alternatives if needed."
+      }
+    }
+  ],
+  "description": "We use wood types like redwood, cedar, or treated pine that match your existing fence or offer durable alternatives if needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-interior-painting-usually-take",
+  "name": "How long does interior painting usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior painting usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior painting project varies significantly based on factors like the size of the rooms, the condition of the walls, and the type of paint being applied. For instance, a single room might take 1-2 days, while an entire house could take a week or more. Extensive surface repairs or custom finishes will naturally extend the timeline. During our initial consultation, we provide a detailed timeline specific to your project, allowing you to plan accordingly for furniture movement or access needs.",
+        "@type": "Answer",
+        "description": "Interior painting duration depends on room size, wall condition, and paint type, typically ranging from 1-2 days for a single room to over a week for an entire house."
+      }
+    }
+  ],
+  "description": "Interior painting duration depends on room size, wall condition, and paint type, typically ranging from 1-2 days for a single room to over a week for an entire"
+}

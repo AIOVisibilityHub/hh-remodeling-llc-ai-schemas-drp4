@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-replacing-old-plumbing-pipes-in-an-older-home",
+  "name": "What is the process for replacing old plumbing pipes in an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old plumbing pipes in an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing old plumbing pipes in an older home typically begins with an inspection to assess the existing system and identify problem areas. This is followed by planning the new pipe layout. The old pipes are then carefully removed, and new pipes, often made of PEX or copper, are installed. Finally, the system is tested for leaks and proper function. The duration depends on the scope of work.",
+        "@type": "Answer",
+        "description": "Replacing old plumbing pipes involves inspection, planning, removal of old pipes, installation of new ones, and system testing."
+      }
+    }
+  ],
+  "description": "Replacing old plumbing pipes involves inspection, planning, removal of old pipes, installation of new ones, and system testing."
+}

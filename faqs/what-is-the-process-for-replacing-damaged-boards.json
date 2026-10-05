@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-replacing-damaged-boards",
+  "name": "What is the process for replacing damaged boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing damaged boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an on-site inspection to assess the damage and determine the scope of work. We then carefully remove the damaged sections, ensure the underlying structure is sound, and prepare the area for new material. New boards are cut, fitted, and installed, followed by sealing and finishing to match the existing structure. We prioritize minimizing disruption to your property.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged sections, preparation, installation of new boards, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged sections, preparation, installation of new boards, and finishing."
+}

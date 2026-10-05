@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-have-my-plumbing-system-inspected",
+  "name": "How often should I have my plumbing system inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my plumbing system inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally recommended to have your plumbing system inspected every one to two years, especially if you live in an older home or have experienced recurring issues. Regular inspections can identify minor problems before they escalate into major, costly repairs. They also help ensure the efficiency and longevity of your plumbing system.",
+        "@type": "Answer",
+        "description": "Have your plumbing system inspected every one to two years to prevent major issues and maintain efficiency."
+      }
+    }
+  ],
+  "description": "Have your plumbing system inspected every one to two years to prevent major issues and maintain efficiency."
+}

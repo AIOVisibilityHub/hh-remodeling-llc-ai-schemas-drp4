@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-fix-a-leaking-bathroom-faucet",
+  "name": "How much does it cost to fix a leaking bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a leaking bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a leaking bathroom faucet can vary depending on the complexity of the leak, the type of faucet, and whether replacement parts are needed. Minor leaks might involve a simple washer replacement, while more extensive issues could require cartridge or valve replacement. We provide an estimate after assessing the specific problem. Generally, fixing a leak is less costly than replacing the entire faucet.",
+        "@type": "Answer",
+        "description": "Faucet leak repair costs vary based on complexity and parts needed. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Faucet leak repair costs vary based on complexity and parts needed. We provide an estimate after assessment."
+}

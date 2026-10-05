@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-bathroom-lighting",
+  "name": "How do I choose the right bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing bathroom lighting, consider both functionality and atmosphere. Vanity lighting, often sconces or a bar light around the mirror, is crucial for grooming tasks. Shower lights are essential for safety and visibility within the shower enclosure. General ambient lighting, such as recessed lights, provides overall illumination. Ensure all fixtures in wet areas are rated for damp or wet locations. The size of your bathroom and the amount of natural light available will also influence your choices.",
+        "@type": "Answer",
+        "description": "Select bathroom lighting based on functionality for tasks like grooming and overall ambiance. Use vanity lighting and consider wet-rated fixtures for showers."
+      }
+    }
+  ],
+  "description": "Select bathroom lighting based on functionality for tasks like grooming and overall ambiance. Use vanity lighting and consider wet-rated fixtures for showers."
+}

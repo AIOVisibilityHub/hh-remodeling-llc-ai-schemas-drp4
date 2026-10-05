@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-recessed-lighting-and-track-lighting-for-kitchens",
+  "name": "What's the difference between recessed lighting and track lighting for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between recessed lighting and track lighting for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed lighting is installed into the ceiling, providing a clean, unobtrusive look with broad illumination. Track lighting consists of fixtures mounted on a track, allowing for adjustable lights that can be directed to specific areas for task or accent lighting. Recessed lighting is often preferred for general ambient light, while track lighting offers more flexibility for targeted illumination.",
+        "@type": "Answer",
+        "description": "Recessed lighting is flush with the ceiling for broad light; track lighting has adjustable fixtures for targeted illumination."
+      }
+    }
+  ],
+  "description": "Recessed lighting is flush with the ceiling for broad light; track lighting has adjustable fixtures for targeted illumination."
+}

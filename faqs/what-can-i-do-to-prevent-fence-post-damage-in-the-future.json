@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-can-i-do-to-prevent-fence-post-damage-in-the-future",
+  "name": "What can I do to prevent fence-post damage in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent fence-post damage in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future fence-post damage, consider using pressure-treated lumber for new installations or replacements, as it resists rot and insects. Ensure proper drainage around the base of posts to minimize moisture exposure. Regular inspections can help identify and address minor issues before they become major problems. Avoid stacking soil or debris directly against fence posts. Applying a sealant or stain can also offer additional protection against the elements.",
+        "@type": "Answer",
+        "description": "Use pressure-treated lumber, ensure proper drainage, conduct regular inspections, avoid stacking debris against posts, and apply sealants for protection."
+      }
+    }
+  ],
+  "description": "Use pressure-treated lumber, ensure proper drainage, conduct regular inspections, avoid stacking debris against posts, and apply sealants for protection."
+}

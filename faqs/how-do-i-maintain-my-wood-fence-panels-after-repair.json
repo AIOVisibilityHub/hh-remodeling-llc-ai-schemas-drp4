@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-wood-fence-panels-after-repair",
+  "name": "How do I maintain my wood fence panels after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my wood fence panels after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your wood fence panels are repaired, proper maintenance can significantly extend their lifespan. This includes regular cleaning to remove dirt and debris, applying a sealant or stain every few years to protect against moisture and UV damage, and inspecting for early signs of rot or insect activity. Address any new damage promptly. Ensuring good drainage around the fence base also helps prevent wood decay. Following these steps helps keep your fence in good condition.",
+        "@type": "Answer",
+        "description": "Maintain your repaired wood fence by regular cleaning, applying sealant or stain, inspecting for damage, and ensuring good drainage."
+      }
+    }
+  ],
+  "description": "Maintain your repaired wood fence by regular cleaning, applying sealant or stain, inspecting for damage, and ensuring good drainage."
+}

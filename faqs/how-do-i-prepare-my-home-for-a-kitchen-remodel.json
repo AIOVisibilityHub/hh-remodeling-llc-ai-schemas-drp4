@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-home-for-a-kitchen-remodel",
+  "name": "How do I prepare my home for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a kitchen remodel involves several steps to minimize disruption and protect your belongings. Clear out all cabinets and drawers, finding temporary storage for dishes, food, and small appliances. Set up a temporary kitchen area if possible. Cover furniture and flooring in adjacent rooms to protect against dust. Discuss access points and work schedules with your contractor to ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Prepare for a kitchen remodel by clearing cabinets, setting up a temporary kitchen, covering nearby furniture, and coordinating with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare for a kitchen remodel by clearing cabinets, setting up a temporary kitchen, covering nearby furniture, and coordinating with your contractor."
+}

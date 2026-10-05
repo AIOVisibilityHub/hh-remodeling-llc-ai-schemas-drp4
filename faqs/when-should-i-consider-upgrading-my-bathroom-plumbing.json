@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-plumbing",
+  "name": "When should I consider upgrading my bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your bathroom plumbing during a major remodel, if you experience frequent leaks or clogs, or if your home has old, corroded pipes (like galvanized steel) that could be affecting water pressure or quality. Upgrading can improve water efficiency, prevent future issues, and increase your home's value and functionality. Also consider it if you're adding new, water-intensive fixtures.",
+        "@type": "Answer",
+        "description": "Consider upgrading during remodels, with frequent leaks, old pipes, or when adding new fixtures."
+      }
+    }
+  ],
+  "description": "Consider upgrading during remodels, with frequent leaks, old pipes, or when adding new fixtures."
+}

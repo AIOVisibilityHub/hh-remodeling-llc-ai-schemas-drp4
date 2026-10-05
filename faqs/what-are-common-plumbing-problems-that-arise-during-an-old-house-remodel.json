@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-plumbing-problems-that-arise-during-an-old-house-remodel",
+  "name": "What are common plumbing problems that arise during an old house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems that arise during an old house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling an old house often reveals plumbing issues like corroded pipes, outdated pipe materials (e.g., galvanized steel, lead), inadequate water pressure, or drainage problems due to old trap systems. We are experienced in identifying and addressing these challenges, often recommending upgrades to ensure your renovated space has reliable and modern plumbing.",
+        "@type": "Answer",
+        "description": "Old house remodels often reveal corroded pipes, outdated materials, low water pressure, or drainage issues."
+      }
+    }
+  ],
+  "description": "Old house remodels often reveal corroded pipes, outdated materials, low water pressure, or drainage issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prevent-my-gate-from-needing-frequent-repairs",
+  "name": "How can I prevent my gate from needing frequent repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my gate from needing frequent repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing frequent gate repairs. This includes lubricating hinges and moving parts, checking for loose fasteners, cleaning debris from tracks (for sliding gates), and ensuring automatic openers are functioning correctly. Addressing minor issues promptly can prevent them from escalating.",
+        "@type": "Answer",
+        "description": "Prevent frequent gate repairs with regular maintenance, including lubrication, fastener checks, and track cleaning."
+      }
+    }
+  ],
+  "description": "Prevent frequent gate repairs with regular maintenance, including lubrication, fastener checks, and track cleaning."
+}

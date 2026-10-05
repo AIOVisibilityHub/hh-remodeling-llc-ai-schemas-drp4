@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-move-a-toilet-or-sink-during-a-bathroom-remodel",
+  "name": "How much does it cost to move a toilet or sink during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to move a toilet or sink during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to move a toilet or sink varies depending on the complexity of the relocation. Factors include the distance of the move, whether new drain and water lines need to be run, and if floor or wall demolition is required. For an accurate estimate, we would need to assess your specific remodel plans and existing plumbing layout.",
+        "@type": "Answer",
+        "description": "The cost to move a toilet or sink depends on the distance, need for new lines, and demolition required."
+      }
+    }
+  ],
+  "description": "The cost to move a toilet or sink depends on the distance, need for new lines, and demolition required."
+}

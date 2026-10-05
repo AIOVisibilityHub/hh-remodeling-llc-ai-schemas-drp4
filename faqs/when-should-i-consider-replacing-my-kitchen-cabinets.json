@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-kitchen-cabinets",
+  "name": "When should I consider replacing my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your kitchen cabinets if they show significant signs of wear and tear, such as warping, water damage, or structural instability. Outdated styles that no longer match your aesthetic, or a lack of functional storage, are also common reasons. Replacing cabinets can significantly enhance the value and usability of your kitchen, especially if you're undertaking a full kitchen remodel.",
+        "@type": "Answer",
+        "description": "Consider replacing cabinets due to significant wear, damage, outdated style, or insufficient storage. Replacement improves kitchen value and function."
+      }
+    }
+  ],
+  "description": "Consider replacing cabinets due to significant wear, damage, outdated style, or insufficient storage. Replacement improves kitchen value and function."
+}

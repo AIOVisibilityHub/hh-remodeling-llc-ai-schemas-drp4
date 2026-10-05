@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-causes-fence-instability",
+  "name": "What causes fence instability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes fence instability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fence instability can be caused by various factors, including rot or decay in wooden posts, corrosion in metal posts, loose or damaged fasteners, soil erosion around the fence base, strong winds, and impact damage. Over time, exposure to weather elements and general wear can weaken the structural integrity of a fence. Proper installation and regular maintenance can help mitigate many of these issues, but some factors like severe weather are unavoidable.",
+        "@type": "Answer",
+        "description": "Rot, corrosion, loose fasteners, soil erosion, strong winds, and impact damage are common causes of fence instability."
+      }
+    }
+  ],
+  "description": "Rot, corrosion, loose fasteners, soil erosion, strong winds, and impact damage are common causes of fence instability."
+}

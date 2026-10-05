@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-appliance-area-preparation-typically-take",
+  "name": "How long does appliance-area preparation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does appliance-area preparation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of appliance-area preparation varies significantly depending on the complexity of the work. Simple preparations, like minor electrical adjustments, might take a few hours. More extensive projects, such as structural modifications or rerouting significant plumbing/gas lines, could take several days. We provide a detailed timeline after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Preparation time varies; simple adjustments take hours, while extensive modifications like structural changes or utility rerouting could take several days."
+      }
+    }
+  ],
+  "description": "Preparation time varies; simple adjustments take hours, while extensive modifications like structural changes or utility rerouting could take several days."
+}

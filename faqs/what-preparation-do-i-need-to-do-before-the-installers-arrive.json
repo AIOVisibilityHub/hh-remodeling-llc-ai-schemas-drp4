@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-preparation-do-i-need-to-do-before-the-installers-arrive",
+  "name": "What preparation do I need to do before the installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before the installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the installation team arrives, it's helpful to clear the work area of personal items, fragile objects, and any furniture that might obstruct access. If old fixtures are being removed, emptying the cabinets and vanity is essential. Ensuring a clear path from the entry point to the installation area also helps streamline the process. We will provide a detailed checklist specific to your project during our planning phase.",
+        "@type": "Answer",
+        "description": "Clear the work area, remove personal items, empty old cabinets, and ensure a clear path for installers."
+      }
+    }
+  ],
+  "description": "Clear the work area, remove personal items, empty old cabinets, and ensure a clear path for installers."
+}

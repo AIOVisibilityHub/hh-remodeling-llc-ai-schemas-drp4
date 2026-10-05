@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-fence-post-repair",
+  "name": "What is the typical process for fence-post repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for fence-post repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for fence-post repair involves assessing the damage to determine the best method. For minor rot, a concrete collar might be added, or a support brace installed. Severely damaged posts may require excavation, removal of the damaged section, and installation of a new post alongside the old one, or a complete replacement of the post. The new post is usually set in concrete for stability. The fence rails are then reattached, ensuring proper alignment and stability.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, then either reinforcing with concrete or braces, or excavating and replacing the damaged section of the post."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, then either reinforcing with concrete or braces, or excavating and replacing the damaged section of the post."
+}

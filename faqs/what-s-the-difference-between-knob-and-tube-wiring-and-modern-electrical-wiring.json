@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-knob-and-tube-wiring-and-modern-electrical-wiring",
+  "name": "What's the difference between knob and tube wiring and modern electrical wiring, and why should I care during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between knob and tube wiring and modern electrical wiring, and why should I care during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Knob and tube wiring is an older electrical system, common in homes built before the 1940s, using ceramic insulators and cloth-covered wires. Modern wiring uses plastic-sheathed cables and includes a ground wire for safety. During a remodel, it's crucial to address knob and tube wiring as it lacks a ground, can be a fire hazard due to deteriorated insulation, and often can't handle modern electrical loads. Upgrading to modern wiring during a remodel improves safety and allows for proper circuit protection.",
+        "@type": "Answer",
+        "description": "Knob and tube is an older, ungrounded wiring system. Modern wiring is safer and can handle current electrical loads, making upgrades crucial during remodels."
+      }
+    }
+  ],
+  "description": "Knob and tube is an older, ungrounded wiring system. Modern wiring is safer and can handle current electrical loads, making upgrades crucial during remodels."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-home-for-a-full-kitchen-renovation",
+  "name": "How can I prepare my home for a full kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a full kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your renovation begins, it's helpful to clear out your kitchen completely, including all food, dishes, and small appliances. Arrange for a temporary kitchen setup if needed. Consider protecting adjacent areas from dust and debris, and discuss access points with your contractor. Planning for pets and children's safety during the construction period is also important.",
+        "@type": "Answer",
+        "description": "Prepare by clearing your kitchen, setting up a temporary cooking area, and protecting adjacent spaces from dust."
+      }
+    }
+  ],
+  "description": "Prepare by clearing your kitchen, setting up a temporary cooking area, and protecting adjacent spaces from dust."
+}

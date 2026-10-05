@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-materials-are-used-for-fence-post-repair",
+  "name": "What types of materials are used for fence-post repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for fence-post repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For fence-post repair, common materials include treated lumber for new post sections, concrete for stability, and various types of fasteners and brackets. For added protection against moisture, gravel or specialized post-setting foam may be used. Depending on the existing fence material, matching wood species or specific reinforcing materials will be selected to ensure a consistent look and durable repair.",
+        "@type": "Answer",
+        "description": "Materials include treated lumber, concrete, fasteners, brackets, and sometimes gravel or specialized foam for moisture protection."
+      }
+    }
+  ],
+  "description": "Materials include treated lumber, concrete, fasteners, brackets, and sometimes gravel or specialized foam for moisture protection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-lighting-for-my-kitchen-remodel",
+  "name": "How do I choose the right lighting for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right lighting for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right kitchen lighting involves considering a combination of ambient, task, and accent lighting. Ambient lighting provides overall illumination, while task lighting (like under-cabinet lights) brightens work surfaces. Accent lighting highlights features. Consider the kitchen's size, ceiling height, natural light, and your personal style. We can help you design a lighting plan that meets your needs.",
+        "@type": "Answer",
+        "description": "Consider ambient, task, and accent lighting based on your kitchen's size, natural light, and style. We assist with lighting design."
+      }
+    }
+  ],
+  "description": "Consider ambient, task, and accent lighting based on your kitchen's size, natural light, and style. We assist with lighting design."
+}

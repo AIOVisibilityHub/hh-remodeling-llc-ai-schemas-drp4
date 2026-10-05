@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-purchase-the-electrical-fixtures-myself-or-can-frasheski-constructi",
+  "name": "Do I need to purchase the electrical fixtures myself, or can Frasheski Construction supply them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase the electrical fixtures myself, or can Frasheski Construction supply them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You have the option to either purchase your electrical fixtures yourself or have Frasheski Construction supply them. If you provide the fixtures, we will install them. If you prefer, we can also assist you in selecting and sourcing high-quality fixtures that meet your design preferences and budget, streamlining the installation process.",
+        "@type": "Answer",
+        "description": "You can provide your own fixtures or Frasheski Construction can help you select and source them for installation."
+      }
+    }
+  ],
+  "description": "You can provide your own fixtures or Frasheski Construction can help you select and source them for installation."
+}

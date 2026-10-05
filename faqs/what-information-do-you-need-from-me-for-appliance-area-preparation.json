@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-information-do-you-need-from-me-for-appliance-area-preparation",
+  "name": "What information do you need from me for appliance-area preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need from me for appliance-area preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To accurately prepare your appliance area, we'll need details about your new appliances, including make, model, dimensions, and utility requirements (electrical voltage, amperage, gas line type, water connections). We also appreciate any existing floor plans or photos of the installation site. This information helps us anticipate and plan for all necessary modifications.",
+        "@type": "Answer",
+        "description": "We need the make, model, dimensions, and utility requirements of your new appliances, plus any existing floor plans or photos."
+      }
+    }
+  ],
+  "description": "We need the make, model, dimensions, and utility requirements of your new appliances, plus any existing floor plans or photos."
+}

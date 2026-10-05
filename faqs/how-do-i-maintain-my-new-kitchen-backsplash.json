@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-new-kitchen-backsplash",
+  "name": "How do I maintain my new kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the material. Ceramic and glass backsplashes are generally easy to clean with mild soap and water. Natural stone backsplashes may require specific pH-neutral cleaners and periodic sealing to protect against stains and moisture. Avoid abrasive cleaners that could damage the surface or grout. Regular cleaning helps preserve the beauty and longevity of your backsplash.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material; ceramic and glass are easy to clean, while natural stone may require sealing and specific cleaners."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material; ceramic and glass are easy to clean, while natural stone may require sealing and specific cleaners."
+}

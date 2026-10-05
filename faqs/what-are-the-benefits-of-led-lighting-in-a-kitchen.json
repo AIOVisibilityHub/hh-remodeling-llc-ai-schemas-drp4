@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-led-lighting-in-a-kitchen",
+  "name": "What are the benefits of LED lighting in a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of LED lighting in a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED lighting offers numerous benefits for kitchens, including energy efficiency, longer lifespan, and versatile design options. LEDs consume less electricity than traditional bulbs, reducing your energy bills. They last significantly longer, minimizing replacement frequency. Additionally, LEDs provide various color temperatures and dimming capabilities, allowing for customized ambiance and task lighting.",
+        "@type": "Answer",
+        "description": "LED lighting offers energy efficiency, a long lifespan, and versatile design options, reducing energy bills and providing customizable ambiance."
+      }
+    }
+  ],
+  "description": "LED lighting offers energy efficiency, a long lifespan, and versatile design options, reducing energy bills and providing customizable ambiance."
+}

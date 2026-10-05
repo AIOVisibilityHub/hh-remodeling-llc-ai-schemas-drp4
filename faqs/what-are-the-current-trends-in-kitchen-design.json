@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-current-trends-in-kitchen-design",
+  "name": "What are the current trends in kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the current trends in kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current kitchen design trends often emphasize functionality, smart storage, and a blend of aesthetics. Popular trends include open-concept layouts, large islands for gathering, smart appliances, and durable, easy-to-clean materials. Color palettes often feature earthy tones, whites, and grays, with accents of bold colors. Integrated lighting, sustainable materials, and touchless faucets are also gaining popularity. We can help incorporate these or other preferences into your unique kitchen design.",
+        "@type": "Answer",
+        "description": "Current kitchen trends include open concepts, large islands, smart appliances, durable materials, earthy color palettes, and integrated lighting."
+      }
+    }
+  ],
+  "description": "Current kitchen trends include open concepts, large islands, smart appliances, durable materials, earthy color palettes, and integrated lighting."
+}

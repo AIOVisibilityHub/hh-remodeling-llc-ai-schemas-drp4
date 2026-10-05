@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-a-typical-kitchen-plumbing-installation",
+  "name": "What is involved in a typical kitchen plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical kitchen plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen plumbing installation involves connecting water supply lines to the sink and appliances, installing the sink and faucet, connecting drain lines to the main waste system, and ensuring proper venting. This can also include installing a garbage disposal, dishwasher, and refrigerator water line, depending on your kitchen design. Our team ensures all connections are secure and leak-free, adhering to local plumbing codes for safety and efficiency.",
+        "@type": "Answer",
+        "description": "It involves connecting water lines, installing sinks and faucets, and connecting drain lines for a fully functional kitchen."
+      }
+    }
+  ],
+  "description": "It involves connecting water lines, installing sinks and faucets, and connecting drain lines for a fully functional kitchen."
+}

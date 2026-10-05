@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-plumbing-work-during-a-home-remodel",
+  "name": "What is the typical process for plumbing work during a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for plumbing work during a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The plumbing process usually starts with rough-in plumbing, where new water supply and drain lines are installed or relocated within the walls before they are closed up. After the new fixtures are in place, finish plumbing involves connecting faucets, toilets, showers, and other appliances. We coordinate closely with other trades to ensure smooth transitions and timely completion of your remodel.",
+        "@type": "Answer",
+        "description": "Plumbing work during a remodel involves rough-in plumbing (lines in walls) and finish plumbing (connecting fixtures)."
+      }
+    }
+  ],
+  "description": "Plumbing work during a remodel involves rough-in plumbing (lines in walls) and finish plumbing (connecting fixtures)."
+}

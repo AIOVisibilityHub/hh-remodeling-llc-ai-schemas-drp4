@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-a-full-kitchen-renovation-cost-in-the-east-bay-area",
+  "name": "How much does a full kitchen renovation cost in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a full kitchen renovation cost in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a full kitchen renovation in the East Bay area can vary significantly based on factors like the size of your kitchen, the quality of materials chosen, and the complexity of the design. Costs can range from a mid-range renovation to a high-end custom build. It's best to discuss your specific vision and budget with a contractor to receive an accurate estimate for your project.",
+        "@type": "Answer",
+        "description": "The cost of a full kitchen renovation in the East Bay varies based on size, materials, and design complexity."
+      }
+    }
+  ],
+  "description": "The cost of a full kitchen renovation in the East Bay varies based on size, materials, and design complexity."
+}

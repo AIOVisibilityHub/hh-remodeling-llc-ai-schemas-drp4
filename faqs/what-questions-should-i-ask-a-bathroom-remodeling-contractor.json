@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-questions-should-i-ask-a-bathroom-remodeling-contractor",
+  "name": "What questions should I ask a bathroom remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a bathroom remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When interviewing contractors, ask about their experience with projects similar to yours, their licensing and insurance details, and their typical project timeline. Inquire about their process for managing projects, how they handle unexpected issues, and what warranties they offer. Also, ask for a detailed breakdown of costs, including materials and labor, and request references from previous clients. Clear communication is key.",
+        "@type": "Answer",
+        "description": "Ask contractors about experience, licensing, insurance, timelines, project management, warranties, cost breakdowns, and references."
+      }
+    }
+  ],
+  "description": "Ask contractors about experience, licensing, insurance, timelines, project management, warranties, cost breakdowns, and references."
+}

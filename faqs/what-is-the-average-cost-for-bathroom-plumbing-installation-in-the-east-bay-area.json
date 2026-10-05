@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-for-bathroom-plumbing-installation-in-the-east-bay-area",
+  "name": "What is the average cost for bathroom plumbing installation in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for bathroom plumbing installation in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathroom plumbing installation in the East Bay area can vary widely. Factors influencing the cost include the extent of the work (e.g., replacing a single fixture vs. a full bathroom remodel), the type and quality of fixtures chosen, and any necessary pipe alterations or upgrades. It's best to get a detailed quote tailored to your specific project from a local contractor.",
+        "@type": "Answer",
+        "description": "Costs vary based on project scope, fixture choices, and necessary pipe alterations."
+      }
+    }
+  ],
+  "description": "Costs vary based on project scope, fixture choices, and necessary pipe alterations."
+}

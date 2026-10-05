@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-common-types-of-cabinets-available-for-installation",
+  "name": "What are the common types of cabinets available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of cabinets available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet types include stock, semi-custom, and custom cabinets. Stock cabinets are pre-manufactured in standard sizes. Semi-custom offer more design flexibility with various finishes and sizes. Custom cabinets are built to your exact specifications, allowing for unique designs and dimensions. Material options range from solid wood and plywood to MDF and particleboard, each with different durability and cost implications.",
+        "@type": "Answer",
+        "description": "Cabinet types range from stock (pre-manufactured) to semi-custom and custom, offering various levels of design flexibility and material choices."
+      }
+    }
+  ],
+  "description": "Cabinet types range from stock (pre-manufactured) to semi-custom and custom, offering various levels of design flexibility and material choices."
+}

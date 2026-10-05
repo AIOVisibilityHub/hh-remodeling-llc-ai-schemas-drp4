@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-involve-a-plumber-in-my-remodel-project",
+  "name": "When should I involve a plumber in my remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve a plumber in my remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to involve a plumber early in the planning stages of your remodel project, ideally during the design phase. This allows us to review your plans, identify potential plumbing challenges or opportunities, and provide accurate estimates. Early involvement helps ensure that plumbing considerations are integrated smoothly and avoid costly changes later on.",
+        "@type": "Answer",
+        "description": "Involve a plumber early in your remodel's planning and design stages to identify challenges and get accurate estimates."
+      }
+    }
+  ],
+  "description": "Involve a plumber early in your remodel's planning and design stages to identify challenges and get accurate estimates."
+}

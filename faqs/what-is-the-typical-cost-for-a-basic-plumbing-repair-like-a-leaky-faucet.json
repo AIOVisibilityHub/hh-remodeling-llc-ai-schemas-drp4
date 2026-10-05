@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-for-a-basic-plumbing-repair-like-a-leaky-faucet",
+  "name": "What is the typical cost for a basic plumbing repair like a leaky faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a basic plumbing repair like a leaky faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a basic plumbing repair, such as a leaky faucet, can vary depending on the complexity of the leak, the type of faucet, and the plumber's hourly rates. It typically includes a service call fee and labor for the repair. Material costs, if any parts need replacing, would be additional. Getting a detailed estimate is always recommended.",
+        "@type": "Answer",
+        "description": "The cost for a leaky faucet repair varies by complexity and plumber's rates; it usually includes a service fee and labor."
+      }
+    }
+  ],
+  "description": "The cost for a leaky faucet repair varies by complexity and plumber's rates; it usually includes a service fee and labor."
+}

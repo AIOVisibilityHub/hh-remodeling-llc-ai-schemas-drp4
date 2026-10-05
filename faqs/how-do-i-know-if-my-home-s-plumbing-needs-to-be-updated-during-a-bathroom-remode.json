@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-home-s-plumbing-needs-to-be-updated-during-a-bathroom-remode",
+  "name": "How do I know if my home's plumbing needs to be updated during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home's plumbing needs to be updated during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a bathroom remodel, it's wise to consider plumbing updates if your home is older, you're changing the layout significantly, or if you've experienced persistent issues like low water pressure, slow drains, or leaky pipes. We can inspect your existing plumbing to identify potential problems or areas that would benefit from upgrades, ensuring your new bathroom functions efficiently and reliably.",
+        "@type": "Answer",
+        "description": "Consider plumbing updates during a bathroom remodel if your home is older, you're changing the layout, or have had plumbing issues."
+      }
+    }
+  ],
+  "description": "Consider plumbing updates during a bathroom remodel if your home is older, you're changing the layout, or have had plumbing issues."
+}

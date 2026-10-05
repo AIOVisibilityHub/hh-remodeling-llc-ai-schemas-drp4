@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-electrical-fixture-for-my-home-or-business",
+  "name": "How do I choose the right electrical fixture for my home or business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right electrical fixture for my home or business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right electrical fixture involves considering the room's function, desired ambiance, existing decor, and lighting requirements. Factors like lumen output, color temperature, and dimmability are important. Frasheski Construction can provide expert advice and recommendations tailored to your specific needs and preferences to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Choose fixtures based on room function, ambiance, decor, and lighting needs; we can provide expert advice."
+      }
+    }
+  ],
+  "description": "Choose fixtures based on room function, ambiance, decor, and lighting needs; we can provide expert advice."
+}

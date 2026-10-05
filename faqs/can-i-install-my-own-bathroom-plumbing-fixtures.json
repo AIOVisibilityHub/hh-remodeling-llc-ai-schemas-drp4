@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-my-own-bathroom-plumbing-fixtures",
+  "name": "Can I install my own bathroom plumbing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install my own bathroom plumbing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for a homeowner to install some simple bathroom plumbing fixtures, complex installations or alterations to existing plumbing systems are best left to a professional. Incorrect installation can lead to leaks, water damage, or violations of local plumbing codes. A professional ensures proper connections, correct drainage, and adherence to all regulations for safety and longevity.",
+        "@type": "Answer",
+        "description": "Simple fixture installation can be DIY, but complex work is best handled by a professional to avoid issues."
+      }
+    }
+  ],
+  "description": "Simple fixture installation can be DIY, but complex work is best handled by a professional to avoid issues."
+}

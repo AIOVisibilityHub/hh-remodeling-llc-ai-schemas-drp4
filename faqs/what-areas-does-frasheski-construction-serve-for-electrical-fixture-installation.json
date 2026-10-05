@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-does-frasheski-construction-serve-for-electrical-fixture-installation",
+  "name": "What areas does Frasheski Construction serve for electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Frasheski Construction serve for electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides electrical fixture installation services in Berkeley, the East Bay area, Oakland, Albany, and El Cerrito. Our team is familiar with the local regulations and specific needs of these communities, ensuring efficient and compliant service for your projects.",
+        "@type": "Answer",
+        "description": "Frasheski Construction serves Berkeley, the East Bay, Oakland, Albany, and El Cerrito for electrical fixture installations."
+      }
+    }
+  ],
+  "description": "Frasheski Construction serves Berkeley, the East Bay, Oakland, Albany, and El Cerrito for electrical fixture installations."
+}

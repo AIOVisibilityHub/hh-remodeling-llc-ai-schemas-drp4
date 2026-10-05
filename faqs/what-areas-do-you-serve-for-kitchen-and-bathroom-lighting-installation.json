@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-kitchen-and-bathroom-lighting-installation",
+  "name": "What areas do you serve for kitchen and bathroom lighting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for kitchen and bathroom lighting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves the East Bay area for kitchen and bathroom lighting installation, including Berkeley, Oakland, Albany, El Cerrito, Kensington, Alameda, and surrounding communities. We are committed to providing quality construction services to our local clients. Please contact us to discuss your project and confirm service availability in your specific location.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Kensington, Alameda, and surrounding East Bay areas for lighting installation."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Kensington, Alameda, and surrounding East Bay areas for lighting installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-reasons-a-gate-needs-repair",
+  "name": "What are common reasons a gate needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a gate needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gates often require repair due to damage from vehicles, wear and tear on hinges and latches, issues with automatic openers, or weather-related problems. Regular use can loosen components, while accidents can bend frames or break panels. Electrical issues can also affect automatic gate functionality.",
+        "@type": "Answer",
+        "description": "Common gate repair reasons include vehicle damage, worn hardware, automatic opener malfunctions, and weather-related issues."
+      }
+    }
+  ],
+  "description": "Common gate repair reasons include vehicle damage, worn hardware, automatic opener malfunctions, and weather-related issues."
+}

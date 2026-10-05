@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prevent-common-plumbing-blockages",
+  "name": "How can I prevent common plumbing blockages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent common plumbing blockages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can prevent common plumbing blockages by being mindful of what goes down your drains. Avoid pouring grease, oil, or food scraps down kitchen sinks. Use drain screens to catch hair and soap scum in bathrooms. Flush only toilet paper, and avoid disposing of feminine hygiene products, wet wipes, or cotton balls in the toilet. Regular drain maintenance with hot water and baking soda can also help.",
+        "@type": "Answer",
+        "description": "Prevent blockages by avoiding grease and food scraps in drains, using drain screens, and only flushing toilet paper."
+      }
+    }
+  ],
+  "description": "Prevent blockages by avoiding grease and food scraps in drains, using drain screens, and only flushing toilet paper."
+}

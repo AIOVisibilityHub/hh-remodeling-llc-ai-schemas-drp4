@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-cabinet-repair-and-cabinet-refinishing",
+  "name": "What is the difference between cabinet repair and cabinet refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet repair and cabinet refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet repair addresses specific damages like loose hinges, damaged drawers, or chipped wood. This typically involves fixing or replacing individual components. Cabinet refinishing, however, is a more comprehensive process that restores the cabinet's appearance. It involves stripping the old finish, making minor cosmetic repairs, sanding, and applying a new stain or paint. Refinishing can dramatically change the look of your kitchen without the expense of a full replacement.",
+        "@type": "Answer",
+        "description": "Cabinet repair fixes specific damage, while refinishing restores the overall appearance with a new finish."
+      }
+    }
+  ],
+  "description": "Cabinet repair fixes specific damage, while refinishing restores the overall appearance with a new finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-different-paint-finishes",
+  "name": "What is the difference between different paint finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between different paint finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint finishes range from flat to high-gloss, each with distinct characteristics. Flat finishes offer a non-reflective, velvety look that hides imperfections but is less durable and harder to clean. Eggshell and satin have a slight sheen, are more durable, and easier to clean, making them popular for living areas. Semi-gloss and high-gloss are very durable, reflective, and ideal for trim, doors, and high-moisture areas due to their washability.",
+        "@type": "Answer",
+        "description": "Paint finishes vary from flat (no shine, hides imperfections) to high-gloss (shiny, very durable, easy to clean), with eggshell and satin in between."
+      }
+    }
+  ],
+  "description": "Paint finishes vary from flat (no shine, hides imperfections) to high-gloss (shiny, very durable, easy to clean), with eggshell and satin in between."
+}

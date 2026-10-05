@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-bathroom-plumbing-installation-take",
+  "name": "How long does bathroom plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathroom plumbing installation varies depending on the project's scope. A simple fixture replacement might take a few hours. A complete remodel, including rough-in and finish plumbing, can take several days to a week, especially if existing layouts are significantly changed or new lines need to be run. Factors like the size of the bathroom, the complexity of the design, and unforeseen issues can influence the timeline.",
+        "@type": "Answer",
+        "description": "The duration varies from a few hours for fixture replacement to several days for a complete remodel."
+      }
+    }
+  ],
+  "description": "The duration varies from a few hours for fixture replacement to several days for a complete remodel."
+}

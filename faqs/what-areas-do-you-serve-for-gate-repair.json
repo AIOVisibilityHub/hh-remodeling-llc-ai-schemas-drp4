@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-gate-repair",
+  "name": "What areas do you serve for gate repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for gate repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides gate repair services to customers within Berkeley, East Bay, Oakland, Albany, and El Cerrito. Our local presence allows us to respond efficiently to your repair needs in these communities. If you are located in one of these areas and require gate repair, please contact us for a consultation and service. We are committed to serving our local clients with reliable construction and repair solutions.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for gate repair services."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for gate repair services."
+}

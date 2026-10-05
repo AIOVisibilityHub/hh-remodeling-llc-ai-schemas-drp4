@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-hire-a-separate-plumber-or-electrician-for-the-installation",
+  "name": "Do I need to hire a separate plumber or electrician for the installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate plumber or electrician for the installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For vanity and cabinet installations, especially those involving new sink and faucet setups or relocation of fixtures, plumbing work is typically required. Similarly, if you are adding new lighting or outlets, an electrician will be needed. Frasheski Construction can coordinate these trades as part of our comprehensive service, ensuring all aspects of your installation meet local codes and standards. We aim to streamline the process for you.",
+        "@type": "Answer",
+        "description": "Plumbing and electrical work are often needed, and Frasheski Construction can coordinate these services for you."
+      }
+    }
+  ],
+  "description": "Plumbing and electrical work are often needed, and Frasheski Construction can coordinate these services for you."
+}

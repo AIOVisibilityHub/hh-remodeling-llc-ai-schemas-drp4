@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-best-for-a-durable-and-low-maintenance-shower",
+  "name": "What materials are best for a durable and low-maintenance shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for a durable and low-maintenance shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a durable and low-maintenance shower, popular material choices include porcelain or ceramic tile, which are water-resistant and easy to clean. Solid surface materials like cultured marble or acrylic are also excellent for their seamless look and mold resistance. Grout selection is also important for long-term maintenance.",
+        "@type": "Answer",
+        "description": "Porcelain, ceramic, cultured marble, and acrylic are durable, low-maintenance materials for showers."
+      }
+    }
+  ],
+  "description": "Porcelain, ceramic, cultured marble, and acrylic are durable, low-maintenance materials for showers."
+}

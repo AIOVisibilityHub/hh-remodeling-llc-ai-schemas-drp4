@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-fence-post-repair",
+  "name": "What areas do you serve for fence-post repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for fence-post repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide fence-post repair services across Berkeley, the East Bay, Oakland, Albany, and El Cerrito. Our service area covers these communities to ensure local residents and businesses have access to our expertise. If you are located in these areas and need fence-post repair, please contact us for a consultation.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for fence-post repair."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for fence-post repair."
+}

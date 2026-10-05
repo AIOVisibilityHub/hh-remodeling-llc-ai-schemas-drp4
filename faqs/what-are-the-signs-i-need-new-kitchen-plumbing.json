@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-signs-i-need-new-kitchen-plumbing",
+  "name": "What are the signs I need new kitchen plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need new kitchen plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs you might need new kitchen plumbing include persistent leaks, low water pressure, discolored water, frequent clogs, or unusual noises coming from your pipes. Older homes in areas like El Cerrito or Albany might have outdated or corroded pipes that are prone to issues. Addressing these signs early can prevent more significant and costly damage.",
+        "@type": "Answer",
+        "description": "Persistent leaks, low water pressure, discolored water, frequent clogs, or unusual pipe noises indicate you might need new plumbing."
+      }
+    }
+  ],
+  "description": "Persistent leaks, low water pressure, discolored water, frequent clogs, or unusual pipe noises indicate you might need new plumbing."
+}

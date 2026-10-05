@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-special-lighting-for-a-kitchen-island",
+  "name": "Do I need special lighting for a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special lighting for a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a kitchen island often benefits from dedicated lighting. Pendant lights are a popular choice as they provide direct task lighting for meal preparation, dining, or homework, and also serve as a design feature. The number and size of pendants will depend on the island's length and the desired aesthetic. It's important to hang them at an appropriate height to avoid obstructing views or creating glare.",
+        "@type": "Answer",
+        "description": "Yes, kitchen islands often need dedicated lighting, like pendant lights, for task illumination and design."
+      }
+    }
+  ],
+  "description": "Yes, kitchen islands often need dedicated lighting, like pendant lights, for task illumination and design."
+}

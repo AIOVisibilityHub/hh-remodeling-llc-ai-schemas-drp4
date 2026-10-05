@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-of-plumbing-issues-in-a-home",
+  "name": "What are common signs of plumbing issues in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of plumbing issues in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing issues often manifest as leaky faucets or pipes, constantly running toilets, low water pressure, slow drains, or unusual noises coming from your plumbing system. Discolored water, unpleasant odors from drains, or water stains on walls and ceilings can also indicate a problem. Addressing these signs early can prevent more significant damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Common signs include leaks, low water pressure, slow drains, and unusual plumbing noises."
+      }
+    }
+  ],
+  "description": "Common signs include leaks, low water pressure, slow drains, and unusual plumbing noises."
+}

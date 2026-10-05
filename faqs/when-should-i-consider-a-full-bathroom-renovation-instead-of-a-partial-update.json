@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-a-full-bathroom-renovation-instead-of-a-partial-update",
+  "name": "When should I consider a full bathroom renovation instead of a partial update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full bathroom renovation instead of a partial update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a full bathroom renovation if your current bathroom has significant functional issues, such as outdated plumbing, persistent leaks, or a layout that no longer meets your needs. It's also a good choice if you're looking to significantly increase your home's value or if the existing aesthetic is severely dated and you desire a complete transformation. Partial updates are better for minor cosmetic changes.",
+        "@type": "Answer",
+        "description": "Opt for a full renovation when facing major functional issues, aiming for significant value increase, or desiring a complete aesthetic transformation."
+      }
+    }
+  ],
+  "description": "Opt for a full renovation when facing major functional issues, aiming for significant value increase, or desiring a complete aesthetic transformation."
+}

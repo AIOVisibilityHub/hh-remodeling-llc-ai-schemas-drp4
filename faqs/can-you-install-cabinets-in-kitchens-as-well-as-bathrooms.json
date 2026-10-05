@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-install-cabinets-in-kitchens-as-well-as-bathrooms",
+  "name": "Can you install cabinets in kitchens as well as bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install cabinets in kitchens as well as bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction specializes in cabinet installation for both kitchens and bathrooms. Our expertise covers a wide range of projects, from small powder room vanities to full kitchen remodels requiring extensive cabinetry. We handle everything from design consultation to precise installation, ensuring a seamless and high-quality finish for any room in your home that requires new or updated cabinetry.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction installs cabinets in both kitchens and bathrooms, handling projects of all sizes."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction installs cabinets in both kitchens and bathrooms, handling projects of all sizes."
+}

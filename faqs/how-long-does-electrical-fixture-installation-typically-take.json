@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-electrical-fixture-installation-typically-take",
+  "name": "How long does electrical fixture installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does electrical fixture installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of electrical fixture installation varies depending on the type and complexity of the fixture, as well as the existing electrical setup. Simple replacements might take an hour, while installing new recessed lighting in multiple rooms could take a full day. We provide an estimated timeframe after assessing the specific project during our initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies by fixture complexity, from an hour for simple replacements to a full day for extensive projects."
+      }
+    }
+  ],
+  "description": "Installation time varies by fixture complexity, from an hour for simple replacements to a full day for extensive projects."
+}

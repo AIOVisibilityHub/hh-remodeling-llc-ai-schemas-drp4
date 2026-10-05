@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-replace-a-toilet",
+  "name": "How long does it take to replace a toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a toilet typically takes between 2 to 4 hours. This timeframe includes removing the old toilet, preparing the flange, setting the new toilet, connecting the water supply, and testing for leaks. The duration can vary slightly depending on the existing plumbing condition, any unexpected issues encountered during removal, and the type of new toilet being installed. More complex installations with new plumbing lines could take longer.",
+        "@type": "Answer",
+        "description": "Toilet replacement usually takes 2 to 4 hours, depending on existing plumbing and any complications."
+      }
+    }
+  ],
+  "description": "Toilet replacement usually takes 2 to 4 hours, depending on existing plumbing and any complications."
+}

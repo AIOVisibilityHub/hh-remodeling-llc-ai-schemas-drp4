@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-electrical-fixture-installation-in-berkeley-or-oakland",
+  "name": "Do I need a permit for electrical fixture installation in Berkeley or Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for electrical fixture installation in Berkeley or Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required depends on the scope of the electrical fixture installation. Minor replacements often don't require a permit, but new installations or significant alterations to your existing electrical system typically do. Frasheski Construction can advise you on permit requirements for your specific project in Berkeley, Oakland, and other service areas.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the installation's scope; new installations or major alterations generally need one. We can advise you."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the installation's scope; new installations or major alterations generally need one. We can advise you."
+}

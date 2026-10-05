@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-shower-upgrade-and-a-tub-to-shower-conversion",
+  "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a shower upgrade and a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower upgrade typically involves replacing existing fixtures, tiling, or the shower enclosure within the current footprint. A tub-to-shower conversion involves removing an existing bathtub and replacing it with a standalone shower. This conversion often requires more extensive plumbing and structural changes, as well as new flooring and wall finishes.",
+        "@type": "Answer",
+        "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower."
+      }
+    }
+  ],
+  "description": "A shower upgrade refreshes existing elements; a tub-to-shower conversion replaces a tub with a new shower."
+}

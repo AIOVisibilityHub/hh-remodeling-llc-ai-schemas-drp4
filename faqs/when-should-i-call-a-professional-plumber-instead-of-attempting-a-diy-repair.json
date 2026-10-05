@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-call-a-professional-plumber-instead-of-attempting-a-diy-repair",
+  "name": "When should I call a professional plumber instead of attempting a DIY repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber instead of attempting a DIY repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber when facing complex issues like burst pipes, main sewer line backups, water heater malfunctions, or persistent leaks that you can't identify or stop. For new installations, like replacing a water heater or adding a fixture, professional help ensures proper installation and adherence to local codes. If you're unsure about the cause or solution, a professional can diagnose and repair safely.",
+        "@type": "Answer",
+        "description": "Call a professional for complex issues like burst pipes, sewer backups, water heater problems, or when you're unsure of the repair."
+      }
+    }
+  ],
+  "description": "Call a professional for complex issues like burst pipes, sewer backups, water heater problems, or when you're unsure of the repair."
+}

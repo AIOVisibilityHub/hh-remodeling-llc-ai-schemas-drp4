@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-of-my-home-typically-require-damaged-board-replacement",
+  "name": "What areas of my home typically require damaged-board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas of my home typically require damaged-board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Damaged-board replacement is commonly needed for exterior elements such as decks, siding, fascia boards, and trim. It can also be necessary for interior subflooring or structural components affected by leaks or pest activity. Areas exposed to moisture or direct weather are most susceptible to damage.",
+        "@type": "Answer",
+        "description": "Common areas include decks, siding, fascia, and trim, as well as interior subflooring affected by water or pests."
+      }
+    }
+  ],
+  "description": "Common areas include decks, siding, fascia, and trim, as well as interior subflooring affected by water or pests."
+}

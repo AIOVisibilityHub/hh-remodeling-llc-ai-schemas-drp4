@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-install-new-kitchen-or-bathroom-lighting",
+  "name": "How long does it take to install new kitchen or bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new kitchen or bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen or bathroom lighting installation depends on the scope of the project. A simple fixture replacement might take a few hours. A more extensive project involving new wiring, multiple recessed lights, or custom layouts could take one to several days. We provide a projected timeline during the initial consultation once we understand the full scope of work.",
+        "@type": "Answer",
+        "description": "Installation time varies: a few hours for simple replacement, several days for extensive projects with new wiring."
+      }
+    }
+  ],
+  "description": "Installation time varies: a few hours for simple replacement, several days for extensive projects with new wiring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-repair-or-replace-my-damaged-gate",
+  "name": "Should I repair or replace my damaged gate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my damaged gate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage, the age of the gate, and the cost comparison. Minor issues are usually repairable, extending the gate's lifespan. However, if the gate is old, heavily damaged, or repairs are nearly as expensive as a new installation, replacement might be the more cost-effective and durable solution in the long run.",
+        "@type": "Answer",
+        "description": "Decide between repair or replacement based on damage extent, gate age, and cost comparison."
+      }
+    }
+  ],
+  "description": "Decide between repair or replacement based on damage extent, gate age, and cost comparison."
+}

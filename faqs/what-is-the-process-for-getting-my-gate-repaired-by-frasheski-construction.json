@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-getting-my-gate-repaired-by-frasheski-construction",
+  "name": "What is the process for getting my gate repaired by Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my gate repaired by Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our gate repair process begins with a service request, followed by a scheduled assessment of your gate. We then provide a detailed estimate outlining the necessary repairs and associated costs. Once approved, our team performs the repair using quality materials. We aim for efficient service with minimal disruption.",
+        "@type": "Answer",
+        "description": "Our gate repair process involves a service request, assessment, detailed estimate, and efficient repair by our team."
+      }
+    }
+  ],
+  "description": "Our gate repair process involves a service request, assessment, detailed estimate, and efficient repair by our team."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-bathroom-lighting",
+  "name": "When should I consider upgrading my bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your bathroom lighting if your current setup doesn't provide adequate illumination for daily tasks, if the fixtures are outdated and don't match your aesthetic, or if you're undertaking a bathroom renovation. Upgrading can improve safety, enhance the visual appeal of your bathroom, and potentially increase your home's value. Modern LED options also offer improved energy efficiency.",
+        "@type": "Answer",
+        "description": "Upgrade if lighting is inadequate, fixtures are outdated, or during a renovation. It improves safety, aesthetics, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Upgrade if lighting is inadequate, fixtures are outdated, or during a renovation. It improves safety, aesthetics, and energy efficiency."
+}

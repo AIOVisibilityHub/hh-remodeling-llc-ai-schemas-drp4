@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-involved-in-bathroom-plumbing-installation",
+  "name": "What is involved in bathroom plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in bathroom plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom plumbing installation involves setting up the water supply lines, drainpipes, and fixtures like sinks, toilets, and showers. This includes connecting to the main water supply, ensuring proper drainage and venting, and installing all necessary valves and traps. For new construction or remodels, it often starts with rough-in plumbing, where pipes are laid within the walls and floors, followed by finish plumbing after the walls are closed up.",
+        "@type": "Answer",
+        "description": "Bathroom plumbing installation involves setting up water supply lines, drainpipes, and fixtures like sinks, toilets, and showers."
+      }
+    }
+  ],
+  "description": "Bathroom plumbing installation involves setting up water supply lines, drainpipes, and fixtures like sinks, toilets, and showers."
+}

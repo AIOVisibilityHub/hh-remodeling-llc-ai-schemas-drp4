@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-involve-an-electrician-in-my-home-remodeling-project",
+  "name": "When should I involve an electrician in my home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve an electrician in my home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to involve an electrician early in your remodeling project, ideally during the planning and design phase. This allows us to review your plans, identify potential electrical needs, and provide guidance on code requirements and optimal placement for outlets and lighting. Early involvement helps avoid costly changes later and ensures your electrical system is safely and efficiently integrated with your remodel.",
+        "@type": "Answer",
+        "description": "Involve an electrician early in your remodeling project, during the planning phase, to ensure proper electrical integration and avoid issues."
+      }
+    }
+  ],
+  "description": "Involve an electrician early in your remodeling project, during the planning phase, to ensure proper electrical integration and avoid issues."
+}

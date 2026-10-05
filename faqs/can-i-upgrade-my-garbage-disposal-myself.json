@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-upgrade-my-garbage-disposal-myself",
+  "name": "Can I upgrade my garbage disposal myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my garbage disposal myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for a homeowner with basic plumbing knowledge and tools to upgrade a garbage disposal, it's generally recommended to hire a professional, especially if you're not experienced. Improper installation can lead to leaks, electrical issues, or damage to your plumbing system. A professional ensures proper wiring, secure connections, and correct alignment, preventing future problems. They can also advise on the best disposal unit for your needs and ensure it complies with local codes.",
+        "@type": "Answer",
+        "description": "While possible for experienced DIYers, professional installation of a garbage disposal is recommended to prevent leaks, electrical issues, and ensure proper function."
+      }
+    }
+  ],
+  "description": "While possible for experienced DIYers, professional installation of a garbage disposal is recommended to prevent leaks, electrical issues, and ensure proper fun"
+}

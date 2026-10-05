@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-gate-repair-take",
+  "name": "How long does a typical gate repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gate repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gate repair depends on the complexity of the issue and the availability of necessary parts. Minor repairs, such as adjusting hinges or replacing a sensor, might be completed within a few hours. More extensive repairs involving motor replacement, structural welding, or custom fabrication could take a day or longer, potentially requiring multiple visits. We prioritize efficient service and aim to complete repairs promptly. Frasheski Construction schedules repairs efficiently for clients in Berkeley and Albany, aiming to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor fixes to a day or more for complex issues like motor replacement. We strive for efficient service."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor fixes to a day or more for complex issues like motor replacement. We strive for efficient service."
+}

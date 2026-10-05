@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-maintenance-do-new-countertops-require",
+  "name": "What kind of maintenance do new countertops require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance do new countertops require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the countertop material. Quartz countertops are relatively low maintenance, requiring only regular cleaning with mild soap and water. Granite and marble need to be sealed periodically to prevent staining and should be cleaned with pH-neutral cleaners. Butcher block countertops require regular oiling to maintain their appearance and prevent drying or cracking. We provide specific care instructions for your chosen material.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: quartz is low-maintenance, while granite and marble need sealing, and butcher block requires regular oiling."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: quartz is low-maintenance, while granite and marble need sealing, and butcher block requires regular oiling."
+}

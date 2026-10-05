@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/why-is-proper-ventilation-important-for-bathroom-plumbing",
+  "name": "Why is proper ventilation important for bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper ventilation important for bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper ventilation in bathroom plumbing, usually through vent pipes, is crucial for maintaining correct water flow and preventing foul odors. Vent pipes equalize the air pressure within the drainage system, allowing wastewater to flow smoothly down the drains. Without adequate venting, drains can gurgle, siphon water from traps, and allow sewer gases to enter the living space, creating unpleasant smells and potential health concerns.",
+        "@type": "Answer",
+        "description": "Proper ventilation ensures smooth water flow, prevents odors, and equalizes air pressure in the drainage system."
+      }
+    }
+  ],
+  "description": "Proper ventilation ensures smooth water flow, prevents odors, and equalizes air pressure in the drainage system."
+}

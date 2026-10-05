@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-replace-damaged-boards-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace damaged boards myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace damaged boards myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic board replacement might be a DIY project for experienced individuals, significant structural damage or extensive repairs are best handled by professionals. Improper replacement can lead to further issues, compromise structural integrity, or not address underlying problems. Professionals ensure proper technique, materials, and safety.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but significant structural or extensive damage requires professional expertise to avoid further issues."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but significant structural or extensive damage requires professional expertise to avoid further issues."
+}

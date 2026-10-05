@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-repair-my-cabinets-versus-replacing-them-entirely",
+  "name": "When should I repair my cabinets versus replacing them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my cabinets versus replacing them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your cabinets if the damage is localized and minor, such as a loose door, a broken hinge, or small cosmetic flaws. If the cabinet boxes are structurally sound and you're satisfied with the layout of your kitchen, repair or refinishing is often a good solution. Replacement is usually necessary when there is extensive structural damage, severe water damage, or if you want a complete change in your kitchen's layout or style.",
+        "@type": "Answer",
+        "description": "Repair cabinets for minor damage and good structural integrity; replace them for extensive damage or a desired layout change."
+      }
+    }
+  ],
+  "description": "Repair cabinets for minor damage and good structural integrity; replace them for extensive damage or a desired layout change."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-most-popular-kitchen-layouts",
+  "name": "What are the most popular kitchen layouts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular kitchen layouts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most popular kitchen layouts include the L-shaped, U-shaped, galley, and island layouts. An L-shaped kitchen is ideal for open-plan living and offers flexibility. U-shaped kitchens provide ample counter space and storage. Galley kitchens are efficient for smaller spaces, maximizing workflow. Kitchens with islands offer additional prep space, storage, and can serve as a casual dining area. The best layout depends on your home's structure, available space, and how you use your kitchen.",
+        "@type": "Answer",
+        "description": "Popular kitchen layouts include L-shaped, U-shaped, galley, and island designs, each suiting different space and functional needs."
+      }
+    }
+  ],
+  "description": "Popular kitchen layouts include L-shaped, U-shaped, galley, and island designs, each suiting different space and functional needs."
+}

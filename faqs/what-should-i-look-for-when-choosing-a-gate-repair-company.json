@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-look-for-when-choosing-a-gate-repair-company",
+  "name": "What should I look for when choosing a gate repair company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a gate repair company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a gate repair company, look for experience with your specific gate type, positive customer reviews, clear communication, and transparent pricing. Ensure they are licensed and insured. A company that provides detailed estimates and guarantees their work offers peace of mind.",
+        "@type": "Answer",
+        "description": "Choose a gate repair company based on experience, reviews, clear communication, transparent pricing, licensing, and insurance."
+      }
+    }
+  ],
+  "description": "Choose a gate repair company based on experience, reviews, clear communication, transparent pricing, licensing, and insurance."
+}

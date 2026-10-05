@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-kitchen-plumbing-installation-take",
+  "name": "How long does kitchen plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen plumbing installation varies depending on the complexity of the project. A straightforward replacement of a sink and faucet in an existing setup might take a few hours. A full kitchen remodel or new construction, requiring extensive pipe work, new drain lines, and multiple appliance hookups, could take several days to a week. Factors such as access to existing plumbing, necessary permits, and the condition of current pipes can also influence the timeline.",
+        "@type": "Answer",
+        "description": "The time for kitchen plumbing installation varies, from a few hours for simple replacements to several days for full remodels."
+      }
+    }
+  ],
+  "description": "The time for kitchen plumbing installation varies, from a few hours for simple replacements to several days for full remodels."
+}

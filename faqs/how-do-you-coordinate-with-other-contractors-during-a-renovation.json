@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-coordinate-with-other-contractors-during-a-renovation",
+  "name": "How do you coordinate with other contractors during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you coordinate with other contractors during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We actively coordinate with your other contractors, such as cabinet makers, plumbers, and electricians, to ensure seamless project flow. This involves sharing schedules, utility specifications, and progress updates to prevent conflicts and ensure everyone is working towards the same goal. Our coordination minimizes delays and ensures all trades complete their work efficiently.",
+        "@type": "Answer",
+        "description": "We coordinate by sharing schedules, utility specifications, and progress updates with other contractors to ensure seamless project flow and minimize delays."
+      }
+    }
+  ],
+  "description": "We coordinate by sharing schedules, utility specifications, and progress updates with other contractors to ensure seamless project flow and minimize delays."
+}

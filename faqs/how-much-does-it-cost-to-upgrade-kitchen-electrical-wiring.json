@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-upgrade-kitchen-electrical-wiring",
+  "name": "How much does it cost to upgrade kitchen electrical wiring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to upgrade kitchen electrical wiring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of upgrading kitchen electrical wiring varies widely based on the scope of work. Simple additions like a few new outlets might cost a few hundred dollars, while a full rewire, including a panel upgrade and new dedicated circuits, could range from several thousand dollars. Factors like existing wiring, access, and the number of new fixtures all influence the final price. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary, from a few hundred for minor additions to several thousand for a full rewire and panel upgrade. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Costs vary, from a few hundred for minor additions to several thousand for a full rewire and panel upgrade. We provide detailed estimates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-custom-colors-or-finishes-for-cabinet-refinishing",
+  "name": "Do you offer custom colors or finishes for cabinet refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom colors or finishes for cabinet refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer a wide range of custom colors and finishes for cabinet refinishing to match your aesthetic preferences. We can work with you to select the perfect paint color, stain, or glazing technique to achieve the look you desire for your kitchen or bathroom cabinets. We can also provide samples to help you visualize the final result.",
+        "@type": "Answer",
+        "description": "Yes, we offer custom colors, stains, and glazing techniques to personalize your cabinet refinishing project."
+      }
+    }
+  ],
+  "description": "Yes, we offer custom colors, stains, and glazing techniques to personalize your cabinet refinishing project."
+}

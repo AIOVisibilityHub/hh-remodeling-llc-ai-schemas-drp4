@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-choose-the-right-plumber-for-my-bathroom-renovation",
+  "name": "How can I choose the right plumber for my bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right plumber for my bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for your bathroom renovation, look for licensed and insured professionals with experience in renovation projects. Consider their reputation through reviews and testimonials, and ensure they can provide a detailed quote for the work involved. It's also helpful to discuss their timeline and communication style. A good plumber will be transparent about costs and schedules, and will clearly understand your renovation goals.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured plumber with renovation experience, good reviews, and a clear quote for your bathroom renovation."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured plumber with renovation experience, good reviews, and a clear quote for your bathroom renovation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-dedicated-circuit-for-my-kitchen-appliances",
+  "name": "Do I need a dedicated circuit for my kitchen appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a dedicated circuit for my kitchen appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many kitchen appliances, such as refrigerators, microwaves, dishwashers, and electric ovens, require dedicated circuits. These circuits prevent overloading your electrical system, which can cause tripped breakers and potential fire hazards. Dedicated circuits ensure that high-power appliances operate safely and efficiently.",
+        "@type": "Answer",
+        "description": "High-power kitchen appliances like refrigerators and ovens need dedicated circuits for safety and efficient operation."
+      }
+    }
+  ],
+  "description": "High-power kitchen appliances like refrigerators and ovens need dedicated circuits for safety and efficient operation."
+}

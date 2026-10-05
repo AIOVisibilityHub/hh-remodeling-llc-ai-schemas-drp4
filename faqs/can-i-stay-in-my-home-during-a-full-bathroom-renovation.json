@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-stay-in-my-home-during-a-full-bathroom-renovation",
+  "name": "Can I stay in my home during a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to remain in your home during a full bathroom renovation, it often involves significant disruption. You will likely lose access to that specific bathroom for several weeks, necessitating alternative arrangements. Noise, dust, and contractor presence are also factors. We aim to minimize inconvenience, but clients should prepare for temporary loss of utilities in the renovation area and adjust their daily routines accordingly.",
+        "@type": "Answer",
+        "description": "Staying home during a full bathroom renovation is possible but expect significant disruption, including loss of bathroom access, noise, and dust. Prepare for temporary utility loss."
+      }
+    }
+  ],
+  "description": "Staying home during a full bathroom renovation is possible but expect significant disruption, including loss of bathroom access, noise, and dust. Prepare for te"
+}

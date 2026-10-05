@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-i-need-damaged-board-replacement",
+  "name": "How do I know if I need damaged-board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need damaged-board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that you might need damaged-board replacement include visible rot, soft or spongy wood, discoloration, bowing, cracking, or pest damage like termite trails. If you notice any of these issues on your deck, siding, or other wooden structures, it's best to have a professional inspection to assess the extent of the damage.",
+        "@type": "Answer",
+        "description": "Look for visible rot, soft wood, discoloration, cracks, or pest damage. A professional inspection can confirm the need for replacement."
+      }
+    }
+  ],
+  "description": "Look for visible rot, soft wood, discoloration, cracks, or pest damage. A professional inspection can confirm the need for replacement."
+}

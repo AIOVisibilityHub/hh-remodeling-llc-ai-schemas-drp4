@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-countertop-replacement",
+  "name": "What is the process for countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The countertop replacement process typically starts with a consultation and material selection. We then measure your existing countertops to ensure a precise fit. Next, your old countertops are carefully removed. The new countertops are fabricated based on the measurements, and finally, they are installed, ensuring proper leveling and sealing. We aim to minimize disruption to your home during the installation.",
+        "@type": "Answer",
+        "description": "The countertop replacement process involves consultation, measurement, old countertop removal, fabrication, and new countertop installation."
+      }
+    }
+  ],
+  "description": "The countertop replacement process involves consultation, measurement, old countertop removal, fabrication, and new countertop installation."
+}

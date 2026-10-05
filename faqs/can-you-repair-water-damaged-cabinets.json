@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-repair-water-damaged-cabinets",
+  "name": "Can you repair water-damaged cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair water-damaged cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can often repair water-damaged cabinets, depending on the severity. Minor water damage, such as swelling or delamination of a small area, can sometimes be restored through drying, sealing, and refinishing. However, extensive water damage leading to mold growth, structural compromise, or irreversible warping often necessitates replacement to prevent further issues and ensure the longevity of your kitchen or bathroom. We assess each case individually to recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Minor water damage can often be repaired through drying and refinishing. Severe damage, like mold or structural compromise, may require replacement."
+      }
+    }
+  ],
+  "description": "Minor water damage can often be repaired through drying and refinishing. Severe damage, like mold or structural compromise, may require replacement."
+}

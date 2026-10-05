@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-plumbing-problems-after-a-bathroom-installation",
+  "name": "What are common plumbing problems after a bathroom installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems after a bathroom installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing problems after bathroom installation can include minor leaks around fixtures or pipe connections, slow drains due to improper slope or debris, and issues with water pressure. Occasionally, a toilet may not flush correctly or a shower head may not have adequate flow. These issues often arise from incorrect installation or overlooked details during the process.",
+        "@type": "Answer",
+        "description": "Common problems include leaks, slow drains, water pressure issues, or fixture malfunctions."
+      }
+    }
+  ],
+  "description": "Common problems include leaks, slow drains, water pressure issues, or fixture malfunctions."
+}

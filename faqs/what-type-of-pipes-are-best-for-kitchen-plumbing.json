@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-type-of-pipes-are-best-for-kitchen-plumbing",
+  "name": "What type of pipes are best for kitchen plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of pipes are best for kitchen plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen plumbing, common pipe materials include PEX (cross-linked polyethylene), copper, and occasionally CPVC (chlorinated polyvinyl chloride). PEX is popular for its flexibility, cost-effectiveness, and resistance to corrosion. Copper is durable and long-lasting but more expensive. The best choice depends on your budget, water quality, and local building codes.",
+        "@type": "Answer",
+        "description": "PEX, copper, and CPVC are common. PEX is flexible and cost-effective, while copper is durable. The best type depends on your needs."
+      }
+    }
+  ],
+  "description": "PEX, copper, and CPVC are common. PEX is flexible and cost-effective, while copper is durable. The best type depends on your needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-your-process-for-bathroom-plumbing-repairs",
+  "name": "What is your process for bathroom plumbing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for bathroom plumbing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for bathroom plumbing repairs typically begins with an initial assessment to diagnose the problem accurately. Once identified, we discuss the necessary repairs and provide a clear estimate. Upon your approval, our plumbers will carry out the work, using appropriate tools and techniques to resolve the issue efficiently. After the repair, we test the system to ensure everything is functioning correctly and clean up the work area. We prioritize clear communication throughout the entire process.",
+        "@type": "Answer",
+        "description": "Our process involves diagnosis, estimate, repair, testing, and cleanup, with clear communication throughout."
+      }
+    }
+  ],
+  "description": "Our process involves diagnosis, estimate, repair, testing, and cleanup, with clear communication throughout."
+}

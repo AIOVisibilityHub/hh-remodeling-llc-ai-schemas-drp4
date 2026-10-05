@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-fence-post-repair-services",
+  "name": "Do you offer emergency fence-post repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency fence-post repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent situations where a damaged fence post poses a safety hazard or compromises security, we can often prioritize emergency repairs. It's best to contact us directly to discuss your specific situation and our availability. We understand that a compromised fence can be a pressing issue and will work to address it as quickly as possible.",
+        "@type": "Answer",
+        "description": "Yes, we can often prioritize emergency fence-post repairs for safety or security hazards; contact us directly for availability."
+      }
+    }
+  ],
+  "description": "Yes, we can often prioritize emergency fence-post repairs for safety or security hazards; contact us directly for availability."
+}

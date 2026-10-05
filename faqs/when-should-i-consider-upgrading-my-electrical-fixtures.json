@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-electrical-fixtures",
+  "name": "When should I consider upgrading my electrical fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my electrical fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your electrical fixtures if your current ones are outdated, frequently malfunction, or don't provide adequate lighting for your needs. Upgrading can also improve energy efficiency, enhance the aesthetic appeal of your space, or incorporate smart home technology. We can help you assess your current fixtures and recommend suitable upgrades.",
+        "@type": "Answer",
+        "description": "Upgrade fixtures if they're outdated, malfunctioning, provide insufficient light, or if you want improved efficiency, aesthetics, or smart home features."
+      }
+    }
+  ],
+  "description": "Upgrade fixtures if they're outdated, malfunctioning, provide insufficient light, or if you want improved efficiency, aesthetics, or smart home features."
+}

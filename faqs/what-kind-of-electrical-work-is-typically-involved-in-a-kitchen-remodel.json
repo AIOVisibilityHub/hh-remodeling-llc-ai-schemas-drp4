@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-electrical-work-is-typically-involved-in-a-kitchen-remodel",
+  "name": "What kind of electrical work is typically involved in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of electrical work is typically involved in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel often involves significant electrical updates. This can include relocating or adding outlets for new appliances, installing dedicated circuits for high-power devices like ovens and microwaves, upgrading lighting fixtures, and ensuring proper wiring for garbage disposals and dishwashers. We also assess your current electrical panel to see if it can handle the increased load or if an upgrade is necessary to meet current safety codes and your new kitchen's demands.",
+        "@type": "Answer",
+        "description": "Kitchen remodels often require relocating outlets, installing new circuits for appliances, and upgrading lighting and wiring."
+      }
+    }
+  ],
+  "description": "Kitchen remodels often require relocating outlets, installing new circuits for appliances, and upgrading lighting and wiring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-move-plumbing-or-electrical-during-my-kitchen-remodel",
+  "name": "Should I move plumbing or electrical during my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move plumbing or electrical during my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing or electrical lines during a kitchen remodel is a significant decision that depends on your desired layout and budget. While it can dramatically improve functionality and aesthetics, it also adds to the cost and complexity of the project. If your current layout is highly inefficient or doesn't meet your needs, relocating utilities can be a worthwhile investment. However, if your existing setup is functional, it might be more cost-effective to work within the current infrastructure.",
+        "@type": "Answer",
+        "description": "Moving plumbing or electrical can improve functionality but increases cost and complexity; it's recommended for inefficient layouts."
+      }
+    }
+  ],
+  "description": "Moving plumbing or electrical can improve functionality but increases cost and complexity; it's recommended for inefficient layouts."
+}

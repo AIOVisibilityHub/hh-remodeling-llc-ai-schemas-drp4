@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-remove-my-old-countertops-before-installation",
+  "name": "Do I need to remove my old countertops before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old countertops before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically your old countertops need to be removed before the new ones can be installed. This ensures a clean and level surface for the new material, allowing for a precise fit and professional finish. Our team handles the removal and disposal of your old countertops as part of our service, minimizing any hassle for you during the replacement process.",
+        "@type": "Answer",
+        "description": "Yes, old countertops are typically removed by our team to ensure a clean, level surface and precise fit for the new installation."
+      }
+    }
+  ],
+  "description": "Yes, old countertops are typically removed by our team to ensure a clean, level surface and precise fit for the new installation."
+}

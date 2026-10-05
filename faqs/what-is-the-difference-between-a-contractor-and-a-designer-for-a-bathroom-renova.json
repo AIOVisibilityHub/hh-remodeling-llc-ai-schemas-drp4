@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-contractor-and-a-designer-for-a-bathroom-renova",
+  "name": "What is the difference between a contractor and a designer for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a contractor and a designer for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contractor, like Frasheski Construction, manages the construction and implementation of your renovation project, including scheduling tradespeople, overseeing the work, and ensuring it meets building codes. A designer focuses on the aesthetic and functional layout, selecting materials, colors, and fixtures to create a cohesive look. Often, contractors work closely with designers, or can provide design input themselves.",
+        "@type": "Answer",
+        "description": "A contractor manages construction, while a designer focuses on aesthetics and layout; both can collaborate on a bathroom renovation."
+      }
+    }
+  ],
+  "description": "A contractor manages construction, while a designer focuses on aesthetics and layout; both can collaborate on a bathroom renovation."
+}

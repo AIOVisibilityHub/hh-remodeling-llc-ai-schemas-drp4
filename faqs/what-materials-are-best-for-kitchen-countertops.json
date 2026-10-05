@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-best-for-kitchen-countertops",
+  "name": "What materials are best for kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best countertop material depends on your priorities for durability, aesthetics, and maintenance. Popular options include granite for its durability and natural beauty, quartz for its non-porous nature and wide range of colors, and marble for its luxurious appearance. Butcher block offers a warm, natural feel, while stainless steel is ideal for a modern, industrial look. We can discuss the pros and cons of each material to help you choose the best fit for your lifestyle and budget.",
+        "@type": "Answer",
+        "description": "Best kitchen countertop materials include granite, quartz, marble, butcher block, and stainless steel, each with unique benefits."
+      }
+    }
+  ],
+  "description": "Best kitchen countertop materials include granite, quartz, marble, butcher block, and stainless steel, each with unique benefits."
+}

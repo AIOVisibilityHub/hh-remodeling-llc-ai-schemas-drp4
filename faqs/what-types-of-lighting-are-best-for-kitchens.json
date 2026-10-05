@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-lighting-are-best-for-kitchens",
+  "name": "What types of lighting are best for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are best for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchens, a layered lighting approach is most effective. This typically includes ambient lighting for overall illumination, task lighting for work areas like countertops and sinks, and accent lighting to highlight features. Recessed lighting is popular for ambient light, while under-cabinet lighting is excellent for task lighting. Pendant lights can add both task and aesthetic value over islands. Dimmer switches are also highly recommended to adjust the mood and functionality of the space.",
+        "@type": "Answer",
+        "description": "Layered lighting, including ambient, task, and accent, works best for kitchens. Recessed and under-cabinet lights are common choices."
+      }
+    }
+  ],
+  "description": "Layered lighting, including ambient, task, and accent, works best for kitchens. Recessed and under-cabinet lights are common choices."
+}

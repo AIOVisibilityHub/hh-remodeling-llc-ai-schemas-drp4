@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-vanity-and-cabinet-installation",
+  "name": "What areas do you serve for vanity and cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for vanity and cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves the Berkeley, East Bay, Oakland, Albany, and El Cerrito areas for vanity and cabinet installation. We are familiar with the local architectural styles and building codes, ensuring that your project is completed efficiently and to the highest standards within these communities. Please contact us to discuss your specific location and project needs.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for vanity and cabinet installation."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for vanity and cabinet installation."
+}

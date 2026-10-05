@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-repair-a-gate-that-won-t-open-or-close-properly",
+  "name": "Can you repair a gate that won't open or close properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair a gate that won't open or close properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can repair gates that are not opening or closing correctly. This issue can stem from various problems such as misaligned tracks, damaged hinges, faulty automatic opener components, or obstructions. Our technicians will diagnose the root cause and perform the necessary adjustments or repairs.",
+        "@type": "Answer",
+        "description": "Yes, we can repair gates that won't open or close properly by diagnosing and fixing alignment, hinge, or opener issues."
+      }
+    }
+  ],
+  "description": "Yes, we can repair gates that won't open or close properly by diagnosing and fixing alignment, hinge, or opener issues."
+}

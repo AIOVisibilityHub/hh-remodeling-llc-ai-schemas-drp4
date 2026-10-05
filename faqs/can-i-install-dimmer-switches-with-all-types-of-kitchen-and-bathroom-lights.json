@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-dimmer-switches-with-all-types-of-kitchen-and-bathroom-lights",
+  "name": "Can I install dimmer switches with all types of kitchen and bathroom lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install dimmer switches with all types of kitchen and bathroom lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many modern LED and incandescent fixtures are dimmable, it's important to verify compatibility before installing dimmer switches. Not all lighting types are designed to work with dimmers, and using an incompatible dimmer can lead to flickering, buzzing, or even damage to the bulbs or fixture. Always check the manufacturer's specifications for both the light fixture and the dimmer switch to ensure proper function and avoid issues.",
+        "@type": "Answer",
+        "description": "Not all lights are dimmable. Check manufacturer specifications for both the fixture and the dimmer switch to ensure compatibility."
+      }
+    }
+  ],
+  "description": "Not all lights are dimmable. Check manufacturer specifications for both the fixture and the dimmer switch to ensure compatibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-wood-is-used-for-board-replacement",
+  "name": "What kind of wood is used for board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of wood is used for board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The type of wood used for replacement depends on the original structure and the environmental conditions. Common choices include treated lumber for outdoor use due to its resistance to rot and insects, or specific species like redwood or cedar for their natural durability and aesthetic qualities. We select materials that match existing structures and meet durability requirements.",
+        "@type": "Answer",
+        "description": "We use treated lumber for outdoor areas or specific woods like redwood or cedar, matching the existing structure and durability needs."
+      }
+    }
+  ],
+  "description": "We use treated lumber for outdoor areas or specific woods like redwood or cedar, matching the existing structure and durability needs."
+}

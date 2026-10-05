@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-common-electrical-problems-in-older-homes-in-the-east-bay-area",
+  "name": "What are the common electrical problems in older homes in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common electrical problems in older homes in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes in the East Bay, like those in Berkeley or Oakland, often experience electrical issues such as outdated wiring (knob-and-tube or aluminum), insufficient outlets, frequent tripped breakers, flickering lights, and ungrounded outlets. These can be signs of an overloaded electrical system or fire hazards. Upgrading electrical panels and wiring can improve safety and functionality.",
+        "@type": "Answer",
+        "description": "Older East Bay homes often have outdated wiring, insufficient outlets, frequent tripped breakers, and flickering lights."
+      }
+    }
+  ],
+  "description": "Older East Bay homes often have outdated wiring, insufficient outlets, frequent tripped breakers, and flickering lights."
+}
