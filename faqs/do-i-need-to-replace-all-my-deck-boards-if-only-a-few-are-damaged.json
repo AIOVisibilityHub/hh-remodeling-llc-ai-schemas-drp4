@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-replace-all-my-deck-boards-if-only-a-few-are-damaged",
+  "name": "Do I need to replace all my deck boards if only a few are damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my deck boards if only a few are damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you typically don't need to replace all deck boards if only a few are damaged. We can often perform spot repairs by replacing individual damaged boards. However, if a significant number of boards show similar wear or if the damage is widespread, replacing all of them might be a more cost-effective and aesthetically consistent long-term solution. We will assess the extent of the damage and recommend the best approach for your deck.",
+        "@type": "Answer",
+        "description": "Not necessarily; individual boards can be replaced, but widespread damage may warrant a full replacement."
+      }
+    }
+  ],
+  "description": "Not necessarily; individual boards can be replaced, but widespread damage may warrant a full replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-furniture-before-painters-arrive",
+  "name": "Do I need to move furniture before painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture before painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our team can assist with moving lighter furniture, we recommend clearing as much of the room as possible before our arrival. This helps streamline the preparation process and ensures efficient painting. Fragile or valuable items should be removed to prevent accidental damage. We use drop cloths and plastic sheeting to protect any remaining furniture and flooring.",
+        "@type": "Answer",
+        "description": "It's best to clear the room of furniture, especially fragile items, before painters arrive. We can help with lighter pieces."
+      }
+    }
+  ],
+  "description": "It's best to clear the room of furniture, especially fragile items, before painters arrive. We can help with lighter pieces."
+}

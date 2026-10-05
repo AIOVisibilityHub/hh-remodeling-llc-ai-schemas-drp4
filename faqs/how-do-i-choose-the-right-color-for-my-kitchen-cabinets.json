@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-color-for-my-kitchen-cabinets",
+  "name": "How do I choose the right color for my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinet color depends on your personal style, existing kitchen elements like countertops and flooring, and the amount of natural light. We can provide color consultations, offering samples and expert advice to help you visualize different options. Consider classic neutrals for versatility or bolder shades for a statement, ensuring your South San Francisco kitchen reflects your taste.",
+        "@type": "Answer",
+        "description": "Choose a cabinet color based on your style, existing kitchen elements, and natural light. We offer color consultations."
+      }
+    }
+  ],
+  "description": "Choose a cabinet color based on your style, existing kitchen elements, and natural light. We offer color consultations."
+}

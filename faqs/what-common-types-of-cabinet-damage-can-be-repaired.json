@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-common-types-of-cabinet-damage-can-be-repaired",
+  "name": "What common types of cabinet damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of cabinet damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet damage includes loose hinges, broken drawer slides, scratched or chipped finishes, water damage causing swelling or discoloration, and structural issues like wobbly frames. We can also address issues with cabinet doors that don't close properly, missing hardware, or minor dents and dings. The feasibility of repair often depends on the extent of the damage and the material of the cabinets.",
+        "@type": "Answer",
+        "description": "Common cabinet damage includes loose hinges, broken drawer slides, scratched finishes, and water damage."
+      }
+    }
+  ],
+  "description": "Common cabinet damage includes loose hinges, broken drawer slides, scratched finishes, and water damage."
+}

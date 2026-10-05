@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-interior-build-outs",
+  "name": "What areas do you serve for interior build-outs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for interior build-outs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves clients across the East Bay, including Berkeley, Oakland, Albany, and El Cerrito. We have extensive experience navigating the specific requirements and regulations of these local municipalities to ensure a smooth and compliant build-out process for your commercial space.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, and El Cerrito, specializing in East Bay municipal requirements for commercial build-outs."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, and El Cerrito, specializing in East Bay municipal requirements for commercial build-outs."
+}

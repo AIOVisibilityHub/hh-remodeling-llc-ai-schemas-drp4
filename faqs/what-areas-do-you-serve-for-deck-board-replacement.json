@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-deck-board-replacement",
+  "name": "What areas do you serve for deck board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for deck board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide deck board replacement services in Berkeley and the wider East Bay area, including Oakland, Albany, and El Cerrito. Our team is familiar with the local climate and building requirements, ensuring your deck replacement is handled efficiently and to code. Please contact us to confirm service availability in your specific location within these areas.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for deck board replacement."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for deck board replacement."
+}

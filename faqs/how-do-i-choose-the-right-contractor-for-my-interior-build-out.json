@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-contractor-for-my-interior-build-out",
+  "name": "How do I choose the right contractor for my interior build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my interior build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting a contractor involves assessing their experience with similar projects, reviewing their portfolio, and checking references. Look for a contractor with transparent communication, a clear understanding of your vision, and a strong track record of completing projects on time and within budget. Ensure they are licensed and insured in California and familiar with local regulations in the East Bay.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, portfolio, references, clear communication, and local licensing/insurance."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, portfolio, references, clear communication, and local licensing/insurance."
+}

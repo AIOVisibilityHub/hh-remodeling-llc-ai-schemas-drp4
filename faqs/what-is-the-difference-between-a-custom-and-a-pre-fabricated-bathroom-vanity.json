@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-custom-and-a-pre-fabricated-bathroom-vanity",
+  "name": "What is the difference between a custom and a pre-fabricated bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom and a pre-fabricated bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-fabricated bathroom vanity is a ready-made unit, manufactured in standard sizes and styles, available for immediate purchase and installation. These are typically more budget-friendly and offer quicker turnaround times. Custom bathroom vanities, on the other to hand, are built specifically to your desired dimensions, materials, finishes, and design specifications. They offer limitless design flexibility, allowing for unique storage solutions, specific aesthetic preferences, and a perfect fit for unusual bathroom layouts. While custom vanities are more expensive and take longer to produce, they provide a personalized and often higher-quality result.",
+        "@type": "Answer",
+        "description": "Pre-fabricated vanities are ready-made, standard, and affordable; custom vanities are built to specification, offering unique design and fit."
+      }
+    }
+  ],
+  "description": "Pre-fabricated vanities are ready-made, standard, and affordable; custom vanities are built to specification, offering unique design and fit."
+}

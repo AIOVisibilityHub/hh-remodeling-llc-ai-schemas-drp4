@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-repair-my-cabinets-versus-replacing-them",
+  "name": "When should I repair my cabinets versus replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my cabinets versus replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repair if the damage is localized and doesn't compromise the overall structural integrity of the cabinets. Minor cosmetic issues, hardware problems, or isolated water damage are often repairable. Replacement is generally more cost-effective if there's widespread structural damage, significant water damage affecting multiple units, or if you're looking for a complete aesthetic overhaul and functional upgrade that repairs cannot achieve.",
+        "@type": "Answer",
+        "description": "Repair when damage is minor and localized; replace when damage is widespread or for a complete overhaul."
+      }
+    }
+  ],
+  "description": "Repair when damage is minor and localized; replace when damage is widespread or for a complete overhaul."
+}

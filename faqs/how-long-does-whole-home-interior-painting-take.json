@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-whole-home-interior-painting-take",
+  "name": "How long does whole-home interior painting take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does whole-home interior painting take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of whole-home interior painting depends on several factors, including the size of your home, the number of rooms, the extent of surface preparation needed, and the type of paint used. On average, a typical 2,000 square foot home might take 3-7 days to complete. Larger homes or those requiring significant repairs could take longer. Frasheski Construction will provide a detailed timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "The duration of whole-home interior painting varies based on home size and project complexity, typically ranging from 3-7 days for an average home."
+      }
+    }
+  ],
+  "description": "The duration of whole-home interior painting varies based on home size and project complexity, typically ranging from 3-7 days for an average home."
+}

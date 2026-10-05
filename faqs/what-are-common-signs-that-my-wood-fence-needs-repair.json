@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-wood-fence-needs-repair",
+  "name": "What are common signs that my wood fence needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my wood fence needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your wood fence needs repair include leaning posts, loose or broken pickets, rotting wood, splintering, and discoloration. You might also notice gates that no longer close properly or hardware that is rusting. Addressing these issues promptly can prevent further damage and extend the life of your fence. Regular inspections can help identify these problems early on.",
+        "@type": "Answer",
+        "description": "Common signs of a wood fence needing repair include leaning posts, loose pickets, rotting wood, splintering, and malfunctioning gates."
+      }
+    }
+  ],
+  "description": "Common signs of a wood fence needing repair include leaning posts, loose pickets, rotting wood, splintering, and malfunctioning gates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-deck-board-replacement-take",
+  "name": "How long does deck board replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck board replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck board replacement depends on the size and complexity of your deck. A small, straightforward deck might take a few days, while larger decks with intricate designs or extensive repairs could take a week or more. Factors such as weather conditions and the availability of materials also influence the timeline. We will provide an estimated project timeline after assessing your deck's specific needs.",
+        "@type": "Answer",
+        "description": "Project duration depends on deck size and complexity, typically ranging from a few days to over a week."
+      }
+    }
+  ],
+  "description": "Project duration depends on deck size and complexity, typically ranging from a few days to over a week."
+}

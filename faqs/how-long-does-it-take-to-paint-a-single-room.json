@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-paint-a-single-room",
+  "name": "How long does it take to paint a single room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a single room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a single room depends on its size, the current condition of the walls, and the complexity of the job. Generally, a standard-sized room with minimal repairs can be completed in one to two days. Larger rooms, rooms with extensive prep work, or those requiring multiple coats for significant color changes may take longer.",
+        "@type": "Answer",
+        "description": "Painting a single room typically takes one to two days, depending on size and preparation needed."
+      }
+    }
+  ],
+  "description": "Painting a single room typically takes one to two days, depending on size and preparation needed."
+}

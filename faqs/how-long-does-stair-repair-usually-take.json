@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-stair-repair-usually-take",
+  "name": "How long does stair repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stair repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stair repair depends on the scope of the project. Minor repairs, such as fixing a single loose tread or handrail, might only take a few hours to a day. More extensive repairs involving multiple damaged steps, structural issues, or custom material matching could take several days. We provide an estimated timeline after assessing the specific damage during the initial consultation.",
+        "@type": "Answer",
+        "description": "Minor stair repairs can take hours, while extensive repairs might take several days."
+      }
+    }
+  ],
+  "description": "Minor stair repairs can take hours, while extensive repairs might take several days."
+}

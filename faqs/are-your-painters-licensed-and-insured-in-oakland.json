@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-your-painters-licensed-and-insured-in-oakland",
+  "name": "Are your painters licensed and insured in Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your painters licensed and insured in Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction is a licensed and insured construction company operating in Oakland and throughout the East Bay. Our painters are experienced professionals who adhere to industry standards and safety protocols. We maintain comprehensive insurance coverage for the protection of our clients and our team.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction is a licensed and insured company with experienced painters serving Oakland and the East Bay."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction is a licensed and insured company with experienced painters serving Oakland and the East Bay."
+}

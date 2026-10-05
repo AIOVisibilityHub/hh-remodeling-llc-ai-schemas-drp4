@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-perform-deck-structural-repairs-myself",
+  "name": "Can I perform deck structural repairs myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform deck structural repairs myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic deck repairs might be suitable for a DIY approach, structural repairs often require specialized knowledge, tools, and an understanding of building codes. Incorrect structural repairs can compromise the safety of your deck and lead to further damage. For complex issues involving load-bearing components or significant rot, it's generally recommended to hire experienced professionals to ensure the work is done correctly and safely.",
+        "@type": "Answer",
+        "description": "Structural repairs require specialized knowledge and tools; for safety and compliance, professional help is recommended."
+      }
+    }
+  ],
+  "description": "Structural repairs require specialized knowledge and tools; for safety and compliance, professional help is recommended."
+}

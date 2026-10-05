@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-assess-a-contractor-s-ability-to-coordinate-plumbing-and-electrical-wo",
+  "name": "How can I assess a contractor's ability to coordinate plumbing and electrical work effectively?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I assess a contractor's ability to coordinate plumbing and electrical work effectively?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess a contractor's coordination ability, ask about their process for managing multiple trades and how they handle potential conflicts. Inquire about their communication protocols between plumbers and electricians and if they use detailed, integrated plans. Request references from previous clients, particularly for projects involving significant plumbing and electrical work, and ask those clients about the coordination experience. A good contractor will demonstrate a clear, proactive approach to coordination.",
+        "@type": "Answer",
+        "description": "Ask about their coordination process, communication protocols, integrated plans, and check references for similar projects."
+      }
+    }
+  ],
+  "description": "Ask about their coordination process, communication protocols, integrated plans, and check references for similar projects."
+}

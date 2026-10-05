@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-handle-both-residential-and-commercial-cabinet-projects",
+  "name": "Do you handle both residential and commercial cabinet projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle both residential and commercial cabinet projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction primarily focuses on residential cabinet services, helping homeowners create functional and beautiful spaces. While our expertise is tailored to residential needs, we may consider small-scale commercial projects on a case-by-case basis. Please contact us to discuss your specific commercial project requirements.",
+        "@type": "Answer",
+        "description": "We primarily focus on residential cabinet projects, but may consider small commercial projects on a case-by-case basis."
+      }
+    }
+  ],
+  "description": "We primarily focus on residential cabinet projects, but may consider small commercial projects on a case-by-case basis."
+}

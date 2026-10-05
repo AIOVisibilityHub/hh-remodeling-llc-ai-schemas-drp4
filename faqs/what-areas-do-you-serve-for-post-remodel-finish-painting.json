@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-post-remodel-finish-painting",
+  "name": "What areas do you serve for post-remodel finish painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for post-remodel finish painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides post-remodel finish painting services primarily in Berkeley, the broader East Bay area, Oakland, Albany, and El Cerrito. We focus on these local communities to ensure prompt service and thorough project management for all our clients in these regions.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay area, Oakland, Albany, and El Cerrito for post-remodel finish painting services."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay area, Oakland, Albany, and El Cerrito for post-remodel finish painting services."
+}

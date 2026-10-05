@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-repair-a-deck-s-structural-components",
+  "name": "How much does it cost to repair a deck's structural components?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a deck's structural components?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deck structural repairs varies depending on the extent of the damage, the type of materials required, and the labor involved. Minor repairs, such as replacing a few joists or a section of railing, will be less expensive than major overhauls like ledger board replacement or foundation work. We provide a detailed estimate after a thorough on-site assessment to give you an accurate understanding of the potential costs.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, materials, and labor; minor repairs are less expensive than major overhauls."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, materials, and labor; minor repairs are less expensive than major overhauls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-stair-repair-typically-cost-in-the-east-bay-area",
+  "name": "How much does stair repair typically cost in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does stair repair typically cost in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stair repair in the East Bay area varies widely depending on the extent of the damage, the materials used, and the type of stairs. Minor repairs like fixing a loose tread might cost a few hundred dollars, while more extensive work involving structural repairs or multiple damaged components could range from several hundred to a few thousand dollars. Getting a detailed quote from a local professional is the best way to understand the specific cost for your project.",
+        "@type": "Answer",
+        "description": "Stair repair costs in the East Bay vary from a few hundred for minor fixes to several thousand for extensive damage."
+      }
+    }
+  ],
+  "description": "Stair repair costs in the East Bay vary from a few hundred for minor fixes to several thousand for extensive damage."
+}

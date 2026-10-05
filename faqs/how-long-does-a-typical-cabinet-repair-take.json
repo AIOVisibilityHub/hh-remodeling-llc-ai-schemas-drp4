@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-cabinet-repair-take",
+  "name": "How long does a typical cabinet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cabinet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of cabinet repair varies significantly based on the extent and complexity of the damage. Simple repairs like adjusting hinges or mending minor scratches might take a few hours. More complex work, such as repairing structural issues, matching custom finishes, or replacing multiple components, could take several days. We provide an estimated timeline during our assessment, allowing you to plan accordingly and minimize inconvenience in your Berkeley or Oakland home.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage complexity; simple fixes can be hours, while extensive repairs may take several days. We provide an estimated timeline."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage complexity; simple fixes can be hours, while extensive repairs may take several days. We provide an estimated timeline."
+}

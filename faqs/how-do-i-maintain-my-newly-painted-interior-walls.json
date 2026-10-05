@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-newly-painted-interior-walls",
+  "name": "How do I maintain my newly painted interior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my newly painted interior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To maintain your newly painted interior walls, avoid harsh chemical cleaners. For most spills or marks, a soft cloth with mild soap and water is usually sufficient. Address stains promptly to prevent them from setting. Keep an extra can of your chosen paint for touch-ups. With proper care, your new paint job will look fresh for years.",
+        "@type": "Answer",
+        "description": "Maintain new paint with mild soap and water; avoid harsh cleaners and keep extra paint for touch-ups."
+      }
+    }
+  ],
+  "description": "Maintain new paint with mild soap and water; avoid harsh cleaners and keep extra paint for touch-ups."
+}

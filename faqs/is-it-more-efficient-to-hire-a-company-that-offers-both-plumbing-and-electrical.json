@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/is-it-more-efficient-to-hire-a-company-that-offers-both-plumbing-and-electrical",
+  "name": "Is it more efficient to hire a company that offers both plumbing and electrical services, or separate contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it more efficient to hire a company that offers both plumbing and electrical services, or separate contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a company that offers both plumbing and electrical services can often be more efficient. This streamlines communication as you're dealing with a single point of contact and a cohesive team. It can lead to better coordination, fewer scheduling conflicts, and a more integrated approach to problem-solving. However, if you choose separate contractors, ensure they have a strong track record of working collaboratively and that there's a clear communication plan managed by a general contractor.",
+        "@type": "Answer",
+        "description": "A company offering both services can be more efficient due to streamlined communication and better coordination."
+      }
+    }
+  ],
+  "description": "A company offering both services can be more efficient due to streamlined communication and better coordination."
+}

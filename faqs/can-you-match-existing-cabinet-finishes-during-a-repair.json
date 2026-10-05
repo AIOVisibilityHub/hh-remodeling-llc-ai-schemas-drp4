@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-cabinet-finishes-during-a-repair",
+  "name": "Can you match existing cabinet finishes during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing cabinet finishes during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing cabinet finishes is a common request, and we strive to achieve the closest possible match. This often involves careful color matching, staining, or painting to blend the repaired area seamlessly with the rest of your cabinetry. While a perfect match can sometimes be challenging due to aging and environmental factors affecting the original finish, our goal is to make the repair virtually unnoticeable.",
+        "@type": "Answer",
+        "description": "We aim to match existing cabinet finishes through careful color matching, staining, or painting for seamless repairs."
+      }
+    }
+  ],
+  "description": "We aim to match existing cabinet finishes through careful color matching, staining, or painting for seamless repairs."
+}

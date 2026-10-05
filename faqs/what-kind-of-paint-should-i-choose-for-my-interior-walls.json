@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-should-i-choose-for-my-interior-walls",
+  "name": "What kind of paint should I choose for my interior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint should I choose for my interior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint depends on the specific room and your lifestyle. For high-traffic areas like kitchens and bathrooms, washable and durable paints with a satin or semi-gloss finish are often recommended. For living areas and bedrooms, matte or eggshell finishes offer a softer look. We can guide you through the options, considering durability, finish, and color preferences.",
+        "@type": "Answer",
+        "description": "The best paint depends on the room. Durable, washable paints are good for high-traffic areas; matte or eggshell for living spaces. We can help you choose."
+      }
+    }
+  ],
+  "description": "The best paint depends on the room. Durable, washable paints are good for high-traffic areas; matte or eggshell for living spaces. We can help you choose."
+}

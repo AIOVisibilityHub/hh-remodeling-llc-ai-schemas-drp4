@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-handle-cabinet-removal-before-installing-new-ones",
+  "name": "Do you handle cabinet removal before installing new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle cabinet removal before installing new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive cabinet installation service, we can handle the removal and disposal of your old cabinets. This ensures a seamless transition to your new cabinetry and saves you the effort of managing the old materials yourself. Please mention this requirement during your initial consultation.",
+        "@type": "Answer",
+        "description": "Yes, we handle the removal and disposal of old cabinets as part of our installation service."
+      }
+    }
+  ],
+  "description": "Yes, we handle the removal and disposal of old cabinets as part of our installation service."
+}

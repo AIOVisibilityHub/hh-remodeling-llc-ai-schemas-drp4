@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-custom-cabinet-design-services",
+  "name": "Do you offer custom cabinet design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom cabinet design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction specializes in custom cabinet design. Our designers work closely with you to understand your vision, functional requirements, and budget. We create personalized designs that optimize space and enhance the aesthetic of your home, ensuring the final product perfectly matches your expectations.",
+        "@type": "Answer",
+        "description": "Yes, we offer custom cabinet design services to create personalized solutions that meet your vision and budget."
+      }
+    }
+  ],
+  "description": "Yes, we offer custom cabinet design services to create personalized solutions that meet your vision and budget."
+}

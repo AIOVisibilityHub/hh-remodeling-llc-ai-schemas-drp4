@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-cabinet-material-for-my-home",
+  "name": "How do I choose the right cabinet material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right cabinet material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinet material depends on factors like durability, aesthetic preference, maintenance, and budget. Popular options include solid wood, plywood, MDF, and particleboard, each with unique characteristics. Our team can guide you through the pros and cons of each material to help you make an informed decision that suits your lifestyle and design goals.",
+        "@type": "Answer",
+        "description": "Consider durability, aesthetics, maintenance, and budget when choosing cabinet materials. Our team can help you decide."
+      }
+    }
+  ],
+  "description": "Consider durability, aesthetics, maintenance, and budget when choosing cabinet materials. Our team can help you decide."
+}

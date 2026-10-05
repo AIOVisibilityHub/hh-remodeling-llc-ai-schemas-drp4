@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-clean-and-seal-my-deck",
+  "name": "How often should I clean and seal my deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I clean and seal my deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For decks in the East Bay, it's generally recommended to clean your deck annually and reseal or restain every 2-3 years. Factors like exposure to sunlight, rain, and foot traffic can influence this timeline. Regular cleaning prevents mildew and grime buildup, while sealing protects the wood from moisture damage and UV rays, extending the life and appearance of your deck.",
+        "@type": "Answer",
+        "description": "Clean your deck annually and reseal or restain every 2-3 years, depending on exposure and wear."
+      }
+    }
+  ],
+  "description": "Clean your deck annually and reseal or restain every 2-3 years, depending on exposure and wear."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-get-an-estimate-for-cabinet-repair",
+  "name": "How can I get an estimate for cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get an estimate for cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an estimate for cabinet repair, simply contact Frasheski Construction to schedule an on-site consultation. During this visit, our team will assess the damage to your cabinets, discuss your repair needs, and provide you with a detailed and transparent estimate. We aim to provide accurate assessments and clear pricing so you can make an informed decision.",
+        "@type": "Answer",
+        "description": "Contact Frasheski Construction to schedule an on-site consultation and receive a detailed estimate for cabinet repair."
+      }
+    }
+  ],
+  "description": "Contact Frasheski Construction to schedule an on-site consultation and receive a detailed estimate for cabinet repair."
+}

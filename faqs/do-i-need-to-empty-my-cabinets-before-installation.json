@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-empty-my-cabinets-before-installation",
+  "name": "Do I need to empty my cabinets before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my cabinets before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to completely empty all existing cabinets and drawers before our installation team arrives. This ensures a smooth and efficient removal process for old cabinets and prepares the space for the new installation. Please also clear countertops and remove any wall decor that might obstruct the work area.",
+        "@type": "Answer",
+        "description": "Yes, completely empty all existing cabinets and drawers, and clear countertops, before installation."
+      }
+    }
+  ],
+  "description": "Yes, completely empty all existing cabinets and drawers, and clear countertops, before installation."
+}

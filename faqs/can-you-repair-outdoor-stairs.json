@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-repair-outdoor-stairs",
+  "name": "Can you repair outdoor stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair outdoor stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can repair outdoor stairs. Outdoor stairs are often exposed to harsh weather conditions, which can lead to rot, structural compromise, and material degradation. Our services include repairing or replacing damaged treads, risers, and handrails, as well as addressing any underlying structural issues caused by weather exposure. We use materials and techniques suitable for outdoor use to ensure durability and safety.",
+        "@type": "Answer",
+        "description": "Yes, we repair outdoor stairs, addressing weather-related damage and using durable materials."
+      }
+    }
+  ],
+  "description": "Yes, we repair outdoor stairs, addressing weather-related damage and using durable materials."
+}

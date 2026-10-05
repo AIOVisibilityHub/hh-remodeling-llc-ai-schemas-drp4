@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-is-best-for-a-new-home-addition",
+  "name": "What kind of paint is best for a new home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for a new home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best paint for a new home addition depends on the specific area and its use. For interior walls and ceilings, durable latex paints with a low VOC (volatile organic compound) are often recommended for their ease of application, quick drying time, and reduced odor. For high-traffic areas like kitchens or bathrooms, a semi-gloss or satin finish provides better durability and moisture resistance. Exterior additions require weather-resistant exterior paints designed to withstand the elements.",
+        "@type": "Answer",
+        "description": "The best paint depends on the area; latex for interior walls, semi-gloss/satin for high-traffic areas, and weather-resistant paint for exteriors."
+      }
+    }
+  ],
+  "description": "The best paint depends on the area; latex for interior walls, semi-gloss/satin for high-traffic areas, and weather-resistant paint for exteriors."
+}

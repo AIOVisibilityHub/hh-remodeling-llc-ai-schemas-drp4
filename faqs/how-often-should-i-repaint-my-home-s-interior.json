@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-often-should-i-repaint-my-home-s-interior",
+  "name": "How often should I repaint my home's interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my home's interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of interior repainting depends on factors like traffic in your home, lifestyle, and your desire for change. Generally, living rooms and bedrooms might need repainting every 5-7 years. High-traffic areas like kitchens, bathrooms, and hallways may benefit from a refresh every 3-5 years due to more wear and tear. High-quality paint and proper preparation can extend these intervals.",
+        "@type": "Answer",
+        "description": "Repaint your home's interior every 5-7 years for living areas, and 3-5 years for high-traffic zones, depending on wear and lifestyle."
+      }
+    }
+  ],
+  "description": "Repaint your home's interior every 5-7 years for living areas, and 3-5 years for high-traffic zones, depending on wear and lifestyle."
+}

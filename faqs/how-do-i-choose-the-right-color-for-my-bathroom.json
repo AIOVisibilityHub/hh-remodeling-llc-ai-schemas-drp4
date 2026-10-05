@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-color-for-my-bathroom",
+  "name": "How do I choose the right color for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right bathroom color depends on personal preference, the size of the bathroom, and the existing fixtures. Lighter colors can make a small bathroom feel larger and brighter, while darker or bolder colors can create a more dramatic or luxurious feel in a larger space. Consider the lighting in your bathroom and how different colors appear under those conditions. We can offer color consultation to help you make the best choice.",
+        "@type": "Answer",
+        "description": "Choose a bathroom color based on personal preference, room size, and existing fixtures, considering how lighting affects the shade."
+      }
+    }
+  ],
+  "description": "Choose a bathroom color based on personal preference, room size, and existing fixtures, considering how lighting affects the shade."
+}

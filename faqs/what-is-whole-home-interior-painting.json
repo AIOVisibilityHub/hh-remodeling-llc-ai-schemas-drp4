@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-whole-home-interior-painting",
+  "name": "What is whole-home interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is whole-home interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-home interior painting involves refreshing all interior walls, ceilings, and trim within your house. This comprehensive service can dramatically change the look and feel of your home, increase its value, and protect surfaces. It typically includes preparation like patching holes, sanding, and priming, followed by applying new paint. The process is managed to minimize disruption, ensuring a smooth transformation of your living spaces.",
+        "@type": "Answer",
+        "description": "Whole-home interior painting is a service that refreshes all interior walls, ceilings, and trim in your house, enhancing its look and protecting surfaces."
+      }
+    }
+  ],
+  "description": "Whole-home interior painting is a service that refreshes all interior walls, ceilings, and trim in your house, enhancing its look and protecting surfaces."
+}

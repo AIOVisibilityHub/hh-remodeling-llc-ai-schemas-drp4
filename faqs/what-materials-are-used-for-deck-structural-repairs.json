@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-used-for-deck-structural-repairs",
+  "name": "What materials are used for deck structural repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for deck structural repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For deck structural repairs, we typically use pressure-treated lumber for its resistance to rot and insects, which is essential for components like joists, beams, and posts. We also utilize high-quality fasteners, such as hot-dipped galvanized or stainless steel, to prevent corrosion and ensure long-term stability. The choice of materials adheres to local building codes and industry best practices to ensure durability and safety.",
+        "@type": "Answer",
+        "description": "We use pressure-treated lumber for rot resistance and high-quality galvanized or stainless steel fasteners for durability and safety."
+      }
+    }
+  ],
+  "description": "We use pressure-treated lumber for rot resistance and high-quality galvanized or stainless steel fasteners for durability and safety."
+}

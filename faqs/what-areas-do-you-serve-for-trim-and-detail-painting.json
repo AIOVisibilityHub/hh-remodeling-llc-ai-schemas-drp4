@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-trim-and-detail-painting",
+  "name": "What areas do you serve for trim and detail painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for trim and detail painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We proudly serve the East Bay area for all trim and detail painting needs, including Berkeley, Oakland, Albany, and El Cerrito. Our team is familiar with the architectural styles and preferences of these communities. If you're located within these areas and are looking for high-quality painting services, please contact us for a consultation.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for trim and detail painting services."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, and El Cerrito for trim and detail painting services."
+}

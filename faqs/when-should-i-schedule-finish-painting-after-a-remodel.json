@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-schedule-finish-painting-after-a-remodel",
+  "name": "When should I schedule finish painting after a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule finish painting after a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish painting should be scheduled after all major construction and installation work is complete, including drywall finishing, carpentry, electrical, and plumbing fixtures. The surfaces should be clean, dry, and ready for paint. Typically, this is one of the very last steps before final cleaning and moving furniture back in. Scheduling too early can lead to damage to the fresh paint from ongoing construction activities.",
+        "@type": "Answer",
+        "description": "Schedule finish painting after all major construction, drywall, carpentry, electrical, and plumbing work is complete and surfaces are ready."
+      }
+    }
+  ],
+  "description": "Schedule finish painting after all major construction, drywall, carpentry, electrical, and plumbing work is complete and surfaces are ready."
+}

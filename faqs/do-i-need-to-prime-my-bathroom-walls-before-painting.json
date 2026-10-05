@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-prime-my-bathroom-walls-before-painting",
+  "name": "Do I need to prime my bathroom walls before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime my bathroom walls before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Priming bathroom walls is often a good idea, especially if you're painting over a darker color, dealing with stains, or painting new drywall. Primer helps paint adhere better, provides a uniform surface for the topcoat, and can improve the paint's durability and mildew resistance. If your walls are in good condition and you're using a paint-and-primer-in-one product, priming might not be strictly necessary.",
+        "@type": "Answer",
+        "description": "Priming bathroom walls is recommended for better paint adhesion, stain coverage, and durability, especially when changing colors or painting new drywall."
+      }
+    }
+  ],
+  "description": "Priming bathroom walls is recommended for better paint adhesion, stain coverage, and durability, especially when changing colors or painting new drywall."
+}

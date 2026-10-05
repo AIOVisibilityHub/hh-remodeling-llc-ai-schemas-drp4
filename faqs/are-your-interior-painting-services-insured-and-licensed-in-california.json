@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-your-interior-painting-services-insured-and-licensed-in-california",
+  "name": "Are your interior painting services insured and licensed in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your interior painting services insured and licensed in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction is a fully licensed and insured construction company operating in California. Our painting services are covered under our comprehensive insurance policies, providing peace of mind and protection for our clients and our team throughout the project duration. We adhere to all local and state regulations.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction's interior painting services are fully licensed and insured in California."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction's interior painting services are fully licensed and insured in California."
+}

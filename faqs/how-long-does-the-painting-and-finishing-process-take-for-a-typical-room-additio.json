@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-the-painting-and-finishing-process-take-for-a-typical-room-additio",
+  "name": "How long does the painting and finishing process take for a typical room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the painting and finishing process take for a typical room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of painting and finishing for a room addition can vary based on the size of the addition, the complexity of the architectural details, and the type of finishes chosen. Generally, for a single room addition, it can take anywhere from 3 to 7 days. This includes time for proper surface preparation, drying time between coats, and the application of all finishes. Larger additions or those with custom finishes will naturally require more time.",
+        "@type": "Answer",
+        "description": "Painting and finishing for a room addition typically takes 3 to 7 days, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "Painting and finishing for a room addition typically takes 3 to 7 days, depending on size and complexity."
+}

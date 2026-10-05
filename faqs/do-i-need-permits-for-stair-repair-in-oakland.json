@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-stair-repair-in-oakland",
+  "name": "Do I need permits for stair repair in Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for stair repair in Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, minor stair repairs that don't involve structural changes or alterations to the overall footprint of the stairs may not require a permit in Oakland. However, extensive repairs, such as altering the structure, changing the stairs' location, or complete replacement, typically do require permits to ensure compliance with local building codes. It's always advisable to consult with us or the Oakland building department to confirm permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Minor stair repairs in Oakland usually don't need permits, but extensive structural changes or replacement often do."
+      }
+    }
+  ],
+  "description": "Minor stair repairs in Oakland usually don't need permits, but extensive structural changes or replacement often do."
+}

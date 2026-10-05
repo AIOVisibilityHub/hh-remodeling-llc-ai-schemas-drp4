@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-signs-that-my-deck-needs-maintenance",
+  "name": "What are the signs that my deck needs maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my deck needs maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your deck needs maintenance include faded or peeling finish, splintering wood, visible mold or mildew growth, loose or wobbly railings, and any soft or spongy areas in the wood. Water pooling on the surface instead of soaking in also indicates a need for resealing. Addressing these signs promptly can prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Signs your deck needs maintenance include faded finish, splintering wood, mold, loose railings, and soft spots."
+      }
+    }
+  ],
+  "description": "Signs your deck needs maintenance include faded finish, splintering wood, mold, loose railings, and soft spots."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-can-cause-my-wood-fence-to-get-damaged",
+  "name": "What can cause my wood fence to get damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can cause my wood fence to get damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood fences can be damaged by various factors including natural weathering from sun and rain, pest infestations like termites or carpenter ants, and rot due to moisture accumulation. Strong winds, falling branches, and impacts can also cause physical damage. Regular maintenance and proper drainage can help mitigate some of these risks.",
+        "@type": "Answer",
+        "description": "Wood fences can be damaged by weathering, pests, rot, strong winds, and impacts. Regular maintenance helps prevent damage."
+      }
+    }
+  ],
+  "description": "Wood fences can be damaged by weathering, pests, rot, strong winds, and impacts. Regular maintenance helps prevent damage."
+}

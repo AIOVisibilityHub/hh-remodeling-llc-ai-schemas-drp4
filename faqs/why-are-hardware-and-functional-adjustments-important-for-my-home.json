@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/why-are-hardware-and-functional-adjustments-important-for-my-home",
+  "name": "Why are hardware and functional adjustments important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are hardware and functional adjustments important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper hardware and functional adjustments ensure that all components of your home operate correctly and efficiently. This prevents issues like drafts from improperly sealed windows, squeaky doors, leaky faucets, or ill-fitting cabinetry. Attention to these details contributes to the overall comfort, safety, and energy efficiency of your home, and helps maintain its value over time.",
+        "@type": "Answer",
+        "description": "They ensure all home components operate correctly, preventing issues like drafts or leaks, and contribute to comfort, safety, and energy efficiency."
+      }
+    }
+  ],
+  "description": "They ensure all home components operate correctly, preventing issues like drafts or leaks, and contribute to comfort, safety, and energy efficiency."
+}

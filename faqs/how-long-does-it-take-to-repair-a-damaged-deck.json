@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-repair-a-damaged-deck",
+  "name": "How long does it take to repair a damaged deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a damaged deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for deck repair varies based on the size of the deck and the severity of the damage. Minor repairs, such as replacing a few boards, might take a day or two. More extensive repairs involving structural elements, multiple components, or a larger deck can take several days to a week or more. We'll provide a more accurate timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time depends on deck size and damage severity, ranging from a day for minor fixes to a week or more for extensive repairs."
+      }
+    }
+  ],
+  "description": "Repair time depends on deck size and damage severity, ranging from a day for minor fixes to a week or more for extensive repairs."
+}

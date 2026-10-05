@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-is-best-for-bathrooms",
+  "name": "What kind of paint is best for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathrooms, a durable, moisture-resistant paint is essential. Semi-gloss or satin finishes are often recommended as they are easier to clean and stand up well to humidity. Mildew-resistant paints are also a good choice to help prevent mold growth in a damp environment. We typically use high-quality acrylic latex paints that offer excellent durability and mildew resistance for bathroom applications.",
+        "@type": "Answer",
+        "description": "Durable, moisture-resistant paints like semi-gloss or satin finishes are best for bathrooms to prevent mold and make cleaning easier."
+      }
+    }
+  ],
+  "description": "Durable, moisture-resistant paints like semi-gloss or satin finishes are best for bathrooms to prevent mold and make cleaning easier."
+}

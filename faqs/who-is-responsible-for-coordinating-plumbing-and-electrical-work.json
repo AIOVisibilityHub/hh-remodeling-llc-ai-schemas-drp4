@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-is-responsible-for-coordinating-plumbing-and-electrical-work",
+  "name": "Who is responsible for coordinating plumbing and electrical work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for coordinating plumbing and electrical work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The responsibility for coordinating plumbing and electrical work typically falls to the general contractor or project manager. They act as the central point of contact, ensuring that all subcontractors, including plumbers and electricians, communicate effectively and work together according to the overall project plan. In smaller projects without a general contractor, the homeowner might take on a more active role in facilitating this communication between trades.",
+        "@type": "Answer",
+        "description": "The general contractor or project manager is usually responsible for coordinating plumbing and electrical work."
+      }
+    }
+  ],
+  "description": "The general contractor or project manager is usually responsible for coordinating plumbing and electrical work."
+}

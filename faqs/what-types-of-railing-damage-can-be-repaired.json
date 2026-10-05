@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-railing-damage-can-be-repaired",
+  "name": "What types of railing damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of railing damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We can repair a variety of railing damage, including loose posts, wobbly sections, cracked or broken components, rust or corrosion on metal, wood rot or splintering, and damage from impacts or weather. Our goal is to restore the structural integrity and aesthetic appeal of your railing, ensuring it is safe and functional.",
+        "@type": "Answer",
+        "description": "We repair loose posts, cracks, rust, rot, and impact damage to restore railing safety and appearance."
+      }
+    }
+  ],
+  "description": "We repair loose posts, cracks, rust, rot, and impact damage to restore railing safety and appearance."
+}

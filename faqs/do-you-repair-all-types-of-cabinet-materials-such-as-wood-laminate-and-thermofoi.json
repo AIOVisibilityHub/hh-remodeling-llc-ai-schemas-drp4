@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-repair-all-types-of-cabinet-materials-such-as-wood-laminate-and-thermofoi",
+  "name": "Do you repair all types of cabinet materials, such as wood, laminate, and thermofoil?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types of cabinet materials, such as wood, laminate, and thermofoil?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have experience repairing a variety of cabinet materials, including solid wood, veneers, laminate, and thermofoil. Each material requires specific repair techniques and products to ensure a durable and aesthetically pleasing result. Our team is equipped to handle the unique challenges associated with each material type to restore your cabinets to their best possible condition.",
+        "@type": "Answer",
+        "description": "Yes, we repair all common cabinet materials, including wood, laminate, and thermofoil, using appropriate techniques."
+      }
+    }
+  ],
+  "description": "Yes, we repair all common cabinet materials, including wood, laminate, and thermofoil, using appropriate techniques."
+}

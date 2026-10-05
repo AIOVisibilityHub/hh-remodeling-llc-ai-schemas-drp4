@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-happens-if-plumbing-and-electrical-are-not-coordinated-properly",
+  "name": "What happens if plumbing and electrical are not coordinated properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if plumbing and electrical are not coordinated properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lack of coordination can lead to significant problems. You might face issues like pipes being drilled through electrical wires, electrical boxes being installed in areas designated for plumbing fixtures, or insufficient space for either system. This often results in expensive re-routing, delays in the project timeline, and potential safety risks such as leaks or electrical shorts. In the worst-case scenario, it could necessitate tearing down newly constructed walls to correct errors.",
+        "@type": "Answer",
+        "description": "Poor coordination leads to conflicts, rework, delays, and potential safety hazards like leaks or electrical shorts."
+      }
+    }
+  ],
+  "description": "Poor coordination leads to conflicts, rework, delays, and potential safety hazards like leaks or electrical shorts."
+}

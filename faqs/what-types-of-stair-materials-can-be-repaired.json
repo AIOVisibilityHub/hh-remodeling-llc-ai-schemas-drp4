@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-stair-materials-can-be-repaired",
+  "name": "What types of stair materials can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stair materials can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We can repair stairs made from various materials, including wood (hardwood, softwood), composite, and sometimes even minor repairs on concrete or metal stairs. The repair method and feasibility depend on the specific material and the nature of the damage. For wooden stairs, common repairs include patching, replacing individual components, and reinforcing the structure. For other materials, repair options vary.",
+        "@type": "Answer",
+        "description": "We repair stairs made of wood, composite, and can perform minor repairs on concrete or metal."
+      }
+    }
+  ],
+  "description": "We repair stairs made of wood, composite, and can perform minor repairs on concrete or metal."
+}

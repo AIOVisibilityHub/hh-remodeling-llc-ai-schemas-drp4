@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-start-planning-for-an-interior-build-out",
+  "name": "When should I start planning for an interior build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for an interior build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's advisable to start planning for an interior build-out as early as possible, ideally several months before you intend to occupy or relaunch your space. This allows ample time for design development, budgeting, obtaining necessary permits, and procurement of materials. Early planning helps mitigate potential delays and ensures a smoother project execution.",
+        "@type": "Answer",
+        "description": "Begin planning several months in advance to allow for design, budgeting, permits, and material procurement, ensuring a smoother project."
+      }
+    }
+  ],
+  "description": "Begin planning several months in advance to allow for design, budgeting, permits, and material procurement, ensuring a smoother project."
+}

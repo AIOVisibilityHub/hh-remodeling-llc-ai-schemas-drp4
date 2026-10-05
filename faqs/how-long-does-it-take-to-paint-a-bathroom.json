@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-paint-a-bathroom",
+  "name": "How long does it take to paint a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to paint a bathroom can vary depending on its size, the condition of the walls, and the complexity of the job. A small bathroom might take a single day, including prep work and painting. Larger bathrooms or those requiring repairs, extensive prep, or multiple coats could extend to two or three days. Factors like ventilation for drying also play a role.",
+        "@type": "Answer",
+        "description": "Painting a bathroom typically takes one to three days, depending on size, prep work, and the number of coats required."
+      }
+    }
+  ],
+  "description": "Painting a bathroom typically takes one to three days, depending on size, prep work, and the number of coats required."
+}

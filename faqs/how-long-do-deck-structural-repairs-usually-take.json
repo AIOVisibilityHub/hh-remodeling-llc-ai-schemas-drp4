@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-do-deck-structural-repairs-usually-take",
+  "name": "How long do deck structural repairs usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do deck structural repairs usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck structural repairs depends on the complexity and scope of the project. Minor repairs might take a few days, while extensive structural overhauls could extend to a week or more. Factors such as weather conditions and material availability can also influence the timeline. We aim to complete repairs efficiently while ensuring the highest quality of workmanship.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor repairs take days, extensive overhauls can take over a week, depending on scope and conditions."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor repairs take days, extensive overhauls can take over a week, depending on scope and conditions."
+}

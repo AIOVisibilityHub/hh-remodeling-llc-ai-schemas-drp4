@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-color-consultations-for-room-painting",
+  "name": "Do you offer color consultations for room painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer color consultations for room painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer color consultations as part of our room painting services. Choosing the right color can be challenging, so our team can provide guidance on color palettes, finishes, and how different shades can impact the ambiance of your room. We'll consider your existing decor, lighting, and personal preferences to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Yes, we offer color consultations to help you choose the best paint colors and finishes for your room, considering decor and lighting."
+      }
+    }
+  ],
+  "description": "Yes, we offer color consultations to help you choose the best paint colors and finishes for your room, considering decor and lighting."
+}

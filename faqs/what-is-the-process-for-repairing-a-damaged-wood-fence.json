@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-repairing-a-damaged-wood-fence",
+  "name": "What is the process for repairing a damaged wood fence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a damaged wood fence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our wood fence repair process typically begins with an assessment of the damage to determine the best course of action. We then provide a detailed quote. Once approved, we will either repair or replace damaged sections, posts, or pickets, ensuring the new components match the existing fence as closely as possible. We use quality materials to ensure durability and a seamless look. We also ensure proper disposal of old materials.",
+        "@type": "Answer",
+        "description": "The repair process involves assessing damage, providing a quote, and then repairing or replacing damaged sections, posts, or pickets with matching materials."
+      }
+    }
+  ],
+  "description": "The repair process involves assessing damage, providing a quote, and then repairing or replacing damaged sections, posts, or pickets with matching materials."
+}

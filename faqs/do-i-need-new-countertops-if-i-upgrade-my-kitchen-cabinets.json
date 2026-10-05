@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-new-countertops-if-i-upgrade-my-kitchen-cabinets",
+  "name": "Do I need new countertops if I upgrade my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new countertops if I upgrade my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not always need new countertops when upgrading kitchen cabinets, especially if you are only refacing. However, if you are completely replacing your cabinets, it's often a good time to consider new countertops as well, as the installation process can impact existing countertops. This also provides an opportunity for a cohesive new kitchen design.",
+        "@type": "Answer",
+        "description": "New countertops aren't always necessary with cabinet upgrades, but consider them with full replacements for a cohesive design."
+      }
+    }
+  ],
+  "description": "New countertops aren't always necessary with cabinet upgrades, but consider them with full replacements for a cohesive design."
+}

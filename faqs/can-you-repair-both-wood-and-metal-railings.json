@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-repair-both-wood-and-metal-railings",
+  "name": "Can you repair both wood and metal railings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both wood and metal railings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have experience repairing both wood and metal railings. For wood railings, we address issues like rot, splintering, loose connections, and damaged sections. For metal railings, we handle rust removal, welding repairs, reinforcement, and replacement of damaged components. Our team is equipped to work with various materials and construction types to restore the integrity and appearance of your railing.",
+        "@type": "Answer",
+        "description": "Yes, we repair both wood and metal railings, addressing issues like rot, rust, and structural damage."
+      }
+    }
+  ],
+  "description": "Yes, we repair both wood and metal railings, addressing issues like rot, rust, and structural damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-restoring-my-concrete-driveway",
+  "name": "What are the benefits of restoring my concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of restoring my concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring your concrete driveway offers several benefits, including improved curb appeal, enhanced durability, and increased property value. Restoration can address cracks, stains, and faded appearances, making your driveway look new again. It also protects the concrete from further weather damage and wear, extending its lifespan and delaying the need for costly full replacement.",
+        "@type": "Answer",
+        "description": "Restoring your concrete driveway improves curb appeal, enhances durability, and increases property value by addressing damage and protecting it."
+      }
+    }
+  ],
+  "description": "Restoring your concrete driveway improves curb appeal, enhances durability, and increases property value by addressing damage and protecting it."
+}

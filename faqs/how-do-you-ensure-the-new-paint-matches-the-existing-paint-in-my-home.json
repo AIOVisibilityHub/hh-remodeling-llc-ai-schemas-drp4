@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-ensure-the-new-paint-matches-the-existing-paint-in-my-home",
+  "name": "How do you ensure the new paint matches the existing paint in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure the new paint matches the existing paint in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure the new paint in your addition seamlessly matches the existing paint in your home, we employ several techniques. We can use color-matching technology to accurately identify the exact shade and sheen of your current paint. Alternatively, we may suggest painting an entire connecting wall or section to create a natural break point, especially if the existing paint has faded over time. We'll discuss the best approach with you to achieve a cohesive look.",
+        "@type": "Answer",
+        "description": "We use color-matching technology or suggest painting connecting walls to ensure the new paint blends seamlessly with existing colors."
+      }
+    }
+  ],
+  "description": "We use color-matching technology or suggest painting connecting walls to ensure the new paint blends seamlessly with existing colors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-cabinet-repair",
+  "name": "What areas do you serve for cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides cabinet repair services in Berkeley, the East Bay, Oakland, Albany, and El Cerrito. We are dedicated to serving these local communities with high-quality craftsmanship and reliable service. If you are located within these areas and require cabinet repair, please contact us for a consultation.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for cabinet repair services."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for cabinet repair services."
+}

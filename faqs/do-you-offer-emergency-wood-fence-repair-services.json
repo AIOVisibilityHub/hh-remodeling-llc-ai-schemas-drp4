@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-wood-fence-repair-services",
+  "name": "Do you offer emergency wood fence repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency wood fence repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent situations, such as a fence damaged by a storm or an unexpected event that compromises security, we do our best to provide timely wood fence repair services. Please contact us immediately to discuss your specific situation, and we will prioritize your request to assess the damage and provide a rapid solution in the Berkeley, Oakland, and surrounding East Bay areas.",
+        "@type": "Answer",
+        "description": "We offer timely wood fence repair for urgent situations like storm damage to help restore security. Contact us for priority service."
+      }
+    }
+  ],
+  "description": "We offer timely wood fence repair for urgent situations like storm damage to help restore security. Contact us for priority service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-is-best-for-trim-and-details",
+  "name": "What kind of paint is best for trim and details?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for trim and details?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For trim and detail painting, we typically recommend durable, semi-gloss or high-gloss paints. These finishes are easier to clean, more resistant to scuffs and chips, and highlight the architectural features more effectively. We can discuss specific paint types and brands during your consultation to match your aesthetic and functional preferences.",
+        "@type": "Answer",
+        "description": "Durable semi-gloss or high-gloss paints are best for trim and details as they are easier to clean and resist wear."
+      }
+    }
+  ],
+  "description": "Durable semi-gloss or high-gloss paints are best for trim and details as they are easier to clean and resist wear."
+}

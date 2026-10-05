@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-to-repair-my-wood-fence-panels",
+  "name": "When do I need to repair my wood fence panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to repair my wood fence panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your wood fence panels when you notice signs of damage like loose or broken pickets, leaning posts, rot, or insect infestation. Addressing these issues early can prevent further deterioration and more costly repairs down the line. Regular inspections can help identify problems before they become severe. If you're in Berkeley, East Bay, Oakland, Albany, or El Cerrito, Frasheski Construction can inspect your fence for necessary repairs.",
+        "@type": "Answer",
+        "description": "Repair your fence panels when you see loose/broken pickets, leaning posts, rot, or insect damage to prevent further issues."
+      }
+    }
+  ],
+  "description": "Repair your fence panels when you see loose/broken pickets, leaning posts, rot, or insect damage to prevent further issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-style-of-cabinets-for-my-kitchen",
+  "name": "How do I choose the right style of cabinets for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of cabinets for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinet style involves considering your home's overall aesthetic, your personal taste, and the functionality you need. Look at current trends, but also consider timeless designs. Traditional, modern, transitional, and shaker styles are common. We can help guide you through options and provide design advice to match your vision and practical requirements.",
+        "@type": "Answer",
+        "description": "Choose cabinet style by considering your home's aesthetic, personal taste, functionality, and current or timeless designs."
+      }
+    }
+  ],
+  "description": "Choose cabinet style by considering your home's aesthetic, personal taste, functionality, and current or timeless designs."
+}

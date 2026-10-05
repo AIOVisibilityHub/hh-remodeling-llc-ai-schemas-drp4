@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-deck-staining-and-sealing",
+  "name": "What is the process for deck staining and sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for deck staining and sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough cleaning of the deck surface to remove dirt, mildew, and old finishes. This may involve power washing and specialized cleaning solutions. Once the deck is completely dry, any necessary repairs are made. Then, a high-quality stain is applied, followed by a sealant to protect the wood from moisture and UV damage. Multiple coats may be applied for optimal protection and desired finish.",
+        "@type": "Answer",
+        "description": "Deck staining and sealing involves cleaning, repairs, and then applying stain and sealant to protect the wood."
+      }
+    }
+  ],
+  "description": "Deck staining and sealing involves cleaning, repairs, and then applying stain and sealant to protect the wood."
+}

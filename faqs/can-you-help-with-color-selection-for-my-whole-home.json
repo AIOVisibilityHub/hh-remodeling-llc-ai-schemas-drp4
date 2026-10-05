@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-color-selection-for-my-whole-home",
+  "name": "Can you help with color selection for my whole home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with color selection for my whole home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction can assist with color selection for your whole home. Choosing the right colors can be challenging, but our experience helps guide you through the process. We can discuss current trends, lighting conditions in your home, and your personal style preferences to help you select a palette that creates the desired ambiance and complements your existing decor.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction can help with color selection, considering trends, lighting, and your style to create the desired ambiance."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction can help with color selection, considering trends, lighting, and your style to create the desired ambiance."
+}

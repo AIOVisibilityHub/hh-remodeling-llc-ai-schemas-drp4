@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-railing-repair-take",
+  "name": "How long does railing repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does railing repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of railing repair depends on the scope of the project. Simple repairs, such as replacing a few pickets, might take a few hours. More extensive repairs involving structural elements or multiple sections could take several days. We will provide a time estimate after assessing the damage during the initial inspection.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to days depending on the project's scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to days depending on the project's scope."
+}

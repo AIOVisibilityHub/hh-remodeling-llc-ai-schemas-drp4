@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-paint-a-room-in-berkeley",
+  "name": "How much does it cost to paint a room in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to paint a room in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to paint a room in Berkeley varies based on factors such as room size, ceiling height, the type of paint chosen, and the amount of preparation work needed. We provide free, no-obligation estimates after an initial consultation to accurately assess your specific project requirements. Our quotes are comprehensive and transparent, covering all labor and materials.",
+        "@type": "Answer",
+        "description": "Room painting costs in Berkeley vary; we offer free estimates based on room size, paint type, and prep work."
+      }
+    }
+  ],
+  "description": "Room painting costs in Berkeley vary; we offer free estimates based on room size, paint type, and prep work."
+}

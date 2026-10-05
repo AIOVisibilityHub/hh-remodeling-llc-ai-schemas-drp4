@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-replace-my-deck-boards-or-can-they-be-repaired",
+  "name": "Do I need to replace my deck boards, or can they be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my deck boards, or can they be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to repair or replace deck boards depends on the extent of the damage. Minor issues like small cracks, splinters, or surface rot can often be repaired. However, if boards are significantly warped, extensively rotted, or show signs of structural weakness, replacement is usually the safer and more durable option. We can assess your deck's condition to recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Minor deck board damage can be repaired, but significant rot, warping, or structural weakness usually requires replacement."
+      }
+    }
+  ],
+  "description": "Minor deck board damage can be repaired, but significant rot, warping, or structural weakness usually requires replacement."
+}

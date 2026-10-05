@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-newly-constructed-home-needs-hardware-or-functional-adjustme",
+  "name": "How do I know if my newly constructed home needs hardware or functional adjustments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my newly constructed home needs hardware or functional adjustments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You'll notice issues such as doors that don't close smoothly, windows that stick or leak, drawers that don't slide easily, or fixtures that are loose or misaligned. Any component that doesn't operate as expected or feels less than secure likely requires adjustment. It's good practice to thoroughly inspect all movable parts in your new home.",
+        "@type": "Answer",
+        "description": "Look for doors that don't close smoothly, sticking windows, drawers that don't slide, or loose fixtures. Any operational issue indicates a need for adjustment."
+      }
+    }
+  ],
+  "description": "Look for doors that don't close smoothly, sticking windows, drawers that don't slide, or loose fixtures. Any operational issue indicates a need for adjustment."
+}

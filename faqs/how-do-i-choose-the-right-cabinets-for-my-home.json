@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-cabinets-for-my-home",
+  "name": "How do I choose the right cabinets for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right cabinets for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinets involves considering your aesthetic preferences, functional needs, and budget. Evaluate material options like solid wood, plywood, or MDF, and finishes such as paint or stain. Consider cabinet styles (e.g., Shaker, flat panel) and storage solutions. Our team can help you navigate these choices to find the best fit for your home and lifestyle.",
+        "@type": "Answer",
+        "description": "Choose cabinets by considering aesthetics, function, budget, material, finish, and style. Our team can assist."
+      }
+    }
+  ],
+  "description": "Choose cabinets by considering aesthetics, function, budget, material, finish, and style. Our team can assist."
+}

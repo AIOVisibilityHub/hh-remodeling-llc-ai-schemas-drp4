@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-cabinet-services",
+  "name": "What areas do you serve for cabinet services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for cabinet services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves clients in Berkeley, the East Bay, Oakland, Albany, and El Cerrito for all cabinet services. If you are located in a neighboring area, please contact us to inquire about our service availability.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for cabinet services."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito for cabinet services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-getting-new-cabinets-installed",
+  "name": "What is the process for getting new cabinets installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting new cabinets installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with an initial consultation to discuss your needs and ideas. Then, we move to design and material selection, followed by a detailed estimate. Once approved, we proceed with fabrication and then professional installation. We keep you informed at every stage, ensuring a smooth and efficient project completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, estimate, fabrication, and professional installation, with communication at every stage."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, estimate, fabrication, and professional installation, with communication at every stage."
+}

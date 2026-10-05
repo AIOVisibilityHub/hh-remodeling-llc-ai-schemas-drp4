@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-furniture-before-interior-painters-arrive",
+  "name": "Do I need to move furniture before interior painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture before interior painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is helpful if you move small, valuable, or fragile items. For larger furniture, our team can assist with moving and covering it to protect it during the painting process. We take precautions to ensure all your belongings and flooring are protected from paint and dust. Discuss your specific needs with Frasheski Construction during the initial consultation.",
+        "@type": "Answer",
+        "description": "While moving small items is helpful, our team can assist with larger furniture, covering and protecting it during painting."
+      }
+    }
+  ],
+  "description": "While moving small items is helpful, our team can assist with larger furniture, covering and protecting it during painting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-trim-and-detail-painting-usually-take",
+  "name": "How long does trim and detail painting usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does trim and detail painting usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of trim and detail painting depends on the scope of the project, including the amount of trim, its condition, and the complexity of the architectural details. A smaller room with minimal trim might take a day, while a whole house with intricate moldings could take several days. We provide a time estimate after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "The time varies based on the project's scope, trim amount, and complexity, ranging from one day for a small room to several for a whole house."
+      }
+    }
+  ],
+  "description": "The time varies based on the project's scope, trim amount, and complexity, ranging from one day for a small room to several for a whole house."
+}

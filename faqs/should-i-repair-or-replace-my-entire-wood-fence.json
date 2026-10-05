@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-repair-or-replace-my-entire-wood-fence",
+  "name": "Should I repair or replace my entire wood fence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my entire wood fence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your wood fence depends on the overall condition of the fence. If only a few sections are damaged, repair is often the more cost-effective option. However, if more than 25-30% of the fence is compromised by rot, extensive damage, or structural instability, a full replacement might be a better long-term investment. We can help you assess the condition and recommend the best solution.",
+        "@type": "Answer",
+        "description": "Decide to repair or replace your wood fence based on the extent of damage; repair for minor issues, replacement for widespread compromise."
+      }
+    }
+  ],
+  "description": "Decide to repair or replace your wood fence based on the extent of damage; repair for minor issues, replacement for widespread compromise."
+}

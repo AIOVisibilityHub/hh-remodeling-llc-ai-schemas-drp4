@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-emergency-railing-repair-services",
+  "name": "Do you offer emergency railing repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency railing repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we do not offer 24/7 emergency services, we prioritize urgent safety-related railing repairs. If your railing poses an immediate safety hazard, please contact us as soon as possible. We will do our best to schedule an assessment and repair promptly to address critical issues and restore safety to your property.",
+        "@type": "Answer",
+        "description": "We prioritize urgent safety-related repairs. Contact us immediately for hazardous railing issues."
+      }
+    }
+  ],
+  "description": "We prioritize urgent safety-related repairs. Contact us immediately for hazardous railing issues."
+}

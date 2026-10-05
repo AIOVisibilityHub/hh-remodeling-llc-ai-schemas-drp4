@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-repairing-a-deck",
+  "name": "What is the process for repairing a deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The deck repair process typically begins with an inspection to assess the damage and determine the necessary repairs. This involves identifying rotten wood, loose fasteners, structural issues, and any safety hazards. Next, damaged components such as boards, railings, or posts are removed. New materials are then cut, fitted, and secured. Finally, the repaired sections are often sanded, cleaned, and sealed or stained to match the existing deck and protect against future wear. The specific steps depend on the type and severity of the repair.",
+        "@type": "Answer",
+        "description": "The process includes inspection, removal of damaged parts, replacement with new materials, and finishing touches like sealing or staining."
+      }
+    }
+  ],
+  "description": "The process includes inspection, removal of damaged parts, replacement with new materials, and finishing touches like sealing or staining."
+}

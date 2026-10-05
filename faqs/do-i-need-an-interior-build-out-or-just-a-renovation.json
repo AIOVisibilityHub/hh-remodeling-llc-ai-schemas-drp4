@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-an-interior-build-out-or-just-a-renovation",
+  "name": "Do I need an interior build-out or just a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an interior build-out or just a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior build-out is usually for a new space or a complete transformation, creating a functional layout from a shell. A renovation typically involves updating or improving an existing space without fundamentally changing its layout or purpose. If your current space no longer meets your operational needs or you're starting fresh, a build-out is likely necessary. For aesthetic updates or minor functional improvements, a renovation might suffice.",
+        "@type": "Answer",
+        "description": "Choose a build-out for new spaces or major layout changes; opt for renovation for aesthetic updates or minor improvements to an existing space."
+      }
+    }
+  ],
+  "description": "Choose a build-out for new spaces or major layout changes; opt for renovation for aesthetic updates or minor improvements to an existing space."
+}

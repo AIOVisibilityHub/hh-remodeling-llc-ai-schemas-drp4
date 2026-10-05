@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-stair-repair",
+  "name": "What is the process for stair repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for stair repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stair repair process generally begins with an inspection to assess the damage and determine the necessary repairs. This is followed by preparing the area, which may include removing damaged components. Then, repairs are performed, such as tightening loose parts, replacing broken treads or risers, or reinforcing the structure. Finally, the stairs are cleaned and, if necessary, refinished to match the existing appearance. The complexity of the process depends on the severity of the damage.",
+        "@type": "Answer",
+        "description": "Stair repair involves inspection, preparation, performing repairs like tightening or replacing components, and finishing."
+      }
+    }
+  ],
+  "description": "Stair repair involves inspection, preparation, performing repairs like tightening or replacing components, and finishing."
+}

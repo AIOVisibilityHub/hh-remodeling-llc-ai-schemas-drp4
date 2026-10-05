@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-repair-a-wood-fence",
+  "name": "How much does it cost to repair a wood fence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a wood fence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood fence repair varies depending on the extent of the damage, the type of wood, and the labor involved. Minor repairs, such as replacing a few pickets, will be less expensive than major repairs like replacing multiple posts or sections of the fence. We provide detailed estimates after assessing the specific needs of your fence in the Berkeley, East Bay, Oakland, Albany, and El Cerrito areas.",
+        "@type": "Answer",
+        "description": "Wood fence repair costs vary based on damage extent, wood type, and labor. We offer detailed estimates after assessing your fence."
+      }
+    }
+  ],
+  "description": "Wood fence repair costs vary based on damage extent, wood type, and labor. We offer detailed estimates after assessing your fence."
+}

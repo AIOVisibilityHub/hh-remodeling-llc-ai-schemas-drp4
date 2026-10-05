@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-deck-structural-repair-and-deck-renovation",
+  "name": "What's the difference between deck structural repair and deck renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between deck structural repair and deck renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deck structural repair focuses specifically on fixing underlying issues that compromise the deck's safety and integrity, such as rot, damaged supports, or faulty ledger boards. Deck renovation, on the other hand, often involves cosmetic upgrades like new decking boards, railings, or aesthetic enhancements, in addition to any necessary structural fixes. While renovation can include structural work, repair specifically targets the foundational safety aspects.",
+        "@type": "Answer",
+        "description": "Structural repair fixes safety and integrity issues; renovation involves cosmetic upgrades in addition to structural fixes."
+      }
+    }
+  ],
+  "description": "Structural repair fixes safety and integrity issues; renovation involves cosmetic upgrades in addition to structural fixes."
+}

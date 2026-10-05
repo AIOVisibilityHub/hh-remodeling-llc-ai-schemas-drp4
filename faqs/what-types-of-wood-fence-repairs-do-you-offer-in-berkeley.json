@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-wood-fence-repairs-do-you-offer-in-berkeley",
+  "name": "What types of wood fence repairs do you offer in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood fence repairs do you offer in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Berkeley and the surrounding East Bay areas, we offer a comprehensive range of wood fence repair services. This includes fixing leaning or broken posts, replacing rotten or damaged pickets, repairing gates that don't latch or swing correctly, and addressing general wear and tear. We work with various wood types to ensure a consistent look with your existing fence.",
+        "@type": "Answer",
+        "description": "We offer wood fence repair services in Berkeley, including fixing posts, replacing pickets, repairing gates, and addressing general wear and tear."
+      }
+    }
+  ],
+  "description": "We offer wood fence repair services in Berkeley, including fixing posts, replacing pickets, repairing gates, and addressing general wear and tear."
+}

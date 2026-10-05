@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-replace-just-my-cabinet-doors-instead-of-the-entire-cabinets",
+  "name": "Can I replace just my cabinet doors instead of the entire cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just my cabinet doors instead of the entire cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can opt for cabinet refacing, which involves replacing just the cabinet doors and drawer fronts, and applying new veneer to the existing cabinet boxes. This can be a more cost-effective and less disruptive alternative to a full cabinet replacement, significantly updating the look of your kitchen or bathroom.",
+        "@type": "Answer",
+        "description": "Yes, cabinet refacing replaces doors and drawer fronts, offering a cost-effective alternative to full replacement."
+      }
+    }
+  ],
+  "description": "Yes, cabinet refacing replaces doors and drawer fronts, offering a cost-effective alternative to full replacement."
+}

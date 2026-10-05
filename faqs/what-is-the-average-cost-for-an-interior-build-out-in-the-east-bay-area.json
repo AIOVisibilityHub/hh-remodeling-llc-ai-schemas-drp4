@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-for-an-interior-build-out-in-the-east-bay-area",
+  "name": "What is the average cost for an interior build-out in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for an interior build-out in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an interior build-out in the East Bay can range widely, typically from $50 to $200 per square foot, but can go higher for specialized needs. Factors influencing cost include the scope of work, material choices, necessary permits, and the existing condition of the space. We provide detailed estimates after understanding your specific requirements and conducting a site visit.",
+        "@type": "Answer",
+        "description": "Costs in the East Bay range from $50-$200+ per square foot, depending on scope, materials, permits, and existing conditions."
+      }
+    }
+  ],
+  "description": "Costs in the East Bay range from $50-$200+ per square foot, depending on scope, materials, permits, and existing conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-cabinet-services-does-frasheski-construction-offer",
+  "name": "What cabinet services does Frasheski Construction offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet services does Frasheski Construction offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides comprehensive cabinet services including design, custom fabrication, and installation for kitchens, bathrooms, and other areas of your home. We work with a variety of materials and styles to match your aesthetic preferences and functional needs. Our team handles everything from initial measurements to the final touches, ensuring a seamless process and a high-quality finish for clients in Berkeley, East Bay, Oakland, Albany, and El Cerrito.",
+        "@type": "Answer",
+        "description": "Frasheski Construction offers cabinet design, custom fabrication, and installation services for kitchens and bathrooms."
+      }
+    }
+  ],
+  "description": "Frasheski Construction offers cabinet design, custom fabrication, and installation services for kitchens and bathrooms."
+}

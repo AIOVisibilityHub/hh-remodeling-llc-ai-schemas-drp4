@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-match-existing-paint-colors-during-a-remodel",
+  "name": "Can you match existing paint colors during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing paint colors during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can match existing paint colors. We use color matching technology to precisely match the current paint, which is especially important when only a portion of a room or specific trim is being repainted. We can also work with you to choose new colors that complement your existing decor or new design scheme for your remodeled space.",
+        "@type": "Answer",
+        "description": "Yes, we can precisely match existing paint colors using color matching technology or help you choose new complementary colors."
+      }
+    }
+  ],
+  "description": "Yes, we can precisely match existing paint colors using color matching technology or help you choose new complementary colors."
+}

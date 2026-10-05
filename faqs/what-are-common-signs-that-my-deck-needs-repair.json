@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-signs-that-my-deck-needs-repair",
+  "name": "What are common signs that my deck needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my deck needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your deck needs repair include loose or rotting boards, unstable railings, noticeable splinters, corrosion on fasteners, or a faded and worn finish. Water damage, insect infestation, or visible structural issues like sagging joists also indicate a need for professional assessment. Identifying these issues early can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Look for loose boards, unstable railings, rot, splinters, or structural sagging. Early detection can prevent extensive damage."
+      }
+    }
+  ],
+  "description": "Look for loose boards, unstable railings, rot, splinters, or structural sagging. Early detection can prevent extensive damage."
+}

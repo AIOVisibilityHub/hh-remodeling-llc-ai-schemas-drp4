@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/is-whole-home-interior-painting-disruptive",
+  "name": "Is whole-home interior painting disruptive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is whole-home interior painting disruptive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While any home improvement project causes some disruption, Frasheski Construction works to minimize inconvenience during whole-home interior painting. We plan the project carefully, communicate daily progress, and maintain a tidy workspace. We aim to complete the project efficiently so you can enjoy your refreshed home as soon as possible, with minimal impact on your daily routine.",
+        "@type": "Answer",
+        "description": "We minimize disruption during whole-home interior painting by careful planning, daily communication, and maintaining a tidy workspace."
+      }
+    }
+  ],
+  "description": "We minimize disruption during whole-home interior painting by careful planning, daily communication, and maintaining a tidy workspace."
+}

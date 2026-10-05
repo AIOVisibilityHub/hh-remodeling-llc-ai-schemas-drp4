@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-structural-repairs-for-my-deck",
+  "name": "When should I consider structural repairs for my deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider structural repairs for my deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider structural repairs for your deck if you notice signs of instability, such as excessive swaying, loose railings, or widespread wood rot. Other indicators include significant cracking in the deck's ledger board, deterioration of support posts, or corrosion of fasteners. Regular inspections can help identify these issues early. Addressing structural problems promptly prevents further damage and ensures the safety of your deck.",
+        "@type": "Answer",
+        "description": "Consider structural repairs if your deck shows instability, rot, loose railings, or cracked ledger boards."
+      }
+    }
+  ],
+  "description": "Consider structural repairs if your deck shows instability, rot, loose railings, or cracked ledger boards."
+}

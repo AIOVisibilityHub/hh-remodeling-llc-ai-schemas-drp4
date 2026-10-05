@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-wood-fence-panel-repair-services-in-oakland",
+  "name": "Do you offer wood fence panel repair services in Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer wood fence panel repair services in Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly offers wood fence panel repair services in Oakland, California. We serve the entire East Bay area, including Berkeley, Albany, El Cerrito, and Oakland. Our team is experienced in handling a wide range of wood fence repair needs, ensuring your fence is restored to its best condition. Contact us to schedule an assessment for your Oakland property.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction provides wood fence panel repair services in Oakland and the entire East Bay area."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction provides wood fence panel repair services in Oakland and the entire East Bay area."
+}

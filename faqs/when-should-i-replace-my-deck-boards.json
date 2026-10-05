@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-replace-my-deck-boards",
+  "name": "When should I replace my deck boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my deck boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your deck boards if they show signs of significant wear such as widespread rot, deep cracks, splintering, or structural instability. Boards that are consistently soft or spongy when walked on also indicate a need for replacement. Regular inspections, especially after harsh weather, can help you identify these issues early. Addressing these problems promptly prevents further damage and maintains the safety and appearance of your deck.",
+        "@type": "Answer",
+        "description": "Replace deck boards if they show signs of rot, deep cracks, splintering, or structural instability."
+      }
+    }
+  ],
+  "description": "Replace deck boards if they show signs of rot, deep cracks, splintering, or structural instability."
+}

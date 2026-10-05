@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-stair-repair-and-stair-refinishing",
+  "name": "What is the difference between stair repair and stair refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between stair repair and stair refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stair repair focuses on fixing structural or functional issues, such as loose treads, broken risers, or wobbly handrails, to restore the safety and integrity of the stairs. Stair refinishing, on the other hand, is a cosmetic process that involves sanding, staining, and sealing the surface of the stairs to improve their appearance and protect the wood. While repairs address damage, refinishing enhances aesthetics and extends the life of the surface.",
+        "@type": "Answer",
+        "description": "Stair repair fixes functional damage, while stair refinishing improves the appearance and protects the surface."
+      }
+    }
+  ],
+  "description": "Stair repair fixes functional damage, while stair refinishing improves the appearance and protects the surface."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-stairs-instead-of-repairing-them",
+  "name": "When should I consider replacing my stairs instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my stairs instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider replacement if the stairs have extensive structural damage, widespread rot, or if the cost of repairs approaches or exceeds the cost of new stairs. Sometimes, an outdated design or desire for a significant aesthetic change also prompts replacement. We can help you evaluate whether repair or replacement is the more cost-effective and beneficial option.",
+        "@type": "Answer",
+        "description": "Consider replacement for extensive structural damage, widespread rot, or when repair costs are too high."
+      }
+    }
+  ],
+  "description": "Consider replacement for extensive structural damage, widespread rot, or when repair costs are too high."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-kitchen-cabinet-upgrade-project-take",
+  "name": "How long does a kitchen cabinet upgrade project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen cabinet upgrade project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen cabinet upgrade project depends on its complexity. Refacing existing cabinets can take a few days to a week. A full cabinet replacement, especially if it involves custom cabinetry or reconfiguring the kitchen layout, might take several weeks. We will provide a timeline estimate after understanding your project's specifics during the consultation phase.",
+        "@type": "Answer",
+        "description": "Project duration varies by complexity; refacing takes days to a week, full replacement several weeks."
+      }
+    }
+  ],
+  "description": "Project duration varies by complexity; refacing takes days to a week, full replacement several weeks."
+}

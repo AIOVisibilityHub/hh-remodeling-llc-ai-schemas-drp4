@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-provide-surface-restoration-services-in-oakland",
+  "name": "Do you provide surface restoration services in Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide surface restoration services in Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly provides comprehensive surface restoration services throughout Oakland. Our team is familiar with the unique needs and architectural styles of properties in the area. Whether you need concrete, stone, or other surface restoration for your home or business in Oakland, we are equipped to deliver professional and lasting results.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction offers comprehensive surface restoration services for homes and businesses throughout Oakland."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction offers comprehensive surface restoration services for homes and businesses throughout Oakland."
+}

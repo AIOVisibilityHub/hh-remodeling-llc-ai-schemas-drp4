@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-a-room-painting-project",
+  "name": "What is the typical process for a room painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a room painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our room painting process begins with a consultation to understand your vision, discuss color options, and assess the room's condition. Next, we provide a detailed quote. Once approved, we prepare the room by moving furniture, protecting floors, and masking areas. We then repair minor imperfections, prime surfaces, and apply high-quality paint. Finally, we conduct a walkthrough to ensure your satisfaction before cleaning up.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, quoting, room preparation, painting, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, quoting, room preparation, painting, and a final walkthrough."
+}

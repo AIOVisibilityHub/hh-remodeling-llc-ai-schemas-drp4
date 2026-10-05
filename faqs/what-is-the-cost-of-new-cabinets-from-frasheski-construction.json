@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-cost-of-new-cabinets-from-frasheski-construction",
+  "name": "What is the cost of new cabinets from Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of new cabinets from Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new cabinets depends on several factors, including the type of material, cabinet style, finishes, and the overall size of the project. Custom cabinets tend to be a larger investment than semi-custom or stock options. We offer detailed estimates after understanding your specific requirements and design preferences during the consultation phase.",
+        "@type": "Answer",
+        "description": "Cabinet costs depend on material, style, finishes, and project size. We provide estimates after a consultation."
+      }
+    }
+  ],
+  "description": "Cabinet costs depend on material, style, finishes, and project size. We provide estimates after a consultation."
+}

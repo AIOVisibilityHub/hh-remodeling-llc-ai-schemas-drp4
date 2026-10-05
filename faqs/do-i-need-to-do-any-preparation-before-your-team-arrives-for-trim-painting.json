@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-do-any-preparation-before-your-team-arrives-for-trim-painting",
+  "name": "Do I need to do any preparation before your team arrives for trim painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do any preparation before your team arrives for trim painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our team handles most of the preparation, there are a few things you can do to help. We kindly ask that you clear the work area of any small furniture, delicate items, or wall hangings that are near the trim to be painted. This allows us to access the surfaces efficiently and protects your belongings. We will cover larger furniture and floors ourselves.",
+        "@type": "Answer",
+        "description": "Please clear small furniture, delicate items, and wall hangings from the work area before our team arrives; we will cover larger items."
+      }
+    }
+  ],
+  "description": "Please clear small furniture, delicate items, and wall hangings from the work area before our team arrives; we will cover larger items."
+}

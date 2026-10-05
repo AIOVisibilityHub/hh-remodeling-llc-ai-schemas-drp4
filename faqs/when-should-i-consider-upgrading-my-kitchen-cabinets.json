@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-kitchen-cabinets",
+  "name": "When should I consider upgrading my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider upgrading your kitchen cabinets if they are severely damaged, structurally unsound, or if you're undertaking a major kitchen renovation. You might also consider an upgrade if you want to significantly improve your kitchen's aesthetic, enhance storage, or increase your home's resale value. Older, outdated cabinets are often a good candidate for an upgrade.",
+        "@type": "Answer",
+        "description": "Upgrade cabinets when they're damaged, structurally unsound, during a major renovation, or to improve aesthetics, storage, or home value."
+      }
+    }
+  ],
+  "description": "Upgrade cabinets when they're damaged, structurally unsound, during a major renovation, or to improve aesthetics, storage, or home value."
+}

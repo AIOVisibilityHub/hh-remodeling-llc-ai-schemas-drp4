@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-getting-my-railing-repaired",
+  "name": "What is the process for getting my railing repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my railing repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our railing repair process typically begins with an initial consultation and on-site assessment to evaluate the damage and determine the best course of action. We then provide a detailed estimate outlining the scope of work and associated costs. Once approved, we schedule the repair, procure necessary materials, and perform the work with minimal disruption. Upon completion, we conduct a final inspection to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves an on-site assessment, detailed estimate, scheduling, repair, and final inspection."
+      }
+    }
+  ],
+  "description": "Our process involves an on-site assessment, detailed estimate, scheduling, repair, and final inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-deck-board-replacement",
+  "name": "What is the process for deck board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for deck board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an assessment of your deck to identify all damaged boards and underlying issues. We then remove the old, damaged boards and inspect the joists for any necessary repairs. New boards are then cut to size, installed, and securely fastened. Finally, we clean up the work area. Depending on the material, additional steps like sealing or staining might be included to protect the new boards.",
+        "@type": "Answer",
+        "description": "The process involves assessment, removal of old boards, joist inspection, new board installation, and clean-up."
+      }
+    }
+  ],
+  "description": "The process involves assessment, removal of old boards, joist inspection, new board installation, and clean-up."
+}

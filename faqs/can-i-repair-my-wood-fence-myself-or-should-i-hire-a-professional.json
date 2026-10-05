@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-repair-my-wood-fence-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my wood fence myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my wood fence myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor wood fence repairs like replacing a single picket can be a DIY project for those with basic carpentry skills, more complex issues often benefit from professional expertise. Structural repairs, post replacement, or extensive damage require specific tools, knowledge of construction techniques, and a keen eye for detail to ensure the repair is durable and safe. Hiring a professional helps ensure the repair is done correctly, preventing further issues and extending the fence's lifespan.",
+        "@type": "Answer",
+        "description": "Minor wood fence repairs can be DIY, but complex structural issues or extensive damage are best handled by a professional to ensure durability and safety."
+      }
+    }
+  ],
+  "description": "Minor wood fence repairs can be DIY, but complex structural issues or extensive damage are best handled by a professional to ensure durability and safety."
+}

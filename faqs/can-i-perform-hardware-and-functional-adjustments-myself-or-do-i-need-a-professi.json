@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-perform-hardware-and-functional-adjustments-myself-or-do-i-need-a-professi",
+  "name": "Can I perform hardware and functional adjustments myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform hardware and functional adjustments myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor adjustments, such as tightening a loose screw on a cabinet pull, can often be done by a homeowner. However, more complex adjustments involving door alignment, window sealing, or plumbing and electrical fixtures typically require the expertise of a professional. Improper adjustments can lead to further damage or compromise functionality.",
+        "@type": "Answer",
+        "description": "Minor adjustments can be DIY, but complex tasks like door alignment or plumbing adjustments are best left to professionals to avoid further issues."
+      }
+    }
+  ],
+  "description": "Minor adjustments can be DIY, but complex tasks like door alignment or plumbing adjustments are best left to professionals to avoid further issues."
+}
