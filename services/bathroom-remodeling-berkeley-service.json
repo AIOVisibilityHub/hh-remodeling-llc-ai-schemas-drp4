@@ -1,0 +1,80 @@
+{
+  "url": "frasheskiconstruction.com",
+  "name": "Bathroom Remodeling Services in Berkeley",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Berkeley"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "GeneralContractor",
+    "telephone": "510-318-2258"
+  },
+  "telephone": "510-318-2258",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Frasheski Construction approaches Bathroom Remodeling in Berkeley, East Bay Area, including the typical process, what to expect, and how to get started. Serving Berkeley.",
+  "serviceType": "Home Improvement — Bathroom Remodeling",
+  "hasOfferCatalog": {
+    "name": "Home Improvement Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Repair",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Interior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Room Additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Installation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

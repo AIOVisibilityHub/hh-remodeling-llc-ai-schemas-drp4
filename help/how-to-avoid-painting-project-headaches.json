@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Painting Project Headaches",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody wants a painting project that turns into a nightmare, but unfortunately, some common mistakes can lead to major headaches. Luckily, they're pretty easy to avoid if you know what to look for! \n\n1. **Vague Scope:** Don't just say ",
+  "datePublished": "2026-08-08"
+}

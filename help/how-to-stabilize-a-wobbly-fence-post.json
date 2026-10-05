@@ -1,0 +1,120 @@
+{
+  "name": "How to Stabilize a Wobbly Fence Post",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Dealing with a wobbly fence post? It's a common issue in the East Bay, but often fixable if caught early! Here's a quick guide on what to do.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "**Step 1: Assess the Damage and Call 811**",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "First, figure out what's making it wobbly. Is the post rotten at the base? Is the concrete footing loose? Or has the soil around it just shifted? Before you start digging, though, remember to call 811! This is super important to get any underground utilities marked so you don't accidentally hit a pipe or cable.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "**Step 2: Expose the Post Base**",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Carefully dig around the base of the wobbly post. You'll want to expose the entire footing. This will help you see if the concrete is cracked, if the post itself is rotted below ground, or if it's just loose in its setting.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "**Step 3: Repair or Replace**",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "If the post itself is still sound but just loose in its footing, you might be able to re-set it. Brace the post so it's perfectly plumb (straight up and down), then pour new concrete around the base. If the post is rotten or badly damaged, you're better off replacing it entirely. Dig out the old post and footing, set a new post, brace it, and pour fresh concrete. Make sure to let the concrete cure fully before putting any stress on the fence. For tricky situations or multiple wobbly posts, give Frasheski Construction a shout – we can help ensure your fence is sturdy and secure.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Stabilize a Wobbly Fence Post"
+}

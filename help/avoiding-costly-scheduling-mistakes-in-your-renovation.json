@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Costly Scheduling Mistakes in Your Renovation",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Renovation scheduling can be a minefield of potential errors, but with a bit of foresight, you can steer clear of common, costly mistakes. One big one is scheduling by date only, without considering the intricate dance of dependencies. You might book a drywall crew, but if the electrical rough-in isn't inspected yet, they can't start, leading to wasted time and money. Another slip-up is ignoring those hidden dependencies; sometimes one small task needs to be finished before a much larger one can begin, and missing it throws everything off. Failing to update the sequence after design changes is also a frequent issue. If you decide to add a new fixture or move a wall, your original schedule probably won't hold up. Lastly, letting trades overlap before prerequisite work is truly complete can lead to massive rework. Imagine the tile setter starting before the plumbing final inspection is done and then having to rip it all out. To avoid these headaches, always confirm site readiness, material availability, and inspection clearances. For complex jobs in the East Bay, getting an experienced construction coordinator involved can be invaluable to ensure a smooth, efficient project.",
+  "datePublished": "2026-08-08"
+}

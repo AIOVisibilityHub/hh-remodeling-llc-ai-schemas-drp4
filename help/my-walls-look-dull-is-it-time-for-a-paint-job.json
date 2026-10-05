@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Walls Look Dull: Is It Time for a Paint Job?",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever look at your walls and just feel... blah? You're not alone! A fresh coat of paint can totally transform a space, making it feel brighter, cleaner, and more inviting. But how do you know when it's truly time to call in the pros? Well, if your paint is looking faded, chipped, or just plain tired, that's a pretty good sign. Maybe you've got some scuff marks that won't come out, or your color just doesn't spark joy anymore. If your home has an older paint job, it might even be showing signs of wear and tear that go beyond superficial marks. Don't forget that a new color scheme can really tie a room together or open up a smaller space. If you're tired of walking into a room and feeling underwhelmed, a fresh paint job is definitely something to consider. It’s an investment that boosts your home’s aesthetic and can even increase its value. Ready to discuss how we can bring some life back to your walls? Reach out, we're happy to chat about your vision!",
+  "datePublished": "2026-08-08"
+}

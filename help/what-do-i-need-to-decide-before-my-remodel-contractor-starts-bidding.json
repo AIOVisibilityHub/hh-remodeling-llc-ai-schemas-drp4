@@ -1,0 +1,84 @@
+{
+  "name": "What Do I Need to Decide Before My Remodel Contractor Starts Bidding?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Before your remodel contractor can give you accurate bids, you've got some important decisions to nail down. First, clearly define your goals and priorities for the space. What do you want to achieve? What's most important to you? This guides every other decision. Next, you need a documented scope of work. This means writing down exactly what's included in the remodel and, just as importantly, what's excluded. Vague language here can lead to misunderstandings and unexpected costs later. Developing initial plans or drawings is also crucial. These don't have to be architectural masterpieces, but they should convey the layout, key features, and general design. Finally, aligning on materials and selections before bidding helps a ton. Even if it's just general categories (e.g.,",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What Do I Need to Decide Before My Remodel Contractor Starts Bidding?"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "What to do when your vanity hardware feels loose",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's super annoying when your cabinet hardware starts acting up, right? That loose handle or wobbly drawer can really disrupt your bathroom's flow. But before you jump to replacing everything, let's talk about what you can usually do to fix it. First off, take a good look at the moving parts. Sometimes, it's just a matter of tightening a few screws. Grab a screwdriver and gently tighten any fasteners you find. Don’t overtighten, though, or you could strip the screw or damage the wood. Next, check the alignment. Often, a loose piece of hardware throws everything else off kilter. After tightening, gently open and close the drawer or door to make sure it's moving smoothly. If it’s still sticking, clean out any gunk or debris that might be in the tracks or on the contact points. You'd be surprised how much dirt can build up! Finally, confirm that doors and drawers have enough clearance to move freely. Sometimes, a slight adjustment can make all the difference. If you've tried these steps and things still aren’t right, or if you suspect it's more than just a simple adjustment – maybe it's affecting plumbing or the cabinet structure itself – it might be time to call in a pro. We're here in the East Bay to help with those trickier fixes.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to do when your vanity hardware feels loose"
+}

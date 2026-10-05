@@ -1,0 +1,84 @@
+{
+  "name": "How Long Does Gate Repair Really Take?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "The truth is, how long your gate repair takes really depends on what's going on with it. Some issues are pretty quick fixes, while others might take a little longer. For example, if it's just a simple adjustment or a safety sensor that needs realigning, we can often get that sorted out for you on the same visit. We carry a good stock of common parts, so if your repair needs something we have on hand, we can usually take care of it in just a few hours. However, if your gate needs a special-order motor, a specific panel, or a unique control board, that's when things can extend to a few days or even longer while we wait for the parts to arrive. Providing details like your gate's brand, model, and any prior repair history really helps us give you a more accurate timeframe from the get-go. No matter the issue, our goal at Frasheski Construction is to get your gate back in top shape efficiently, serving Berkeley, Oakland, and the wider East Bay area.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How Long Does Gate Repair Really Take?"
+}

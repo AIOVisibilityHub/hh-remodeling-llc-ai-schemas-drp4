@@ -1,0 +1,108 @@
+{
+  "name": "What are the steps for a smooth bathroom vanity upgrade?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Ready to give your bathroom a facelift with a new vanity? Here's a quick rundown of how we typically approach it for clients in places like Berkeley and Oakland, ensuring a smooth process from start to finish.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Step 1: Planning and Measurement. First, we'll carefully measure your bathroom, not just the space for the vanity but also the existing rough-in locations for plumbing. We'll also check door swings and clearances to make sure your new vanity fits perfectly and doesn't create any traffic jams.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "Step 2: Removal and Preparation. Next up, we’ll shut off the water supply and carefully remove your old vanity. This involves disconnecting the trap and supply lines. We take care to protect your bathroom during this phase.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "Step 3: Installation and Leveling. Now for the exciting part! We install your new vanity, making sure it’s perfectly level. Securing it properly to the studs or wall is super important for stability and longevity. We’re really meticulous about getting this right.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "Step 4: Plumbing Reconnection and Testing. With the vanity in place, we reconnect all the plumbing. This includes the trap, supply lines, and any new fixtures. Then, and this is key, we thoroughly test for leaks to ensure everything is watertight and working correctly. If you're tackling this yourself and find the plumbing or electrical aspects tricky, or if you're dealing with a wall-mounted unit, don't hesitate to give us a shout. We're happy to help ensure your upgrade goes off without a hitch.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What are the steps for a smooth bathroom vanity upgrade?"
+}

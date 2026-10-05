@@ -1,0 +1,132 @@
+{
+  "name": "Prepping for Perfect Trim Paint",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting your trim ready for paint might seem like a small detail, but it's absolutely crucial for a beautiful, long-lasting finish. Think of it as laying the groundwork for perfection! Here’s a simple checklist to get you started:",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "1. **Clean the Trim:** Make sure your trim is super clean, free of any dust, grime, or oils. A damp cloth with a mild cleaner usually does the trick.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "2. **Repair Imperfections:** Look for any dings, dents, or nail holes. Use a good quality wood filler to address these. Let it dry completely.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4",
+      "text": "3. **Sand Smooth:** Once repairs are dry, lightly sand the entire trim surface, especially the patched areas, until it's perfectly smooth to the touch. This helps the paint adhere evenly.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5",
+      "text": "4. **Mask Adjacent Surfaces:** This step is a game-changer! Use painter's tape to carefully mask off any walls, floors, or cabinets right next to the trim. This creates those super crisp, professional lines.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6",
+      "text": "5. **Prime Where Needed:** If you have bare wood, new millwork, or areas you just patched, a good primer is essential. It helps seal the surface and ensures your topcoat looks its best.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7",
+      "text": "6. **Apply Finish Coats:** Now you're ready for your finish paint! Apply thin, even coats, allowing adequate drying time between each.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8",
+      "text": "7. **Inspect Edges:** After painting, carefully inspect the edges and joints for any touch-ups needed.",
+      "@type": "HowToStep",
+      "position": 8
+    },
+    {
+      "name": "Step 9",
+      "text": "Following these steps will make a huge difference. For intricate trim or large projects, don't hesitate to reach out to a professional who can ensure these details are handled perfectly.",
+      "@type": "HowToStep",
+      "position": 9
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Prepping for Perfect Trim Paint"
+}

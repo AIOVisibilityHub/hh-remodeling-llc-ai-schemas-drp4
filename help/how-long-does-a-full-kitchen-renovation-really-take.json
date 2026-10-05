@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "How Long Does a Full Kitchen Renovation Really Take?",
+    "text": "How Long Does a Full Kitchen Renovation Really Take?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When you're dreaming of a full kitchen renovation, one of the first questions that pops up is always, 'How long will this take?' The answer really depends on the scope of work you're envisioning. A complete gut renovation, where you’re stripping everything back to the studs and starting fresh, typically takes a good chunk of time. You’re looking at something in the ballpark of 18 to 20 weeks for a project of that scale. That’s because it involves a lot of moving parts: planning, ordering custom materials, demolition, and then the careful, coordinated installation of everything from plumbing and electrical to new cabinets, countertops, and finishes. If your renovation involves moving walls or completely changing the layout, that can also extend the timeline significantly, potentially pushing it to three months or even longer. These types of changes often involve permits and inspections, which add their own layer to the schedule. It's not just about the physical work; there’s a whole process of design, material selection, and coordination that happens behind the scenes. It's super important to factor in those lead times for custom items, as they can sometimes be the biggest bottleneck. While it might seem like a long time, the goal is always a well-executed, beautiful, and functional kitchen that you’ll love for years to come. If you're in the East Bay and thinking about a full renovation, we can help you understand the realistic timeline for your specific project.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

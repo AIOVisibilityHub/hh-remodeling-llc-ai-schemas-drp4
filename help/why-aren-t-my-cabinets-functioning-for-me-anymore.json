@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Aren't My Cabinets Functioning for Me Anymore?",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever open your cabinets and feel like nothing really fits, or it's a huge mess to find anything? You're not alone! Cabinet issues often stem from how they're configured versus how you actually use them. Maybe you've got new appliances that don't fit, or your family's needs have changed. ",
+  "datePublished": "2026-08-08"
+}

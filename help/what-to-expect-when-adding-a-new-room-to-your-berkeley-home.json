@@ -1,0 +1,96 @@
+{
+  "name": "What to Expect When Adding a New Room to Your Berkeley Home",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Adding a new room to your home, whether it's in Berkeley, Oakland, or another East Bay city, involves a clear sequence of steps to ensure a smooth project. Understanding this process can help you prepare and know what to expect. It all starts with the design and measure-up phase, where your vision is translated into detailed plans and specifications. This is crucial for defining the scope and getting accurate estimates.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Next comes the demolition or site prep. This might involve clearing land, removing existing structures, or preparing the foundation for your new addition. Once the site is ready, structural work begins, followed by the essential electrical and plumbing rough-ins. These are critical steps that need to be done right to ensure safety and functionality. After that, the framing and carpentry take shape, bringing the actual structure of your new room to life.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3",
+      "text": "The project then moves into the finishing stages, where walls are completed, flooring is laid, and fixtures are installed. This is where your new room really starts to look like the space you envisioned. Finally, there's the cleanup and a thorough final inspection or handoff, ensuring everything meets quality standards and local codes. For larger projects, like kitchen additions, this entire process can take roughly 12–16 weeks. Having a clear plan and a dedicated contractor like Frasheski Construction, who is involved daily in the work, can make all the difference in achieving a successful outcome.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Expect When Adding a New Room to Your Berkeley Home"
+}

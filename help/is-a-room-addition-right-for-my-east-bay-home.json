@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Room Addition Right for My East Bay Home?",
+    "text": "Is a Room Addition Right for My East Bay Home?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about adding a room to your Berkeley or East Bay home? That’s a big decision, and it often comes with a lot of questions. One of the first things to consider is whether the addition will actually fit your site and budget. You'll want to think about your property lines, zoning regulations, and how much space you realistically have available before you get too deep into planning.\n\nThen there’s the budget. Room additions can be a significant investment, so getting a clear understanding of costs upfront is crucial. Don't forget to factor in potential disruptions during construction; sometimes, larger additions might even mean temporary relocation. Many folks also wonder about the timeline. Additions usually involve permits and inspections, which can add to the overall duration. Building in buffer time for these steps is a smart move.\n\nUltimately, if you're looking for more living space, an addition can be fantastic. But if your needs are simpler, a remodel of an existing space might be more appropriate. When your project involves structural changes, relocating utilities, or navigating complex permit processes, that's when a qualified professional like Frasheski Construction can be invaluable. We serve the East Bay Area, including Oakland and Albany, and can help you figure out the feasibility and manage the entire process.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

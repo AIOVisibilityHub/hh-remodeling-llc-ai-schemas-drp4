@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Isn't My New Kitchen Appliance Working Right?",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when you've got a brand new kitchen appliance and it just isn't performing like it should, right? Often, this comes down to electrical issues that weren't quite sorted during the installation. Maybe the appliance isn't getting enough power, or it's on a circuit that's just too overloaded. For instance, high-wattage appliances like microwaves or air fryers really need their own dedicated circuits to operate efficiently and safely. If they're sharing with too many other things, you'll notice flickering lights or even tripped breakers. Another common hiccup is incorrect voltage or plug type – something that should've been confirmed *before* installation. Plus, sometimes people forget to account for how much clearance an appliance needs, which can affect its function and even its lifespan. Getting these details right from the start is key to avoiding headaches later on. If you're finding yourself scratching your head with a new appliance, it's worth having a professional take a look. They can diagnose power issues, confirm correct wiring, and make sure everything is up to code and running smoothly. Don't let a simple electrical oversight ruin the excitement of your new kitchen!",
+  "datePublished": "2026-08-08"
+}

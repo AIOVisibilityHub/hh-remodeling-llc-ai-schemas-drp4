@@ -1,0 +1,90 @@
+{
+  "name": "What to Expect During Cabinet Installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Thinking about new cabinets? It's exciting, but knowing what to expect during the installation process can really help calm any nerves. First off, a good installer will start by meticulously measuring and verifying stud locations in your kitchen. This is super important for anchoring your cabinets securely. Then, any existing doors and hardware from the old space will be removed, and precise layout lines will be marked on your walls. These lines guide the placement of every single cabinet, ensuring everything is straight and level.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2",
+      "text": "Next, for upper cabinets, a ledger board is often set up. This temporary support helps hold the cabinets in place while they're being fastened, making sure they're perfectly level. As each cabinet goes in, adjoining units are clamped together, and shims are used to achieve that perfect plumb and level alignment. This attention to detail is key to avoiding gaps and ensuring your cabinet doors close properly. Finally, once everything is securely fastened to the studs and aligned, the doors and hardware are reinstalled. The whole process is about precision and making sure your new kitchen looks fantastic and functions perfectly. If you're looking for someone to handle your cabinet installation in the Berkeley or wider East Bay area, Frasheski Construction is ready to help make your vision a reality.",
+      "@type": "HowToStep",
+      "position": 2
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Expect During Cabinet Installation"
+}

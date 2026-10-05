@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "My cabinet doors are crooked, can I fix them myself?",
+    "text": "My cabinet doors are crooked, can I fix them myself?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's super frustrating when your cabinet doors start looking wonky, right? Crooked doors are a common nuisance, but often, it's something you can totally fix yourself with a little patience. Most modern cabinet hinges have adjustment screws that let you tweak their position. You'll usually find screws that control the door's height, side-to-side movement, and depth. A small turn here or there can make a huge difference in getting that perfect alignment back. Just remember to make small adjustments and check the door's movement after each tweak. Don't go tightening everything as hard as you can, as that can actually strip the screws or damage the hinge. Also, give the hinges and tracks a good clean; sometimes, debris can prevent smooth operation. However, if you find that no amount of adjusting helps, or if the problem seems to be with the cabinet's structure or the door itself (like a warped door), then it might be time to bring in someone who specializes in home remodeling. We can help figure out if it's a simple fix or if there's a bigger issue at play, ensuring your cabinets in your East Bay home look and function great.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

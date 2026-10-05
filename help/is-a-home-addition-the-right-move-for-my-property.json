@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Home Addition the Right Move for My Property?",
+    "text": "Is a Home Addition the Right Move for My Property?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Deciding whether a home addition, like a new room in your East Bay home, is the right move for your property involves careful consideration beyond just wanting more space. You'll want to think about how this addition will support your intended use. Are you looking for a new bedroom, a larger kitchen, or a dedicated home office? The function of the new space will heavily influence its design, size, and cost, so having a clear idea from the start is important.\n\nAnother key factor is understanding the realistic budget range for your project. Room additions can vary widely in cost depending on complexity, materials, and local labor rates in areas like Berkeley or San Francisco. Getting an itemized estimate from a professional contractor is essential to avoid surprises down the line. You'll also need to consider the timeline. Residential additions often take weeks to months, with kitchen additions, for example, typically needing 12–16 weeks. Major whole-house remodels with additions can even extend to 6–10 months, so patience is definitely a virtue.\n\nFinally, think about inspections and approvals needed before work can proceed. Local building codes and permits in the East Bay Area will dictate certain requirements, and navigating these can be complex. When the project affects your home's structure, utilities, or requires permits, bringing in a licensed builder or design-build professional like Frasheski Construction can be incredibly valuable to ensure everything is done correctly and to code.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

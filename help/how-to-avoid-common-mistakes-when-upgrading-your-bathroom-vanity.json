@@ -1,0 +1,84 @@
+{
+  "name": "How to avoid common mistakes when upgrading your bathroom vanity",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "So, you're thinking about a new bathroom vanity? Awesome! It’s a great way to refresh your space. But, you know, it’s easy to trip up if you’re not careful. One big mistake folks make is only measuring the vanity's face and forgetting about the depth, or where the drain and supply lines actually sit. You also need to think about wall clearance and if your cabinet doors will swing open without hitting anything. Another common hiccup is picking a new vanity that doesn't play nice with your existing faucet's hole spacing. It sounds simple, but it happens more often than you'd think. And here’s a crucial one: skipping the leak check after everything’s hooked up. Seriously, always double-check for leaks! You don’t want a tiny drip turning into a big problem down the line. If you're feeling a bit overwhelmed, especially with plumbing or electrical work, it's totally okay to bring in a pro. We do these kinds of projects all the time in the East Bay, and can help make sure everything fits perfectly and functions flawlessly.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to avoid common mistakes when upgrading your bathroom vanity"
+}

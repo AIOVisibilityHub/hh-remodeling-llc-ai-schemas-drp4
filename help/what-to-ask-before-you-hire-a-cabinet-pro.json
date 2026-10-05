@@ -1,0 +1,84 @@
+{
+  "name": "What to Ask Before You Hire a Cabinet Pro",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Bringing in new cabinets is a big decision, and you want to make sure you're getting exactly what you expect. It's super important to be clear about a few things upfront so there are no surprises later. First, always ask about the materials they use and what kind of customization options are available. This helps you understand the quality and how much say you have in the final look. Then, dive into the quote: what's actually included? Does it cover installation, or is that extra? You'd be surprised how often that gets overlooked! Also, get a realistic project timeline and current lead time—nobody likes waiting in the dark. Find out if they coordinate measurements, installation, and other trades, too; a smooth process is key. Finally, make sure to ask about warranties and how problems are handled. A professional will be transparent about their process, materials, and support. If they're vague about anything, that's a red flag. Getting clear answers on these points will help ensure your cabinet project goes smoothly from design to installation.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Ask Before You Hire a Cabinet Pro"
+}

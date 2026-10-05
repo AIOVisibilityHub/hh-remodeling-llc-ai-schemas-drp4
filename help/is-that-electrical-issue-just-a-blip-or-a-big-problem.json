@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is That Electrical Issue Just a Blip or a Big Problem?",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to tell if an electrical quirk in your Berkeley home is a one-off anomaly or a sign of something more serious. We've all experienced a light flickering once, but when does it become a \"call the professional\" situation? Generally, if the issue is recurring, system-wide, or safety-critical, it’s likely more than just a blip. For example, if a breaker trips repeatedly without you overloading the circuit, or if you notice strange burning smells or scorch marks around outlets, those are major red flags. These aren't just inconveniences; they could indicate serious wiring problems or fire hazards. On the other hand, a single, isolated incident like a bulb burning out quickly might just be a faulty bulb. However, if the issue affects multiple lights on the same circuit, or if you're getting shocks from appliances, that's a whole different story. When the problem suggests hidden damage, has code implications (which electrical work often does in the East Bay!), or requires specialized diagnostics, then a licensed electrician is crucial. Don't risk your safety or your home's integrity on a guess. For any concerns about persistent or potentially dangerous electrical issues, Frasheski Construction is ready to help you diagnose and safely resolve the problem.",
+  "datePublished": "2026-08-08"
+}

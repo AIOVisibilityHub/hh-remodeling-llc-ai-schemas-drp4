@@ -1,0 +1,84 @@
+{
+  "name": "How to Identify the Right Replacement Board for Your Gate Operator",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Finding the correct replacement control board for your gate operator is crucial – you can't just grab any old circuit board! It really boils down to ensuring exact compatibility. The very first step is to accurately identify your gate operator's make, model, and serial number. This information is usually on a sticker or plate inside the operator housing. You'll also want to look at the existing board itself for any revision numbers or specific part numbers. It's often important that the replacement board matches the gate operator brand and even the specific revision of your current board. Sometimes, subtle differences between versions mean a board might look similar but won't function correctly or integrate with your system's safety features. When you're sourcing a replacement, ask about programming support, whether it can handle your gate's force limits, and if your remote codes can be easily set. A good supplier or technician should also be able to verify the new board works correctly under load after installation. Don't risk a costly mistake; if you're unsure, it's always best to get expert help to ensure you get the right part. Frasheski Construction helps clients in Berkeley, Oakland, and the East Bay with these exact challenges.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Identify the Right Replacement Board for Your Gate Operator"
+}

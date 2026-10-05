@@ -1,0 +1,86 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Paint Job Goes Wrong: Mistakes to Avoid",
+  "publisher": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Even seemingly straightforward paint and finish work can go awry if you’re not careful. One common mistake is having a vague scope for your project. You might assume certain prep work, like patching holes or sanding, is included when it isn't, leading to unexpected costs or delays. Always get a clear, detailed written estimate that spells out exactly what surfaces are being painted, how many coats will be applied, and what level of surface preparation is included. Another big one is not asking about warranties or insurance. What happens if there's a problem down the line, or if someone gets hurt on your property? Make sure your contractor is licensed and insured, and ask about their warranty for the work. And don't forget to ask who will actually be doing the work! Sometimes the person you hire isn't the person doing the painting, and that can impact quality. Finally, never assume cleanup is part of the deal. Confirm that they’ll protect your furniture and floors and leave your space tidy. If you're feeling overwhelmed, a professional can help you navigate these details and ensure a smooth process.",
+  "datePublished": "2026-08-08"
+}

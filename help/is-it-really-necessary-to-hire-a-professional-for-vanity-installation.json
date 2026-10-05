@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is it really necessary to hire a professional for vanity installation?",
+    "text": "Is it really necessary to hire a professional for vanity installation?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You might be wondering if you can handle that new bathroom vanity installation yourself, and for some straightforward replacements, you definitely can! If your new vanity is pretty much a carbon copy of the old one and the plumbing lines up perfectly, a DIY approach could work. But here’s the thing: once you start getting into moving plumbing, changing electrical outlets, or installing a cool new wall-mounted unit, that’s when things can get complicated. These types of projects require precise fitment, careful leveling, and an understanding of how everything connects safely. An incorrect installation can lead to leaks, electrical hazards, or a vanity that just doesn’t sit right, which nobody wants. We’ve seen it all, and honestly, for anything beyond a simple swap, having a qualified professional step in can save you a lot of headaches, time, and potentially costly fixes down the road. We’re here in the East Bay to make sure your bathroom remodel is done right and looks fantastic.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

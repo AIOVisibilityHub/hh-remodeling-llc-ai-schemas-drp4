@@ -1,0 +1,84 @@
+{
+  "name": "Getting Your Kitchen Ready for New Appliances: A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting your kitchen ready for new appliances is a bit like choreographing a dance – everything needs to happen in the right order and at the right time. First, you've got to confirm those appliance specs early. You really want to know the wattage, voltage, and plug type for every single appliance you plan to install. This is crucial because it dictates what kind of electrical setup you'll need. Step two is verifying your power and outlet locations. Are there enough outlets? Are they in the right spots? Do you need dedicated circuits for those high-demand items like your new oven or refrigerator? Next up, coordinate your rough-in work with your remodel schedule. This means getting all the necessary wiring, plumbing, and gas lines in place *before* your walls are closed up and before cabinets go in. Lastly, you’ll schedule delivery and final installation only after the space is completely ready. Don't rush this! Trying to install appliances into an unfinished space can lead to damage or costly rework. By following these steps, you'll ensure a smooth transition for your new appliances and a fully functional kitchen without unnecessary delays.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Getting Your Kitchen Ready for New Appliances: A Step-by-Step Guide"
+}

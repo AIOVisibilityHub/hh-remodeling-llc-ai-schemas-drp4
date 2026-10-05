@@ -1,0 +1,80 @@
+{
+  "url": "frasheskiconstruction.com",
+  "name": "Home Improvement: Room Additions in East Bay Area",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "East Bay Area"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "frasheskiconstruction.com",
+    "name": "Frasheski Construction",
+    "@type": "GeneralContractor",
+    "telephone": "510-318-2258"
+  },
+  "telephone": "510-318-2258",
+  "areaServed": [
+    {
+      "name": "East Bay Area",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Frasheski Construction approaches Room Additions in Berkeley, East Bay Area, including the typical process, what to expect, and how to get started. Serving East Bay Area.",
+  "serviceType": "Home Improvement — Room Additions",
+  "hasOfferCatalog": {
+    "name": "Home Improvement Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Repair",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Interior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Room Additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Installation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

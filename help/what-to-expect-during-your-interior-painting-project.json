@@ -1,0 +1,84 @@
+{
+  "name": "What to Expect During Your Interior Painting Project",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting your home painted should be an exciting transformation, not a headache! Here's a quick rundown of what you can expect when you work with pros like us for your paint and finish work in the East Bay Area. First up, we'll confirm the exact areas you want painted and discuss any specific finishes or colors you have in mind. Then comes the crucial surface preparation, which might include cleaning, sanding, filling any small holes or cracks, caulking, and priming to get everything just right for that smooth finish. We'll also take great care to protect your floors and furniture, so you don't have to worry about errant drips. After all that, we'll apply the specified coats and finish, making sure it’s even and beautiful. Throughout the process, we'll keep you in the loop on how things are progressing and address any questions you have. Finally, we'll restore your space, leaving it clean and ready for you to enjoy. If you're looking for a hassle-free painting experience in Berkeley, Oakland, or anywhere in the East Bay, let's chat about your project!",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Expect During Your Interior Painting Project"
+}

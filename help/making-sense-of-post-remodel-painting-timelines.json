@@ -1,0 +1,84 @@
+{
+  "name": "Making Sense of Post-Remodel Painting Timelines",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Navigating the timeline for post-remodel painting can feel a bit like a puzzle, but once you know the pieces, it's pretty straightforward. First things first, all the heavy-duty structural and mechanical work needs to be complete. Then comes the crucial step of letting new drywall or plaster truly cure. This isn't a step you want to rush, as it impacts the final paint adhesion. After that, a thorough cleaning to get rid of all construction dust is essential – seriously, don't skip this! Once surfaces are clean and dry, you'll apply primer where it's needed, especially on new surfaces. Then it’s time for the finish coats and any touch-ups. Keep in mind that latex paints often need about 2–4 hours between coats, but factors like humidity and airflow in places like Berkeley or Oakland can extend that. You might even need to allow 24–48 hours after your sanding, cleaning, and priming before that first coat of paint goes on. If you're dealing with a large project or complex surfaces, a professional can really help keep things on track and ensure those crucial drying times are respected.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Making Sense of Post-Remodel Painting Timelines"
+}

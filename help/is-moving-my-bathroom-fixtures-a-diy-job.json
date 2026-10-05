@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Moving My Bathroom Fixtures a DIY Job?",
+    "text": "Is Moving My Bathroom Fixtures a DIY Job?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Deciding whether to tackle moving bathroom fixtures yourself is a big question, and honestly, it's often best left to the pros. When you start moving things around, you're not just dealing with pipes; you're getting into drain and vent layouts, which are critical for proper function and code compliance. Improper slopes or inadequate venting can lead to major headaches like slow drains or even sewer gas issues. Plus, rough-in measurements for new locations have to be spot-on, because even a small error can mean your new tub or toilet won't fit or connect correctly. All this kind of work typically requires permits and inspections from your local municipality in places like Berkeley and across the East Bay. Without the right permits and a professional sign-off, you could face problems down the line, including costly demolition and rework. If you're thinking about changing fixture locations, it's a clear signal that professional help is important. We can ensure everything is done correctly, to code, and without any nasty surprises, giving you peace of mind and a perfectly functioning new bathroom.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

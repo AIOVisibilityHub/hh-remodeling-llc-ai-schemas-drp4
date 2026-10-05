@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Your New Light Fixture Too Heavy for the Box?",
+    "text": "Is Your New Light Fixture Too Heavy for the Box?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "So, you've found the perfect new light fixture, but before you get too excited about installing it, there's a crucial question to ask: can the existing electrical box actually support its weight? This is a common concern that many homeowners have, and for good reason! Installing a heavy fixture on an inadequately rated box can be a serious safety hazard. Another thing to consider is whether your new fixture is compatible with your current switch or dimmer. Not all fixtures play nicely with all controls, and you don't want to end up with flickering lights or non-functioning dimmers. Also, think about the location – does it need special clearance, or perhaps moisture-rated equipment, especially if it's going in a bathroom or other damp area? For instance, fixtures within three feet of a bathtub or shower need to be at least damp-rated according to electrical codes. If you're dealing with a heavy fixture, new circuit wiring, or anything in a bathroom zone, it's definitely a good idea to bring in a qualified professional. They can confirm everything is safe and up to code, ensuring your beautiful new fixture is installed correctly. Frasheski Construction has the experience to help with these considerations.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

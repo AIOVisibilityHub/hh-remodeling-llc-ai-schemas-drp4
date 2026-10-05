@@ -1,0 +1,91 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Berkeley",
+        "@type": "City"
+      },
+      {
+        "name": "East Bay ",
+        "@type": "City"
+      },
+      {
+        "name": "Oakland",
+        "@type": "City"
+      },
+      {
+        "name": "Albany",
+        "@type": "City"
+      },
+      {
+        "name": "El Cerrito",
+        "@type": "City"
+      },
+      {
+        "name": "Kensington",
+        "@type": "City"
+      },
+      {
+        "name": "Alameda",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      },
+      {
+        "name": "Sausalito",
+        "@type": "City"
+      },
+      {
+        "name": "Tiburon",
+        "@type": "City"
+      },
+      {
+        "name": "Mill Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Daly City",
+        "@type": "City"
+      },
+      {
+        "name": "Brisbane",
+        "@type": "City"
+      },
+      {
+        "name": "South San Francisco ",
+        "@type": "City"
+      },
+      {
+        "name": "East San Francisco area",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why Aren't My New Addition's Lights Working?",
+    "text": "Why Aren't My New Addition's Lights Working?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's super frustrating when you've just added a new space, and things aren't working as they should, especially with something as fundamental as your lighting. Often, when an addition's lights or outlets aren't functioning, it boils down to issues with the electrical panel's capacity or problems during the rough-in phase. New appliances or fixtures can draw more power than your existing panel can handle, leading to tripped breakers or non-functional outlets. Sometimes, wires might not be properly connected or routed during the initial electrical setup, or perhaps an inspection wasn't passed, halting the process.\n\nTo troubleshoot, first, check your circuit breakers to see if any have tripped. If they have, try resetting them. If it keeps tripping, you likely have an overload or a short. Another common culprit is simply forgetting to turn on a switch or a GFCI outlet needing to be reset. It's also worth thinking back to the rough-in stage – were there any red flags? Was the layout for outlets and switches well-defined from the start? \n\nUltimately, if you're not comfortable dealing with electrical issues yourself, it's always best to call in a professional. Especially in the East Bay Area, Frasheski Construction can step in to diagnose and fix these problems, ensuring your addition is safe and functional.",
+      "@type": "Answer",
+      "author": {
+        "name": "Frasheski Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

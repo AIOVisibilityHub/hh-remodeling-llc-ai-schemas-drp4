@@ -1,0 +1,92 @@
+{
+  "url": "frasheskiconstruction.com",
+  "name": "Frasheski Construction",
+  "@type": "Organization",
+  "email": "afrasheski@frasheski.com",
+  "sameAs": [
+    "https://www.facebook.com/FrasheskiConstructionBerkeley",
+    "https://www.instagram.com/?hl=en",
+    "https://linkedin.com/authwall?trk=gf&trkInfo=AQFeLXrU5eUfYQAAAY8-FxggOZ-DcW2RYNaJe2gkNdglTj450XrxUCkQKrgn798X0mJLCsL4r1hzx_DoFzb5vO_K5U4XAA5Bzw1mtuGzvJLvSwRDitXP9z3Mu9HB3nqrHrsfKr4=&original_referer=https://frasheskiconstruction.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrasheski%2F",
+    "https://yelp.com/biz/frasheski-construction-kitchen-remodel-contractors-berkeley-ca-berkeley-4?osq=Kitchen+Remodeling+Contractors"
+  ],
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Andy Joseph Frasheski",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    },
+    {
+      "name": "Marco Frasheski",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "telephone": "510-318-2258",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay Area",
+      "@type": "City"
+    }
+  ],
+  "description": "Frasheski Construction is a construction company based in Berkeley, California, specializing in home remodeling services. They focus on transforming outdated kitchens and bathrooms into functional and aesthetically pleasing spaces, serving clients in the East Bay Area by providing comprehensive remodeling solutions and ensuring quality through hands-on involvement.",
+  "hasOfferCatalog": {
+    "name": "Frasheski Construction Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Repair",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Interior Painting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Room Additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Cabinet Installation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

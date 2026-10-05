@@ -1,0 +1,84 @@
+{
+  "name": "How to Spot a Bad Cabinet Repair",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "When you're getting your cabinets repaired, you want to make sure the fix is going to last and not just cover up a bigger issue. There are definitely some warning signs that a repair might not be up to snuff. A big red flag is if the repair person only focuses on cosmetic issues without investigating the underlying cause of the damage. For example, simply patching a chipped finish without addressing why it chipped in the first place might mean the problem resurfaces quickly. Also, if they're trying to repair structural damage, like badly warped or water-damaged wood, with a quick fix, that’s a sign to be cautious. These issues often need more than just a surface-level repair; they might indicate it's time for a replacement. Another mistake is overlooking weak frames, sagging shelves, or broken hinges. These aren’t minor aesthetic problems; they point to deeper structural failure that a good repair should address. If the repair doesn’t fully restore function and appearance, or if the cabinet isn’t structurally sound afterward, you’ve likely got a bad repair on your hands. Always ensure your professional fully inspects the damage and confirms the cabinet's integrity after the work is done.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Spot a Bad Cabinet Repair"
+}
