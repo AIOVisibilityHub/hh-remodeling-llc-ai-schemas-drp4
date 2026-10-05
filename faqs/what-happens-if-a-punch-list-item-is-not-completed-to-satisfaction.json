@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-happens-if-a-punch-list-item-is-not-completed-to-satisfaction",
+  "name": "What happens if a punch list item is not completed to satisfaction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a punch list item is not completed to satisfaction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a punch list item is not completed to satisfaction, it typically remains on the list and may impact final payment to the contractor until properly addressed. Open communication is key to resolving such issues. Frasheski Construction maintains a transparent process; if a client is not satisfied with a completed item, we reassess and work diligently to rectify it. Our aim is always to achieve mutual agreement and ensure every detail meets or exceeds the project's contractual requirements and your expectations.",
+        "@type": "Answer",
+        "description": "Unsatisfied punch list items typically remain open and can affect final payment until rectified, requiring open communication and diligent resolution."
+      }
+    }
+  ],
+  "description": "Unsatisfied punch list items typically remain open and can affect final payment until rectified, requiring open communication and diligent resolution."
+}

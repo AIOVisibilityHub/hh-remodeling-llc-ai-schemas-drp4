@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-handle-changes-to-the-project-scope-that-might-impact-trade-schedulin",
+  "name": "How do you handle changes to the project scope that might impact trade scheduling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle changes to the project scope that might impact trade scheduling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Changes to the project scope are managed through a formal change order process, which includes assessing the impact on the existing trade schedule. We will communicate any necessary adjustments to timelines, costs, and material needs resulting from the changes. It's important to understand that significant scope changes can require rescheduling trades, potentially affecting the overall project timeline and budget due to new material orders or availability.",
+        "@type": "Answer",
+        "description": "Scope changes are handled via a formal change order process that assesses impacts on the schedule, costs, and materials. Significant changes may require trade rescheduling."
+      }
+    }
+  ],
+  "description": "Scope changes are handled via a formal change order process that assesses impacts on the schedule, costs, and materials. Significant changes may require trade r"
+}

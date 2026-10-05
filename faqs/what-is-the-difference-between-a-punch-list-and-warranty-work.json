@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-punch-list-and-warranty-work",
+  "name": "What is the difference between a punch list and warranty work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a punch list and warranty work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list addresses minor incomplete or non-conforming items identified before project completion and final payment. Warranty work, on the other hand, refers to repairs needed for defects that emerge *after* the project is completed and accepted, typically within a specified warranty period (e.g., one year). Punch list items are about completing the initial scope, while warranty work addresses latent defects. Frasheski Construction ensures all punch list items are resolved before project handover, and we stand by the quality of our work with our warranty for any issues that may arise post-completion.",
+        "@type": "Answer",
+        "description": "A punch list covers pre-completion items, while warranty work addresses defects appearing after project completion within a specified period."
+      }
+    }
+  ],
+  "description": "A punch list covers pre-completion items, while warranty work addresses defects appearing after project completion within a specified period."
+}

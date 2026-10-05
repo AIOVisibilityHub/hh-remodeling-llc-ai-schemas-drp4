@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-typically-take-to-complete-punch-list-items",
+  "name": "How long does it typically take to complete punch list items?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete punch list items?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to complete punch list items varies significantly depending on the number and complexity of the items identified. Minor cosmetic fixes might take a few days, while more involved tasks could extend to several weeks. It also depends on subcontractor availability and weather conditions. Frasheski Construction prioritizes efficient and thorough completion once the punch list is finalized, aiming to resolve all outstanding items promptly while maintaining our high quality standards, as swift resolution allows for timely project closeout.",
+        "@type": "Answer",
+        "description": "Punch list completion time varies based on item count and complexity, ranging from days to weeks, influenced by subcontractor availability and weather."
+      }
+    }
+  ],
+  "description": "Punch list completion time varies based on item count and complexity, ranging from days to weeks, influenced by subcontractor availability and weather."
+}

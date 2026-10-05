@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-punch-list-and-a-final-quality-walkthrough",
+  "name": "What is the difference between a punch list and a final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a punch list and a final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final quality walkthrough is the formal inspection where the punch list is created. The walkthrough is the event itself, while the punch list is the document generated during or immediately after, detailing all items needing correction or completion before final acceptance. The walkthrough’s purpose is to systematically identify these items. Frasheski Construction uses this distinction to clearly separate the inspection event from the action items it produces.",
+        "@type": "Answer",
+        "description": "The final quality walkthrough is the inspection event where a punch list, a document detailing items needing correction, is created."
+      }
+    }
+  ],
+  "description": "The final quality walkthrough is the inspection event where a punch list, a document detailing items needing correction, is created."
+}

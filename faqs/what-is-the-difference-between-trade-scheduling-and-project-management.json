@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-trade-scheduling-and-project-management",
+  "name": "What is the difference between trade scheduling and project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between trade scheduling and project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trade scheduling is a component of overall project management. Project management encompasses the entire process from planning and execution to closing, including budgeting, risk management, and client communication. Trade scheduling specifically focuses on the detailed timing and coordination of individual contractors and their tasks within the broader project framework. Effective project management ensures trade scheduling integrates seamlessly into the larger construction effort.",
+        "@type": "Answer",
+        "description": "Trade scheduling is the detailed timing and coordination of contractors, while project management is the overarching process of planning, executing, and closing a project. Scheduling is a key part of management."
+      }
+    }
+  ],
+  "description": "Trade scheduling is the detailed timing and coordination of contractors, while project management is the overarching process of planning, executing, and closing"
+}

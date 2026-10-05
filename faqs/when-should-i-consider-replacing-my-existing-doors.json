@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-existing-doors",
+  "name": "When should I consider replacing my existing doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your doors if they are visibly damaged, difficult to open or close, allowing drafts, or show signs of wear and tear that compromise security or energy efficiency. Upgrading doors can also significantly enhance your home's curb appeal and energy performance. We can help you assess if repair or replacement is the most cost-effective and beneficial solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Replace doors if they are damaged, difficult to operate, drafty, or affect security/energy efficiency. Upgrading can also boost curb appeal. We help assess repair vs. replacement."
+      }
+    }
+  ],
+  "description": "Replace doors if they are damaged, difficult to operate, drafty, or affect security/energy efficiency. Upgrading can also boost curb appeal. We help assess repa"
+}

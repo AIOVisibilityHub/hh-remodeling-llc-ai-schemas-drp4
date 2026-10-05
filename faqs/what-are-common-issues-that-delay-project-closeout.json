@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-issues-that-delay-project-closeout",
+  "name": "What are common issues that delay project closeout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues that delay project closeout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues that can delay project closeout include extended punch list negotiations, delays in final inspections by city officials, or waiting for critical warranty documentation from manufacturers. To mitigate these, Frasheski Construction maintains clear communication regarding punch list items and proactively schedules inspections. Unforeseen permitting complexities, especially in diverse jurisdictions like Tiburon or Mill Valley, can sometimes impact the final timeline.",
+        "@type": "Answer",
+        "description": "Delays can result from punch list disagreements, slow inspections, or missing documentation; clear communication helps mitigate these."
+      }
+    }
+  ],
+  "description": "Delays can result from punch list disagreements, slow inspections, or missing documentation; clear communication helps mitigate these."
+}

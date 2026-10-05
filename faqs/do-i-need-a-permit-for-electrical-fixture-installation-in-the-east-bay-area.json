@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-electrical-fixture-installation-in-the-east-bay-area",
+  "name": "Do I need a permit for electrical fixture installation in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for electrical fixture installation in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for electrical fixture installation in the East Bay, including Berkeley, Oakland, and Albany, depends on the scope of the work. Simple fixture replacements typically do not require a permit. However, if the installation involves altering existing circuits, adding new circuits, or upgrading your electrical panel, a permit from your local building department is usually necessary. Frasheski Construction can help determine if your project requires a permit and guide you through the process to ensure compliance with local codes.",
+        "@type": "Answer",
+        "description": "Permits are usually needed in the East Bay for electrical work involving new circuits, altered circuits, or panel upgrades, but not for simple fixture replacements."
+      }
+    }
+  ],
+  "description": "Permits are usually needed in the East Bay for electrical work involving new circuits, altered circuits, or panel upgrades, but not for simple fixture replaceme"
+}

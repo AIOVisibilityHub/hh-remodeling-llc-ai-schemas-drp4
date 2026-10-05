@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-final-quality-walkthrough-usually-take",
+  "name": "How long does a final quality walkthrough usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a final quality walkthrough usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a final quality walkthrough can vary significantly based on the project's size and complexity. For a smaller renovation, it might take an hour or two, while a large custom home or commercial project could require several hours or even a full day. Frasheski Construction allocates sufficient time based on the project scope to ensure no detail is overlooked and all client questions are addressed thoroughly.",
+        "@type": "Answer",
+        "description": "The duration varies by project size, from an hour for small renovations to several hours for larger projects, to ensure all details are covered."
+      }
+    }
+  ],
+  "description": "The duration varies by project size, from an hour for small renovations to several hours for larger projects, to ensure all details are covered."
+}

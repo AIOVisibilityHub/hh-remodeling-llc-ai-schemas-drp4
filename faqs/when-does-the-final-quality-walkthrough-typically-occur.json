@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-does-the-final-quality-walkthrough-typically-occur",
+  "name": "When does the final quality walkthrough typically occur?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does the final quality walkthrough typically occur?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final quality walkthrough typically occurs once all construction work is substantially complete, usually a few days to a week before the official project handover. It's scheduled when only minor finishing touches or punch list items remain. For Frasheski Construction, we aim to schedule this at a point where the client can clearly visualize the completed project and provide feedback on any final details before occupancy.",
+        "@type": "Answer",
+        "description": "The walkthrough occurs when construction is substantially complete, often a few days before project handover, to address any remaining details."
+      }
+    }
+  ],
+  "description": "The walkthrough occurs when construction is substantially complete, often a few days before project handover, to address any remaining details."
+}

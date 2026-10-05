@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-does-trade-sequencing-impact-the-overall-cost-of-my-construction-project",
+  "name": "How does trade sequencing impact the overall cost of my construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does trade sequencing impact the overall cost of my construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Efficient trade sequencing can significantly impact project costs by minimizing idle time for trades, reducing the need for rework, and accelerating project completion. Poor sequencing can lead to delays, additional labor costs, and potential conflicts that require expensive solutions. Our goal is to create a sequence that optimizes resource allocation and keeps the project moving smoothly, ultimately contributing to cost efficiency.",
+        "@type": "Answer",
+        "description": "Efficient trade sequencing reduces costs by minimizing idle time and rework, and accelerating completion. Poor sequencing can lead to delays and added expenses."
+      }
+    }
+  ],
+  "description": "Efficient trade sequencing reduces costs by minimizing idle time and rework, and accelerating completion. Poor sequencing can lead to delays and added expenses."
+}

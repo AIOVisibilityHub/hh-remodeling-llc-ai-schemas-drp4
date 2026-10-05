@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-door-installation-take",
+  "name": "How long does a typical door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door installation varies based on the door type, existing frame condition, and any required modifications. A standard pre-hung interior door might take a few hours, while an exterior door with complex hardware or a custom frame adjustment could take a full day or more. Factors like the age of your property, especially in areas like Berkeley or Oakland, can influence the complexity due to differing construction standards.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for standard interior doors to a full day or more for complex exterior or custom doors, depending on the specifics of the project and existing frame conditions."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for standard interior doors to a full day or more for complex exterior or custom doors, depending on the specifics of"
+}

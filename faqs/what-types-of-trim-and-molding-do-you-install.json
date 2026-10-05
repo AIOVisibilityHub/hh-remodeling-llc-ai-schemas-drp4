@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-trim-and-molding-do-you-install",
+  "name": "What types of trim and molding do you install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim and molding do you install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction installs a wide range of trim and molding, including baseboards, crown molding, door and window casings, chair rails, picture rails, and custom panel molding. We work with various materials such as MDF, pine, oak, and other hardwoods, depending on your aesthetic preferences and budget. Our expertise covers both traditional and contemporary styles to match the unique character of homes throughout the East Bay.",
+        "@type": "Answer",
+        "description": "We install baseboards, crown molding, door/window casings, chair rails, and custom panel molding in various materials like MDF, pine, and hardwoods."
+      }
+    }
+  ],
+  "description": "We install baseboards, crown molding, door/window casings, chair rails, and custom panel molding in various materials like MDF, pine, and hardwoods."
+}

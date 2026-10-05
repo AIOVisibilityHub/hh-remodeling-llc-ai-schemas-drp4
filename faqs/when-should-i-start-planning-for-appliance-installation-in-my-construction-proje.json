@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-start-planning-for-appliance-installation-in-my-construction-proje",
+  "name": "When should I start planning for appliance installation in my construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for appliance installation in my construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should start planning for appliance installation early in your project's design phase. This allows for proper integration of utility requirements (electrical, plumbing, venting) and cabinet dimensions. Early planning helps avoid costly modifications later and ensures that your chosen appliances fit both physically and functionally into the space. We recommend discussing appliance choices and delivery timelines during the initial project consultation.",
+        "@type": "Answer",
+        "description": "Begin planning for appliance installation during the early design phase of your construction project to ensure proper utility integration and fit, avoiding costly later modifications."
+      }
+    }
+  ],
+  "description": "Begin planning for appliance installation during the early design phase of your construction project to ensure proper utility integration and fit, avoiding cost"
+}

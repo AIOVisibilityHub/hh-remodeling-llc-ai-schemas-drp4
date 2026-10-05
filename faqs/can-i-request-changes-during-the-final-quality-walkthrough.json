@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-request-changes-during-the-final-quality-walkthrough",
+  "name": "Can I request changes during the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I request changes during the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final quality walkthrough is primarily for identifying deficiencies against the agreed-upon plans and specifications, not for initiating new changes or additions to the scope of work. While minor adjustments for quality improvement might be considered, significant changes would typically be handled as a separate change order, potentially impacting the project schedule and cost. Frasheski Construction focuses the walkthrough on verifying completion according to the established contract.",
+        "@type": "Answer",
+        "description": "The walkthrough is for identifying deficiencies against existing plans, not for requesting new changes; significant changes would be separate change orders."
+      }
+    }
+  ],
+  "description": "The walkthrough is for identifying deficiencies against existing plans, not for requesting new changes; significant changes would be separate change orders."
+}

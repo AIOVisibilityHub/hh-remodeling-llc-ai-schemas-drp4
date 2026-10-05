@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-provide-for-fixture-coordination",
+  "name": "What information do I need to provide for fixture coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for fixture coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure effective fixture coordination, you should provide detailed specifications for each fixture, including product names, model numbers, dimensions, and any specific installation requirements. For custom items, include drawings or design schematics. Gathering this information early allows Frasheski Construction to verify compatibility with structural elements and utility connections, ensuring all components fit together as planned. This preparation helps prevent errors and ensures a smooth installation.",
+        "@type": "Answer",
+        "description": "Provide detailed specifications, model numbers, dimensions, and installation requirements for all fixtures to ensure compatibility and smooth installation."
+      }
+    }
+  ],
+  "description": "Provide detailed specifications, model numbers, dimensions, and installation requirements for all fixtures to ensure compatibility and smooth installation."
+}

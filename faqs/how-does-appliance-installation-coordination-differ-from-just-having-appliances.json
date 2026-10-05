@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-does-appliance-installation-coordination-differ-from-just-having-appliances",
+  "name": "How does appliance installation coordination differ from just having appliances delivered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does appliance installation coordination differ from just having appliances delivered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance installation coordination goes beyond simple delivery by managing the entire integration process, including scheduling skilled tradespeople (plumbers, electricians, carpenters), ensuring utilities are prepped, and overseeing the actual installation. Delivery services typically only bring the appliance to your door. Coordination ensures that the appliances are properly unpacked, placed, connected, and tested, aligning with the construction timeline. This prevents delays and potential damage.",
+        "@type": "Answer",
+        "description": "Coordination manages the full integration process, including scheduling skilled trades and overseeing installation, while delivery only brings appliances to your site."
+      }
+    }
+  ],
+  "description": "Coordination manages the full integration process, including scheduling skilled trades and overseeing installation, while delivery only brings appliances to you"
+}

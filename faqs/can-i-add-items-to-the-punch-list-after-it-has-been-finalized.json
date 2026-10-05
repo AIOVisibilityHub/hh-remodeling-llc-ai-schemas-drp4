@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-add-items-to-the-punch-list-after-it-has-been-finalized",
+  "name": "Can I add items to the punch list after it has been finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add items to the punch list after it has been finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, once a punch list is formally signed off or considered finalized, adding new items can be challenging and may be considered new work or change orders. The intention of a punch list is to capture all remaining items at a specific point in time. It is important to thoroughly review the property during the initial walk-through. For Frasheski Construction, we encourage clients to be comprehensive during the initial walk-through in Berkeley, East Bay, or other service areas, as identifying all items upfront helps us manage the project timeline and resources efficiently.",
+        "@type": "Answer",
+        "description": "Adding items after a punch list is finalized is generally not possible and may be considered new work; thorough initial review is crucial."
+      }
+    }
+  ],
+  "description": "Adding items after a punch list is finalized is generally not possible and may be considered new work; thorough initial review is crucial."
+}

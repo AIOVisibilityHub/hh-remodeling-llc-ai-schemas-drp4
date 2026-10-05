@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-documentation-do-i-receive-during-project-closeout",
+  "name": "What documentation do I receive during project closeout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I receive during project closeout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During project closeout, you typically receive essential documentation such as product warranties, appliance manuals, lien waivers from subcontractors and suppliers, and copies of final permits or inspection certificates. Frasheski Construction ensures that all relevant project records, including any specific material specifications used in your East Bay project, are compiled and provided for your future reference and peace of mind.",
+        "@type": "Answer",
+        "description": "You receive product warranties, manuals, lien waivers, and final permits during project closeout."
+      }
+    }
+  ],
+  "description": "You receive product warranties, manuals, lien waivers, and final permits during project closeout."
+}

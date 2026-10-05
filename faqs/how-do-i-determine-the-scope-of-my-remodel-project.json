@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-determine-the-scope-of-my-remodel-project",
+  "name": "How do I determine the scope of my remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the scope of my remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining your remodel scope involves identifying what you want to change, its purpose, and your budget. Start by outlining your needs and wants, considering both functional improvements and aesthetic updates. We often guide clients through a detailed consultation to help clarify their vision and prioritize elements. This includes discussing potential challenges and opportunities, such as structural considerations or local permitting requirements in areas like Berkeley or Oakland, to ensure the scope is realistic and achievable.",
+        "@type": "Answer",
+        "description": "Determine your remodel scope by outlining needs, wants, purpose, and budget, often with a detailed consultation to prioritize elements."
+      }
+    }
+  ],
+  "description": "Determine your remodel scope by outlining needs, wants, purpose, and budget, often with a detailed consultation to prioritize elements."
+}

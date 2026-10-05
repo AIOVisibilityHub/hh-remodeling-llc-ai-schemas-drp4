@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-trim-and-molding",
+  "name": "What is the difference between trim and molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between trim and molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim generally refers to the framing around doors and windows (casings), and along the floor (baseboards). Molding is a broader term for decorative strips of material used to add architectural detail, which can include trim but also crown molding, chair rails, and panel molding. Both serve to cover gaps and provide a finished look, but molding often has more intricate profiles for aesthetic enhancement.",
+        "@type": "Answer",
+        "description": "Trim covers functional gaps around doors, windows, and floors. Molding is a broader term for decorative strips, including trim, used for architectural detail and aesthetic enhancement."
+      }
+    }
+  ],
+  "description": "Trim covers functional gaps around doors, windows, and floors. Molding is a broader term for decorative strips, including trim, used for architectural detail an"
+}

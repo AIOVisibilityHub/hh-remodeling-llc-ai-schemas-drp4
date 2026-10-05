@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-electrical-panel-during-fixture-installation",
+  "name": "When should I consider upgrading my electrical panel during fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my electrical panel during fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your electrical panel during fixture installation if your current panel is old, frequently trips circuit breakers, or cannot support the additional electrical load of new fixtures. Modern homes often require more power for appliances and extensive lighting, so an outdated panel might not be sufficient. An upgrade ensures your electrical system can safely handle the new demand, prevents potential hazards, and improves overall electrical efficiency. Our technicians can assess your current panel's capacity and advise if an upgrade is necessary for your project.",
+        "@type": "Answer",
+        "description": "Consider upgrading your electrical panel if it's old, trips often, or can't handle the load of new fixtures, ensuring safety and efficiency."
+      }
+    }
+  ],
+  "description": "Consider upgrading your electrical panel if it's old, trips often, or can't handle the load of new fixtures, ensuring safety and efficiency."
+}

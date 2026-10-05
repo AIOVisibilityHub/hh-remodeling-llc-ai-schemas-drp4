@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-should-be-present-during-the-final-quality-walkthrough",
+  "name": "Who should be present during the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who should be present during the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key individuals present during the final quality walkthrough should include the client or their authorized representative, the general contractor or project manager, and relevant subcontractors. Having all parties present facilitates immediate clarification and agreement on any identified issues. Frasheski Construction ensures our project manager is always present to provide detailed explanations and coordinate any necessary resolutions efficiently.",
+        "@type": "Answer",
+        "description": "The client, general contractor/project manager, and relevant subcontractors should be present to ensure all parties can clarify and agree on any identified issues."
+      }
+    }
+  ],
+  "description": "The client, general contractor/project manager, and relevant subcontractors should be present to ensure all parties can clarify and agree on any identified issu"
+}

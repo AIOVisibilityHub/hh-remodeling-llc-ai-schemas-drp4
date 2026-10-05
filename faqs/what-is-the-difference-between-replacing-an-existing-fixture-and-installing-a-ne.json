@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-replacing-an-existing-fixture-and-installing-a-ne",
+  "name": "What is the difference between replacing an existing fixture and installing a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between replacing an existing fixture and installing a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an existing fixture typically involves swapping out an old fixture for a new one in the same location, utilizing the existing wiring and electrical box. This is usually a straightforward process. Installing a new fixture, however, often requires running new electrical wiring, cutting into walls or ceilings to create a new electrical box, and potentially connecting to a new circuit in your electrical panel. The key practical tradeoff is that new installations involve more extensive labor and materials due to the need for new electrical infrastructure, impacting both time and cost.",
+        "@type": "Answer",
+        "description": "Replacing uses existing wiring; installing new requires running new wires and creating new electrical boxes, making it more complex and costly."
+      }
+    }
+  ],
+  "description": "Replacing uses existing wiring; installing new requires running new wires and creating new electrical boxes, making it more complex and costly."
+}

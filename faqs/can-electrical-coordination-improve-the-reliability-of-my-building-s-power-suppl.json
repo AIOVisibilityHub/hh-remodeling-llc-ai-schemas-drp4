@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-electrical-coordination-improve-the-reliability-of-my-building-s-power-suppl",
+  "name": "Can electrical coordination improve the reliability of my building's power supply?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can electrical coordination improve the reliability of my building's power supply?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, proper electrical coordination significantly improves power supply reliability. By ensuring that only the smallest possible section of the electrical system is de-energized during a fault, it prevents cascading outages that can affect an entire facility. This selective coordination is particularly vital for critical infrastructure and businesses in San Francisco and surrounding areas where consistent power is paramount for operations and safety.",
+        "@type": "Answer",
+        "description": "Yes, it improves reliability by isolating faults to the smallest possible section, preventing widespread outages and ensuring consistent power."
+      }
+    }
+  ],
+  "description": "Yes, it improves reliability by isolating faults to the smallest possible section, preventing widespread outages and ensuring consistent power."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-be-present-during-appliance-installation-in-my-berkeley-home",
+  "name": "Do I need to be present during appliance installation in my Berkeley home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during appliance installation in my Berkeley home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be present for the entire appliance installation in your Berkeley home, it can be beneficial for making on-the-spot decisions or answering questions if unforeseen issues arise. If you cannot be present, we ensure that a project manager or a trusted team member is on site to oversee the process and communicate any developments to you. Your presence is mostly a matter of personal preference and availability.",
+        "@type": "Answer",
+        "description": "You are not strictly required to be present during appliance installation, though it can be beneficial for on-the-spot decisions; a project manager will oversee the process."
+      }
+    }
+  ],
+  "description": "You are not strictly required to be present during appliance installation, though it can be beneficial for on-the-spot decisions; a project manager will oversee"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-purchase-the-door-and-hardware-before-frasheski-construction-starts",
+  "name": "Do I need to purchase the door and hardware before Frasheski Construction starts the installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase the door and hardware before Frasheski Construction starts the installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can either provide the door and hardware yourself or we can assist you with procurement. If you plan to supply them, it's essential they meet the specifications and dimensions agreed upon. We recommend discussing your selections with us beforehand to ensure compatibility and suitability for the installation, which can prevent delays and ensure a smooth process.",
+        "@type": "Answer",
+        "description": "You can provide the door and hardware, or Frasheski Construction can assist with procurement. Discuss your selections with us in advance to ensure compatibility and avoid delays."
+      }
+    }
+  ],
+  "description": "You can provide the door and hardware, or Frasheski Construction can assist with procurement. Discuss your selections with us in advance to ensure compatibility"
+}

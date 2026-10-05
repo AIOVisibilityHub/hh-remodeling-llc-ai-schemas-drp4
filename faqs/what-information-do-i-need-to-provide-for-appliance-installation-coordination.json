@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-information-do-i-need-to-provide-for-appliance-installation-coordination",
+  "name": "What information do I need to provide for appliance installation coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for appliance installation coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively coordinate appliance installation, you will need to provide appliance specifications, model numbers, delivery dates, and any special utility requirements (e.g., gas lines, 220V electrical outlets, specific water lines). Accurate dimensions and rough-in measurements are crucial for ensuring a seamless fit. This preparation helps us schedule the right technicians and ensures the site is ready for installation when the appliances arrive.",
+        "@type": "Answer",
+        "description": "Provide appliance specifications, model numbers, delivery dates, and utility requirements to facilitate effective installation coordination and ensure site readiness."
+      }
+    }
+  ],
+  "description": "Provide appliance specifications, model numbers, delivery dates, and utility requirements to facilitate effective installation coordination and ensure site read"
+}
