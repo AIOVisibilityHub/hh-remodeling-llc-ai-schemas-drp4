@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-empty-my-cabinets-before-a-repair-service",
+  "name": "Do I need to empty my cabinets before a repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my cabinets before a repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally recommended to empty the cabinets and clear the surrounding area before our repair service. This provides our team with clear access to the work area, ensures the safety of your belongings, and streamlines the repair process, allowing us to complete the work more efficiently. Removing contents prevents dust or debris from settling on your items and protects them from accidental damage during the repair.",
+        "@type": "Answer",
+        "description": "Yes, empty your cabinets and clear the surrounding area before repair to ensure clear access, protect belongings, and streamline the process."
+      }
+    }
+  ],
+  "description": "Yes, empty your cabinets and clear the surrounding area before repair to ensure clear access, protect belongings, and streamline the process."
+}

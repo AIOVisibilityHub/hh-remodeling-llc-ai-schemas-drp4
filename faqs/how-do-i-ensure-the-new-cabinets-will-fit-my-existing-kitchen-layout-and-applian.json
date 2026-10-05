@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-ensure-the-new-cabinets-will-fit-my-existing-kitchen-layout-and-applian",
+  "name": "How do I ensure the new cabinets will fit my existing kitchen layout and appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the new cabinets will fit my existing kitchen layout and appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure new cabinets fit your existing kitchen layout and appliances, precise measurements are critical. We conduct thorough on-site measurements of your kitchen space, including wall dimensions, window and door placements, and appliance clearances. It's important to provide exact appliance specifications, such as refrigerator height and depth or dishwasher width, during the design phase. We also consider existing plumbing and electrical outlets to integrate new cabinets seamlessly and ensure proper function without obstruction.",
+        "@type": "Answer",
+        "description": "We take precise on-site measurements of your kitchen, including appliances, and consider existing plumbing and electrical to ensure new cabinets fit seamlessly."
+      }
+    }
+  ],
+  "description": "We take precise on-site measurements of your kitchen, including appliances, and consider existing plumbing and electrical to ensure new cabinets fit seamlessly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-do-you-use-for-interior-projects-and-are-they-low-voc-options",
+  "name": "What kind of paint do you use for interior projects, and are they low-VOC options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior projects, and are they low-VOC options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality paints from reputable brands known for their durability and excellent finish. We offer a range of options, including low-VOC (Volatile Organic Compound) paints. Low-VOC paints are a popular choice as they emit fewer harmful chemicals into the air, contributing to better indoor air quality and a safer environment for occupants, which is particularly beneficial for families and individuals with sensitivities. We can discuss specific low-VOC options during our consultation to align with your health and environmental preferences.",
+        "@type": "Answer",
+        "description": "We use high-quality, durable paints and offer low-VOC options, which provide better indoor air quality and are beneficial for health and the environment."
+      }
+    }
+  ],
+  "description": "We use high-quality, durable paints and offer low-VOC options, which provide better indoor air quality and are beneficial for health and the environment."
+}

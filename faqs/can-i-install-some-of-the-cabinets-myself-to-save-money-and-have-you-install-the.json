@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-some-of-the-cabinets-myself-to-save-money-and-have-you-install-the",
+  "name": "Can I install some of the cabinets myself to save money, and have you install the rest?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install some of the cabinets myself to save money, and have you install the rest?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a way to save costs, we generally do not recommend or offer partial cabinet installation services where the client installs some units themselves. Cabinet installation requires precision leveling, structural securing, and careful alignment of all components to ensure proper function and a professional finish. Errors in DIY installation of even a few cabinets can lead to alignment issues for subsequent units, potentially causing more significant problems and increasing overall costs to correct. For the best outcome, we advise professional installation for all units.",
+        "@type": "Answer",
+        "description": "We generally do not recommend partial DIY cabinet installation, as precise leveling and alignment are crucial for proper function and a professional finish across all units."
+      }
+    }
+  ],
+  "description": "We generally do not recommend partial DIY cabinet installation, as precise leveling and alignment are crucial for proper function and a professional finish acro"
+}

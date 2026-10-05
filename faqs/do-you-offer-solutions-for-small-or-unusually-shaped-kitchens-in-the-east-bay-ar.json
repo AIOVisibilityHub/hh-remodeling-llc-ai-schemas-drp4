@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-solutions-for-small-or-unusually-shaped-kitchens-in-the-east-bay-ar",
+  "name": "Do you offer solutions for small or unusually shaped kitchens in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer solutions for small or unusually shaped kitchens in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction specializes in creating custom cabinet solutions that maximize space and functionality, particularly for small or unusually shaped kitchens. Our design team can develop innovative layouts and custom-sized cabinetry to utilize every available inch efficiently. We understand the unique architectural challenges sometimes found in East Bay homes, and our tailored approach ensures that even the most challenging spaces receive beautiful and practical cabinetry designed specifically for your needs.",
+        "@type": "Answer",
+        "description": "Yes, we offer custom cabinet solutions for small or unusually shaped kitchens, especially in the East Bay, maximizing space and functionality."
+      }
+    }
+  ],
+  "description": "Yes, we offer custom cabinet solutions for small or unusually shaped kitchens, especially in the East Bay, maximizing space and functionality."
+}

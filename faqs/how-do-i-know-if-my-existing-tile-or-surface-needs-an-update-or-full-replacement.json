@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-existing-tile-or-surface-needs-an-update-or-full-replacement",
+  "name": "How do I know if my existing tile or surface needs an update or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing tile or surface needs an update or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider an update if your surfaces show minor wear like small cracks, discoloration, or outdated styles, which can often be refreshed with regrouting, resurfacing, or replacing only specific areas. Full replacement is generally needed for extensive damage such as widespread cracking, water damage beneath the surface, or significant structural issues. Our team can assess the condition during an initial consultation to help you determine the most appropriate course of action, balancing cost and longevity.",
+        "@type": "Answer",
+        "description": "Assess minor wear for updates, widespread damage for replacement. A consultation can help determine the best approach based on condition and desired outcome."
+      }
+    }
+  ],
+  "description": "Assess minor wear for updates, widespread damage for replacement. A consultation can help determine the best approach based on condition and desired outcome."
+}

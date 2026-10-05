@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-home-addition-and-a-remodel-and-which-is-right",
+  "name": "What is the difference between a home addition and a remodel, and which is right for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home addition and a remodel, and which is right for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home addition involves expanding the footprint of your home or adding a new story, creating entirely new space. A remodel, conversely, modifies existing space without increasing the overall square footage. Choosing between them depends on your needs; an addition provides more living area, while a remodel updates existing rooms. Frasheski Construction can help you evaluate if an addition, like expanding a kitchen or adding an ADU, or a remodel best meets your objectives for enhancing your home's functionality and value in the East Bay.",
+        "@type": "Answer",
+        "description": "An addition adds new space, while a remodel updates existing space. We help you decide which best meets your needs for functionality and value."
+      }
+    }
+  ],
+  "description": "An addition adds new space, while a remodel updates existing space. We help you decide which best meets your needs for functionality and value."
+}

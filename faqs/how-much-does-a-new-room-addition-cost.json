@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-a-new-room-addition-cost",
+  "name": "How much does a new room addition cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a new room addition cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new room addition depends on several factors, including its size, purpose, chosen materials, finishes, and the complexity of integrating it with your existing structure. Custom features, site preparation, and utility extensions will also affect the overall budget. While it's impossible to give an exact figure without a detailed plan, clients should consider their budget early on and discuss options for balancing desired outcomes with cost-effective solutions. We provide detailed estimates after an initial assessment.",
+        "@type": "Answer",
+        "description": "New room addition costs vary widely based on size, materials, complexity, and features; a detailed plan is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "New room addition costs vary widely based on size, materials, complexity, and features; a detailed plan is needed for an accurate estimate."
+}

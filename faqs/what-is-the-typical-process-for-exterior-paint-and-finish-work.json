@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-exterior-paint-and-finish-work",
+  "name": "What is the typical process for exterior paint and finish work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior paint and finish work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior paint and finish work process typically starts with a thorough cleaning of surfaces to remove dirt, mildew, and loose paint. This is followed by necessary repairs such as patching cracks, replacing damaged wood, and sanding to ensure a smooth base. Priming is then applied to promote paint adhesion and durability, especially on new or exposed surfaces. Finally, two coats of high-quality exterior paint are applied for a lasting finish. The specific sequence can vary depending on the existing condition of your home's exterior.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, repairing, priming, and applying two coats of paint. Surface conditions can influence the exact steps."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, repairing, priming, and applying two coats of paint. Surface conditions can influence the exact steps."
+}

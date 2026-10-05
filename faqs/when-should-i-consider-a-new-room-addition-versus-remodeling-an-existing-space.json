@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-a-new-room-addition-versus-remodeling-an-existing-space",
+  "name": "When should I consider a new room addition versus remodeling an existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a new room addition versus remodeling an existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a new room addition when your current space cannot accommodate your needs, or you require significantly more square footage that a remodel can't provide. This is ideal for adding bedrooms, larger living areas, or specialized rooms like a home office or gym. Remodeling is better suited for updating aesthetics or improving the functionality of an existing footprint. A key decision factor is often whether your property has sufficient available land and zoning allowance for expansion.",
+        "@type": "Answer",
+        "description": "Choose a new room addition for significant space needs or new functional areas; remodeling works for updating existing footprints."
+      }
+    }
+  ],
+  "description": "Choose a new room addition for significant space needs or new functional areas; remodeling works for updating existing footprints."
+}

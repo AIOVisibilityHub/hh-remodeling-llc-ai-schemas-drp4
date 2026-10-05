@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-handle-custom-tile-work-such-as-mosaics-or-intricate-patterns",
+  "name": "Do you handle custom tile work, such as mosaics or intricate patterns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle custom tile work, such as mosaics or intricate patterns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have experience with custom tile work, including the precise installation of mosaics, intricate patterns, and unique designs. Our skilled craftsmen pay close attention to detail, ensuring that complex layouts are executed flawlessly. When planning such a project, providing clear design specifications or collaborating with our team early on is helpful to ensure all materials are ordered correctly and the installation process is smooth.",
+        "@type": "Answer",
+        "description": "Yes, we handle custom tile work like mosaics and intricate patterns. Providing clear design specifications helps ensure a smooth installation."
+      }
+    }
+  ],
+  "description": "Yes, we handle custom tile work like mosaics and intricate patterns. Providing clear design specifications helps ensure a smooth installation."
+}

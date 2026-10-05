@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-paint-are-best-for-a-new-home-addition",
+  "name": "What types of paint are best for a new home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of paint are best for a new home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best types of paint for a new home addition depend on the specific area and its intended use. For interior walls, durable latex paints with a matte or eggshell finish are popular for their washability and aesthetic appeal. High-traffic areas like hallways or kitchens might benefit from a satin or semi-gloss finish for increased durability and easier cleaning. Exterior additions require weather-resistant acrylic or latex paints designed for outdoor exposure. A practical tradeoff to consider is between paint durability and sheen: higher sheens are generally more durable and easier to clean but can highlight imperfections more readily.",
+        "@type": "Answer",
+        "description": "Durable latex paints are good for interior walls; satin or semi-gloss for high-traffic areas; weather-resistant acrylic/latex for exteriors."
+      }
+    }
+  ],
+  "description": "Durable latex paints are good for interior walls; satin or semi-gloss for high-traffic areas; weather-resistant acrylic/latex for exteriors."
+}

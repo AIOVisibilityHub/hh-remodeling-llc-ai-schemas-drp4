@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-walk-in-shower-and-a-zero-entry-shower",
+  "name": "What is the difference between a walk-in shower and a zero-entry shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a walk-in shower and a zero-entry shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower typically has a low curb or threshold that needs to be stepped over, albeit a smaller one than a traditional tub. A zero-entry shower, also known as a curbless shower, has no threshold at all, allowing for a completely seamless transition from the bathroom floor to the shower area. This design is ideal for wheelchair access or individuals with significant mobility limitations, offering maximum safety and ease of use. When deciding, consider the current and future mobility needs of the users to choose the most appropriate option.",
+        "@type": "Answer",
+        "description": "A walk-in shower has a low curb, while a zero-entry shower has no threshold for seamless access, ideal for wheelchairs."
+      }
+    }
+  ],
+  "description": "A walk-in shower has a low curb, while a zero-entry shower has no threshold for seamless access, ideal for wheelchairs."
+}

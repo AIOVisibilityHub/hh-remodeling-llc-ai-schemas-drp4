@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-do-before-a-plumber-arrives-for-a-service-call",
+  "name": "What should I do before a plumber arrives for a service call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives for a service call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, clearing the area around the affected fixture or pipe is helpful to allow easy access for inspection and work. If there's an active leak, turning off the water supply to that specific fixture or the main shut-off valve can prevent further damage. Documenting the issue with photos or notes, especially if it's intermittent, can also aid diagnosis. For Frasheski Construction, having your project details or a list of concerns ready can streamline our service in areas like San Francisco or Sausalito.",
+        "@type": "Answer",
+        "description": "Clear the work area, turn off the water supply if there's an active leak, and prepare notes or photos of the issue to help the plumber."
+      }
+    }
+  ],
+  "description": "Clear the work area, turn off the water supply if there's an active leak, and prepare notes or photos of the issue to help the plumber."
+}

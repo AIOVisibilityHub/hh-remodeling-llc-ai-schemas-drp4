@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-cabinet-services-does-frasheski-construction-offer",
+  "name": "What types of cabinet services does Frasheski Construction offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinet services does Frasheski Construction offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides comprehensive cabinet services, including custom cabinet design, fabrication, and installation for kitchens, bathrooms, and other areas of your home or business. We work with various materials and styles, from modern to traditional, to match your aesthetic preferences and functional needs. Our approach focuses on delivering high-quality, durable cabinetry that enhances the overall appeal and utility of your space, integrated seamlessly into your construction project.",
+        "@type": "Answer",
+        "description": "Frasheski Construction offers custom cabinet design, fabrication, and installation for kitchens, bathrooms, and other spaces."
+      }
+    }
+  ],
+  "description": "Frasheski Construction offers custom cabinet design, fabrication, and installation for kitchens, bathrooms, and other spaces."
+}

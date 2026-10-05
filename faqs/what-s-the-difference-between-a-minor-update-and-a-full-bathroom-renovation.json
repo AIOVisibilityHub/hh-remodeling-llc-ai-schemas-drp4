@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-minor-update-and-a-full-bathroom-renovation",
+  "name": "What's the difference between a minor update and a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor update and a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor update typically involves cosmetic changes such as painting, replacing fixtures (faucet, light), and possibly installing a new vanity or toilet without altering the layout. It's a cost-effective way to refresh the look. A full bathroom renovation, conversely, often includes changing the layout, moving plumbing or electrical lines, replacing bathtubs/showers, and installing new flooring. This approach offers a complete transformation but requires more time, planning, and investment. Your choice depends on your desired outcome and budget.",
+        "@type": "Answer",
+        "description": "Minor updates are cosmetic changes like painting and fixture replacement, while full renovations involve layout changes, moving utilities, and replacing major elements for a complete transformation."
+      }
+    }
+  ],
+  "description": "Minor updates are cosmetic changes like painting and fixture replacement, while full renovations involve layout changes, moving utilities, and replacing major e"
+}

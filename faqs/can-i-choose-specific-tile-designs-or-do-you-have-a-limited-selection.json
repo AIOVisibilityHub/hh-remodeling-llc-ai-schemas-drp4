@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-choose-specific-tile-designs-or-do-you-have-a-limited-selection",
+  "name": "Can I choose specific tile designs or do you have a limited selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose specific tile designs or do you have a limited selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We work with a wide array of tile suppliers, allowing you to choose from an extensive selection of materials, colors, patterns, and sizes. Whether you're looking for classic subway tiles, intricate mosaics, large format porcelain, or unique natural stone, we can source and install it. Our process involves helping clients select materials that fit their aesthetic preferences and functional requirements, ensuring the final result aligns with their vision.",
+        "@type": "Answer",
+        "description": "You can choose from a wide array of tile designs and materials. We help source options that match your aesthetic and functional needs."
+      }
+    }
+  ],
+  "description": "You can choose from a wide array of tile designs and materials. We help source options that match your aesthetic and functional needs."
+}

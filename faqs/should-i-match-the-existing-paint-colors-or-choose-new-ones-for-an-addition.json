@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-match-the-existing-paint-colors-or-choose-new-ones-for-an-addition",
+  "name": "Should I match the existing paint colors or choose new ones for an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I match the existing paint colors or choose new ones for an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to match existing paint colors or choose new ones for an addition depends on your overall design goals and the flow you want to create within your home. Matching existing colors ensures a seamless transition and can make the addition feel like an original part of the house. Choosing new colors allows you to define a distinct space or update your home's palette. When making this decision, consider how the new colors will interact with existing furnishings and natural light in the addition. It’s often beneficial to test paint swatches on the walls of the addition at different times of day before committing to a choice.",
+        "@type": "Answer",
+        "description": "Matching existing colors creates a seamless flow, while new colors can define a distinct space or update your home's palette."
+      }
+    }
+  ],
+  "description": "Matching existing colors creates a seamless flow, while new colors can define a distinct space or update your home's palette."
+}

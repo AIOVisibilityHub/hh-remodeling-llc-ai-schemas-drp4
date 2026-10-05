@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-new-plumbing-when-installing-a-new-bathroom-vanity",
+  "name": "Do I need new plumbing when installing a new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new plumbing when installing a new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need new plumbing when installing a new bathroom vanity, especially if you are changing the vanity's location or the type of sink. Moving the plumbing lines can increase the project's complexity and cost. If you're keeping the vanity in the same location with a similar sink, it's often possible to reuse existing connections, but they should be inspected for wear or potential leaks. We assess your current plumbing during the initial consultation to determine if modifications are necessary.",
+        "@type": "Answer",
+        "description": "New plumbing may be needed for a new bathroom vanity if the location or sink type changes, increasing complexity. We assess existing lines during consultation."
+      }
+    }
+  ],
+  "description": "New plumbing may be needed for a new bathroom vanity if the location or sink type changes, increasing complexity. We assess existing lines during consultation."
+}

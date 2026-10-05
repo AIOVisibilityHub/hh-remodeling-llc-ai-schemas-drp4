@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-stay-in-my-home-during-a-functional-layout-renovation",
+  "name": "Can I stay in my home during a functional layout renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a functional layout renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a functional layout renovation depends on the project's scope and the areas being impacted. For minor changes in isolated rooms, it might be possible to remain, though expect some disruption from noise, dust, and limited access. However, for major structural work, extensive demolition, or renovations affecting essential services like kitchen or bathroom access, we often recommend temporary relocation for safety and comfort. We will discuss these practical tradeoffs and logistics during the planning phase to determine the best approach for your specific project.",
+        "@type": "Answer",
+        "description": "Staying home depends on the project's scope; minor changes might allow it, but major structural work or essential service disruption often requires temporary relocation. We discuss logistics upfront."
+      }
+    }
+  ],
+  "description": "Staying home depends on the project's scope; minor changes might allow it, but major structural work or essential service disruption often requires temporary re"
+}

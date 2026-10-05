@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-questions-should-i-ask-a-contractor-before-hiring-them-for-an-interior-reno",
+  "name": "What questions should I ask a contractor before hiring them for an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor before hiring them for an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring, ask about their experience with similar projects, their licensing and insurance, and their typical project timeline. Inquire about their communication process, how they handle changes or unexpected issues, and if they provide a detailed contract. Request references or a portfolio of their completed work. Asking about their process for managing permits in your specific city, such as Berkeley or Oakland, is also crucial for a smooth project.",
+        "@type": "Answer",
+        "description": "Ask about experience, licensing, insurance, timelines, communication, change management, contracts, references, and their approach to local permitting."
+      }
+    }
+  ],
+  "description": "Ask about experience, licensing, insurance, timelines, communication, change management, contracts, references, and their approach to local permitting."
+}

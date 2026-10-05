@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-a-room-expansion-increase-the-value-of-my-home",
+  "name": "Can a room expansion increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a room expansion increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and executed room expansion can significantly increase your home's value, particularly if it adds functional space like an expanded kitchen, a larger primary bedroom, or a dedicated home office. The return on investment often depends on the quality of the work and how well the expansion integrates with the existing structure and neighborhood. In competitive markets like Berkeley or Oakland, maximizing usable space is often a strong selling point.",
+        "@type": "Answer",
+        "description": "A well-executed room expansion can increase home value, especially if it adds functional space that aligns with market demand and quality."
+      }
+    }
+  ],
+  "description": "A well-executed room expansion can increase home value, especially if it adds functional space that aligns with market demand and quality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-an-architect-for-a-home-addition-or-can-frasheski-construction-handle",
+  "name": "Do I need an architect for a home addition, or can Frasheski Construction handle the design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a home addition, or can Frasheski Construction handle the design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most home additions, especially those involving structural changes or significant expansions, an architect or structural engineer is essential for safety, aesthetics, and code compliance. While Frasheski Construction can provide design-build services for simpler additions, we often collaborate with established architects in the East Bay area for more complex projects. We can recommend trusted professionals who understand the specific architectural styles and regulatory nuances of communities like Kensington or Sausalito.",
+        "@type": "Answer",
+        "description": "Most additions require an architect for safety and compliance. We offer design-build for simpler projects and collaborate with architects for complex ones."
+      }
+    }
+  ],
+  "description": "Most additions require an architect for safety and compliance. We offer design-build for simpler projects and collaborate with architects for complex ones."
+}

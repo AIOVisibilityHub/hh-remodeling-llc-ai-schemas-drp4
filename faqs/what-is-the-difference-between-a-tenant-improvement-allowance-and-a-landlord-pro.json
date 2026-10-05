@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-tenant-improvement-allowance-and-a-landlord-pro",
+  "name": "What is the difference between a tenant improvement allowance and a landlord-provided build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tenant improvement allowance and a landlord-provided build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tenant improvement (TI) allowance is a fixed amount of money the landlord provides to the tenant to fund the build-out, giving the tenant more control over design and finishes, but the tenant typically manages the project and covers any overages. A landlord-provided build-out means the landlord undertakes and pays for the construction, often based on a pre-agreed scope, offering less control but potentially simpler execution for the tenant. The practical tradeoff is between control and financial responsibility; a TI allowance offers flexibility but requires careful budget management.",
+        "@type": "Answer",
+        "description": "TI allowance gives funds and tenant control, while landlord-provided means the landlord manages and pays for the build-out, offering less tenant control."
+      }
+    }
+  ],
+  "description": "TI allowance gives funds and tenant control, while landlord-provided means the landlord manages and pays for the build-out, offering less tenant control."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-room-additions-are-most-common",
+  "name": "What types of room additions are most common?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of room additions are most common?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common room additions include family rooms, bedrooms, bathrooms, and expanded kitchens. Homeowners often seek to increase living space, accommodate a growing family, or enhance property value. Deciding on the type of addition often depends on your current needs and long-term goals for your home. For instance, a second-story addition is a practical tradeoff if your lot size is limited but you need significant extra square footage, though it typically involves more complex structural work.",
+        "@type": "Answer",
+        "description": "Common room additions include family rooms, bedrooms, and bathrooms, often driven by a need for more living space or increased property value."
+      }
+    }
+  ],
+  "description": "Common room additions include family rooms, bedrooms, and bathrooms, often driven by a need for more living space or increased property value."
+}

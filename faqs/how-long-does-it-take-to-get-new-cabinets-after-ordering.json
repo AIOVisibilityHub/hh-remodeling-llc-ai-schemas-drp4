@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-get-new-cabinets-after-ordering",
+  "name": "How long does it take to get new cabinets after ordering?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get new cabinets after ordering?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lead time for new cabinets varies significantly based on the type chosen. Stock cabinets might be available within a few days to a couple of weeks, depending on supplier inventory. Semi-custom cabinets typically have a lead time of 4-8 weeks, as they are assembled to order. Custom cabinets, being entirely built from scratch to your unique specifications, generally require the longest lead time, often 8-16 weeks or more. This duration does not include the actual installation time.",
+        "@type": "Answer",
+        "description": "Lead times for new cabinets vary: stock (days-weeks), semi-custom (4-8 weeks), and custom (8-16+ weeks)."
+      }
+    }
+  ],
+  "description": "Lead times for new cabinets vary: stock (days-weeks), semi-custom (4-8 weeks), and custom (8-16+ weeks)."
+}

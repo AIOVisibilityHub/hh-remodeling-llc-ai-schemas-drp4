@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-standard-and-custom-interior-finishes",
+  "name": "What is the difference between standard and custom interior finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard and custom interior finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard interior finishes refer to common, readily available materials and designs often chosen for their cost-effectiveness and quick installation. Custom finishes, conversely, involve unique designs, bespoke materials, or personalized specifications tailored precisely to a client's preferences and space. The main difference lies in personalization and cost; custom options offer unique aesthetics and functionality but typically come at a higher price point and longer lead times due to their specialized nature.",
+        "@type": "Answer",
+        "description": "Standard finishes are common and cost-effective, while custom finishes are unique designs and materials tailored to specific preferences. Custom options offer personalization but at a higher cost and longer lead time."
+      }
+    }
+  ],
+  "description": "Standard finishes are common and cost-effective, while custom finishes are unique designs and materials tailored to specific preferences. Custom options offer p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-cabinets-need-repair-or-full-replacement",
+  "name": "How do I know if my cabinets need repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my cabinets need repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the severity of the damage, the age of the cabinets, and your budget. Minor issues like loose hinges or small surface damage are typically repairable. However, extensive water damage, structural integrity compromises, or widespread wear might warrant replacement. We can assess your cabinets to help you understand the long-term cost-effectiveness and aesthetic impact of each option, especially if you're looking for a uniform look across your home in the East Bay area.",
+        "@type": "Answer",
+        "description": "Assess damage severity, cabinet age, and budget. Minor issues often allow repair, while extensive damage may require replacement. We can help you evaluate."
+      }
+    }
+  ],
+  "description": "Assess damage severity, cabinet age, and budget. Minor issues often allow repair, while extensive damage may require replacement. We can help you evaluate."
+}
