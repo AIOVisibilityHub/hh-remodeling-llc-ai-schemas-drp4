@@ -1,19 +1,18 @@
 # HH Remodeling LLC — Full AI Context
 
 **Canonical URL:** https://hh-remodeling.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-10-05
 
 ## Overview
 HH Remodeling LLC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **1139** faqs
+- **2265** faqs
 - **15** reviews
-- **361** services
-- **361** webpages
-- **1** locations
-- **1** personnel
-- **1040** helpArticles
+- **29** services
+- **2** locations
+- **6** personnel
+- **400** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
