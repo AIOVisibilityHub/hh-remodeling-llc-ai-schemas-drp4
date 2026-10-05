@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-do-you-use-and-can-i-choose-a-specific-brand-or-color",
+  "name": "What kind of paint do you use, and can I choose a specific brand or color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use, and can I choose a specific brand or color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, durable paints from reputable brands known for their finish and longevity. We are happy to discuss your preferences and recommend specific types of paint, such as low-VOC options. You are welcome to choose any color from our extensive sample collection or provide your own specific color codes.",
+        "@type": "Answer",
+        "description": "We use high-quality paints and you can choose any color or specify a brand; we can also recommend low-VOC options."
+      }
+    }
+  ],
+  "description": "We use high-quality paints and you can choose any color or specify a brand; we can also recommend low-VOC options."
+}

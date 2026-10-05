@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-an-interior-renovation",
+  "name": "Can I live in my home during an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an interior renovation depends on the scope of the project. Minor renovations in isolated areas, like a single bathroom update, may allow you to remain. However, extensive projects involving kitchens, multiple bathrooms, or significant demolition can make living in the home impractical, unsafe, or extremely disruptive. Discuss the logistics and potential impact on your daily life with your contractor to determine the best approach for your family.",
+        "@type": "Answer",
+        "description": "It depends on the project scope; minor renovations might allow you to stay, while major ones may require temporary relocation."
+      }
+    }
+  ],
+  "description": "It depends on the project scope; minor renovations might allow you to stay, while major ones may require temporary relocation."
+}

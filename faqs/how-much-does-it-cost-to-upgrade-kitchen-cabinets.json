@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-upgrade-kitchen-cabinets",
+  "name": "How much does it cost to upgrade kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to upgrade kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of upgrading kitchen cabinets varies significantly based on factors like the size of your kitchen, the materials chosen (e.g., laminate, wood, custom), the scope of work (refacing vs. full replacement), and labor costs. Minor updates like refacing might range from a few thousand dollars, while a complete custom cabinet replacement can be considerably more. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Kitchen cabinet upgrade costs depend on kitchen size, materials, and scope of work, ranging from a few thousand for refacing to much more for custom replacement."
+      }
+    }
+  ],
+  "description": "Kitchen cabinet upgrade costs depend on kitchen size, materials, and scope of work, ranging from a few thousand for refacing to much more for custom replacement"
+}

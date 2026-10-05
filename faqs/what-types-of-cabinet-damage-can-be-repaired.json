@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-cabinet-damage-can-be-repaired",
+  "name": "What types of cabinet damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinet damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We can repair various types of cabinet damage, including scratches, dents, water damage, loose hinges, broken doors, and structural issues. Our goal is to restore the functionality and appearance of your cabinets, whether they are in your kitchen, bathroom, or other areas of your home. We work with different cabinet materials and finishes.",
+        "@type": "Answer",
+        "description": "We repair scratches, dents, water damage, loose hinges, broken doors, and structural issues in cabinets."
+      }
+    }
+  ],
+  "description": "We repair scratches, dents, water damage, loose hinges, broken doors, and structural issues in cabinets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-an-architect-for-my-interior-build-out",
+  "name": "Do I need an architect for my interior build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for my interior build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For many interior build-outs, especially those involving structural changes, significant layout reconfigurations, or specialized systems, an architect is essential. They ensure designs are functional, safe, and comply with local building codes in areas like Berkeley, Oakland, and Albany. For smaller, more cosmetic updates, an interior designer or an experienced contractor might be sufficient. We can help you determine if architectural services are necessary for your specific project.",
+        "@type": "Answer",
+        "description": "An architect is often needed for structural changes or complex layouts to ensure code compliance and safety."
+      }
+    }
+  ],
+  "description": "An architect is often needed for structural changes or complex layouts to ensure code compliance and safety."
+}

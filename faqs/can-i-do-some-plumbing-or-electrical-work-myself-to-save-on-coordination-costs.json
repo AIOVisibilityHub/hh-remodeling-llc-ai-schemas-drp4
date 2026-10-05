@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-do-some-plumbing-or-electrical-work-myself-to-save-on-coordination-costs",
+  "name": "Can I do some plumbing or electrical work myself to save on coordination costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do some plumbing or electrical work myself to save on coordination costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor DIY tasks might seem appealing, complex plumbing and electrical work requires specialized knowledge and adherence to local building codes. Attempting to DIY these critical systems without expertise can lead to serious safety hazards, code violations, and costly mistakes that licensed professionals will need to rectify. For proper coordination and safety, it's best to rely on experienced contractors.",
+        "@type": "Answer",
+        "description": "DIY plumbing or electrical work can be risky, leading to safety hazards and code violations. Professional contractors ensure proper coordination and safety."
+      }
+    }
+  ],
+  "description": "DIY plumbing or electrical work can be risky, leading to safety hazards and code violations. Professional contractors ensure proper coordination and safety."
+}

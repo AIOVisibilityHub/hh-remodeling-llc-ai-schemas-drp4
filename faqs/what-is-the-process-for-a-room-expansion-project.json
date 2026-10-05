@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-a-room-expansion-project",
+  "name": "What is the process for a room expansion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a room expansion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The room expansion process typically starts with an initial consultation to discuss your vision and needs. This is followed by design and architectural planning, including creating blueprints and obtaining necessary permits from local authorities like Berkeley or Oakland. Once permits are secured, construction begins, involving foundation work, framing, roofing, electrical, plumbing, insulation, and finishing touches. The project concludes with final inspections.",
+        "@type": "Answer",
+        "description": "The room expansion process involves consultation, design, permitting, construction, and final inspections."
+      }
+    }
+  ],
+  "description": "The room expansion process involves consultation, design, permitting, construction, and final inspections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-functional-layout-improvements",
+  "name": "What areas do you serve for functional layout improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for functional layout improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves clients in Berkeley, the East Bay area, Oakland, Albany, and El Cerrito. We have extensive experience working on projects within these communities and are familiar with local building codes and regulations. If you are located in or near these areas and are considering functional layout improvements for your home or business, please contact us to discuss your project.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for functional layout improvements."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay, Oakland, Albany, and El Cerrito for functional layout improvements."
+}

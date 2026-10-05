@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-new-custom-cabinets",
+  "name": "How do I maintain my new custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your new custom cabinets typically involves regular cleaning with a soft, damp cloth and mild soap. Avoid abrasive cleaners or harsh chemicals, as these can damage the finish. For spills, wipe them up immediately to prevent staining or moisture damage. Depending on the material, periodic waxing or oiling may be recommended to preserve the wood's luster and protect the surface.",
+        "@type": "Answer",
+        "description": "Maintain custom cabinets by cleaning with a soft, damp cloth and mild soap, avoiding harsh chemicals, and wiping spills immediately."
+      }
+    }
+  ],
+  "description": "Maintain custom cabinets by cleaning with a soft, damp cloth and mild soap, avoiding harsh chemicals, and wiping spills immediately."
+}

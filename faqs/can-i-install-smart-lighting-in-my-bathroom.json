@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-install-smart-lighting-in-my-bathroom",
+  "name": "Can I install smart lighting in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install smart lighting in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smart lighting can be an excellent addition to a modern bathroom. It allows for control over brightness, color temperature, and even scheduling through apps or voice commands. You can integrate smart switches, dimmers, or smart bulbs directly into existing fixtures. When planning smart lighting, consider your desired level of automation and compatibility with other smart home devices. Ensure that any smart devices chosen are suitable for the damp environment of a bathroom.",
+        "@type": "Answer",
+        "description": "Yes, smart lighting can be installed in bathrooms for control over brightness and color, but ensure devices are suitable for damp environments."
+      }
+    }
+  ],
+  "description": "Yes, smart lighting can be installed in bathrooms for control over brightness and color, but ensure devices are suitable for damp environments."
+}

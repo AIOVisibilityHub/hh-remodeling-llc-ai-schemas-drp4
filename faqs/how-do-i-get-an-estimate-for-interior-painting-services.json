@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-get-an-estimate-for-interior-painting-services",
+  "name": "How do I get an estimate for interior painting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get an estimate for interior painting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an estimate for interior painting, simply contact us to schedule a free, no-obligation consultation. We will visit your Berkeley, East Bay, Oakland, Albany, or El Cerrito home to assess the scope of work, discuss your preferences, and provide a detailed quote. This allows us to understand your project fully and offer accurate pricing.",
+        "@type": "Answer",
+        "description": "Contact us to schedule a free, no-obligation consultation. We'll visit your home to assess the work and provide a detailed estimate."
+      }
+    }
+  ],
+  "description": "Contact us to schedule a free, no-obligation consultation. We'll visit your home to assess the work and provide a detailed estimate."
+}

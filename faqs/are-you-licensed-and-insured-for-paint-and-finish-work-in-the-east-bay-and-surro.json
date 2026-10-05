@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-you-licensed-and-insured-for-paint-and-finish-work-in-the-east-bay-and-surro",
+  "name": "Are you licensed and insured for paint and finish work in the East Bay and surrounding areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured for paint and finish work in the East Bay and surrounding areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction is fully licensed and insured to perform paint and finish work in all the areas we serve, including Berkeley, Oakland, Albany, El Cerrito, and the wider East Bay. Our licensing ensures we meet professional standards, and our insurance protects both our team and your property throughout the duration of the project, providing peace of mind.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction is fully licensed and insured for paint and finish work in the East Bay and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction is fully licensed and insured for paint and finish work in the East Bay and surrounding areas."
+}

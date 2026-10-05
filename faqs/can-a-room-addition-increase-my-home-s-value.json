@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-a-room-addition-increase-my-home-s-value",
+  "name": "Can a room addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a room addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed room addition can significantly increase your home's market value. Adding functional living space, especially bedrooms, bathrooms, or a larger kitchen, is often attractive to potential buyers. The return on investment depends on factors like the quality of the addition, its integration with the existing home, and current real estate market conditions in the East Bay.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed room addition can increase your home's market value by adding functional living space."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed room addition can increase your home's market value by adding functional living space."
+}

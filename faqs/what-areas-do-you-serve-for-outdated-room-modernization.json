@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-outdated-room-modernization",
+  "name": "What areas do you serve for outdated-room modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for outdated-room modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves clients in Berkeley, the East Bay area, Oakland, Albany, and El Cerrito for all outdated-room modernization projects. We are familiar with the local building codes and architectural styles, ensuring a smooth and compliant renovation process tailored to your specific location.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito, familiar with local building codes and styles."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, East Bay, Oakland, Albany, and El Cerrito, familiar with local building codes and styles."
+}

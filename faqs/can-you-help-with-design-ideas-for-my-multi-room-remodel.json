@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-design-ideas-for-my-multi-room-remodel",
+  "name": "Can you help with design ideas for my multi-room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with design ideas for my multi-room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we work closely with clients to develop design ideas that align with their vision, lifestyle, and budget. Our team can offer suggestions for layouts, material selections, color schemes, and finishes to create a cohesive and functional multi-room space. We aim to transform your ideas into a beautiful and practical reality, enhancing the overall flow and aesthetic of your home.",
+        "@type": "Answer",
+        "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision."
+      }
+    }
+  ],
+  "description": "Yes, we help with design ideas, layouts, materials, and finishes to create a cohesive and functional multi-room remodel tailored to your vision."
+}

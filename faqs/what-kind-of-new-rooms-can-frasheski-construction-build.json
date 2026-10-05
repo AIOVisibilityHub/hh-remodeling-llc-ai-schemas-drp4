@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-new-rooms-can-frasheski-construction-build",
+  "name": "What kind of new rooms can Frasheski Construction build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of new rooms can Frasheski Construction build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction is equipped to build a variety of new rooms to meet your needs, including additional bedrooms, bathrooms, home offices, family rooms, sunrooms, or even second-story additions. We work with clients across the East Bay, including Berkeley, Oakland, and Albany, to design and construct spaces that seamlessly integrate with your existing home and enhance your lifestyle.",
+        "@type": "Answer",
+        "description": "Frasheski Construction builds various new rooms like bedrooms, bathrooms, home offices, and family rooms, integrating them with existing homes."
+      }
+    }
+  ],
+  "description": "Frasheski Construction builds various new rooms like bedrooms, bathrooms, home offices, and family rooms, integrating them with existing homes."
+}

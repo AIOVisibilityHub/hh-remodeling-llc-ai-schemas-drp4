@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-common-challenges-occur-during-a-room-expansion",
+  "name": "What common challenges occur during a room expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common challenges occur during a room expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a room expansion include unexpected structural issues in the existing home, delays in obtaining permits from local authorities, unforeseen site conditions (like difficult soil), weather-related disruptions, and budget overruns if initial estimates aren't comprehensive. Effective communication with your contractor and a contingency budget can help mitigate these challenges.",
+        "@type": "Answer",
+        "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns."
+      }
+    }
+  ],
+  "description": "Challenges include structural issues, permit delays, site conditions, weather, and budget overruns."
+}

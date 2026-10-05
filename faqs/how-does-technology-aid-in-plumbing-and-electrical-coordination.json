@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-does-technology-aid-in-plumbing-and-electrical-coordination",
+  "name": "How does technology aid in plumbing and electrical coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does technology aid in plumbing and electrical coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Technology, especially Building Information Modeling (BIM) software, significantly improves coordination. BIM allows for 3D visualization of the building and its systems, enabling designers and contractors to identify and resolve clashes between plumbing pipes and electrical conduits virtually before physical construction begins. This reduces errors, waste, and delays on site.",
+        "@type": "Answer",
+        "description": "BIM software and other technologies enable 3D visualization to identify and resolve clashes between plumbing and electrical systems virtually, reducing errors."
+      }
+    }
+  ],
+  "description": "BIM software and other technologies enable 3D visualization to identify and resolve clashes between plumbing and electrical systems virtually, reducing errors."
+}

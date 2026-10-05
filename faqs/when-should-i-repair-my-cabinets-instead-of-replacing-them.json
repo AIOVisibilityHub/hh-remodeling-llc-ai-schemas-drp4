@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-repair-my-cabinets-instead-of-replacing-them",
+  "name": "When should I repair my cabinets instead of replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my cabinets instead of replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing your cabinets when the damage is localized and doesn't compromise the overall structure. Repairs are often a cost-effective solution for issues like minor dents, scratches, or loose hardware. If the cabinet boxes are still in good condition, repair can extend their lifespan and refresh their appearance without the higher cost and disruption of a full replacement. We can help you assess the best option.",
+        "@type": "Answer",
+        "description": "Repair when damage is localized and doesn't compromise the overall structure, and the cabinet boxes are in good condition."
+      }
+    }
+  ],
+  "description": "Repair when damage is localized and doesn't compromise the overall structure, and the cabinet boxes are in good condition."
+}

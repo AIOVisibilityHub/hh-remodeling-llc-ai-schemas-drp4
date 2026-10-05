@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-new-cabinets-or-can-my-existing-ones-be-refaced",
+  "name": "Do I need new cabinets, or can my existing ones be refaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new cabinets, or can my existing ones be refaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need new cabinets or refacing depends on the condition of your current cabinet boxes and your desired aesthetic. If the existing frames are structurally sound, refacing can be a cost-effective option to update their appearance. This involves replacing doors, drawer fronts, and applying a new veneer to the existing boxes. If the boxes are damaged or you want a complete layout change, new cabinets are a better choice.",
+        "@type": "Answer",
+        "description": "Choose new cabinets if existing boxes are damaged or for layout changes; refacing is good for updating aesthetics if boxes are sound."
+      }
+    }
+  ],
+  "description": "Choose new cabinets if existing boxes are damaged or for layout changes; refacing is good for updating aesthetics if boxes are sound."
+}

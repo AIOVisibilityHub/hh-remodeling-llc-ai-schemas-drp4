@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-available-for-kitchen-cabinets",
+  "name": "What materials are available for kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wide range of materials is available for kitchen cabinets, each with distinct characteristics regarding durability, appearance, and cost. Common options include solid wood (e.g., maple, oak, cherry), plywood with wood veneer, MDF (medium-density fiberboard), and laminates. The choice of material impacts the cabinet's longevity, maintenance requirements, and overall aesthetic. We can guide you through the pros and cons of each to help you select the best fit for your home and budget.",
+        "@type": "Answer",
+        "description": "Cabinet materials include solid wood, plywood, MDF, and laminates, each affecting durability, appearance, and cost."
+      }
+    }
+  ],
+  "description": "Cabinet materials include solid wood, plywood, MDF, and laminates, each affecting durability, appearance, and cost."
+}

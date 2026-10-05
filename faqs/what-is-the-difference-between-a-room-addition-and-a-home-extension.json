@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-room-addition-and-a-home-extension",
+  "name": "What is the difference between a room addition and a home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a room addition and a home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition typically refers to building a new room directly onto an existing structure, often expanding the footprint of the home. This could be a new bedroom, bathroom, or family room. A home extension is a broader term that can include room additions, but also encompasses projects like adding a second story or significantly expanding multiple areas of a home. Both increase living space and require careful planning and permitting.",
+        "@type": "Answer",
+        "description": "A room addition is building a new room onto an existing structure, while a home extension is a broader term that can include additions or larger expansions."
+      }
+    }
+  ],
+  "description": "A room addition is building a new room onto an existing structure, while a home extension is a broader term that can include additions or larger expansions."
+}

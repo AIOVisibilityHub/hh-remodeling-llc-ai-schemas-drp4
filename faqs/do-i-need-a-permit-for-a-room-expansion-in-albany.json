@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-a-permit-for-a-room-expansion-in-albany",
+  "name": "Do I need a permit for a room expansion in Albany?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a room expansion in Albany?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, any significant room expansion in Albany, as well as other East Bay cities like Berkeley, Oakland, or El Cerrito, will require permits from the local building department. These permits ensure that your addition meets safety, zoning, and building codes. Failing to obtain necessary permits can lead to fines, construction delays, or even the requirement to demolish non-compliant structures.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for room expansions in Albany and other East Bay cities to ensure compliance with building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for room expansions in Albany and other East Bay cities to ensure compliance with building codes."
+}

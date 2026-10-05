@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-a-typical-room-painting-service",
+  "name": "What is included in a typical room painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical room painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our standard room painting service includes surface preparation such as patching small holes and cracks, sanding, and cleaning. We apply one coat of primer and two coats of high-quality paint. We also cover and protect your furniture and flooring, and perform a thorough cleanup after the project is complete. More extensive repairs, specialty paints, or additional coats may be extra.",
+        "@type": "Answer",
+        "description": "A typical room painting service includes surface preparation, priming, two coats of paint, protection of your belongings, and cleanup."
+      }
+    }
+  ],
+  "description": "A typical room painting service includes surface preparation, priming, two coats of paint, protection of your belongings, and cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-stock-semi-custom-and-custom-cabinets",
+  "name": "What is the difference between stock, semi-custom, and custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between stock, semi-custom, and custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock cabinets are pre-manufactured in standard sizes and styles, offering the most affordable option and quickest delivery. Semi-custom cabinets offer more choices in sizes, finishes, and door styles than stock cabinets, allowing for some personalization. Custom cabinets are built specifically for your space, providing unlimited options in design, materials, and features, perfect for unique spaces or specific aesthetic visions, though they are the most expensive and time-consuming.",
+        "@type": "Answer",
+        "description": "Stock are standard and affordable, semi-custom offer more choices, and custom are built to your exact specifications."
+      }
+    }
+  ],
+  "description": "Stock are standard and affordable, semi-custom offer more choices, and custom are built to your exact specifications."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-an-interior-finish-upgrade-project",
+  "name": "What is the process for an interior finish upgrade project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an interior finish upgrade project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a consultation to discuss your vision and budget. Next, design plans and material selections are finalized. Once approvals are in place, the construction phase starts, including demolition (if needed), installation of new finishes, and final touches. Throughout, communication with your contractor is key.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design and material selection, construction, and final touches. Communication with your contractor is key."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design and material selection, construction, and final touches. Communication with your contractor is key."
+}

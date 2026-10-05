@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-interior-home-renovation-project-take",
+  "name": "How long does a typical interior home renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior home renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior home renovation varies significantly based on the project's scope and complexity. A single room refresh might take a few weeks, while a major whole-house renovation could extend to several months. Key factors include the size of the space, the extent of structural changes, material lead times, and the need for permits. During our initial consultation, Frasheski Construction provides a detailed timeline estimate after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; minor renovations can take weeks, while major projects may take several months."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; minor renovations can take weeks, while major projects may take several months."
+}

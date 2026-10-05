@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-preparation-is-needed-before-interior-painting-begins",
+  "name": "What preparation is needed before interior painting begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before interior painting begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting, we thoroughly prepare all surfaces by cleaning them to remove dirt and grime, patching any holes or cracks, and sanding rough areas. We also tape off trim and protect flooring and furniture with drop cloths. Proper preparation ensures a smooth, lasting finish.",
+        "@type": "Answer",
+        "description": "Preparation for interior painting includes cleaning, patching, and sanding surfaces, as well as taping trim and protecting floors and furniture."
+      }
+    }
+  ],
+  "description": "Preparation for interior painting includes cleaning, patching, and sanding surfaces, as well as taping trim and protecting floors and furniture."
+}

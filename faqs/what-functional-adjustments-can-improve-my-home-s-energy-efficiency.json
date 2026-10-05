@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-functional-adjustments-can-improve-my-home-s-energy-efficiency",
+  "name": "What functional adjustments can improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What functional adjustments can improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Functional adjustments that can improve energy efficiency include sealing gaps around windows and doors, ensuring proper closure of exterior doors, and adjusting attic access panels for a tighter seal. Checking and adjusting weather stripping can also prevent drafts. These adjustments help maintain consistent indoor temperatures, reducing the workload on your heating and cooling systems.",
+        "@type": "Answer",
+        "description": "Sealing gaps around windows/doors and adjusting weather stripping can improve energy efficiency."
+      }
+    }
+  ],
+  "description": "Sealing gaps around windows/doors and adjusting weather stripping can improve energy efficiency."
+}

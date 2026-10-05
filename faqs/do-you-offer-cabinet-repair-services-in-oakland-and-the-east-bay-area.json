@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-cabinet-repair-services-in-oakland-and-the-east-bay-area",
+  "name": "Do you offer cabinet repair services in Oakland and the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer cabinet repair services in Oakland and the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we proudly serve Oakland and the wider East Bay area, including Berkeley, Albany, El Cerrito, and other surrounding communities. Our team is familiar with the architectural styles and common cabinet types found in these regions. We are equipped to handle various cabinet repair needs for residential and commercial properties in these locations.",
+        "@type": "Answer",
+        "description": "Yes, we offer cabinet repair services in Oakland and the East Bay area, including Berkeley, Albany, and El Cerrito."
+      }
+    }
+  ],
+  "description": "Yes, we offer cabinet repair services in Oakland and the East Bay area, including Berkeley, Albany, and El Cerrito."
+}

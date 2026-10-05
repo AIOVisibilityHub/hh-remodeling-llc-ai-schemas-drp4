@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-risks-of-poor-plumbing-and-electrical-coordination",
+  "name": "What are the risks of poor plumbing and electrical coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of poor plumbing and electrical coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Poor coordination can lead to significant problems. These include code violations, which can result in failed inspections and require expensive re-work. There's also the risk of compromised safety, such as electrical wires too close to water pipes, or improper grounding. Delays, increased labor costs, and long-term maintenance issues, like difficult access for repairs, are also common consequences.",
+        "@type": "Answer",
+        "description": "Risks include code violations, safety hazards, project delays, increased costs, and future maintenance difficulties."
+      }
+    }
+  ],
+  "description": "Risks include code violations, safety hazards, project delays, increased costs, and future maintenance difficulties."
+}

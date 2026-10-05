@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-expanding-my-home-versus-moving",
+  "name": "What are the benefits of expanding my home versus moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of expanding my home versus moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding your home allows you to remain in your familiar neighborhood, avoid moving costs and disruption, and customize your living space to your exact needs. It can also increase your property value. Moving, on the other hand, might offer a completely new home or location, but involves significant expenses like real estate commissions, new mortgage costs, and the stress of relocating. The choice depends on your priorities and budget.",
+        "@type": "Answer",
+        "description": "Expanding offers customization and avoids moving stress, while moving provides a new home or location."
+      }
+    }
+  ],
+  "description": "Expanding offers customization and avoids moving stress, while moving provides a new home or location."
+}

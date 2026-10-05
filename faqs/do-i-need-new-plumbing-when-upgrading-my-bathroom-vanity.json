@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-new-plumbing-when-upgrading-my-bathroom-vanity",
+  "name": "Do I need new plumbing when upgrading my bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new plumbing when upgrading my bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may or may not need new plumbing when upgrading your bathroom vanity. If you are replacing your old vanity with a new one of similar size and configuration, and the existing plumbing is in good condition, you might only require minor adjustments. However, if you're relocating the vanity, changing its size significantly, or if the existing plumbing is old or damaged, new plumbing installation or extensive modifications will likely be necessary. We assess plumbing needs during our initial consultation.",
+        "@type": "Answer",
+        "description": "New plumbing may be needed if you're relocating or significantly changing your vanity's size, or if existing plumbing is old or damaged."
+      }
+    }
+  ],
+  "description": "New plumbing may be needed if you're relocating or significantly changing your vanity's size, or if existing plumbing is old or damaged."
+}

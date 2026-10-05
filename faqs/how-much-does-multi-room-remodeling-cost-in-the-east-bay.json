@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-multi-room-remodeling-cost-in-the-east-bay",
+  "name": "How much does multi-room remodeling cost in the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does multi-room remodeling cost in the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of multi-room remodeling in the East Bay varies significantly based on the scope of work, materials chosen, and the size of the rooms. Factors like structural changes, high-end finishes, and extensive reconfigurations will increase the overall price. We provide detailed estimates after an initial consultation to understand your specific project needs.",
+        "@type": "Answer",
+        "description": "Multi-room remodeling costs in the East Bay depend on project scope, materials, and room size. We provide detailed estimates after consultation."
+      }
+    }
+  ],
+  "description": "Multi-room remodeling costs in the East Bay depend on project scope, materials, and room size. We provide detailed estimates after consultation."
+}

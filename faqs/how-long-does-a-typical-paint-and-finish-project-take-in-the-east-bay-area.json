@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-paint-and-finish-project-take-in-the-east-bay-area",
+  "name": "How long does a typical paint and finish project take in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical paint and finish project take in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paint and finish project varies based on the scope, size of the area, and complexity of the work. A small room might take a day or two, while an entire house or commercial building could take several days to a few weeks. Factors like surface preparation, the number of coats, and drying times also influence the timeline. We provide a detailed project schedule after an initial assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and size, typically ranging from a few days for a room to several weeks for a larger building."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and size, typically ranging from a few days for a room to several weeks for a larger building."
+}

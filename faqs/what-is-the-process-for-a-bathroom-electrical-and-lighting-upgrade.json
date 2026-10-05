@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-a-bathroom-electrical-and-lighting-upgrade",
+  "name": "What is the process for a bathroom electrical and lighting upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a bathroom electrical and lighting upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your current system and discuss your upgrade goals. We then provide a detailed proposal and estimate. Once approved, the work involves safely de-energizing the relevant circuits, removing old fixtures and wiring, installing new wiring, outlets, switches, and light fixtures, and ensuring all work meets current electrical codes. Finally, we test the new system and clean up the work area. Inspections may be required by local authorities.",
+        "@type": "Answer",
+        "description": "The upgrade process involves consultation, proposal, safe installation of new wiring and fixtures, testing, and potential inspections."
+      }
+    }
+  ],
+  "description": "The upgrade process involves consultation, proposal, safe installation of new wiring and fixtures, testing, and potential inspections."
+}

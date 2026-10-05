@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-my-home-remodeling-project",
+  "name": "Do I need permits for my home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most home remodeling projects, especially those involving structural changes, plumbing, or electrical work, require permits. We will help identify necessary permits and assist with the application process to ensure your project complies with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Many remodeling projects require permits, especially for structural, plumbing, or electrical work. We assist with identifying and obtaining necessary permits."
+      }
+    }
+  ],
+  "description": "Many remodeling projects require permits, especially for structural, plumbing, or electrical work. We assist with identifying and obtaining necessary permits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-minor-renovation-and-a-major-remodel",
+  "name": "What is the difference between a minor renovation and a major remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor renovation and a major remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor renovation typically involves cosmetic updates or small-scale changes that don't alter the structure, such as painting or cabinet refacing. A major remodel involves more significant changes, such as moving walls, reconfiguring layouts, or adding new spaces, often requiring permits and professional design.",
+        "@type": "Answer",
+        "description": "Minor renovations are cosmetic updates, while major remodels involve significant structural or layout changes."
+      }
+    }
+  ],
+  "description": "Minor renovations are cosmetic updates, while major remodels involve significant structural or layout changes."
+}

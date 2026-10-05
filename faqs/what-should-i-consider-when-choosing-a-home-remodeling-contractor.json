@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-choosing-a-home-remodeling-contractor",
+  "name": "What should I consider when choosing a home remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a home remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, consider their experience, reputation, communication style, and whether they are licensed and insured. It's also important to review their portfolio and client testimonials, and to ensure they understand your vision and budget.",
+        "@type": "Answer",
+        "description": "Look for experience, reputation, communication, licensing, insurance, and a contractor who understands your vision and budget."
+      }
+    }
+  ],
+  "description": "Look for experience, reputation, communication, licensing, insurance, and a contractor who understands your vision and budget."
+}

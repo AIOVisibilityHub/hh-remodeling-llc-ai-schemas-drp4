@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-do-you-use-for-interior-painting",
+  "name": "What kind of paint do you use for interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, durable latex (water-based) paints for most interior projects. These paints offer excellent coverage, durability, and are low in VOCs (volatile organic compounds), making them a good choice for indoor environments. We can also discuss oil-based options or specific brands if you have a preference.",
+        "@type": "Answer",
+        "description": "We primarily use high-quality, durable, low-VOC latex paints for interior projects but can discuss other options based on your needs."
+      }
+    }
+  ],
+  "description": "We primarily use high-quality, durable, low-VOC latex paints for interior projects but can discuss other options based on your needs."
+}

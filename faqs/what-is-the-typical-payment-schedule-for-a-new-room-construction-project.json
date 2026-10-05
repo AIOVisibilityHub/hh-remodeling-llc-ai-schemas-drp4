@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-payment-schedule-for-a-new-room-construction-project",
+  "name": "What is the typical payment schedule for a new room construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a new room construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical payment schedule for new room construction involves an initial deposit to secure materials and begin work, followed by progress payments at key milestones throughout the project. The final payment is usually made upon satisfactory completion and final inspection. Specific payment terms are outlined in our detailed contract, ensuring transparency and clarity for our clients in the East Bay region.",
+        "@type": "Answer",
+        "description": "Payment schedules usually include an initial deposit, progress payments at milestones, and a final payment upon completion."
+      }
+    }
+  ],
+  "description": "Payment schedules usually include an initial deposit, progress payments at milestones, and a final payment upon completion."
+}

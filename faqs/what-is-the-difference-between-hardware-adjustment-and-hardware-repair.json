@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-hardware-adjustment-and-hardware-repair",
+  "name": "What is the difference between hardware adjustment and hardware repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between hardware adjustment and hardware repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardware adjustment involves making minor corrections to existing hardware to improve its functionality or alignment, such as tightening screws or repositioning components. Hardware repair addresses damage or malfunction, often requiring the replacement of broken parts or fixing structural issues. Adjustment is about fine-tuning, while repair is about fixing broken elements.",
+        "@type": "Answer",
+        "description": "Adjustment fine-tunes existing hardware; repair fixes damaged or broken hardware."
+      }
+    }
+  ],
+  "description": "Adjustment fine-tunes existing hardware; repair fixes damaged or broken hardware."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-bump-out-and-a-full-room-addition",
+  "name": "What is the difference between a bump-out and a full room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bump-out and a full room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out is a smaller extension that adds a few feet to an existing room, often without extending the foundation, typically for a specific feature like a bay window or an expanded kitchen nook. A full room addition involves extending the foundation and creating an entirely new room, significantly increasing square footage and requiring more extensive construction.",
+        "@type": "Answer",
+        "description": "A bump-out is a small extension, often without foundation work, while a full room addition is a larger new room requiring foundation extension."
+      }
+    }
+  ],
+  "description": "A bump-out is a small extension, often without foundation work, while a full room addition is a larger new room requiring foundation extension."
+}

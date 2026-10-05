@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-color-consultation-services",
+  "name": "Do you offer color consultation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer color consultation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer color consultation services to help you choose the perfect palette for your interior. Our experts can provide guidance on color trends, how different shades affect mood, and how to select colors that complement your home's existing decor and lighting. This ensures you achieve the desired aesthetic.",
+        "@type": "Answer",
+        "description": "Yes, we offer color consultation services to help you choose the ideal paint colors for your home's interior."
+      }
+    }
+  ],
+  "description": "Yes, we offer color consultation services to help you choose the ideal paint colors for your home's interior."
+}

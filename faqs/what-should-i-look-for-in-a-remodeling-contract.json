@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-look-for-in-a-remodeling-contract",
+  "name": "What should I look for in a remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodeling contract should clearly outline the scope of work, project timeline, payment schedule, and material specifications. It should also include provisions for change orders, warranty information, and dispute resolution. Ensure all agreements are in writing and that you understand all terms before signing.",
+        "@type": "Answer",
+        "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution."
+      }
+    }
+  ],
+  "description": "A remodeling contract should detail scope of work, timeline, payment, materials, change orders, warranty, and dispute resolution."
+}

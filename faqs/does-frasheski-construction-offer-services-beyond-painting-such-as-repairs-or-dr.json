@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-offer-services-beyond-painting-such-as-repairs-or-dr",
+  "name": "Does Frasheski Construction offer services beyond painting, such as repairs or drywall work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Frasheski Construction offer services beyond painting, such as repairs or drywall work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction offers a comprehensive range of services beyond just painting and finishing. This often includes necessary surface preparation, such as drywall repair, patching, and minor carpentry work that ensures a smooth and professional finish. We address underlying issues to provide a durable and high-quality result, integrating these services into our project scope.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction also provides surface preparation, including drywall repair and minor carpentry, as part of our services."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction also provides surface preparation, including drywall repair and minor carpentry, as part of our services."
+}

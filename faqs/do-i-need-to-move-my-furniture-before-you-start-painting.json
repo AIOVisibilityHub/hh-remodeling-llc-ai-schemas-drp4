@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-my-furniture-before-you-start-painting",
+  "name": "Do I need to move my furniture before you start painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move my furniture before you start painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we take precautions to protect your belongings, we recommend moving smaller, delicate, or valuable items out of the room. Our team will cover and move larger furniture to the center of the room, ensuring it's fully protected. Discuss your specific situation with us during the consultation, and we'll help plan accordingly.",
+        "@type": "Answer",
+        "description": "Move small, valuable items. Our team will cover and move large furniture. Discuss specific needs during consultation."
+      }
+    }
+  ],
+  "description": "Move small, valuable items. Our team will cover and move large furniture. Discuss specific needs during consultation."
+}

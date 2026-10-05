@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-remodeling-project-timeline",
+  "name": "What is the typical remodeling project timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical remodeling project timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling project timelines vary based on scope and complexity. Small projects, like a bathroom refresh, might take 3-6 weeks. Larger projects, such as a full kitchen remodel or an addition, can range from 3-6 months or longer. This includes design, permitting, material selection, and construction. We provide a detailed schedule after the initial planning phase.",
+        "@type": "Answer",
+        "description": "Remodeling timelines depend on project scope, from a few weeks for small jobs to several months for larger ones."
+      }
+    }
+  ],
+  "description": "Remodeling timelines depend on project scope, from a few weeks for small jobs to several months for larger ones."
+}

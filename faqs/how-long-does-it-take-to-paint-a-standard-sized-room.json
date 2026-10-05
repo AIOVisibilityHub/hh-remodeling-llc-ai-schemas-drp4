@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-paint-a-standard-sized-room",
+  "name": "How long does it take to paint a standard-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a standard-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a room depends on its size, the current condition of the walls, and the type of paint being used. On average, a standard 10x12 foot room can be painted in one to two days, including prep work and drying time between coats. Larger rooms or those requiring significant repairs may take longer.",
+        "@type": "Answer",
+        "description": "Painting a standard 10x12 foot room usually takes one to two days, including preparation and drying time."
+      }
+    }
+  ],
+  "description": "Painting a standard 10x12 foot room usually takes one to two days, including preparation and drying time."
+}

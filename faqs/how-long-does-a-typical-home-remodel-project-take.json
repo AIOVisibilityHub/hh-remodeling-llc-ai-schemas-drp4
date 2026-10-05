@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-home-remodel-project-take",
+  "name": "How long does a typical home remodel project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home remodel project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home remodel project varies significantly based on its scope and complexity. A small bathroom renovation might take a few weeks, while a whole-house remodel could span several months. We provide a detailed timeline after the initial consultation and design phase.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope; small remodels take weeks, large ones several months. A detailed timeline is provided after initial consultation."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope; small remodels take weeks, large ones several months. A detailed timeline is provided after initial consultation."
+}

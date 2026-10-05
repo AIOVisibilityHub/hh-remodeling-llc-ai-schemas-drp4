@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-steps-do-you-take-to-protect-my-home-during-interior-painting",
+  "name": "What steps do you take to protect my home during interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps do you take to protect my home during interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting, we thoroughly cover all floors with drop cloths and tape, protect furniture with plastic sheeting, and mask off trim, windows, and fixtures. We take great care to ensure that paint only goes where it's intended, leaving your home clean and tidy once the project is complete. Our team is trained in meticulous preparation.",
+        "@type": "Answer",
+        "description": "We protect your home by covering floors with drop cloths, furniture with plastic, and masking off trim, windows, and fixtures."
+      }
+    }
+  ],
+  "description": "We protect your home by covering floors with drop cloths, furniture with plastic, and masking off trim, windows, and fixtures."
+}

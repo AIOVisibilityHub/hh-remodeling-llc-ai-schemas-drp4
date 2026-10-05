@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-you-licensed-and-insured-for-interior-painting-in-berkeley-and-the-east-bay",
+  "name": "Are you licensed and insured for interior painting in Berkeley and the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured for interior painting in Berkeley and the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction is fully licensed and insured to perform interior painting and construction services in Berkeley, the East Bay, and surrounding areas. Our licensing ensures we meet professional standards, and our insurance protects both our team and your property during the project.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction is fully licensed and insured for interior painting in Berkeley and the East Bay, ensuring professional standards and protection."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction is fully licensed and insured for interior painting in Berkeley and the East Bay, ensuring professional standards and protection."
+}

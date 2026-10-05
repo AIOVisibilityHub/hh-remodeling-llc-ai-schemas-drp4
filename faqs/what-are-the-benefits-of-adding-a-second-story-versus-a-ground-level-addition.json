@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-adding-a-second-story-versus-a-ground-level-addition",
+  "name": "What are the benefits of adding a second story versus a ground-level addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a second story versus a ground-level addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition can be beneficial if lot size is limited, preserving yard space. It can also offer improved views. A ground-level addition might be simpler in terms of structural engineering and access during construction. The choice depends on your property's specific characteristics, zoning restrictions, and your family's needs for space and layout.",
+        "@type": "Answer",
+        "description": "Second-story additions save yard space and offer views, while ground-level additions might be structurally simpler; choice depends on property and needs."
+      }
+    }
+  ],
+  "description": "Second-story additions save yard space and offer views, while ground-level additions might be structurally simpler; choice depends on property and needs."
+}

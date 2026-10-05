@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-colors-for-my-home-s-interior",
+  "name": "How do I choose the right paint colors for my home's interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right paint colors for my home's interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing paint colors involves considering existing decor, lighting, and the mood you want to create in each room. Natural light in Berkeley and Oakland homes, for instance, can vary greatly by orientation and surrounding foliage, affecting how colors appear throughout the day. It's often helpful to test several samples directly on your walls to see how they look in different lighting conditions and at various times, allowing you to compare options in your specific environment before making a final decision.",
+        "@type": "Answer",
+        "description": "Consider existing decor, lighting, and desired mood; test samples on your walls to see how colors appear in your home's unique lighting."
+      }
+    }
+  ],
+  "description": "Consider existing decor, lighting, and desired mood; test samples on your walls to see how colors appear in your home's unique lighting."
+}

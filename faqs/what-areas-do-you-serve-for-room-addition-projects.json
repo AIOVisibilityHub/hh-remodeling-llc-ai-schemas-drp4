@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-room-addition-projects",
+  "name": "What areas do you serve for room addition projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for room addition projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily serve clients in the East Bay area, including Berkeley, Oakland, Albany, El Cerrito, and Kensington. We are familiar with the local building codes and regulations specific to these communities, ensuring a smooth project from planning to completion within your local area.",
+        "@type": "Answer",
+        "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, El Cerrito, and Kensington."
+      }
+    }
+  ],
+  "description": "We serve the East Bay area, including Berkeley, Oakland, Albany, El Cerrito, and Kensington."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-serve-my-area-in-the-east-bay-for-room-expansions",
+  "name": "Do you serve my area in the East Bay for room expansions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve my area in the East Bay for room expansions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction serves several areas in the East Bay for room expansions, including Berkeley, Oakland, Albany, El Cerrito, and Kensington. We are familiar with the specific building codes and permitting processes in these communities. Contact us to discuss your project and confirm our service availability for your exact location.",
+        "@type": "Answer",
+        "description": "Yes, Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and Kensington for room expansions."
+      }
+    }
+  ],
+  "description": "Yes, Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and Kensington for room expansions."
+}

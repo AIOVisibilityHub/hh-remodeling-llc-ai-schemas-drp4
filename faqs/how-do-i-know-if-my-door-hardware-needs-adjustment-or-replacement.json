@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-door-hardware-needs-adjustment-or-replacement",
+  "name": "How do I know if my door hardware needs adjustment or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my door hardware needs adjustment or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your door hardware is sticking, squeaking, or not latching properly, it likely needs adjustment. Signs like visible damage, excessive rust, or a complete failure to operate indicate a need for replacement. For issues like a loose doorknob or a misaligned strike plate, adjustment can often resolve the problem. If the core components are worn or broken, replacement is usually the better option.",
+        "@type": "Answer",
+        "description": "Adjust if sticking or squeaking; replace if damaged, rusted, or completely inoperable."
+      }
+    }
+  ],
+  "description": "Adjust if sticking or squeaking; replace if damaged, rusted, or completely inoperable."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-paint-and-stain-for-wood-additions",
+  "name": "What is the difference between paint and stain for wood additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between paint and stain for wood additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint forms an opaque layer on the surface of wood, completely covering the grain and providing a uniform color. It offers significant protection and can be applied in various colors and sheens. Stain, on the other hand, penetrates the wood fibers, enhancing the natural grain and texture while adding color. Stains typically offer less surface protection than paint but allow the beauty of the wood to show through. The choice depends on the desired aesthetic and level of protection.",
+        "@type": "Answer",
+        "description": "Paint covers wood grain with an opaque layer, offering color and protection, while stain penetrates to enhance natural grain and add color."
+      }
+    }
+  ],
+  "description": "Paint covers wood grain with an opaque layer, offering color and protection, while stain penetrates to enhance natural grain and add color."
+}

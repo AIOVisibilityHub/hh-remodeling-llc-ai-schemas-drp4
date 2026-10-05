@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-a-home-remodeling-project-with-frasheski-constru",
+  "name": "What is the typical process for a home remodeling project with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home remodeling project with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process typically begins with an initial consultation to discuss your vision and needs. This is followed by a design phase, where plans and materials are selected. Once designs are finalized and approved, we proceed with permitting and construction. Regular communication and updates are provided throughout the project until completion.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, design phase, permitting, and construction, with regular updates until completion."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, design phase, permitting, and construction, with regular updates until completion."
+}

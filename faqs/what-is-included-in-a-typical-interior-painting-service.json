@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-a-typical-interior-painting-service",
+  "name": "What is included in a typical interior painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical interior painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard interior painting service typically includes surface preparation, such as cleaning, sanding, and patching minor imperfections. We then apply primer as needed, followed by two coats of high-quality paint. Our team also handles masking and protecting your furniture and flooring, and a thorough cleanup after the project is complete. This ensures a smooth, durable, and aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "Interior painting service includes surface preparation, priming, two coats of paint, protection of your belongings, and cleanup."
+      }
+    }
+  ],
+  "description": "Interior painting service includes surface preparation, priming, two coats of paint, protection of your belongings, and cleanup."
+}

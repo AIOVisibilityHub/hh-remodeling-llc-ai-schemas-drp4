@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-design-services-for-room-modernization-projects",
+  "name": "Do you offer design services for room modernization projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer design services for room modernization projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer design services to help you visualize and plan your room modernization project. Our team can assist with material selection, color schemes, lighting design, and space planning to ensure the final result aligns with your aesthetic preferences and functional requirements. We work collaboratively to bring your vision to life.",
+        "@type": "Answer",
+        "description": "Yes, we offer design services, assisting with material, color, lighting, and space planning to realize your vision."
+      }
+    }
+  ],
+  "description": "Yes, we offer design services, assisting with material, color, lighting, and space planning to realize your vision."
+}

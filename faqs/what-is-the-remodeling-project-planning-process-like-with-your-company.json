@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-remodeling-project-planning-process-like-with-your-company",
+  "name": "What is the remodeling project planning process like with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the remodeling project planning process like with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our remodeling project planning typically begins with an initial consultation to discuss your vision and goals. This is followed by a design phase, where we develop plans and select materials. Once designs are finalized and permits secured, we move into the construction phase, keeping you informed at every step. We aim for a transparent and collaborative process.",
+        "@type": "Answer",
+        "description": "Our planning process involves initial consultation, design, material selection, permit acquisition, and then construction, with ongoing communication."
+      }
+    }
+  ],
+  "description": "Our planning process involves initial consultation, design, material selection, permit acquisition, and then construction, with ongoing communication."
+}

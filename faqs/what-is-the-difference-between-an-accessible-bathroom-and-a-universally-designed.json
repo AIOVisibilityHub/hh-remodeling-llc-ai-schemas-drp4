@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-accessible-bathroom-and-a-universally-designed",
+  "name": "What is the difference between an accessible bathroom and a universally designed bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an accessible bathroom and a universally designed bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom typically refers to modifications that specifically meet the needs of individuals with disabilities, often adhering to specific guidelines or codes. A universally designed bathroom, however, aims to create a space that is usable by people of all ages and abilities, regardless of their mobility or physical characteristics, without requiring special adaptation. Universal design often incorporates features like wider doorways, lever handles, and curbless showers that benefit everyone.",
+        "@type": "Answer",
+        "description": "Accessible bathrooms meet specific disability needs, while universally designed bathrooms are usable by all ages and abilities without special adaptation."
+      }
+    }
+  ],
+  "description": "Accessible bathrooms meet specific disability needs, while universally designed bathrooms are usable by all ages and abilities without special adaptation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-is-best-for-new-additions",
+  "name": "What kind of paint is best for new additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for new additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best paint for a new addition depends on the specific area and desired durability. For interiors, low-VOC (volatile organic compound) paints are often recommended for better indoor air quality. Different sheens, such as matte, eggshell, satin, or semi-gloss, are chosen based on aesthetics and traffic in the area. For exteriors, durable, weather-resistant paints are crucial to withstand local climate conditions. We can help you select the appropriate type and finish for your addition.",
+        "@type": "Answer",
+        "description": "The best paint for a new addition depends on whether it's interior or exterior, and the desired durability and aesthetic."
+      }
+    }
+  ],
+  "description": "The best paint for a new addition depends on whether it's interior or exterior, and the desired durability and aesthetic."
+}

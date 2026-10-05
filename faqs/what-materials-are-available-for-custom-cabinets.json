@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-available-for-custom-cabinets",
+  "name": "What materials are available for custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wide variety of materials are available for custom cabinets, including solid hardwoods like maple, oak, or cherry, as well as engineered woods like plywood and MDF with various veneers. The choice of material impacts both the aesthetic and the durability of the cabinets. For example, solid wood offers classic appeal and longevity, while certain engineered woods can provide stability and cost-effectiveness. The selection also extends to hardware, finishes, and decorative elements, allowing for extensive customization to match your design preferences. Understanding the properties of each material can help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Custom cabinets offer diverse materials, including solid hardwoods and engineered woods with veneers, impacting aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Custom cabinets offer diverse materials, including solid hardwoods and engineered woods with veneers, impacting aesthetics, durability, and cost."
+}

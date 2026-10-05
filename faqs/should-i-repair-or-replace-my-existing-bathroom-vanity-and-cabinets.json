@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-repair-or-replace-my-existing-bathroom-vanity-and-cabinets",
+  "name": "Should I repair or replace my existing bathroom vanity and cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my existing bathroom vanity and cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your bathroom vanity and cabinets depends on their current condition and your long-term goals. If there's minor damage, such as a loose hinge or a small scratch, repairs might be a cost-effective solution. However, if there's significant water damage, structural issues, or if you're looking for a complete aesthetic overhaul and improved functionality, replacement is usually the better option. We can assess your current setup and provide recommendations based on your needs.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace if there's significant damage, structural issues, or if you desire a complete aesthetic and functional upgrade."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace if there's significant damage, structural issues, or if you desire a complete aesthetic and functional upgrade."
+}

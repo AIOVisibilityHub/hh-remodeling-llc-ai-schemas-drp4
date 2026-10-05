@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-hardware-adjustments-needed-in-a-home",
+  "name": "What are common hardware adjustments needed in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common hardware adjustments needed in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common hardware adjustments include tightening loose door hinges, lubricating sticky window mechanisms, adjusting cabinet door alignment, and ensuring proper function of drawer slides. These adjustments can prevent further wear and tear, improve functionality, and extend the lifespan of your home's hardware. Regular maintenance can often resolve minor issues before they become larger problems.",
+        "@type": "Answer",
+        "description": "Common hardware adjustments include tightening hinges, lubricating windows, and aligning cabinet doors."
+      }
+    }
+  ],
+  "description": "Common hardware adjustments include tightening hinges, lubricating windows, and aligning cabinet doors."
+}

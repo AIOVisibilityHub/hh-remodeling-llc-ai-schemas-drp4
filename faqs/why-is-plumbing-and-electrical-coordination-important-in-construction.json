@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/why-is-plumbing-and-electrical-coordination-important-in-construction",
+  "name": "Why is plumbing and electrical coordination important in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is plumbing and electrical coordination important in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coordinating plumbing and electrical work prevents conflicts and ensures systems function correctly and safely. Without proper planning, pipes might be installed where electrical conduits need to go, or vice-versa, leading to costly rerouting, delays, and potential safety hazards. It also optimizes space, especially in older homes or remodels where space is limited, ensuring code compliance and efficient operation of all systems.",
+        "@type": "Answer",
+        "description": "Coordination prevents conflicts, ensures safety, optimizes space, and avoids costly rerouting during construction."
+      }
+    }
+  ],
+  "description": "Coordination prevents conflicts, ensures safety, optimizes space, and avoids costly rerouting during construction."
+}

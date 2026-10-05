@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-furniture-before-you-start-painting",
+  "name": "Do I need to move furniture before you start painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture before you start painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we take precautions to protect your belongings, we recommend clearing small or fragile items from the room. We can assist with moving larger furniture to the center of the room and covering it with protective sheeting. This helps us work more efficiently and ensures the best possible outcome for your painting project.",
+        "@type": "Answer",
+        "description": "We recommend clearing small items; we can help move and cover larger furniture for efficient painting."
+      }
+    }
+  ],
+  "description": "We recommend clearing small items; we can help move and cover larger furniture for efficient painting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-a-room-addition-typically-cost-in-the-east-bay-area",
+  "name": "How much does a room addition typically cost in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition typically cost in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a room addition in the East Bay area varies significantly based on size, complexity, materials, and finishes. Factors like foundation work, plumbing, electrical, and roofing all influence the final price. While it's difficult to give an exact figure without a detailed plan, a rough estimate can be provided after an initial consultation to assess your specific project needs.",
+        "@type": "Answer",
+        "description": "Costs vary based on size, complexity, materials, and finishes; a detailed estimate requires a consultation."
+      }
+    }
+  ],
+  "description": "Costs vary based on size, complexity, materials, and finishes; a detailed estimate requires a consultation."
+}

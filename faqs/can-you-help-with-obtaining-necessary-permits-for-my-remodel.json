@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-obtaining-necessary-permits-for-my-remodel",
+  "name": "Can you help with obtaining necessary permits for my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with obtaining necessary permits for my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can assist with the permit acquisition process for your remodeling project. We have experience navigating local regulations in Berkeley, Oakland, and other East Bay cities. We can help identify which permits are required and facilitate the application and approval process to ensure your project complies with all local building codes.",
+        "@type": "Answer",
+        "description": "Yes, we assist with obtaining necessary permits for remodels in Berkeley, Oakland, and other East Bay cities, ensuring compliance."
+      }
+    }
+  ],
+  "description": "Yes, we assist with obtaining necessary permits for remodels in Berkeley, Oakland, and other East Bay cities, ensuring compliance."
+}

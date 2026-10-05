@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-updating-my-home-s-tiles-and-surfaces",
+  "name": "When should I consider updating my home's tiles and surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider updating my home's tiles and surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider updating your tiles and surfaces if they are showing signs of wear and tear, such as cracks, chips, stains, or outdated styles. Updating can also be beneficial if you're planning a home renovation, looking to increase property value before selling, or simply want to refresh your living space. It's also a good idea if you experience water damage or other issues requiring replacement.",
+        "@type": "Answer",
+        "description": "Update tiles and surfaces if they are damaged, outdated, or if you're renovating, selling, or refreshing your home."
+      }
+    }
+  ],
+  "description": "Update tiles and surfaces if they are damaged, outdated, or if you're renovating, selling, or refreshing your home."
+}

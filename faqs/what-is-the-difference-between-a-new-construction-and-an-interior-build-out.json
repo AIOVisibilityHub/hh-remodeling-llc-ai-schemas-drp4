@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-new-construction-and-an-interior-build-out",
+  "name": "What is the difference between a new construction and an interior build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a new construction and an interior build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction involves building a structure from the ground up on previously undeveloped land or after demolition. An interior build-out, in contrast, focuses on transforming the interior of an existing commercial shell or previously occupied space. While new construction establishes the primary building, an interior build-out customizes the internal environment to make it suitable for a tenant's specific operations. Both require careful planning and execution.",
+        "@type": "Answer",
+        "description": "New construction builds a structure from scratch, while an interior build-out customizes the inside of an existing commercial space."
+      }
+    }
+  ],
+  "description": "New construction builds a structure from scratch, while an interior build-out customizes the inside of an existing commercial space."
+}

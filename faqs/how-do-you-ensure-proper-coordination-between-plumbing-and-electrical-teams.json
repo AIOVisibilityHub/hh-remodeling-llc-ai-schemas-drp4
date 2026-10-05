@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-ensure-proper-coordination-between-plumbing-and-electrical-teams",
+  "name": "How do you ensure proper coordination between plumbing and electrical teams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper coordination between plumbing and electrical teams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective coordination involves clear communication and shared planning. This often includes regular meetings between trade professionals, reviewing blueprints together, and utilizing Building Information Modeling (BIM) software to identify clashes digitally before construction. A general contractor typically oversees this process, facilitating communication and resolving potential conflicts among the different trades.",
+        "@type": "Answer",
+        "description": "Ensure coordination through regular meetings, blueprint reviews, BIM software, and strong general contractor oversight."
+      }
+    }
+  ],
+  "description": "Ensure coordination through regular meetings, blueprint reviews, BIM software, and strong general contractor oversight."
+}

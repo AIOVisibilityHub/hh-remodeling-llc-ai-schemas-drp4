@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-colors-for-my-addition-s-interior-and-exterior",
+  "name": "How do I choose colors for my addition's interior and exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose colors for my addition's interior and exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing colors for your addition involves considering several factors, including your personal preferences, the existing color palette of your home, and the surrounding environment. For interiors, think about the function of the room and the mood you want to create. For exteriors, consider your home's architectural style, landscaping, and neighboring properties. Testing samples on your walls and exterior in different lighting conditions is highly recommended before making a final decision. We can provide guidance and suggestions.",
+        "@type": "Answer",
+        "description": "Choose colors by considering your preferences, existing home colors, surroundings, and testing samples in different lighting."
+      }
+    }
+  ],
+  "description": "Choose colors by considering your preferences, existing home colors, surroundings, and testing samples in different lighting."
+}

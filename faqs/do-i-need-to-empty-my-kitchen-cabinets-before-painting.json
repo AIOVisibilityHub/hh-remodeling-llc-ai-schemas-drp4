@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-empty-my-kitchen-cabinets-before-painting",
+  "name": "Do I need to empty my kitchen cabinets before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my kitchen cabinets before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to completely empty your kitchen cabinets and drawers before painting. This ensures that all surfaces, including interior edges and frames, are accessible for proper cleaning, sanding, and painting without obstruction. Removing all contents also protects your kitchen items from paint dust or accidental splatters. While we take every precaution to protect your belongings, clearing the cabinets beforehand simplifies the preparation process and allows our painters to work more efficiently and deliver a superior finish.",
+        "@type": "Answer",
+        "description": "Yes, you should empty all kitchen cabinets and drawers before painting. This ensures full access for prep and painting, and protects your belongings."
+      }
+    }
+  ],
+  "description": "Yes, you should empty all kitchen cabinets and drawers before painting. This ensures full access for prep and painting, and protects your belongings."
+}

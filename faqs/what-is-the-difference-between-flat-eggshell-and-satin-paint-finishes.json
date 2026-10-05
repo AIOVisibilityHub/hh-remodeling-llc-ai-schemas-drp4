@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-flat-eggshell-and-satin-paint-finishes",
+  "name": "What is the difference between flat, eggshell, and satin paint finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flat, eggshell, and satin paint finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flat paint has no sheen and helps hide imperfections but is less washable. Eggshell has a slight sheen, offering more durability and washability than flat. Satin has a noticeable sheen, is very durable, and easy to clean, making it suitable for high-traffic areas. The choice depends on desired appearance and practicality.",
+        "@type": "Answer",
+        "description": "Flat has no sheen, eggshell has a slight sheen, and satin has a noticeable sheen. Each offers different durability and washability."
+      }
+    }
+  ],
+  "description": "Flat has no sheen, eggshell has a slight sheen, and satin has a noticeable sheen. Each offers different durability and washability."
+}

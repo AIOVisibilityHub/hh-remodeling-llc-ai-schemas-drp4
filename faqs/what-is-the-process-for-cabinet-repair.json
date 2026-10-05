@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-cabinet-repair",
+  "name": "What is the process for cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our cabinet repair process typically begins with an initial consultation and assessment of the damage. We then provide a detailed estimate. Once approved, we schedule the repair work at your convenience. Our skilled technicians meticulously address the damage, ensuring a high-quality finish and structural integrity. We aim to complete repairs efficiently and with minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "The process involves consultation, damage assessment, estimate, scheduling, and expert repair."
+      }
+    }
+  ],
+  "description": "The process involves consultation, damage assessment, estimate, scheduling, and expert repair."
+}

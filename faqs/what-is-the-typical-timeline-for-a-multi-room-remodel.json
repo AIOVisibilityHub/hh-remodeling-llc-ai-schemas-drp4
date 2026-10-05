@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-timeline-for-a-multi-room-remodel",
+  "name": "What is the typical timeline for a multi-room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a multi-room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a multi-room remodel depends on its complexity and the number of rooms involved. A smaller project, like two bathrooms, might take several weeks, while a larger renovation encompassing a kitchen, living room, and dining area could extend to several months. We establish a detailed project schedule with you before work begins, accounting for design, material procurement, and construction phases.",
+        "@type": "Answer",
+        "description": "Multi-room remodel timelines vary; smaller projects take weeks, larger ones several months. We provide a detailed schedule upfront."
+      }
+    }
+  ],
+  "description": "Multi-room remodel timelines vary; smaller projects take weeks, larger ones several months. We provide a detailed schedule upfront."
+}

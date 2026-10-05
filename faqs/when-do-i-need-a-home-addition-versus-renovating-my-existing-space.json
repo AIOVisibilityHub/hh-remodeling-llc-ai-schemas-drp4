@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-do-i-need-a-home-addition-versus-renovating-my-existing-space",
+  "name": "When do I need a home addition versus renovating my existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a home addition versus renovating my existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home addition when you need more square footage and your current layout cannot accommodate your needs. Renovations are ideal for updating existing spaces without expanding the footprint. An addition is best when you require new rooms, a larger living area, or wish to increase your property's overall size and value significantly.",
+        "@type": "Answer",
+        "description": "Choose a home addition for more square footage and new rooms; renovate to update existing spaces without expanding."
+      }
+    }
+  ],
+  "description": "Choose a home addition for more square footage and new rooms; renovate to update existing spaces without expanding."
+}

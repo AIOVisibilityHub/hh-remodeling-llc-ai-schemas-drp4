@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-can-i-prepare-my-home-for-new-room-construction",
+  "name": "How can I prepare my home for new room construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for new room construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for new room construction involves a few steps. Clear the work area of personal belongings and furniture, and ensure easy access for our team and equipment. Consider temporary arrangements for utilities if they will be affected, and discuss any concerns with our project manager. We will provide specific guidance based on your project to minimize disruption to your daily life in areas like El Cerrito or Kensington.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area, ensuring access, and discussing utility arrangements with the project manager."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area, ensuring access, and discussing utility arrangements with the project manager."
+}

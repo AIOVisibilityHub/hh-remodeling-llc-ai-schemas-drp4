@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-room-additions-do-you-specialize-in",
+  "name": "What kind of room additions do you specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of room additions do you specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in a variety of room additions, including new bedrooms, bathrooms, family rooms, kitchen expansions, and home office additions. Our expertise covers design and construction that seamlessly integrates with your existing home's architecture, ensuring both functionality and aesthetic appeal for your new living space.",
+        "@type": "Answer",
+        "description": "We specialize in additions like bedrooms, bathrooms, family rooms, kitchen expansions, and home offices, ensuring seamless integration."
+      }
+    }
+  ],
+  "description": "We specialize in additions like bedrooms, bathrooms, family rooms, kitchen expansions, and home offices, ensuring seamless integration."
+}
