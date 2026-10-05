@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T23:20:41.843Z",
+  "generatedAt": "2026-10-05T23:33:18.144Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,6 +37,42 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://hh-remodeling.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23174102"
     }
   ],
   "destinations": {
@@ -44,6 +80,20 @@
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
       "pagesUrl": "https://hh-remodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k",
+      "pagesUrl": "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23174102"
     }
   }
 }
