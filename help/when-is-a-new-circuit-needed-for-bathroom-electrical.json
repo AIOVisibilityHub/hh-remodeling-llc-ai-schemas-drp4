@@ -1,0 +1,109 @@
+{
+  "name": "When is a New Circuit Needed for Bathroom Electrical?",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment of Your Current System — When we first meet, we’ll take a look at your home's electrical panel and assess your existing circuits. This helps us understand what capacity you currently have and if there's enough juice to support your planned upgrades without issues. This phase usually takes a quick visit, and it's all about gathering information.",
+      "text": "Step 1: Initial Assessment of Your Current System — When we first meet, we’ll take a look at your home's electrical panel and assess your existing circuits. This helps us understand what capacity you currently have and if there's enough juice to support your planned upgrades without issues. This phase usually takes a quick visit, and it's all about gathering information.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Planning Fixture Locations and Power Needs — Next, we'll map out where your new lights, receptacles, and any other electrical components will go. We pay close attention to wet/damp zones and determine the specific circuit, GFCI, grounding, and switch requirements for each. This involves detailed discussions with you to ensure your vision aligns with electrical safety standards.",
+      "text": "Step 2: Planning Fixture Locations and Power Needs — Next, we'll map out where your new lights, receptacles, and any other electrical components will go. We pay close attention to wet/damp zones and determine the specific circuit, GFCI, grounding, and switch requirements for each. This involves detailed discussions with you to ensure your vision aligns with electrical safety standards.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Determining New Circuit Requirements — Based on the planned load and existing capacity, we'll determine if a new circuit (or circuits!) is necessary. This is where we ensure you have enough power for everything you want, safely and efficiently. We'll also consider if any approvals are needed from the local building department for new circuit installations, which can take a few weeks to obtain.",
+      "text": "Step 3: Determining New Circuit Requirements — Based on the planned load and existing capacity, we'll determine if a new circuit (or circuits!) is necessary. This is where we ensure you have enough power for everything you want, safely and efficiently. We'll also consider if any approvals are needed from the local building department for new circuit installations, which can take a few weeks to obtain.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation of Wiring and Listed Equipment — Once the plan is solid and approvals are in hand, our qualified electricians will proceed with installing all new wiring and listed electrical equipment. We make sure everything is up to code, protecting wiring from moisture, and correctly grounding all components. This is the bulk of the electrical work and depends on the scope of the project, typically taking several days to a week or more.",
+      "text": "Step 4: Installation of Wiring and Listed Equipment — Once the plan is solid and approvals are in hand, our qualified electricians will proceed with installing all new wiring and listed electrical equipment. We make sure everything is up to code, protecting wiring from moisture, and correctly grounding all components. This is the bulk of the electrical work and depends on the scope of the project, typically taking several days to a week or more.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Testing and Inspection Before Concealment — Before any walls are closed up, we thoroughly test all protection and operation of your new electrical system. This ensures everything works as it should and that all GFCI and other safety mechanisms are functioning correctly. If required, we'll coordinate with the appropriate authority for inspection, ensuring full compliance and peace of mind before we move on to finishing touches.",
+      "text": "If you're contemplating significant changes to your bathroom's electrical setup, or experiencing persistent tripping, it’s definitely time to get a professional involved. Reach out to Frasheski Construction to ensure your bathroom electrical upgrades are handled safely and correctly.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Assessment of Your Current System — When we first meet, we’ll take a look at your home's electrical panel and assess your existing circuits. This helps us understand what capacity you "
+}

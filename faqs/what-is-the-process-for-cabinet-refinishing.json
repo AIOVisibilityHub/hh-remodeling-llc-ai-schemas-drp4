@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-cabinet-refinishing",
+  "name": "What is the process for cabinet refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cabinet refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our cabinet refinishing process typically begins with removing cabinet doors and drawers. We then thoroughly clean and degrease all surfaces. Next, we meticulously sand the cabinets to create a smooth surface for the new finish. Any minor imperfections are addressed. After sanding, a primer is applied, followed by multiple coats of your chosen paint or stain, with light sanding between coats. Finally, a protective topcoat is applied for durability, and hardware is reinstalled.",
+        "@type": "Answer",
+        "description": "The refinishing process involves cleaning, sanding, priming, applying paint or stain, and a protective topcoat."
+      }
+    }
+  ],
+  "description": "The refinishing process involves cleaning, sanding, priming, applying paint or stain, and a protective topcoat."
+}

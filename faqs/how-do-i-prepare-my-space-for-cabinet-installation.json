@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-space-for-cabinet-installation",
+  "name": "How do I prepare my space for cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my space for cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for cabinet installation, ensure the work area is clear of furniture, appliances, and personal belongings. Walls should be finished, and flooring should be installed if it's going under the cabinets. We will discuss specific preparations during our consultation to ensure a smooth and efficient installation process.",
+        "@type": "Answer",
+        "description": "Clear the work area of obstructions, ensure walls are finished, and flooring is installed. We'll provide specific guidance during consultation."
+      }
+    }
+  ],
+  "description": "Clear the work area of obstructions, ensure walls are finished, and flooring is installed. We'll provide specific guidance during consultation."
+}

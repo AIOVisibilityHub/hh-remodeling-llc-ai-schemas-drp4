@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-you-handle-unexpected-issues-during-a-kitchen-renovation",
+  "name": "How do you handle unexpected issues during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle unexpected issues during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected issues, such as discovering outdated plumbing or electrical wiring behind walls, can sometimes arise during a kitchen renovation. Our team is experienced in identifying and addressing these challenges efficiently. We will immediately inform you of any findings, explain the implications, and present clear solutions and any potential adjustments to the timeline or budget before proceeding.",
+        "@type": "Answer",
+        "description": "We address unexpected issues by informing you immediately, explaining implications, and proposing clear solutions before proceeding."
+      }
+    }
+  ],
+  "description": "We address unexpected issues by informing you immediately, explaining implications, and proposing clear solutions before proceeding."
+}

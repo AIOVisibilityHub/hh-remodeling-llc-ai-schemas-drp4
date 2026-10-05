@@ -1,0 +1,145 @@
+{
+  "name": "What to Expect During a Full Kitchen Renovation",
+  "step": [
+    {
+      "name": "Step 1: Existing-Condition Survey — This is where we assess your current kitchen, documenting every detail. It’s crucial for understanding what we’re working with and for accurate design and planning.",
+      "text": "Step 1: Existing-Condition Survey — This is where we assess your current kitchen, documenting every detail. It’s crucial for understanding what we’re working with and for accurate design and planning.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Engineering — Based on your vision and the survey, we'll develop a detailed design, including any necessary engineering for structural changes. This is where your dream kitchen truly starts to take shape.",
+      "text": "Step 2: Design and Engineering — Based on your vision and the survey, we'll develop a detailed design, including any necessary engineering for structural changes. This is where your dream kitchen truly starts to take shape.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Detailed Scope and Budget — We'll finalize all the specifics of the project, including a clear scope of work and a transparent budget. This ensures everyone is on the same page.",
+      "text": "Step 3: Detailed Scope and Budget — We'll finalize all the specifics of the project, including a clear scope of work and a transparent budget. This ensures everyone is on the same page.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Appliance and Fixture Specifications — All your chosen appliances and fixtures are precisely specified, ensuring compatibility and functionality within the new design. This includes everything from the oven to the faucets.",
+      "text": "Step 4: Appliance and Fixture Specifications — All your chosen appliances and fixtures are precisely specified, ensuring compatibility and functionality within the new design. This includes everything from the oven to the faucets.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Permit and Approval Planning — If your renovation involves significant changes like moving gas lines or structural work, we'll handle the necessary permits and approvals with local authorities, like those in Berkeley. This is a critical step to ensure everything is up to code.",
+      "text": "Step 5: Permit and Approval Planning — If your renovation involves significant changes like moving gas lines or structural work, we'll handle the necessary permits and approvals with local authorities, like those in Berkeley. This is a critical step to ensure everything is up to code.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Ordering Long-Lead Materials — We’ll place orders for materials with longer delivery times, like custom cabinetry or special countertops, to minimize delays later in the process.",
+      "text": "Step 6: Ordering Long-Lead Materials — We’ll place orders for materials with longer delivery times, like custom cabinetry or special countertops, to minimize delays later in the process.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Protection and Demolition — We carefully protect your home, then begin the demolition phase, safely removing old elements to prepare for the new.",
+      "text": "Step 7: Protection and Demolition — We carefully protect your home, then begin the demolition phase, safely removing old elements to prepare for the new.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Rough-in Work — This involves framing, and rough plumbing, electrical, and HVAC installations. These foundational elements are critical and will undergo inspections.",
+      "text": "Step 8: Rough-in Work — This involves framing, and rough plumbing, electrical, and HVAC installations. These foundational elements are critical and will undergo inspections.",
+      "@type": "HowToStep",
+      "position": 8
+    },
+    {
+      "name": "Step 9: Inspections — Local building inspectors will check the rough-in work to ensure everything meets code before we proceed.",
+      "text": "Step 9: Inspections — Local building inspectors will check the rough-in work to ensure everything meets code before we proceed.",
+      "@type": "HowToStep",
+      "position": 9
+    },
+    {
+      "name": "Step 10: Installation and Finishes — Cabinets, countertops, flooring, backsplash, painting, trim, and appliance installations all happen now. We're bringing your kitchen to life!",
+      "text": "Step 10: Installation and Finishes — Cabinets, countertops, flooring, backsplash, painting, trim, and appliance installations all happen now. We're bringing your kitchen to life!",
+      "@type": "HowToStep",
+      "position": 10
+    },
+    {
+      "name": "Step 11: Testing and Punch-List Completion — We’ll test everything to ensure it’s working perfectly, and then address any final details on a punch list. This is the last step before you enjoy your amazing new kitchen.",
+      "text": "This structured approach ensures that your full kitchen renovation progresses smoothly and efficiently, minimizing surprises and maximizing satisfaction.",
+      "@type": "HowToStep",
+      "position": 11
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Existing-Condition Survey — This is where we assess your current kitchen, documenting every detail. It’s crucial for understanding what we’re working with and for accurate design and planning."
+}

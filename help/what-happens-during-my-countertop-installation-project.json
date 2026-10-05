@@ -1,0 +1,84 @@
+{
+  "name": "What Happens During My Countertop Installation Project?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting new countertops is an exciting journey, and knowing what to expect can make it feel much smoother. It all kicks off with a consultation where you discuss your vision, material preferences, and budget. This is where we really dive deep into what you're looking for! Next, you'll select your materials. There are so many options out there, from granite to quartz, and each has its own unique look and feel. Once materials are chosen, the crucial templating or measuring phase begins. This is where we create a precise template of your existing cabinets and walls, ensuring a perfect fit for your new countertops. It’s super important to capture every detail, especially if your cabinets aren’t perfectly square. After templating, your chosen material goes to fabrication. This is where the magic happens – your countertops are cut, polished, and prepped according to the template. Decisions about sink, cooktop, seam locations, and edge profiles are finalized here, so no last-minute changes, please! Finally, it's installation day! The crew will carefully transport and install your new countertops, making sure everything is level, secure, and looking fantastic. Keep in mind that the whole process, from template to install, usually takes about 7–14 business days, or sometimes 2–3 weeks, depending on shop load and job readiness. If you're in the Berkeley or greater East Bay area and need help coordinating your remodel, give Frasheski Construction a call.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What Happens During My Countertop Installation Project?"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-cabinets-do-you-install",
+  "name": "What types of cabinets do you install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinets do you install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We install a wide range of cabinets, including stock, semi-custom, and custom options to fit various budgets and design preferences. Our expertise covers kitchen cabinets, bathroom vanities, laundry room cabinetry, and built-in storage solutions. We work with various materials, finishes, and hardware styles to ensure your new cabinets perfectly complement your home's aesthetic and functional requirements. We can also assist with design choices to help you select the best fit.",
+        "@type": "Answer",
+        "description": "We install stock, semi-custom, and custom cabinets for kitchens, bathrooms, laundry rooms, and built-in storage."
+      }
+    }
+  ],
+  "description": "We install stock, semi-custom, and custom cabinets for kitchens, bathrooms, laundry rooms, and built-in storage."
+}

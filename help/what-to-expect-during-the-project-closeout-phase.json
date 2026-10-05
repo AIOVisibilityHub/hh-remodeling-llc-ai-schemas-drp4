@@ -1,0 +1,84 @@
+{
+  "name": "What to Expect During the Project Closeout Phase",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Alright, so the main construction dust has settled, and now you're in the 'final detail work' phase of your home remodel. What should you expect? It usually kicks off with a thorough final walkthrough. This is where we meticulously check everything, from how things operate to how they look. We'll make any small adjustments needed, complete any last-minute trim, apply caulk, and do touch-ups where required. The goal is to make sure every single detail aligns with the agreed-upon scope before we officially sign off. This stage is all about confirming the work is exactly as it should be. While the main installation might be done quickly, this phase can sometimes take a bit longer if we need to fine-tune alignments, perfect weather sealing, or address any finish issues. It’s definitely not a stage to rush through! We want to make sure your space in Berkeley or the surrounding East Bay is absolutely perfect before we consider the job complete. Clear communication and a shared understanding of the scope are key here.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Expect During the Project Closeout Phase"
+}

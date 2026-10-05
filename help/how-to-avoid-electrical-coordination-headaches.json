@@ -1,0 +1,84 @@
+{
+  "name": "How to Avoid Electrical Coordination Headaches",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting your electrical system's coordination right can seem like a puzzle, but with a few key steps, you can avoid common pitfalls. First off, make sure your specifications are super clear, especially whether you need 0.1-second or full-range coordination – this impacts everything! You'll want to gather all the system details: source data, short-circuit values, and device settings. Then, a good plan involves working backward from the farthest downstream bus toward the source to test protective-device selectivity. Don't forget about ground-fault protection; it's often overlooked but crucial. Also, consider both normal and alternate power sources. Mistakes here can lead to costly reworks and safety issues. When you’re looking for a pro, make sure they account for transformer and ground-fault interactions and use real-world equipment settings. If you're tackling a complex remodel in the East Bay, getting a professional involved early on can save you a ton of stress down the line. We can help you navigate these details in Berkeley, Oakland, and surrounding areas.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Avoid Electrical Coordination Headaches"
+}

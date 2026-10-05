@@ -1,0 +1,109 @@
+{
+  "name": "What to Expect During a Full Bathroom Renovation in Tiburon",
+  "step": [
+    {
+      "name": "Step 1: Planning and Design",
+      "text": "This initial phase involves refining your vision, selecting materials, and finalizing the layout. We'll discuss your needs, style preferences, and how best to optimize your space for both function and fashion. This is also when we'll consider permit requirements, which are crucial and depend on your project's scope and local Tiburon regulations. This step typically involves several meetings and product selection.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Demolition and Rough-Ins",
+      "text": "Once planning is complete and any necessary permits are in hand, we'll begin the exciting (and sometimes messy!) demolition. Existing fixtures, tiles, and walls are removed. After demolition, the 'rough-in' work starts. This is where new plumbing lines and electrical wiring are put in place before the walls are closed up. This phase can take a week or two, depending on the complexity of changes, like moving a toilet or adding new outlets.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Inspections and Waterproofing",
+      "text": "Before we seal everything up, required inspections happen to ensure all rough-in electrical and plumbing work meets code. This is a critical checkpoint for quality and safety. Following successful inspections, we focus on waterproofing wet areas, like the shower. This isn't a step to rush; proper waterproofing prevents future issues and requires specific curing times for materials. This phase usually spans a few days to a week, accounting for drying times.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Tiling and Fixture Installation",
+      "text": "With the rough-ins and waterproofing complete, it's time for the finishes! We'll install your chosen tiles for the floor and shower surrounds. Once the tiling is done and cured, we move on to installing major fixtures like the vanity, toilet, shower, and bathtub. Precision is key here to make sure everything is level, secure, and looking perfect. This stage can take anywhere from one to three weeks, based on tile complexity and fixture types.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing Touches and Final Inspection",
+      "text": "Finally, it's all about the details. We'll install mirrors, lighting fixtures, accessories, and complete any painting. We also do a thorough test of all new plumbing and electrical components to ensure everything is functioning as it should. The project culminates with a final walkthrough, where we address any remaining punch list items, ensuring you're completely satisfied with your newly transformed bathroom. This final step typically takes a few days. Ready to start your Tiburon bathroom transformation? Contact Frasheski Construction to begin planning.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "This initial phase involves refining your vision, selecting materials, and finalizing the layout. We'll discuss your needs, style preferences, and how best to optimize your space for both function and"
+}

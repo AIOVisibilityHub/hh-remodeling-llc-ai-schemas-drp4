@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-cabinet-installation-cost",
+  "name": "How much does cabinet installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does cabinet installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet installation costs depend on several factors, such as the type and quantity of cabinets, the intricacy of the design, and any additional services like demolition or custom modifications. We offer competitive pricing and provide a detailed, no-obligation quote after evaluating your project requirements. Our goal is to deliver high-quality installation within your budget.",
+        "@type": "Answer",
+        "description": "Cabinet installation costs vary based on cabinet type, quantity, design complexity, and additional services. We provide detailed quotes after assessing your project."
+      }
+    }
+  ],
+  "description": "Cabinet installation costs vary based on cabinet type, quantity, design complexity, and additional services. We provide detailed quotes after assessing your pro"
+}

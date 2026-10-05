@@ -1,0 +1,84 @@
+{
+  "name": "How to Prepare for Your Renovation Walkthrough",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "The final quality walkthrough for your Berkeley or East Bay home remodel is an exciting moment, but it's also your last chance to ensure everything is perfect before you sign off. Being prepared makes a huge difference! Here’s a quick checklist to help you get ready. First, review your contract documents, plans, and specifications one last time. This helps you remember exactly what was agreed upon. Second, consider what you'll need during the walkthrough: a copy of your contract, a pen and paper for notes, your phone or camera to take photos of any issues, and maybe even a small flashlight to check corners and under cabinets. Third, think about who should attend. Typically, you and your contractor should be there. If you have an architect or designer, they might join too. Fourth, mentally prepare to be thorough. Don't rush! Plan to spend enough time in each room, systematically checking everything from the operation of fixtures to the quality of finishes. Finally, understand that the walkthrough happens when your contractor believes the work is 'substantially complete.' This means most things are done, but there might be a few minor adjustments. Being ready will help ensure a smooth process and a truly finished space you'll love.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to Prepare for Your Renovation Walkthrough"
+}

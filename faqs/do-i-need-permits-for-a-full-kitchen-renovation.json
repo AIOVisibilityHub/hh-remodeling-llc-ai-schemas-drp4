@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-a-full-kitchen-renovation",
+  "name": "Do I need permits for a full kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a full kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most full kitchen renovations, especially those involving changes to plumbing, electrical, or structural elements, require permits from your local city or county building department. This ensures that the work complies with safety and building codes. Frasheski Construction will assist with identifying and obtaining all necessary permits for your project in Berkeley, Oakland, Albany, El Cerrito, and surrounding areas.",
+        "@type": "Answer",
+        "description": "Most full kitchen renovations require permits, especially when plumbing, electrical, or structural changes are involved."
+      }
+    }
+  ],
+  "description": "Most full kitchen renovations require permits, especially when plumbing, electrical, or structural changes are involved."
+}

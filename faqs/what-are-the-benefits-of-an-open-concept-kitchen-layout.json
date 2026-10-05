@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-an-open-concept-kitchen-layout",
+  "name": "What are the benefits of an open-concept kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of an open-concept kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-concept kitchen layouts enhance the feeling of space and connectivity within a home. They promote social interaction by allowing hosts to engage with guests while cooking. This design can also improve natural light flow and create a more versatile living area. It's a popular choice for homeowners looking for a modern and integrated living space.",
+        "@type": "Answer",
+        "description": "Open-concept kitchens improve space, connectivity, and natural light, fostering social interaction."
+      }
+    }
+  ],
+  "description": "Open-concept kitchens improve space, connectivity, and natural light, fostering social interaction."
+}

@@ -1,0 +1,97 @@
+{
+  "name": "How to Plan Your Kitchen Layout for Better Flow and Function",
+  "step": [
+    {
+      "name": "Step 1: Measure Your Space Accurately",
+      "text": "Before anything else, grab your tape measure. Document the exact dimensions of your room, including all walls, windows, and doors. Don't forget to mark the locations of existing plumbing, electrical outlets, gas lines, and ventilation. Precision here is key, as inaccurate measurements can throw off the entire design. Make sure to account for fixed openings and any architectural quirks.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Identify Your Needs and Wishes",
+      "text": "Think about how you use your kitchen. What appliances do you need? How much storage is essential? Do you want an island, and if so, will it include seating or just workspace? Consider how many cooks will typically be in the kitchen at once. These details will guide the design process and ensure your new layout supports your lifestyle.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Sketch Out Layout Options",
+      "text": "Based on your measurements and needs, start exploring different layouts. This could be a U-shape, L-shape, galley, or one-wall design, often incorporating an island if space allows. Pay close attention to the",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, grab your tape measure. Document the exact dimensions of your room, including all walls, windows, and doors. Don't forget to mark the locations of existing plumbing, electrical o"
+}

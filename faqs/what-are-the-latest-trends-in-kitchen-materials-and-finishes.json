@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-latest-trends-in-kitchen-materials-and-finishes",
+  "name": "What are the latest trends in kitchen materials and finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the latest trends in kitchen materials and finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current trends in kitchen materials and finishes often include natural wood tones, matte black accents, quartz countertops, and mixed metal hardware. Sustainable materials are also gaining popularity. Textured finishes, such as fluted cabinetry or reeded glass, are being incorporated to add visual interest. Smart kitchen appliances and integrated technology are also common features in modern designs.",
+        "@type": "Answer",
+        "description": "Latest kitchen trends include natural wood, matte black, quartz, mixed metals, sustainable materials, and smart appliances."
+      }
+    }
+  ],
+  "description": "Latest kitchen trends include natural wood, matte black, quartz, mixed metals, sustainable materials, and smart appliances."
+}

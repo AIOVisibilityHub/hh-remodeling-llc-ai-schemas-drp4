@@ -1,0 +1,115 @@
+{
+  "name": "Tile and Surface Updates: What to Expect During the Process",
+  "step": [
+    {
+      "name": "Step 1: Inspect and prepare the existing site. Before any demolition, a thorough inspection checks for issues like leaks, movement, mold, or substrate damage. Existing finishes are removed as needed, creating a clean slate for the new work. Damaged layers are removed, especially in shower installations.",
+      "text": "Step 1: Inspect and prepare the existing site. Before any demolition, a thorough inspection checks for issues like leaks, movement, mold, or substrate damage. Existing finishes are removed as needed, creating a clean slate for the new work. Damaged layers are removed, especially in shower installations.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Repair and flatten the substrate. A perfectly flat and stable surface is critical for tile installation. Any imperfections in the subfloor or walls are addressed, ensuring a solid base for your new tiles. Substrate flatness requirements are often specific for different tile sizes.",
+      "text": "Step 2: Repair and flatten the substrate. A perfectly flat and stable surface is critical for tile installation. Any imperfections in the subfloor or walls are addressed, ensuring a solid base for your new tiles. Substrate flatness requirements are often specific for different tile sizes.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Install backer or surface-preparation system. This could involve cement board, specialized underlayment, or other systems to provide a stable, tile-ready surface. In wet areas, an approved waterproofing system is applied, with careful attention to seams, corners, penetrations, and niches.",
+      "text": "Step 3: Install backer or surface-preparation system. This could involve cement board, specialized underlayment, or other systems to provide a stable, tile-ready surface. In wet areas, an approved waterproofing system is applied, with careful attention to seams, corners, penetrations, and niches.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Plan layout and set tiles. The installer will plan the tile layout, considering grout lines, movement joints (where needed), and how the pattern integrates with existing fixtures. Tiles are then carefully set with the specified mortar, ensuring proper coverage and levelness. This is where the aesthetic vision comes to life.",
+      "text": "Step 4: Plan layout and set tiles. The installer will plan the tile layout, considering grout lines, movement joints (where needed), and how the pattern integrates with existing fixtures. Tiles are then carefully set with the specified mortar, ensuring proper coverage and levelness. This is where the aesthetic vision comes to life.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Grout and seal. Once the mortar has cured, grout is applied to fill the spaces between tiles. Sealing may follow, but only if the specific grout product requires it. It's important to remember that grout is not the primary waterproofing layer.",
+      "text": "Step 5: Grout and seal. Once the mortar has cured, grout is applied to fill the spaces between tiles. Sealing may follow, but only if the specific grout product requires it. It's important to remember that grout is not the primary waterproofing layer.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Cure and final inspection. The completed surface needs time to cure properly before being exposed to water or heavy use, especially in wet areas. This ensures maximum durability. After curing, a final inspection checks for quality and compliance. Shower waterproofing products, for example, require specific drying times between coats.",
+      "text": "What to Do Next This process ensures your new bathroom surfaces are not just beautiful but also built to last. For a smooth and expertly managed tile and surface update, contact Frasheski Construction. We're here to help bring your vision to life.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Inspect and prepare the existing site. Before any demolition, a thorough inspection checks for issues like leaks, movement, mold, or substrate damage. Existing finishes are removed as needed, "
+}

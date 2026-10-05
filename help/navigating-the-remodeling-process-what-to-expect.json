@@ -1,0 +1,109 @@
+{
+  "name": "Navigating the Remodeling Process: What to Expect",
+  "step": [
+    {
+      "name": "Step 1: Define Goals & Budget (Weeks 1-4)",
+      "text": "This initial phase involves clarifying what you want to achieve with your remodel and establishing a realistic budget. You'll gather ideas, make wish lists, and outline the functional and aesthetic improvements. This is where Frasheski Construction collaborates with you to understand your vision and align it with practical possibilities. Expect this planning stage to take a few weeks as decisions are made and refined.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design & Approvals (Weeks 4-12)",
+      "text": "With goals set, this phase focuses on developing detailed drawings and specifications. If structural changes or layout alterations are involved, a designer or architect might create blueprints. This is also when you'll identify and secure any necessary permits from your local municipality. Permit requirements and approval lead times can vary significantly across the East Bay, so this step can range from several weeks to a few months.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Contractor Selection & Material Procurement (Weeks 8-16)",
+      "text": "Once plans are approved, you’ll obtain comparable written proposals from contractors and make your selection. Simultaneously, this is the crucial time to order materials, especially long-lead items like custom cabinets, specific appliances, or unique tiles. Delays here can push back the entire project, so ordering early is key. Frasheski Construction helps coordinate this, ensuring timely procurement.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction & Installation (Weeks 12-24+)",
+      "text": "This is where the physical transformation happens! It typically begins with demolition and structural work, followed by mechanical rough-ins (plumbing, electrical, HVAC). After inspections, insulation and drywall go up, preparing for interior finishes like painting, flooring, and cabinetry. Finally, fixtures are installed, and a punch-list is created for any last touch-ups. Construction timelines vary greatly depending on scope, but a substantial remodel can take several months.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Inspections, Punch-List & Closeout (Weeks 20-28+)",
+      "text": "As construction wraps up, final inspections are conducted to ensure everything meets code and quality standards. A punch-list identifies any remaining items needing attention or minor adjustments. Once these are complete and you're satisfied, the project officially closes out. Frasheski Construction prides itself on daily involvement to ensure quality and a smooth closeout for your complete satisfaction. What to Do Next: Ready to start your remodeling journey? Contact Frasheski Construction today to discuss your project. We provide comprehensive remodeling solutions in the East Bay Area and are dedicated to guiding you through each phase with expertise and hands-on involvement.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "This initial phase involves clarifying what you want to achieve with your remodel and establishing a realistic budget. You'll gather ideas, make wish lists, and outline the functional and aesthetic im"
+}

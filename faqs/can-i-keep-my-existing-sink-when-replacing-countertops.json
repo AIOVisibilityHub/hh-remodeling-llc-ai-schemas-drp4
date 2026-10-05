@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-keep-my-existing-sink-when-replacing-countertops",
+  "name": "Can I keep my existing sink when replacing countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing sink when replacing countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, whether you can keep your existing sink depends on its condition, type, and compatibility with your new countertop material. For undermount sinks, it's often recommended to get a new one to ensure a perfect fit and seal with the new countertop. Drop-in sinks might be easier to reuse, but our team will assess this during the consultation.",
+        "@type": "Answer",
+        "description": "Reusing an existing sink depends on its condition, type, and compatibility with the new countertop material."
+      }
+    }
+  ],
+  "description": "Reusing an existing sink depends on its condition, type, and compatibility with the new countertop material."
+}

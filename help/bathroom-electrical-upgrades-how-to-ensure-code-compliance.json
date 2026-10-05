@@ -1,0 +1,115 @@
+{
+  "name": "Bathroom Electrical Upgrades: How to Ensure Code Compliance",
+  "step": [
+    {
+      "name": "Step 1: Assess your current electrical system. Before any work begins, a professional will check your existing panel, circuit breakers, and wiring to see if they can support new fixtures and if there are any outdated components. This helps prevent overloading circuits, a frequent mistake.",
+      "text": "Step 1: Assess your current electrical system. Before any work begins, a professional will check your existing panel, circuit breakers, and wiring to see if they can support new fixtures and if there are any outdated components. This helps prevent overloading circuits, a frequent mistake.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Plan fixture and switch placement carefully. Consider where new lights, fans, and outlets will go. Remember, bathroom receptacles generally require GFCI protection, and fixtures near a tub or shower must be listed for damp or wet locations. Local codes often specify zones around tubs and showers for fixture ratings.",
+      "text": "Step 2: Plan fixture and switch placement carefully. Consider where new lights, fans, and outlets will go. Remember, bathroom receptacles generally require GFCI protection, and fixtures near a tub or shower must be listed for damp or wet locations. Local codes often specify zones around tubs and showers for fixture ratings.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Shut off power and test circuits. Safety first! All power to the work area must be completely off and verified with a tester before touching any wires. This prevents accidental shocks.",
+      "text": "Step 3: Shut off power and test circuits. Safety first! All power to the work area must be completely off and verified with a tester before touching any wires. This prevents accidental shocks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install or modify boxes, wiring, controls, and fixtures. This is where the physical work happens, from running new wires to mounting boxes and connecting fixtures. Work near a shower or tub must use fixtures listed for the applicable damp or wet location, and local amendments for GFCI protection should always be verified.",
+      "text": "Step 4: Install or modify boxes, wiring, controls, and fixtures. This is where the physical work happens, from running new wires to mounting boxes and connecting fixtures. Work near a shower or tub must use fixtures listed for the applicable damp or wet location, and local amendments for GFCI protection should always be verified.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Test GFCI operation thoroughly. Once installed, GFCI outlets need to be tested to ensure they trip correctly, providing essential shock protection in wet environments. Failing to test GFCI protection is a common oversight.",
+      "text": "Step 5: Test GFCI operation thoroughly. Once installed, GFCI outlets need to be tested to ensure they trip correctly, providing essential shock protection in wet environments. Failing to test GFCI protection is a common oversight.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Obtain any required inspections. Depending on the scope of work, your local jurisdiction might require an electrical inspection to confirm everything meets code. This is a critical step to ensure compliance and safety. Ventilation is also often overlooked; one common requirement is mechanical ventilation where tubs or showers are present, with separate fan switching.",
+      "text": "What to Do Next Ensuring compliance can be complex, but it's vital for your family's safety. Contact Frasheski Construction today to discuss your bathroom electrical upgrades and ensure your project is done right, meeting all local regulations.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Assess your current electrical system. Before any work begins, a professional will check your existing panel, circuit breakers, and wiring to see if they can support new fixtures and if there "
+}

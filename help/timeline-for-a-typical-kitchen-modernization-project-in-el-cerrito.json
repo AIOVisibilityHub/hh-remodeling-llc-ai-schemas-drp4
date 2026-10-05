@@ -1,0 +1,115 @@
+{
+  "name": "Timeline for a Typical Kitchen Modernization Project in El Cerrito",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design Development (2-8 weeks)",
+      "text": "This phase kicks off with a professional meeting to discuss your vision, needs, and budget. We’ll document existing conditions and identify structural or mechanical constraints. Then, we develop conceptual layouts and material selections, often involving several revisions. This stage is all about collaboration to define the scope and layout that truly fits your lifestyle.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Pricing & Approvals (2-4 weeks)",
+      "text": "Once the design is finalized, we'll provide detailed pricing based on material selections and labor. During this time, we'll also research and secure any necessary local permits from the relevant building authority in El Cerrito. This can involve plan reviews and approvals, which vary in duration depending on the project's complexity and local regulations.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Material Procurement & Scheduling (4-12 weeks)",
+      "text": "With plans approved, we move to ordering all your selected materials, from cabinetry and countertops to appliances and fixtures. Lead times can vary significantly for custom or specialized items. Simultaneously, we'll finalize the construction schedule, coordinating our skilled tradespeople to ensure a seamless flow once work begins.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition & Rough-Ins (1-3 weeks)",
+      "text": "This is where the physical transformation begins! The old kitchen is carefully removed, followed by any necessary structural modifications, and the installation of new plumbing, electrical, and HVAC rough-ins. This stage is crucial for laying the groundwork for all subsequent installations and must pass required inspections.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishes & Fixture Installation (3-6 weeks)",
+      "text": "After rough-ins are complete and inspected, we install drywall, flooring, cabinetry, countertops, and backsplash. Finally, the chosen appliances, lighting fixtures, and plumbing fixtures are put into place. This is where your new kitchen truly starts to take shape, and the design vision comes to life.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Touches & Walkthrough (1 week)",
+      "text": "The project concludes with painting, final adjustments, and a thorough cleaning. We'll then do a comprehensive walkthrough with you to ensure every detail meets your expectations and our high standards. Any minor adjustments are handled promptly, leaving you with a beautifully modernized and functional kitchen. Ready to plan your El Cerrito kitchen modernization? Reach out to Frasheski Construction to start the conversation today.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase kicks off with a professional meeting to discuss your vision, needs, and budget. We’ll document existing conditions and identify structural or mechanical constraints. Then, we develop conce"
+}

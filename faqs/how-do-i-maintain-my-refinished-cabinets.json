@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-my-refinished-cabinets",
+  "name": "How do I maintain my refinished cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my refinished cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To maintain your refinished cabinets, regularly wipe them with a soft, damp cloth and a mild, non-abrasive cleaner. Avoid harsh chemicals, abrasive scrubbers, or excessive moisture, which can damage the finish. Promptly clean up spills to prevent staining. Proper care will help extend the life and beauty of your newly refinished cabinets.",
+        "@type": "Answer",
+        "description": "Clean refinished cabinets with a soft, damp cloth and mild cleaner; avoid harsh chemicals and excessive moisture."
+      }
+    }
+  ],
+  "description": "Clean refinished cabinets with a soft, damp cloth and mild cleaner; avoid harsh chemicals and excessive moisture."
+}

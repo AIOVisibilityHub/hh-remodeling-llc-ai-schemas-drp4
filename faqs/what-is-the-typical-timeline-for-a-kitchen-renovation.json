@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-timeline-for-a-kitchen-renovation",
+  "name": "What is the typical timeline for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for a kitchen renovation can range from several weeks to a few months. Smaller updates, such as painting and new countertops, will naturally be quicker. A complete kitchen overhaul involving layout changes, plumbing, and electrical work will take longer. Factors like material availability and the approval process for permits can also influence the project duration.",
+        "@type": "Answer",
+        "description": "A kitchen renovation can take several weeks to a few months, depending on the project's complexity."
+      }
+    }
+  ],
+  "description": "A kitchen renovation can take several weeks to a few months, depending on the project's complexity."
+}

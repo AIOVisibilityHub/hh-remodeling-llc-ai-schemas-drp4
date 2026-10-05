@@ -1,0 +1,84 @@
+{
+  "name": "What to check before installing a new appliance?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting a new appliance is exciting, but before you rush into installation, there are a few critical things to double-check to avoid headaches later! First, you absolutely need to confirm the dimensions and clearances. Does that new fridge actually fit through the door and into its designated spot with enough breathing room? Next, take a good look at your utility hookups. Do the electrical outlets, gas lines, or water connections match what your new appliance requires? Sometimes, older homes might need an upgrade here. Then, clarify exactly what the installation service includes. Will they just drop it off, or will they connect everything, test it out, and even haul away your old unit? Don't forget about site readiness – do you need to clear a path or prep the area? If you're swapping a gas range, for instance, making sure the gas line is ready and accessible is super important. Lastly, ask about the installation appointment itself: when will they arrive, and how long should it take? A little prep now saves a lot of stress later. Frasheski Construction can help coordinate these details, ensuring a smooth transition for your new appliances.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What to check before installing a new appliance?"
+}

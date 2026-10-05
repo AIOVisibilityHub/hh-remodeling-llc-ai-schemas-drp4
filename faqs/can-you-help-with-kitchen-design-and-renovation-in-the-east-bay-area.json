@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-kitchen-design-and-renovation-in-the-east-bay-area",
+  "name": "Can you help with kitchen design and renovation in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with kitchen design and renovation in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction provides comprehensive kitchen design and renovation services throughout the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito. Our team can assist with everything from initial design concepts and material selection to complete project management and construction, ensuring a seamless and high-quality transformation of your kitchen space.",
+        "@type": "Answer",
+        "description": "Frasheski Construction offers kitchen design and renovation services in the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito."
+      }
+    }
+  ],
+  "description": "Frasheski Construction offers kitchen design and renovation services in the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito."
+}

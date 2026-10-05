@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-cabinet-installation",
+  "name": "What areas do you serve for cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves the East Bay area, including Berkeley, Oakland, Albany, and El Cerrito. If you are located in a neighboring community within the East Bay, please contact us to confirm service availability. We are dedicated to providing reliable cabinet installation services to our local community.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, and El Cerrito in the East Bay. Contact us to confirm service in neighboring communities."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, and El Cerrito in the East Bay. Contact us to confirm service in neighboring communities."
+}

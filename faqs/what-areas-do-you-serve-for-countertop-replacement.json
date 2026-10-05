@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-countertop-replacement",
+  "name": "What areas do you serve for countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides countertop replacement services throughout the East Bay area. Our service locations include Berkeley, Oakland, Albany, El Cerrito, and Kensington. If you are located in these areas and are considering new countertops, please reach out to us for a consultation. We focus on serving our local communities with quality craftsmanship.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington for countertop replacement."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington for countertop replacement."
+}

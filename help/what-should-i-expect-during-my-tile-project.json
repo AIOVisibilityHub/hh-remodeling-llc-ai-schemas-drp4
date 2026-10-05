@@ -1,0 +1,84 @@
+{
+  "name": "What Should I Expect During My Tile Project?",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Embarking on a tile project means bringing new life and style to your home, and knowing the process helps everything go smoothly. It all starts with the design and selection phase, where you pick out your perfect tile and grout. This is where you get to unleash your creativity! Once your choices are made, the crucial surface preparation begins. This means making sure your subfloor or walls are clean, stable, and perfectly level. Trust me, good prep is the foundation of any great tile job. Next up is layout planning. This involves dry-laying tiles to figure out the best arrangement and pattern, ensuring everything looks balanced and minimizes awkward cuts. This step is super important for achieving that professional, polished look. Then, it's time for setting the tile. Your installer will carefully apply thinset and place each tile, making sure everything is aligned and level. After the tiles are set and the thinset has cured, grouting takes place. This fills the spaces between your tiles, adding to the finished look and protecting against dirt. For wet areas, sealant and waterproofing are applied as needed to ensure durability and prevent moisture issues. Finally, there's a cure time before you can fully use the area, followed by a thorough cleanup. Timing can vary based on substrate prep and cure times, so patience is key! If you need a hand coordinating your tile project in Berkeley or the East Bay, Frasheski Construction is here to help.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "What Should I Expect During My Tile Project?"
+}

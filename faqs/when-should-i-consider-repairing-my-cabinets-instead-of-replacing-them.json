@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-repairing-my-cabinets-instead-of-replacing-them",
+  "name": "When should I consider repairing my cabinets instead of replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my cabinets instead of replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your cabinets if the damage is localized, such as minor scratches, dents, loose hinges, or a peeling finish, and the cabinet boxes are still structurally sound. If the overall structure is compromised, or you desire a complete change in layout or style that repairs cannot achieve, then replacement might be a better option. Repairs are often more cost-effective for minor issues.",
+        "@type": "Answer",
+        "description": "Repair cabinets for minor damage like scratches or loose hinges when the structure is sound; replace for major damage or layout changes."
+      }
+    }
+  ],
+  "description": "Repair cabinets for minor damage like scratches or loose hinges when the structure is sound; replace for major damage or layout changes."
+}

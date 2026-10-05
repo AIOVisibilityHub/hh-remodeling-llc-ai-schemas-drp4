@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-full-kitchen-renovation-typically-take",
+  "name": "How long does a full kitchen renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full kitchen renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a full kitchen renovation generally ranges from 6 to 12 weeks, though it can be longer for more complex projects. This duration includes design, material ordering, demolition, and installation. Factors such as the availability of materials, permitting processes, and the scope of structural changes can influence the overall project duration. We provide a detailed timeline at the start of each project.",
+        "@type": "Answer",
+        "description": "A full kitchen renovation typically takes 6 to 12 weeks, depending on project complexity and material availability."
+      }
+    }
+  ],
+  "description": "A full kitchen renovation typically takes 6 to 12 weeks, depending on project complexity and material availability."
+}

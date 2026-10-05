@@ -1,0 +1,115 @@
+{
+  "name": "What to Expect During Your Kitchen Plumbing Upgrade",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Planning",
+      "text": "This is where you'll discuss your vision, appliance choices, and any relocations or new installations (like a pot filler or instant-hot water unit). A professional will document existing pipe locations and conditions, helping to finalize your cabinet and appliance layout. This phase sets the blueprint for the entire project and can take anywhere from a few days to a couple of weeks, depending on design complexity.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permit Application & Design Finalization",
+      "text": "Once the layout is solid, the design for supply, drain, and shutoff locations is finalized. If you're moving fixtures, adding new lines, or altering drain/vent work, you'll likely need a plumbing permit. Your contractor will guide you through this, handling the application process. This step can take a few weeks as local building departments review plans and issue permits.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Rough-in Plumbing Work",
+      "text": "After permits are secured, the demolition begins (if needed), and the new rough-in plumbing is installed. This involves running new water supply lines, drain-waste-vent piping, and setting up the connections for your sink, dishwasher, and other appliances before walls are closed up. This phase usually lasts several days to a week.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-in Inspection",
+      "text": "Crucially, before any walls or cabinets go in, the rough-in plumbing must pass inspection by the local authority. This ensures everything is up to code and installed correctly. Your contractor will schedule and be present for this. It's a critical checkpoint, typically a short appointment, but requires everything to be exposed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Fixture Installation & Testing",
+      "text": "Once the walls are closed and cabinets are installed, your new sink, faucet, dishwasher, and other plumbing fixtures are connected. The system is then pressure- and leak-tested thoroughly to catch any issues before they become a problem. This final installation and testing can take a couple of days.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Inspection (If Required)",
+      "text": "Finally, where required by your local jurisdiction, a final inspection will be conducted to ensure all finished plumbing work meets code and functions properly. This is the last step before you can fully enjoy your upgraded kitchen. Frasheski Construction manages all these steps with hands-on involvement, ensuring quality and a smooth process for clients in the East Bay Area. Ready to transform your kitchen? Contact Frasheski Construction to start planning your plumbing upgrade today.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "This is where you'll discuss your vision, appliance choices, and any relocations or new installations (like a pot filler or instant-hot water unit). A professional will document existing pipe location"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "How to plan for a smooth flooring installation",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting new flooring can totally transform a space, but coordinating it all can feel like a puzzle! A smooth installation starts with some solid planning. First off, get super clear on the timeline. Ask your installer how long the project will actually take, from start to finish, and if they can work around your schedule. Next, clarify what your quote includes. Does it cover subfloor prep, removing old flooring, hauling it away, and the final cleanup? These details can really add up! Make sure you understand the installation method for your chosen material, as this can affect everything from durability to appearance. Don't forget about acclimation time; some materials need to sit in your home for a bit before installation to prevent issues later on. Finally, think about coordinating with other work. Flooring is often one of the last things to go in, so other messy jobs like painting or drywall should be done first to protect your beautiful new floors. Having a clear plan and asking all the right questions upfront will definitely save you headaches down the road. If you're feeling overwhelmed, a good contractor like Frasheski Construction can help coordinate all these moving parts for you.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "How to plan for a smooth flooring installation"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-kitchen-design-styles",
+  "name": "What are common kitchen design styles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen design styles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen design styles include modern, traditional, transitional, farmhouse, and industrial. Modern kitchens often feature clean lines, minimal ornamentation, and a focus on functionality. Traditional designs embrace classic elements like ornate cabinetry and decorative accents. Transitional kitchens blend modern and traditional elements. Farmhouse style emphasizes rustic charm with natural materials, while industrial designs incorporate raw materials like exposed brick and metal.",
+        "@type": "Answer",
+        "description": "Common kitchen design styles include modern, traditional, transitional, farmhouse, and industrial."
+      }
+    }
+  ],
+  "description": "Common kitchen design styles include modern, traditional, transitional, farmhouse, and industrial."
+}

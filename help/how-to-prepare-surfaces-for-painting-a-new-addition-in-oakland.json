@@ -1,0 +1,115 @@
+{
+  "name": "How to Prepare Surfaces for Painting a New Addition in Oakland",
+  "step": [
+    {
+      "name": "Step 1: Complete Drywall Finishing",
+      "text": "Ensure all drywall work is done and has been inspected. All joints should be taped and mudded smoothly, and any repairs should be fully set. This step is foundational for a flawless paint job.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Allow Drying and Sanding",
+      "text": "Let the joint compound dry completely, which typically takes at least 24 hours per coat under normal conditions. Once dry, sand it smooth. In colder or damp conditions, this drying period might need to be extended to prevent issues.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove Dust Thoroughly",
+      "text": "After sanding, meticulously remove all dust from the surfaces. Use a damp cloth or a vacuum with a brush attachment to ensure no dust particles remain, as they can cause a gritty texture in your final paint.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Protect Adjacent Areas",
+      "text": "Mask off all areas not intended for paint, such as windows, trim, and flooring, using painter's tape and drop cloths. This prevents overspray and ensures crisp, clean lines on your finished work.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prime New or Repaired Surfaces",
+      "text": "Apply a suitable primer to all new drywall and bare wood. Primer creates a uniform, sealed surface that promotes better adhesion and a more even appearance for your topcoats. Don't skip this step!",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Apply Finish Coats",
+      "text": "Once the primer is dry, apply your chosen finish coats. Always follow the paint manufacturer's recommendations for recoat times and apply in thin, even layers for the best results. Need a hand with your Oakland addition? Reach out to Frasheski Construction for expert painting and finishing.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Ensure all drywall work is done and has been inspected. All joints should be taped and mudded smoothly, and any repairs should be fully set. This step is foundational for a flawless paint job."
+}

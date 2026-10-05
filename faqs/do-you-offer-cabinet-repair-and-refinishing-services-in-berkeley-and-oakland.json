@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-cabinet-repair-and-refinishing-services-in-berkeley-and-oakland",
+  "name": "Do you offer cabinet repair and refinishing services in Berkeley and Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer cabinet repair and refinishing services in Berkeley and Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction proudly offers cabinet repair and refinishing services throughout the East Bay, including Berkeley, Oakland, Albany, El Cerrito, and surrounding areas. Our local expertise ensures we understand the specific needs and styles prevalent in these communities. Contact us to schedule a consultation at your location.",
+        "@type": "Answer",
+        "description": "Yes, we provide cabinet repair and refinishing services in Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas."
+      }
+    }
+  ],
+  "description": "Yes, we provide cabinet repair and refinishing services in Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-replace-my-countertops-if-they-are-stained",
+  "name": "Do I need to replace my countertops if they are stained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my countertops if they are stained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all stains necessitate a full countertop replacement. The ability to remove a stain depends on the material, the type of stain, and how long it has been there. For some materials, professional cleaning or resurfacing might be an option. However, deep or widespread staining that cannot be removed or repaired might indicate it's time for a replacement, especially if it affects hygiene or aesthetics.",
+        "@type": "Answer",
+        "description": "Deep or widespread stains that cannot be removed or repaired may necessitate countertop replacement, but not all stains do."
+      }
+    }
+  ],
+  "description": "Deep or widespread stains that cannot be removed or repaired may necessitate countertop replacement, but not all stains do."
+}

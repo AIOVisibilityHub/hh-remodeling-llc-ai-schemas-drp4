@@ -1,0 +1,109 @@
+{
+  "name": "What to Expect During a Full Kitchen Renovation in the East Bay",
+  "step": [
+    {
+      "name": "Step 1: Planning and Design",
+      "text": "This initial phase involves confirming your requirements and budget. We measure and document your existing space and then develop the layout and specifications. This is where we coordinate all the elements like cabinets, appliances, plumbing, electrical, lighting, and ventilation. Expect to spend time making decisions and reviewing drawings.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Approvals and Ordering",
+      "text": "Next, we'll work on obtaining any locally required approvals for permits, especially if your project involves structural changes, new circuits, or plumbing relocations. This is also when we order long-lead materials, like custom cabinets or specific appliances. Lead times can vary, so patience here is key.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition and Rough-ins",
+      "text": "Once materials arrive and permits are in hand, it's time for demolition! We'll carefully remove old elements. Then comes the 'rough-in' stage, where new plumbing lines, electrical wiring, and ventilation ducts are installed before the walls are closed up. Inspections often happen at this point to ensure everything is up to code.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation and Finishing",
+      "text": "This is where your kitchen really starts to take shape! We install cabinets, countertops, and flooring. Then appliances are connected, and lighting fixtures are put in place. Finally, we move onto painting and other finishing touches. Our daily involvement ensures everything meets our quality standards.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Touches and Cleanup",
+      "text": "As the project wraps up, we’ll complete any remaining small tasks, test all systems, and ensure everything is working perfectly. A thorough cleanup makes sure your new kitchen is ready for you to enjoy. We make sure your home is transformed to your satisfaction. What to Do Next: Curious about how a full kitchen renovation will work for your East Bay home? Contact Frasheski Construction today to discuss your project and get a clear understanding of the process.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "This initial phase involves confirming your requirements and budget. We measure and document your existing space and then develop the layout and specifications. This is where we coordinate all the ele"
+}

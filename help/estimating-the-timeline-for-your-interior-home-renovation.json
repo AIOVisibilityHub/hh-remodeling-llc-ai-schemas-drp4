@@ -1,0 +1,115 @@
+{
+  "name": "Estimating the Timeline for Your Interior Home Renovation",
+  "step": [
+    {
+      "name": "Step 1: Defining Objectives and Budget (Variable): This initial phase involves figuring out exactly what you want, setting a budget, and doing some research. It's really important to get this right before anything else. This can take anywhere from a few days to several weeks, depending on how clear you are on your vision.",
+      "text": "Step 1: Defining Objectives and Budget (Variable): This initial phase involves figuring out exactly what you want, setting a budget, and doing some research. It's really important to get this right before anything else. This can take anywhere from a few days to several weeks, depending on how clear you are on your vision.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Planning (Weeks to Months): This is where measurements are taken, plans are drawn up, and materials are selected. Complex designs or custom elements will naturally take longer. Making timely decisions on finishes and fixtures here is key to avoiding delays later.",
+      "text": "Step 2: Design and Planning (Weeks to Months): This is where measurements are taken, plans are drawn up, and materials are selected. Complex designs or custom elements will naturally take longer. Making timely decisions on finishes and fixtures here is key to avoiding delays later.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Review and Approval (Weeks to Months): Many significant renovations require permits from your local building department. The time this takes can vary wildly by jurisdiction in the East Bay, so patience is a virtue here. We'll handle the permit application, but the review time is out of our hands.",
+      "text": "Step 3: Permit Review and Approval (Weeks to Months): Many significant renovations require permits from your local building department. The time this takes can vary wildly by jurisdiction in the East Bay, so patience is a virtue here. We'll handle the permit application, but the review time is out of our hands.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Material Ordering and Lead Times (Weeks to Months): Once plans are approved, materials need to be ordered. Custom cabinets, unique tiles, or special-order fixtures can have significant lead times. Delays often happen if selections aren't finalized early.",
+      "text": "Step 4: Material Ordering and Lead Times (Weeks to Months): Once plans are approved, materials need to be ordered. Custom cabinets, unique tiles, or special-order fixtures can have significant lead times. Delays often happen if selections aren't finalized early.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Demolition and Construction (Weeks to Months): This is the active building phase. The complexity and size of your project will dictate how long this takes. We focus on doing one project at a time to ensure quality and efficiency, but concealed conditions (like unexpected damage) can extend this.",
+      "text": "Step 5: Demolition and Construction (Weeks to Months): This is the active building phase. The complexity and size of your project will dictate how long this takes. We focus on doing one project at a time to ensure quality and efficiency, but concealed conditions (like unexpected damage) can extend this.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Inspections and Final Touches (Days to Weeks): As work progresses, various inspections are required by the city. Once construction is complete, we'll do a final walk-through to address any last details and ensure everything is perfect. Remember, timing is affected by design complexity, material availability, and permit review. To get a more specific estimate for your project, let's chat about your vision. Contact Frasheski Construction to discuss your renovation.",
+      "text": "Step 6: Inspections and Final Touches (Days to Weeks): As work progresses, various inspections are required by the city. Once construction is complete, we'll do a final walk-through to address any last details and ensure everything is perfect. Remember, timing is affected by design complexity, material availability, and permit review. To get a more specific estimate for your project, let's chat about your vision. Contact Frasheski Construction to discuss your renovation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Defining Objectives and Budget (Variable): This initial phase involves figuring out exactly what you want, setting a budget, and doing some research. It's really important to get this right be"
+}

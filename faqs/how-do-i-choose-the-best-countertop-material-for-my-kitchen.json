@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-best-countertop-material-for-my-kitchen",
+  "name": "How do I choose the best countertop material for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best countertop material for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best countertop material involves considering your lifestyle, aesthetic preferences, and budget. Think about how you use your kitchen: do you need high durability, heat resistance, or low maintenance? Also, consider how the material will complement your existing cabinetry and overall kitchen design. Our team can help guide you through the options to find the perfect fit.",
+        "@type": "Answer",
+        "description": "Choose by considering your lifestyle, aesthetic preferences, budget, and how you use your kitchen."
+      }
+    }
+  ],
+  "description": "Choose by considering your lifestyle, aesthetic preferences, budget, and how you use your kitchen."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-with-kitchen-design-and-layout-ideas",
+  "name": "Can you help with kitchen design and layout ideas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with kitchen design and layout ideas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our team provides comprehensive kitchen design services to help you visualize and plan your new space. We work with you to understand your lifestyle, preferences, and functional needs, offering suggestions for optimal layouts, material selections, and aesthetic choices. Our goal is to create a kitchen that is both beautiful and highly functional for your home.",
+        "@type": "Answer",
+        "description": "Yes, we provide full kitchen design services, helping with layouts, material selection, and aesthetic choices."
+      }
+    }
+  ],
+  "description": "Yes, we provide full kitchen design services, helping with layouts, material selection, and aesthetic choices."
+}

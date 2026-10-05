@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-repairs-can-be-made-to-damaged-cabinets",
+  "name": "What kind of repairs can be made to damaged cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs can be made to damaged cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet repairs include fixing loose hinges, realigning doors, patching holes or dents in wood, repairing water damage on cabinet bases, replacing drawer slides, and securing loose cabinet frames. We can also address issues like peeling laminate, chipped edges, and minor structural weaknesses to restore the functionality and appearance of your cabinets.",
+        "@type": "Answer",
+        "description": "Cabinet repairs can fix loose hinges, dents, water damage, drawer slides, and peeling finishes."
+      }
+    }
+  ],
+  "description": "Cabinet repairs can fix loose hinges, dents, water damage, drawer slides, and peeling finishes."
+}

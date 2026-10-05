@@ -1,0 +1,109 @@
+{
+  "name": "How to Prepare Your Home for New Appliance Installation",
+  "step": [
+    {
+      "name": "Step 1: Measure Your Appliance and Access Route",
+      "text": "Before anything else, measure your new appliance's dimensions carefully. Then, measure all doorways, hallways, and any tight corners along the delivery path. Don't forget to consider door swings! This helps confirm your appliance can actually make it into your home and into its designated spot.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Confirm Installation Specifications and Clearances",
+      "text": "Check the manufacturer's installation manual for specific requirements. This includes things like electrical outlet types, gas line proximity, water line access, shut-off valve locations, and crucially, any minimum air clearances needed around the appliance for proper function and safety.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear the Delivery Path and Arrange Access",
+      "text": "On delivery day, make sure the path from outside your home to the appliance's final location is clear of obstacles. If you live in an apartment or a community with controlled access, arrange for parking permits or building access ahead of time. Also, remember to secure any pets and ensure a responsible adult is present for the delivery.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Prepare the Appliance Location",
+      "text": "If you're replacing an old appliance, make sure it's emptied and removed before the new one arrives. Verify that all necessary utilities – electrical, gas, water – are accessible and working correctly, and that any shut-off valves are easily reachable. Any cabinetry modifications or ventilation adjustments should ideally be completed at this stage.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Coordinate Haul-Away and Professional Help",
+      "text": "If your old appliance needs to be hauled away, confirm these arrangements beforehand. For tasks involving gas, hard-wired electrical, plumbing alterations, or structural changes, professional help is often crucial. Delivery personnel typically don't perform these site modifications, so knowing when to call in an expert is key for a safe and compliant installation. What to Do Next Ready to get your home renovation project started? We can help coordinate all these moving parts, especially for kitchen and bath remodels in Berkeley and across the East Bay. Reach out to Frasheski Construction today to discuss your project and ensure a seamless appliance installation.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Berkeley",
+      "@type": "City"
+    },
+    {
+      "name": "East Bay ",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Albany",
+      "@type": "City"
+    },
+    {
+      "name": "El Cerrito",
+      "@type": "City"
+    },
+    {
+      "name": "Kensington",
+      "@type": "City"
+    },
+    {
+      "name": "Alameda",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Sausalito",
+      "@type": "City"
+    },
+    {
+      "name": "Tiburon",
+      "@type": "City"
+    },
+    {
+      "name": "Mill Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Daly City",
+      "@type": "City"
+    },
+    {
+      "name": "Brisbane",
+      "@type": "City"
+    },
+    {
+      "name": "South San Francisco ",
+      "@type": "City"
+    },
+    {
+      "name": "East San Francisco area",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, measure your new appliance's dimensions carefully. Then, measure all doorways, hallways, and any tight corners along the delivery path. Don't forget to consider door swings! This"
+}

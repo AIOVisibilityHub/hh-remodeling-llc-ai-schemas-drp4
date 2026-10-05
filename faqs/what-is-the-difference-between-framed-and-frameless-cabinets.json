@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-framed-and-frameless-cabinets",
+  "name": "What is the difference between framed and frameless cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between framed and frameless cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framed cabinets feature a solid wood face frame on the front of the cabinet box, providing stability and a traditional look. Doors attach to this frame. Frameless cabinets, also known as full access cabinets, do not have a face frame, offering a sleek, contemporary appearance and easier access to the interior. The choice often comes down to aesthetic preference and desired accessibility.",
+        "@type": "Answer",
+        "description": "Framed cabinets have a face frame for stability and traditional look, while frameless cabinets offer a sleek, contemporary look and easier access."
+      }
+    }
+  ],
+  "description": "Framed cabinets have a face frame for stability and traditional look, while frameless cabinets offer a sleek, contemporary look and easier access."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-maintenance-is-required-for-new-countertops",
+  "name": "What maintenance is required for new countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends heavily on the countertop material. For example, natural stone like granite and marble requires periodic sealing to maintain its stain resistance. Quartz is non-porous and generally requires only daily cleaning with mild soap and water. Laminate is also low maintenance, needing just regular wiping. We provide specific care instructions for your chosen material after installation.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: natural stone needs sealing, while quartz and laminate require only basic cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: natural stone needs sealing, while quartz and laminate require only basic cleaning."
+}

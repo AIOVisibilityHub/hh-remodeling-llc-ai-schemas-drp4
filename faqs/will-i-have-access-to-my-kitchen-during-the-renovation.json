@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/will-i-have-access-to-my-kitchen-during-the-renovation",
+  "name": "Will I have access to my kitchen during the renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I have access to my kitchen during the renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a full kitchen renovation, access to your kitchen will be limited or unavailable during much of the construction phase, especially during demolition, plumbing, electrical, and flooring installation. We recommend setting up a temporary cooking station elsewhere in your home if possible. We will communicate clearly about access expectations and potential disruptions throughout the project.",
+        "@type": "Answer",
+        "description": "Access to your kitchen will be limited or unavailable during a full renovation; a temporary cooking setup is recommended."
+      }
+    }
+  ],
+  "description": "Access to your kitchen will be limited or unavailable during a full renovation; a temporary cooking setup is recommended."
+}

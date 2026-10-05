@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-removal-of-old-cabinets",
+  "name": "Do you offer removal of old cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer removal of old cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive cabinet installation services, we can include the removal and disposal of your old cabinets. This streamlines the process and ensures a clean, prepared space for your new installation. Please mention this requirement during your initial consultation so we can factor it into your project plan and quote.",
+        "@type": "Answer",
+        "description": "Yes, we offer removal and disposal of old cabinets as part of our installation services to prepare your space."
+      }
+    }
+  ],
+  "description": "Yes, we offer removal and disposal of old cabinets as part of our installation services to prepare your space."
+}

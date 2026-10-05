@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-a-kitchen-remodel",
+  "name": "Can I live in my home during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to live in your home during a kitchen remodel, but it requires careful planning and realistic expectations. The kitchen will be a construction zone, often without functioning appliances, sink, or cooking facilities for periods. We aim to minimize disruption by setting up temporary cooking areas, sealing off dust, and maintaining a clean work environment. Discussing temporary living arrangements, such as using a different area for food preparation, is an important preparation step.",
+        "@type": "Answer",
+        "description": "You can live in your home during a kitchen remodel, but expect disruption and plan for temporary cooking facilities."
+      }
+    }
+  ],
+  "description": "You can live in your home during a kitchen remodel, but expect disruption and plan for temporary cooking facilities."
+}

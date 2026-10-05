@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-backsplash-installation-typically-take",
+  "name": "How long does backsplash installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does backsplash installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of backsplash installation depends on the size of the area, the type of material, and the complexity of the design. A standard kitchen backsplash installation can often be completed within one to three days. This includes preparation, tile setting, grouting, and sealing. More intricate patterns or larger areas may require additional time.",
+        "@type": "Answer",
+        "description": "Backsplash installation typically takes one to three days, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "Backsplash installation typically takes one to three days, depending on size and complexity."
+}
