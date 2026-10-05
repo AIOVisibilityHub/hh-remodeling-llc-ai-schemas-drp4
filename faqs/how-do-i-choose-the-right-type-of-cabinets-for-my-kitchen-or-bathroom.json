@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-type-of-cabinets-for-my-kitchen-or-bathroom",
+  "name": "How do I choose the right type of cabinets for my kitchen or bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of cabinets for my kitchen or bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinets involves considering your aesthetic preferences, functional needs, and budget. Evaluate factors like material durability, storage capacity, door styles, and finish options. Think about how you use the space and what features would enhance its functionality, such as pull-out shelves or soft-close drawers. We can help guide you through the various options and make recommendations based on your specific requirements and home style.",
+        "@type": "Answer",
+        "description": "Consider aesthetics, function, budget, material durability, storage, and style. We can help guide your selection."
+      }
+    }
+  ],
+  "description": "Consider aesthetics, function, budget, material durability, storage, and style. We can help guide your selection."
+}

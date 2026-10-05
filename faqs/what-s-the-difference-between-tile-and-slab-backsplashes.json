@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-tile-and-slab-backsplashes",
+  "name": "What's the difference between tile and slab backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between tile and slab backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile backsplashes are composed of individual pieces, allowing for diverse patterns, colors, and textures, and are generally more budget-friendly. Slab backsplashes, typically made from a single piece of stone matching the countertop, offer a seamless, high-end look with fewer grout lines. Both options provide effective wall protection and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Tile backsplashes use individual pieces for varied designs, while slab backsplashes are seamless single pieces, often matching countertops."
+      }
+    }
+  ],
+  "description": "Tile backsplashes use individual pieces for varied designs, while slab backsplashes are seamless single pieces, often matching countertops."
+}

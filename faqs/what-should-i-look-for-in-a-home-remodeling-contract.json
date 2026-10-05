@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-look-for-in-a-home-remodeling-contract",
+  "name": "What should I look for in a home remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a home remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive home remodeling contract should clearly outline all aspects of your project. It should include a detailed scope of work, specifying all tasks, materials, and finishes. The contract must state the total project cost, payment schedule, and any provisions for change orders. Look for clear timelines, including a start and estimated completion date. It should also cover licensing, insurance, warranties, dispute resolution processes, and cleanup responsibilities. Ensure all agreements and expectations discussed are documented in writing before signing.",
+        "@type": "Answer",
+        "description": "A good remodeling contract details the scope of work, cost, payment schedule, timelines, licenses, insurance, warranties, and change order procedures."
+      }
+    }
+  ],
+  "description": "A good remodeling contract details the scope of work, cost, payment schedule, timelines, licenses, insurance, warranties, and change order procedures."
+}

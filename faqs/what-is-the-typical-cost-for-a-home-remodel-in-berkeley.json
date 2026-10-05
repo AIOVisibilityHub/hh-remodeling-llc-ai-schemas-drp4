@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-cost-for-a-home-remodel-in-berkeley",
+  "name": "What is the typical cost for a home remodel in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a home remodel in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home remodel in Berkeley varies significantly based on the scope of work, materials chosen, and the specific area of your home being renovated. Minor renovations, like updating a bathroom or kitchen, might range from $20,000 to $75,000. Larger projects, such as adding an extension or a full home renovation, can easily exceed $150,000 to $300,000 or more. It's essential to have a detailed discussion with your contractor about your budget and expectations to get a more accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Home remodel costs in Berkeley vary widely, from $20,000 for minor updates to over $150,000 for major renovations."
+      }
+    }
+  ],
+  "description": "Home remodel costs in Berkeley vary widely, from $20,000 for minor updates to over $150,000 for major renovations."
+}

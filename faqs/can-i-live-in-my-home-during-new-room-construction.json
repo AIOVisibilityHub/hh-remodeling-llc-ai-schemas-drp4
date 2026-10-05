@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-new-room-construction",
+  "name": "Can I live in my home during new-room construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during new-room construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during new-room construction is often possible, but it depends on the project's scope and invasiveness. Contractors will typically try to minimize disruption, but expect some noise, dust, and temporary utility interruptions. For extensive additions or work impacting critical areas like kitchens or bathrooms, temporary relocation might be advisable for comfort and safety. Discuss logistics with your contractor beforehand.",
+        "@type": "Answer",
+        "description": "Living at home during construction is possible but expect disruptions; temporary relocation might be needed for extensive projects."
+      }
+    }
+  ],
+  "description": "Living at home during construction is possible but expect disruptions; temporary relocation might be needed for extensive projects."
+}

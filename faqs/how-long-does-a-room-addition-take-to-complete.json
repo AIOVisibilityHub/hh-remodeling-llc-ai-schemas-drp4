@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-room-addition-take-to-complete",
+  "name": "How long does a room addition take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a room addition take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project can range from a few months to over a year, depending on its scope and complexity. Small additions might be completed in 3-6 months, while larger, multi-room projects could take 8-12 months or longer. Factors influencing the duration include design time, permit approval processes, material availability, weather conditions, and the efficiency of the construction crew. Unexpected issues during construction can also extend the timeline.",
+        "@type": "Answer",
+        "description": "A room addition typically takes 3 months to over a year, depending on size, complexity, and other factors like permitting and material availability."
+      }
+    }
+  ],
+  "description": "A room addition typically takes 3 months to over a year, depending on size, complexity, and other factors like permitting and material availability."
+}

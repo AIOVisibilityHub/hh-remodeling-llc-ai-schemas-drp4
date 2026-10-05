@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-offer-painting-services-in-my-specific-east-bay-location-like-oakland-or",
+  "name": "Do you offer painting services in my specific East Bay location, like Oakland or El Cerrito?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting services in my specific East Bay location, like Oakland or El Cerrito?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we proudly serve a wide range of East Bay communities, including Berkeley, Oakland, Albany, El Cerrito, and surrounding areas. Our local expertise ensures we understand the unique architectural styles and needs of homes in these neighborhoods. Please contact us to confirm service availability in your exact location.",
+        "@type": "Answer",
+        "description": "Yes, we serve Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas. Contact us to confirm your location."
+      }
+    }
+  ],
+  "description": "Yes, we serve Berkeley, Oakland, Albany, El Cerrito, and other East Bay areas. Contact us to confirm your location."
+}

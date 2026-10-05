@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-signs-of-a-hidden-water-leak-in-my-bathroom",
+  "name": "What are the signs of a hidden water leak in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a hidden water leak in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a hidden water leak in your bathroom include unexplained increases in your water bill, visible water stains on walls or ceilings below the bathroom, peeling paint or wallpaper, persistent musty odors, or warped flooring. If you notice any of these indicators, it's important to investigate promptly to prevent further damage and mold growth.",
+        "@type": "Answer",
+        "description": "Unexplained high water bills, water stains, peeling paint, musty odors, or warped flooring can indicate a hidden bathroom water leak."
+      }
+    }
+  ],
+  "description": "Unexplained high water bills, water stains, peeling paint, musty odors, or warped flooring can indicate a hidden bathroom water leak."
+}

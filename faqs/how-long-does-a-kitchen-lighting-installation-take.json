@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-kitchen-lighting-installation-take",
+  "name": "How long does a kitchen lighting installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen lighting installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen lighting installation depends on its complexity. A simple replacement of existing fixtures might take a few hours. A more extensive project involving new wiring, multiple recessed lights, or specialty lighting could take a few days. We will provide a time estimate tailored to your specific project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Kitchen lighting installation time varies; simple replacements take hours, while extensive projects can take days."
+      }
+    }
+  ],
+  "description": "Kitchen lighting installation time varies; simple replacements take hours, while extensive projects can take days."
+}

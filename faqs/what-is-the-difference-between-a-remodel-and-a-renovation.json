@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-remodel-and-a-renovation",
+  "name": "What is the difference between a remodel and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a remodel and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a renovation typically involves restoring a space to a good state without changing its structure or purpose, such as repainting or updating fixtures. A remodel, however, often implies a more significant alteration that changes the structure, layout, or function of a room, like moving walls or reconfiguring a kitchen. Understanding this distinction can help clarify project scope and budget expectations for your specific needs.",
+        "@type": "Answer",
+        "description": "A renovation restores a space without structural changes, while a remodel involves significant alterations to structure, layout, or function."
+      }
+    }
+  ],
+  "description": "A renovation restores a space without structural changes, while a remodel involves significant alterations to structure, layout, or function."
+}

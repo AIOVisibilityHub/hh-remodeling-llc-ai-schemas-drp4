@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-making-my-bathroom-accessible",
+  "name": "When should I consider making my bathroom accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider making my bathroom accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider making your bathroom accessible if you or a family member are experiencing mobility challenges, planning for future aging-in-place needs, or if you require specific accommodations due to an injury or disability. Proactive modifications can enhance safety, independence, and comfort in your home.",
+        "@type": "Answer",
+        "description": "Consider modifications when experiencing mobility challenges, planning for aging-in-place, or due to injury or disability."
+      }
+    }
+  ],
+  "description": "Consider modifications when experiencing mobility challenges, planning for aging-in-place, or due to injury or disability."
+}

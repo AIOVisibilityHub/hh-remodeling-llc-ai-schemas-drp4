@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-home-for-a-remodeling-project",
+  "name": "How do I prepare my home for a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a remodeling project involves several steps to protect your belongings and ensure a smooth start. Clear out the work area, removing furniture, decor, and personal items. Cover any remaining items or adjacent areas with plastic sheeting to protect them from dust and debris. Turn off utilities as advised by your contractor. Secure pets and inform family members of the construction schedule and safety precautions. We provide specific guidance tailored to your project.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing and covering the work area, turning off utilities, securing pets, and informing family members."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing and covering the work area, turning off utilities, securing pets, and informing family members."
+}

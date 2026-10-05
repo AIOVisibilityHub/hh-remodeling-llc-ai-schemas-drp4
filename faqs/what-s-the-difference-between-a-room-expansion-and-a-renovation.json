@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-a-room-expansion-and-a-renovation",
+  "name": "What's the difference between a room expansion and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a room expansion and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room expansion involves increasing the overall square footage of your home by adding new space, such as building a new room onto an existing structure. A renovation, on the other hand, typically involves updating or improving an existing space without changing its footprint. For example, remodeling a kitchen is a renovation, while building a new kitchen addition is an expansion. Both can enhance your home's value and functionality.",
+        "@type": "Answer",
+        "description": "An expansion adds new square footage, while a renovation updates existing space without changing its size."
+      }
+    }
+  ],
+  "description": "An expansion adds new square footage, while a renovation updates existing space without changing its size."
+}

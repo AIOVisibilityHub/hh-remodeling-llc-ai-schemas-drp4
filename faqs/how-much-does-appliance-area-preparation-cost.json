@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-appliance-area-preparation-cost",
+  "name": "How much does appliance area preparation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does appliance area preparation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of appliance area preparation varies based on the scope of work required. Simple preparations, like minor adjustments, may be less expensive. More complex tasks, such as installing new electrical circuits, rerouting plumbing, or structural reinforcements, will incur higher costs. Frasheski Construction provides detailed estimates after an initial assessment in the Berkeley, Oakland, and surrounding East Bay areas, ensuring transparency and no hidden fees.",
+        "@type": "Answer",
+        "description": "Costs vary based on complexity; simple adjustments are less, while new circuits or plumbing are more expensive. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on complexity; simple adjustments are less, while new circuits or plumbing are more expensive. Estimates are provided after assessment."
+}

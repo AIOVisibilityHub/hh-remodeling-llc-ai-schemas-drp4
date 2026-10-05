@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-paint-color-and-finish-for-my-home",
+  "name": "How do I choose the right paint color and finish for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right paint color and finish for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right paint color and finish involves considering your home's existing decor, lighting, and your personal style. For color, consider the mood you want to create and how it flows with adjacent rooms. For finish, consider durability and washability, with higher sheens offering more durability. We can provide color consultations and samples to help you visualize options in your space before making a final decision.",
+        "@type": "Answer",
+        "description": "Consider existing decor, lighting, and desired mood for color. For finish, prioritize durability and washability. We offer consultations and samples."
+      }
+    }
+  ],
+  "description": "Consider existing decor, lighting, and desired mood for color. For finish, prioritize durability and washability. We offer consultations and samples."
+}

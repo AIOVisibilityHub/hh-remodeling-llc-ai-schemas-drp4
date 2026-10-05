@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-the-painters-arrive",
+  "name": "Do I need to do anything to prepare my home before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior painting, we recommend removing small items, wall decor, and fragile objects from the work area. Moving larger furniture to the center of the room is helpful, and we will cover it. For exterior painting, clearing any obstacles around the house, such as potted plants or garden tools, helps our team work efficiently. We will discuss specific preparation steps during our consultation.",
+        "@type": "Answer",
+        "description": "For interior painting, remove small items and move furniture. For exterior, clear obstacles around the house."
+      }
+    }
+  ],
+  "description": "For interior painting, remove small items and move furniture. For exterior, clear obstacles around the house."
+}

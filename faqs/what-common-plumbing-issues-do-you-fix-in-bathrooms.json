@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-common-plumbing-issues-do-you-fix-in-bathrooms",
+  "name": "What common plumbing issues do you fix in bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common plumbing issues do you fix in bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We address a range of common bathroom plumbing issues, including leaky faucets and pipes, clogged drains in sinks, showers, and tubs, running or overflowing toilets, and low water pressure problems. Our services also cover repairs for faulty showerheads, new fixture installations, and addressing issues with water heaters that impact your bathroom's hot water supply. We aim to identify and resolve these problems efficiently to restore your bathroom's functionality.",
+        "@type": "Answer",
+        "description": "We fix leaky faucets, clogged drains, running toilets, low water pressure, and can install new fixtures."
+      }
+    }
+  ],
+  "description": "We fix leaky faucets, clogged drains, running toilets, low water pressure, and can install new fixtures."
+}

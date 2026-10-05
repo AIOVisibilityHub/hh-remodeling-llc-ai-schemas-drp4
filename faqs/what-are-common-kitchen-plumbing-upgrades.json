@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-kitchen-plumbing-upgrades",
+  "name": "What are common kitchen plumbing upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen plumbing upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen plumbing upgrades include installing a new sink or faucet, replacing old or leaky pipes, adding a garbage disposal, or upgrading to a more efficient dishwasher. Some homeowners also opt for water filtration systems or instant hot water dispensers. These upgrades can improve functionality, water efficiency, and the overall aesthetic of your kitchen. Consider your needs and budget when deciding which upgrades are right for your home.",
+        "@type": "Answer",
+        "description": "Common upgrades include new sinks, faucets, pipe replacement, garbage disposals, and water filtration systems."
+      }
+    }
+  ],
+  "description": "Common upgrades include new sinks, faucets, pipe replacement, garbage disposals, and water filtration systems."
+}

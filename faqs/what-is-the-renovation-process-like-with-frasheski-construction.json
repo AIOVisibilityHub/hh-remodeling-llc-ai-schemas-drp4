@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-renovation-process-like-with-frasheski-construction",
+  "name": "What is the renovation process like with Frasheski Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the renovation process like with Frasheski Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our renovation process begins with an initial consultation to discuss your vision, needs, and budget. We then develop a detailed proposal and design plan. Once approved, we handle permit acquisition and schedule the project. Our skilled team manages demolition, installation of new fixtures, flooring, and finishes, ensuring quality craftsmanship at every stage. We maintain open communication throughout, culminating in a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, permitting, demolition, installation, and a final walkthrough, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, permitting, demolition, installation, and a final walkthrough, with continuous communication."
+}

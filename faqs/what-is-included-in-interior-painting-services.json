@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-included-in-interior-painting-services",
+  "name": "What is included in interior painting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in interior painting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting services typically include surface preparation, such as cleaning, patching, and sanding. We then apply primer and two coats of high-quality paint to walls and ceilings. Trim, doors, and windows are also painted with appropriate finishes. We protect your furniture and flooring, and ensure a thorough cleanup after the project is complete. Any specific requests for color consultations or specialized finishes can be discussed during the initial consultation.",
+        "@type": "Answer",
+        "description": "Interior painting includes surface preparation, priming, two coats of paint for walls and ceilings, trim, doors, and window painting, and cleanup."
+      }
+    }
+  ],
+  "description": "Interior painting includes surface preparation, priming, two coats of paint for walls and ceilings, trim, doors, and window painting, and cleanup."
+}

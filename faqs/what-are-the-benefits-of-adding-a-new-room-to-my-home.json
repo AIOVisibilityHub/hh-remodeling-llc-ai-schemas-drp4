@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-adding-a-new-room-to-my-home",
+  "name": "What are the benefits of adding a new room to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a new room to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a new room can provide numerous benefits, such as increasing usable living space, enhancing property value, and improving functionality for a growing family or changing needs. It can create dedicated areas for offices, guest rooms, or entertainment. A well-designed addition can also improve the overall flow and aesthetic appeal of your home.",
+        "@type": "Answer",
+        "description": "Adding a new room increases living space, enhances property value, improves functionality, and creates dedicated areas for various needs."
+      }
+    }
+  ],
+  "description": "Adding a new room increases living space, enhances property value, improves functionality, and creates dedicated areas for various needs."
+}

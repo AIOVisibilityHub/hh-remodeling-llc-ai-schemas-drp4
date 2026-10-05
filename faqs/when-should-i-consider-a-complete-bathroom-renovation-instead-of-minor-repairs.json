@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-a-complete-bathroom-renovation-instead-of-minor-repairs",
+  "name": "When should I consider a complete bathroom renovation instead of minor repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a complete bathroom renovation instead of minor repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a complete bathroom renovation if your bathroom has significant structural damage, persistent plumbing issues, outdated electrical systems, or a layout that no longer meets your needs. If you're experiencing recurring leaks, mold growth, or extensive wear and tear, a full renovation addresses underlying problems rather than just patching them. It's also a good option if you plan to live in your home for many years and desire a complete aesthetic and functional overhaul.",
+        "@type": "Answer",
+        "description": "Consider a complete renovation for significant structural damage, persistent plumbing/electrical issues, or if the current layout is highly dysfunctional."
+      }
+    }
+  ],
+  "description": "Consider a complete renovation for significant structural damage, persistent plumbing/electrical issues, or if the current layout is highly dysfunctional."
+}

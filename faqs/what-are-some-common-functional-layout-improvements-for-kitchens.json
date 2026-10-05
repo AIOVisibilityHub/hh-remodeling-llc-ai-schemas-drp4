@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-some-common-functional-layout-improvements-for-kitchens",
+  "name": "What are some common functional layout improvements for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common functional layout improvements for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common functional layout improvements for kitchens often include opening up the space to adjacent living areas, reconfiguring the work triangle (sink, stove, refrigerator) for better efficiency, adding an island for prep and seating, or creating more storage solutions. The goal is to enhance workflow, increase counter space, and make the kitchen a more central and inviting part of the home.",
+        "@type": "Answer",
+        "description": "Common kitchen improvements include opening space, optimizing the work triangle, and adding islands."
+      }
+    }
+  ],
+  "description": "Common kitchen improvements include opening space, optimizing the work triangle, and adding islands."
+}

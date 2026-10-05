@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-kitchen-plumbing-upgrade-take",
+  "name": "How long does a kitchen plumbing upgrade take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen plumbing upgrade take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen plumbing upgrade depends on its complexity. A simple faucet or garbage disposal installation might take a few hours. More involved projects, such as rerouting pipes, installing a new sink, or a full kitchen plumbing renovation, can take several days to a week, especially if it involves opening walls or coordinating with other trades like cabinet installers.",
+        "@type": "Answer",
+        "description": "Upgrade times vary; a simple installation can be hours, while complex projects like rerouting pipes or full renovations may take several days to a week."
+      }
+    }
+  ],
+  "description": "Upgrade times vary; a simple installation can be hours, while complex projects like rerouting pipes or full renovations may take several days to a week."
+}

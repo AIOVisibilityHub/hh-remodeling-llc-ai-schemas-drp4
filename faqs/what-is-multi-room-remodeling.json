@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-multi-room-remodeling",
+  "name": "What is multi-room remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is multi-room remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-room remodeling involves renovating two or more areas of your home simultaneously. This approach can be more efficient than remodeling rooms individually, as it allows for a cohesive design and often streamlines the construction process. It's ideal for homeowners looking to update several spaces, such as a kitchen and an adjoining living area, or multiple bathrooms.",
+        "@type": "Answer",
+        "description": "Multi-room remodeling renovates two or more home areas at once, offering efficiency and cohesive design."
+      }
+    }
+  ],
+  "description": "Multi-room remodeling renovates two or more home areas at once, offering efficiency and cohesive design."
+}

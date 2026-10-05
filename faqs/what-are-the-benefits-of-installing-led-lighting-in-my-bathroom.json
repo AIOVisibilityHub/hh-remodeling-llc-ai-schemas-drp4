@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-installing-led-lighting-in-my-bathroom",
+  "name": "What are the benefits of installing LED lighting in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing LED lighting in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED lighting offers numerous benefits for bathrooms. They are significantly more energy-efficient than traditional bulbs, leading to lower electricity bills. LEDs have a much longer lifespan, reducing the need for frequent replacements. They also produce less heat, contributing to a cooler bathroom environment. Furthermore, LEDs come in a wide range of color temperatures and styles, offering versatile design options for any aesthetic.",
+        "@type": "Answer",
+        "description": "LED lighting in bathrooms offers energy efficiency, longer lifespan, less heat output, and versatile design options."
+      }
+    }
+  ],
+  "description": "LED lighting in bathrooms offers energy efficiency, longer lifespan, less heat output, and versatile design options."
+}

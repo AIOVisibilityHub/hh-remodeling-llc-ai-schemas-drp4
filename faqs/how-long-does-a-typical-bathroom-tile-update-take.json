@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-bathroom-tile-update-take",
+  "name": "How long does a typical bathroom tile update take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom tile update take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom tile update depends on the project's scope, including the bathroom size, the complexity of the tile design, and the type of tiles selected. A small bathroom floor or shower retiling might take 2-4 days, while a complete bathroom overhaul involving demolition, new tile installation, and surface preparation could range from 1 to 2 weeks. We provide a detailed timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "A typical bathroom tile update can take from a few days for small areas to 1-2 weeks for a complete overhaul."
+      }
+    }
+  ],
+  "description": "A typical bathroom tile update can take from a few days for small areas to 1-2 weeks for a complete overhaul."
+}

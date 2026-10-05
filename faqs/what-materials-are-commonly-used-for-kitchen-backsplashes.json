@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-commonly-used-for-kitchen-backsplashes",
+  "name": "What materials are commonly used for kitchen backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for kitchen backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common backsplash materials include ceramic and porcelain tile, natural stone (like marble, granite, or travertine), glass tiles, stainless steel, and sometimes even wallpaper or paint with a protective coating. Each material offers different aesthetic qualities, durability, and maintenance requirements, allowing for a wide range of design choices.",
+        "@type": "Answer",
+        "description": "Common backsplash materials are ceramic, porcelain, natural stone, glass, and stainless steel."
+      }
+    }
+  ],
+  "description": "Common backsplash materials are ceramic, porcelain, natural stone, glass, and stainless steel."
+}

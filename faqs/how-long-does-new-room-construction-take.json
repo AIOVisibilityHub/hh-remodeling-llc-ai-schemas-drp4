@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-new-room-construction-take",
+  "name": "How long does new-room construction take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new-room construction take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of new-room construction varies significantly based on factors like the room's size, complexity, material choices, and the need for specialized permits. A simple room addition might take 2-4 months, while more complex projects could extend to 6 months or longer. Unforeseen issues, weather delays, and inspection schedules can also impact the timeline.",
+        "@type": "Answer",
+        "description": "New-room construction duration depends on size, complexity, and permits, typically ranging from 2 to 6 months."
+      }
+    }
+  ],
+  "description": "New-room construction duration depends on size, complexity, and permits, typically ranging from 2 to 6 months."
+}

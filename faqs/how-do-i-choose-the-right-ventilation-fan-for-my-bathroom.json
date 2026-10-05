@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-ventilation-fan-for-my-bathroom",
+  "name": "How do I choose the right ventilation fan for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right ventilation fan for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right ventilation fan involves considering your bathroom's size (measured in cubic feet per minute or CFM), noise level (measured in sones), and desired features. For larger bathrooms, you'll need a higher CFM rating. Look for low sone ratings for quieter operation. Additional features can include humidity sensors, integrated lighting, or a heater. Proper ventilation is crucial for preventing mold and mildew.",
+        "@type": "Answer",
+        "description": "Choose a bathroom ventilation fan based on your bathroom's size (CFM), desired noise level (sone), and features like humidity sensors or integrated lights."
+      }
+    }
+  ],
+  "description": "Choose a bathroom ventilation fan based on your bathroom's size (CFM), desired noise level (sone), and features like humidity sensors or integrated lights."
+}

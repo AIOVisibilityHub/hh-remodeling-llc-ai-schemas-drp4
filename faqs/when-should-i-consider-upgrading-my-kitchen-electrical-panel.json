@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-kitchen-electrical-panel",
+  "name": "When should I consider upgrading my kitchen electrical panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my kitchen electrical panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your kitchen electrical panel if you frequently experience tripped breakers, notice flickering lights, or if your home is older and has an outdated panel (like fuse boxes). These are signs your current panel cannot safely handle modern electrical demands. An upgrade is also advisable when planning major kitchen remodels involving new, high-power appliances.",
+        "@type": "Answer",
+        "description": "Upgrade your kitchen electrical panel if you have frequent tripped breakers, flickering lights, or are installing new, high-power appliances."
+      }
+    }
+  ],
+  "description": "Upgrade your kitchen electrical panel if you have frequent tripped breakers, flickering lights, or are installing new, high-power appliances."
+}

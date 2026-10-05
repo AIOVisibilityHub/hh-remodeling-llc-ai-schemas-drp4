@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-room-expansions",
+  "name": "What areas do you serve for room expansions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for room expansions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides room expansion services across the East Bay and surrounding areas. Our primary service areas include Berkeley, Oakland, Albany, El Cerrito, Kensington, and Alameda. We also serve San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco for select projects. Please contact us to confirm service availability in your specific location.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Alameda, and other surrounding East Bay communities for room expansions."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, Alameda, and other surrounding East Bay communities for room expansions."
+}

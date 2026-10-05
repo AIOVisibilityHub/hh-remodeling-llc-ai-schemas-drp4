@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-service-commercial-bathrooms-in-berkeley",
+  "name": "Do you service commercial bathrooms in Berkeley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you service commercial bathrooms in Berkeley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide plumbing services for commercial bathrooms in Berkeley, addressing issues ranging from routine maintenance and repairs to new fixture installations and full plumbing system upgrades. We understand the specific demands of commercial settings and work to minimize disruption to your business operations while ensuring compliance with commercial plumbing codes.",
+        "@type": "Answer",
+        "description": "Yes, we service commercial bathrooms in Berkeley for maintenance, repairs, new installations, and system upgrades, ensuring minimal disruption."
+      }
+    }
+  ],
+  "description": "Yes, we service commercial bathrooms in Berkeley for maintenance, repairs, new installations, and system upgrades, ensuring minimal disruption."
+}

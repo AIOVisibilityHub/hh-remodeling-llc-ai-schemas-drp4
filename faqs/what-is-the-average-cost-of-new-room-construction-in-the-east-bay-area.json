@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-of-new-room-construction-in-the-east-bay-area",
+  "name": "What is the average cost of new-room construction in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of new-room construction in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new-room construction in the East Bay area, including Oakland, Albany, and El Cerrito, can vary widely. Factors influencing cost include the size and type of room, chosen materials, necessary site preparation, and any special features or finishes. It's recommended to obtain detailed estimates from contractors after the initial design phase.",
+        "@type": "Answer",
+        "description": "New-room construction costs in the East Bay vary based on size, materials, and complexity. Obtain detailed estimates."
+      }
+    }
+  ],
+  "description": "New-room construction costs in the East Bay vary based on size, materials, and complexity. Obtain detailed estimates."
+}

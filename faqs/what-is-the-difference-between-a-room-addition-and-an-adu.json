@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-room-addition-and-an-adu",
+  "name": "What is the difference between a room addition and an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a room addition and an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition expands the main living space of your existing home and is physically connected to it, sharing utilities and an entrance. An Accessory Dwelling Unit (ADU), on the other hand, is a separate, independent living unit on the same property. An ADU has its own kitchen, bathroom, and sleeping area, and can be attached, detached, or a conversion of existing space. While both add square footage, an ADU provides a distinct, self-contained dwelling unit.",
+        "@type": "Answer",
+        "description": "A room addition expands your main home, while an ADU is a separate, independent living unit on the same property with its own amenities."
+      }
+    }
+  ],
+  "description": "A room addition expands your main home, while an ADU is a separate, independent living unit on the same property with its own amenities."
+}

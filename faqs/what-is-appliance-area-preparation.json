@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-appliance-area-preparation",
+  "name": "What is appliance area preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is appliance area preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance area preparation involves ensuring the space where a new appliance will be installed meets all necessary requirements. This includes checking electrical outlets, water lines, gas connections, and ensuring the dimensions of the space accommodate the new appliance. It may also involve reinforcing floors for heavy appliances, ensuring proper ventilation, and preparing the surrounding cabinetry or countertops to prevent damage during installation. Frasheski Construction coordinates these preparations to ensure a smooth installation process.",
+        "@type": "Answer",
+        "description": "Appliance area preparation ensures the designated space meets all requirements for a new appliance, including electrical, plumbing, and structural considerations."
+      }
+    }
+  ],
+  "description": "Appliance area preparation ensures the designated space meets all requirements for a new appliance, including electrical, plumbing, and structural consideration"
+}

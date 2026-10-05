@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-appliance-area-preparation-take",
+  "name": "How long does appliance area preparation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does appliance area preparation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of appliance area preparation depends on the extent of modifications needed. Minor preparations, like clearing a space, might take a few hours. More significant changes, such as electrical upgrades or plumbing reroutes, could take one to several days. Frasheski Construction will provide a timeline based on the specific requirements of your project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Preparation time varies, from a few hours for minor tasks to several days for significant electrical or plumbing modifications."
+      }
+    }
+  ],
+  "description": "Preparation time varies, from a few hours for minor tasks to several days for significant electrical or plumbing modifications."
+}

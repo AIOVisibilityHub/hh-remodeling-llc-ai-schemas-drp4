@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-gfci-and-why-is-it-important-for-bathrooms",
+  "name": "What is GFCI and why is it important for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is GFCI and why is it important for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "GFCI stands for Ground Fault Circuit Interrupter. It's a safety device designed to protect you from electrical shock. In a bathroom, where water and electricity are often in close proximity, GFCIs quickly detect imbalances in the electrical current that could indicate a ground fault and shut off power instantly. This prevents serious injury or electrocution. Building codes require GFCI outlets in all bathroom receptacles.",
+        "@type": "Answer",
+        "description": "GFCI (Ground Fault Circuit Interrupter) is a safety device that prevents electrical shock by quickly cutting power when a fault is detected, crucial for wet bathroom environments."
+      }
+    }
+  ],
+  "description": "GFCI (Ground Fault Circuit Interrupter) is a safety device that prevents electrical shock by quickly cutting power when a fault is detected, crucial for wet bat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-a-whole-home-renovation",
+  "name": "What are the benefits of a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation offers several benefits, including improved functionality and flow, increased energy efficiency through updated systems and insulation, enhanced aesthetic appeal, and a significant boost to your property's value. It allows for a cohesive design throughout your home, tailored to your specific lifestyle and preferences, creating a more comfortable and modern living environment.",
+        "@type": "Answer",
+        "description": "Whole-home renovations improve functionality, increase energy efficiency, enhance aesthetics, and boost property value for a cohesive design."
+      }
+    }
+  ],
+  "description": "Whole-home renovations improve functionality, increase energy efficiency, enhance aesthetics, and boost property value for a cohesive design."
+}

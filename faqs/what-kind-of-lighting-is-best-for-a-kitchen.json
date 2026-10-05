@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-lighting-is-best-for-a-kitchen",
+  "name": "What kind of lighting is best for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of lighting is best for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best kitchen lighting combines multiple layers: ambient (general illumination like recessed or ceiling lights), task (focused light for work areas like under-cabinet lights), and accent (for aesthetic appeal). LED lighting is highly recommended for its energy efficiency, longevity, and versatile color temperatures. Your choice should consider both functionality and the aesthetic of your kitchen.",
+        "@type": "Answer",
+        "description": "Optimal kitchen lighting uses ambient, task, and accent layers, with LED options recommended for efficiency and versatility."
+      }
+    }
+  ],
+  "description": "Optimal kitchen lighting uses ambient, task, and accent layers, with LED options recommended for efficiency and versatility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-common-problems-occur-during-appliance-installation",
+  "name": "What common problems occur during appliance installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common problems occur during appliance installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems include incorrect utility connections, insufficient space for the appliance, inadequate electrical capacity, or damaged flooring during delivery. Issues can also arise from improper ventilation for certain appliances, or misaligned cabinetry. Frasheski Construction addresses these potential problems proactively during the preparation and coordination phases to minimize disruptions and ensure a smooth installation process.",
+        "@type": "Answer",
+        "description": "Common issues include incorrect utility connections, insufficient space, inadequate electrical capacity, and potential damage during delivery or installation."
+      }
+    }
+  ],
+  "description": "Common issues include incorrect utility connections, insufficient space, inadequate electrical capacity, and potential damage during delivery or installation."
+}

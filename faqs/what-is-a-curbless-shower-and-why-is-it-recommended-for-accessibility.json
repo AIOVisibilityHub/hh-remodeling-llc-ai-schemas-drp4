@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-a-curbless-shower-and-why-is-it-recommended-for-accessibility",
+  "name": "What is a curbless shower and why is it recommended for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a curbless shower and why is it recommended for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower has no raised edge or curb, allowing for a seamless transition from the bathroom floor directly into the shower area. This design eliminates a tripping hazard and allows for easy entry and exit for individuals using wheelchairs, walkers, or those with unsteady gait. It significantly enhances safety and independence.",
+        "@type": "Answer",
+        "description": "A curbless shower has no raised edge, providing easy and safe entry for those with mobility aids or unsteady gait."
+      }
+    }
+  ],
+  "description": "A curbless shower has no raised edge, providing easy and safe entry for those with mobility aids or unsteady gait."
+}

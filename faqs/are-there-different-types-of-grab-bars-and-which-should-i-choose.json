@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/are-there-different-types-of-grab-bars-and-which-should-i-choose",
+  "name": "Are there different types of grab bars, and which should I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of grab bars, and which should I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, grab bars come in various styles, lengths, and finishes. Straight bars are common, while L-shaped or angled bars offer support around corners or specific areas. The choice depends on the specific location, user needs, and aesthetic preferences. We can recommend appropriate types and strategic placement for optimal safety and functionality during our consultation.",
+        "@type": "Answer",
+        "description": "Grab bars vary by style and length; the best choice depends on location, user needs, and aesthetics."
+      }
+    }
+  ],
+  "description": "Grab bars vary by style and length; the best choice depends on location, user needs, and aesthetics."
+}

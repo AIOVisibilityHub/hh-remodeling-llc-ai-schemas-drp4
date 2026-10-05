@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-a-kitchen-electrical-upgrade",
+  "name": "What is the process for a kitchen electrical upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a kitchen electrical upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with a consultation to assess your current electrical system and discuss your needs. We then provide a detailed proposal and estimate. Once approved, we schedule the work, which includes disconnecting power, installing new wiring, outlets, and fixtures, and finally, testing the system. We ensure all work complies with local codes and safety standards.",
+        "@type": "Answer",
+        "description": "The process involves consultation, proposal, scheduling, installation of wiring and fixtures, and system testing, all to code."
+      }
+    }
+  ],
+  "description": "The process involves consultation, proposal, scheduling, installation of wiring and fixtures, and system testing, all to code."
+}

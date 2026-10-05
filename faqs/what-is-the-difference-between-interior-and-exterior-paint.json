@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-interior-and-exterior-paint",
+  "name": "What is the difference between interior and exterior paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between interior and exterior paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior and exterior paints are formulated differently to withstand their respective environments. Exterior paints are designed for durability against weather elements like sun, rain, and temperature fluctuations, often containing additives for mildew resistance and UV protection. Interior paints prioritize washability, low VOCs (volatile organic compounds), and aesthetic appeal, as they don't face the same harsh conditions.",
+        "@type": "Answer",
+        "description": "Exterior paint withstands weather; interior paint prioritizes washability and aesthetics."
+      }
+    }
+  ],
+  "description": "Exterior paint withstands weather; interior paint prioritizes washability and aesthetics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-you-serve-areas-outside-of-berkeley-oakland-and-the-east-bay",
+  "name": "Do you serve areas outside of Berkeley, Oakland, and the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you serve areas outside of Berkeley, Oakland, and the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Currently, our primary service areas include Berkeley, Oakland, Albany, El Cerrito, and Kensington within the East Bay. While we primarily focus on these areas to ensure timely and efficient project management, we encourage you to contact us for specific inquiries if you are located in a nearby community. We aim to provide high-quality services to our local clients.",
+        "@type": "Answer",
+        "description": "Our primary service areas are Berkeley, Oakland, Albany, El Cerrito, and Kensington in the East Bay, but contact us for nearby community inquiries."
+      }
+    }
+  ],
+  "description": "Our primary service areas are Berkeley, Oakland, Albany, El Cerrito, and Kensington in the East Bay, but contact us for nearby community inquiries."
+}

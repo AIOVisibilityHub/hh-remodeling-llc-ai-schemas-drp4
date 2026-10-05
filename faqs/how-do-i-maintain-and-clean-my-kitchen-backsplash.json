@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-maintain-and-clean-my-kitchen-backsplash",
+  "name": "How do I maintain and clean my kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain and clean my kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the material. Ceramic and porcelain tiles are generally easy to clean with mild soap and water. Natural stone backsplashes may require specific pH-neutral cleaners and periodic sealing to prevent staining. Glass tiles can be cleaned with glass cleaner. Regular gentle cleaning helps preserve the appearance and longevity of your backsplash.",
+        "@type": "Answer",
+        "description": "Maintain your backsplash with material-appropriate cleaners; ceramic and porcelain need mild soap, while natural stone may need sealing."
+      }
+    }
+  ],
+  "description": "Maintain your backsplash with material-appropriate cleaners; ceramic and porcelain need mild soap, while natural stone may need sealing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-affect-the-cost-of-new-room-construction",
+  "name": "What factors affect the cost of new-room construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of new-room construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of new-room construction, including the size and complexity of the addition, the quality and type of materials chosen for framing, roofing, flooring, and finishes, the need for extensive site preparation or foundation work, and the extent of utility connections (plumbing, electrical, HVAC). Design fees, permit costs, and unexpected site conditions can also impact the overall budget.",
+        "@type": "Answer",
+        "description": "Cost factors for new-room construction include size, complexity, materials, site work, utility connections, design fees, and permits."
+      }
+    }
+  ],
+  "description": "Cost factors for new-room construction include size, complexity, materials, site work, utility connections, design fees, and permits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-a-shower-or-tub-upgrade",
+  "name": "What is the process for a shower or tub upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a shower or tub upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The upgrade process typically begins with a consultation to discuss your vision and requirements. This is followed by design and material selection. Once plans are finalized, the existing fixtures are demolished and removed. Plumbing adjustments are made, and new fixtures are installed, along with tiling or other finishes. The project concludes with final inspections and cleanup.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, demolition, plumbing, installation of new fixtures and finishes, and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, demolition, plumbing, installation of new fixtures and finishes, and final inspections."
+}

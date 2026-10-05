@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-of-a-bathroom-remodel-in-the-east-bay-area",
+  "name": "What is the average cost of a bathroom remodel in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a bathroom remodel in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom remodel in the East Bay area can vary significantly. A basic remodel might start around $15,000 to $25,000, while a mid-range remodel could be $25,000 to $40,000. High-end or luxury remodels can exceed $50,000. These figures depend on the size of the bathroom, the quality of materials chosen, and the complexity of the design. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Bathroom remodel costs in the East Bay typically range from $15,000 for basic updates to over $50,000 for luxury renovations."
+      }
+    }
+  ],
+  "description": "Bathroom remodel costs in the East Bay typically range from $15,000 for basic updates to over $50,000 for luxury renovations."
+}

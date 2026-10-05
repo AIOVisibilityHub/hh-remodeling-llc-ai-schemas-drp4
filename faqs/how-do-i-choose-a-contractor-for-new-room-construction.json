@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-a-contractor-for-new-room-construction",
+  "name": "How do I choose a contractor for new-room construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for new-room construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for new-room construction, look for experience in similar projects, verify their licensing and insurance, and check references from previous clients. Review their portfolio for quality of work and communication style. Obtain detailed bids from multiple contractors to compare costs and proposed timelines. A clear contract outlining scope, schedule, and payment terms is essential.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, references, portfolio, and clear bids. Ensure a detailed contract is in place."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, references, portfolio, and clear bids. Ensure a detailed contract is in place."
+}

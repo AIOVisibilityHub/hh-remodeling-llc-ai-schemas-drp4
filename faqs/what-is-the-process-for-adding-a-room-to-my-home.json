@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-adding-a-room-to-my-home",
+  "name": "What is the process for adding a room to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding a room to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a consultation and design phase, where your ideas are translated into architectural plans. Next, permits are secured from local authorities. Construction then proceeds, involving foundation work, framing, roofing, electrical and plumbing installation, insulation, drywall, and finishing touches. Throughout the process, regular communication ensures the project stays on track and meets your expectations.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, and construction, followed by finishing touches."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, and construction, followed by finishing touches."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-bathroom-renovations",
+  "name": "What areas do you serve for bathroom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for bathroom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly serves clients across the East Bay for full bathroom renovations. Our primary service areas include Berkeley, Oakland, Albany, El Cerrito, and the surrounding communities. If you are located in these areas, or nearby, please contact us to discuss your renovation project. We are dedicated to delivering high-quality craftsmanship to our local community.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and surrounding East Bay communities for bathroom renovations."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and surrounding East Bay communities for bathroom renovations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-in-the-east-bay-do-you-serve-for-room-modernization",
+  "name": "What areas in the East Bay do you serve for room modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas in the East Bay do you serve for room modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction serves several areas in the East Bay for outdated-room modernization projects. Our service areas include Berkeley, Oakland, Albany, El Cerrito, and Kensington. If you are located outside these specific cities but still in the broader East Bay region, please contact us to discuss your project; we may be able to accommodate your needs.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington in the East Bay for room modernization."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, Oakland, Albany, El Cerrito, and Kensington in the East Bay for room modernization."
+}

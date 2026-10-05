@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-permits-for-a-full-bathroom-renovation",
+  "name": "Do I need permits for a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most full bathroom renovations, permits are required, especially if the project involves changes to plumbing, electrical, or structural elements. The specific permit requirements depend on the city or county regulations in areas like Berkeley, Oakland, or El Cerrito. We handle all necessary permit applications and ensure your renovation complies with local building codes, providing peace of mind and a smooth process.",
+        "@type": "Answer",
+        "description": "Permits are usually required for full bathroom renovations involving plumbing, electrical, or structural changes, and we manage this process for you."
+      }
+    }
+  ],
+  "description": "Permits are usually required for full bathroom renovations involving plumbing, electrical, or structural changes, and we manage this process for you."
+}

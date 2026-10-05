@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-type-of-tile-for-my-home",
+  "name": "How do I choose the right type of tile for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of tile for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right tile involves considering the area of installation, foot traffic, moisture exposure, and your aesthetic preferences. For high-moisture areas like bathrooms, porcelain or ceramic tiles are durable and water-resistant. For kitchens, consider materials that are easy to clean and stain-resistant. Natural stone offers a unique look but may require more maintenance. Our design team can help you weigh these factors to select tiles that meet your functional needs and complement your home's style.",
+        "@type": "Answer",
+        "description": "Choose tile based on location, foot traffic, moisture, and style; our team can help you decide."
+      }
+    }
+  ],
+  "description": "Choose tile based on location, foot traffic, moisture, and style; our team can help you decide."
+}

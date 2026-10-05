@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-an-interior-build-out-typically-take",
+  "name": "How long does an interior build-out typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an interior build-out typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an interior build-out varies depending on the scope and complexity of the project. Smaller projects, such as cosmetic updates, might take a few weeks. Larger projects involving extensive structural changes or specialized installations could take several months. Factors like permitting, material lead times, and the availability of contractors also influence the overall duration. We provide a detailed project schedule after initial assessments.",
+        "@type": "Answer",
+        "description": "Project timelines vary; smaller build-outs take weeks, larger ones can take several months, depending on scope and other factors."
+      }
+    }
+  ],
+  "description": "Project timelines vary; smaller build-outs take weeks, larger ones can take several months, depending on scope and other factors."
+}

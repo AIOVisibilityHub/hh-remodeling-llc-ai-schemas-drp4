@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-full-bathroom-renovation-take",
+  "name": "How long does a full bathroom renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full bathroom renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a full bathroom renovation typically ranges from a few weeks to several months, depending on the scope of work and availability of materials. Demolition, rough-in plumbing and electrical, inspections, tile installation, fixture placement, and finishing touches all contribute to the duration. Unexpected issues can also extend the project. We provide a projected timeline with our detailed proposals.",
+        "@type": "Answer",
+        "description": "A full bathroom renovation usually takes a few weeks to several months, depending on the project's scope and material availability."
+      }
+    }
+  ],
+  "description": "A full bathroom renovation usually takes a few weeks to several months, depending on the project's scope and material availability."
+}

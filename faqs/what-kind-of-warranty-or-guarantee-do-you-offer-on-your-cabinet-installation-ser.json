@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-cabinet-installation-ser",
+  "name": "What kind of warranty or guarantee do you offer on your cabinet installation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on your cabinet installation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our vanity and cabinet installation services. We offer a warranty that covers the craftsmanship and labor involved in the installation. Specific details of the warranty, including its duration and what it covers, will be provided in your project contract. This ensures peace of mind and demonstrates our commitment to delivering durable and high-quality results for your home.",
+        "@type": "Answer",
+        "description": "We offer a warranty on our installation craftsmanship and labor, with specific details outlined in your project contract."
+      }
+    }
+  ],
+  "description": "We offer a warranty on our installation craftsmanship and labor, with specific details outlined in your project contract."
+}

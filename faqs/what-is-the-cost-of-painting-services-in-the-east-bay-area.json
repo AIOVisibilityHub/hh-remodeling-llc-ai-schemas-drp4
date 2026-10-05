@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-cost-of-painting-services-in-the-east-bay-area",
+  "name": "What is the cost of painting services in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of painting services in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of painting services in the East Bay, including Berkeley, Oakland, and surrounding areas, varies widely based on factors such as the scope of work (interior/exterior, number of rooms), surface condition, paint quality selected, and any necessary repairs or preparation. We offer free, no-obligation estimates after an on-site evaluation to provide an accurate quote tailored to your specific project requirements.",
+        "@type": "Answer",
+        "description": "Painting costs in the East Bay depend on project scope, surface condition, and paint quality; we provide free, accurate estimates."
+      }
+    }
+  ],
+  "description": "Painting costs in the East Bay depend on project scope, surface condition, and paint quality; we provide free, accurate estimates."
+}

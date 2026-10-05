@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-a-room-expansion",
+  "name": "What is a room expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a room expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room expansion, often called an addition, increases the square footage of your home by extending an existing room or adding a new one. This can involve expanding outward from the current footprint or upward by adding a second story. Common room expansions include enlarging kitchens, adding bedrooms, creating home offices, or building sunrooms.",
+        "@type": "Answer",
+        "description": "A room expansion increases your home's square footage by extending an existing room or adding a new one."
+      }
+    }
+  ],
+  "description": "A room expansion increases your home's square footage by extending an existing room or adding a new one."
+}

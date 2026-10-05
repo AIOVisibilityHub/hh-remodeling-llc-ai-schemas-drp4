@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-stay-in-my-home-during-a-room-modernization-project",
+  "name": "Can I stay in my home during a room modernization project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a room modernization project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a room modernization project depends on the scope of the work and which room is being modernized. For minor updates in one area, staying at home might be feasible. However, for extensive renovations involving dust, noise, or disruption to essential services like plumbing or electricity, it might be more comfortable and safer to make alternative living arrangements. We will discuss this with you during the planning phase.",
+        "@type": "Answer",
+        "description": "Staying home depends on the project's scope; minor updates may allow it, but extensive renovations might require alternative arrangements."
+      }
+    }
+  ],
+  "description": "Staying home depends on the project's scope; minor updates may allow it, but extensive renovations might require alternative arrangements."
+}

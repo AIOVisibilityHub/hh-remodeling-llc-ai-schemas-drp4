@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-standard-water-heater-and-a-tankless-water-heat",
+  "name": "What is the difference between a standard water heater and a tankless water heater for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard water heater and a tankless water heater for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water heater stores and heats a large volume of water in a tank, providing a limited amount of hot water at once. A tankless water heater heats water on demand as it flows through the unit, providing a continuous supply of hot water. Tankless units are generally more energy-efficient and save space, but have a higher upfront installation cost.",
+        "@type": "Answer",
+        "description": "Standard water heaters store hot water in a tank; tankless heaters provide hot water on demand. Tankless are more energy-efficient and save space but cost more initially."
+      }
+    }
+  ],
+  "description": "Standard water heaters store hot water in a tank; tankless heaters provide hot water on demand. Tankless are more energy-efficient and save space but cost more"
+}

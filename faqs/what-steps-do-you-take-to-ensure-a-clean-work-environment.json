@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-steps-do-you-take-to-ensure-a-clean-work-environment",
+  "name": "What steps do you take to ensure a clean work environment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps do you take to ensure a clean work environment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a clean work environment is a priority. We begin by covering all furniture, flooring, and fixtures with drop cloths and plastic sheeting. Throughout the project, we use dust containment methods where appropriate. At the end of each workday, we conduct a general cleanup, and upon completion of the project, we perform a thorough cleaning to leave your home tidy and ready for you to enjoy.",
+        "@type": "Answer",
+        "description": "We cover and protect surfaces, use dust containment, and conduct daily and final cleanups to maintain a tidy work environment."
+      }
+    }
+  ],
+  "description": "We cover and protect surfaces, use dust containment, and conduct daily and final cleanups to maintain a tidy work environment."
+}

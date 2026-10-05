@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-permits-are-needed-for-new-room-construction-in-berkeley-or-oakland",
+  "name": "What permits are needed for new-room construction in Berkeley or Oakland?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for new-room construction in Berkeley or Oakland?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New-room construction in Berkeley or Oakland typically requires building permits, zoning permits, and potentially specialized permits for electrical, plumbing, and mechanical work. Specific requirements can vary based on the scope of the project and local ordinances. It's advisable to consult with the local planning department early in the process to understand all necessary permits.",
+        "@type": "Answer",
+        "description": "New-room construction in Berkeley or Oakland generally requires building, zoning, electrical, plumbing, and mechanical permits."
+      }
+    }
+  ],
+  "description": "New-room construction in Berkeley or Oakland generally requires building, zoning, electrical, plumbing, and mechanical permits."
+}

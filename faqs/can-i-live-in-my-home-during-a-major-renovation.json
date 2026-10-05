@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-i-live-in-my-home-during-a-major-renovation",
+  "name": "Can I live in my home during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a major renovation depends on the extent and nature of the project. For extensive remodels involving kitchens, bathrooms, or significant structural work, it may be more comfortable and safer to temporarily relocate. Dust, noise, and utility interruptions can be significant. For smaller projects, it might be feasible to stay. We discuss these logistics during the planning phase to help you make an informed decision and minimize disruption to your daily life.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation depends on the project's extent; temporary relocation might be more comfortable for large jobs."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation depends on the project's extent; temporary relocation might be more comfortable for large jobs."
+}

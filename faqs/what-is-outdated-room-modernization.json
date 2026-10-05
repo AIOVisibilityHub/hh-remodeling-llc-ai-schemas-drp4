@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-outdated-room-modernization",
+  "name": "What is outdated-room modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is outdated-room modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdated-room modernization involves updating a room to meet current aesthetic and functional standards. This can include improving layouts, upgrading fixtures and finishes, enhancing energy efficiency, and incorporating smart home technology. The goal is to transform a space that feels old or inefficient into one that is modern, comfortable, and tailored to your current needs.",
+        "@type": "Answer",
+        "description": "Outdated-room modernization updates a room to current aesthetic and functional standards, improving layouts, fixtures, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Outdated-room modernization updates a room to current aesthetic and functional standards, improving layouts, fixtures, and energy efficiency."
+}

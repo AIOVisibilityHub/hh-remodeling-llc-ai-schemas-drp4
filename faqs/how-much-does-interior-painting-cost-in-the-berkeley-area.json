@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-interior-painting-cost-in-the-berkeley-area",
+  "name": "How much does interior painting cost in the Berkeley area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior painting cost in the Berkeley area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior painting in the Berkeley area can vary depending on the scope of work, paint quality desired, and any necessary repairs or specialized finishes. We provide free, no-obligation estimates after an on-site visit to accurately assess your project's needs. This ensures a transparent and fair price tailored to your specific requirements.",
+        "@type": "Answer",
+        "description": "Interior painting costs in Berkeley vary; we provide free estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Interior painting costs in Berkeley vary; we provide free estimates after an on-site assessment."
+}

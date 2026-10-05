@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-full-bathroom-remodel-and-a-cosmetic-update",
+  "name": "What is the difference between a full bathroom remodel and a cosmetic update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full bathroom remodel and a cosmetic update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic update typically involves superficial changes that improve the appearance without altering the bathroom's layout or major systems. This could include painting, replacing fixtures, or updating a vanity. A full bathroom remodel, however, involves more extensive work, such as changing the layout, relocating plumbing, updating electrical systems, replacing flooring, and installing new showers or tubs. A full remodel generally takes longer and costs more.",
+        "@type": "Answer",
+        "description": "A cosmetic update refreshes appearance without changing layout or systems, while a full remodel involves extensive changes including plumbing, electrical, and layout."
+      }
+    }
+  ],
+  "description": "A cosmetic update refreshes appearance without changing layout or systems, while a full remodel involves extensive changes including plumbing, electrical, and l"
+}

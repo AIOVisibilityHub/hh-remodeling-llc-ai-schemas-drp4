@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home",
+  "name": "When is the best time of year to paint the interior of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to paint the interior of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior painting can be done effectively year-round. Unlike exterior painting, weather conditions have minimal impact on indoor projects. However, some homeowners prefer to paint during cooler months when windows can be kept open for ventilation without discomfort, or during warmer months to allow for quicker drying times with good air circulation. Ultimately, the best time is when it's most convenient for you.",
+        "@type": "Answer",
+        "description": "Interior painting can be done any time of year, as weather has minimal impact. Choose a time that is most convenient for you."
+      }
+    }
+  ],
+  "description": "Interior painting can be done any time of year, as weather has minimal impact. Choose a time that is most convenient for you."
+}

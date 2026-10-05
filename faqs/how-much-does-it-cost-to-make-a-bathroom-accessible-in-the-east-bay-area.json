@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-it-cost-to-make-a-bathroom-accessible-in-the-east-bay-area",
+  "name": "How much does it cost to make a bathroom accessible in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to make a bathroom accessible in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of making a bathroom accessible in the East Bay area varies widely depending on the scope of work. Minor changes like grab bar installation or a raised toilet seat might be a few hundred dollars. Major renovations, such as converting to a roll-in shower, widening doorways, and reconfiguring the layout, can range from several thousands to tens of thousands of dollars. We provide detailed estimates after an initial assessment.",
+        "@type": "Answer",
+        "description": "Costs vary, from a few hundred dollars for minor changes to several thousands for major renovations."
+      }
+    }
+  ],
+  "description": "Costs vary, from a few hundred dollars for minor changes to several thousands for major renovations."
+}

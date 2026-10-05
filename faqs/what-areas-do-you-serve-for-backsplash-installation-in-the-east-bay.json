@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-backsplash-installation-in-the-east-bay",
+  "name": "What areas do you serve for backsplash installation in the East Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for backsplash installation in the East Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction proudly offers backsplash installation services across the East Bay, including Berkeley, Oakland, Albany, El Cerrito, and surrounding areas. We are committed to providing quality craftsmanship and reliable service to homeowners and businesses in these communities.",
+        "@type": "Answer",
+        "description": "Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and surrounding East Bay areas for backsplash installation."
+      }
+    }
+  ],
+  "description": "Frasheski Construction serves Berkeley, Oakland, Albany, El Cerrito, and surrounding East Bay areas for backsplash installation."
+}

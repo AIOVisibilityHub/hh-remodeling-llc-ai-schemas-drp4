@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-room-expansion-project-take",
+  "name": "How long does a room expansion project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a room expansion project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room expansion varies depending on the size and complexity of the project. A small, straightforward addition might take 3-6 months from design to completion. Larger or more intricate expansions, especially those requiring extensive structural work or specialized finishes, can take 6-12 months or even longer. Permitting can also add several weeks or months to the overall timeline. We provide a detailed project schedule once the scope is defined.",
+        "@type": "Answer",
+        "description": "A room expansion can take 3-12 months or more, depending on its size, complexity, and permitting requirements."
+      }
+    }
+  ],
+  "description": "A room expansion can take 3-12 months or more, depending on its size, complexity, and permitting requirements."
+}

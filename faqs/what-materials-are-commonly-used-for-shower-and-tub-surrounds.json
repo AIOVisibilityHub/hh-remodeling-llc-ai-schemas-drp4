@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-materials-are-commonly-used-for-shower-and-tub-surrounds",
+  "name": "What materials are commonly used for shower and tub surrounds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for shower and tub surrounds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for shower and tub surrounds include ceramic or porcelain tile, natural stone (like marble or granite), acrylic, and fiberglass. Tile offers versatility in design and durability. Natural stone provides a luxurious look but requires more maintenance. Acrylic and fiberglass are cost-effective, easy to clean, and good for prefabricated units.",
+        "@type": "Answer",
+        "description": "Common materials include ceramic/porcelain tile, natural stone, acrylic, and fiberglass, each offering different aesthetics, durability, and maintenance levels."
+      }
+    }
+  ],
+  "description": "Common materials include ceramic/porcelain tile, natural stone, acrylic, and fiberglass, each offering different aesthetics, durability, and maintenance levels."
+}

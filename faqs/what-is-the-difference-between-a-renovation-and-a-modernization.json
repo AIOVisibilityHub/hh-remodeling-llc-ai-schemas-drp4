@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-renovation-and-a-modernization",
+  "name": "What is the difference between a renovation and a modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a renovation and a modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, renovation typically refers to restoring something to a good state of repair, often involving significant repairs or rebuilding. Modernization, on the other hand, focuses on updating a space to current styles, technologies, and functional standards. A modernization project might involve renovation elements, but its primary goal is to make the space contemporary and aligned with modern living.",
+        "@type": "Answer",
+        "description": "Renovation restores a space; modernization updates it to current styles, technologies, and functional standards."
+      }
+    }
+  ],
+  "description": "Renovation restores a space; modernization updates it to current styles, technologies, and functional standards."
+}

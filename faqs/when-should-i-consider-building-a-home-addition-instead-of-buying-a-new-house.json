@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-building-a-home-addition-instead-of-buying-a-new-house",
+  "name": "When should I consider building a home addition instead of buying a new house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider building a home addition instead of buying a new house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home addition when you love your current location, neighborhood, and schools but need more space. It's often a more cost-effective solution than moving, especially with rising property values in areas like Berkeley and Oakland. An addition allows you to customize your living space to your exact needs without the disruption and expenses associated with relocating.",
+        "@type": "Answer",
+        "description": "Consider an addition if you like your current location but need more space, as it can be more cost-effective than moving."
+      }
+    }
+  ],
+  "description": "Consider an addition if you like your current location but need more space, as it can be more cost-effective than moving."
+}

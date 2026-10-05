@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-an-accessible-bathroom-renovation",
+  "name": "What are the benefits of an accessible bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of an accessible bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom renovation provides numerous benefits, including enhanced safety by reducing fall risks, increased independence for individuals with mobility limitations, improved comfort and ease of use, and greater peace of mind for both users and caregivers. It also adds long-term value to your home by making it more versatile and inclusive.",
+        "@type": "Answer",
+        "description": "Benefits include enhanced safety, increased independence, improved comfort, and long-term home value."
+      }
+    }
+  ],
+  "description": "Benefits include enhanced safety, increased independence, improved comfort, and long-term home value."
+}

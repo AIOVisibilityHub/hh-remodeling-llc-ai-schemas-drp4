@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-new-room-construction-process",
+  "name": "What is the typical new-room construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical new-room construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New-room construction typically begins with design and permitting, followed by site preparation and foundation work. Framing establishes the room's structure, then plumbing, electrical, and HVAC systems are installed. Insulation and drywall come next, leading to interior finishes like painting and flooring. Finally, fixtures are installed and a final inspection is conducted. The specific timeline can vary based on project complexity and local regulations.",
+        "@type": "Answer",
+        "description": "The new-room construction process involves design, permitting, site work, framing, utility installation, interior finishing, and final inspections."
+      }
+    }
+  ],
+  "description": "The new-room construction process involves design, permitting, site work, framing, utility installation, interior finishing, and final inspections."
+}

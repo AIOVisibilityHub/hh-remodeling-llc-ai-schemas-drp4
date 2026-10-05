@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-preparations-do-i-need-to-make-before-your-team-arrives-for-installation",
+  "name": "What preparations do I need to make before your team arrives for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before your team arrives for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for installation, please clear the work area of any personal belongings, fragile items, and furniture. If possible, remove all contents from existing cabinets or vanities. Ensure there is clear access to the work site and that utilities like water and electricity are accessible. This preparation helps our installers work efficiently and safely, minimizing delays and protecting your property.",
+        "@type": "Answer",
+        "description": "Clear the work area of personal items and furniture, empty existing cabinets, and ensure utility access before installation."
+      }
+    }
+  ],
+  "description": "Clear the work area of personal items and furniture, empty existing cabinets, and ensure utility access before installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-electrical-upgrades-are-common-for-bathrooms",
+  "name": "What electrical upgrades are common for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical upgrades are common for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common electrical upgrades for bathrooms include installing new GFCI (Ground Fault Circuit Interrupter) outlets for enhanced safety, upgrading to energy-efficient LED lighting, adding dimmer switches for adjustable ambiance, and installing dedicated circuits for high-power appliances like jetted tubs or sauna heaters. Ventilation fan upgrades, often with integrated lighting or humidity sensors, are also popular to improve air quality and prevent mold growth.",
+        "@type": "Answer",
+        "description": "Common bathroom electrical upgrades include GFCI outlets, LED lighting, dimmer switches, dedicated circuits for high-power appliances, and upgraded ventilation fans."
+      }
+    }
+  ],
+  "description": "Common bathroom electrical upgrades include GFCI outlets, LED lighting, dimmer switches, dedicated circuits for high-power appliances, and upgraded ventilation"
+}

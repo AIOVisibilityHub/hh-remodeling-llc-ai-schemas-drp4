@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-building-a-new-room-versus-remodeling-an-existing-space",
+  "name": "When should I consider building a new room versus remodeling an existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider building a new room versus remodeling an existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider building a new room when your existing space doesn't offer the footprint or structural capacity to meet your needs, or if you require a completely new function not easily integrated into current layouts. Remodeling is suitable when you want to update aesthetics or improve functionality within the existing structural confines. New construction offers more design flexibility but generally has higher costs and longer timelines.",
+        "@type": "Answer",
+        "description": "Build a new room for increased space or new functions; remodel for aesthetic updates or improved functionality within existing structures."
+      }
+    }
+  ],
+  "description": "Build a new room for increased space or new functions; remodel for aesthetic updates or improved functionality within existing structures."
+}

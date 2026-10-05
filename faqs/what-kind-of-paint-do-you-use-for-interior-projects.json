@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-do-you-use-for-interior-projects",
+  "name": "What kind of paint do you use for interior projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, durable, and low-VOC (volatile organic compound) paints from reputable brands. This ensures a long-lasting finish and minimizes odors, contributing to better indoor air quality. We can discuss various paint types, finishes (e.g., flat, eggshell, satin, semi-gloss), and brands to match your aesthetic preferences and practical needs during our consultation.",
+        "@type": "Answer",
+        "description": "We use high-quality, durable, low-VOC paints from reputable brands, and can discuss various types and finishes."
+      }
+    }
+  ],
+  "description": "We use high-quality, durable, low-VOC paints from reputable brands, and can discuss various types and finishes."
+}

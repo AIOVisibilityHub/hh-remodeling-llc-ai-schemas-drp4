@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-common-reasons-to-upgrade-a-shower-or-tub",
+  "name": "What are common reasons to upgrade a shower or tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons to upgrade a shower or tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners often upgrade showers or tubs to improve functionality, enhance aesthetics, or address issues like leaks or outdated fixtures. Upgrades can involve converting a tub to a shower, installing a new shower system with modern features, or replacing an old tub with a more comfortable and accessible model. These projects can also increase home value and improve daily living.",
+        "@type": "Answer",
+        "description": "Common reasons include improving functionality, enhancing aesthetics, or addressing issues like leaks or outdated fixtures."
+      }
+    }
+  ],
+  "description": "Common reasons include improving functionality, enhancing aesthetics, or addressing issues like leaks or outdated fixtures."
+}

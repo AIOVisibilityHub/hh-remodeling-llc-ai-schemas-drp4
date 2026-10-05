@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-appliance-delivery-and-installation",
+  "name": "What is the difference between appliance delivery and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between appliance delivery and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance delivery typically involves transporting the new appliance to your home and placing it in a designated room. Installation, however, is the process of physically connecting the appliance to your home's utilities (electrical, water, gas) and ensuring it is fully functional and safely integrated. While some retailers offer basic installation with delivery, complex installations often require professional services like those provided by Frasheski Construction, ensuring all connections are up to code and secure.",
+        "@type": "Answer",
+        "description": "Delivery brings the appliance to your home; installation connects it to utilities and ensures it's functional and safe."
+      }
+    }
+  ],
+  "description": "Delivery brings the appliance to your home; installation connects it to utilities and ensures it's functional and safe."
+}

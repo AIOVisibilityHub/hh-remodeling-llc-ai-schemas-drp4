@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-paint-job-last-and-what-affects-its-longevity",
+  "name": "How long does a paint job last, and what affects its longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a paint job last, and what affects its longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The longevity of a paint job depends on several factors, including the quality of the paint and primer used, the thoroughness of surface preparation, the skill of application, and environmental conditions. A well-executed interior paint job can last 5-10 years or more, while exterior paint typically lasts 5-7 years in the East Bay's climate. Regular cleaning and maintenance can extend its life.",
+        "@type": "Answer",
+        "description": "Paint job longevity depends on paint quality, preparation, application, and environment; typically 5-10 years for interior, 5-7 for exterior."
+      }
+    }
+  ],
+  "description": "Paint job longevity depends on paint quality, preparation, application, and environment; typically 5-10 years for interior, 5-7 for exterior."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-move-out-of-my-home-during-a-multi-room-remodel",
+  "name": "Do I need to move out of my home during a multi-room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my home during a multi-room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a multi-room remodel depends on the extent and nature of the work. If major structural changes, plumbing, or electrical work are involved in essential areas like the kitchen or main bathroom, temporary relocation might be advisable for safety and convenience. We discuss these considerations during the planning phase and work to minimize disruption, suggesting strategies to make living in your home during the remodel as comfortable as possible.",
+        "@type": "Answer",
+        "description": "Moving out depends on the remodel's extent; we'll discuss options to minimize disruption."
+      }
+    }
+  ],
+  "description": "Moving out depends on the remodel's extent; we'll discuss options to minimize disruption."
+}

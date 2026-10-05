@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-addition-and-a-new-room-build",
+  "name": "What is the difference between an addition and a new room build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an addition and a new room build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An addition typically refers to expanding the existing footprint of your home by extending a wall or adding a new structure that directly connects to the current dwelling. A new room build generally implies the construction of a freestanding structure or a significant, often multi-story, expansion that dramatically alters the home's original layout or function. Both require similar planning and permitting.",
+        "@type": "Answer",
+        "description": "An addition expands an existing home's footprint, while a new room build can be a significant expansion or freestanding structure."
+      }
+    }
+  ],
+  "description": "An addition expands an existing home's footprint, while a new room build can be a significant expansion or freestanding structure."
+}

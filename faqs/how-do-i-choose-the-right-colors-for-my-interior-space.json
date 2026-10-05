@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-colors-for-my-interior-space",
+  "name": "How do I choose the right colors for my interior space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right colors for my interior space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing colors can be a significant decision. We can offer color consultation services to help you select hues that complement your existing decor, desired mood, and natural lighting. We can also provide samples or swatches so you can see how colors appear in your home before making a final decision. Consider the function of each room and your personal style.",
+        "@type": "Answer",
+        "description": "We offer color consultations to help you choose colors that suit your decor, mood, and lighting, and can provide samples."
+      }
+    }
+  ],
+  "description": "We offer color consultations to help you choose colors that suit your decor, mood, and lighting, and can provide samples."
+}

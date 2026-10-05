@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-prepare-before-starting-a-renovation-project",
+  "name": "What should I prepare before starting a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a renovation project, it's beneficial to have a clear idea of your goals, budget, and desired style. Gather inspiration, create a list of must-haves versus nice-to-haves, and consider how the renovation will impact your daily life. Also, ensure you have a designated area for materials and a plan for minimizing disruption. This preparation helps streamline the process.",
+        "@type": "Answer",
+        "description": "Before renovating, define your goals, budget, style, and essential needs, and plan for material storage and disruption minimization."
+      }
+    }
+  ],
+  "description": "Before renovating, define your goals, budget, style, and essential needs, and plan for material storage and disruption minimization."
+}

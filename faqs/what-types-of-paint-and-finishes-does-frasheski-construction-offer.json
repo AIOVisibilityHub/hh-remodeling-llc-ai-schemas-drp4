@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-paint-and-finishes-does-frasheski-construction-offer",
+  "name": "What types of paint and finishes does Frasheski Construction offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of paint and finishes does Frasheski Construction offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides a range of paint and finish options for residential and commercial projects. This includes interior and exterior painting, staining, varnishing, and specialty finishes. We work with various paint types, such as latex, oil-based, and eco-friendly options, to suit different surfaces and desired aesthetics. Our team can help you choose the best products for durability, appearance, and your specific needs.",
+        "@type": "Answer",
+        "description": "Frasheski Construction offers interior and exterior painting, staining, varnishing, and specialty finishes using various paint types."
+      }
+    }
+  ],
+  "description": "Frasheski Construction offers interior and exterior painting, staining, varnishing, and specialty finishes using various paint types."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-bathroom-remodel-usually-take-in-the-east-bay-area",
+  "name": "How long does a bathroom remodel usually take in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel usually take in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom remodel in the East Bay typically takes about 3 to 6 weeks, assuming no major structural changes or unforeseen issues. The timeline can be influenced by factors like the size of the bathroom, the complexity of the design, lead times for materials, and the need for permits. We provide a projected timeline during the planning phase to keep you informed.",
+        "@type": "Answer",
+        "description": "A typical bathroom remodel in the East Bay takes 3 to 6 weeks, depending on project complexity and material availability."
+      }
+    }
+  ],
+  "description": "A typical bathroom remodel in the East Bay takes 3 to 6 weeks, depending on project complexity and material availability."
+}

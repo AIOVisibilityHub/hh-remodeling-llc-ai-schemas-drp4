@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-home-renovation-and-a-home-addition",
+  "name": "What is the difference between a home renovation and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home renovation and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home renovation typically involves updating existing structures, such as remodeling a kitchen or bathroom, without increasing the home's footprint. A home addition, however, involves expanding the physical size of your home by adding new square footage, such as an extra room or a second story. Both can improve your home, but additions provide new space.",
+        "@type": "Answer",
+        "description": "A renovation updates existing space, while an addition expands the home's physical size by adding new square footage."
+      }
+    }
+  ],
+  "description": "A renovation updates existing space, while an addition expands the home's physical size by adding new square footage."
+}

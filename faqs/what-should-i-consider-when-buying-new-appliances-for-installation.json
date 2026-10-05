@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-consider-when-buying-new-appliances-for-installation",
+  "name": "What should I consider when buying new appliances for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when buying new appliances for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When buying new appliances, consider the dimensions of the appliance and the available space, including door clearances. Verify that your home's existing utility connections (electrical, gas, water) match the appliance's requirements, and assess if any upgrades are needed. Also, think about the appliance's weight and if your flooring needs reinforcement. Frasheski Construction can assist with these pre-purchase considerations.",
+        "@type": "Answer",
+        "description": "Consider appliance dimensions, utility connection compatibility, and potential need for space or structural modifications before buying."
+      }
+    }
+  ],
+  "description": "Consider appliance dimensions, utility connection compatibility, and potential need for space or structural modifications before buying."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-a-home-addition-increase-my-property-value",
+  "name": "Can a home addition increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a home addition increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed home addition can significantly increase your property value, especially in competitive markets like the East Bay. Adding functional living space, such as an extra bedroom, bathroom, or a larger kitchen, is often a worthwhile investment. The return on investment depends on the type of addition and its quality.",
+        "@type": "Answer",
+        "description": "A well-executed home addition can significantly increase your property value, especially in competitive markets."
+      }
+    }
+  ],
+  "description": "A well-executed home addition can significantly increase your property value, especially in competitive markets."
+}

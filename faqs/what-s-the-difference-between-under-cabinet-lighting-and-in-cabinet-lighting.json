@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-under-cabinet-lighting-and-in-cabinet-lighting",
+  "name": "What's the difference between under-cabinet lighting and in-cabinet lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between under-cabinet lighting and in-cabinet lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting is installed on the underside of upper cabinets to illuminate the countertop directly below, providing essential task lighting for food preparation. In-cabinet lighting, conversely, is placed inside cabinets, often with glass fronts, to showcase dishes or decorative items. Both contribute to kitchen ambiance but serve different functional and aesthetic purposes.",
+        "@type": "Answer",
+        "description": "Under-cabinet lighting illuminates countertops for tasks, while in-cabinet lighting highlights items inside cabinets."
+      }
+    }
+  ],
+  "description": "Under-cabinet lighting illuminates countertops for tasks, while in-cabinet lighting highlights items inside cabinets."
+}

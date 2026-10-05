@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/does-frasheski-construction-offer-eco-friendly-or-low-voc-paint-options",
+  "name": "Does Frasheski Construction offer eco-friendly or low-VOC paint options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Frasheski Construction offer eco-friendly or low-VOC paint options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Frasheski Construction offers a selection of eco-friendly and low-volatile organic compound (VOC) paint options. These paints contribute to better indoor air quality by releasing fewer harmful chemicals during and after application. We can discuss these options with you and recommend products that meet your environmental preferences and project requirements.",
+        "@type": "Answer",
+        "description": "Yes, we offer eco-friendly and low-VOC paint options to improve indoor air quality."
+      }
+    }
+  ],
+  "description": "Yes, we offer eco-friendly and low-VOC paint options to improve indoor air quality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-upgrading-to-a-tankless-water-heater-in-my-kitchen",
+  "name": "What are the benefits of upgrading to a tankless water heater in my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a tankless water heater in my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a tankless water heater in your kitchen offers several benefits, including on-demand hot water, which means you won't run out during peak usage. They are also more energy-efficient than traditional tank heaters, as they only heat water when needed, potentially lowering utility bills. Additionally, their compact size saves valuable space, making them a popular choice for kitchen renovations.",
+        "@type": "Answer",
+        "description": "Tankless water heaters provide on-demand hot water, are energy-efficient, and save space, making them ideal for kitchen upgrades."
+      }
+    }
+  ],
+  "description": "Tankless water heaters provide on-demand hot water, are energy-efficient, and save space, making them ideal for kitchen upgrades."
+}

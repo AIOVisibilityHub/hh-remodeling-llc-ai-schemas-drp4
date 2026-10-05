@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-minor-update-and-a-full-renovation",
+  "name": "What is the difference between a minor update and a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor update and a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor update typically involves cosmetic changes like painting, replacing a vanity, or updating fixtures without altering the layout or major plumbing/electrical. A full renovation, on the other hand, usually includes more extensive work such as demolishing existing structures, reconfiguring the layout, replacing major components like the shower/tub, and often involves new plumbing or electrical work. Full renovations are more comprehensive and transformative.",
+        "@type": "Answer",
+        "description": "A minor update is cosmetic, while a full renovation involves extensive changes like demolition, layout alterations, and replacing major components."
+      }
+    }
+  ],
+  "description": "A minor update is cosmetic, while a full renovation involves extensive changes like demolition, layout alterations, and replacing major components."
+}

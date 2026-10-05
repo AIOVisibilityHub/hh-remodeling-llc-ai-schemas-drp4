@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-an-interior-build-out",
+  "name": "What is an interior build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an interior build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior build-out, also known as tenant improvement, is the process of customizing an existing commercial space to meet the specific needs and aesthetic preferences of a new tenant. This can involve reconfiguring floor plans, installing new walls, flooring, ceilings, lighting, plumbing, and electrical systems. It transforms a raw or previously occupied space into a functional and ready-to-use environment for your business operations.",
+        "@type": "Answer",
+        "description": "An interior build-out customizes an existing commercial space to fit a tenant's specific business needs."
+      }
+    }
+  ],
+  "description": "An interior build-out customizes an existing commercial space to fit a tenant's specific business needs."
+}

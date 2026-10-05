@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-upgrading-my-kitchen-plumbing",
+  "name": "When should I consider upgrading my kitchen plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my kitchen plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider upgrading your kitchen plumbing if you notice persistent leaks, low water pressure, discolored water, or frequent clogs. These issues can indicate aging pipes or fixtures that may be prone to failure. Additionally, if you're undertaking a kitchen renovation, it's an opportune time to upgrade plumbing components to ensure they meet modern standards and complement your new design. Proactive upgrades can prevent costly water damage and improve daily functionality.",
+        "@type": "Answer",
+        "description": "Upgrade your kitchen plumbing if you experience leaks, low water pressure, discolored water, or during a kitchen renovation to prevent future issues."
+      }
+    }
+  ],
+  "description": "Upgrade your kitchen plumbing if you experience leaks, low water pressure, discolored water, or during a kitchen renovation to prevent future issues."
+}

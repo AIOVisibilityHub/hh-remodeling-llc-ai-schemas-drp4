@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-expected-lifespan-of-a-new-shower-or-tub-installation",
+  "name": "What is the expected lifespan of a new shower or tub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the expected lifespan of a new shower or tub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a new shower or tub installation varies depending on the materials used, quality of installation, and how well it's maintained. High-quality fixtures and proper installation can last 15-20 years or more. Materials like cast iron tubs can last for decades, while acrylic or fiberglass units might have a slightly shorter lifespan but are still very durable.",
+        "@type": "Answer",
+        "description": "Lifespan varies by materials and quality, with high-quality installations lasting 15-20 years or more."
+      }
+    }
+  ],
+  "description": "Lifespan varies by materials and quality, with high-quality installations lasting 15-20 years or more."
+}
