@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-materials-are-used-for-trim-and-molding",
+  "name": "What types of materials are used for trim and molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for trim and molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for trim and molding include solid wood (such as pine, oak, or maple), MDF (medium-density fiberboard), and PVC. Solid wood offers natural beauty and durability, while MDF is more affordable and stable. PVC is ideal for moisture-prone areas like bathrooms due to its water resistance.",
+        "@type": "Answer",
+        "description": "Trim and molding materials include solid wood, MDF, and PVC, each with distinct benefits for appearance, cost, and moisture resistance."
+      }
+    }
+  ],
+  "description": "Trim and molding materials include solid wood, MDF, and PVC, each with distinct benefits for appearance, cost, and moisture resistance."
+}

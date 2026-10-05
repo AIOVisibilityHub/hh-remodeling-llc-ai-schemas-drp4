@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-installing-smart-lighting-in-a-kitchen",
+  "name": "What are the benefits of installing smart lighting in a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing smart lighting in a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing smart lighting in a kitchen offers benefits like improved energy efficiency, customizable ambiance, and convenient control via voice or app. You can set schedules, dim lights, or change color temperatures to suit different activities. A practical tradeoff is the initial cost versus long-term savings and flexibility; while smart lighting systems may have a higher upfront investment, they can lead to reduced energy bills and a more adaptable lighting environment, enhancing daily kitchen use.",
+        "@type": "Answer",
+        "description": "Smart kitchen lighting offers energy efficiency, customizable ambiance, and convenient control. It's a tradeoff between initial cost and long-term benefits."
+      }
+    }
+  ],
+  "description": "Smart kitchen lighting offers energy efficiency, customizable ambiance, and convenient control. It's a tradeoff between initial cost and long-term benefits."
+}

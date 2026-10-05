@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-finish-carpentry-coordination",
+  "name": "What is finish carpentry coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is finish carpentry coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry coordination involves managing all aspects of the installation of trim, doors, cabinets, and other decorative elements after the main construction is complete. This includes scheduling trades, ensuring materials arrive on time, maintaining quality control, and resolving any issues that arise to keep the project on track and within budget. Effective coordination ensures a seamless and high-quality final product.",
+        "@type": "Answer",
+        "description": "Finish carpentry coordination manages the installation of interior trim, doors, and cabinets after main construction."
+      }
+    }
+  ],
+  "description": "Finish carpentry coordination manages the installation of interior trim, doors, and cabinets after main construction."
+}

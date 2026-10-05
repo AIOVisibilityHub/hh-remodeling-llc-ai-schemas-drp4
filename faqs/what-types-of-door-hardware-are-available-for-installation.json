@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-door-hardware-are-available-for-installation",
+  "name": "What types of door hardware are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door hardware are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wide variety of door hardware is available to suit different door types and security needs. This includes hinges for proper door swing, handles or knobs for opening and closing, and various locking mechanisms such as deadbolts, privacy locks, and passage latches. Additionally, accessories like door closers, peepholes, and kick plates can be installed for added functionality and security.",
+        "@type": "Answer",
+        "description": "Available door hardware includes hinges, handles, knobs, and various locks like deadbolts and privacy locks, plus accessories like door closers."
+      }
+    }
+  ],
+  "description": "Available door hardware includes hinges, handles, knobs, and various locks like deadbolts and privacy locks, plus accessories like door closers."
+}

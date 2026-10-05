@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-trim-and-molding",
+  "name": "What is trim and molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trim and molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim and molding refers to the decorative and functional elements that finish the interior of a home, covering seams and transitions between surfaces. This includes baseboards, crown molding, door and window casings, and chair rails. Beyond aesthetics, trim protects walls from damage and can conceal imperfections.",
+        "@type": "Answer",
+        "description": "Trim and molding are decorative and functional elements that finish interior spaces, covering seams and protecting walls."
+      }
+    }
+  ],
+  "description": "Trim and molding are decorative and functional elements that finish interior spaces, covering seams and protecting walls."
+}

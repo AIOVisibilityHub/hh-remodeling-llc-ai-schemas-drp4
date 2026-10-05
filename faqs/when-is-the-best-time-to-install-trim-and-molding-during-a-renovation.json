@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-is-the-best-time-to-install-trim-and-molding-during-a-renovation",
+  "name": "When is the best time to install trim and molding during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to install trim and molding during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim and molding are typically installed after major construction phases like drywall installation and painting, but before final flooring is laid. This sequence ensures a clean finish, preventing paint from getting on new floors and allowing for any necessary adjustments to trim pieces once walls are complete.",
+        "@type": "Answer",
+        "description": "Install trim and molding after drywall and painting, but before final flooring, for a clean finish."
+      }
+    }
+  ],
+  "description": "Install trim and molding after drywall and painting, but before final flooring, for a clean finish."
+}

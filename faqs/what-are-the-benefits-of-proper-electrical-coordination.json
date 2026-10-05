@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-proper-electrical-coordination",
+  "name": "What are the benefits of proper electrical coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of proper electrical coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper electrical coordination offers several benefits, including enhanced safety for personnel and equipment, increased system reliability by minimizing outages, and reduced maintenance costs due to less equipment damage. It also helps in complying with electrical codes and standards, which is essential for any construction project.",
+        "@type": "Answer",
+        "description": "Benefits of proper electrical coordination include enhanced safety, increased system reliability, reduced maintenance costs, and compliance with electrical codes."
+      }
+    }
+  ],
+  "description": "Benefits of proper electrical coordination include enhanced safety, increased system reliability, reduced maintenance costs, and compliance with electrical code"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-manage-my-budget-during-a-kitchen-renovation",
+  "name": "How do I manage my budget during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I manage my budget during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing your budget involves clear planning and consistent communication with your contractor. Start with a detailed estimate that breaks down all costs, from demolition to finishes. Allocate a contingency fund, typically 10-20% of the total budget, for unforeseen issues that might arise, such as discovering old wiring or plumbing problems. Making all material selections upfront and sticking to them can prevent costly change orders later in the project, ensuring financial control throughout the renovation process.",
+        "@type": "Answer",
+        "description": "Manage your renovation budget by getting a detailed estimate, allocating a 10-20% contingency, and finalizing all material selections upfront to avoid extra costs."
+      }
+    }
+  ],
+  "description": "Manage your renovation budget by getting a detailed estimate, allocating a 10-20% contingency, and finalizing all material selections upfront to avoid extra cos"
+}

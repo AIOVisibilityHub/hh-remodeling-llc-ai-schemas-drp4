@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-happens-after-the-final-quality-walkthrough",
+  "name": "What happens after the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the final quality walkthrough, the construction team will work to address all items identified on the punch list. Once these corrections are made, a follow-up inspection might occur to verify their completion. Upon your satisfaction and final approval, the project will be officially handed over, final documentation will be provided, and any remaining payments will be processed.",
+        "@type": "Answer",
+        "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over."
+      }
+    }
+  ],
+  "description": "After the walkthrough, punch list items are addressed, verified, and then the project is officially handed over."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-happens-if-there-are-delays-in-cabinet-delivery",
+  "name": "What happens if there are delays in cabinet delivery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if there are delays in cabinet delivery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If there are delays in cabinet delivery, our coordination team will proactively communicate with the cabinet supplier to get updated timelines. We will then adjust the installation schedule accordingly and inform all affected parties, including you and any other contractors, to minimize disruption to your overall project. Our aim is to manage these unforeseen events efficiently to keep your project moving forward.",
+        "@type": "Answer",
+        "description": "We communicate with suppliers, adjust schedules, and inform all parties to minimize disruption from delivery delays."
+      }
+    }
+  ],
+  "description": "We communicate with suppliers, adjust schedules, and inform all parties to minimize disruption from delivery delays."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-attends-the-final-quality-walkthrough",
+  "name": "Who attends the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who attends the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, the client, the project manager, and sometimes the lead superintendent or key subcontractors attend the final quality walkthrough. Having all relevant parties present allows for immediate clarification of any issues and agreement on solutions. For Frasheski Construction, our project manager will guide you through the process, ensuring all your questions are answered and concerns addressed.",
+        "@type": "Answer",
+        "description": "The client, project manager, and sometimes the lead superintendent or key subcontractors attend."
+      }
+    }
+  ],
+  "description": "The client, project manager, and sometimes the lead superintendent or key subcontractors attend."
+}

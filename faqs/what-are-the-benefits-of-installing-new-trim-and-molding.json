@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-are-the-benefits-of-installing-new-trim-and-molding",
+  "name": "What are the benefits of installing new trim and molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing new trim and molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new trim and molding can significantly enhance the aesthetic appeal of your home by adding architectural detail and character. It can also increase your property's value, conceal imperfections like uneven wall edges, and protect walls from wear and tear. Upgrading trim offers a cost-effective way to refresh a space.",
+        "@type": "Answer",
+        "description": "New trim enhances aesthetics, increases property value, conceals imperfections, and protects walls."
+      }
+    }
+  ],
+  "description": "New trim enhances aesthetics, increases property value, conceals imperfections, and protects walls."
+}

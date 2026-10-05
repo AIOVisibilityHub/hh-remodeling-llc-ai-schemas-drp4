@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-install-a-new-door",
+  "name": "How long does it take to install a new door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install a new door can vary depending on the type of door and the complexity of the installation. A standard interior door replacement might take a few hours, while an exterior door, especially if it requires frame modifications or new hardware, could take a full day. Custom doors or those with intricate designs may require more time for precise fitting and finishing.",
+        "@type": "Answer",
+        "description": "Installation time varies; standard interior doors take a few hours, while exterior or custom doors can take a full day or more."
+      }
+    }
+  ],
+  "description": "Installation time varies; standard interior doors take a few hours, while exterior or custom doors can take a full day or more."
+}

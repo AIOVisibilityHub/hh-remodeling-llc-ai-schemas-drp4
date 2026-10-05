@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-final-detail-work-typically-take",
+  "name": "How long does final detail work typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does final detail work typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of final detail work varies significantly depending on the size and complexity of the project, as well as the number of items on the punch list. For smaller projects, it might take a few days, while larger commercial or residential builds could require several weeks. Factors like material availability, weather conditions, and the need for specialized trades can also influence the timeline.",
+        "@type": "Answer",
+        "description": "The duration of final detail work varies by project size and complexity, ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "The duration of final detail work varies by project size and complexity, ranging from a few days to several weeks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-areas-do-you-serve-for-electrical-fixture-installation",
+  "name": "What areas do you serve for electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frasheski Construction provides electrical fixture installation services in Berkeley, the East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, Sausalito, Tiburon, Mill Valley, Daly City, Brisbane, and South San Francisco. We focus on providing reliable service to homeowners and businesses throughout these communities.",
+        "@type": "Answer",
+        "description": "We serve Berkeley, the East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, and surrounding areas."
+      }
+    }
+  ],
+  "description": "We serve Berkeley, the East Bay, Oakland, Albany, El Cerrito, Kensington, Alameda, San Francisco, and surrounding areas."
+}

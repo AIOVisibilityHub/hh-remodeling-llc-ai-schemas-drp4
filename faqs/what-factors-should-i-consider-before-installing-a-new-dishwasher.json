@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-should-i-consider-before-installing-a-new-dishwasher",
+  "name": "What factors should I consider before installing a new dishwasher?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider before installing a new dishwasher?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installing a new dishwasher, consider its size and capacity relative to your kitchen space and household needs. You'll also need to check for adequate electrical and water supply connections, as well as proper drainage. Noise level, energy efficiency ratings, and available features like wash cycles or drying options are also important. We recommend assessing your current utility setup and consulting with us to ensure compatibility and plan for any necessary adjustments to plumbing or electrical systems.",
+        "@type": "Answer",
+        "description": "Consider size, capacity, electrical/water connections, drainage, noise level, and energy efficiency. Assess your current utility setup for compatibility."
+      }
+    }
+  ],
+  "description": "Consider size, capacity, electrical/water connections, drainage, noise level, and energy efficiency. Assess your current utility setup for compatibility."
+}

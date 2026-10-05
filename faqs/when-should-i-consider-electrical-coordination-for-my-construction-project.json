@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-electrical-coordination-for-my-construction-project",
+  "name": "When should I consider electrical coordination for my construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider electrical coordination for my construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider electrical coordination early in the design phase of any new construction or significant renovation project. This allows for proper planning and integration of protective devices. It's particularly important for projects with complex electrical systems, such as those found in commercial buildings or industrial facilities.",
+        "@type": "Answer",
+        "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems."
+      }
+    }
+  ],
+  "description": "Consider electrical coordination early in the design phase for new construction or major renovations, especially with complex electrical systems."
+}

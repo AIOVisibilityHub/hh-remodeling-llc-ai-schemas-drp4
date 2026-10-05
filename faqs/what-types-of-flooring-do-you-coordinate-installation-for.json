@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-types-of-flooring-do-you-coordinate-installation-for",
+  "name": "What types of flooring do you coordinate installation for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring do you coordinate installation for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We coordinate installation for a wide range of flooring types, including hardwood, laminate, vinyl, tile, and carpet. Our experience covers various materials and styles, ensuring we can assist you regardless of your preference. We also consider factors like durability, maintenance, and aesthetics to help you make the best choice for your space.",
+        "@type": "Answer",
+        "description": "We coordinate installation for hardwood, laminate, vinyl, tile, and carpet, helping you choose the best type for your space."
+      }
+    }
+  ],
+  "description": "We coordinate installation for hardwood, laminate, vinyl, tile, and carpet, helping you choose the best type for your space."
+}

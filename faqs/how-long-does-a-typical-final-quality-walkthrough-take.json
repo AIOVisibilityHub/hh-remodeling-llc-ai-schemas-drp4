@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-a-typical-final-quality-walkthrough-take",
+  "name": "How long does a typical final quality walkthrough take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical final quality walkthrough take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a final quality walkthrough can vary depending on the size and complexity of the construction project. For smaller renovations, it might take an hour or two. For larger, more complex builds, it could extend to several hours or even be broken into multiple sessions. We allocate sufficient time to ensure a thorough inspection and address all your questions and concerns comprehensively.",
+        "@type": "Answer",
+        "description": "The duration varies by project size and complexity, ranging from one hour to several hours."
+      }
+    }
+  ],
+  "description": "The duration varies by project size and complexity, ranging from one hour to several hours."
+}

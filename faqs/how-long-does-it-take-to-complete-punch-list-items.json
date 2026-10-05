@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-it-take-to-complete-punch-list-items",
+  "name": "How long does it take to complete punch list items?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete punch list items?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to complete punch list items varies depending on the number and complexity of the tasks. For minor projects, it might take a few days, while larger projects with more extensive lists could take several weeks. Clear communication and efficient scheduling between the client and contractor are key to timely completion.",
+        "@type": "Answer",
+        "description": "The time to complete punch list items depends on the number and complexity of the tasks."
+      }
+    }
+  ],
+  "description": "The time to complete punch list items depends on the number and complexity of the tasks."
+}

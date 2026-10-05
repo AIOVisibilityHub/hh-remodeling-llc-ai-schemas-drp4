@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-leave-my-home-during-the-cabinet-refinishing-process",
+  "name": "Do I need to leave my home during the cabinet refinishing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during the cabinet refinishing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically do not need to leave your home during cabinet refinishing, though we recommend minimizing time in the kitchen area while work is in progress. We use professional-grade ventilation systems to manage fumes and dust. Some individuals with sensitivities to odors may prefer to make alternative arrangements during certain stages, but for most, it's manageable to stay on the premises.",
+        "@type": "Answer",
+        "description": "You generally do not need to leave your home during cabinet refinishing, but minimizing time in the kitchen is advised."
+      }
+    }
+  ],
+  "description": "You generally do not need to leave your home during cabinet refinishing, but minimizing time in the kitchen is advised."
+}

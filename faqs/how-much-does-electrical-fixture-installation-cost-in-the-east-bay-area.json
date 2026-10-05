@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-much-does-electrical-fixture-installation-cost-in-the-east-bay-area",
+  "name": "How much does electrical fixture installation cost in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does electrical fixture installation cost in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of electrical fixture installation in the East Bay area can vary widely based on the type of fixture, complexity of the installation, and whether new wiring or circuit modifications are needed. Simple replacements might cost less, while installing a complex chandelier or a new ceiling fan could be more. We provide estimates after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary based on fixture type, complexity, and wiring needs. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on fixture type, complexity, and wiring needs. We provide estimates after assessment."
+}

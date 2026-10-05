@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-is-responsible-for-jobsite-cleanup-on-a-construction-project",
+  "name": "Who is responsible for jobsite cleanup on a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for jobsite cleanup on a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The general contractor typically holds overall responsibility for jobsite cleanup. However, the responsibility is often shared among all parties on site. Subcontractors are generally responsible for cleaning up their own work areas and debris. The general contractor oversees these efforts, ensures adherence to safety standards, and coordinates the final comprehensive cleanup to prepare the site for handover.",
+        "@type": "Answer",
+        "description": "The general contractor is usually responsible for jobsite cleanup, with subcontractors cleaning their own work areas."
+      }
+    }
+  ],
+  "description": "The general contractor is usually responsible for jobsite cleanup, with subcontractors cleaning their own work areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-choose-the-right-type-of-door-for-my-home",
+  "name": "How do I choose the right type of door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right door involves considering several factors: the door's function (interior, exterior, security), material (wood, fiberglass, steel), aesthetic appeal, and energy efficiency. For exterior doors, prioritize security and insulation. For interior doors, focus on style, sound dampening, and space-saving options like pocket or barn doors. A professional can help you balance these considerations.",
+        "@type": "Answer",
+        "description": "Consider the door's function, material, aesthetic, and energy efficiency when choosing; a professional can assist with balancing these factors."
+      }
+    }
+  ],
+  "description": "Consider the door's function, material, aesthetic, and energy efficiency when choosing; a professional can assist with balancing these factors."
+}

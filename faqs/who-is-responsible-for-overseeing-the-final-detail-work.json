@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/who-is-responsible-for-overseeing-the-final-detail-work",
+  "name": "Who is responsible for overseeing the final detail work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for overseeing the final detail work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, the project manager or site supervisor is responsible for overseeing the final detail work. They coordinate the various trades, ensure that punch list items are addressed, maintain quality control, and communicate progress to the client. Specialized subcontractors may perform specific detail tasks, but overall coordination rests with the general contractor's leadership.",
+        "@type": "Answer",
+        "description": "The project manager or site supervisor is usually responsible for overseeing final detail work, coordinating trades and ensuring quality."
+      }
+    }
+  ],
+  "description": "The project manager or site supervisor is usually responsible for overseeing final detail work, coordinating trades and ensuring quality."
+}

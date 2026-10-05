@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-s-the-difference-between-substantial-completion-and-final-completion",
+  "name": "What's the difference between substantial completion and final completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between substantial completion and final completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Substantial completion means the project is sufficiently complete for the owner to occupy or utilize the space for its intended purpose, even if minor items remain. Final completion occurs when all punch list items have been addressed and all contractual obligations are met, leading to the final payment and project closeout.",
+        "@type": "Answer",
+        "description": "Substantial completion means the project is usable; final completion means all work, including punch list items, is done."
+      }
+    }
+  ],
+  "description": "Substantial completion means the project is usable; final completion means all work, including punch list items, is done."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-does-the-final-quality-walkthrough-typically-occur-during-a-construction-pr",
+  "name": "When does the final quality walkthrough typically occur during a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does the final quality walkthrough typically occur during a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final quality walkthrough typically occurs towards the very end of the construction timeline, after all major work has been completed but before official handover. It's usually scheduled once the project is substantially finished and ready for the client's review. This allows time to address any punch list items identified during the walkthrough before the project is officially closed out and final payments are made.",
+        "@type": "Answer",
+        "description": "It occurs towards the end of the construction timeline, after major work is complete but before official handover."
+      }
+    }
+  ],
+  "description": "It occurs towards the end of the construction timeline, after major work is complete but before official handover."
+}

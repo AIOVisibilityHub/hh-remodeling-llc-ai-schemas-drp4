@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-should-i-consider-replacing-my-doors",
+  "name": "When should I consider replacing my doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your doors if they show signs of significant wear and tear, such as warping, rot, or cracks, which can compromise security and energy efficiency. Drafts around your doors, difficulty opening or closing, or outdated aesthetics are also good reasons to consider replacement. Upgrading your doors can enhance your home's appearance, security, and insulation.",
+        "@type": "Answer",
+        "description": "Consider replacing doors if they are worn, damaged, drafty, difficult to operate, or you want to improve home aesthetics and security."
+      }
+    }
+  ],
+  "description": "Consider replacing doors if they are worn, damaged, drafty, difficult to operate, or you want to improve home aesthetics and security."
+}

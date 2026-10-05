@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-look-for-during-a-final-quality-walkthrough",
+  "name": "What should I look for during a final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a final quality walkthrough, pay attention to the overall cleanliness, finish quality of all surfaces, proper operation of doors, windows, and fixtures, and the functionality of all installed systems like plumbing and electrical. Check for any damage, imperfections, or incomplete work. Compare the completed project against your plans and specifications. Don't hesitate to ask questions and point out anything that doesn't meet your expectations.",
+        "@type": "Answer",
+        "description": "Look for overall cleanliness, finish quality, proper operation of fixtures and systems, and compare against your plans."
+      }
+    }
+  ],
+  "description": "Look for overall cleanliness, finish quality, proper operation of fixtures and systems, and compare against your plans."
+}

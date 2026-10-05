@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-factors-should-i-consider-when-choosing-new-electrical-fixtures",
+  "name": "What factors should I consider when choosing new electrical fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing new electrical fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing new electrical fixtures, consider the fixture's purpose (ambient, task, accent lighting), its size and style in relation to the room, energy efficiency (LED options), and dimming capabilities. Also, check the electrical requirements to ensure compatibility with your home's existing wiring and circuit capacity. Our team can help you select appropriate fixtures for your space.",
+        "@type": "Answer",
+        "description": "Consider purpose, size, style, energy efficiency, dimming, and electrical compatibility when choosing fixtures."
+      }
+    }
+  ],
+  "description": "Consider purpose, size, style, energy efficiency, dimming, and electrical compatibility when choosing fixtures."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-a-punch-list-and-how-does-it-relate-to-the-final-quality-walkthrough",
+  "name": "What is a 'punch list' and how does it relate to the final quality walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'punch list' and how does it relate to the final quality walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'punch list' is a document created during the final quality walkthrough that details all items requiring correction, completion, or adjustment before the project is considered fully finished. During the walkthrough, you and the construction team will identify any deficiencies, and these will be added to the punch list. Once all items on the punch list are addressed and re-inspected, the project can be formally accepted.",
+        "@type": "Answer",
+        "description": "A 'punch list' is a document created during the walkthrough detailing items needing correction before project completion."
+      }
+    }
+  ],
+  "description": "A 'punch list' is a document created during the walkthrough detailing items needing correction before project completion."
+}

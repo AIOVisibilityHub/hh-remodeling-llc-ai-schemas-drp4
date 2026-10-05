@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/can-you-help-me-choose-the-right-flooring-material",
+  "name": "Can you help me choose the right flooring material?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help me choose the right flooring material?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Part of our coordination service involves assisting you in selecting the ideal flooring material. We consider your lifestyle, budget, aesthetic preferences, and the specific use of the space to recommend options that meet your needs. We can also provide samples to help you visualize the final result.",
+        "@type": "Answer",
+        "description": "Yes, we help you choose the right flooring material based on your lifestyle, budget, and aesthetic preferences."
+      }
+    }
+  ],
+  "description": "Yes, we help you choose the right flooring material based on your lifestyle, budget, and aesthetic preferences."
+}

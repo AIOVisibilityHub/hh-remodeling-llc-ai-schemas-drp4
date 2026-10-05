@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-know-if-my-kitchen-s-electrical-panel-needs-an-upgrade-before-a-renovat",
+  "name": "How do I know if my kitchen's electrical panel needs an upgrade before a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen's electrical panel needs an upgrade before a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need an electrical panel upgrade if your current panel is old, frequently trips breakers, or lacks sufficient capacity for new appliances. Older homes in areas like Berkeley or Oakland might have 60 or 100-amp panels that are insufficient for modern kitchens. A preparation step is to assess the number of new high-draw appliances you plan to install; if you're adding an induction cooktop, double oven, or multiple small appliances, a panel upgrade is often necessary to ensure safety and prevent overloads.",
+        "@type": "Answer",
+        "description": "An electrical panel upgrade is likely needed if your current panel is old, trips frequently, or lacks capacity for new kitchen appliances. Consider new appliance power requirements."
+      }
+    }
+  ],
+  "description": "An electrical panel upgrade is likely needed if your current panel is old, trips frequently, or lacks capacity for new kitchen appliances. Consider new applianc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-an-electrical-coordination-study-and-an-arc-flash",
+  "name": "What is the difference between an electrical coordination study and an arc flash study?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an electrical coordination study and an arc flash study?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While related, an electrical coordination study focuses on ensuring protective devices operate in sequence during a fault to minimize outages. An arc flash study, on the other hand, assesses the potential hazards of an arc flash event, which is an electrical explosion. It calculates the incident energy and arc flash boundary to determine appropriate safety measures and personal protective equipment requirements.",
+        "@type": "Answer",
+        "description": "Coordination studies sequence protective devices; arc flash studies assess electrical explosion hazards and safety measures."
+      }
+    }
+  ],
+  "description": "Coordination studies sequence protective devices; arc flash studies assess electrical explosion hazards and safety measures."
+}

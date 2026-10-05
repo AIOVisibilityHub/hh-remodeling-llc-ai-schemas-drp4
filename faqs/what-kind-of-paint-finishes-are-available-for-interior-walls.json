@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-kind-of-paint-finishes-are-available-for-interior-walls",
+  "name": "What kind of paint finishes are available for interior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint finishes are available for interior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A variety of paint finishes are available, each offering different aesthetics and durability. Common options include flat (matte), eggshell, satin, semi-gloss, and high-gloss. Flat finishes are good for low-traffic areas, while satin and semi-gloss are more durable and easier to clean, making them suitable for kitchens, bathrooms, and trim.",
+        "@type": "Answer",
+        "description": "Available paint finishes include flat, eggshell, satin, semi-gloss, and high-gloss, each with varying durability and appearance."
+      }
+    }
+  ],
+  "description": "Available paint finishes include flat, eggshell, satin, semi-gloss, and high-gloss, each with varying durability and appearance."
+}

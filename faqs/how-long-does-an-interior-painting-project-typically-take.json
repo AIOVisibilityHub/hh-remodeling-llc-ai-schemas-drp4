@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-an-interior-painting-project-typically-take",
+  "name": "How long does an interior painting project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an interior painting project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior painting project varies depending on several factors, including the size of the area, the complexity of the job (e.g., extensive prep work, multiple colors, special finishes), and the drying times between coats. A single room might take 1-2 days, while a whole house could take a week or more. We provide a detailed timeline after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Project duration varies based on size and complexity; a single room may take 1-2 days, while a whole house can take over a week."
+      }
+    }
+  ],
+  "description": "Project duration varies based on size and complexity; a single room may take 1-2 days, while a whole house can take over a week."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/when-is-a-punch-list-created-during-a-construction-project",
+  "name": "When is a punch list created during a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a punch list created during a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is typically created during the final stages of a construction project, usually after the contractor believes the work is substantially complete. This allows the client or their representative to inspect the property and identify any remaining items that need attention. It's a critical step before project closeout and final payment.",
+        "@type": "Answer",
+        "description": "A punch list is created near the end of a construction project, after the contractor deems the work substantially complete."
+      }
+    }
+  ],
+  "description": "A punch list is created near the end of a construction project, after the contractor deems the work substantially complete."
+}

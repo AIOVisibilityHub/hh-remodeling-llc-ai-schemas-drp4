@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-jobsite-cleanup-in-construction",
+  "name": "What is jobsite cleanup in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is jobsite cleanup in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jobsite cleanup involves removing debris, waste materials, and hazards from a construction site during and after a project. This includes everything from leftover building materials, packaging, and discarded tools to general trash. Maintaining a clean jobsite improves safety, increases efficiency, and presents a professional image. It's a continuous process that culminates in a thorough final cleaning before project closeout.",
+        "@type": "Answer",
+        "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency."
+      }
+    }
+  ],
+  "description": "Jobsite cleanup removes debris and waste from a construction site to improve safety and efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-long-does-trim-and-molding-installation-take",
+  "name": "How long does trim and molding installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does trim and molding installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of trim and molding installation varies based on the scope of the project, the complexity of the molding profiles, and the size of the area. A single room might take a day or two, while a whole house could require several days to a week for precise measurement, cutting, fitting, and finishing.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size and complexity, from a day for a single room to a week for a whole house."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size and complexity, from a day for a single room to a week for a whole house."
+}

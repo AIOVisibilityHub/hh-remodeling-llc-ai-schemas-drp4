@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-does-electrical-coordination-impact-project-costs",
+  "name": "How does electrical coordination impact project costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does electrical coordination impact project costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While initial electrical coordination studies may add to the design phase costs, they can significantly reduce overall project expenses in the long run. By preventing costly equipment damage and minimizing downtime due to electrical faults, a coordinated system saves money on repairs, replacements, and lost productivity. It's an investment in long-term operational efficiency.",
+        "@type": "Answer",
+        "description": "Electrical coordination studies add to initial design costs but reduce long-term expenses by preventing equipment damage and minimizing downtime."
+      }
+    }
+  ],
+  "description": "Electrical coordination studies add to initial design costs but reduce long-term expenses by preventing equipment damage and minimizing downtime."
+}

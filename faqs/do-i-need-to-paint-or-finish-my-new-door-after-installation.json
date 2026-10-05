@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-paint-or-finish-my-new-door-after-installation",
+  "name": "Do I need to paint or finish my new door after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint or finish my new door after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to paint or finish your new door after installation depends on the type of door you purchase. Many doors come pre-finished from the factory, meaning they are ready to be installed without further treatment. If you choose an unfinished wood door, you will need to apply paint, stain, or a protective sealant to protect it from moisture and wear, and to match your home's aesthetic.",
+        "@type": "Answer",
+        "description": "It depends on the door; pre-finished doors require no additional work, while unfinished doors need painting, staining, or sealing."
+      }
+    }
+  ],
+  "description": "It depends on the door; pre-finished doors require no additional work, while unfinished doors need painting, staining, or sealing."
+}

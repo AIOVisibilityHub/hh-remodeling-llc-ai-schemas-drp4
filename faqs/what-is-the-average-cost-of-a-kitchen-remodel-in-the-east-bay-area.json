@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-average-cost-of-a-kitchen-remodel-in-the-east-bay-area",
+  "name": "What is the average cost of a kitchen remodel in the East Bay area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a kitchen remodel in the East Bay area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel in the East Bay area varies widely based on size, materials, and scope. Minor updates might range from $20,000 to $45,000, while a mid-range remodel could be $50,000 to $100,000. High-end, custom remodels can exceed $100,000. It's crucial to consider the quality of materials, labor costs specific to the Berkeley and Oakland areas, and the extent of structural or utility changes. We provide detailed estimates after an initial consultation to align with your budget and vision.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs in the East Bay can range from $20,000 for minor updates to over $100,000 for high-end projects."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs in the East Bay can range from $20,000 for minor updates to over $100,000 for high-end projects."
+}

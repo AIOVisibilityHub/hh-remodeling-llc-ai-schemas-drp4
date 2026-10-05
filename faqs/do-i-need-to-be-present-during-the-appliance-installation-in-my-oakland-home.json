@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-be-present-during-the-appliance-installation-in-my-oakland-home",
+  "name": "Do I need to be present during the appliance installation in my Oakland home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the appliance installation in my Oakland home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always required for you to be present, it can be beneficial, especially for final walkthroughs or if there are any last-minute decisions regarding placement or minor adjustments. Frasheski Construction oversees the installation process in your Oakland home, ensuring our team or certified installers manage everything professionally. We will keep you informed of progress.",
+        "@type": "Answer",
+        "description": "You don't always need to be present during appliance installation, but it can be helpful for final decisions. Frasheski Construction oversees the process."
+      }
+    }
+  ],
+  "description": "You don't always need to be present during appliance installation, but it can be helpful for final decisions. Frasheski Construction oversees the process."
+}

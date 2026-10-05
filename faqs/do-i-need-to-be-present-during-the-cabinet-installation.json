@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/do-i-need-to-be-present-during-the-cabinet-installation",
+  "name": "Do I need to be present during the cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary to be present for the entire duration of the cabinet installation, we do recommend being available, especially at the beginning and end of the project. Your presence at the start allows for confirmation of the layout and any last-minute questions. At the conclusion, a final walkthrough ensures your satisfaction with the completed work. For Frasheski Construction projects, we maintain open communication throughout the process, providing updates and addressing concerns promptly, whether you are on-site or not.",
+        "@type": "Answer",
+        "description": "It's recommended to be present at the start and end of cabinet installation to confirm the layout and ensure satisfaction with the completed work."
+      }
+    }
+  ],
+  "description": "It's recommended to be present at the start and end of cabinet installation to confirm the layout and ensure satisfaction with the completed work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/should-i-consider-dedicated-circuits-for-all-my-major-kitchen-appliances",
+  "name": "Should I consider dedicated circuits for all my major kitchen appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider dedicated circuits for all my major kitchen appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to consider dedicated circuits for all major kitchen appliances like refrigerators, dishwashers, microwaves, ovens, and garbage disposals. This prevents circuit overloads, which can cause tripped breakers and potential damage to appliances or your electrical system. A decision factor is your appliance selection; high-wattage items like induction cooktops or double ovens absolutely require their own circuits, whereas smaller, less frequently used appliances may not always need a dedicated line, depending on total load.",
+        "@type": "Answer",
+        "description": "Dedicated circuits are recommended for major kitchen appliances to prevent overloads and ensure safety. High-wattage appliances always need dedicated circuits."
+      }
+    }
+  ],
+  "description": "Dedicated circuits are recommended for major kitchen appliances to prevent overloads and ensure safety. High-wattage appliances always need dedicated circuits."
+}

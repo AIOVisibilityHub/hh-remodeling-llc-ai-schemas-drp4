@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-should-i-do-to-prepare-for-electrical-fixture-installation",
+  "name": "What should I do to prepare for electrical fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for electrical fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for electrical fixture installation, ensure the area around where the fixture will be installed is clear and accessible. If replacing an old fixture, safely remove any personal items or furniture that might obstruct the workspace. If you have chosen your new fixtures, have them ready for the installers. Our team will handle turning off power and ensuring a safe work environment.",
+        "@type": "Answer",
+        "description": "Clear the installation area, remove obstructions, and have your new fixtures ready. We handle power and safety."
+      }
+    }
+  ],
+  "description": "Clear the installation area, remove obstructions, and have your new fixtures ready. We handle power and safety."
+}

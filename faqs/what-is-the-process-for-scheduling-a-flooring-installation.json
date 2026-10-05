@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-process-for-scheduling-a-flooring-installation",
+  "name": "What is the process for scheduling a flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your project needs and preferences. Following this, we provide a detailed estimate and help you select materials. Once the materials are ordered, we work with you to schedule an installation date that fits your availability. We keep you informed throughout every step of the process.",
+        "@type": "Answer",
+        "description": "Schedule an installation by starting with a consultation, receiving an estimate, selecting materials, and then booking a date."
+      }
+    }
+  ],
+  "description": "Schedule an installation by starting with a consultation, receiving an estimate, selecting materials, and then booking a date."
+}

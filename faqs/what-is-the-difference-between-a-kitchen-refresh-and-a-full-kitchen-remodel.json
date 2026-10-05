@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-difference-between-a-kitchen-refresh-and-a-full-kitchen-remodel",
+  "name": "What is the difference between a kitchen refresh and a full kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen refresh and a full kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen refresh typically involves cosmetic updates such as painting cabinets, replacing countertops, upgrading fixtures, or installing a new backsplash, without changing the existing layout or significant structural elements. It's a more budget-friendly option for updating the look. A full kitchen remodel, in contrast, often involves changing the layout, moving plumbing or electrical, replacing all cabinetry and appliances, and potentially altering walls. This type of project offers greater design flexibility and can significantly improve functionality and resale value, but also requires a larger investment in time and resources.",
+        "@type": "Answer",
+        "description": "A refresh updates aesthetics without layout changes, while a full remodel involves significant structural and layout alterations for greater functionality."
+      }
+    }
+  ],
+  "description": "A refresh updates aesthetics without layout changes, while a full remodel involves significant structural and layout alterations for greater functionality."
+}

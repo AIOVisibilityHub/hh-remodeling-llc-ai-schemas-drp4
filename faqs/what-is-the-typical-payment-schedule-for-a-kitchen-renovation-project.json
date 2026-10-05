@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-payment-schedule-for-a-kitchen-renovation-project",
+  "name": "What is the typical payment schedule for a kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical payment schedule for a kitchen renovation involves an initial deposit, followed by progress payments tied to specific project milestones, and a final payment upon completion. The initial deposit secures your project on the contractor's schedule and covers initial material orders. Subsequent payments are released as phases like demolition, framing, or cabinet installation are completed. A common structure involves 3-5 payments throughout the project, ensuring both parties are protected and progress is acknowledged.",
+        "@type": "Answer",
+        "description": "Payment schedules typically include an initial deposit, progress payments tied to project milestones, and a final payment upon the renovation's completion."
+      }
+    }
+  ],
+  "description": "Payment schedules typically include an initial deposit, progress payments tied to project milestones, and a final payment upon the renovation's completion."
+}

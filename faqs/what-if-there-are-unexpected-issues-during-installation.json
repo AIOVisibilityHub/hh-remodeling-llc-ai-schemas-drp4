@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-if-there-are-unexpected-issues-during-installation",
+  "name": "What if there are unexpected issues during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if there are unexpected issues during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our coordination service includes managing any unexpected issues that may arise during installation. We are experienced in problem-solving and will communicate promptly with you to discuss solutions and minimize any impact on the project timeline or budget. Our goal is to ensure a smooth and stress-free experience.",
+        "@type": "Answer",
+        "description": "We manage unexpected installation issues by communicating solutions promptly to minimize project impact."
+      }
+    }
+  ],
+  "description": "We manage unexpected installation issues by communicating solutions promptly to minimize project impact."
+}

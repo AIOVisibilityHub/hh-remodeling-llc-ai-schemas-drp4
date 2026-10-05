@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-steps-are-involved-in-the-interior-painting-process",
+  "name": "What steps are involved in the interior painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the interior painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting process typically includes surface preparation (cleaning, patching, sanding), priming (if necessary), applying two coats of paint, and a final inspection. We also ensure thorough protection of your belongings and meticulous cleanup after the project is complete, leaving your space neat and refreshed.",
+        "@type": "Answer",
+        "description": "The interior painting process involves surface preparation, priming, applying two paint coats, a final inspection, and thorough cleanup."
+      }
+    }
+  ],
+  "description": "The interior painting process involves surface preparation, priming, applying two paint coats, a final inspection, and thorough cleanup."
+}

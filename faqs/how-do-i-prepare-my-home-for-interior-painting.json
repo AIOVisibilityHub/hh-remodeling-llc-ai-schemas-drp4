@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/how-do-i-prepare-my-home-for-interior-painting",
+  "name": "How do I prepare my home for interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home, we recommend removing small, valuable, or fragile items from the rooms to be painted. While we handle moving larger furniture and covering everything, clearing shelves and walls of decorations will help expedite the preparation process. We will provide a more detailed checklist during our initial consultation.",
+        "@type": "Answer",
+        "description": "Prepare your home by removing small, fragile items; we handle moving and covering larger furniture and provide a detailed checklist."
+      }
+    }
+  ],
+  "description": "Prepare your home by removing small, fragile items; we handle moving and covering larger furniture and provide a detailed checklist."
+}

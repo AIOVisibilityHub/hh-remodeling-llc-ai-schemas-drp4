@@ -1,0 +1,27 @@
+{
+  "url": "frasheskiconstruction.com/faq/what-is-the-typical-process-for-an-interior-painting-project",
+  "name": "What is the typical process for an interior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an interior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting process begins with protecting your space by covering furniture and flooring. We then prepare surfaces by cleaning, patching holes, sanding imperfections, and applying primer where necessary to ensure optimal paint adhesion. Next, we apply high-quality paint, typically two coats for full coverage and a consistent finish. Finally, we conduct a thorough cleanup and a final walkthrough with you to ensure satisfaction. This detailed preparation and finishing work contribute to the longevity and quality of the paint job.",
+        "@type": "Answer",
+        "description": "The process involves protecting your space, surface preparation (cleaning, patching, sanding, priming), paint application, and a final cleanup and walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves protecting your space, surface preparation (cleaning, patching, sanding, priming), paint application, and a final cleanup and walkthrough."
+}
