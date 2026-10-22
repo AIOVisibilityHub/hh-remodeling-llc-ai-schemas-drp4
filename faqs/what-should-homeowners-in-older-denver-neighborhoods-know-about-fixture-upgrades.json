@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-homeowners-in-older-denver-neighborhoods-know-about-fixture-upgrades",
+  "name": "What should homeowners in older Denver neighborhoods know about fixture upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners in older Denver neighborhoods know about fixture upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Denver metro homes, aging galvanized steel or polybutylene pipes often require remediation before modern fixtures can be safely mounted. Many historic neighborhoods throughout Denver and Englewood feature original plumbing that can suffer from mineral buildup or corrosion when disturbed during fixture removal. Installing modern, high-efficiency fixtures on compromised pipe networks can reveal hidden pinhole leaks or restrict water volume. A thorough assessment of the visible supply and shutoff valves confirms whether pipe sections need updating to meet current plumbing standards.",
+        "@type": "Answer",
+        "description": "Older Denver homes may have aging galvanized or brittle supply lines that need inspection or replacement before installing modern, high-pressure fixtures."
+      }
+    }
+  ],
+  "description": "Older Denver homes may have aging galvanized or brittle supply lines that need inspection or replacement before installing modern, high-pressure fixtures."
+}

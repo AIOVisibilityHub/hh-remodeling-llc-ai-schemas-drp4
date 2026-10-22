@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-required-to-convert-a-single-sink-vanity-to-a-double-sink-vanity",
+  "name": "What is required to convert a single-sink vanity to a double-sink vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is required to convert a single-sink vanity to a double-sink vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading from a single vanity to a double sink requires adequate wall width—typically at least 60 inches—to provide usable counter space and comfortable elbow room. Structurally, the plumbing must be split or extended: you will need two sets of water supply lines and either dual drain connections or an approved sanitary tee setup meeting local plumbing codes. If your current bathroom only has a single electrical outlet or centered lighting, you will also need to adjust wiring to accommodate two mirrors and balanced light fixtures.",
+        "@type": "Answer",
+        "description": "You need at least 60 inches of wall space, split water supply lines, updated drainage to support dual basins, and relocated lighting and electrical outlets."
+      }
+    }
+  ],
+  "description": "You need at least 60 inches of wall space, split water supply lines, updated drainage to support dual basins, and relocated lighting and electrical outlets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-use-epoxy-grout-or-standard-cement-grout-in-my-bathroom",
+  "name": "Should I use epoxy grout or standard cement grout in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use epoxy grout or standard cement grout in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Epoxy grout provides superior stain and water resistance compared to traditional cement-based grout, but it comes with distinct tradeoffs in cost and application. Cement grout is budget-friendly, easier to shape, and widely used, yet it remains porous and requires periodic sealing to resist mildew and discoloration. Epoxy grout is completely non-porous, highly resistant to harsh cleaning chemicals, and never needs sealing, making it ideal for shower floors and high-use stalls. However, epoxy sets quickly, demands specialized application skills to prevent haze on tile faces, and carries higher material and labor costs.",
+        "@type": "Answer",
+        "description": "Epoxy grout is non-porous and never needs sealing, making it ideal for showers, though it costs more and requires specialized installation than cement grout."
+      }
+    }
+  ],
+  "description": "Epoxy grout is non-porous and never needs sealing, making it ideal for showers, though it costs more and requires specialized installation than cement grout."
+}

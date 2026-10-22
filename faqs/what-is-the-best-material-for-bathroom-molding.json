@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-material-for-bathroom-molding",
+  "name": "What is the best material for bathroom molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best material for bathroom molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for bathroom molding are moisture-resistant options like cellular PVC, polyurethane, or polystyrene. Traditional solid wood or standard medium-density fiberboard (MDF) absorbs steam, humidity, and splashes, which leads to warping, swelling, and peeling paint over time. PVC and polyurethane look like finished wood once painted, but they do not absorb moisture or rot. If you prefer natural wood, rot-resistant hardwoods like cedar or teak can work, but they require diligent sealing on all sides before installation. For most residential bathrooms, synthetic moldings offer superior long-term durability with far less maintenance.",
+        "@type": "Answer",
+        "description": "Moisture-resistant materials like cellular PVC and polyurethane are best for bathrooms because they will not warp, swell, or rot from humidity like standard wood or MDF."
+      }
+    }
+  ],
+  "description": "Moisture-resistant materials like cellular PVC and polyurethane are best for bathrooms because they will not warp, swell, or rot from humidity like standard woo"
+}

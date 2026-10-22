@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-install-bathroom-drywall-myself-or-hire-a-professional",
+  "name": "Should I install bathroom drywall myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install bathroom drywall myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small, isolated patch repairs outside wet zones are approachable for skilled DIYers, but full bathroom drywall installation is best left to experienced trades. Bathrooms feature complex cuts around supply lines, drains, shower valves, and vent stacks where gaps must be tight and sealed properly. Furthermore, improper mudding or backer board installation behind shower tile can cause moisture intrusion, loose tiles, and hidden framing rot that costs thousands to remediate. Professional installation ensures seamless board transitions, flat walls for tile setting, and durable moisture barriers throughout.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended because tight plumbing cutouts, proper backer board sealing, and flat transitions are critical to prevent leaks behind tile."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended because tight plumbing cutouts, proper backer board sealing, and flat transitions are critical to prevent leaks behind tile"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-a-partial-remodel-and-a-complete-basement-overhaul",
+  "name": "How do I choose between a partial remodel and a complete basement overhaul?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a partial remodel and a complete basement overhaul?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partial remodel upgrades cosmetic finishes in an existing finished basement, while a full finish builds out bare concrete walls and exposed framing. If your space already has code-compliant electrical outlets, ductwork, and flat drywall, a partial renovation focusing on new paint, luxury flooring, and modern lighting will refresh the area efficiently. However, if ceiling heights need adjustment, mechanical systems are outdated, or you want to relocate bathroom drains, a full down-to-the-studs remodel is the better route. A comprehensive rebuild also lets you install proper insulation and soundproofing between floor joists.",
+        "@type": "Answer",
+        "description": "Choose a partial remodel for cosmetic updates on existing rooms. Choose a full remodel if you must move plumbing, fix layout flaws, or update unpermitted work."
+      }
+    }
+  ],
+  "description": "Choose a partial remodel for cosmetic updates on existing rooms. Choose a full remodel if you must move plumbing, fix layout flaws, or update unpermitted work."
+}

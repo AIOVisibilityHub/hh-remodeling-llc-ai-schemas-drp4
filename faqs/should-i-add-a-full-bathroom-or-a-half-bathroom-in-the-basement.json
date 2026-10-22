@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-add-a-full-bathroom-or-a-half-bathroom-in-the-basement",
+  "name": "Should I add a full bathroom or a half bathroom in the basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a full bathroom or a half bathroom in the basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a full bathroom and a powder room comes down to budget, plumbing access, and how you intend to use the space. A half bathroom requires less square footage, lower fixture costs, and easier rough-in work, making it practical for simple entertainment spaces. A full bathroom demands under-slab drain line trenching for a shower or tub, dedicated ventilation, and higher plumbing expenses. However, a full bath is necessary if you include a guest bedroom or plan to create an independent living suite.",
+        "@type": "Answer",
+        "description": "Choose a half bath for lower costs and entertaining convenience. Opt for a full bath if you are building a bedroom, hosting overnight guests, or creating an independent living suite."
+      }
+    }
+  ],
+  "description": "Choose a half bath for lower costs and entertaining convenience. Opt for a full bath if you are building a bedroom, hosting overnight guests, or creating an ind"
+}

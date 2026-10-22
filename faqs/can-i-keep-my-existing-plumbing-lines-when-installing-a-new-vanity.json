@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-keep-my-existing-plumbing-lines-when-installing-a-new-vanity",
+  "name": "Can I keep my existing plumbing lines when installing a new vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing plumbing lines when installing a new vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Old plumbing lines can often be reused if the copper or PEX pipes are in good condition, the shutoff valves close completely without dripping, and the rough-in height matches the new cabinet interior. However, older brass shutoff valves often fail to seal tightly after years of non-use and should be replaced with modern quarter-turn ball valves during installation. If the new vanity has internal drawers that align directly with existing drain locations, pipes will need to be shortened, lengthened, or reconfigured to fit cleanly.",
+        "@type": "Answer",
+        "description": "Existing lines can usually be reused if they are undamaged and align with the new cabinet layout, though replacing older shutoff valves is strongly recommended."
+      }
+    }
+  ],
+  "description": "Existing lines can usually be reused if they are undamaged and align with the new cabinet layout, though replacing older shutoff valves is strongly recommended."
+}

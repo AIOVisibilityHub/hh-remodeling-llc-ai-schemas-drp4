@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-replace-my-bathroom-floor-tile",
+  "name": "How do I know when it is time to replace my bathroom floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to replace my bathroom floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your bathroom floor needs replacement include cracked or loose tiles, crumbling grout, and a spongy or bouncing feel when walked on. Persistent musty odors or damp spots near the toilet base or tub apron often indicate hidden water leaks underneath. If your floor has shifted, or if the current material is outdated and difficult to sanitize, replacing the tile protects your home's structural framing while refreshing the room's appearance.",
+        "@type": "Answer",
+        "description": "Replace your tile if you notice loose pieces, cracked grout, soft spots underfoot, persistent musty smells, or visible water damage near fixtures."
+      }
+    }
+  ],
+  "description": "Replace your tile if you notice loose pieces, cracked grout, soft spots underfoot, persistent musty smells, or visible water damage near fixtures."
+}

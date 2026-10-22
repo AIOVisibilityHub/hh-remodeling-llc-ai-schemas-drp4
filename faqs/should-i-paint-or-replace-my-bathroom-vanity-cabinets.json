@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-paint-or-replace-my-bathroom-vanity-cabinets",
+  "name": "Should I paint or replace my bathroom vanity cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint or replace my bathroom vanity cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting bathroom cabinets delivers a dramatic visual update at a fraction of the cost, while replacing cabinets provides new storage layouts and structural renewal. If your current cabinet boxes and doors are sturdy and functional, professional painting or refinishing refreshes the room quickly with minimal disruption. However, if the wood has warped from moisture, drawer slides are broken, or you want to reconfigure your layout and sink placement, full replacement is the better long-term route. Painting requires thorough degreasing, sanding, and bonding primers to resist constant moisture.",
+        "@type": "Answer",
+        "description": "Paint your vanity if the structure is solid and you want a budget-friendly refresh; replace it if you need a new layout or the wood is moisture-damaged."
+      }
+    }
+  ],
+  "description": "Paint your vanity if the structure is solid and you want a budget-friendly refresh; replace it if you need a new layout or the wood is moisture-damaged."
+}

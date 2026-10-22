@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-flooring-material-for-a-bathroom",
+  "name": "What is the best flooring material for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best flooring material for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain or ceramic tile and luxury vinyl plank (LVP) are generally the best choices for bathroom floors because of their moisture resistance. Tile provides a permanent, completely waterproof surface that handles standing water and humidity without warping, though it feels colder underfoot and requires proper subfloor preparation. LVP offers a softer, warmer feel and is budget-friendly, but seams must be carefully protected from heavy standing water around tubs and showers. Natural stone is another option, though it requires routine sealing to prevent moisture damage and staining.",
+        "@type": "Answer",
+        "description": "Porcelain tile and luxury vinyl plank are the top options. Tile offers permanent waterproofing, while luxury vinyl provides a warmer feel and quicker installation."
+      }
+    }
+  ],
+  "description": "Porcelain tile and luxury vinyl plank are the top options. Tile offers permanent waterproofing, while luxury vinyl provides a warmer feel and quicker installati"
+}

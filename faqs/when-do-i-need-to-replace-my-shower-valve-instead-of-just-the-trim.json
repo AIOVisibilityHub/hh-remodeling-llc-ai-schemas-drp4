@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-shower-valve-instead-of-just-the-trim",
+  "name": "When do I need to replace my shower valve instead of just the trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my shower valve instead of just the trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a new shower valve when you experience inconsistent water temperatures, sudden drops in pressure, chronic drips, or when switching to a different trim manufacturer. Old valves without pressure-balancing or thermostatic protection can cause sudden scalding when someone runs water elsewhere in the house. If you are updating shower trim aesthetics, most modern brands require a proprietary valve body inside the wall. If your current valve is several decades old, replacing it during a remodel prevents having to cut into walls later to fix an internal leak.",
+        "@type": "Answer",
+        "description": "Replace the valve if you have pressure drops, temperature fluctuations, leaks, or if your new trim is incompatible with the existing rough-in valve brand."
+      }
+    }
+  ],
+  "description": "Replace the valve if you have pressure drops, temperature fluctuations, leaks, or if your new trim is incompatible with the existing rough-in valve brand."
+}

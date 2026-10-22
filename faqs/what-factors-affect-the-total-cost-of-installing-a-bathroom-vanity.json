@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-affect-the-total-cost-of-installing-a-bathroom-vanity",
+  "name": "What factors affect the total cost of installing a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the total cost of installing a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary cost drivers are vanity size, countertop material, and whether your existing plumbing aligns with the new cabinet. A simple direct swap using existing rough-ins is straightforward, while shifting a sink location increases labor due to pipe rerouting and drywall patching. Countertops made of quartz, granite, or marble add weight and fabrication costs compared to integrated ceramic tops. Additionally, older homes often reveal leaking shutoff valves or subfloor rot once the old cabinet is pulled, which expands the scope to include subfloor repair.",
+        "@type": "Answer",
+        "description": "Costs vary based on cabinet dimensions, countertop material, the need to relocate plumbing or electrical lines, and repairs for hidden subfloor or wall moisture damage."
+      }
+    }
+  ],
+  "description": "Costs vary based on cabinet dimensions, countertop material, the need to relocate plumbing or electrical lines, and repairs for hidden subfloor or wall moisture"
+}

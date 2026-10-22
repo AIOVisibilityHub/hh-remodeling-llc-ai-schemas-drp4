@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-large-format-tiles-or-small-mosaic-tiles-for-my-bathroom-floor",
+  "name": "Should I choose large-format tiles or small mosaic tiles for my bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose large-format tiles or small mosaic tiles for my bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles require fewer grout lines, which makes cleaning easier and can make a compact bathroom appear more spacious. However, they demand a completely flat subfloor to prevent lippage, where one tile edge sits higher than another. Smaller mosaic tiles require significantly more grout maintenance, but they naturally conform better to slight floor contours and provide built-in slip resistance due to the density of grout joints, making them especially suitable for wet zones.",
+        "@type": "Answer",
+        "description": "Large tiles reduce grout lines and create an open feel, while small mosaic tiles offer superior slip resistance and follow subfloor contours more easily."
+      }
+    }
+  ],
+  "description": "Large tiles reduce grout lines and create an open feel, while small mosaic tiles offer superior slip resistance and follow subfloor contours more easily."
+}

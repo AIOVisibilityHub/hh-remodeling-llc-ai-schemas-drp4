@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-bathroom-tile-and-stone-be-repaired-or-completely-replaced",
+  "name": "When should bathroom tile and stone be repaired or completely replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should bathroom tile and stone be repaired or completely replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional repair or replacement when tiles become loose, sound hollow, or exhibit persistent mildew that indicates sub-surface leaks. A hollow sound when tapped signals that the thinset mortar has lost its bond to the substrate. Cracked grout joints, spongy floor areas around the toilet or tub base, and persistent damp smells indicate water is getting behind the installation. Addressing these symptoms promptly prevents deeper structural rot and extensive water damage to ceiling framing below.",
+        "@type": "Answer",
+        "description": "Replace or repair tile when you notice hollow sounds, cracked or missing grout, loose tiles, or soft subfloors pointing to water intrusion beneath the surface."
+      }
+    }
+  ],
+  "description": "Replace or repair tile when you notice hollow sounds, cracked or missing grout, loose tiles, or soft subfloors pointing to water intrusion beneath the surface."
+}

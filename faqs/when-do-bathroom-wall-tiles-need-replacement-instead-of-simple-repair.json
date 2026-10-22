@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-bathroom-wall-tiles-need-replacement-instead-of-simple-repair",
+  "name": "When do bathroom wall tiles need replacement instead of simple repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do bathroom wall tiles need replacement instead of simple repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need replacement when you notice hollow-sounding tiles, cracked grout lines that reopen after patching, persistent musty odors, or soft spots in the wall backing. Surface-level hairline grout cracks or dirty joints can often be repaired with regrouting and resealing. However, if pressing against a tile causes deflection, or if tiles are detaching from the wall, water has likely penetrated the substrate and compromised the backer board. In those cases, removing the affected section down to the studs is necessary to address hidden moisture damage before reinstalling fresh tile.",
+        "@type": "Answer",
+        "description": "Replacement is required when tiles feel loose, walls flex, or water has damaged the substrate behind the tile, whereas intact tiles with surface wear can just be regrouted."
+      }
+    }
+  ],
+  "description": "Replacement is required when tiles feel loose, walls flex, or water has damaged the substrate behind the tile, whereas intact tiles with surface wear can just b"
+}

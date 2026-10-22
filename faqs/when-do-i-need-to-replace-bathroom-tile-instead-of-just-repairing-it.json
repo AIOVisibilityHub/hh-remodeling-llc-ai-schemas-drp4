@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-bathroom-tile-instead-of-just-repairing-it",
+  "name": "When do I need to replace bathroom tile instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace bathroom tile instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need a full retile when you observe loose tiles, crumbling grout, spongy subfloors, or persistent musty odors. Cracked tiles often point to deflection in the subfloor or failure of the underlying mortar bed. If grout lines are continually breaking or mildew returns quickly despite thorough cleaning, moisture is likely trapped behind the walls. Pressing on shower wall tiles that give or feel springy is a direct indicator of rotted drywall or compromised backer board, which requires complete removal of the tile assembly down to the framing.",
+        "@type": "Answer",
+        "description": "Replace the tile if you find loose tiles, spongy walls, persistent musty smells, or cracking caused by underlying water damage and subfloor rot."
+      }
+    }
+  ],
+  "description": "Replace the tile if you find loose tiles, spongy walls, persistent musty smells, or cracking caused by underlying water damage and subfloor rot."
+}

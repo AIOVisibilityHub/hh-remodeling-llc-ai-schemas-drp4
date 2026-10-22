@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-have-to-install-an-egress-window-if-i-add-a-basement-bedroom",
+  "name": "Do I have to install an egress window if I add a basement bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to install an egress window if I add a basement bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, local building codes mandate an egress window or exterior door if your basement plan includes a bedroom. An egress window provides an emergency escape route and must meet strict minimum clearance standards for net clear opening, height, and width. In communities like Denver and Centennial, inspectors also check window well dimensions and require attached ladders for wells deeper than 44 inches. Cutting into a foundation wall requires specialized concrete cutting and proper structural headers above the opening. Adding an egress window also brings valuable natural light and fresh ventilation into below-grade rooms.",
+        "@type": "Answer",
+        "description": "Yes, building codes strictly require an egress window or exterior exit door in every basement bedroom for emergency escape."
+      }
+    }
+  ],
+  "description": "Yes, building codes strictly require an egress window or exterior exit door in every basement bedroom for emergency escape."
+}

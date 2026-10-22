@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-replace-a-shower-in-denver-or-centennial",
+  "name": "Do I need a building permit to replace a shower in Denver or Centennial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to replace a shower in Denver or Centennial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area, including Centennial and Parker, a permit is typically required if the shower installation involves relocating plumbing lines, moving electrical switches, or modifying structural walls. Simple surface-level replacements of fixtures or tile in an identical footprint may not require a permit depending on local municipal rules. When building out custom walk-in showers that alter drain sizing or rough plumbing, pulling a permit ensures the work meets regional plumbing codes and passes required rough-in and final inspections.",
+        "@type": "Answer",
+        "description": "Permits are usually required when moving plumbing pipes, altering drainage, or changing wall framing, but like-for-like fixture swaps often do not need one."
+      }
+    }
+  ],
+  "description": "Permits are usually required when moving plumbing pipes, altering drainage, or changing wall framing, but like-for-like fixture swaps often do not need one."
+}

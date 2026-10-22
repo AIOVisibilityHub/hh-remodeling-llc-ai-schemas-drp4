@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-bathroom-flooring-be-installed-over-an-existing-floor",
+  "name": "Can new bathroom flooring be installed over an existing floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new bathroom flooring be installed over an existing floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often lay floating luxury vinyl over existing single-layer vinyl or flat tile, but tearing out the old floor is usually the better practice. Stacking new flooring creates raised transitions at doorways, which can produce trip hazards and prevent doors or vanity cabinets from opening smoothly. More importantly, leaving old flooring in place hides potential subfloor rot, plumbing leaks, or mold that should be addressed before new materials are placed on top.",
+        "@type": "Answer",
+        "description": "While sometimes possible with flat surfaces, tearing out the old floor is recommended to inspect for subfloor moisture damage and avoid awkward door clearances."
+      }
+    }
+  ],
+  "description": "While sometimes possible with flat surfaces, tearing out the old floor is recommended to inspect for subfloor moisture damage and avoid awkward door clearances."
+}

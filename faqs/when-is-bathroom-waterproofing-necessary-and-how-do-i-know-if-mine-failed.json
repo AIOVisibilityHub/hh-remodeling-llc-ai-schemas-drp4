@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-bathroom-waterproofing-necessary-and-how-do-i-know-if-mine-failed",
+  "name": "When is bathroom waterproofing necessary, and how do I know if mine failed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is bathroom waterproofing necessary, and how do I know if mine failed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need bathroom waterproofing whenever you remodel a shower, install a tub surround, replace tile, or notice moisture damage. Key warning signs of failed waterproofing include spongy subflooring, peeling paint on adjacent walls, persistent musty odors, and cracked grout lines where water seeps behind tiles. Tile and grout are not waterproof on their own; they are merely water-resistant finishes. If water reaches unprotected drywall or subfloors, rot and mold develop quickly. Installing a dedicated moisture barrier or waterproof backer board during a renovation protects your home's structural framing and prevents costly restoration work later.",
+        "@type": "Answer",
+        "description": "Waterproofing is required during any shower or tub remodel. Signs of failure include soft floors, cracked grout, musty smells, and peeling paint on shared walls."
+      }
+    }
+  ],
+  "description": "Waterproofing is required during any shower or tub remodel. Signs of failure include soft floors, cracked grout, musty smells, and peeling paint on shared walls"
+}

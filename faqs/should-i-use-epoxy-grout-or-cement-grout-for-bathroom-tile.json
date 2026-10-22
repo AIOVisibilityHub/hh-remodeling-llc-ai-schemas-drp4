@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-use-epoxy-grout-or-cement-grout-for-bathroom-tile",
+  "name": "Should I use epoxy grout or cement grout for bathroom tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use epoxy grout or cement grout for bathroom tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Epoxy grout is completely waterproof and stain-proof, while cement-based grout is easier to install but requires periodic sealing. Standard cement grout contains microscopic pores that absorb dirty water, soap scum, and oils unless sealed regularly every year or two. Epoxy grout uses an acrylic or resin base that cures into an impermeable, chemical-resistant barrier, making it exceptional for shower floors. However, epoxy cures rapidly and requires meticulous cleanup during installation to prevent stubborn surface hazing on the tile face.",
+        "@type": "Answer",
+        "description": "Epoxy grout is completely waterproof and stain-resistant without needing sealer, while cement grout is easier to install but requires periodic resealing."
+      }
+    }
+  ],
+  "description": "Epoxy grout is completely waterproof and stain-resistant without needing sealer, while cement grout is easier to install but requires periodic resealing."
+}

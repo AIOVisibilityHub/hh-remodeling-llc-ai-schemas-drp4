@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-rotted-bathroom-door-frame-be-repaired-or-does-it-need-full-replacement",
+  "name": "Can a rotted bathroom door frame be repaired, or does it need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a rotted bathroom door frame be repaired, or does it need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface rot or localized cracking can often be patched, but extensive rot or structural warping requires full replacement. If soft wood extends only an inch or two above the floor, a contractor can cut out the damaged section and splice in a new wood block using epoxy and moisture-resistant primer. However, if the rot reaches the rough structural stud, the hinges pull loose repeatedly, or the jamb is severely twisted, replacing the entire pre-hung frame is more durable. Splicing saves initial labor but leaves a seam that requires ongoing paint maintenance.",
+        "@type": "Answer",
+        "description": "Small sections of rot near the floor can often be cut out and spliced, but widespread rot or a severely warped jamb requires replacing the entire door frame."
+      }
+    }
+  ],
+  "description": "Small sections of rot near the floor can often be cut out and spliced, but widespread rot or a severely warped jamb requires replacing the entire door frame."
+}

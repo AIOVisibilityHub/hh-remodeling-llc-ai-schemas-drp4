@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-large-format-tiles-or-small-tiles-for-my-bathroom-walls",
+  "name": "Should I choose large-format tiles or small tiles for my bathroom walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose large-format tiles or small tiles for my bathroom walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles create clean, modern lines with fewer grout joints, making walls easier to wipe down and clean over time. However, large tiles require an exceptionally flat, rigid substrate, as even minor wall imperfections cause noticeable lippage where tile edges do not sit flush. Small tiles or mosaics conform more easily to subtle wall variations and provide extra grip, but they involve significantly more grout lines to clean and maintain. Large tiles also require specialized suction tools and heavy-duty modified thinset mortars to prevent wall slippage during curing.",
+        "@type": "Answer",
+        "description": "Large tiles offer fewer grout lines and easier cleaning but require perfectly flat walls, while small tiles fit wall contours easily but require more grout upkeep."
+      }
+    }
+  ],
+  "description": "Large tiles offer fewer grout lines and easier cleaning but require perfectly flat walls, while small tiles fit wall contours easily but require more grout upke"
+}

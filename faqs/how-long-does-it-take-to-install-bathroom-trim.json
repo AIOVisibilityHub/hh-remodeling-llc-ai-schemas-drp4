@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-install-bathroom-trim",
+  "name": "How long does it take to install bathroom trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install bathroom trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom trim installation typically takes between half a day to two full days, depending on the size of the space and the scope of work. A simple baseboard replacement in a small half-bath can often be finished in just a few hours. However, a full bathroom remodel involving baseboards, window casings, door moldings, and custom crown molding requires extra time for intricate miter cuts, caulking, and multi-coat painting. The schedule also depends on whether old, moisture-damaged trim must be removed and if wall surfaces require patching or leveling before the new trim can sit flush.",
+        "@type": "Answer",
+        "description": "Most bathroom trim projects take between half a day and two days, depending on room size, whether old trim is being removed, and the detail of the moldings."
+      }
+    }
+  ],
+  "description": "Most bathroom trim projects take between half a day and two days, depending on room size, whether old trim is being removed, and the detail of the moldings."
+}

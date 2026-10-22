@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-bathroom-trim-instead-of-repainting-it",
+  "name": "When do I need to replace my bathroom trim instead of repainting it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my bathroom trim instead of repainting it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathroom trim if you notice visible swelling, peeling paint that keeps returning, soft or crumbly spots, or dark mold growth. These signs usually indicate moisture penetration behind the molding or through floor joints. Old wood trim often rots near the edges of tubs, walk-in showers, and toilets where water frequently splashes. If pressing gently on the trim reveals spongy wood, it is best to remove it promptly. This allows you to inspect the drywall and framing behind the trim for hidden leaks or water damage before fresh trim is fastened.",
+        "@type": "Answer",
+        "description": "Replace your trim if you see swelling, persistent mold, crumbling wood, or soft spots caused by trapped moisture around tubs, showers, or floors."
+      }
+    }
+  ],
+  "description": "Replace your trim if you see swelling, persistent mold, crumbling wood, or soft spots caused by trapped moisture around tubs, showers, or floors."
+}

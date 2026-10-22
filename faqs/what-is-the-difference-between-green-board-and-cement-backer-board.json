@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-green-board-and-cement-backer-board",
+  "name": "What is the difference between green board and cement backer board?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between green board and cement backer board?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant drywall (green board) handles general bathroom humidity, whereas cement backer board is designed for direct water exposure behind tile. A key tradeoff is cost and workability: green board cuts and hangs easily like standard drywall, making it ideal for bathroom ceilings and outer walls outside the shower. Cement backer board is heavier, harder to cut, and requires alkali-resistant mesh tape, but it will not soften or rot when exposed to standing moisture or shower leaks. Using green board inside a shower surround risks structural failure and mold behind your tile work.",
+        "@type": "Answer",
+        "description": "Green board resists ambient humidity on standard bathroom walls, while cement backer board provides an inorganic, water-durable base necessary inside shower and tub enclosures."
+      }
+    }
+  ],
+  "description": "Green board resists ambient humidity on standard bathroom walls, while cement backer board provides an inorganic, water-durable base necessary inside shower and"
+}

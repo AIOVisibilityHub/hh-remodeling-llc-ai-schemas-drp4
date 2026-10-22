@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-add-a-half-bath-or-a-full-bathroom-to-my-home",
+  "name": "Should I add a half-bath or a full bathroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a half-bath or a full bathroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main decision factor is how your home will use the space. A half-bath, or powder room, includes only a toilet and sink. It requires minimal square footage—often as little as 18 to 25 square feet—making it ideal for guests near living areas. A full bathroom includes a toilet, sink, and either a shower or bathtub, typically requiring 36 to 40 square feet or more. Choosing a full bath adds greater long-term flexibility for growing families or overnight guests, but it requires larger plumbing supply lines, dedicated venting, and more floor space.",
+        "@type": "Answer",
+        "description": "Choose a half-bath to serve guests in compact spaces. Choose a full bath if you need daily bathing capacity for family or guests, which requires more square footage and venting."
+      }
+    }
+  ],
+  "description": "Choose a half-bath to serve guests in compact spaces. Choose a full bath if you need daily bathing capacity for family or guests, which requires more square foo"
+}

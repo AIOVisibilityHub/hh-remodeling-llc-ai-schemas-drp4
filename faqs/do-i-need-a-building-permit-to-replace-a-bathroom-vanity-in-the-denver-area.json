@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-replace-a-bathroom-vanity-in-the-denver-area",
+  "name": "Do I need a building permit to replace a bathroom vanity in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to replace a bathroom vanity in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an existing vanity with one of identical size usually does not require a permit. However, in Colorado jurisdictions across the Denver metro area, including Centennial and Parker, pulling a permit may be required if the installation involves altering or extending behind-the-wall supply lines, relocating drain stacks, or running new electrical circuits for lighted mirrors and GFCI outlets. Homeowners should verify local municipal building codes before starting work that alters existing utility layouts, as unpermitted trade modifications can complicate future home inspections.",
+        "@type": "Answer",
+        "description": "Direct vanity swaps usually do not require permits, but relocating water pipes, drain stacks, or electrical outlets in Denver metro communities often requires a trade permit."
+      }
+    }
+  ],
+  "description": "Direct vanity swaps usually do not require permits, but relocating water pipes, drain stacks, or electrical outlets in Denver metro communities often requires a"
+}

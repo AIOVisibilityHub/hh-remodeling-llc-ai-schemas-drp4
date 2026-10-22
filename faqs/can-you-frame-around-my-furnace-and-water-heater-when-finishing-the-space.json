@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-frame-around-my-furnace-and-water-heater-when-finishing-the-space",
+  "name": "Can you frame around my furnace and water heater when finishing the space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you frame around my furnace and water heater when finishing the space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finishing a basement directly around mechanical equipment requires compliance with clearance and combustion air codes. Furnaces and water heaters generate heat and require dedicated air intake to operate safely, meaning they cannot be tightly sealed into standard closets. Contractors frame dedicated utility rooms with louvered doors or combustion air ducting to satisfy fire codes while maintaining clear access for future maintenance or appliance replacements. Insulating adjacent partition walls with mineral wool helps damp equipment noise from reaching finished living areas.",
+        "@type": "Answer",
+        "description": "Yes, but utility equipment requires dedicated clearance, combustion airflow, and service access. Framing must incorporate code-compliant spacing and louvered doors rather than sealing units off."
+      }
+    }
+  ],
+  "description": "Yes, but utility equipment requires dedicated clearance, combustion airflow, and service access. Framing must incorporate code-compliant spacing and louvered do"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-bathroom-tile-be-installed-over-existing-tile",
+  "name": "Can new bathroom tile be installed over existing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new bathroom tile be installed over existing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new tile directly over existing tile is generally not recommended, particularly in wet bathroom environments. While it avoids the labor and mess of demolition, layering tiles raises the finished floor height, creating awkward transitions at doorways, vanities, and baseboards. It can also cause clearance issues around the toilet flange. More importantly, tiling over old surfaces hides potential hidden water damage, rotted subfloors, or failing waterproofing underneath. Removing old tile down to the studs or subfloor ensures a flat, structurally sound foundation and allows for a reliable waterproofing membrane that prevents future leaks.",
+        "@type": "Answer",
+        "description": "It is not recommended. Tiling over old tile hides underlying water damage, creates uneven floor transitions, and compromises proper waterproofing."
+      }
+    }
+  ],
+  "description": "It is not recommended. Tiling over old tile hides underlying water damage, creates uneven floor transitions, and compromises proper waterproofing."
+}

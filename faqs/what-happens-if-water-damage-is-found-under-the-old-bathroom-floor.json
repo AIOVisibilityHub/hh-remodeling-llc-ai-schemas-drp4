@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-if-water-damage-is-found-under-the-old-bathroom-floor",
+  "name": "What happens if water damage is found under the old bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if water damage is found under the old bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks from toilets, tubs, or supply lines can rot plywood subfloors and weaken floor joists over time. During tile removal, installers check for soft spots, discoloration, or mold on the wood substrate. If damage is present, the compromised wood must be cut out and replaced with fresh structural subflooring before any tile installation proceeds. Addressing these hidden issues prevents structural sagging, mold growth, and tile cracking down the road.",
+        "@type": "Answer",
+        "description": "Any water-damaged subflooring must be cut out and replaced with solid, clean wood to create a stable base before new tile can be installed."
+      }
+    }
+  ],
+  "description": "Any water-damaged subflooring must be cut out and replaced with solid, clean wood to create a stable base before new tile can be installed."
+}

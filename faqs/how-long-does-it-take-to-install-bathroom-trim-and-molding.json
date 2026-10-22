@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-install-bathroom-trim-and-molding",
+  "name": "How long does it take to install bathroom trim and molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install bathroom trim and molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most standard bathrooms, molding installation takes between half a day to two full days. The timeline depends on the room size, whether old trim requires removal, wall flatness, and whether the scope includes baseboards, crown molding, or wainscoting. Tile transitions and out-of-square corners common in older homes require custom scribing and compound miter cuts, which adds labor time. Painting also impacts the schedule, as moldings are typically primed and pre-painted before mounting, then touched up after nail holes are filled and seams are caulked.",
+        "@type": "Answer",
+        "description": "Most bathroom molding projects take half a day to two days, depending on the room size, corner complexity, tile transitions, and painting requirements."
+      }
+    }
+  ],
+  "description": "Most bathroom molding projects take half a day to two days, depending on the room size, corner complexity, tile transitions, and painting requirements."
+}

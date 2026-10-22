@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-type-of-tile-to-use-for-a-bathroom-shower",
+  "name": "What is the best type of tile to use for a bathroom shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of tile to use for a bathroom shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain and ceramic tiles remain the most durable and cost-effective options for shower enclosures due to their low water absorption rates. Natural stones, such as marble or travertine, offer a high-end look but introduce practical tradeoffs. Stone is porous and requires regular sealing to avoid water staining and damage from acidic soaps. Porcelain is virtually maintenance-free, highly resistant to moisture, and easier to clean. When selecting floor tile, look for smaller mosaic formats or textured finishes to improve slip resistance, whereas larger format tiles work well on walls to minimize grout joints and simplify routine cleaning.",
+        "@type": "Answer",
+        "description": "Porcelain tile is generally the best choice because it is durable and water-resistant. Natural stone looks elegant but requires ongoing sealing to prevent staining."
+      }
+    }
+  ],
+  "description": "Porcelain tile is generally the best choice because it is durable and water-resistant. Natural stone looks elegant but requires ongoing sealing to prevent stain"
+}

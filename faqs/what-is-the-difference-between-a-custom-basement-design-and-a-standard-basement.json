@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-custom-basement-design-and-a-standard-basement",
+  "name": "What is the difference between a custom basement design and a standard basement finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom basement design and a standard basement finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom basement design involves planning layout, architectural elements, and mechanical systems tailored to your specific lifestyle, whereas a standard basement finish typically applies generic drywall, basic lighting, and standard flooring to an open room. Custom designs often incorporate specialized spaces such as wet bars, guest suites, home theaters, or dedicated workout rooms. From a practical tradeoff perspective, custom plans require more detailed upfront architectural drafting, permit coordination, and fixture selections. While standard finishes cost less and move faster, custom designs optimize ceiling height, bulkheads, and foundation quirks to maximize usable living space.",
+        "@type": "Answer",
+        "description": "A standard finish encloses open space with basic drywall and flooring, while a custom design creates tailored layouts like wet bars, theaters, or suites adapted to your home's structure."
+      }
+    }
+  ],
+  "description": "A standard finish encloses open space with basic drywall and flooring, while a custom design creates tailored layouts like wet bars, theaters, or suites adapted"
+}

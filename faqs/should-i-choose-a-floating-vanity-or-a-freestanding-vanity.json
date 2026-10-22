@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-floating-vanity-or-a-freestanding-vanity",
+  "name": "Should I choose a floating vanity or a freestanding vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a floating vanity or a freestanding vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floating vanities create an open, modern look and make floor cleaning simpler, but they require heavy-duty wall blocking to support the combined weight of the cabinet, stone top, and filled sink. Freestanding vanities rest directly on the floor, providing significantly more concealed cabinet storage and masking existing flooring gaps. A major tradeoff with wall-mounted units is that supply and drain lines must exit neatly from the wall rather than the floor, which may require opening drywall to rework plumbing before hanging the unit.",
+        "@type": "Answer",
+        "description": "Floating vanities offer a clean look but require reinforced wall framing and wall-plumbing. Freestanding models hide floor plumbing and provide more enclosed storage."
+      }
+    }
+  ],
+  "description": "Floating vanities offer a clean look but require reinforced wall framing and wall-plumbing. Freestanding models hide floor plumbing and provide more enclosed st"
+}

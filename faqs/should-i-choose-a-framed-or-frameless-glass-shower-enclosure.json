@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-framed-or-frameless-glass-shower-enclosure",
+  "name": "Should I choose a framed or frameless glass shower enclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a framed or frameless glass shower enclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frameless shower doors use thicker tempered glass (usually 3/8 to 1/2 inch) secured with minimal metal clips and hinges, providing an open, modern look that is easy to wipe down. Framed doors use thinner glass supported by metal framing around every edge, which keeps costs lower and helps channel water well. However, framed designs require more maintenance because soap scum and mineral deposits accumulate in the aluminum tracks. Frameless options require sturdy wall blocking during the shower framing phase to support the heavy glass panels safely.",
+        "@type": "Answer",
+        "description": "Frameless glass offers a sleek aesthetic and easier glass cleaning, while framed doors cost less but have metal channels that collect water and soap scum."
+      }
+    }
+  ],
+  "description": "Frameless glass offers a sleek aesthetic and easier glass cleaning, while framed doors cost less but have metal channels that collect water and soap scum."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-full-shower-removal-necessary-instead-of-surface-repair",
+  "name": "When is full shower removal necessary instead of surface repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is full shower removal necessary instead of surface repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visible tile deterioration does not always mean immediate removal, but chronic moisture issues usually justify a complete tear-out. Surface problems like hairline grout cracks, localized mildew, or loose surface caulk can frequently be addressed with deep cleaning and resealing. However, if tiles are spongey underfoot, sounding hollow when tapped, or wallboard yields under light pressure, water has penetrated the backing system. Once water sits within the framing or subfloor, full removal is necessary to remediate mold, rebuild the backing, and install a reliable waterproof assembly.",
+        "@type": "Answer",
+        "description": "Full removal is necessary when moisture reaches the backing board or subfloor, causing spongy surfaces, hollow tiles, persistent leaks, or framing rot."
+      }
+    }
+  ],
+  "description": "Full removal is necessary when moisture reaches the backing board or subfloor, causing spongy surfaces, hollow tiles, persistent leaks, or framing rot."
+}

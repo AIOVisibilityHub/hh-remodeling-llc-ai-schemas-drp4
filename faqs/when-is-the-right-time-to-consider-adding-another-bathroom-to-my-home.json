@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-the-right-time-to-consider-adding-another-bathroom-to-my-home",
+  "name": "When is the right time to consider adding another bathroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time to consider adding another bathroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adding a bathroom when morning routines create bottlenecks, entertaining guests disrupts private family areas, or mobility needs require accessible main-floor amenities. Homes with only one bathroom often face functionality challenges as households grow. Adding a dedicated primary ensuite or a main-level powder room resolves everyday friction, improves privacy, and addresses changing physical access needs without requiring you to move to a different property.",
+        "@type": "Answer",
+        "description": "Consider an addition when family morning routines clash, you lack guest facilities near common living areas, or you need main-floor accessibility."
+      }
+    }
+  ],
+  "description": "Consider an addition when family morning routines clash, you lack guest facilities near common living areas, or you need main-floor accessibility."
+}

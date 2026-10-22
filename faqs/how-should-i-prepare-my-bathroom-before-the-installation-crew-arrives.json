@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-the-installation-crew-arrives",
+  "name": "How should I prepare my bathroom before the installation crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before the installation crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shutting off the water supply to the specific bathroom or the main house line is essential before work begins. Clear the counters, empty out vanity cabinets completely, and remove personal toiletries from shower ledges and tub corners. Ensure a clear, unobstructed path from the front door to the bathroom for work crews carrying heavy cast iron tubs, vanities, or bulky tools. It also helps to note any existing shutoff valve leaks or low water pressure issues so the installation crew can address them during service.",
+        "@type": "Answer",
+        "description": "Clear all personal items from cabinets and counters, ensure open hallway access, and locate your main water shutoff valve ahead of time."
+      }
+    }
+  ],
+  "description": "Clear all personal items from cabinets and counters, ensure open hallway access, and locate your main water shutoff valve ahead of time."
+}

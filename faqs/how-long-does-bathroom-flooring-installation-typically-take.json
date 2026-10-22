@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-bathroom-flooring-installation-typically-take",
+  "name": "How long does bathroom flooring installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom flooring installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard bathroom flooring installations take between one and three days to finish. The exact schedule depends on the material chosen, the bathroom layout, and whether subfloor repairs are needed. Vinyl plank installs quickly and can often be completed in a single day. In contrast, tile installation requires extra time for setting mortar, applying grout, and allowing sealants to cure before foot traffic is allowed. Removing heavy fixtures like freestanding tubs or toilets also adds time to the preparation and reset phases.",
+        "@type": "Answer",
+        "description": "A standard bathroom floor installation takes one to three days. Tile requires extra time for mortar and grout to cure, while vinyl plank can often be completed in one day."
+      }
+    }
+  ],
+  "description": "A standard bathroom floor installation takes one to three days. Tile requires extra time for mortar and grout to cure, while vinyl plank can often be completed"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-finish-or-renovate-my-basement",
+  "name": "Do I need a building permit to finish or renovate my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to finish or renovate my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need building permits for any basement renovation that adds walls, alters structural supports, or includes new electrical, plumbing, or mechanical work. Simple cosmetic updates like painting or replacing flooring typically do not require permits. In cities across the Denver metro area, building departments review framing plans, egress window sizing, and fire-blocking before rough-in inspections can pass. Completing work without required permits can complicate future home sales and create insurance coverage issues if unpermitted work causes property damage. A licensed contractor submits detailed floor plans to your local jurisdiction and schedules all mandatory city inspections throughout the build.",
+        "@type": "Answer",
+        "description": "Yes, permits are required if you add walls, plumbing, wiring, or HVAC. Only basic cosmetic updates like painting usually skip permits."
+      }
+    }
+  ],
+  "description": "Yes, permits are required if you add walls, plumbing, wiring, or HVAC. Only basic cosmetic updates like painting usually skip permits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-floating-basement-walls-and-why-are-they-needed-in-front-range-colorado",
+  "name": "What are floating basement walls and why are they needed in Front Range Colorado homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are floating basement walls and why are they needed in Front Range Colorado homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Across Centennial, Denver, and surrounding communities, local soils often contain expansive bentonite clay that swells when wet and shrinks when dry, placing upward pressure on basement concrete slabs. To prevent this ground movement from cracking drywall and warping door frames on finished upper levels, building codes require interior basement walls to be built with floating framing. Floating walls leave a continuous gap—typically 1.5 inches—at the base or top of wall studs, anchored by specialized hardware that absorbs slab movement.",
+        "@type": "Answer",
+        "description": "Floating walls accommodate shifting from expansive soils beneath the slab, preventing ground movement from damaging upper-floor structures and finishes."
+      }
+    }
+  ],
+  "description": "Floating walls accommodate shifting from expansive soils beneath the slab, preventing ground movement from damaging upper-floor structures and finishes."
+}

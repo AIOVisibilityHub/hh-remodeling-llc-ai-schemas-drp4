@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-a-walk-in-shower-with-a-bathtub-after-removal",
+  "name": "Can I replace a walk-in shower with a bathtub after removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a walk-in shower with a bathtub after removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a shower with a bathtub depends on available bathroom footprint, drain placement, and plumbing configurations. A standard alcove bathtub typically requires an opening roughly sixty inches long and thirty to thirty-two inches wide. If your existing walk-in shower is smaller, adjacent walls or vanities may need modification to accommodate the tub. Additionally, showers often use two-inch drain lines, whereas standard tub drains are one-and-a-half inches, so the plumbing rough-in under the subfloor must be adapted to align with the new tub waste-and-overflow layout.",
+        "@type": "Answer",
+        "description": "Yes, if your bathroom footprint accommodates tub dimensions and the plumbing drain lines are adapted under the floor to align with the new tub waste assembly."
+      }
+    }
+  ],
+  "description": "Yes, if your bathroom footprint accommodates tub dimensions and the plumbing drain lines are adapted under the floor to align with the new tub waste assembly."
+}

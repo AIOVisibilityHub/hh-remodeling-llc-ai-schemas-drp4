@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-large-format-wall-tiles-compare-to-mosaic-tiles-for-showers",
+  "name": "How do large-format wall tiles compare to mosaic tiles for showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do large-format wall tiles compare to mosaic tiles for showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary tradeoff between large-format tiles and mosaic tiles comes down to maintenance versus traction. Large tiles on shower walls create a sleek, modern aesthetic with fewer grout lines, making them significantly easier to scrub and keep clean. However, they are difficult to install on standard sloped shower floors without creating uneven ridges. Mosaic tiles, mounted on flexible mesh backing, conform easily to the compound slope of a center-drain shower pan. The extensive grid of grout joints provides essential grip under wet feet, reducing slipping hazards despite requiring more frequent grout cleaning.",
+        "@type": "Answer",
+        "description": "Large-format tiles have fewer grout lines and clean easily on walls, while mosaic tiles offer the necessary traction and flexibility for sloped shower floors."
+      }
+    }
+  ],
+  "description": "Large-format tiles have fewer grout lines and clean easily on walls, while mosaic tiles offer the necessary traction and flexibility for sloped shower floors."
+}

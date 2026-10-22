@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-basement-renovations-in-the-denver-area-require-floating-walls",
+  "name": "Why do basement renovations in the Denver area require floating walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do basement renovations in the Denver area require floating walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area and surrounding Front Range communities, expansive soils require specialized construction techniques. High-clay soils swell when wet and shrink when dry, placing upward pressure on basement concrete slabs. To avoid structural cracking in finished walls, local building departments require floating walls, which leave a 1.5- to 3-inch expansion gap at the bottom of non-bearing interior stud walls. Standard fixed framing used in other regions will buckle under soil movement. Renovations in these areas also focus heavily on exterior foundation drainage and sump pump systems to keep groundwater away from clay-heavy foundations.",
+        "@type": "Answer",
+        "description": "Expansive clay soils across the Denver area cause concrete slabs to move; floating walls leave a gap at the base to prevent drywall and framing from cracking."
+      }
+    }
+  ],
+  "description": "Expansive clay soils across the Denver area cause concrete slabs to move; floating walls leave a gap at the base to prevent drywall and framing from cracking."
+}

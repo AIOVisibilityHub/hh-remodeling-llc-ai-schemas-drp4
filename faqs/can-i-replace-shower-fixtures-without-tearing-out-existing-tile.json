@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-shower-fixtures-without-tearing-out-existing-tile",
+  "name": "Can I replace shower fixtures without tearing out existing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace shower fixtures without tearing out existing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace plumbing fixtures without replacing tile if the new units match the existing footprint and plumbing layout. For shower trim kits, the new faceplate must match or exceed the diameter of the old one, and the existing in-wall mixing valve must be compatible with the new manufacturer. If you switch to a different valve brand or layout, opening the tile wall behind the shower is often required. Before ordering fixtures, measure opening dimensions and verify valve compatibility to avoid unexpected tile demolition.",
+        "@type": "Answer",
+        "description": "Yes, if the new trim matches the existing footprint and internal mixing valve. Changing valve brands usually requires opening the wall behind the tile."
+      }
+    }
+  ],
+  "description": "Yes, if the new trim matches the existing footprint and internal mixing valve. Changing valve brands usually requires opening the wall behind the tile."
+}

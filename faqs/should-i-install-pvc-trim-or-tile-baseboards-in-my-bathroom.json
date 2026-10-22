@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-install-pvc-trim-or-tile-baseboards-in-my-bathroom",
+  "name": "Should I install PVC trim or tile baseboards in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install PVC trim or tile baseboards in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile baseboards offer maximum water protection and easy cleaning, while PVC trim delivers a traditional carpentry look at a lower material and installation cost. Tile baseboards match or accent your tiled floor, completely resisting standing water, mop moisture, and shower splashes, making them ideal for high-traffic or wet-room setups. However, PVC trim provides classic architectural character, crisp painted lines, and easier adjustments if your walls are uneven. The tradeoff comes down to aesthetics versus utility: tile handles constant standing water effortlessly, whereas PVC provides a warm, seamless transition to painted walls.",
+        "@type": "Answer",
+        "description": "Tile baseboards provide unbeatable water protection against puddles, while PVC offers the classic look of painted woodwork at a lower installation cost."
+      }
+    }
+  ],
+  "description": "Tile baseboards provide unbeatable water protection against puddles, while PVC offers the classic look of painted woodwork at a lower installation cost."
+}

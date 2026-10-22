@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-a-homeowner-prepare-before-shower-removal-begins",
+  "name": "How should a homeowner prepare before shower removal begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare before shower removal begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clearing a direct path through your home and securing personal belongings are the primary steps to prepare. Empty the shower completely of toiletries, caddies, and curtains, and remove any fragile wall decor or items from adjoining rooms, as demolition vibrations can travel through shared studs. Technicians will need shutoff access to your main water supply or local fixture isolation valves. Make sure pathways from the bathroom to the exterior exit are unobstructed so crews can haul out heavy, abrasive debris efficiently.",
+        "@type": "Answer",
+        "description": "Clear all personal items from the bathroom, take down wall decor in adjacent rooms, clear a path to the exit, and confirm water shutoff access."
+      }
+    }
+  ],
+  "description": "Clear all personal items from the bathroom, take down wall decor in adjacent rooms, clear a path to the exit, and confirm water shutoff access."
+}

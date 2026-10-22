@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-most-influence-the-total-cost-of-a-bathroom-addition",
+  "name": "What factors most influence the total cost of a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors most influence the total cost of a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends primarily on whether the new bathroom sits within existing framing or requires a room bump-out addition. Connecting to existing plumbing stacks, running new electrical circuits, and selecting mid-range versus high-end fixtures also drive pricing. Converting an existing closet or pantry next to existing water lines is significantly more economical than trenching concrete in a basement or extending your home's foundation outward. Upgrading water heaters or electrical service panels to handle the extra load will also adjust your total investment.",
+        "@type": "Answer",
+        "description": "Cost depends on whether you build inside your existing footprint or add square footage, the proximity to existing plumbing lines, and the level of tile and fixture finishes."
+      }
+    }
+  ],
+  "description": "Cost depends on whether you build inside your existing footprint or add square footage, the proximity to existing plumbing lines, and the level of tile and fixt"
+}

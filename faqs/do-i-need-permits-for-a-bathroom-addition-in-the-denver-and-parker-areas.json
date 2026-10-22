@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-permits-for-a-bathroom-addition-in-the-denver-and-parker-areas",
+  "name": "Do I need permits for a bathroom addition in the Denver and Parker areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom addition in the Denver and Parker areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, virtually all residential bathroom additions require building, plumbing, and electrical permits to ensure safety and code compliance. In Denver metro jurisdictions like Centennial and Parker, local building departments require stamped plans or detailed drawings showing drain venting, GFCI circuit protection, and structural framing modifications. Unpermitted work can complicate future home sales, void homeowner insurance coverage in water damage scenarios, and risk municipal stop-work orders. Licensed contractors submit the documentation and schedule mandatory rough and final inspections.",
+        "@type": "Answer",
+        "description": "Yes. Local building departments require permits for new plumbing, framing, and electrical to ensure compliance with regional building and safety codes."
+      }
+    }
+  ],
+  "description": "Yes. Local building departments require permits for new plumbing, framing, and electrical to ensure compliance with regional building and safety codes."
+}

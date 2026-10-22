@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-add-a-bathroom-or-wet-bar-anywhere-in-my-basement-design",
+  "name": "Can I add a bathroom or wet bar anywhere in my basement design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom or wet bar anywhere in my basement design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing for a basement bathroom or wet bar can be installed virtually anywhere, provided the sub-slab slopes properly toward the main sewer line. Because basement fixtures sit lower than the rest of the house, installing them requires saw-cutting the concrete slab to lay waste pipes and tie into the sewer stack. A major design decision factor is whether your home already has plumbing rough-in pipes stubbed into the concrete. If not, placing wet fixtures closer to the main sewer exit minimizes concrete cutting, labor, and project expense.",
+        "@type": "Answer",
+        "description": "Yes, but it requires cutting into the concrete slab to lay drainpipes. Placing wet areas closer to existing sewer lines reduces labor and concrete excavation costs."
+      }
+    }
+  ],
+  "description": "Yes, but it requires cutting into the concrete slab to lay drainpipes. Placing wet areas closer to existing sewer lines reduces labor and concrete excavation co"
+}

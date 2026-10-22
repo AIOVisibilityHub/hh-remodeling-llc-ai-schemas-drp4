@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-have-to-install-an-egress-window-if-i-finish-my-basement",
+  "name": "Do I have to install an egress window if I finish my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to install an egress window if I finish my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local building codes mandate that any basement room designated or used as a bedroom must have an emergency escape and rescue opening. If you only plan to build an open recreation area, home office, or media room, an egress window is typically not mandatory, provided the home meets standard egress requirements through main stairways. However, cutting a concrete foundation to add an egress window increases total project cost and excavation scope, but it legally adds an official bedroom and significantly boosts appraisal value.",
+        "@type": "Answer",
+        "description": "An egress window is legally required only if you include a bedroom. For open family rooms or offices, it is optional, though adding one increases resale value and safety."
+      }
+    }
+  ],
+  "description": "An egress window is legally required only if you include a bedroom. For open family rooms or offices, it is optional, though adding one increases resale value a"
+}

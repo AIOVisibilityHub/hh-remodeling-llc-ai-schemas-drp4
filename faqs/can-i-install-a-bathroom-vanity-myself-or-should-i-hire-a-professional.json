@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-install-a-bathroom-vanity-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a bathroom vanity myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a bathroom vanity myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While skilled homeowners can manage a direct swap, hiring a professional is recommended if your project involves heavy natural stone tops, plumbing modifications, or wall-mounted cabinets. Connecting drain assemblies, P-traps, and shutoff valves requires leak-tight seals to prevent hidden water damage inside walls and subfloors. Professionals also ensure the cabinet is leveled against uneven walls using shims and secured directly into wall studs. If electrical outlets need adjustment or water lines must move, licensed trade work avoids code violations and structural water issues.",
+        "@type": "Answer",
+        "description": "Direct swaps can be DIY projects, but professionals ensure level mounting, watertight plumbing connections, wall-stud anchor security, and code compliance for pipe moves."
+      }
+    }
+  ],
+  "description": "Direct swaps can be DIY projects, but professionals ensure level mounting, watertight plumbing connections, wall-stud anchor security, and code compliance for p"
+}

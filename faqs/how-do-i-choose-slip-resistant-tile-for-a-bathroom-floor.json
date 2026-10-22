@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-slip-resistant-tile-for-a-bathroom-floor",
+  "name": "How do I choose slip-resistant tile for a bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose slip-resistant tile for a bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should choose slip-resistant flooring by checking the tile's Dynamic Coefficient of Friction (DCOF) rating and surface texture. For wet bathroom floors and shower pans, select tiles with a DCOF rating of 0.42 or higher, which indicates safe traction when wet. Matte, textured, or honed finishes provide substantially better footing than polished, glossy tiles. Another effective approach is using smaller tiles, such as 2-inch mosaics or penny tiles, in shower floors. The frequent grout lines between smaller tiles naturally create physical grip, reducing slip risks without sacrificing style.",
+        "@type": "Answer",
+        "description": "Look for matte or textured tiles with a DCOF rating of 0.42 or higher. Using smaller mosaic tiles also adds slip resistance through extra grout lines."
+      }
+    }
+  ],
+  "description": "Look for matte or textured tiles with a DCOF rating of 0.42 or higher. Using smaller mosaic tiles also adds slip resistance through extra grout lines."
+}

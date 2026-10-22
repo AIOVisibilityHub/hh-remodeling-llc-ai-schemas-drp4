@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-use-regular-drywall-for-bathroom-repairs-or-do-i-need-green-board",
+  "name": "Can I use regular drywall for bathroom repairs, or do I need green board?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use regular drywall for bathroom repairs, or do I need green board?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need moisture-resistant drywall, commonly known as green board or purple board, or cement backer board behind wet areas like showers. Standard drywall absorbs humidity, which leads to mold, swelling, and crumbling over time. Choosing standard drywall might save slightly on upfront material costs, but moisture-resistant boards provide long-term protection against the high humidity created by baths and showers. If the repair sits directly in a water-splash zone, cement backer board is typically the required base before installing tile.",
+        "@type": "Answer",
+        "description": "Regular drywall is not recommended for bathrooms. Moisture-resistant green board, purple board, or cement backer board must be used to prevent humidity absorption and mold growth."
+      }
+    }
+  ],
+  "description": "Regular drywall is not recommended for bathrooms. Moisture-resistant green board, purple board, or cement backer board must be used to prevent humidity absorpti"
+}

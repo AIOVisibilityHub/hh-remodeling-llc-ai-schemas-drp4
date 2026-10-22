@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-a-shower-pan-flood-test-and-why-is-it-necessary",
+  "name": "What is a shower pan flood test and why is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a shower pan flood test and why is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower pan flood test is a quality check performed before tiling to confirm the shower pan holds water without leaks. The drain is sealed with an expandable mechanical test plug, and the pan is filled with water just below the curb or a designated level. It sits undisturbed for 24 hours while technicians monitor water levels and inspect surrounding subflooring and lower-level ceilings for seepage. If the water level drops without evaporation explanation, the team identifies and repairs the breach before laying expensive decorative tile over the substrate.",
+        "@type": "Answer",
+        "description": "A flood test fills the plugged shower pan with water for 24 hours before tiling to verify the membrane holds water with zero leaks into the subfloor."
+      }
+    }
+  ],
+  "description": "A flood test fills the plugged shower pan with water for 24 hours before tiling to verify the membrane holds water with zero leaks into the subfloor."
+}

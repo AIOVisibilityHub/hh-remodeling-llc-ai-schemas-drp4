@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-remove-a-shower-in-the-denver-metro-area",
+  "name": "Do I need a building permit to remove a shower in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remove a shower in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver and surrounding communities like Centennial and Parker, permit requirements depend on whether the removal alters plumbing, electrical wiring, or load-bearing framing. A simple tear-out of a surface surround without changing pipe locations or structural components often does not trigger a permit on its own. However, if removing the shower involves relocating drain stacks, updating supply lines, or modifying wall framing, local municipal building departments typically require a plumbing or building permit. Checking local jurisdictional rules before beginning ensures your project remains fully compliant.",
+        "@type": "Answer",
+        "description": "Demolition alone rarely needs a permit, but relocating drains, altering water supply piping, or changing structural wall framing generally requires municipal permits."
+      }
+    }
+  ],
+  "description": "Demolition alone rarely needs a permit, but relocating drains, altering water supply piping, or changing structural wall framing generally requires municipal pe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-waterproof-the-entire-bathroom-floor-or-just-the-shower-area",
+  "name": "Do I need to waterproof the entire bathroom floor or just the shower area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to waterproof the entire bathroom floor or just the shower area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing an entire bathroom floor is not always mandatory, but it is highly recommended in critical splash zones and required for curbless showers. In standard layouts with tubs or raised shower curbs, waterproofing focuses primarily on the shower pan and wet walls up to the showerhead. However, extending waterproof sheet membranes across the floor outside the tub or shower helps protect against bath overflows, children's splashing, and toilet leaks. For barrier-free walk-in showers, the entire bathroom floor must be sloped and waterproofed to prevent standing water from escaping into adjacent rooms.",
+        "@type": "Answer",
+        "description": "Shower pans and wet walls always require waterproofing, but curbless showers or bathrooms prone to splashing benefit from full-floor waterproofing protection."
+      }
+    }
+  ],
+  "description": "Shower pans and wet walls always require waterproofing, but curbless showers or bathrooms prone to splashing benefit from full-floor waterproofing protection."
+}

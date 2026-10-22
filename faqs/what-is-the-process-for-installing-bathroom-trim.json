@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-process-for-installing-bathroom-trim",
+  "name": "What is the process for installing bathroom trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing bathroom trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with measuring the bathroom perimeter and removing old, damaged moldings. Next, the installer checks the subfloor and lower drywall for moisture damage or uneven spots, making minor surface adjustments so new boards seat evenly. Each piece of trim is precision-cut with mitered or coped corners to ensure tight joints around vanities, corners, and door frames. Installers fasten the boards using corrosion-resistant finishing nails, countersink the fasteners, and apply waterproof sealant along the top, bottom, and seams. Finally, nail holes are filled, sanded, and painted for a clean, moisture-tight finish.",
+        "@type": "Answer",
+        "description": "The process involves removing old trim, prepping walls, precision-cutting moisture-proof boards, securing them with corrosion-resistant fasteners, caulking seams, and painting."
+      }
+    }
+  ],
+  "description": "The process involves removing old trim, prepping walls, precision-cutting moisture-proof boards, securing them with corrosion-resistant fasteners, caulking seam"
+}

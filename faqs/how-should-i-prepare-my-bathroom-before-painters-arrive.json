@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-painters-arrive",
+  "name": "How should I prepare my bathroom before painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painters arrive, remove personal toiletries, towels, shower curtains, and hanging wall decor from the room. Clear off the vanity countertop and clear under-sink storage if cabinet painting is included in the project scope. Wash away visible soap scum or mildew, as paint cannot adhere properly to dirty or contaminated surfaces. Providing clear access to all walls, baseboards, and water shutoffs ensures the crew can tape, tarp, and prep efficiently without risking damage to your belongings.",
+        "@type": "Answer",
+        "description": "Clear all toiletries, towels, and wall hangings, empty the vanity counter, and wipe down surfaces to remove soap residue and grime before painters arrive."
+      }
+    }
+  ],
+  "description": "Clear all toiletries, towels, and wall hangings, empty the vanity counter, and wipe down surfaces to remove soap residue and grime before painters arrive."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-replace-my-bathroom-floor",
+  "name": "How do I know when it is time to replace my bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to replace my bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathroom floor if you notice loose tiles, cracked grout, soft spots in the subfloor, or persistent musty odors. A spongy floor near the toilet, bathtub, or vanity often indicates hidden water intrusion that has weakened the underlying wood. Discolored vinyl, peeling seams, or cracked tiles also allow water to seep deeper into your home. Addressing these warning signs early prevents extensive mold growth and structural rot beneath the visible surface.",
+        "@type": "Answer",
+        "description": "Replace your floor if you notice soft or spongy spots, loose or cracked tiles, peeling seams, or recurring musty odors indicating water damage underneath."
+      }
+    }
+  ],
+  "description": "Replace your floor if you notice soft or spongy spots, loose or cracked tiles, peeling seams, or recurring musty odors indicating water damage underneath."
+}

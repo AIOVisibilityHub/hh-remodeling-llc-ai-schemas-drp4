@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-baseboards-be-installed-over-existing-bathroom-floor-tile",
+  "name": "Can new baseboards be installed over existing bathroom floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new baseboards be installed over existing bathroom floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards can be installed over bathroom tile, but they require a different approach than drywall installations. Tile surfaces are often slightly uneven due to grout lines and lippage, meaning trim must be carefully leveled and secured using construction adhesive combined with finish nails driven into the wall framing above the tile line. Installers apply a flexible, mold-resistant silicone or acrylic sealant along the tile-to-baseboard transition rather than hard grout, which cracks under subtle seasonal movement.",
+        "@type": "Answer",
+        "description": "Yes, baseboards can sit directly against floor tile, secured to wall studs above the tile and sealed at the bottom with flexible, water-resistant caulk."
+      }
+    }
+  ],
+  "description": "Yes, baseboards can sit directly against floor tile, secured to wall studs above the tile and sealed at the bottom with flexible, water-resistant caulk."
+}

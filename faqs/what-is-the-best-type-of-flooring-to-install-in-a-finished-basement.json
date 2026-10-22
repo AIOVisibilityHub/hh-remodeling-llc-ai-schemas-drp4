@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-type-of-flooring-to-install-in-a-finished-basement",
+  "name": "What is the best type of flooring to install in a finished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring to install in a finished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury vinyl plank (LVP), engineered vinyl tile, and stained concrete perform best because they resist potential ground moisture and humidity. Traditional solid hardwood is generally avoided below grade because natural humidity swings and concrete vapor can cause solid planks to warp, cup, or buckle. If you prefer carpet in bedrooms or family rooms, choose synthetic fibers and install an approved vapor barrier or dimpled subfloor underneath the pad. Installing a quality moisture-resistant subfloor underlayment provides thermal insulation from cold concrete and protects any finished flooring material above it.",
+        "@type": "Answer",
+        "description": "Luxury vinyl plank and waterproof composite flooring are ideal because they resist concrete moisture, while solid hardwood is prone to moisture warping."
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank and waterproof composite flooring are ideal because they resist concrete moisture, while solid hardwood is prone to moisture warping."
+}

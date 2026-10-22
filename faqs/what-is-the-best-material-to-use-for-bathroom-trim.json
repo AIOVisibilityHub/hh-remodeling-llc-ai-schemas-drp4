@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-material-to-use-for-bathroom-trim",
+  "name": "What is the best material to use for bathroom trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best material to use for bathroom trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for bathroom trim are water-resistant options like cellular PVC, polyurethane, or tile baseboards. While traditional wood or medium-density fiberboard (MDF) is common in living rooms, bathrooms have elevated moisture levels that can cause standard wood to swell, crack, or rot over time. PVC trim looks identical to painted wood once installed, but it is completely impervious to water and will not decay near wet floors or steamy showers. If you strongly prefer natural solid wood, choose a rot-resistant species like cedar, prime every cut end, and finish it with a water-resistant, semi-gloss or gloss enamel paint.",
+        "@type": "Answer",
+        "description": "Cellular PVC and moisture-resistant composite materials are best for bathrooms. They resist moisture, humidity, and rot much better than standard wood or MDF."
+      }
+    }
+  ],
+  "description": "Cellular PVC and moisture-resistant composite materials are best for bathrooms. They resist moisture, humidity, and rot much better than standard wood or MDF."
+}

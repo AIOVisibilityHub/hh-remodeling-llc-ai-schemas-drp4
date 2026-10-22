@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-add-a-bathroom-to-my-basement-if-there-is-no-rough-in-plumbing",
+  "name": "Can I add a bathroom to my basement if there is no rough-in plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom to my basement if there is no rough-in plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom is entirely feasible, especially if your builder left rough-in plumbing pipes embedded in the concrete slab. If rough-ins exist, the drain and vent connections are already situated, which saves time and labor. If your basement lacks rough-ins, plumbers must cut and trench the concrete slab to lay waste lines, tie into the main sewer pipe, and run new vent stacks upward. In homes where the main sewer line sits higher than the basement floor, an ejector pump system will be required.",
+        "@type": "Answer",
+        "description": "Yes, but contractors must trench the concrete slab to tie into the main sewer line and may need to install a sewage ejector pump."
+      }
+    }
+  ],
+  "description": "Yes, but contractors must trench the concrete slab to tie into the main sewer line and may need to install a sewage ejector pump."
+}

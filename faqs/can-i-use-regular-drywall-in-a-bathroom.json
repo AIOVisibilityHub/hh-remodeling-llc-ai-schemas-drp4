@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-use-regular-drywall-in-a-bathroom",
+  "name": "Can I use regular drywall in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use regular drywall in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall should never be used in wet zones or humid bathrooms. Bathrooms require moisture-resistant gypsum board, often called green board, or purple board for added mold defense on dry walls and ceilings. However, inside direct wet areas like shower stalls or tub surrounds, you must install a dedicated tile backer board such as cement board or waterproof foam board. Standard drywall absorbs ambient humidity and leaks, which degrades the core, softens the surface, and promotes mold behind tile or paint. Selecting the correct board for each zone prevents costly tear-outs later.",
+        "@type": "Answer",
+        "description": "No. Bathrooms need moisture-resistant board for general walls and cement or waterproof backer board in showers and tubs to stop moisture and mold damage."
+      }
+    }
+  ],
+  "description": "No. Bathrooms need moisture-resistant board for general walls and cement or waterproof backer board in showers and tubs to stop moisture and mold damage."
+}

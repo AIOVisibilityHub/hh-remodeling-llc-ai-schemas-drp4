@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-the-installers-arrive",
+  "name": "How should I prepare my bathroom before the installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before the installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the installation crew arrives, clear all personal toiletries, cleaning supplies, and baskets completely off the vanity and out of the lower cabinets. Plumbers and installers need full physical access underneath the vanity to secure mounting clips, hook up brackets, and align waste lines. You should also ensure your new sinks, faucets, and drain kits are on-site in their original packaging so installers can verify exact hole placement and cutout dimensions before setting the slab.",
+        "@type": "Answer",
+        "description": "Empty the vanity countertop and all interior cabinets, secure pets, and have your new sink, faucet, and plumbing hardware unboxed and ready on-site."
+      }
+    }
+  ],
+  "description": "Empty the vanity countertop and all interior cabinets, secure pets, and have your new sink, faucet, and plumbing hardware unboxed and ready on-site."
+}

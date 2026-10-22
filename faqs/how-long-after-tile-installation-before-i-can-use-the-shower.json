@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-after-tile-installation-before-i-can-use-the-shower",
+  "name": "How long after tile installation before I can use the shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long after tile installation before I can use the shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should wait at least 48 to 72 hours after the final step of installation before using your new shower. While thin-set mortar cures within 24 hours, the grout and silicone sealants require additional time to fully harden and establish chemical water resistance. Introducing hot water, steam, and soaps too quickly can wash out uncured grout pigments, soften silicone caulk around corners, and compromise the seal. Following the full curing window ensures the installation remains sealed against moisture intrusion for years to come.",
+        "@type": "Answer",
+        "description": "Wait 48 to 72 hours before running the shower. This downtime allows the mortar, grout, and perimeter silicone caulk to fully cure and resist water."
+      }
+    }
+  ],
+  "description": "Wait 48 to 72 hours before running the shower. This downtime allows the mortar, grout, and perimeter silicone caulk to fully cure and resist water."
+}

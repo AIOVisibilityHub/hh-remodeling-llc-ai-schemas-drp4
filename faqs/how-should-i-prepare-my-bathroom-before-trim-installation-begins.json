@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-trim-installation-begins",
+  "name": "How should I prepare my bathroom before trim installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before trim installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your installer arrives, clear out all countertop items, toiletries, floor rugs, and hanging towels. Ensure clear access around the vanity, toilet, and shower enclosure so technicians have space to position ladders, levels, and tools. If baseboards are being replaced, check for any existing plumbing leaks behind the toilet or around the tub, as water issues should be repaired before installing fresh trim. Additionally, keep bathroom exhaust fans turned off during installation to minimize airborne dust settling on fresh caulk or touch-up paint.",
+        "@type": "Answer",
+        "description": "Remove all personal items, clear floor space, check for hidden plumbing leaks, and ensure open access to all walls and corners for the installation crew."
+      }
+    }
+  ],
+  "description": "Remove all personal items, clear floor space, check for hidden plumbing leaks, and ensure open access to all walls and corners for the installation crew."
+}

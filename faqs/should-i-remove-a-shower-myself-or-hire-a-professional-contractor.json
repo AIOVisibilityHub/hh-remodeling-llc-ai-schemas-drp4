@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-remove-a-shower-myself-or-hire-a-professional-contractor",
+  "name": "Should I remove a shower myself or hire a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remove a shower myself or hire a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY removal saves upfront labor expenses but carries significant practical tradeoffs, particularly regarding hidden damage and plumbing risks. Demolishing tile over cement board or wire mesh generates heavy debris, silica dust, and sharp edges that require protective gear and safe disposal. More critically, accidental damage to concealed water supply lines, vent pipes, or drain traps can trigger costly leaks. Professional contractors bring containment barriers to control dust, proper demolition tools, and restoration experience to evaluate structural framing and manage concealed water rot safely.",
+        "@type": "Answer",
+        "description": "DIY saves labor costs but risks plumbing breaks and dust contamination. Professionals handle heavy debris, protect supply lines, and address structural rot properly."
+      }
+    }
+  ],
+  "description": "DIY saves labor costs but risks plumbing breaks and dust contamination. Professionals handle heavy debris, protect supply lines, and address structural rot prop"
+}

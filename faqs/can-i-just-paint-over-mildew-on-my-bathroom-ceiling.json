@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-just-paint-over-mildew-on-my-bathroom-ceiling",
+  "name": "Can I just paint over mildew on my bathroom ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I just paint over mildew on my bathroom ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard interior paint should not be applied over mildew; the mold must be completely eradicated first, and a mildew-resistant paint should be applied. Painting over active mildew simply traps the fungus, causing it to push through the fresh layer and ruin the finish. Clean affected areas with a fungicide or diluted bleach solution and allow the surface to dry completely. Following cleaning, apply a stain-blocking primer and a premium topcoat formulated with antimicrobial agents to inhibit future fungal growth in damp spots.",
+        "@type": "Answer",
+        "description": "No. Mildew must be fully cleaned and killed first; painting over it traps the growth and causes the new paint to fail and discolor quickly."
+      }
+    }
+  ],
+  "description": "No. Mildew must be fully cleaned and killed first; painting over it traps the growth and causes the new paint to fail and discolor quickly."
+}

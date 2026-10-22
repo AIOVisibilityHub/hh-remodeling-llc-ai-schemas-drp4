@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-prime-bathroom-walls-before-painting",
+  "name": "Do I need to prime bathroom walls before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime bathroom walls before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primer is necessary if you are painting over bare drywall, covering water stains, patching holes, or transitioning from oil-based to latex paint. In high-humidity environments, a moisture-blocking, stain-inhibiting primer seals the surface and prevents previous moisture rings from bleeding through your topcoat. If your bathroom walls are already painted with intact latex paint in a similar color, a self-priming bathroom paint may suffice. However, priming is always recommended around showers, vents, and baseboards where peeling or steam damage commonly begins.",
+        "@type": "Answer",
+        "description": "Yes, you need primer over bare drywall, patched areas, water stains, or when switching paint types to ensure moisture resistance and strong adhesion."
+      }
+    }
+  ],
+  "description": "Yes, you need primer over bare drywall, patched areas, water stains, or when switching paint types to ensure moisture resistance and strong adhesion."
+}

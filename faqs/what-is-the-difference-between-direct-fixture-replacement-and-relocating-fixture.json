@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-direct-fixture-replacement-and-relocating-fixture",
+  "name": "What is the difference between direct fixture replacement and relocating fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between direct fixture replacement and relocating fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a fixture in the exact same footprint only involves disconnecting old lines and connecting the new unit to existing rough plumbing. Moving a fixture requires opening walls or subfloors to extend supply lines, re-sloping waste drain lines for proper gravity flow, and adjusting atmospheric vent stacks. For toilets, moving location requires maintaining a precise downward slope toward the main soil stack, which can be limited by floor joist direction. A direct replacement minimizes drywall repairs and keeps labor timelines short.",
+        "@type": "Answer",
+        "description": "Direct replacement connects to existing plumbing in place. Relocating requires opening floors or walls to reroute supply, drain, and vent piping."
+      }
+    }
+  ],
+  "description": "Direct replacement connects to existing plumbing in place. Relocating requires opening floors or walls to reroute supply, drain, and vent piping."
+}

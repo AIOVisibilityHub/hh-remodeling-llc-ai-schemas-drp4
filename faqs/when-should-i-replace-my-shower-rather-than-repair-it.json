@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-my-shower-rather-than-repair-it",
+  "name": "When should I replace my shower rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my shower rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your shower if you notice soft or spongy flooring around the base, persistent leaks behind walls, cracked tiles with damaged backing, or mold that cannot be eradicated. Chronic water issues often indicate that the underlying pan liner or waterproofing has failed, which can rot structural joists. Upgrading is also common when homeowners need improved safety, such as low-threshold or barrier-free entry, or when updating an outdated layout in older Denver and Centennial area homes to improve functionality and property value.",
+        "@type": "Answer",
+        "description": "Replace your shower if you experience persistent leaks, a cracked pan, failing waterproofing behind tiles, structural subfloor damage, or need safer accessibility."
+      }
+    }
+  ],
+  "description": "Replace your shower if you experience persistent leaks, a cracked pan, failing waterproofing behind tiles, structural subfloor damage, or need safer accessibili"
+}

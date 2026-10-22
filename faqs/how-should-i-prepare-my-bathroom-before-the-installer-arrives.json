@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-the-installer-arrives",
+  "name": "How should I prepare my bathroom before the installer arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before the installer arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Begin by shutting off the dedicated water valves under the sink or turning off the home main supply if the local valves are corroded or leaking. Disconnect the water supply tubes, remove the P-trap, and clear the cabinet interior. Carefully cut through existing caulk beads between the countertop, backsplash, and drywall using a utility knife to avoid tearing the wall paper face. Unscrew the cabinet from the wall studs, inspect the exposed drywall and flooring for moisture stains, and verify that the wall framing is level and structurally sound before setting the new cabinet.",
+        "@type": "Answer",
+        "description": "Clear the cabinet, shut off water valves, ensure clear floor pathways, and note that caulk will be cut away to avoid damaging the drywall during removal."
+      }
+    }
+  ],
+  "description": "Clear the cabinet, shut off water valves, ensure clear floor pathways, and note that caulk will be cut away to avoid damaging the drywall during removal."
+}

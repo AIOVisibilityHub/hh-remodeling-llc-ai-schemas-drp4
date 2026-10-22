@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-checked-behind-the-walls-after-a-shower-is-removed",
+  "name": "What needs to be checked behind the walls after a shower is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be checked behind the walls after a shower is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should inspect the structural framing and subfloor thoroughly once the old shower is removed. Shower tear-outs frequently reveal concealed moisture issues, including deteriorated wall studs, rotted subfloors, rusted drain flanges, or mold growth from slow leaks. Before building a new shower or installing a tub, assess the plumbing supply lines and drain locations to see if pipe configurations need updates. Resolving these structural and plumbing issues while the wall cavities are fully exposed prevents costly failures later.",
+        "@type": "Answer",
+        "description": "Once the shower is out, inspect the wall framing, subfloor, plumbing lines, and drain assembly for leaks, rot, or mold before installing anything new."
+      }
+    }
+  ],
+  "description": "Once the shower is out, inspect the wall framing, subfloor, plumbing lines, and drain assembly for leaks, rot, or mold before installing anything new."
+}

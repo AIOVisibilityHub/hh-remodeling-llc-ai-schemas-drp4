@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-typical-phases-of-a-basement-remodeling-project",
+  "name": "What are the typical phases of a basement remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical phases of a basement remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basement remodel typically progresses through distinct phases: space planning and architectural design, permit application, framing, mechanical rough-ins (HVAC, plumbing, electrical), municipal rough inspections, insulation, drywall hanging and taping, interior trim, painting, flooring installation, and final fixture trim-out. The final stage includes punch-list touch-ups and closing out local building permits. Understanding these milestones helps homeowners plan around daily work crews, dust barriers, and utility shut-offs.",
+        "@type": "Answer",
+        "description": "The process moves from design and permitting through framing, mechanical rough-ins, inspections, insulation, drywall, finishes, and final punch-list review."
+      }
+    }
+  ],
+  "description": "The process moves from design and permitting through framing, mechanical rough-ins, inspections, insulation, drywall, finishes, and final punch-list review."
+}

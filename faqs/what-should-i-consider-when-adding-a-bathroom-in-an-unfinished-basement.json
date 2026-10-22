@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-consider-when-adding-a-bathroom-in-an-unfinished-basement",
+  "name": "What should I consider when adding a bathroom in an unfinished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when adding a bathroom in an unfinished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom in an unfinished basement is often practical, but trenching concrete for below-grade drainage is a crucial trade-off to consider. Because basement fixtures sit at or below your sewer exit point, wastewater lines must be pitched correctly. If your main sewer lateral is higher than the basement slab, you may need a sewage ejector pump system rather than relying strictly on gravity drainage. However, unfinished ceilings make running water supply lines and dedicated ventilation ducts much simpler than retrofitting upper levels.",
+        "@type": "Answer",
+        "description": "You must evaluate sewer line depth—which may require concrete trenching or an ejector pump—along with exhaust ducting paths and access to overhead water supply lines."
+      }
+    }
+  ],
+  "description": "You must evaluate sewer line depth—which may require concrete trenching or an ejector pump—along with exhaust ducting paths and access to overhead water supply"
+}

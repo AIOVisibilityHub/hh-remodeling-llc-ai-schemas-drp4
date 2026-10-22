@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-shower-tile-instead-of-repairing-it",
+  "name": "When do I need to replace my shower tile instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my shower tile instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Persistent cracked grout, loose or hollow-sounding tiles, persistent musty odors, and visible mold along perimeter caulking indicate it is time for replacement. When grout crumbles or tiles separate from the wall, water consistently penetrates behind the installation. If walls feel soft or springy when pressed, water has likely rotted the wood framing or drywall backing. Surface repairs cannot fix water trapped behind the assembly. Completely tearing out the old shower and installing fresh backing, modern waterproofing, and new tile resolves structural deterioration before mold spreads to adjoining rooms.",
+        "@type": "Answer",
+        "description": "Replace your shower tile if you notice spongy walls, loose tiles, crumbling grout, or recurring mold, which indicate water damage behind the wall."
+      }
+    }
+  ],
+  "description": "Replace your shower tile if you notice spongy walls, loose tiles, crumbling grout, or recurring mold, which indicate water damage behind the wall."
+}

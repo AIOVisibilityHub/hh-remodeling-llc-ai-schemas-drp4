@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-permits-and-an-egress-window-to-finish-my-basement-in-the-denver-area",
+  "name": "Do I need permits and an egress window to finish my basement in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits and an egress window to finish my basement in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes across the Denver metro area, including Centennial and Parker, require finished basements to have building, electrical, and plumbing permits. Adding a bedroom legally requires an egress window of specific minimum dimensions so occupants can safely escape during an emergency. Working without permits can cause delays when selling your home and may complicate insurance claims if water or fire damage occurs. A qualified general contractor handles permit submittals and schedules the necessary rough-in and final inspections with your local building department.",
+        "@type": "Answer",
+        "description": "Yes, finishing a basement requires local building permits, and any added bedroom legally requires an approved egress window for emergency exit."
+      }
+    }
+  ],
+  "description": "Yes, finishing a basement requires local building permits, and any added bedroom legally requires an approved egress window for emergency exit."
+}
