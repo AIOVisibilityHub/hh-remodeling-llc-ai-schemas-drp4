@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-for-an-initial-kitchen-design-consultation",
+  "name": "How should I prepare for an initial kitchen design consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for an initial kitchen design consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a remodeling contractor, gather rough dimensions or photos of your current space, an inventory of functional problems you want to fix, and visual inspiration examples. Establish an approximate budget range to guide design choices realistically. You should also consider your daily cooking habits, such as whether multiple cooks share the room or if you need specialty prep areas, which helps the contractor plan an ergonomic and efficient layout.",
+        "@type": "Answer",
+        "description": "Collect photos of your current space, outline functional pain points, gather style inspiration, and determine a realistic budget range before your first meeting."
+      }
+    }
+  ],
+  "description": "Collect photos of your current space, outline functional pain points, gather style inspiration, and determine a realistic budget range before your first meeting"
+}

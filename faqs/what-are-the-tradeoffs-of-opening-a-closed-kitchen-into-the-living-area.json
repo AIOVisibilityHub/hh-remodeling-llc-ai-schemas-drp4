@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-tradeoffs-of-opening-a-closed-kitchen-into-the-living-area",
+  "name": "What are the tradeoffs of opening a closed kitchen into the living area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tradeoffs of opening a closed kitchen into the living area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opening up a kitchen to an adjacent dining or living room creates better sightlines, increases natural light, and allows easier conversation while cooking. The tradeoff is a substantial loss of upper wall cabinet space, which reduces closed pantry and dish storage. Open plans also let cooking noise and odors drift freely into main living zones. To offset lost wall cabinets, homeowners often install large storage islands with deep drawers, build ceiling-height perimeter pantries, or incorporate high-CFM range hoods to manage cooking steam and grease.",
+        "@type": "Answer",
+        "description": "You gain natural light, open sightlines, and better entertaining space, but you lose upper cabinet wall storage and allow cooking noise and odors to carry into living areas."
+      }
+    }
+  ],
+  "description": "You gain natural light, open sightlines, and better entertaining space, but you lose upper cabinet wall storage and allow cooking noise and odors to carry into"
+}

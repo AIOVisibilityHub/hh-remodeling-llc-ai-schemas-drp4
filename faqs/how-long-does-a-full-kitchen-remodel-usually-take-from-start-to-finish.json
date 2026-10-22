@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-full-kitchen-remodel-usually-take-from-start-to-finish",
+  "name": "How long does a full kitchen remodel usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full kitchen remodel usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most full kitchen remodels take between six to twelve weeks of active construction once site work begins. The total timeline expands if you include the pre-construction phase, which involves design drafting, material selections, and local building permits. Factors that extend construction duration include moving gas lines, relocating load-bearing walls, or waiting on custom cabinetry with extended lead times. Having all appliances, fixtures, and tile selected and ordered before demolition helps prevent mid-project delays and keeps subcontractors on schedule.",
+        "@type": "Answer",
+        "description": "Active construction typically takes six to twelve weeks, though planning, permitting, and material procurement add extra time before demolition starts."
+      }
+    }
+  ],
+  "description": "Active construction typically takes six to twelve weeks, though planning, permitting, and material procurement add extra time before demolition starts."
+}

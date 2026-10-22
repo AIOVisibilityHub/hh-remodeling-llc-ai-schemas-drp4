@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-main-stages-of-the-kitchen-remodeling-process",
+  "name": "What are the main stages of the kitchen remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main stages of the kitchen remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel begins with an initial consultation, site measurements, and conceptual design planning. Once you approve the layout and finalize material selections, orders are placed for long-lead items. Construction starts with demolition and progress through structural framing, plumbing, mechanical, and electrical rough-ins. After passing rough inspections, the crew installs drywall, flooring, cabinets, countertops, and backsplashes. The project wraps up with appliance installations, plumbing trim, final inspections, and a comprehensive punch-list walkthrough.",
+        "@type": "Answer",
+        "description": "The process moves from design and permitting to demolition, rough-in trades, drywall, cabinet and counter installation, finish trim, and final inspections."
+      }
+    }
+  ],
+  "description": "The process moves from design and permitting to demolition, rough-in trades, drywall, cabinet and counter installation, finish trim, and final inspections."
+}

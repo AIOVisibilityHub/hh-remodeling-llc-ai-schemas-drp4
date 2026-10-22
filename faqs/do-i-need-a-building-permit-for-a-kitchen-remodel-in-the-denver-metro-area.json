@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-kitchen-remodel-in-the-denver-metro-area",
+  "name": "Do I need a building permit for a kitchen remodel in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a kitchen remodel in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen remodels require permits if the work involves structural changes, new electrical circuits, or moving plumbing and gas lines. Simple finish updates like replacing laminate with quartz countertops, repainting walls, or changing cabinet knobs without altering mechanical systems usually do not require permits. In communities like Denver, Centennial, and Parker, local building departments enforce distinct code compliance requirements. A licensed contractor determines which scopes trigger plan reviews and schedules required rough and final trade inspections.",
+        "@type": "Answer",
+        "description": "Permits are generally required if your remodel moves walls, alters plumbing, adds electrical circuits, or adjusts gas lines, but cosmetic swaps do not need them."
+      }
+    }
+  ],
+  "description": "Permits are generally required if your remodel moves walls, alters plumbing, adds electrical circuits, or adjusts gas lines, but cosmetic swaps do not need them"
+}

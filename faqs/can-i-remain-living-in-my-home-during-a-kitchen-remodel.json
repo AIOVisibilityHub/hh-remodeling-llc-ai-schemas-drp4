@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remain-living-in-my-home-during-a-kitchen-remodel",
+  "name": "Can I remain living in my home during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remain living in my home during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home is feasible during construction, but you will lose access to your primary cooking area, sink, and dishwasher for several weeks. Homeowners who stay typically set up a temporary kitchenette in another room using a microwave, hot plate, mini-fridge, and access to a secondary sink. You will need to manage dust, noise, and regular trade traffic during working hours. Setting up your secondary prep area and packing away non-essential kitchenware beforehand keeps daily routines manageable.",
+        "@type": "Answer",
+        "description": "Yes, but you will need a temporary kitchenette elsewhere in the house. Preparing for dust, noise, and temporary loss of running water in the kitchen is essential."
+      }
+    }
+  ],
+  "description": "Yes, but you will need a temporary kitchenette elsewhere in the house. Preparing for dust, noise, and temporary loss of running water in the kitchen is essentia"
+}

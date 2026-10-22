@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-have-the-biggest-impact-on-the-total-cost-of-a-kitchen-remodel",
+  "name": "What factors have the biggest impact on the total cost of a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors have the biggest impact on the total cost of a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a full kitchen remodel depends heavily on the room size, whether structural walls are removed, and the grade of materials chosen. Major cost drivers include custom or semi-custom cabinetry, stone countertops, updated appliances, and mechanical trades like plumbing and electrical. Keeping your existing kitchen layout saves significant labor and rough-in costs, whereas moving sinks, ranges, or refrigerators requires running new supply, drain, and gas lines. Establishing your must-have features early helps balance high-end finishes against structural modifications within your budget.",
+        "@type": "Answer",
+        "description": "Cabinetry selections, layout changes involving plumbing or gas lines, structural wall alterations, and appliance choices have the greatest impact on total costs."
+      }
+    }
+  ],
+  "description": "Cabinetry selections, layout changes involving plumbing or gas lines, structural wall alterations, and appliance choices have the greatest impact on total costs"
+}

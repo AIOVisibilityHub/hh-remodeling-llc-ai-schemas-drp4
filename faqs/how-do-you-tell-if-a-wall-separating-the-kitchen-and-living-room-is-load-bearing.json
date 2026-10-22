@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-tell-if-a-wall-separating-the-kitchen-and-living-room-is-load-bearing",
+  "name": "How do you tell if a wall separating the kitchen and living room is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you tell if a wall separating the kitchen and living room is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a kitchen wall is load-bearing requires inspecting the framing orientation in your attic, crawlspace, or basement relative to the wall. Load-bearing walls typically run perpendicular to the ceiling joists or floor joists above and often align directly over supporting beams or foundation posts below. Non-load-bearing partition walls generally run parallel to joists. Removing a load-bearing wall to create an open-concept kitchen requires installing a temporary support wall and a properly sized structural beam, which involves engineering calculations and structural plan approval during permitting.",
+        "@type": "Answer",
+        "description": "A wall is likely load-bearing if it runs perpendicular to the ceiling joists above or sits directly over basement support posts and beams."
+      }
+    }
+  ],
+  "description": "A wall is likely load-bearing if it runs perpendicular to the ceiling joists above or sits directly over basement support posts and beams."
+}

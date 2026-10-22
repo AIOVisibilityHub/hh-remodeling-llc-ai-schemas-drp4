@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-adding-a-kitchen-island-or-a-peninsula",
+  "name": "How do I choose between adding a kitchen island or a peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between adding a kitchen island or a peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen island requires a wider room footprint, while a peninsula works better in narrow spaces or L-shaped configurations. To comfortably fit an island, you need at least 36 to 42 inches of clear aisle space around all four sides for walking and opening appliance doors, requiring a room width of at least 13 to 14 feet. A peninsula connects to an existing wall or cabinet line, eliminating one walkway to save space. Choosing an island offers flexible multi-sided seating and traffic flow, but a peninsula provides continuous counter space and preserves walkways in compact kitchens.",
+        "@type": "Answer",
+        "description": "Choose an island if you have at least 36 to 42 inches of clearance on all sides; choose a peninsula if your room is narrower and needs continuous counter workspace."
+      }
+    }
+  ],
+  "description": "Choose an island if you have at least 36 to 42 inches of clearance on all sides; choose a peninsula if your room is narrower and needs continuous counter worksp"
+}

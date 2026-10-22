@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-select-my-appliances-during-a-kitchen-renovation",
+  "name": "When should I select my appliances during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I select my appliances during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should finalize your layout and major appliance selections before purchasing cabinets. Cabinet orders depend entirely on exact appliance specifications, including width, depth, door swing clearances, and ventilation requirements. A 36-inch professional range, counter-depth refrigerator, or panel-ready dishwasher requires precise cutouts and cabinet spacing. Changing an appliance model after cabinets are fabricated often leads to expensive delays, fit issues, or reordering cabinet components on the jobsite.",
+        "@type": "Answer",
+        "description": "Choose your appliances before ordering cabinets. Exact appliance dimensions and hookup requirements dictate cabinet sizing and prevent costly jobsite delays."
+      }
+    }
+  ],
+  "description": "Choose your appliances before ordering cabinets. Exact appliance dimensions and hookup requirements dictate cabinet sizing and prevent costly jobsite delays."
+}

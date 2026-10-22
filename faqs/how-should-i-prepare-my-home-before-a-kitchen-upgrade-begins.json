@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-a-kitchen-upgrade-begins",
+  "name": "How should I prepare my home before a kitchen upgrade begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before a kitchen upgrade begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare effectively, order all major fixtures and appliances early, secure permits, and establish a temporary cooking space. Delivery delays on sinks, faucets, or ranges can stall an entire installation schedule, so having equipment on site or confirmed prevents costly downtime. Clear out all upper and lower cabinets, pantry shelves, and existing counters before the start date. Setting up a temporary kitchen area in an adjacent dining room or basement—equipped with a microwave, toaster oven, mini-fridge, and water supply access—keeps daily life manageable while construction takes place.",
+        "@type": "Answer",
+        "description": "Clear out all cabinets, confirm fixture and appliance deliveries, and set up a temporary cooking station with basic appliances in an adjoining room."
+      }
+    }
+  ],
+  "description": "Clear out all cabinets, confirm fixture and appliance deliveries, and set up a temporary cooking station with basic appliances in an adjoining room."
+}

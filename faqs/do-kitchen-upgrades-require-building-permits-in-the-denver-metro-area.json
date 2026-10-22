@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-kitchen-upgrades-require-building-permits-in-the-denver-metro-area",
+  "name": "Do kitchen upgrades require building permits in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do kitchen upgrades require building permits in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Colorado municipalities like Denver, Centennial, and Parker, cosmetic kitchen upgrades generally do not require a permit, but structural, electrical, or plumbing alterations do. Replacing cabinet fronts, installing new countertops, or laying fresh floor tile without moving lines usually skips permitting. However, if your upgrade involves adding dedicated appliance circuits, relocating sink drainage, moving gas ranges, or removing load-bearing walls, local building departments require permits and trade inspections. Checking your specific city or county building division requirements before finalizing work scopes ensures all trade work passes mandatory safety code inspections.",
+        "@type": "Answer",
+        "description": "Cosmetic updates like new counters or cabinet refacing do not need permits, but moving plumbing, adding electrical circuits, or altering walls requires local permits."
+      }
+    }
+  ],
+  "description": "Cosmetic updates like new counters or cabinet refacing do not need permits, but moving plumbing, adding electrical circuits, or altering walls requires local pe"
+}

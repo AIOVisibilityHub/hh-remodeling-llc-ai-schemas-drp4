@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-reface-my-existing-cabinets-or-replace-them-entirely",
+  "name": "Should I reface my existing cabinets or replace them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I reface my existing cabinets or replace them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing works well if your cabinet boxes are structurally sound, level, and the current kitchen layout meets your daily needs. Refacing replaces cabinet doors, drawer fronts, and hardware while applying matching veneer to the frames, saving time and money. However, if the current cabinet boxes are warped, show water damage, or you plan to alter your work triangle and add an island, full replacement is necessary to achieve your intended design.",
+        "@type": "Answer",
+        "description": "Keep your cabinet boxes and reface if they are structurally solid and the layout works; replace them entirely if you want a new layout or the wood has degraded."
+      }
+    }
+  ],
+  "description": "Keep your cabinet boxes and reface if they are structurally solid and the layout works; replace them entirely if you want a new layout or the wood has degraded."
+}

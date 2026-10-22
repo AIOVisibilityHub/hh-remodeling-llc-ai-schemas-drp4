@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-kitchen-upgrade-project-take-to-complete",
+  "name": "How long does a typical kitchen upgrade project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen upgrade project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most partial kitchen upgrades take between one and four weeks, whereas extensive renovations take six to ten weeks. The duration depends heavily on material lead times, fixture delivery, and scope. Simple tasks like installing new quartz or granite countertops typically require a template visit followed by one to two weeks of fabrication before single-day installation. In contrast, cabinet refinishing or full cabinet replacement, tile backsplashes, and under-cabinet electrical additions extend the schedule. Gathering all fixtures, appliances, and materials before work begins prevents mid-project downtime and keeps contractor schedules predictable.",
+        "@type": "Answer",
+        "description": "Most kitchen upgrades take one to four weeks for partial updates, while full kitchen overhauls typically take six to ten weeks depending on material lead times."
+      }
+    }
+  ],
+  "description": "Most kitchen upgrades take one to four weeks for partial updates, while full kitchen overhauls typically take six to ten weeks depending on material lead times."
+}

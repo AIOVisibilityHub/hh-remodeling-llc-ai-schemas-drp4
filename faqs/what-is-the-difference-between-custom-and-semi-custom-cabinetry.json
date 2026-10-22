@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-custom-and-semi-custom-cabinetry",
+  "name": "What is the difference between custom and semi-custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and semi-custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets are built to your exact kitchen dimensions down to the fraction of an inch, while semi-custom cabinets use standard box sizes with customizable door styles and finishes. Custom cabinetry accommodates unusual wall lengths, angled ceilings, and specialized inserts without needing large filler strips, but it comes with higher costs and longer manufacturing lead times. Semi-custom lines provide a practical middle ground, offering durable construction, soft-close hardware, and popular finishes at a lower price point and faster delivery schedule. Your ceiling height, architectural quirks, and budget determine which option fits best.",
+        "@type": "Answer",
+        "description": "Custom cabinets offer fully tailored sizing and unique details for any space, while semi-custom options use standard frame sizes with flexible finish and accessory choices."
+      }
+    }
+  ],
+  "description": "Custom cabinets offer fully tailored sizing and unique details for any space, while semi-custom options use standard frame sizes with flexible finish and access"
+}

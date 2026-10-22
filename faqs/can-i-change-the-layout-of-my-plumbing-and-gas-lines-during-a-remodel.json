@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-the-layout-of-my-plumbing-and-gas-lines-during-a-remodel",
+  "name": "Can I change the layout of my plumbing and gas lines during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout of my plumbing and gas lines during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating a sink, dishwasher, or range adds significant design flexibility, but it increases labor and material costs. Moving a sink requires extending water supply lines and modifying drain and vent stacks beneath floors or inside walls, which can be challenging over finished basements or concrete slabs. Moving a gas range involves running pipe extensions and ensuring exterior ventilation ducts meet local safety codes. If your budget is tight, retaining your rough utility locations keeps expenses down.",
+        "@type": "Answer",
+        "description": "Yes, but relocating plumbing stacks and gas lines increases labor, requires wall or subfloor access, and triggers local permit inspections."
+      }
+    }
+  ],
+  "description": "Yes, but relocating plumbing stacks and gas lines increases labor, requires wall or subfloor access, and triggers local permit inspections."
+}

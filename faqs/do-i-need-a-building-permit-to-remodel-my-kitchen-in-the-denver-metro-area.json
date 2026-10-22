@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-remodel-my-kitchen-in-the-denver-metro-area",
+  "name": "Do I need a building permit to remodel my kitchen in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel my kitchen in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building permits are generally required across the Denver metro area, including Centennial and Parker, whenever you move plumbing lines, add electrical circuits, or alter framing. Simple cosmetic upgrades like swapping countertops, painting, or replacing existing fixtures in identical locations typically do not require permits. When permits are necessary, project plans must be submitted to the local building department, and required rough and final inspections must pass before walls are closed and the project is finalized.",
+        "@type": "Answer",
+        "description": "Permits are required for moving plumbing, electrical, or structural walls in Denver, Centennial, and nearby cities. Surface updates generally do not require permits."
+      }
+    }
+  ],
+  "description": "Permits are required for moving plumbing, electrical, or structural walls in Denver, Centennial, and nearby cities. Surface updates generally do not require per"
+}

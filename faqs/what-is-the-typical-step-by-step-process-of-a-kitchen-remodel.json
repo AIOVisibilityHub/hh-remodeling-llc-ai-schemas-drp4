@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-step-by-step-process-of-a-kitchen-remodel",
+  "name": "What is the typical step-by-step process of a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical step-by-step process of a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive kitchen renovation follows a distinct sequence to maintain trade efficiency. The process starts with planning, design, and securing permits, followed by site protection and selective demolition. Next, trades perform rough framing, plumbing, mechanical, and electrical rough-ins, which must pass required inspections. Once walls are closed with drywall and painted, contractors install cabinetry, measure and fit countertops, set tile backsplashes, and install flooring. Final steps include hooking up appliances, plumbing trim, electrical fixtures, and completing the punch list.",
+        "@type": "Answer",
+        "description": "Renovations proceed through design, demolition, rough plumbing and electrical, drywall, cabinetry, countertops, flooring, and final fixture installation."
+      }
+    }
+  ],
+  "description": "Renovations proceed through design, demolition, rough plumbing and electrical, drywall, cabinetry, countertops, flooring, and final fixture installation."
+}

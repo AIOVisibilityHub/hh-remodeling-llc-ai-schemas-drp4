@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-change-my-kitchen-layout-in-the-denver-metro-area",
+  "name": "Do I need a building permit to change my kitchen layout in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to change my kitchen layout in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel that alters walls or moves plumbing and electrical lines typically requires building permits from your local municipal building department, such as in Denver or Centennial. In contrast, replacing cabinets, countertops, and appliances in their exact existing footprint usually does not require structural permits. If you plan to remove a partition wall, add dedicated circuits for a microwave or dishwasher, or relocate a sink, your contractor must pull trade and building permits and schedule rough-in and final inspections to comply with local building codes.",
+        "@type": "Answer",
+        "description": "Yes, moving walls, plumbing lines, or electrical circuits requires municipal building permits and inspections, whereas replacing finishes in the same footprint generally does not."
+      }
+    }
+  ],
+  "description": "Yes, moving walls, plumbing lines, or electrical circuits requires municipal building permits and inspections, whereas replacing finishes in the same footprint"
+}

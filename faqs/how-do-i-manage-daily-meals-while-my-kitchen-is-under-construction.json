@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-manage-daily-meals-while-my-kitchen-is-under-construction",
+  "name": "How do I manage daily meals while my kitchen is under construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I manage daily meals while my kitchen is under construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Setting up an alternative cooking station keeps your household functional during construction. Move your microwave, coffee maker, and a toaster oven or electric skillet to an adjacent room with safe electrical capacity, such as a dining room or basement wet bar. Set aside paper plates and disposables, or designate a bathroom or utility sink for washing basic dishes. Relocate your refrigerator nearby before demolition begins so your family maintains easy access to fresh food throughout the remodel.",
+        "@type": "Answer",
+        "description": "Set up a temporary meal station in an adjacent room with a microwave, mini-fridge, and basic essentials to keep your household running during demolition."
+      }
+    }
+  ],
+  "description": "Set up a temporary meal station in an adjacent room with a microwave, mini-fridge, and basic essentials to keep your household running during demolition."
+}

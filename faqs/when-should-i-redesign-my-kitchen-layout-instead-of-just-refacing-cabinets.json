@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-redesign-my-kitchen-layout-instead-of-just-refacing-cabinets",
+  "name": "When should I redesign my kitchen layout instead of just refacing cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I redesign my kitchen layout instead of just refacing cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your layout needs redesigning include severe traffic bottlenecks, inadequate prep space between the sink and stove, and doors hitting each other when opened simultaneously. If multiple people cannot work in the kitchen without bumping into one another, or if your primary food preparation area is separated from the trash and sink, the arrangement is inefficient. Updating the layout rather than merely replacing cabinet doors resolves structural workflow problems, improves natural lighting access, and creates dedicated zones for cooking, cleaning, and food storage.",
+        "@type": "Answer",
+        "description": "Redesign your layout when appliance doors collide, work surfaces between the sink and stove are cramped, or traffic flow creates constant bottlenecks during daily meal prep."
+      }
+    }
+  ],
+  "description": "Redesign your layout when appliance doors collide, work surfaces between the sink and stove are cramped, or traffic flow creates constant bottlenecks during dai"
+}

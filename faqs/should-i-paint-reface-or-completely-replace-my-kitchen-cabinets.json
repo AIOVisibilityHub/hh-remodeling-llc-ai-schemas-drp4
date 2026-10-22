@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-paint-reface-or-completely-replace-my-kitchen-cabinets",
+  "name": "Should I paint, reface, or completely replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint, reface, or completely replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision depends on your cabinet boxes' physical condition, internal construction, and desired kitchen layout. Painting or refacing existing cabinets makes sense if the cabinet frames are solid hardwood or sturdy plywood and you are happy with the current cabinet footprint. This path saves significant budget and shortens project schedules. However, you should replace cabinets if the boxes are sagging, water-damaged, made of failing particle board, or if you need to reconfigure storage with deep drawers, pull-out pantries, or taller upper cabinets.",
+        "@type": "Answer",
+        "description": "Keep and paint or reface sturdy cabinet boxes if your layout works well. Replace them if the frames have structural damage or if you want a new room layout."
+      }
+    }
+  ],
+  "description": "Keep and paint or reface sturdy cabinet boxes if your layout works well. Replace them if the frames have structural damage or if you want a new room layout."
+}

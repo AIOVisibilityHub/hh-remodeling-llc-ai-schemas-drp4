@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-an-electrical-panel-upgrade-during-a-kitchen-remodel",
+  "name": "When do I need an electrical panel upgrade during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an electrical panel upgrade during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should upgrade your electrical panel if your existing service cannot support modern, high-draw kitchen appliances. Today’s induction cooktops, built-in double ovens, microwave drawers, and wine coolers draw substantial amperage. Older homes with 100-amp service often lack open breaker slots or overall capacity to run several large kitchen appliances simultaneously without tripping breakers. Electricians evaluate panel capacity during planning to verify whether a panel upgrade or dedicated 20-amp small-appliance branch circuits are required by current safety codes.",
+        "@type": "Answer",
+        "description": "You need a panel upgrade if your current electrical service cannot handle modern high-draw appliances or lacks open slots for required dedicated circuits."
+      }
+    }
+  ],
+  "description": "You need a panel upgrade if your current electrical service cannot handle modern high-draw appliances or lacks open slots for required dedicated circuits."
+}
