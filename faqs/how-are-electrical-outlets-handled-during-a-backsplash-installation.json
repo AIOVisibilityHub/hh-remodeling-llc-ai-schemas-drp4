@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-electrical-outlets-handled-during-a-backsplash-installation",
+  "name": "How are electrical outlets handled during a backsplash installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are electrical outlets handled during a backsplash installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need box extenders because adding tile and mortar pushes the wall surface forward by a quarter to a half inch. Building codes require electrical junction boxes to sit flush with or within a quarter inch of the finished wall surface to prevent fire hazards and ensure stability. Standard practice involves switching off the circuit breaker, adding non-conductive plastic or metal box extenders, and resecuring the outlets so faceplates mount flat against the new tile.",
+        "@type": "Answer",
+        "description": "Electrical box extenders are installed so outlets and switches sit flush with the new tile surface, complying with safety codes."
+      }
+    }
+  ],
+  "description": "Electrical box extenders are installed so outlets and switches sit flush with the new tile surface, complying with safety codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-kitchen-baseboards-match-the-cabinets-or-the-rest-of-the-house",
+  "name": "Should kitchen baseboards match the cabinets or the rest of the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should kitchen baseboards match the cabinets or the rest of the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards match either the kitchen cabinets or the surrounding architectural room trim, depending on your layout. In open-concept kitchens, matching the baseboards to the adjacent living room trim creates visual flow and makes the entire floor feel connected. However, the cabinet toe-kick molding should match the cabinet finish directly. If you have contrasting kitchen island cabinets, wrapping the island base in matching island trim gives it a freestanding furniture appearance while perimeter walls can match standard home trim.",
+        "@type": "Answer",
+        "description": "Toe-kicks should match your cabinets, while perimeter wall baseboards usually match the rest of your home trim to keep an open-concept flow."
+      }
+    }
+  ],
+  "description": "Toe-kicks should match your cabinets, while perimeter wall baseboards usually match the rest of your home trim to keep an open-concept flow."
+}

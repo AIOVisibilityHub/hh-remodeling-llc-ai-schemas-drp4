@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-damaged-kitchen-door-frame-be-repaired-or-does-it-need-to-be-replaced",
+  "name": "Can a damaged kitchen door frame be repaired, or does it need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a damaged kitchen door frame be repaired, or does it need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A damaged kitchen door frame can be repaired if the issue is limited to surface dents, minor splitting, loose hinge screw holes, or superficial water exposure. However, full replacement becomes necessary when structural wood rot has softened the jamb, the frame has warped out of square, or termite damage is present. In kitchens, repeated moisture from dishwashers, sinks, or exterior patio entries often rots the bottom few inches of the jamb. If more than a third of the wood is compromised, replacing the full jamb assembly provides better long-term stability than patching.",
+        "@type": "Answer",
+        "description": "Minor cracks, loose hinge screws, and superficial dings can be repaired. If wood rot, deep warping, or structural instability has compromised the jamb, replacement is usually necessary."
+      }
+    }
+  ],
+  "description": "Minor cracks, loose hinge screws, and superficial dings can be repaired. If wood rot, deep warping, or structural instability has compromised the jamb, replacem"
+}

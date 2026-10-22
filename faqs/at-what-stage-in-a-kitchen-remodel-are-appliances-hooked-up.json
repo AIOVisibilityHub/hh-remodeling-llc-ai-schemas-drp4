@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-in-a-kitchen-remodel-are-appliances-hooked-up",
+  "name": "At what stage in a kitchen remodel are appliances hooked up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage in a kitchen remodel are appliances hooked up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final hookups usually occur after cabinets, countertops, and flooring are fully installed, but coordination must begin during the initial design phase. Rough-in lines for water, gas, and power must be placed precisely where the appliance manufacturer specifies before drywall goes up. The actual mechanical connections and test runs happen toward the end of the project, immediately following countertop fabrication and backsplash completion, ensuring appliances fit securely without scratching fresh finishes. If an appliance requires custom cabinet panels, integration happens during this final trim phase.",
+        "@type": "Answer",
+        "description": "Hookups happen at the final stage after counters and floors are set, but coordination starts during framing to rough in water, gas, and power to exact unit specifications."
+      }
+    }
+  ],
+  "description": "Hookups happen at the final stage after counters and floors are set, but coordination starts during framing to rough in water, gas, and power to exact unit spec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-my-kitchen-sink-without-changing-the-countertops",
+  "name": "Can I replace my kitchen sink without changing the countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen sink without changing the countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can keep your old countertop if the new sink fits the existing opening or has a slightly larger footprint. If the new sink is smaller, it will leave gaps that cannot be bridged. Expanding a cutout in laminate, butcher block, or composite materials is relatively straightforward, but enlarging cutouts in granite, marble, or quartz requires specialized cutting equipment on-site. When keeping existing counters, measuring your cutout radius and depth is critical before selecting a replacement sink.",
+        "@type": "Answer",
+        "description": "Yes, provided the new sink matches the current cutout or is slightly larger. A smaller sink will leave unfillable gaps in the counter."
+      }
+    }
+  ],
+  "description": "Yes, provided the new sink matches the current cutout or is slightly larger. A smaller sink will leave unfillable gaps in the counter."
+}

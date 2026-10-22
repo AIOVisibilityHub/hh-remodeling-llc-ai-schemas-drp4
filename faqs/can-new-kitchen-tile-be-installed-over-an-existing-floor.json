@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-kitchen-tile-be-installed-over-an-existing-floor",
+  "name": "Can new kitchen tile be installed over an existing floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new kitchen tile be installed over an existing floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile can be installed over an existing floor only if the existing surface is completely flat, firmly bonded, and structurally rigid. Installing over clean, well-bonded concrete or existing ceramic tile is sometimes possible, but installing directly over sheet vinyl, laminate, or hardwood is not advised. Subfloors must have zero bounce or flex to prevent future tile cracking and grout failure. Removing the old flooring is generally the safer tradeoff because it prevents awkward floor height transitions into adjoining rooms and ensures a sound, uncoupling underlayment can be properly secured.",
+        "@type": "Answer",
+        "description": "Tile can sometimes go over stable concrete or firmly bonded tile, but removing old flooring ensures a level subfloor and avoids uneven height transitions."
+      }
+    }
+  ],
+  "description": "Tile can sometimes go over stable concrete or firmly bonded tile, but removing old flooring ensures a level subfloor and avoids uneven height transitions."
+}

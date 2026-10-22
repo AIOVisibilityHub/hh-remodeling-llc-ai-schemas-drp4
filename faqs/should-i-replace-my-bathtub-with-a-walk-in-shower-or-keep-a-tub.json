@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-my-bathtub-with-a-walk-in-shower-or-keep-a-tub",
+  "name": "Should I replace my bathtub with a walk-in shower or keep a tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my bathtub with a walk-in shower or keep a tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower creates a modern, accessible space and makes smaller bathrooms feel larger, while a tub-shower combination offers versatile bathing options that are often essential for households with young children. Homeowners must weigh daily comfort against long-term utility. If your home has only one full bathroom, preserving at least one bathtub is generally advisable for everyday practicality and future buyer appeal. If another bathroom in the home already features a tub, converting a master bath into a dedicated walk-in shower provides superior accessibility and easier maintenance.",
+        "@type": "Answer",
+        "description": "Keep at least one bathtub in the house for functional flexibility, but converting to a walk-in shower in a master bath offers better accessibility and easier cleaning."
+      }
+    }
+  ],
+  "description": "Keep at least one bathtub in the house for functional flexibility, but converting to a walk-in shower in a master bath offers better accessibility and easier cl"
+}

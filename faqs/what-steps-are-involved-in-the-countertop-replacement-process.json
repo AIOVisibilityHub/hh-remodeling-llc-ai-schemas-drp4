@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-involved-in-the-countertop-replacement-process",
+  "name": "What steps are involved in the countertop replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the countertop replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an in-home measurement or cabinet layout review to estimate square footage and select your slab. Next, fabricators perform digital laser templating across your installed cabinets to record precise walls, angles, and cutouts. Fabricators cut and polish the stone slab at the fabrication shop. On installation day, the team removes old counters, tests cabinet levelness, sets the slabs, bonds seams with color-matched epoxy, and mounts the sink with brackets and adhesive. Finally, edges are inspected and cleaned before final walk-through.",
+        "@type": "Answer",
+        "description": "The process involves material selection, digital laser templating, stone fabrication, removal of old counters, slab placement, seam bonding, and sink mounting."
+      }
+    }
+  ],
+  "description": "The process involves material selection, digital laser templating, stone fabrication, removal of old counters, slab placement, seam bonding, and sink mounting."
+}

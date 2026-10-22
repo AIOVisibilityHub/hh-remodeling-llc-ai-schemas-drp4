@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-repair-or-completely-replace-damaged-kitchen-drywall",
+  "name": "Should I repair or completely replace damaged kitchen drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or completely replace damaged kitchen drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing kitchen drywall typically costs significantly less than a full replacement, but the right choice depends on the extent of moisture damage and framing conditions. If damage comes from an isolated plumbing leak under the sink or an accidental wall ding, patching the drywall preserves the rest of the wall and lowers material costs. However, if water soaked behind lower cabinets or caused hidden framing rot, removing full sheets may be required to inspect the wall cavity and prevent mold growth.",
+        "@type": "Answer",
+        "description": "Isolated holes or minor leaks warrant simple repairs, while widespread water intrusion behind cabinets usually requires replacing entire drywall sheets."
+      }
+    }
+  ],
+  "description": "Isolated holes or minor leaks warrant simple repairs, while widespread water intrusion behind cabinets usually requires replacing entire drywall sheets."
+}

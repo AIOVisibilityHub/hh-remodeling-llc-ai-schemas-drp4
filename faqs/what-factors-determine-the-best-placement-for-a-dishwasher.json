@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-determine-the-best-placement-for-a-dishwasher",
+  "name": "What factors determine the best placement for a dishwasher?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the best placement for a dishwasher?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal location for a dishwasher is directly adjacent to the primary sink, within 24 to 36 inches, to share plumbing supply and drain lines. Position it on the side that matches your dominant prep flow, ensuring the open drop-down door does not block the primary pathway between the sink and the range. You should also ensure you have sufficient standing room beside the open door so you can comfortably unload dishes directly into upper cabinets and utensil drawers without stretching across the kitchen or having to close the appliance door repeatedly.",
+        "@type": "Answer",
+        "description": "Place the dishwasher right next to the main sink for plumbing efficiency, ensuring the open door does not block walkways or cabinet access during unloading."
+      }
+    }
+  ],
+  "description": "Place the dishwasher right next to the main sink for plumbing efficiency, ensuring the open door does not block walkways or cabinet access during unloading."
+}

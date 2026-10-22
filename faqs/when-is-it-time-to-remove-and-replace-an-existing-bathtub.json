@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-it-time-to-remove-and-replace-an-existing-bathtub",
+  "name": "When is it time to remove and replace an existing bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to remove and replace an existing bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners typically remove bathtubs when they suffer from persistent leaks, deep surface cracks, extensive rust, or outdated dimensions that waste floor space. You should also consider removal if mobility needs change and stepping over a high apron becomes a slipping hazard. Additionally, if you smell musty odors around the tub deck, pulling the unit allows contractors to inspect the subfloor and framing for concealed moisture problems that surface repairs cannot fix.",
+        "@type": "Answer",
+        "description": "Consider removal if the tub has structural cracks, persistent leaks, causes mobility issues, or if you suspect hidden moisture damage beneath the subfloor."
+      }
+    }
+  ],
+  "description": "Consider removal if the tub has structural cracks, persistent leaks, causes mobility issues, or if you suspect hidden moisture damage beneath the subfloor."
+}

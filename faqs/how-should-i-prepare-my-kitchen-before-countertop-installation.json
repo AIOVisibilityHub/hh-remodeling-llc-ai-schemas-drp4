@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-countertop-installation",
+  "name": "How should I prepare my kitchen before countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before crews arrive for templating or installation, clear everything off your current countertops, kitchen island, and surrounding floor paths. Empty the base cabinets beneath the sink and cooktop so technicians can access plumbing connections, mounting hardware, and electrical lines safely. Have your new sink, faucet, cooktop, and soap dispensers on site during the templating appointment so fabricators can measure exact cutout dimensions. Clear a wide path from the entryway to the kitchen to allow safe transport of large, heavy stone slabs.",
+        "@type": "Answer",
+        "description": "Clear all surfaces and under-sink cabinets, ensure a clear walking path into the kitchen, and have your sink and appliances on site for measuring."
+      }
+    }
+  ],
+  "description": "Clear all surfaces and under-sink cabinets, ensure a clear walking path into the kitchen, and have your sink and appliances on site for measuring."
+}

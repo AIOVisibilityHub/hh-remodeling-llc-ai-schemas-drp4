@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-do-homeowners-need-to-prepare-before-appliance-hookup-takes-place",
+  "name": "What do homeowners need to prepare before appliance hookup takes place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do homeowners need to prepare before appliance hookup takes place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before final hookups, you should have the manufacturer specification sheets printed out and the units physically on-site or confirmed for delivery. Confirm that doorway and hallway pathways are clear so units can be brought into the kitchen without damaging flooring or door casings. You must also decide whether you are keeping existing water shutoff valves or replacing them with quarter-turn valves, and verify your circuit breaker panel has sufficient space for high-draw appliances like dual-fuel ranges or speed ovens.",
+        "@type": "Answer",
+        "description": "Provide exact appliance spec sheets, confirm physical delivery dates, ensure clear interior pathways, and verify that the electrical panel can support any new high-draw units."
+      }
+    }
+  ],
+  "description": "Provide exact appliance spec sheets, confirm physical delivery dates, ensure clear interior pathways, and verify that the electrical panel can support any new h"
+}

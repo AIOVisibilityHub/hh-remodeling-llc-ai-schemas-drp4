@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-for-a-kitchen-sink-and-faucet-replacement",
+  "name": "How should I prepare for a kitchen sink and faucet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for a kitchen sink and faucet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing or scheduling installation, you must measure your base cabinet's interior width and depth to verify the basin will fit. You should also count the mounting holes drilled into your countertop or sink deck (typically one to four) to choose a compatible faucet or cover plate. Finally, clear out the entire cabinet space under the sink and inspect your shut-off valves to confirm they close completely without dripping.",
+        "@type": "Answer",
+        "description": "Measure your cabinet base, check the faucet hole configuration, clear under-sink storage, and ensure the shut-off valves close properly."
+      }
+    }
+  ],
+  "description": "Measure your cabinet base, check the faucet hole configuration, clear under-sink storage, and ensure the shut-off valves close properly."
+}

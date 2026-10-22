@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-full-cabinet-removal-necessary-instead-of-refacing-or-repainting",
+  "name": "When is full cabinet removal necessary instead of refacing or repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is full cabinet removal necessary instead of refacing or repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need full cabinet removal when cabinet boxes suffer water damage, severe sagging, mold infestation, or when you are changing the kitchen floor plan entirely. If the cabinet boxes are structurally solid and you only dislike the finish or door profile, refacing or painting may be sufficient. However, if you plan to install new appliances that require altered dimensions, full removal is necessary to accommodate the updated layout.",
+        "@type": "Answer",
+        "description": "Full removal is necessary if cabinets have water damage, structural rot, or pest issues, or if you are altering the kitchen layout and footprint."
+      }
+    }
+  ],
+  "description": "Full removal is necessary if cabinets have water damage, structural rot, or pest issues, or if you are altering the kitchen layout and footprint."
+}

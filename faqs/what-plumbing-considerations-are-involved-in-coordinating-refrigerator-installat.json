@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-plumbing-considerations-are-involved-in-coordinating-refrigerator-installat",
+  "name": "What plumbing considerations are involved in coordinating refrigerator installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing considerations are involved in coordinating refrigerator installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A refrigerator with an internal ice maker or water dispenser requires a dedicated potable water line, ideally equipped with an accessible shutoff valve. The water connection should be recessed into the wall behind the refrigerator using an ice maker outlet box, which allows the refrigerator to sit completely flush with adjacent cabinetry. Coordination ensures the water line is pressure-tested before the refrigerator is pushed into its cavity, preventing hidden pinhole leaks that could warp surrounding custom woodwork or hardwood floors.",
+        "@type": "Answer",
+        "description": "Refrigerators require a dedicated water line with a recessed box for flush cabinet alignment and thorough pressure testing to protect hardwood floors from leaks."
+      }
+    }
+  ],
+  "description": "Refrigerators require a dedicated water line with a recessed box for flush cabinet alignment and thorough pressure testing to protect hardwood floors from leaks"
+}

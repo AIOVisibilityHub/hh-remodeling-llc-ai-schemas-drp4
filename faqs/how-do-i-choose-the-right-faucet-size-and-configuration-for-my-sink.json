@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-right-faucet-size-and-configuration-for-my-sink",
+  "name": "How do I choose the right faucet size and configuration for my sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right faucet size and configuration for my sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To choose the correct faucet, determine whether your sink or countertop uses a 1-hole, 2-hole, 3-hole, or 4-hole setup. Measure the distance between the outer holes (the spread) if you have multiple cutouts. Next, evaluate spout height and reach so the water stream hits near the center of the drain without splashing against basin walls or blocking nearby cabinet doors. Finally, ensure the fixture handles clear your backsplash when pushed fully back into the hot position.",
+        "@type": "Answer",
+        "description": "Match the hole count and spread, check spout height against overhead cabinets, and confirm handle clearance from your backsplash."
+      }
+    }
+  ],
+  "description": "Match the hole count and spread, check spout height against overhead cabinets, and confirm handle clearance from your backsplash."
+}

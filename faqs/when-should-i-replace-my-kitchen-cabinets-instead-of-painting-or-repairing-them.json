@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-my-kitchen-cabinets-instead-of-painting-or-repairing-them",
+  "name": "When should I replace my kitchen cabinets instead of painting or repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my kitchen cabinets instead of painting or repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your cabinets if the structural framing is compromised or if you want to alter your kitchen layout. Common signs include sagging shelves, persistent water damage or mold inside the sink base, broken face frames, or boxes pulling away from the drywall. If your layout feels cramped or lacks functional storage for modern appliances, a full replacement gives you the chance to install custom pantry towers, trash pull-outs, and corner lazy Susans that existing boxes cannot support.",
+        "@type": "Answer",
+        "description": "Replace cabinets when boxes have water damage, structural sagging, or broken frames, or when you need a functional layout change that existing boxes cannot accommodate."
+      }
+    }
+  ],
+  "description": "Replace cabinets when boxes have water damage, structural sagging, or broken frames, or when you need a functional layout change that existing boxes cannot acco"
+}

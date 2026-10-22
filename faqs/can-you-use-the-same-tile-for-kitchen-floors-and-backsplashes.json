@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-use-the-same-tile-for-kitchen-floors-and-backsplashes",
+  "name": "Can you use the same tile for kitchen floors and backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you use the same tile for kitchen floors and backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between kitchen backsplash tile and floor tile comes down to water absorption, thickness, and slip resistance. Backsplash tiles can be lighter, thinner, and more decorative, such as glass mosaics, hand-painted ceramic, or glazed subway tile, because they endure no foot impact. Floor tiles must carry an appropriate durability rating to resist cracking under body weight and dropped cookware. Floor tiles also feature textured or matte surfaces to reduce slipping when wet, whereas polished or delicate tiles suited for walls could be dangerous and prone to chipping underfoot.",
+        "@type": "Answer",
+        "description": "Floor tiles can be used on backsplashes, but wall-only tiles should never be used on floors because they lack the required strength and slip resistance."
+      }
+    }
+  ],
+  "description": "Floor tiles can be used on backsplashes, but wall-only tiles should never be used on floors because they lack the required strength and slip resistance."
+}

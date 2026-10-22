@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-install-a-new-bathtub-in-the-denver-metro-area",
+  "name": "Do I need a building permit to install a new bathtub in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to install a new bathtub in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing permits are generally required when replacing or remodeling a bathtub if you alter the existing drainage slope, relocate water supply pipes, or modify structural floor joists. Simple, same-location tub swaps without pipe alterations may not always trigger full mechanical permits, but municipal building codes in Denver, Centennial, and Parker require work to meet strict moisture-barrier and backflow-prevention standards. Checking local city requirements before work starts ensures the installation passes any required plumbing or framing inspections.",
+        "@type": "Answer",
+        "description": "Permits are usually required if you alter drain lines, move water pipes, or modify subfloor framing, ensuring compliance with local Denver metro building codes."
+      }
+    }
+  ],
+  "description": "Permits are usually required if you alter drain lines, move water pipes, or modify subfloor framing, ensuring compliance with local Denver metro building codes."
+}

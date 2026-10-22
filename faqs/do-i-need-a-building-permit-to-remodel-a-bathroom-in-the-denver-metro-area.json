@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-remodel-a-bathroom-in-the-denver-metro-area",
+  "name": "Do I need a building permit to remodel a bathroom in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel a bathroom in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are generally required for full bathroom remodels whenever you move plumbing lines, alter electrical circuits, or remove framing walls. Cosmetic tasks like repainting or swapping a faucet in the same location do not require permits, but adding a walk-in shower, moving a toilet, or rewiring outlets to GFCI standards does. In Colorado communities such as Denver, Centennial, and Parker, local building departments require inspections during rough-in stages before walls are closed with drywall or cement backer board. Working with a licensed contractor ensures structural, plumbing, and electrical codes are met and inspected properly.",
+        "@type": "Answer",
+        "description": "Yes, full remodels that involve moving plumbing, changing electrical wiring, or altering framing require permits and municipal inspections."
+      }
+    }
+  ],
+  "description": "Yes, full remodels that involve moving plumbing, changing electrical wiring, or altering framing require permits and municipal inspections."
+}

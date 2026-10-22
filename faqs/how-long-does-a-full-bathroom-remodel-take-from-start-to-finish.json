@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-full-bathroom-remodel-take-from-start-to-finish",
+  "name": "How long does a full bathroom remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full bathroom remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical full bathroom remodel takes between three to six weeks of active construction, though overall project length depends on layout changes and material availability. The work begins with demolition, followed by rough-in plumbing and electrical inspections. Once framing and rough mechanical work pass municipal inspections, waterproofing and tile installation take considerable time due to necessary drying and curing intervals. Finally, cabinetry, countertops, fixtures, and trim are installed. Ordering custom vanity cabinets or specialty tile before demolition starts helps avoid mid-project delays and keeps the schedule on track.",
+        "@type": "Answer",
+        "description": "Active construction usually takes three to six weeks, depending on structural changes, tile complexity, and inspection schedules."
+      }
+    }
+  ],
+  "description": "Active construction usually takes three to six weeks, depending on structural changes, tile complexity, and inspection schedules."
+}

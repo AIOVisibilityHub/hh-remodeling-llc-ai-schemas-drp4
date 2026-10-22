@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-double-vanity-or-a-single-vanity-with-more-counter-space",
+  "name": "Should I choose a double vanity or a single vanity with more counter space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a double vanity or a single vanity with more counter space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Double vanities provide dedicated storage and separate prep stations for couples, but they require a minimum width of 60 inches to avoid feeling cramped and sacrifice valuable floor space. A single vanity preserves open floor space, leaves room for a larger walk-in shower or linen cabinet, and costs less in materials, mirrors, and plumbing rough-ins. When planning a shared master bathroom, decide whether you value simultaneous sink access more than open floor clearance or expanded shower dimensions. Measure the door swing and entryway clearance carefully before selecting a wide vanity cabinet.",
+        "@type": "Answer",
+        "description": "Choose a double vanity if you have at least 60 inches of wall width and need simultaneous sink access; otherwise, a single vanity allows for a larger shower and more open room."
+      }
+    }
+  ],
+  "description": "Choose a double vanity if you have at least 60 inches of wall width and need simultaneous sink access; otherwise, a single vanity allows for a larger shower and"
+}

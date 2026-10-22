@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-homeowners-prepare-their-home-before-bathroom-demolition-begins",
+  "name": "How should homeowners prepare their home before bathroom demolition begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare their home before bathroom demolition begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor begins, clear out all personal belongings from medicine cabinets, vanities, and linen closets, and set up a temporary hygiene station in another bathroom. You should also confirm your material selections, such as tile, grout color, fixtures, and vanity sizing, before demolition starts to prevent work stoppages. Establish a dedicated staging area in a garage or spare room for materials, and decide on a clear pathway through your home for crews hauling debris and construction tools. Protecting nearby floors with drop cloths or temporary coverings is also essential.",
+        "@type": "Answer",
+        "description": "Empty all cabinets, confirm fixture selections, designate another bathroom for daily use, and establish clear pathways and staging areas for crews."
+      }
+    }
+  ],
+  "description": "Empty all cabinets, confirm fixture selections, designate another bathroom for daily use, and establish clear pathways and staging areas for crews."
+}

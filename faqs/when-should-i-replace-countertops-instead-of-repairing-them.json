@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-countertops-instead-of-repairing-them",
+  "name": "When should I replace countertops instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace countertops instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that point to replacement include extensive cracking, deep staining that resists cleaning, structural burns, water damage swelling the core material, or an outdated layout. While minor chips in natural stone can often be filled with color-matched epoxy, wide cracks that extend through the thickness of the slab compromise structural integrity. If you have laminate counters that have swollen from moisture around the sink seam, replacement is the only lasting fix. Remodeling your kitchen layout or changing sink configurations also necessitates new tops.",
+        "@type": "Answer",
+        "description": "Replace countertops when you face extensive cracks, water-swollen substrates, deep permanent stains, or when reconfiguring your sink and appliances."
+      }
+    }
+  ],
+  "description": "Replace countertops when you face extensive cracks, water-swollen substrates, deep permanent stains, or when reconfiguring your sink and appliances."
+}

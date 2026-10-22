@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-correct-vanity-size-and-layout-for-my-bathroom",
+  "name": "How do I choose the correct vanity size and layout for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the correct vanity size and layout for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right vanity requires measuring available wall clearance, door swings, and plumbing rough-in locations. Measure the distance from side walls, ensure the vanity doors and drawers can fully open without hitting the shower door or toilet, and verify that the countertop depth fits the walkway. You also need to confirm whether your existing drain and supply lines align with the vanity’s internal shelf layout, or if the plumbing must be adjusted inside the wall. If replacing a single sink with a double vanity, verify there is sufficient width for dual basins.",
+        "@type": "Answer",
+        "description": "Measure wall width, depth, and door clearance, and verify that internal vanity shelving accommodates your existing plumbing locations."
+      }
+    }
+  ],
+  "description": "Measure wall width, depth, and door clearance, and verify that internal vanity shelving accommodates your existing plumbing locations."
+}

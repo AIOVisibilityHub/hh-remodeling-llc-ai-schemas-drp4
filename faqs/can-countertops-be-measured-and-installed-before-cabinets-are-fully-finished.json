@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-countertops-be-measured-and-installed-before-cabinets-are-fully-finished",
+  "name": "Can countertops be measured and installed before cabinets are fully finished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can countertops be measured and installed before cabinets are fully finished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, existing base cabinets must be permanently anchored, level, and structurally sound before countertop templating can happen. Slabs made of granite or quartz weigh roughly 15 to 25 pounds per square foot, so cabinets cannot shift once measured. If you plan to replace, paint, or reface cabinets, finish the structural cabinet installation first so the template matches the final cabinet dimensions exactly.",
+        "@type": "Answer",
+        "description": "No. Base cabinets must be permanently secured and leveled before templating so the stone can be fabricated to your kitchen's exact, immovable dimensions."
+      }
+    }
+  ],
+  "description": "No. Base cabinets must be permanently secured and leveled before templating so the stone can be fabricated to your kitchen's exact, immovable dimensions."
+}

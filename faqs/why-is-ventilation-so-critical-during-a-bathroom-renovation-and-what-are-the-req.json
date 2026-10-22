@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-is-ventilation-so-critical-during-a-bathroom-renovation-and-what-are-the-req",
+  "name": "Why is ventilation so critical during a bathroom renovation, and what are the requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is ventilation so critical during a bathroom renovation, and what are the requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper ventilation prevents mold growth, peeling paint, and moisture damage to framing, which is critical in tighter, energy-efficient Colorado homes. In areas like Centennial, Greenwood Village, and Denver, building codes require mechanical exhaust fans vented directly outdoors if there is no operable window. Choose an exhaust fan rated for your room size—measured in cubic feet per minute (CFM)—and look for low sone ratings for quiet operation. Setting fans on humidity-sensing wall switches ensures they run long enough after showers to clear lingering steam.",
+        "@type": "Answer",
+        "description": "Proper ventilation prevents mold and drywall decay. Local codes require exhaust fans vented outdoors to effectively clear humidity from modern, insulated homes."
+      }
+    }
+  ],
+  "description": "Proper ventilation prevents mold and drywall decay. Local codes require exhaust fans vented outdoors to effectively clear humidity from modern, insulated homes."
+}

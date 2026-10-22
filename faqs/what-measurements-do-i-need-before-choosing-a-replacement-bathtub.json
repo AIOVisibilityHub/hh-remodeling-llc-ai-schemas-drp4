@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-measurements-do-i-need-before-choosing-a-replacement-bathtub",
+  "name": "What measurements do I need before choosing a replacement bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements do I need before choosing a replacement bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering a new tub, measure your bathroom doorway, hallway turns, and stairwells to confirm the unit can physically enter the home. Inside the bathroom, measure the rough opening width from stud to stud, the depth from the back wall to the front apron line, and the exact distance from the framing to the drain center. Also note whether your current plumbing requires a left-hand, right-hand, or center drain configuration, as ordering the wrong drain location requires costly plumbing re-routes.",
+        "@type": "Answer",
+        "description": "Measure the stud-to-stud width, depth, drain center location, and your home’s entry pathways, confirming whether you need a left, right, or center drain setup."
+      }
+    }
+  ],
+  "description": "Measure the stud-to-stud width, depth, drain center location, and your home’s entry pathways, confirming whether you need a left, right, or center drain setup."
+}

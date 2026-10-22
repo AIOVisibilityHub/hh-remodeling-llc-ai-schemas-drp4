@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-the-layout-of-my-kitchen-when-replacing-cabinets",
+  "name": "Can I change the layout of my kitchen when replacing cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout of my kitchen when replacing cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cabinet replacement is the best time to redesign your floor plan. If you want to convert an L-shape into an open-concept layout, add a center island, or extend cabinetry up to the ceiling, replacing your boxes allows total flexibility. Keep in mind that moving sinks, gas ranges, or refrigerators involves rerouting plumbing lines, gas piping, or electrical circuits behind the drywall. We evaluate your current framing and mechanical systems during planning to ensure your desired layout is practical and code-compliant.",
+        "@type": "Answer",
+        "description": "Yes. Full replacement allows you to reconfigure your layout, build kitchen islands, or relocate appliances, provided underlying plumbing and electrical lines are adjusted."
+      }
+    }
+  ],
+  "description": "Yes. Full replacement allows you to reconfigure your layout, build kitchen islands, or relocate appliances, provided underlying plumbing and electrical lines ar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-bathroom-remodel-take-from-start-to-finish",
+  "name": "How long does a typical bathroom remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom remodel typically takes three to six weeks once construction begins. Simple cosmetic updates like replacing a vanity, toilet, and fixtures can finish in under two weeks. However, projects that involve moving plumbing lines, custom tile showers, or structural framing take longer. Tile installation and waterproofing alone require several consecutive days for proper cure times between steps. Lead times for special-order items like custom vanities or glass shower enclosures can also extend the overall project schedule if not ordered before demolition starts.",
+        "@type": "Answer",
+        "description": "Most bathroom remodels take between three to six weeks of construction, depending on whether plumbing lines are moved and the extent of custom tile work."
+      }
+    }
+  ],
+  "description": "Most bathroom remodels take between three to six weeks of construction, depending on whether plumbing lines are moved and the extent of custom tile work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-contractors-handle-heating-and-cooling-for-a-new-kitchen-addition",
+  "name": "How do contractors handle heating and cooling for a new kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors handle heating and cooling for a new kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HVAC capacity must be assessed by calculating the heating and cooling load for the new square footage, window placement, and exterior exposure. Options include extending your existing forced-air ductwork if your current furnace and AC unit have surplus capacity, or installing an independent ductless mini-split system. Extending ductwork creates seamless climate control but may require mechanical zoning, whereas a ductless mini-split offers dedicated room temperature control without straining your existing system.",
+        "@type": "Answer",
+        "description": "Contractors either extend existing ductwork if system capacity allows or install an independent ductless mini-split for dedicated climate control."
+      }
+    }
+  ],
+  "description": "Contractors either extend existing ductwork if system capacity allows or install an independent ductless mini-split for dedicated climate control."
+}

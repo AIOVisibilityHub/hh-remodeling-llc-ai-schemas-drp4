@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remove-only-the-base-cabinets-and-keep-my-upper-wall-cabinets",
+  "name": "Can I remove only the base cabinets and keep my upper wall cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove only the base cabinets and keep my upper wall cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, standard base cabinets can usually be removed without taking down upper wall cabinets if you are only reconfiguring an island or lower layout. However, if your backsplash runs continuously between lower countertops and upper cabinets, removing base cabinets or their counters can pull on wall materials beneath the upper units. Your crew will score caulk and tile grout lines to isolate the lower units and keep upper cabinetry fully secured.",
+        "@type": "Answer",
+        "description": "Yes, base cabinets can be removed independently by scoring connecting seams and detaching lower counters while leaving upper cabinets secured to the wall."
+      }
+    }
+  ],
+  "description": "Yes, base cabinets can be removed independently by scoring connecting seams and detaching lower counters while leaving upper cabinets secured to the wall."
+}

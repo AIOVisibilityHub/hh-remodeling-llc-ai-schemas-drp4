@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-acrylic-bathtubs-compare-to-cast-iron-models",
+  "name": "How do acrylic bathtubs compare to cast iron models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do acrylic bathtubs compare to cast iron models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cast iron tubs provide exceptional heat retention, extreme durability, and resistance to scratches, but their heavy weight often demands reinforced floor joists and multiple installers. Acrylic tubs are lightweight, cost-effective, and available in diverse modern shapes, making them much easier to carry upstairs and install. However, acrylic surfaces can scratch more easily if abrasive cleaners are used, and they require a solid mortar support bed during installation to prevent bottom flexing.",
+        "@type": "Answer",
+        "description": "Cast iron holds heat longer and resists scratching but requires heavy floor support; acrylic is lightweight, affordable, and versatile, but needs a stable mortar base."
+      }
+    }
+  ],
+  "description": "Cast iron holds heat longer and resists scratching but requires heavy floor support; acrylic is lightweight, affordable, and versatile, but needs a stable morta"
+}

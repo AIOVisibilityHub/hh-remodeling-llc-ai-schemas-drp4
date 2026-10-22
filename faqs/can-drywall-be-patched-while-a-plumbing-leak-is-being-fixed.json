@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-drywall-be-patched-while-a-plumbing-leak-is-being-fixed",
+  "name": "Can drywall be patched while a plumbing leak is being fixed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be patched while a plumbing leak is being fixed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should never patch drywall while it remains wet or before fixing the source of moisture. Kitchen leaks from dishwashers, icemaker lines, or drain pipes will cause new drywall to swell, blister paint, and harbor mold if sealed inside a wet cavity. First, resolve the plumbing leak, then dry the wall cavity thoroughly using fans or dehumidifiers. Once wood studs register safe moisture levels, technicians can hang moisture-resistant drywall.",
+        "@type": "Answer",
+        "description": "No. You must resolve the plumbing leak and completely dry out the wall framing before installing and patching new drywall."
+      }
+    }
+  ],
+  "description": "No. You must resolve the plumbing leak and completely dry out the wall framing before installing and patching new drywall."
+}

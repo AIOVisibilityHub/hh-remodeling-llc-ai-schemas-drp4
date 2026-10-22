@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-professional-appliance-coordination-different-from-store-delivery-and-ins",
+  "name": "How is professional appliance coordination different from store delivery and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is professional appliance coordination different from store delivery and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delivery personnel typically only handle standard drop-offs or basic, like-for-like plug-ins if existing valves and dedicated outlets already meet code. Delivery teams do not alter hardwired electrical lines, relocate gas shutoffs, modify cabinet framing, or adjust plumbing lines behind dishwashers. Professional coordination is required when you are changing layouts, upgrading from electric to gas or induction, installing custom-paneled appliances, or adding new water supply lines for steam ovens and ice makers. Coordinating through your remodeling team ensures all connections align strictly with manufacturer clearance requirements.",
+        "@type": "Answer",
+        "description": "Delivery drivers only perform basic, identical replacements. Remodel coordination manages the actual plumbing, gas, and electrical work needed for layout changes or complex units."
+      }
+    }
+  ],
+  "description": "Delivery drivers only perform basic, identical replacements. Remodel coordination manages the actual plumbing, gas, and electrical work needed for layout change"
+}

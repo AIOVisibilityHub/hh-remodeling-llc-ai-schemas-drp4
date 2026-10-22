@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-questions-should-i-ask-when-hiring-a-tub-removal-contractor",
+  "name": "What questions should I ask when hiring a tub removal contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask when hiring a tub removal contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a crew, determine whether their scope includes complete debris hauling and landfill disposal or just fixture teardown. Ask if they inspect and repair damaged subflooring or framing discovered beneath the apron, and whether licensed plumbers handle line capping or trap reconfiguration. Verifying insurance coverage and confirming whether they safeguard flooring along the exit route will protect the rest of your home throughout demolition.",
+        "@type": "Answer",
+        "description": "Ask if debris disposal is included, how they handle unexpected subfloor water damage, and whether licensed plumbers will manage pipe reconfigurations."
+      }
+    }
+  ],
+  "description": "Ask if debris disposal is included, how they handle unexpected subfloor water damage, and whether licensed plumbers will manage pipe reconfigurations."
+}

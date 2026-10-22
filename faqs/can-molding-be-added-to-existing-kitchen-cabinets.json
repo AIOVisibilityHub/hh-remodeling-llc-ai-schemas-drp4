@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-molding-be-added-to-existing-kitchen-cabinets",
+  "name": "Can molding be added to existing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can molding be added to existing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can install molding on existing cabinets to give your kitchen an updated, high-end look without a full remodel. The primary challenge is matching the wood species, paint color, or stain sheen of your existing cabinetry. Wood naturally darkens or fades with age and sunlight exposure, so stock factory colors rarely match aged cabinets perfectly. An installer will measure your cabinet frame reveals, check ceiling clearances for swing space on cabinet doors, and often take a door sample to custom-match paint or stain before installation.",
+        "@type": "Answer",
+        "description": "Yes, molding can be added to existing cabinets by matching the finish and door clearances, providing a cost-effective aesthetic update."
+      }
+    }
+  ],
+  "description": "Yes, molding can be added to existing cabinets by matching the finish and door clearances, providing a cost-effective aesthetic update."
+}

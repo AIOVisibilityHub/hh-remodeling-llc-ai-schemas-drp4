@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-order-my-kitchen-cabinets-during-a-remodel",
+  "name": "When should I order my kitchen cabinets during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I order my kitchen cabinets during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New cabinets should be ordered as soon as your kitchen design is finalized, typically four to twelve weeks before your planned construction date. Lead times vary widely based on the manufacturer, with stock cabinets arriving in one to two weeks, semi-custom taking four to eight weeks, and custom builds requiring ten weeks or more. Ordering early prevents costly schedule delays, ensuring cabinets are staged on-site before demolition begins.",
+        "@type": "Answer",
+        "description": "Order cabinets as soon as dimensions are finalized, typically four to twelve weeks before construction, depending on whether units are stock, semi-custom, or custom."
+      }
+    }
+  ],
+  "description": "Order cabinets as soon as dimensions are finalized, typically four to twelve weeks before construction, depending on whether units are stock, semi-custom, or cu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-a-drywall-repair-appointment",
+  "name": "How should I prepare my kitchen before a drywall repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before a drywall repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the technician arrives, empty adjacent cabinets and clear countertops within at least five feet of the damaged area. Sanding drywall produces fine dust, so removing dishes, cookware, and countertop appliances protects them from debris. Turn off the water supply valve if the repair involves an active or recent sink pipe leak. Taking photos of the leak area before cutting can also help document issues for your homeowner records or insurance.",
+        "@type": "Answer",
+        "description": "Clear your countertops, remove items from nearby cabinets, cover exposed appliances, and ensure any active plumbing leaks are turned off."
+      }
+    }
+  ],
+  "description": "Clear your countertops, remove items from nearby cabinets, cover exposed appliances, and ensure any active plumbing leaks are turned off."
+}

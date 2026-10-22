@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-tradeoffs-between-a-freestanding-range-and-a-wall-oven-setup",
+  "name": "What are the tradeoffs between a freestanding range and a wall oven setup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tradeoffs between a freestanding range and a wall oven setup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A freestanding range combines the cooktop and oven into a single standard 30-inch or 36-inch unit with finished sides, making it straightforward to install and budget-friendly. A separate cooktop and wall oven setup separates cooking from baking, allowing multiple people to work simultaneously without crowding. Wall ovens also offer ergonomic benefits by positioning baking chambers at eye or waist level, reducing bending. However, separating them consumes substantially more linear cabinet and counter run. If you have a compact kitchen footprint, a combined range preserves valuable continuous countertop prep space.",
+        "@type": "Answer",
+        "description": "A freestanding range saves space and money, while a wall oven and cooktop split duties for multiple cooks and improve ergonomics at the cost of counter space."
+      }
+    }
+  ],
+  "description": "A freestanding range saves space and money, while a wall oven and cooktop split duties for multiple cooks and improve ergonomics at the cost of counter space."
+}

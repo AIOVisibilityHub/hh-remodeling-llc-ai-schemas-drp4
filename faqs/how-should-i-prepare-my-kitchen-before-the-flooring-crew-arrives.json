@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-the-flooring-crew-arrives",
+  "name": "How should I prepare my kitchen before the flooring crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before the flooring crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, clear the kitchen of all freestanding items, pantry goods, and small appliances. Empty lower cabinets if baseboards or toe kicks are being altered, and arrange for major appliances—like the refrigerator, range, and dishwasher—to be disconnected and moved safely. Clear a pathway from the exterior entryway to the kitchen so the crew can transport materials and tools efficiently. It is also helpful to confirm where transition strips will meet neighboring rooms like dining spaces or hallways so door thresholds line up smoothly.",
+        "@type": "Answer",
+        "description": "Clear all loose items, empty lower cabinets if trims are being removed, clear access paths, and arrange for large appliances to be disconnected and moved out of the work area."
+      }
+    }
+  ],
+  "description": "Clear all loose items, empty lower cabinets if trims are being removed, clear access paths, and arrange for large appliances to be disconnected and moved out of"
+}

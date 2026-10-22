@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-painters-prepare-kitchen-surfaces-before-applying-paint",
+  "name": "How do painters prepare kitchen surfaces before applying paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do painters prepare kitchen surfaces before applying paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough surface preparation is essential in kitchens due to airborne grease, cooking oils, and food splatters that stop paint from bonding properly. The process begins with cleaning surfaces using a heavy-duty degreaser, followed by patching nail holes and fixing moisture-damaged drywall. Next, surfaces are lightly sanded to smooth uneven spots and create mechanical adhesion. High-adhesion, stain-blocking primers are applied over repaired spots, bare wood, or water marks. Finally, drop cloths and plastic sheeting are placed to shield countertops, appliances, and flooring before paint application starts.",
+        "@type": "Answer",
+        "description": "Prep involves washing off grease with degreasers, repairing drywall flaws, sanding surfaces smooth, applying stain-blocking primer, and masking off countertops and appliances."
+      }
+    }
+  ],
+  "description": "Prep involves washing off grease with degreasers, repairing drywall flaws, sanding surfaces smooth, applying stain-blocking primer, and masking off countertops"
+}

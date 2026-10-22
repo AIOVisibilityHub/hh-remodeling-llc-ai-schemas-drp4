@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-range-hood-venting-coordinated-with-appliance-installation",
+  "name": "How is range hood venting coordinated with appliance installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is range hood venting coordinated with appliance installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ventilation hood coordination requires balancing duct diameter, blower strength measured in CFM, and makeup air requirements. High-output professional ranges often demand exhaust hoods exceeding 400 CFM. In modern, tightly sealed homes around the Denver area, exhaust hoods pulling over 400 CFM frequently trigger building code requirements for makeup air dampers to prevent backdrafting carbon monoxide from other gas appliances. Coordination ensures your duct path aligns through the ceiling or exterior wall while integrating appropriate electrical supply and makeup air systems.",
+        "@type": "Answer",
+        "description": "Coordination ensures the exhaust duct size and route match the hood's CFM rating and plans for makeup air dampers if high-powered ventilation is selected."
+      }
+    }
+  ],
+  "description": "Coordination ensures the exhaust duct size and route match the hood's CFM rating and plans for makeup air dampers if high-powered ventilation is selected."
+}

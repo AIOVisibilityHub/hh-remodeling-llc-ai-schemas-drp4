@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-flooring-be-installed-before-or-after-kitchen-cabinets",
+  "name": "Should flooring be installed before or after kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should flooring be installed before or after kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet installation happens before hardwood or tile flooring when installers want to avoid pinning finished floors or risking floor damage during major construction. However, if flooring is installed first, the base cabinets sit flush at finished height without tricky cuts around toe kicks. A practical tradeoff of installing cabinets first is that you must add shims or subfloor build-ups to ensure standard appliance openings match finished floor heights.",
+        "@type": "Answer",
+        "description": "Cabinets can go in before or after. Installing flooring first simplifies appliance fit, while installing cabinets first saves flooring materials and prevents accidental scratches."
+      }
+    }
+  ],
+  "description": "Cabinets can go in before or after. Installing flooring first simplifies appliance fit, while installing cabinets first saves flooring materials and prevents ac"
+}

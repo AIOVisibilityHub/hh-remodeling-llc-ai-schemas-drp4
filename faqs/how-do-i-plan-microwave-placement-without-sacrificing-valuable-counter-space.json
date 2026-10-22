@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-plan-microwave-placement-without-sacrificing-valuable-counter-space",
+  "name": "How do I plan microwave placement without sacrificing valuable counter space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I plan microwave placement without sacrificing valuable counter space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop placement consumes significant prep room, whereas an over-the-range microwave can restrict cooking clearances and provide weaker exhaust performance. A common design solution is installing a built-in microwave drawer inside the base cabinetry or kitchen island. This lowers the unit to counter height, making hot food handling safer and keeping perimeter counters clear. Another option is building an upper cabinet cubby with a dedicated trim kit, positioning it at eye level outside the main cooktop zone. The right option depends on household mobility, counter availability, and whether children will use it independently.",
+        "@type": "Answer",
+        "description": "Install a base-cabinet microwave drawer or an integrated upper-cabinet niche to keep counters completely clear and improve reachability."
+      }
+    }
+  ],
+  "description": "Install a base-cabinet microwave drawer or an integrated upper-cabinet niche to keep counters completely clear and improve reachability."
+}

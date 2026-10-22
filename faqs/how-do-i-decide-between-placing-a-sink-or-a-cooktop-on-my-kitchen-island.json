@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-between-placing-a-sink-or-a-cooktop-on-my-kitchen-island",
+  "name": "How do I decide between placing a sink or a cooktop on my kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide between placing a sink or a cooktop on my kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision comes down to spatial flow, ventilation logistics, and social preference. Putting a cooktop on an island keeps you facing guests or family instead of a wall while cooking. However, this setup requires either an overhead island hood or an under-counter downdraft system, which can complicate ducting and visually break up open spaces. Placing a sink on the island makes food prep and cleanup central, but it can leave dirty dishes on display. If your island serves primarily as an entertaining buffet or casual dining area, keeping both the sink and cooktop on perimeter counters often preserves the most uninterrupted counter space.",
+        "@type": "Answer",
+        "description": "A cooktop allows you to face the room while cooking but requires island ventilation; an island sink keeps prep central but can leave dishes in open view."
+      }
+    }
+  ],
+  "description": "A cooktop allows you to face the room while cooking but requires island ventilation; an island sink keeps prep central but can leave dishes in open view."
+}

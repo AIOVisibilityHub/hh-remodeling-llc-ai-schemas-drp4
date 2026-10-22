@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-removed-cabinets-disposed-of-or-recycled-in-the-denver-metro-area",
+  "name": "How are removed cabinets disposed of or recycled in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are removed cabinets disposed of or recycled in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For properties in the Denver metro area, including Centennial, Greenwood Village, and Parker, cabinet disposal must follow regional waste regulations and landfill diversion practices. Many local homeowners choose intact removal so serviceable solid wood cabinets can be donated to regional reuse centers like Habitat ReStore rather than sent to municipal landfills. If units are discarded, disposal arrangements must account for local transfer station fees and specific bulk pickup schedules.",
+        "@type": "Answer",
+        "description": "In the Denver metro area, intact cabinets are frequently diverted to local reuse centers like Habitat ReStore, while unusable materials go through regional bulk disposal."
+      }
+    }
+  ],
+  "description": "In the Denver metro area, intact cabinets are frequently diverted to local reuse centers like Habitat ReStore, while unusable materials go through regional bulk"
+}

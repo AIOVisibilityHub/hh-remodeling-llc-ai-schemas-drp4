@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-addition",
+  "name": "What is the difference between a kitchen remodel and a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen remodel and a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition expands your home's exterior footprint to add physical square footage, while a standard kitchen remodel updates or rearranges space within your existing walls. Choosing between the two depends on your site constraints and storage needs. An addition requires structural foundation work, new framing, roof tie-ins, and exterior finishing alongside interior trades. Remodels avoid major exterior construction, making them faster, but they cannot solve fundamental spatial shortages if adjacent interior rooms cannot be absorbed.",
+        "@type": "Answer",
+        "description": "A kitchen addition physically expands your home's exterior footprint with new foundation and framing, while a remodel updates the layout inside existing walls."
+      }
+    }
+  ],
+  "description": "A kitchen addition physically expands your home's exterior footprint with new foundation and framing, while a remodel updates the layout inside existing walls."
+}

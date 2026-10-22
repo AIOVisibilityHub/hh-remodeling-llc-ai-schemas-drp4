@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-of-a-kitchen-renovation-should-trim-be-installed",
+  "name": "At what stage of a kitchen renovation should trim be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a kitchen renovation should trim be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen trim is typically installed after cabinet installation, countertop templating, and flooring are completed, but before the final wall paint touch-ups. Installing flooring first ensures baseboards and toe-kicks sit flush without awkward height mismatches. Upper cabinet crown molding and light rails go in after the cabinet boxes are leveled and anchored securely to wall studs. Painting or staining trim components can be done beforehand to reduce cut-in work, but nail holes, miters, and caulked seams must be filled and finished on-site once installed.",
+        "@type": "Answer",
+        "description": "Trim goes in after cabinets, countertops, and flooring are installed, but right before final paint touch-ups. This ensures proper alignment and flush seams."
+      }
+    }
+  ],
+  "description": "Trim goes in after cabinets, countertops, and flooring are installed, but right before final paint touch-ups. This ensures proper alignment and flush seams."
+}

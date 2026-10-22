@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-kitchen-faucet-instead-of-repairing-it",
+  "name": "When do I need to replace my kitchen faucet instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my kitchen faucet instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your faucet if you notice persistent leaks around the base, corrosion on the fixture body, internal mineral scale restricting flow, or recurring loose handles. While replacing internal washers or cartridges can fix minor drips, widespread internal wear or cracked casting means a full replacement is safer. Upgrading is also recommended if your current spout lacks adequate clearance for large cookware or does not support your desired accessories.",
+        "@type": "Answer",
+        "description": "Replace the faucet if it suffers from persistent structural leaks, severe internal mineral build-up, or cracked housing that cartridges cannot fix."
+      }
+    }
+  ],
+  "description": "Replace the faucet if it suffers from persistent structural leaks, severe internal mineral build-up, or cracked housing that cartridges cannot fix."
+}

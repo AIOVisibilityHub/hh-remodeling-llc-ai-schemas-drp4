@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-homeowners-do-to-prepare-their-kitchen-before-painters-arrive",
+  "name": "What should homeowners do to prepare their kitchen before painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners do to prepare their kitchen before painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the crew arrives, clear all countertops, open shelves, and the top of your refrigerator so painters have clear access to the walls. If your project includes painting cabinets, empty the drawers and cupboards completely, and decide where you will store daily essentials like dishes and small appliances during the work. You should also secure pets in a separate area and clear a path from the home's entry to the kitchen so tools and drop cloths can be brought in smoothly without disrupting other rooms.",
+        "@type": "Answer",
+        "description": "Clear off all countertops, empty cabinets if they are being painted, store away daily essentials, and ensure clear access paths from the entryway into the kitchen."
+      }
+    }
+  ],
+  "description": "Clear off all countertops, empty cabinets if they are being painted, store away daily essentials, and ensure clear access paths from the entryway into the kitch"
+}

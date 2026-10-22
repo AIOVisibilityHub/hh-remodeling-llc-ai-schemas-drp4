@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-moving-major-appliances-affect-the-overall-remodel-cost",
+  "name": "How does moving major appliances affect the overall remodel cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does moving major appliances affect the overall remodel cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving major appliance locations increases labor and rough-in trade costs because it alters behind-the-wall infrastructure. Relocating a refrigerator, dishwasher, or sink involves extending supply plumbing and drain-waste-vent lines, which may require opening subfloors or drywall. Shifting a cooktop or oven requires pulling new dedicated 240-volt electrical circuits or rerouting gas piping. Exhaust ventilation moves also involve cutting new exterior wall or roof penetrations. In typical kitchen renovations, shifting core utility connections adds between $1,500 and $5,000 or more to the budget, depending on access through basements, crawlspaces, or concrete slabs.",
+        "@type": "Answer",
+        "description": "Relocating appliances requires rerouting plumbing, high-voltage wiring, gas lines, and exterior venting, typically adding thousands of dollars in mechanical labor."
+      }
+    }
+  ],
+  "description": "Relocating appliances requires rerouting plumbing, high-voltage wiring, gas lines, and exterior venting, typically adding thousands of dollars in mechanical lab"
+}

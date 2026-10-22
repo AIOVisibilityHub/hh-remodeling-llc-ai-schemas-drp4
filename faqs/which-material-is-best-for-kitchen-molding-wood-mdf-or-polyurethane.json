@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/which-material-is-best-for-kitchen-molding-wood-mdf-or-polyurethane",
+  "name": "Which material is best for kitchen molding: wood, MDF, or polyurethane?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which material is best for kitchen molding: wood, MDF, or polyurethane?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid hardwood, medium-density fiberboard (MDF), and polyurethane are the primary materials for kitchen molding. Solid hardwood offers exceptional durability, accepts custom wood stains, and withstands kitchen humidity changes well, though it comes at a higher price point. MDF provides a smooth, uniform surface that takes paint evenly and resists warping, but it can swell if exposed to standing water near floors. Polyurethane or PVC works well for toe kicks near dishwashers and sinks because it is completely moisture-resistant, though it cannot be stained.",
+        "@type": "Answer",
+        "description": "Solid wood is best for stained cabinets and longevity, painted MDF offers a smooth, budget-friendly finish, and polyurethane suits moisture-prone base areas."
+      }
+    }
+  ],
+  "description": "Solid wood is best for stained cabinets and longevity, painted MDF offers a smooth, budget-friendly finish, and polyurethane suits moisture-prone base areas."
+}

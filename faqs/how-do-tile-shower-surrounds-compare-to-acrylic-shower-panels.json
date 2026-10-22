@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-tile-shower-surrounds-compare-to-acrylic-shower-panels",
+  "name": "How do tile shower surrounds compare to acrylic shower panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do tile shower surrounds compare to acrylic shower panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain and ceramic tile offer exceptional durability, design versatility, and water resistance, but they require professional waterproofing, mortar bed prep, and periodic grout maintenance. Acrylic or composite wall surrounds are faster to install, cost less in labor, and feature seamless, easy-to-clean surfaces with no grout lines that can harbor mildew. The tradeoff comes down to aesthetics and longevity: tile provides a custom, high-end appearance that adds lasting market value, whereas prefabricated panels offer a practical, budget-conscious solution with minimal long-term cleaning requirements.",
+        "@type": "Answer",
+        "description": "Tile offers custom design and long-term value but requires grout maintenance, while acrylic panels install faster, cost less, and eliminate grout upkeep."
+      }
+    }
+  ],
+  "description": "Tile offers custom design and long-term value but requires grout maintenance, while acrylic panels install faster, cost less, and eliminate grout upkeep."
+}

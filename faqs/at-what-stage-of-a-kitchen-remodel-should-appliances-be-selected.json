@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-of-a-kitchen-remodel-should-appliances-be-selected",
+  "name": "At what stage of a kitchen remodel should appliances be selected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a kitchen remodel should appliances be selected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Select and finalize all major appliances during the early design phase before cabinetry orders or framing changes occur. Cabinet manufacturers require exact manufacturer specification sheets, known as cut sheets, to build accurate openings, filler panels, and integrated panel fronts. Furthermore, rough-in trades need these specs to place dedicated electrical circuits, water lines, and ventilation ducting in the exact required wall studs or floor joists. Choosing appliances after cabinets are ordered often leads to costly cabinet alterations, delayed project timelines, or aesthetic compromises like filler strips and uneven sightlines.",
+        "@type": "Answer",
+        "description": "Choose all major appliances during initial design planning before ordering cabinets, ensuring exact rough-in locations and proper custom cabinet dimensions."
+      }
+    }
+  ],
+  "description": "Choose all major appliances during initial design planning before ordering cabinets, ensuring exact rough-in locations and proper custom cabinet dimensions."
+}

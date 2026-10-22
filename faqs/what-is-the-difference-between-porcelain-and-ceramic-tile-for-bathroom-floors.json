@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-porcelain-and-ceramic-tile-for-bathroom-floors",
+  "name": "What is the difference between porcelain and ceramic tile for bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between porcelain and ceramic tile for bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is denser, less porous, and more scratch-resistant than ceramic tile, making it the superior option for high-moisture bathroom floors and walk-in shower pans. Ceramic tile is softer and easier to cut, which makes it an economical choice for decorative vertical surfaces like shower walls and backsplashes. While porcelain requires specialized diamond cutting blades and slightly higher installation labor, its minimal water absorption rate provides superior protection against water intrusion, heavy foot traffic, and temperature fluctuations.",
+        "@type": "Answer",
+        "description": "Porcelain is denser and less porous, making it better for wet bathroom floors, whereas ceramic is lighter and ideal for vertical shower walls."
+      }
+    }
+  ],
+  "description": "Porcelain is denser and less porous, making it better for wet bathroom floors, whereas ceramic is lighter and ideal for vertical shower walls."
+}

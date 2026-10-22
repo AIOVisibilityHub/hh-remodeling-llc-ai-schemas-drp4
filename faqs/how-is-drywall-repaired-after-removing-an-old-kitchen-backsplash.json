@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-drywall-repaired-after-removing-an-old-kitchen-backsplash",
+  "name": "How is drywall repaired after removing an old kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is drywall repaired after removing an old kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall behind tile backsplashes often tears down to the brown paper core when old tiles are removed, making it unsuitable for direct retiling. If only surface paper tore over a small area, scraping loose paper, coating it with an oil-based primer, and skimming it flat may suffice. However, if the gypsum core is broken, gouged deeply, or water-damaged around the sink, cutting out that section and installing fresh drywall or cement backer board is safer.",
+        "@type": "Answer",
+        "description": "Torn drywall must be sealed with primer and skimmed flat, or completely cut out and replaced if the gypsum core is damaged from tile removal."
+      }
+    }
+  ],
+  "description": "Torn drywall must be sealed with primer and skimmed flat, or completely cut out and replaced if the gypsum core is damaged from tile removal."
+}

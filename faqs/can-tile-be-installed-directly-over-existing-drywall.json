@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-tile-be-installed-directly-over-existing-drywall",
+  "name": "Can tile be installed directly over existing drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tile be installed directly over existing drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tile over existing drywall if it is clean, dry, flat, and structurally sound. However, painted walls should be lightly scuffed or scored to help thin-set mortar bond securely. If the wall has extensive grease buildup or loose plaster, the surface must be cleaned or repaired first. In areas subject to severe moisture, or when hanging very heavy natural stone tiles, replacing damaged drywall with a cement backer board or fiber-cement underlayment provides a stronger, moisture-resistant bonding surface.",
+        "@type": "Answer",
+        "description": "Yes, tile can be installed over clean, sound drywall. Painted walls must be scuffed for adhesion, while damaged walls may require cement backer board."
+      }
+    }
+  ],
+  "description": "Yes, tile can be installed over clean, sound drywall. Painted walls must be scuffed for adhesion, while damaged walls may require cement backer board."
+}

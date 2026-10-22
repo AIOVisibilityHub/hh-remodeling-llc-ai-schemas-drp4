@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-careful-cabinet-removal-or-complete-demolition",
+  "name": "Should I choose careful cabinet removal or complete demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose careful cabinet removal or complete demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between demolition and careful removal comes down to your budget and future plans for the materials. Destructive demolition is faster and slightly cheaper in upfront labor, but it destroys the boxes and produces splintered debris. Careful removal preserves the cabinetry so it can be repurposed in a basement, garage, or donated. It also protects surrounding drywall, flooring, and hidden plumbing lines from accidental impact damage.",
+        "@type": "Answer",
+        "description": "Choose careful removal if you want to salvage the cabinets or protect your drywall, and opt for fast demolition only if the units are ruined and being discarded."
+      }
+    }
+  ],
+  "description": "Choose careful removal if you want to salvage the cabinets or protect your drywall, and opt for fast demolition only if the units are ruined and being discarded"
+}

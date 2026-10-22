@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/does-a-kitchen-addition-require-upgrading-my-home-s-electrical-panel",
+  "name": "Does a kitchen addition require upgrading my home's electrical panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a kitchen addition require upgrading my home's electrical panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modern kitchen additions frequently demand an electrical panel upgrade or a dedicated subpanel to handle code-mandated electrical demands. New kitchens require multiple dedicated 20-amp small appliance branch circuits, separate circuits for dishwashers, microwaves, and garbage disposals, plus heavy loads for induction cooktops or wall ovens. An electrician will calculate your home's total load capacity during the planning phase to determine if your main service panel needs an increase.",
+        "@type": "Answer",
+        "description": "Often yes, because new code-mandated circuits for high-draw appliances and outlets can exceed the capacity of an older electrical panel."
+      }
+    }
+  ],
+  "description": "Often yes, because new code-mandated circuits for high-draw appliances and outlets can exceed the capacity of an older electrical panel."
+}

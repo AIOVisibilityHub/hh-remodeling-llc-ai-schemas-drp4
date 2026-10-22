@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-molding-are-installed-on-kitchen-cabinets",
+  "name": "What types of molding are installed on kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of molding are installed on kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common kitchen moldings include crown molding, light rail molding, toe kicks, and baseboards. Crown molding sits atop upper cabinets or joins them to the ceiling to create a finished appearance. Light rail molding attaches to the bottom edge of upper cabinets to conceal under-cabinet lighting fixtures and wiring. Baseboards and toe kicks protect lower cabinet bases from foot traffic, scuffs, and moisture. Choosing the right profile depends on your cabinet door style: flat or shaker doors suit simple square stock profiles, while raised-panel cabinets typically pair best with traditional contoured profiles.",
+        "@type": "Answer",
+        "description": "Common kitchen moldings include crown molding along cabinet tops, light rail molding underneath to hide lighting, and baseboards or toe kicks along the floor."
+      }
+    }
+  ],
+  "description": "Common kitchen moldings include crown molding along cabinet tops, light rail molding underneath to hide lighting, and baseboards or toe kicks along the floor."
+}

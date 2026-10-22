@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-the-layout-of-my-bathroom-fixtures-and-how-does-it-affect-the-proje",
+  "name": "Can I change the layout of my bathroom fixtures, and how does it affect the project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the layout of my bathroom fixtures, and how does it affect the project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving plumbing fixtures is entirely possible, but it adds labor and cost because it requires cutting into subfloors, modifying joists, and rerouting supply, drain, and vent lines. Shifting a toilet requires maintaining the proper slope on a 3-inch or 4-inch drain pipe, which can be challenging if floor joists run perpendicular to the target location. Relocating a vanity is generally simpler and less expensive because water lines and smaller drain pipes are easier to extend. If your bathroom sits on a concrete slab rather than a framed subfloor, moving drains requires jackhammering concrete, which increases the scope considerably.",
+        "@type": "Answer",
+        "description": "Yes, but moving drains, supply lines, and vents requires opening floors and walls, which increases labor costs, especially if your home sits on a concrete slab foundation."
+      }
+    }
+  ],
+  "description": "Yes, but moving drains, supply lines, and vents requires opening floors and walls, which increases labor costs, especially if your home sits on a concrete slab"
+}

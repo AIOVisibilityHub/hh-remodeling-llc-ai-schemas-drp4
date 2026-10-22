@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-install-countertops-or-the-backsplash-first",
+  "name": "Should I install countertops or the backsplash first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install countertops or the backsplash first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always install the countertops first. Countertops provide the level, stable base that installers use to establish the bottom layout line for the tile. Additionally, installing a backsplash beforehand risks damaging the lower row of tile when heavy stone or quartz slabs are dropped into place. Waiting until countertops are secured ensures a tight, uniform expansion gap that can be cleanly sealed with flexible silicone caulk rather than rigid grout.",
+        "@type": "Answer",
+        "description": "Always install countertops first to establish a stable reference line and protect the new tile from heavy slab installation damage."
+      }
+    }
+  ],
+  "description": "Always install countertops first to establish a stable reference line and protect the new tile from heavy slab installation damage."
+}

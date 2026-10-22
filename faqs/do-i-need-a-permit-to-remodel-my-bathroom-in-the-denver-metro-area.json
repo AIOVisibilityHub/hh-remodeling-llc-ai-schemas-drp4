@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-permit-to-remodel-my-bathroom-in-the-denver-metro-area",
+  "name": "Do I need a permit to remodel my bathroom in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remodel my bathroom in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A building permit is generally required whenever you move or alter plumbing pipes, add new electrical circuits, or remove framing walls. Surface-level replacements—such as swapping an existing vanity, installing a new toilet in the same spot, or laying new floor tile—often do not require a permit. Across Denver, Centennial, and Parker building departments, major reconfigurations and mechanical changes require inspections to verify safety, waterproofing, and proper venting. Your contractor should confirm local jurisdiction requirements before tearing into walls.",
+        "@type": "Answer",
+        "description": "Permits are usually required if you alter plumbing lines, electrical wiring, or structural framing, while simple fixture replacements typically do not need one."
+      }
+    }
+  ],
+  "description": "Permits are usually required if you alter plumbing lines, electrical wiring, or structural framing, while simple fixture replacements typically do not need one."
+}

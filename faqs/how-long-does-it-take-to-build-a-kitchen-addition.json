@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-build-a-kitchen-addition",
+  "name": "How long does it take to build a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen additions take between three and six months of active construction, excluding initial design, architectural drafting, and municipal permitting. Weather conditions, foundation excavation, and trade inspections can influence the total timeline. You gain brand-new living space and layout flexibility, but you must plan for extended utility disruptions. Water and gas lines are often shut off during tie-ins, meaning homeowners typically need to establish a temporary cooking station elsewhere in the home for several weeks.",
+        "@type": "Answer",
+        "description": "Active construction typically takes three to six months, not including design and permitting phases."
+      }
+    }
+  ],
+  "description": "Active construction typically takes three to six months, not including design and permitting phases."
+}

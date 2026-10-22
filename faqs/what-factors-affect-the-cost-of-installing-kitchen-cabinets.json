@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-affect-the-cost-of-installing-kitchen-cabinets",
+  "name": "What factors affect the cost of installing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of installing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Labor costs for cabinet installation vary based on cabinet construction, kitchen size, and required wall modifications. Stock, pre-assembled cabinets are the most economical to install, whereas flat-pack units requiring on-site assembly increase labor hours. Semi-custom and custom cabinetry demand precise leveling, scribing to uneven walls, and detailed trim work, which raises installation costs. Removing old cabinetry, repairing damaged drywall, or modifying framing also changes the final installation estimate.",
+        "@type": "Answer",
+        "description": "Labor costs depend on the total cabinet count, whether units require on-site assembly, the amount of custom trim work, and necessary wall or framing repairs."
+      }
+    }
+  ],
+  "description": "Labor costs depend on the total cabinet count, whether units require on-site assembly, the amount of custom trim work, and necessary wall or framing repairs."
+}

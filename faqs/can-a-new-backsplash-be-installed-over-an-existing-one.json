@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-new-backsplash-be-installed-over-an-existing-one",
+  "name": "Can a new backsplash be installed over an existing one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new backsplash be installed over an existing one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can install new tile over existing tile only if the original surface is completely solid, level, and free of loose pieces, but removing the old layer is usually recommended. Tiling over an existing layer adds extra thickness, which often pushes the wall surface past cabinet edges, trim, and countertop depths. It also requires electrical junction boxes to be extended further outward. Removing the old tile down to the drywall or backer board ensures a flat surface and permanent mortar bond.",
+        "@type": "Answer",
+        "description": "While technically possible if the old tile is firmly bonded, removing existing tile is best to avoid thickness issues and ensure lasting adhesion."
+      }
+    }
+  ],
+  "description": "While technically possible if the old tile is firmly bonded, removing existing tile is best to avoid thickness issues and ensure lasting adhesion."
+}

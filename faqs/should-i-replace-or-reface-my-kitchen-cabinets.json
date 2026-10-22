@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-or-reface-my-kitchen-cabinets",
+  "name": "Should I replace or reface my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or reface my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose replacement if your existing cabinet boxes have water damage, warped frames, broken particle board, or an outdated layout that fails to meet your storage needs. Refacing saves money and reduces disruption if the structural boxes are solid hardwood or sturdy plywood and you simply want a new door style, color, or updated hardware. However, refacing will not fix layout bottlenecks, poor workflow, or sagging shelving.",
+        "@type": "Answer",
+        "description": "Replace your cabinets if the boxes are structurally damaged or the layout needs redesigning. Reface if your existing boxes are sturdy and you only want updated doors and finishes."
+      }
+    }
+  ],
+  "description": "Replace your cabinets if the boxes are structurally damaged or the layout needs redesigning. Reface if your existing boxes are sturdy and you only want updated"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-bathroom-upgrade-take-to-complete",
+  "name": "How long does a typical bathroom upgrade take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom upgrade take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard bathroom upgrades take between two and four weeks of active construction, while full master suite remodels can take four to eight weeks. The timeline depends heavily on the scope of work, material availability, and whether plumbing lines or electrical layouts are being moved. A cosmetic refresh—replacing a vanity, mirror, toilet, and hardware—can often wrap up in a few days. However, custom tile showers require adequate drying and curing time between waterproofing, mortar, and grouting stages. Ordering custom cabinetry, glass doors, or specialty fixtures well before demolition begins helps prevent mid-project delays.",
+        "@type": "Answer",
+        "description": "A standard bathroom upgrade takes 2 to 4 weeks of construction, while larger or custom layouts take 4 to 8 weeks depending on tile work, plumbing changes, and material lead times."
+      }
+    }
+  ],
+  "description": "A standard bathroom upgrade takes 2 to 4 weeks of construction, while larger or custom layouts take 4 to 8 weeks depending on tile work, plumbing changes, and m"
+}

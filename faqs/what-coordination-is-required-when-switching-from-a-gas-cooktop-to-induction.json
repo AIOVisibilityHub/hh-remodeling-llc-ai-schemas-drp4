@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-coordination-is-required-when-switching-from-a-gas-cooktop-to-induction",
+  "name": "What coordination is required when switching from a gas cooktop to induction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What coordination is required when switching from a gas cooktop to induction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Switching to induction requires coordinating an electrical panel assessment and potentially running a new dedicated high-amp line. Most gas cooktops require only a standard 120-volt outlet for the electronic ignition, whereas induction cooktops typically demand a dedicated 240-volt circuit drawing 40 to 50 amps. Additionally, the existing gas line must be capped off safely behind the cabinetry. Coordinating this transition early ensures your electrical panel has adequate capacity and wire gauge before backsplashes and base cabinets are permanently installed.",
+        "@type": "Answer",
+        "description": "Switching to induction requires safely capping the old gas pipe and coordinating an electrician to run a dedicated 240-volt, 40- to 50-amp circuit to the cooktop cabinet."
+      }
+    }
+  ],
+  "description": "Switching to induction requires safely capping the old gas pipe and coordinating an electrician to run a dedicated 240-volt, 40- to 50-amp circuit to the cookto"
+}

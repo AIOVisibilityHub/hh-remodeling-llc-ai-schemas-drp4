@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-maintain-and-seal-a-newly-installed-backsplash",
+  "name": "How do I maintain and seal a newly installed backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain and seal a newly installed backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout lines should be cleaned periodically using a pH-neutral cleaner and a soft-bristle brush, avoiding harsh acids that can degrade the cement mixture. If your backsplash features unglazed tile or cementitious grout, apply a penetrating sealer after installation and reapply it every one to two years to prevent cooking oil and grease from penetrating. Backsplashes behind cooktops benefit greatly from stain-resistant urethane or epoxy grouts, which do not require routine resealing.",
+        "@type": "Answer",
+        "description": "Clean with a pH-neutral cleaner and apply penetrating sealer to cement grout and porous stone annually, especially around the cooktop."
+      }
+    }
+  ],
+  "description": "Clean with a pH-neutral cleaner and apply penetrating sealer to cement grout and porous stone annually, especially around the cooktop."
+}

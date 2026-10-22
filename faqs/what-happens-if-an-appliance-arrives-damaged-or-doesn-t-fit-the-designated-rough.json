@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-if-an-appliance-arrives-damaged-or-doesn-t-fit-the-designated-rough",
+  "name": "What happens if an appliance arrives damaged or doesn't fit the designated rough-in space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if an appliance arrives damaged or doesn't fit the designated rough-in space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If an appliance arrives damaged or does not fit, installation for that specific unit pauses while the rest of the remodel proceeds. If a unit is damaged upon delivery, it must be documented immediately with the supplier for replacement. If an opening is misaligned, having hookup coordination means the remodeling team can quickly check cabinet clearances and rough-in tolerances against the manufacturer guide to resolve the issue before final hookups, rather than leaving you stranded between an appliance retailer and third-party installers.",
+        "@type": "Answer",
+        "description": "Hookup halts for that unit to document carrier damage or resolve cabinet clearance issues directly against manufacturer spec sheets while other work continues."
+      }
+    }
+  ],
+  "description": "Hookup halts for that unit to document carrier damage or resolve cabinet clearance issues directly against manufacturer spec sheets while other work continues."
+}

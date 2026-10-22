@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-my-old-tub-with-a-walk-in-shower-or-another-bathtub",
+  "name": "Should I replace my old tub with a walk-in shower or another bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my old tub with a walk-in shower or another bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a tub with a walk-in shower provides easier physical accessibility, opens visual space in smaller bathrooms, and simplifies everyday cleaning. The primary tradeoff is the potential impact on home resale appeal if you eliminate the only bathtub in the property, as buyers with young children often prioritize having at least one tub. If your home has multiple full bathrooms, converting a secondary tub into a walk-in shower delivers high daily functionality without compromising overall market appeal.",
+        "@type": "Answer",
+        "description": "A walk-in shower improves accessibility and space, but keeping at least one bathtub in the home is recommended to preserve appeal for buyers with young children."
+      }
+    }
+  ],
+  "description": "A walk-in shower improves accessibility and space, but keeping at least one bathtub in the home is recommended to preserve appeal for buyers with young children"
+}

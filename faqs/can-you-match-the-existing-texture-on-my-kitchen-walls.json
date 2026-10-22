@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-match-the-existing-texture-on-my-kitchen-walls",
+  "name": "Can you match the existing texture on my kitchen walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match the existing texture on my kitchen walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching textured kitchen walls is common, but it requires testing because kitchen lighting often highlights subtle flaws. Whether your kitchen has knockdown, orange peel, or smooth Level 5 finishing, the repair specialist applies test sprays on sample boards before spraying the wall. Grease residue around cooking areas must be cleaned completely before texturing, or the compound will not adhere properly. Feathering the edges wide into the surrounding wall ensures the repair blends under under-cabinet lighting.",
+        "@type": "Answer",
+        "description": "Yes. Contractors match orange peel, knockdown, or smooth textures by testing spray patterns and feathering the edges into the existing wall surface."
+      }
+    }
+  ],
+  "description": "Yes. Contractors match orange peel, knockdown, or smooth textures by testing spray patterns and feathering the edges into the existing wall surface."
+}

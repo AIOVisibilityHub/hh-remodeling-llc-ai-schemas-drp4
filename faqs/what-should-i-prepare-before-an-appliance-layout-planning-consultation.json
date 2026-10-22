@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-an-appliance-layout-planning-consultation",
+  "name": "What should I prepare before an appliance layout planning consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an appliance layout planning consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gather detailed dimensions of your existing room, including ceiling heights, window casing locations, and doorways. Research and document specific model numbers or cut sheets for your preferred appliances, noting their fuel requirements—such as 120V versus 240V electric or natural gas. Identify how your household uses the kitchen: note whether multiple cooks work together, if you host large gatherings, or if you need specialized zones like a coffee bar or wine cooler. Bringing these lifestyle notes and appliance specifications to your designer ensures initial space plans are tailored accurately to your daily routine.",
+        "@type": "Answer",
+        "description": "Gather rough room dimensions, preferred appliance model specification sheets, fuel types, and notes on how your household cooks, moves, and entertains."
+      }
+    }
+  ],
+  "description": "Gather rough room dimensions, preferred appliance model specification sheets, fuel types, and notes on how your household cooks, moves, and entertains."
+}

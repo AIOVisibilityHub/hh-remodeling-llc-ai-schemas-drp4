@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-replace-my-kitchen-floor-instead-of-repairing-i",
+  "name": "How do I know when it is time to replace my kitchen floor instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to replace my kitchen floor instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your kitchen floor when you see structural damage, extensive wear, or water-related issues that cannot be spot-repaired. Clear signs include cracked or loose tiles, missing grout, cupping or warped floorboards, soft spots underfoot, and persistent squeaks. Water damage near the sink, dishwasher, or refrigerator is especially critical because trapped moisture can compromise the subfloor underneath. If the flooring is visibly dated, stained beyond cleaning, or no longer aligns with adjacent room heights during an open-concept remodel, replacement is usually the best approach.",
+        "@type": "Answer",
+        "description": "Replace your floor if you notice soft subfloor spots, water damage, warped boards, cracked tiles, or widespread wear that spot repairs cannot resolve."
+      }
+    }
+  ],
+  "description": "Replace your floor if you notice soft subfloor spots, water damage, warped boards, cracked tiles, or widespread wear that spot repairs cannot resolve."
+}

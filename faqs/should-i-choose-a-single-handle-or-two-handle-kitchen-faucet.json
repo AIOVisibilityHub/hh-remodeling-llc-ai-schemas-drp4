@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-single-handle-or-two-handle-kitchen-faucet",
+  "name": "Should I choose a single-handle or two-handle kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a single-handle or two-handle kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Single-handle faucets offer convenience, letting you adjust temperature and water flow with one hand, which is ideal when cooking. Two-handle faucets provide precise separate control of hot and cold water and fit traditional decor. The tradeoff is installation complexity: single-handle faucets typically use a single hole (with an optional escutcheon plate), whereas two-handle designs require three holes spaced specifically. Selecting a model that matches your current sink drillings avoids the need for drilling extra holes in stone surfaces.",
+        "@type": "Answer",
+        "description": "Single-handle faucets provide quick one-handed temperature adjustments, while two-handle models offer precise control but require multiple holes."
+      }
+    }
+  ],
+  "description": "Single-handle faucets provide quick one-handed temperature adjustments, while two-handle models offer precise control but require multiple holes."
+}

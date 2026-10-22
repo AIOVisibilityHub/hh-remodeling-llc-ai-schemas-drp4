@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-tile-material-for-bathroom-floors-and-shower-surrounds",
+  "name": "What is the best tile material for bathroom floors and shower surrounds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best tile material for bathroom floors and shower surrounds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is generally the best choice for bathroom floors and shower walls due to its high density, scratch resistance, and near-zero water absorption. Natural stone like marble or travertine looks elegant but is porous, prone to staining from body oils and soaps, and requires regular resealing. Ceramic tile works well on low-traffic walls but is less durable on floors than porcelain. For shower floors, choose smaller mosaic tiles because the frequent grout joints provide necessary slip resistance under wet feet.",
+        "@type": "Answer",
+        "description": "Porcelain tile is the top choice for its durability and moisture resistance. Smaller mosaic porcelain tiles work best on shower pans for slip resistance."
+      }
+    }
+  ],
+  "description": "Porcelain tile is the top choice for its durability and moisture resistance. Smaller mosaic porcelain tiles work best on shower pans for slip resistance."
+}

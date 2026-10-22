@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-bathtub-removal-usually-cost",
+  "name": "How much does bathtub removal usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathtub removal usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The labor and disposal for removing a standard bathtub typically range from a few hundred to over a thousand dollars, depending on the material and surrounding damage. A standalone fiberglass alcove tub is the least labor-intensive to extract. In contrast, heavy cast iron fixtures or built-in garden tubs encased in mortar and tile require significantly more demolition time, safety precautions, and debris disposal fees. Total project costs also adjust if hidden subfloor water damage or rotted framing requires immediate repair upon exposure.",
+        "@type": "Answer",
+        "description": "Removal usually costs between a few hundred and over a thousand dollars, depending on tub material, surrounding tile demolition, and disposal weight."
+      }
+    }
+  ],
+  "description": "Removal usually costs between a few hundred and over a thousand dollars, depending on tub material, surrounding tile demolition, and disposal weight."
+}

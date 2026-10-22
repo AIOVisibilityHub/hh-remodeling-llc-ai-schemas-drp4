@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-type-of-flooring-for-a-kitchen",
+  "name": "What is the best type of flooring for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best flooring depends on how you use your kitchen, but luxury vinyl plank (LVP) and porcelain tile are the most popular choices. LVP is 100% waterproof, softer underfoot, and resistant to scratches from pets or dropped dishes. Porcelain tile offers superior durability, heat resistance, and long-term value, though it feels harder and colder unless installed with radiant heating. Hardwood remains a classic aesthetic choice, but it requires careful moisture management and immediate cleanup of spills. Factors like household foot traffic, subfloor condition, and whether you have pets will determine the ideal fit for your home.",
+        "@type": "Answer",
+        "description": "Luxury vinyl plank and porcelain tile are top choices due to water resistance and durability. Hardwood offers timeless appeal but requires more maintenance around moisture."
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank and porcelain tile are top choices due to water resistance and durability. Hardwood offers timeless appeal but requires more maintenance arou"
+}

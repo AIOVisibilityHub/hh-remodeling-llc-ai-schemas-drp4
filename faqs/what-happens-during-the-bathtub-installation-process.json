@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-during-the-bathtub-installation-process",
+  "name": "What happens during the bathtub installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the bathtub installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation begins with shutting off the bathroom water supply and removing the existing fixture, wall surround, and trim. Installers inspect the exposed subfloor and wall studs for rot, level the floor, and verify drain alignment. Next, the new tub is dry-fitted, set into a mortar bed if specified by the manufacturer, and fastened to wall stringers or studs. Once the drain, overflow, and supply plumbing are connected and leak-tested, waterproofing, wall board, tile surrounds, and finish caulk are installed.",
+        "@type": "Answer",
+        "description": "The old tub and surround are removed, the subfloor is inspected and leveled, plumbing is aligned, the new tub is secured and leak-tested, and waterproof surrounds are finished."
+      }
+    }
+  ],
+  "description": "The old tub and surround are removed, the subfloor is inspected and leveled, plumbing is aligned, the new tub is secured and leak-tested, and waterproof surroun"
+}

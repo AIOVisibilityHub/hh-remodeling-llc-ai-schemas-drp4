@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-paint-a-kitchen",
+  "name": "How long does it take to paint a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional kitchen painting usually takes between two to five days depending on whether the project includes walls only or full cabinet refinishing. Painting kitchen walls, trim, and ceilings typically wraps up in two days. Painting cabinets extends the schedule because doors and drawer fronts must be removed, cleaned of grease, sanded, primed, painted in multiple coats, and allowed to cure properly before reinstallation. The overall timeline also changes based on the size of the room, required drywall repairs, and local drying conditions in dry climates like the Denver metro area.",
+        "@type": "Answer",
+        "description": "Kitchen walls and trim take about two days, while adding cabinet painting extends the project to three to five days to allow proper surface preparation and curing."
+      }
+    }
+  ],
+  "description": "Kitchen walls and trim take about two days, while adding cabinet painting extends the project to three to five days to allow proper surface preparation and curi"
+}

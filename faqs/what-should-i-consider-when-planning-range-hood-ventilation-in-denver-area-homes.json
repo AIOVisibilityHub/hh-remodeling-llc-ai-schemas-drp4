@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-consider-when-planning-range-hood-ventilation-in-denver-area-homes",
+  "name": "What should I consider when planning range hood ventilation in Denver-area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning range hood ventilation in Denver-area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ventilation hoods must be sized to match the heat and moisture output of your cooking equipment, especially high-output gas burners. For gas cooktops, hoods generally require at least 100 CFM of airflow per 10,000 BTUs. In the Denver metro area, including communities like Parker and Centennial, building codes require dedicated make-up air systems when exhaust hoods exceed 400 CFM. These systems bring fresh outdoor air inside to balance indoor air pressure and prevent backdrafting carbon monoxide from water heaters or furnaces. Sizing the duct path along the shortest route to an exterior wall minimizes noise and maximizes capture efficiency.",
+        "@type": "Answer",
+        "description": "Match hood CFM to cooktop BTUs and plan for make-up air systems if exceeding 400 CFM, as required by building codes across Denver and surrounding suburbs."
+      }
+    }
+  ],
+  "description": "Match hood CFM to cooktop BTUs and plan for make-up air systems if exceeding 400 CFM, as required by building codes across Denver and surrounding suburbs."
+}

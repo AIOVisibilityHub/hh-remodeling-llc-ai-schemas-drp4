@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-coped-and-mitered-joints-on-kitchen-moldings",
+  "name": "What is the difference between coped and mitered joints on kitchen moldings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between coped and mitered joints on kitchen moldings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coped joints are the professional standard for inside corners, while mitered joints are used for outside corners. A coped joint involves cutting a 45-degree angle on one board to trace its profile, then using a coping saw to back-cut the contour so it nests cleanly over the adjacent flat-cut board. While cutting simple 45-degree miters for inside corners is faster, dry Colorado air causes wood to shrink across seasons, causing mitered inside corners to pull apart and expose gaps. Coped joints hold a tight visual appearance even as wood expands and contracts.",
+        "@type": "Answer",
+        "description": "Mitered joints join two 45-degree cuts, while coped joints cut one trim piece to overlap the other's exact profile, preventing gaps from seasonal wood movement."
+      }
+    }
+  ],
+  "description": "Mitered joints join two 45-degree cuts, while coped joints cut one trim piece to overlap the other's exact profile, preventing gaps from seasonal wood movement."
+}

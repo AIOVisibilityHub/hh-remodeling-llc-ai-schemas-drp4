@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-a-kitchen-addition-be-built-on-a-crawlspace-basement-or-concrete-slab",
+  "name": "Should a kitchen addition be built on a crawlspace, basement, or concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should a kitchen addition be built on a crawlspace, basement, or concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building on a crawlspace or basement allows easier access for future plumbing and mechanical servicing, whereas a concrete slab is often faster to pour but limits subfloor access. If your existing house has a crawlspace or basement, matching the addition foundation usually prevents uneven floor transitions. In communities like Parker and Foxfield with variable soil conditions, structural soil engineering dictates whether deep concrete piers or standard continuous footings are required.",
+        "@type": "Answer",
+        "description": "It depends on your existing home's foundation, local soil conditions, and your preference for underfloor access to plumbing and ductwork."
+      }
+    }
+  ],
+  "description": "It depends on your existing home's foundation, local soil conditions, and your preference for underfloor access to plumbing and ductwork."
+}

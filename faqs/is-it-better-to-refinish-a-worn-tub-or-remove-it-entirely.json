@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-it-better-to-refinish-a-worn-tub-or-remove-it-entirely",
+  "name": "Is it better to refinish a worn tub or remove it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to refinish a worn tub or remove it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing coats the existing surface to mask minor stains and cosmetic chips, making it a faster, lower-cost option when the fixture is structurally sound. Removing the tub allows you to address underlying issues, such as dry rot, leaking drain traps, poor insulation on exterior walls, or outdated layouts. While refinishing saves on immediate demolition, it does not solve plumbing degradation, poor ergonomics, or structural subfloor weakness.",
+        "@type": "Answer",
+        "description": "Refinishing addresses surface wear cheaply, but total removal is necessary to fix plumbing issues, resolve water damage, or change the bathroom layout."
+      }
+    }
+  ],
+  "description": "Refinishing addresses surface wear cheaply, but total removal is necessary to fix plumbing issues, resolve water damage, or change the bathroom layout."
+}

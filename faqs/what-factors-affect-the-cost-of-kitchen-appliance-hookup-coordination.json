@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-affect-the-cost-of-kitchen-appliance-hookup-coordination",
+  "name": "What factors affect the cost of kitchen appliance hookup coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of kitchen appliance hookup coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on whether existing utility lines already exist in the correct locations or if new dedicated runs are required. Simple reconnects in an unchanged layout carry minimal labor expenses, while relocating a gas line across the room, running a 240-volt circuit for an induction cooktop, or routing a new water line through finished walls increases trade labor costs. Choosing to coordinate these connections within your remodeling scope prevents the higher expense of tearing into finished drywall or modifying custom cabinetry later due to misaligned hookups.",
+        "@type": "Answer",
+        "description": "Costs vary based on whether existing utility lines match the new layout or require new dedicated plumbing, gas relocation, and high-voltage electrical runs."
+      }
+    }
+  ],
+  "description": "Costs vary based on whether existing utility lines match the new layout or require new dedicated plumbing, gas relocation, and high-voltage electrical runs."
+}

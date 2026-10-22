@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-it-time-to-replace-kitchen-tile-rather-than-repair-it",
+  "name": "When is it time to replace kitchen tile rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace kitchen tile rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your kitchen tile when you notice persistent signs of structural failure, deep wear, or moisture intrusion. Cracked or tenting tiles indicate the subfloor has shifted or the mortar bond has detached. Grout lines that crumble or turn moldy despite regular cleaning often signal that water has seeped into the substrate below. Hollow sounds when walking across specific areas also mean tiles have debonded from the mortar bed. Beyond structural problems, outdated styling or uneven surfaces that cause tripping hazards are common reasons to upgrade.",
+        "@type": "Answer",
+        "description": "Replace kitchen tile if you see widespread cracking, loose or hollow tiles, persistent grout mold, or subfloor movement that repairs cannot fix."
+      }
+    }
+  ],
+  "description": "Replace kitchen tile if you see widespread cracking, loose or hollow tiles, persistent grout mold, or subfloor movement that repairs cannot fix."
+}

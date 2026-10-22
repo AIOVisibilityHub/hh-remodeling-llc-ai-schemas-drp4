@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-quartz-or-granite-for-my-kitchen-countertops",
+  "name": "Should I choose quartz or granite for my kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose quartz or granite for my kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quartz is an engineered stone that is non-porous, stain-resistant, and never requires sealing, making it exceptionally low maintenance for busy kitchens. Granite is a 100 percent natural stone offering unique veining and high heat resistance, but it must be periodically resealed to prevent oil and liquid absorption. If you prioritize zero maintenance and uniform patterns, quartz is ideal; if you prefer natural variation and superior direct heat tolerance, granite is often the better fit.",
+        "@type": "Answer",
+        "description": "Quartz is non-porous and never needs sealing, making it virtually maintenance-free. Granite offers natural, heat-resistant stone patterns but requires periodic resealing."
+      }
+    }
+  ],
+  "description": "Quartz is non-porous and never needs sealing, making it virtually maintenance-free. Granite offers natural, heat-resistant stone patterns but requires periodic"
+}

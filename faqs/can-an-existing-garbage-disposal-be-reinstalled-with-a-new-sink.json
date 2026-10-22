@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-an-existing-garbage-disposal-be-reinstalled-with-a-new-sink",
+  "name": "Can an existing garbage disposal be reinstalled with a new sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an existing garbage disposal be reinstalled with a new sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases an existing garbage disposal can be reconnected to a new sink, provided the disposal unit is in good mechanical condition. The technician will install a new sink mounting flange and fresh plumber's putty or a rubber gasket to create a watertight seal. However, if the new sink is deeper than your previous basin, the drain outlet height drops, which may require lowering the wall drain pipe connection to maintain proper drainage pitch.",
+        "@type": "Answer",
+        "description": "Yes, existing disposals can be reconnected, but deeper sinks may require adjusting the wall drain height to ensure proper pitch."
+      }
+    }
+  ],
+  "description": "Yes, existing disposals can be reconnected, but deeper sinks may require adjusting the wall drain height to ensure proper pitch."
+}
