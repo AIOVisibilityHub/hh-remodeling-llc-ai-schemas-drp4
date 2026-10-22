@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-drywall-be-attached-directly-to-concrete-basement-walls",
+  "name": "Can drywall be attached directly to concrete basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be attached directly to concrete basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should never be secured directly to raw concrete foundation walls. Concrete is porous and continually transfers moisture, vapor, and outdoor temperature swings inward. You need treated wood or metal framing with proper spacing from the concrete, paired with closed-cell insulation or an approved vapor barrier. Fastening drywall directly to foundation stone or concrete leads to trapped moisture, crumbling board cores, and mold development behind your paint.",
+        "@type": "Answer",
+        "description": "No, drywall should never touch raw concrete directly; it requires framing, proper clearance, and insulation to prevent moisture damage and mold."
+      }
+    }
+  ],
+  "description": "No, drywall should never touch raw concrete directly; it requires framing, proper clearance, and insulation to prevent moisture damage and mold."
+}

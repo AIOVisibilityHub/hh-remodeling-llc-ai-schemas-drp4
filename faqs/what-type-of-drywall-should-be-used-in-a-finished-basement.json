@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-drywall-should-be-used-in-a-finished-basement",
+  "name": "What type of drywall should be used in a finished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall should be used in a finished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant or mold-resistant drywall, often called green board or purple board, is strongly recommended for basements. Basements sit below grade against concrete foundation walls where humidity levels remain higher than upper floors. While standard drywall works fine for upper-level bedrooms, subterranean spaces face ground moisture and condensation risks. Installing mold-resistant boards around exterior foundation framing, laundry closets, and basement bathrooms gives you extra protection against hidden fungal growth and water vapor damage.",
+        "@type": "Answer",
+        "description": "Moisture-resistant or mold-resistant drywall is best for basements due to below-grade humidity and condensation risks near concrete walls."
+      }
+    }
+  ],
+  "description": "Moisture-resistant or mold-resistant drywall is best for basements due to below-grade humidity and condensation risks near concrete walls."
+}

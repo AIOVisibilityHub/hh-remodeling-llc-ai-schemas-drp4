@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-completed-before-basement-drywall-installation-can-begin",
+  "name": "What needs to be completed before basement drywall installation can begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be completed before basement drywall installation can begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hanging drywall, you must verify that all rough framing, plumbing lines, electrical wiring, ductwork, and low-voltage cables have passed inspection. Foundation walls must be inspected for existing water seepage or damp spots, and proper wall insulation must be firmly installed. Address any foundation crack repairs or waterproofing systems beforehand. Once drywall goes up, accessing mechanical components or repairing leaky foundation cracks requires cutting out sections of wallboard.",
+        "@type": "Answer",
+        "description": "All rough framing, plumbing, electrical work, insulation, and foundation moisture mitigation must be completed and inspected before drywall is installed."
+      }
+    }
+  ],
+  "description": "All rough framing, plumbing, electrical work, insulation, and foundation moisture mitigation must be completed and inspected before drywall is installed."
+}

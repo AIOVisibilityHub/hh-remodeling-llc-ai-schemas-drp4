@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-a-floating-basement-wall-and-why-is-it-required-in-the-denver-area",
+  "name": "What is a floating basement wall and why is it required in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floating basement wall and why is it required in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area and Front Range communities like Centennial and Parker, basements are built over expansive clay soil that swells and shrinks with moisture changes. This movement can push the concrete basement floor upward. A floating wall leaves a structural gap—typically 1.5 to 3 inches—between the bottom plate and a base plate anchored to the slab, held together with long floating spikes. This intentional clearance allows the slab to rise and fall without pushing up into the main floor joists or cracking upper-level finishes.",
+        "@type": "Answer",
+        "description": "A floating wall includes a gap at the bottom plate so expansive clay soils can push the basement floor up without shifting the upper levels of your home."
+      }
+    }
+  ],
+  "description": "A floating wall includes a gap at the bottom plate so expansive clay soils can push the basement floor up without shifting the upper levels of your home."
+}

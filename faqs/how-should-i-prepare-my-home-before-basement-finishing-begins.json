@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-basement-finishing-begins",
+  "name": "How should I prepare my home before basement finishing begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before basement finishing begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contractors arrive, clear all personal storage, tools, and seasonal items out of the basement space and clear an accessible path through the house. Document any past water intrusion, damp spots, or seasonal plumbing issues to address foundation sealing before framing. It is also helpful to mark equipment you must keep accessible, such as your main water shutoff valve, electrical panel, furnace, and sump pump. Having a clear list of must-have features—such as dedicated home office circuits or bathroom plumbing—helps your builder draft an accurate layout.",
+        "@type": "Answer",
+        "description": "Clear out all personal belongings, ensure clear access paths, identify past moisture areas, and mark essential utility equipment like panels and shutoff valves."
+      }
+    }
+  ],
+  "description": "Clear out all personal belongings, ensure clear access paths, identify past moisture areas, and mark essential utility equipment like panels and shutoff valves."
+}

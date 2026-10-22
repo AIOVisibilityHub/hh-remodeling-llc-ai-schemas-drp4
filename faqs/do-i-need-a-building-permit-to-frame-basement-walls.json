@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-frame-basement-walls",
+  "name": "Do I need a building permit to frame basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to frame basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes in most jurisdictions, including Colorado Front Range municipalities, require permits for basement finishes that add or alter framed walls. The framing stage involves specific structural and life safety requirements, such as fire blocking in stud bays every 10 feet horizontally and at ceiling transitions. Inspectors must verify the floating wall clearances, fastener types, egress window framing dimensions, and fire-stop materials before insulation and drywall can conceal the framing. Unpermitted framing can delay home sales and create insurance complications.",
+        "@type": "Answer",
+        "description": "Yes, municipalities require building permits to ensure proper fire blocking, egress window rough openings, and floating wall construction before drywall is installed."
+      }
+    }
+  ],
+  "description": "Yes, municipalities require building permits to ensure proper fire blocking, egress window rough openings, and floating wall construction before drywall is inst"
+}

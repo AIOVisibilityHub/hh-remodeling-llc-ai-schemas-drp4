@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-basement-ceiling-framing-and-how-does-it-work",
+  "name": "What is basement ceiling framing and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is basement ceiling framing and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a basement ceiling typically involves installing drop framing or furring strips around exposed floor joists, ductwork, and plumbing lines to create a level, solid surface for drywall. If joists are uneven or mechanical lines hang below the lumber, carpenters build soffits or drop the entire framing plane slightly. Before attaching lumber, all rough mechanicals, wiring, and recessed lighting layouts should be finalized. This preparation ensures pipes and wiring stay fully protected behind wood framing rather than being pinched during drywall hanging.",
+        "@type": "Answer",
+        "description": "Basement ceiling framing attaches wood or metal framing to existing floor joists and around utilities to create a level surface for drywall."
+      }
+    }
+  ],
+  "description": "Basement ceiling framing attaches wood or metal framing to existing floor joists and around utilities to create a level surface for drywall."
+}

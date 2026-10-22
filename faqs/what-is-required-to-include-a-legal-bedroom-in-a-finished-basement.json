@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-required-to-include-a-legal-bedroom-in-a-finished-basement",
+  "name": "What is required to include a legal bedroom in a finished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is required to include a legal bedroom in a finished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can build a legal basement bedroom only if it includes a code-compliant egress window or exterior door for emergency exit. An egress window must meet strict minimum opening dimensions for height, width, and clear square footage, complete with an exterior window well and escape ladder if below grade. The bedroom must also have an approved closet, adequate natural light, sufficient ventilation, and interconnected smoke alarms. Planning the bedroom location near existing perimeter walls where cutting an egress opening is structurally feasible is key to keeping costs manageable.",
+        "@type": "Answer",
+        "description": "A legal basement bedroom requires a code-compliant egress window or exterior door, an interconnected smoke detector, and an approved closet."
+      }
+    }
+  ],
+  "description": "A legal basement bedroom requires a code-compliant egress window or exterior door, an interconnected smoke detector, and an approved closet."
+}

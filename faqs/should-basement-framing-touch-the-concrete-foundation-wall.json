@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-basement-framing-touch-the-concrete-foundation-wall",
+  "name": "Should basement framing touch the concrete foundation wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should basement framing touch the concrete foundation wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement wall framing should not sit flush against concrete. Best practices require leaving an air gap of at least one-half to one inch between the timber studs and the foundation wall. Concrete is porous and naturally wicks moisture from the surrounding soil. If framing lumber makes direct contact, trapped condensation can lead to rot, mold growth, and compromised drywall. Leaving this space also provides room to install continuous rigid foam board insulation and run plumbing lines or electrical conduit cleanly behind the studs without notching your structural lumber.",
+        "@type": "Answer",
+        "description": "No, leave a 0.5 to 1-inch gap between framing and concrete. Direct contact transfers moisture, which causes wood rot and mold, and the gap leaves room for insulation."
+      }
+    }
+  ],
+  "description": "No, leave a 0.5 to 1-inch gap between framing and concrete. Direct contact transfers moisture, which causes wood rot and mold, and the gap leaves room for insul"
+}

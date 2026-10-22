@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-wood-and-fasteners-must-be-used-for-the-bottom-plate-on-a-concrete",
+  "name": "What type of wood and fasteners must be used for the bottom plate on a concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of wood and fasteners must be used for the bottom plate on a concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bottom plates anchored to concrete floors must be pressure-treated lumber or separated by a non-porous capillary break like closed-cell sill gasket. Standard untreated wood wicks moisture directly from the concrete, causing decay and insect vulnerability. Fastening requires hardened masonry fasteners, such as powder-actuated drive pins or specialized concrete anchor screws, spaced every two to three feet. If you plan to glue rigid foam insulation beneath the framing, ensure your mechanical anchors penetrate deep enough into the slab to meet structural shear requirements.",
+        "@type": "Answer",
+        "description": "Use pressure-treated lumber or a sill gasket for the bottom plate, secured to the concrete slab using powder-actuated drive pins or masonry anchor screws."
+      }
+    }
+  ],
+  "description": "Use pressure-treated lumber or a sill gasket for the bottom plate, secured to the concrete slab using powder-actuated drive pins or masonry anchor screws."
+}

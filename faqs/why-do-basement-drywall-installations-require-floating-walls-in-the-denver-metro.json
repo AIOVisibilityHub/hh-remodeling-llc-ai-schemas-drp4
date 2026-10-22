@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-basement-drywall-installations-require-floating-walls-in-the-denver-metro",
+  "name": "Why do basement drywall installations require floating walls in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do basement drywall installations require floating walls in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Colorado building codes generally require floating walls when framing and drywalling basement partitions. Expansive bentonite soils across Denver, Centennial, and Parker expand and contract with moisture shifts, causing the concrete floor slab to rise or settle. Framing crews leave a 1.5 to 2-inch gap at the base of wall studs, secured with specialized floating spikes. Drywall is then hung clear of the bottom plate so floor heaving will not buckle or crack your finished walls.",
+        "@type": "Answer",
+        "description": "Local building codes require floating walls to absorb movement from expansive soils, preventing concrete slab shifting from buckling or cracking your drywall."
+      }
+    }
+  ],
+  "description": "Local building codes require floating walls to absorb movement from expansive soils, preventing concrete slab shifting from buckling or cracking your drywall."
+}

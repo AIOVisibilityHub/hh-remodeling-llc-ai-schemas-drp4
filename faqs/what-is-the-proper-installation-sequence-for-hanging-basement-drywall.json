@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-proper-installation-sequence-for-hanging-basement-drywall",
+  "name": "What is the proper installation sequence for hanging basement drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the proper installation sequence for hanging basement drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall is hung using an organized top-to-bottom sequence across ceilings and walls. Installers hang the ceiling panels first, fitting boards perpendicular to joists so wall panels can later support ceiling edges. Next, upper wall panels are hung flush against the ceiling, followed by bottom panels. In local basements with floating walls, the bottom edge is elevated above the floor plate. Seams are staggered to reduce structural cracking, and all electrical cutouts are measured and routed cleanly.",
+        "@type": "Answer",
+        "description": "Ceilings are installed first, followed by upper wall panels and then lower panels, keeping bottom edges elevated above the slab on floating frames."
+      }
+    }
+  ],
+  "description": "Ceilings are installed first, followed by upper wall panels and then lower panels, keeping bottom edges elevated above the slab on floating frames."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-ceiling-framing-attached-around-steel-beams-and-concrete-ledges",
+  "name": "How is ceiling framing attached around steel beams and concrete ledges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is ceiling framing attached around steel beams and concrete ledges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing directly against concrete foundation walls and steel structural beams requires a physical separation to prevent moisture transfer and seasonal movement. When ceiling framing meets a steel I-beam or exterior concrete ledge, carpenters secure wood nailers or furring strips with mechanical fasteners, often adding sill seal or foam gaskets. Wood members must not make direct, unprotected contact with damp concrete. Proper isolation prevents warped framing lumber and drywall cracks over time.",
+        "@type": "Answer",
+        "description": "Wood nailers are bolted to beams or concrete with protective barriers to prevent moisture transfer and structural movement."
+      }
+    }
+  ],
+  "description": "Wood nailers are bolted to beams or concrete with protective barriers to prevent moisture transfer and structural movement."
+}

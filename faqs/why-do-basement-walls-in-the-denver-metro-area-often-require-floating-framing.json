@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-basement-walls-in-the-denver-metro-area-often-require-floating-framing",
+  "name": "Why do basement walls in the Denver metro area often require floating framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do basement walls in the Denver metro area often require floating framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes along the Colorado Front Range often rest on expansive bentonite soils, which swell and shrink with moisture changes and can shift basement floor slabs. In areas like Centennial, Greenwood Village, and Foxfield, building codes typically require floating interior walls. These walls leave a small gap at the bottom or top fitted with specialized framing tracks and floating plates, allowing the concrete slab to move slightly without transferring stress to the upper structural framing. Understanding your local foundation type ensures your basement framing complies with structural codes and prevents cracked drywall later.",
+        "@type": "Answer",
+        "description": "Local expansive clay soils cause concrete slabs to shift, making floating basement walls necessary to protect upper structural framing from movement."
+      }
+    }
+  ],
+  "description": "Local expansive clay soils cause concrete slabs to shift, making floating basement walls necessary to protect upper structural framing from movement."
+}
