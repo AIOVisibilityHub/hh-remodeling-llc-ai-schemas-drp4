@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-a-single-sink-vanity-with-a-double-sink-vanity",
+  "name": "Can I replace a single-sink vanity with a double-sink vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a single-sink vanity with a double-sink vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, changing from a single vanity to a double vanity requires adjusting the rough-in plumbing and frequently updating the electrical layout. Your existing drain and water supply lines must be split or re-routed inside the wall to supply two individual sinks. This requires cutting back drywall, adjusting internal wall framing, and coordinating plumbing sub-trades before hanging the cabinet. Additionally, double vanities often require extra GFCI electrical outlets and balanced vanity lighting, which means updating wiring in the wall before closing it with new drywall and fresh paint.",
+        "@type": "Answer",
+        "description": "Yes, but it requires opening the wall to split drain and water lines for two sinks, followed by framing adjustments, drywall patching, and often electrical updates."
+      }
+    }
+  ],
+  "description": "Yes, but it requires opening the wall to split drain and water lines for two sinks, followed by framing adjustments, drywall patching, and often electrical upda"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-add-a-new-bathroom-to-a-home",
+  "name": "How long does it take to add a new bathroom to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to add a new bathroom to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new bathroom usually takes between three and six weeks once construction begins. The overall timeline depends heavily on the room's location, whether you are building inside existing space or adding home square footage, and the complexity of utility rough-ins. Sub-trade scheduling for licensed plumbing and electrical work affects the pace before cosmetic work starts. Once those rough-ins pass inspections, our on-site team moves forward with custom framing, drywall, waterproofing, tile or marble setting, trim carpentry, and painting. Factors like specialty tile layouts or custom vanities can also extend the schedule.",
+        "@type": "Answer",
+        "description": "A bathroom addition typically takes three to six weeks of active construction, depending on plumbing logistics, inspection schedules, and custom finish selections."
+      }
+    }
+  ],
+  "description": "A bathroom addition typically takes three to six weeks of active construction, depending on plumbing logistics, inspection schedules, and custom finish selectio"
+}

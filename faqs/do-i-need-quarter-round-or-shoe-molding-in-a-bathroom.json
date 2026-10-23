@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-quarter-round-or-shoe-molding-in-a-bathroom",
+  "name": "Do I need quarter round or shoe molding in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need quarter round or shoe molding in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding or quarter round is not strictly required, but it is often recommended when bathroom tile floors are uneven. While a baseboard provides a crisp transition up the wall, rigid trim boards cannot always bend to match subtle dips in handmade or large-format floor tiles. Adding flexible shoe molding seals those floor-level gaps neatly. The tradeoff is visual: some homeowners prefer a minimalist, single-board modern look without extra layers. If your tile installation is completely level, a single flat baseboard bedded in sealant may be sufficient without adding shoe molding.",
+        "@type": "Answer",
+        "description": "Shoe molding is not mandatory, but it helps conceal uneven gaps where rigid baseboards meet wavy or uneven tile floors."
+      }
+    }
+  ],
+  "description": "Shoe molding is not mandatory, but it helps conceal uneven gaps where rigid baseboards meet wavy or uneven tile floors."
+}

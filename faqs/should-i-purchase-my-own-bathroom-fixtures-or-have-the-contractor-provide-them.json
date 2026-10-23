@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-purchase-my-own-bathroom-fixtures-or-have-the-contractor-provide-them",
+  "name": "Should I purchase my own bathroom fixtures or have the contractor provide them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I purchase my own bathroom fixtures or have the contractor provide them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can supply your own fixtures, or your contractor can source them for you. If you choose to purchase your own faucets, shower systems, or vanities, ensure all compatible rough-in valves, drain kits, and mounting hardware are included in the order. Incompatible valves or missing internal cartridges are frequent causes of project downtime. A contractor can evaluate your product specifications beforehand to verify they match your existing pipe sizing, wall depth, and local plumbing rough-ins before installation day.",
+        "@type": "Answer",
+        "description": "You can purchase your own fixtures, but ensure rough-in valves and drain assemblies are included. A contractor can review specifications first to confirm compatibility."
+      }
+    }
+  ],
+  "description": "You can purchase your own fixtures, but ensure rough-in valves and drain assemblies are included. A contractor can review specifications first to confirm compat"
+}

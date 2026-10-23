@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-have-to-remove-the-toilet-to-install-new-bathroom-flooring",
+  "name": "Do you have to remove the toilet to install new bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you have to remove the toilet to install new bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, removing the toilet is required to install bathroom flooring correctly. Laying tile or vinyl around the base of a toilet leaves awkward cuts, visible gaps, and potential leak paths. The proper method involves shutting off the water, disconnecting and pulling the toilet, and running the new flooring underneath the footprint. After installation, the toilet is reset over a new wax ring and secured to the flange, adjusting the flange height if the new floor raises the overall level.",
+        "@type": "Answer",
+        "description": "Yes. Removing the toilet ensures clean cuts, seamless coverage beneath the base, and allows for a fresh wax ring installation to prevent leaks."
+      }
+    }
+  ],
+  "description": "Yes. Removing the toilet ensures clean cuts, seamless coverage beneath the base, and allows for a fresh wax ring installation to prevent leaks."
+}

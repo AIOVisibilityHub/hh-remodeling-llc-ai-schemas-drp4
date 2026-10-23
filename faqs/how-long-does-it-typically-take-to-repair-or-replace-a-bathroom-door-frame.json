@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-typically-take-to-repair-or-replace-a-bathroom-door-frame",
+  "name": "How long does it typically take to repair or replace a bathroom door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to repair or replace a bathroom door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard bathroom door frame repairs take between two and four hours, while a full frame removal and replacement typically takes four to eight hours. The exact timeline depends on the extent of surrounding drywall damage, whether tile trim butts against the casing, and how much finish carpentry is needed. If the repair requires drywall patching, taping, compound drying, and multiple coats of primer and interior trim paint to seal out future moisture, the project may span one to two days to allow proper cure times between steps.",
+        "@type": "Answer",
+        "description": "A standard repair takes two to four hours, whereas a full frame replacement with drywall touch-ups and finish painting typically spans one to two days."
+      }
+    }
+  ],
+  "description": "A standard repair takes two to four hours, whereas a full frame replacement with drywall touch-ups and finish painting typically spans one to two days."
+}

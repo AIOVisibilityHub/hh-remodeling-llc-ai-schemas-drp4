@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-replace-my-bathroom-fixtures-instead-of-repairi",
+  "name": "How do I know when it is time to replace my bathroom fixtures instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to replace my bathroom fixtures instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fixtures should be replaced if they show persistent leaks, mineral buildup that restricts water pressure, hairline cracks in porcelain, or outdated finishes that no longer seal properly. Beyond age, consider replacement if you are remodeling surrounding tile or cabinetry, as installing new hardware over worn valves risks leaks behind fresh walls. Upgrading also offers functional benefits, such as converting to WaterSense low-flow toilets and pressure-balanced shower valves that protect against sudden temperature spikes.",
+        "@type": "Answer",
+        "description": "Replace fixtures when they leak repeatedly, suffer internal corrosion or cracked porcelain, lack replacement parts, or when completing a surrounding tile or vanity remodel."
+      }
+    }
+  ],
+  "description": "Replace fixtures when they leak repeatedly, suffer internal corrosion or cracked porcelain, lack replacement parts, or when completing a surrounding tile or van"
+}

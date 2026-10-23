@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-replacing-a-fixture-in-place-versus-relocating-it",
+  "name": "What is the difference between replacing a fixture in place versus relocating it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between replacing a fixture in place versus relocating it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a fixture in the same footprint simply disconnects the old hardware and connects new pieces to current supply lines. Moving fixtures involves relocating drain stacks, vent pipes, and water supplies behind walls or beneath flooring. Relocation requires opening drywall or subfloors, modifying framing, and coordinating rough-in trade work before closing surfaces back up with moisture-resistant drywall and tile. If your layout functions well, keeping the existing footprint saves considerable labor and finishing expense; moving fixtures is best reserved for comprehensive bathroom reconfigurations.",
+        "@type": "Answer",
+        "description": "In-place replacement connects directly to existing lines. Relocating fixtures requires opening walls or floors to move supply and waste lines, adding framing and drywall work."
+      }
+    }
+  ],
+  "description": "In-place replacement connects directly to existing lines. Relocating fixtures requires opening walls or floors to move supply and waste lines, adding framing an"
+}

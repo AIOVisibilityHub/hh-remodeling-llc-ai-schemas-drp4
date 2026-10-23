@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-install-bathroom-floor-tile-directly-over-the-existing-subfloor",
+  "name": "Can you install bathroom floor tile directly over the existing subfloor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install bathroom floor tile directly over the existing subfloor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should never install new tile directly over an existing subfloor without checking its structural condition and installing a proper underlayment. Laying tile directly on standard plywood or OSB subfloors leads to cracked tiles and crumbling grout lines because wood expands and contracts with moisture. Proper installation requires a clean, level surface covered with a cement backer board or an uncoupling waterproof membrane. If our crew finds rot, moisture damage, or deflection around the toilet flange during tear-out, those structural repairs must happen before any thin-set mortar is applied.",
+        "@type": "Answer",
+        "description": "No. Tile requires a rigid, stable underlayment like cement board or an uncoupling membrane over the subfloor to prevent seasonal movement from cracking the tile and grout."
+      }
+    }
+  ],
+  "description": "No. Tile requires a rigid, stable underlayment like cement board or an uncoupling membrane over the subfloor to prevent seasonal movement from cracking the tile"
+}

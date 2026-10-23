@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-flooring-installation-starts",
+  "name": "How should I prepare my bathroom before flooring installation starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before flooring installation starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, clear all personal items, rugs, hampers, and toiletries off the floor and counters. Empty nearby cabinets if plumbing shutoffs are located inside. Ensure the path from the home entrance to the bathroom is clear for tools, mortar mixing, and debris removal. If you have selected specific tile patterns, grout colors, or new transition strips to match adjoining hallways, confirm those details with your contractor before work starts to avoid mid-project delays.",
+        "@type": "Answer",
+        "description": "Remove all personal items, clear pathways for the crew, confirm your tile and grout selections, and ensure access to main water shutoff valves."
+      }
+    }
+  ],
+  "description": "Remove all personal items, clear pathways for the crew, confirm your tile and grout selections, and ensure access to main water shutoff valves."
+}

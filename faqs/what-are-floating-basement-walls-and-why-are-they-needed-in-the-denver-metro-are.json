@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-floating-basement-walls-and-why-are-they-needed-in-the-denver-metro-are",
+  "name": "What are floating basement walls and why are they needed in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are floating basement walls and why are they needed in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Front Range areas like Denver, Centennial, and Parker, expansive soils can cause foundation movement. Local codes often require floating walls—framing that leaves a specific gap at the bottom or top of the studs with special hardware—to prevent soil movement from pushing upward into upper-level floors. HH Remodeling builds interior partitions to local standards, ensuring proper floating wall framing and compliant insulation before drywall, trim, and painting are installed.",
+        "@type": "Answer",
+        "description": "Floating walls account for Front Range soil expansion, preventing moving basement slabs from pushing structural framing into the upper floors."
+      }
+    }
+  ],
+  "description": "Floating walls account for Front Range soil expansion, preventing moving basement slabs from pushing structural framing into the upper floors."
+}

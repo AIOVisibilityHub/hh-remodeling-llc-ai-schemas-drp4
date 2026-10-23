@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-tile-compare-to-luxury-vinyl-plank-for-bathroom-floors",
+  "name": "How does tile compare to luxury vinyl plank for bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does tile compare to luxury vinyl plank for bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While luxury vinyl plank offers lower material costs, quick installation, and a warmer feel underfoot, tile provides superior long-term durability, scratch resistance, and moisture protection. Vinyl plank can sometimes show imperfections in the subfloor and can be susceptible to trapped moisture if water gets underneath edges. Porcelain and stone tile handle standing water better and increase resale appeal, but they require a rigid cement backer board or uncoupling membrane underneath to prevent cracking.",
+        "@type": "Answer",
+        "description": "Tile offers unmatched moisture resistance and long-term durability, whereas luxury vinyl plank is more budget-friendly, faster to install, and softer underfoot."
+      }
+    }
+  ],
+  "description": "Tile offers unmatched moisture resistance and long-term durability, whereas luxury vinyl plank is more budget-friendly, faster to install, and softer underfoot."
+}

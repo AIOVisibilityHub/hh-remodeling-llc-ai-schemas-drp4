@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-requesting-a-quote-for-a-shower-installation",
+  "name": "What should I prepare before requesting a quote for a shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a quote for a shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor arrives for an estimate, determine your target layout, shower type, fixture preferences, and storage needs. Note whether you want to keep existing plumbing locations or move the showerhead, controls, and drain, as moving pipes increases labor. Consider whether you need built-in niches for toiletries or seating benches, and note any history of past leaks or soft spots in the surrounding flooring. Having these details ready helps the contractor provide a realistic scope that accounts for framing, drywall prep, and necessary trade coordination.",
+        "@type": "Answer",
+        "description": "Decide whether your plumbing layout stays the same, outline storage or bench needs, and note any past water damage or soft flooring around the shower area."
+      }
+    }
+  ],
+  "description": "Decide whether your plumbing layout stays the same, outline storage or bench needs, and note any past water damage or soft flooring around the shower area."
+}

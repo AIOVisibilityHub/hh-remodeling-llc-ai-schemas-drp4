@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-accessibility-modifications-can-be-built-into-a-new-shower",
+  "name": "What accessibility modifications can be built into a new shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility modifications can be built into a new shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners can choose accessible features such as zero-threshold (curbless) shower pans, wider entryways, integrated bench seating, and sturdy grab bars. Planning accessibility requires structural backing: solid wood blocking must be installed inside the wall framing before drywall and tile go up so that grab bars and shower seats hold weight securely. Handheld shower wands on adjustable slide bars and low-profile or barrier-free entry curbs reduce tripping hazards, making the shower comfortable for aging in place, wheelchair use, or recovery from mobility limitations.",
+        "@type": "Answer",
+        "description": "You can include zero-threshold entries, wider openings, built-in seating, and grab bars, which require solid wood blocking inside the wall framing before tiling."
+      }
+    }
+  ],
+  "description": "You can include zero-threshold entries, wider openings, built-in seating, and grab bars, which require solid wood blocking inside the wall framing before tiling"
+}

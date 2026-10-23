@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-the-painters-arrive",
+  "name": "How should I prepare my bathroom before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your bathroom for painters, remove personal items from countertops, ledges, and shower surrounds, and take down hanging towels, bath mats, and wall decor. Clearing medicine cabinets and under-sink areas is also helpful if those fixtures or adjacent trims are being painted. As a hands-on general contractor, HH Remodeling protects your floors, vanities, mirrors, and tile surfaces with drop cloths and masking tape before prepping surfaces. However, clearing away loose toiletries and decor beforehand allows the crew to inspect wall corners and trim joints for hidden drywall or moisture issues immediately.",
+        "@type": "Answer",
+        "description": "Remove all toiletries, towels, mirrors, and wall decor. Clearing surfaces gives painters full access to walls, trim, and corners right away."
+      }
+    }
+  ],
+  "description": "Remove all toiletries, towels, mirrors, and wall decor. Clearing surfaces gives painters full access to walls, trim, and corners right away."
+}

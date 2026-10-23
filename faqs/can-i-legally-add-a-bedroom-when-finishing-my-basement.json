@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-legally-add-a-bedroom-when-finishing-my-basement",
+  "name": "Can I legally add a bedroom when finishing my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I legally add a bedroom when finishing my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can legally add a bedroom to your basement, but local building codes require that it features an approved emergency egress window or exterior door. The egress window must meet minimum requirements for net clear opening area, width, height, and maximum sill height above the floor to allow safe exit during an emergency. In addition, the bedroom must include a built-in closet, adequate ceiling height, and smoke and carbon monoxide detectors connected to the home system. If your basement lacks an existing egress opening, cutting concrete to install an egress window well is required.",
+        "@type": "Answer",
+        "description": "Yes, but building codes require a compliant emergency egress window, a built-in closet, proper ceiling height, and smoke detectors."
+      }
+    }
+  ],
+  "description": "Yes, but building codes require a compliant emergency egress window, a built-in closet, proper ceiling height, and smoke detectors."
+}

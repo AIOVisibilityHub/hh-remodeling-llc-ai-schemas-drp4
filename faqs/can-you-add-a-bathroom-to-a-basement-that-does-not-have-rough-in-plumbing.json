@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-add-a-bathroom-to-a-basement-that-does-not-have-rough-in-plumbing",
+  "name": "Can you add a bathroom to a basement that does not have rough-in plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you add a bathroom to a basement that does not have rough-in plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom in an unfinished basement requires planning around concrete slab alterations and drainage elevations. If the original builder did not rough in basement plumbing pipes beneath the slab, the concrete must be saw-cut and trenched to connect the toilet, sink, and shower waste lines into the main sewer line. If your sewer line exits above the basement floor level, installing a sewage ejector pump system will be required to push wastewater up to the main exit line. Once plumbing lines are set, standard framing, drywall, and tiling follow.",
+        "@type": "Answer",
+        "description": "Yes, but it requires cutting and trenching the concrete slab to install waste lines, and potentially adding a sewage ejector pump if the main sewer line sits above floor level."
+      }
+    }
+  ],
+  "description": "Yes, but it requires cutting and trenching the concrete slab to install waste lines, and potentially adding a sewage ejector pump if the main sewer line sits ab"
+}

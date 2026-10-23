@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-plumbing-and-electrical-rough-ins-coordinated-with-framing-and-drywall",
+  "name": "How are plumbing and electrical rough-ins coordinated with framing and drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are plumbing and electrical rough-ins coordinated with framing and drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sub-trades for electrical and plumbing must be scheduled immediately after custom framing and before drywall installation begins. A general contractor builds the wall framing, then coordinates licensed plumbers to run supply and drain lines and electricians to set outlet boxes and wire circuits. All in-wall mechanical work must pass municipal rough-in inspections before insulation and drywall cover the studs. Managing this trade sequence tightly prevents work stoppages and ensures pipes and junction boxes are placed exactly where cabinets, vanities, or wall-hung fixtures are planned.",
+        "@type": "Answer",
+        "description": "Rough-in plumbing and electrical must be completed after custom framing and pass municipal inspections before drywall installation begins."
+      }
+    }
+  ],
+  "description": "Rough-in plumbing and electrical must be completed after custom framing and pass municipal inspections before drywall installation begins."
+}

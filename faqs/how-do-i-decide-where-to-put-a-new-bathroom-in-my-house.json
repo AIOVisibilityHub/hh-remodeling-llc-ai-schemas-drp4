@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-where-to-put-a-new-bathroom-in-my-house",
+  "name": "How do I decide where to put a new bathroom in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide where to put a new bathroom in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding the right location involves evaluating underutilized floor space and proximity to existing utility lines. Closets, storage rooms, large laundry areas, and unfinished basements are common starting points. Placing your addition directly above, below, or adjacent to an existing bathroom, kitchen, or main plumbing stack significantly reduces labor and material costs for running drain, waste, and vent pipes. You must also consider foot traffic flow, door clearance, ceiling height, and adequate space for code-compliant fixture spacing around toilets and sinks.",
+        "@type": "Answer",
+        "description": "Look for underutilized spaces directly adjacent to or stacked above existing plumbing lines to simplify pipe runs, maintain privacy, and control installation costs."
+      }
+    }
+  ],
+  "description": "Look for underutilized spaces directly adjacent to or stacked above existing plumbing lines to simplify pipe runs, maintain privacy, and control installation co"
+}

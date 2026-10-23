@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-trim-installation",
+  "name": "How should I prepare my bathroom before trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the finish carpentry crew arrives, clear all toiletries, floor mats, trash cans, and freestanding shelving out of the bathroom. If baseboards run behind the toilet or tight against a vanity, let the contractor know in advance so they can plan necessary tool clearances. Homeowners should also identify any known plumbing leaks or soft drywall areas near the tub or shower base. Gathering your chosen trim style or matching existing home profiles helps the carpenter confirm lumber dimensions, while confirming paint sheen preferences ensures a consistent finish with surrounding rooms.",
+        "@type": "Answer",
+        "description": "Clear all floor items, toiletries, and small furniture. Note any past plumbing leaks or soft wall spots so the finish carpenter can address wall prep."
+      }
+    }
+  ],
+  "description": "Clear all floor items, toiletries, and small furniture. Note any past plumbing leaks or soft wall spots so the finish carpenter can address wall prep."
+}

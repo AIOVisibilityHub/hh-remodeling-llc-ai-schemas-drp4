@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-grout-lines-crack-on-shower-and-bathroom-walls",
+  "name": "Why do grout lines crack on shower and bathroom walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do grout lines crack on shower and bathroom walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout lines crack primarily due to structural movement, missing expansion joints, or inadequate substrate support. Bathrooms experience frequent temperature and humidity swings that cause timber framing to expand and contract. If tile is installed over flexible drywall instead of rigid, properly fastened backer board, the wall flexes under pressure. Additionally, inside corners where two tiled walls meet or where walls touch the tub deck must be filled with flexible, color-matched silicone sealant rather than rigid grout, which inevitably cracks under normal structural shifting.",
+        "@type": "Answer",
+        "description": "Cracked grout usually stems from wall framing flex, improper substrate backing, or using hard grout instead of flexible silicone caulk at change-of-plane corners."
+      }
+    }
+  ],
+  "description": "Cracked grout usually stems from wall framing flex, improper substrate backing, or using hard grout instead of flexible silicone caulk at change-of-plane corner"
+}

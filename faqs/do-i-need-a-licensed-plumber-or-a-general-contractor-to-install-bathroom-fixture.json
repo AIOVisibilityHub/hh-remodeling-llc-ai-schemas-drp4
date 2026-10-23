@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-licensed-plumber-or-a-general-contractor-to-install-bathroom-fixture",
+  "name": "Do I need a licensed plumber or a general contractor to install bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a licensed plumber or a general contractor to install bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A licensed plumbing trade specialist is recommended whenever installation involves shower control valves, relocating waste lines, or adjusting main supply pipes behind finished walls. Simple surface swaps, such as replacing a vanity faucet or a standard toilet on a sound flange, are often completed by skilled finish contractors or handyman services. When comprehensive bathroom remodels involve both interior finishes and concealed pipe adjustments, an owner-operated general contractor manages the carpentry, tile, and drywall while coordinating qualified plumbing trades for code-compliant valve work.",
+        "@type": "Answer",
+        "description": "A general contractor handles finish carpentry, tile, and fixture swaps while coordinating licensed plumbing trades for in-wall valves and relocated pipe lines."
+      }
+    }
+  ],
+  "description": "A general contractor handles finish carpentry, tile, and fixture swaps while coordinating licensed plumbing trades for in-wall valves and relocated pipe lines."
+}

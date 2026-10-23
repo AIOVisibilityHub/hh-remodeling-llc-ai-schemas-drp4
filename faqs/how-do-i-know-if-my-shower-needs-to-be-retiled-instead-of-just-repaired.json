@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-shower-needs-to-be-retiled-instead-of-just-repaired",
+  "name": "How do I know if my shower needs to be retiled instead of just repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my shower needs to be retiled instead of just repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower needs complete retiling when you notice loose or cracked tiles, persistent mildew behind caulk lines, soft drywall around fixtures, or water staining on adjoining ceilings or baseboards. While minor grout cracking can sometimes be patched, hollow-sounding tiles or persistent musty odors indicate water has penetrated the substrate and compromised the waterproofing. When framing or backer boards become moisture-damaged, surface-level caulking will not stop structural rot, making a full tear-out and tile replacement necessary.",
+        "@type": "Answer",
+        "description": "You need a full retile if tiles are loose, grout is crumbling across large areas, walls feel spongy, or you see signs of water leaks on adjacent drywall."
+      }
+    }
+  ],
+  "description": "You need a full retile if tiles are loose, grout is crumbling across large areas, walls feel spongy, or you see signs of water leaks on adjacent drywall."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-bathroom-subfloor-needs-repair-before-new-flooring",
+  "name": "How do I know if my bathroom subfloor needs repair before new flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom subfloor needs repair before new flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need subfloor replacement if you notice spongy spots, persistent musty odors, cracked or loose existing tiles, or visible discoloration around the toilet flange and shower threshold. Bathrooms frequently suffer slow, hidden leaks from wax rings or plumbing joints that rot wood over time. Laying new flooring over compromised wood causes premature cracking and mold growth. During demolition, inspecting the framing and plywood ensures structural repairs happen before any new underlayment or tile goes down.",
+        "@type": "Answer",
+        "description": "Spongy floors, soft spots around the toilet, cracking grout, or visible water stains usually signal that the subfloor needs repair or replacement before new flooring goes down."
+      }
+    }
+  ],
+  "description": "Spongy floors, soft spots around the toilet, cracking grout, or visible water stains usually signal that the subfloor needs repair or replacement before new flo"
+}

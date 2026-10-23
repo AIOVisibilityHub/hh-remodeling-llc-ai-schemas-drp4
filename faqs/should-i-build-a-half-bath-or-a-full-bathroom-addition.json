@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-build-a-half-bath-or-a-full-bathroom-addition",
+  "name": "Should I build a half bath or a full bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a half bath or a full bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a half bath (powder room) and a full bath depends on your household needs, available square footage, and budget. A powder room requires as little as 18 to 25 square feet and needs only a toilet, vanity, and basic vent fan. It works well near living areas for visiting guests. A full or three-quarter bath requires at least 35 to 45 square feet to accommodate a walk-in shower or tub. While a full bath requires additional waterproofing, tiling, and extended plumbing rough-ins, it offers greater daily functionality for growing families or multi-generational households.",
+        "@type": "Answer",
+        "description": "A half bath saves space and budget for guest use, while a full bath requires more square footage, tiling, and plumbing rough-ins but provides complete daily living utility."
+      }
+    }
+  ],
+  "description": "A half bath saves space and budget for guest use, while a full bath requires more square footage, tiling, and plumbing rough-ins but provides complete daily liv"
+}

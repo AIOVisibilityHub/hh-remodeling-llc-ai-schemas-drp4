@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-bathroom-trim-installation-cost",
+  "name": "How much does bathroom trim installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom trim installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install bathroom trim varies based on room size, chosen materials, and whether painting and prep work are required. Cellular PVC and moisture-resistant composite materials carry higher material costs than standard pine, but they offer longer lifespans in wet areas. Labor costs fluctuate depending on wall straightness, intricate corner cuts around vanities, and whether previous water damage behind old baseboards requires drywall patching before new boards go up. Working with an owner-operated finish contractor like HH Remodeling ensures an itemized estimate covering removal of old moldings, finish carpentry, caulking, and touch-up painting without hidden trade markups.",
+        "@type": "Answer",
+        "description": "Costs depend on room dimensions, trim material like PVC or wood, wall condition, and painting needs. An on-site walkthrough provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs depend on room dimensions, trim material like PVC or wood, wall condition, and painting needs. An on-site walkthrough provides an accurate quote."
+}

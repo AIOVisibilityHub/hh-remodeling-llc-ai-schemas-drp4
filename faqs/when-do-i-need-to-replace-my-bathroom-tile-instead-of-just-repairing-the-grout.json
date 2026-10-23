@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-bathroom-tile-instead-of-just-repairing-the-grout",
+  "name": "When do I need to replace my bathroom tile instead of just repairing the grout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my bathroom tile instead of just repairing the grout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathroom tile if you notice hollow-sounding tiles, persistent cracked grout, persistent mildew, or tiles coming loose from the wall or floor. Soft spots in the floor or springy sensations when walking are urgent signs that water has reached the wood subfloor beneath. In showers, cracked tiles or peeling caulk often point to trapped moisture behind the wall. Spot repairs are sometimes possible, but widespread cracking or shifting usually indicates that the backing material or subfloor has failed and requires full replacement.",
+        "@type": "Answer",
+        "description": "Replace your tile if you find loose, shifting, or hollow tiles, persistent leaks, or soft subfloors, as these symptoms indicate failed underlayment or trapped water."
+      }
+    }
+  ],
+  "description": "Replace your tile if you find loose, shifting, or hollow tiles, persistent leaks, or soft subfloors, as these symptoms indicate failed underlayment or trapped w"
+}

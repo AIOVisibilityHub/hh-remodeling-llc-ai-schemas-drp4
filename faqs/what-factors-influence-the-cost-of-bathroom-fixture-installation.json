@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-cost-of-bathroom-fixture-installation",
+  "name": "What factors influence the cost of bathroom fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of bathroom fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom fixture installation costs vary based on whether the unit is a direct replacement or requires moving rough plumbing lines. Swapping out a basic faucet or standard toilet is on the lower end of the pricing scale, whereas installing a freestanding tub, custom shower valve system, or double vanity requires significantly more labor. Expenses also increase if walls require drywall patching, framing adjustments, or fresh tile work after lines are altered. Having an on-site contractor review your existing shutoff valves and pipe conditions upfront provides an accurate scope before work begins.",
+        "@type": "Answer",
+        "description": "Costs depend on fixture type, whether plumbing lines need moving, the condition of existing shutoffs, and any required tile, drywall, or framing repairs."
+      }
+    }
+  ],
+  "description": "Costs depend on fixture type, whether plumbing lines need moving, the condition of existing shutoffs, and any required tile, drywall, or framing repairs."
+}

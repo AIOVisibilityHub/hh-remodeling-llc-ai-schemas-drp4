@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-permits-to-finish-my-basement-in-the-denver-area",
+  "name": "Do I need permits to finish my basement in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to finish my basement in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, finishing a basement in Denver and surrounding cities like Centennial and Parker generally requires building permits for framing, electrical, plumbing, and mechanical work. Pulling permits ensures the space meets local residential building codes for fire safety, electrical capacity, and ceiling clearances. For example, any planned basement bedroom must include an egress window that satisfies specific opening dimensions. As your general contractor, HH Remodeling coordinates the required trades and inspection checkpoints so all structural framing, rough plumbing, and wiring meet municipal guidelines before walls are closed up with drywall.",
+        "@type": "Answer",
+        "description": "Yes, municipalities across the Denver metro area require permits and inspections for framing, electrical, and plumbing work to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, municipalities across the Denver metro area require permits and inspections for framing, electrical, and plumbing work to ensure code compliance."
+}

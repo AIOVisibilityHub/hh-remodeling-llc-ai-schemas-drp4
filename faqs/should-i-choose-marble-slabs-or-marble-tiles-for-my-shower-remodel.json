@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-marble-slabs-or-marble-tiles-for-my-shower-remodel",
+  "name": "Should I choose marble slabs or marble tiles for my shower remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose marble slabs or marble tiles for my shower remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slab marble creates a continuous, nearly seamless appearance with dramatic unbroken veining, while marble tile offers greater design flexibility at a lower price point. Slabs minimize grout lines entirely, making daily wall cleaning simpler, but they require heavy lifting equipment and precise template fabrication. Marble tile is easier to handle, fits complex bathroom layouts, and allows custom patterns like herringbone or basketweave. A practical tradeoff is that tile introduces grout joints that need cleaning and sealing, but tile is significantly less costly to transport, purchase, and install than whole slabs.",
+        "@type": "Answer",
+        "description": "Marble slabs eliminate grout lines for a dramatic seamless look at a higher cost, while marble tiles are more affordable and offer flexible patterns."
+      }
+    }
+  ],
+  "description": "Marble slabs eliminate grout lines for a dramatic seamless look at a higher cost, while marble tiles are more affordable and offer flexible patterns."
+}

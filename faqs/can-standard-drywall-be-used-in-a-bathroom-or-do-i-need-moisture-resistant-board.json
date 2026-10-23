@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-standard-drywall-be-used-in-a-bathroom-or-do-i-need-moisture-resistant-board",
+  "name": "Can standard drywall be used in a bathroom, or do I need moisture-resistant board?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can standard drywall be used in a bathroom, or do I need moisture-resistant board?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall should not be used in bathrooms where moisture and humidity are constantly present. Instead, contractors install moisture-resistant drywall, commonly known as green board or purple board, on general bathroom walls and ceilings. For wet areas like shower stalls and tub surrounds where tile will be installed, a cement backer board or waterproof backing system is necessary because drywall breaks down when exposed to direct water leaks. Choosing the right board prevents mold growth, bubbling paint, and structural softening over time. As an owner-operated finish contractor, Abraham Becerra directly inspects the layout to ensure water-resistant boards and appropriate backer materials are placed in their proper zones before taping and mudding begin.",
+        "@type": "Answer",
+        "description": "Standard drywall should not be used in bathrooms. Moisture-resistant boards are needed for general walls, while cement backer boards are required behind shower and tub tiles."
+      }
+    }
+  ],
+  "description": "Standard drywall should not be used in bathrooms. Moisture-resistant boards are needed for general walls, while cement backer boards are required behind shower"
+}

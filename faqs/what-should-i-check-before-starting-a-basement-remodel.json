@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-check-before-starting-a-basement-remodel",
+  "name": "What should I check before starting a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before starting a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling framing, check your foundation walls and concrete floor for moisture intrusion, efflorescence, or past water seepage. Basements require dry conditions before hanging wood framing and drywall. Note the locations of your main shutoff valves, cleanouts, water heater, and electrical panel so plans preserve required utility clearances. It also helps to decide early whether you want rough plumbing added for a future or immediate bathroom, as cutting concrete slabs after framing begins adds unnecessary mess and expense.",
+        "@type": "Answer",
+        "description": "Inspect walls and slabs for moisture or leaks, confirm utility clearances around mechanicals, and decide early if you plan to add a bathroom so plumbing trenches can be mapped out."
+      }
+    }
+  ],
+  "description": "Inspect walls and slabs for moisture or leaks, confirm utility clearances around mechanicals, and decide early if you plan to add a bathroom so plumbing trenche"
+}

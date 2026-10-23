@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-basement-remodeling-project-take",
+  "name": "How long does a typical basement remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical basement remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a basement remodel depends largely on the square footage, layout complexity, and mechanical additions. A standard unfinished basement finish typically takes 6 to 12 weeks once construction begins. Timelines expand if your design includes complex underground plumbing rough-ins for a new bathroom or kitchenette, custom finish carpentry, or framing around low-hanging ductwork and support beams. As an owner-operated team, we coordinate carpentry, drywall, tile, and painting directly with licensed plumbing and electrical sub-trades to keep phases moving smoothly and avoid scheduling gaps.",
+        "@type": "Answer",
+        "description": "A basement remodel usually takes 6 to 12 weeks, depending on square footage, bathroom rough-ins, and layout complexity."
+      }
+    }
+  ],
+  "description": "A basement remodel usually takes 6 to 12 weeks, depending on square footage, bathroom rough-ins, and layout complexity."
+}

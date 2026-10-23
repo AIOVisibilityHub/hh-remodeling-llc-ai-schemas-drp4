@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-add-an-egress-window-during-a-basement-remodel",
+  "name": "When do I need to add an egress window during a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to add an egress window during a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dedicated egress window is mandatory whenever your basement plan includes a finished legal bedroom, providing an accessible emergency exit. Adding an egress window requires cutting through your foundation wall, installing a reinforced window frame, and digging an exterior window well with a safety ladder and proper drainage. If you are only creating an open family entertainment space, craft area, or home office without sleeping quarters, existing code-compliant basement windows may suffice depending on local municipal rules.",
+        "@type": "Answer",
+        "description": "An egress window is required whenever you add a legal bedroom, ensuring safe emergency exit and compliance with local building codes."
+      }
+    }
+  ],
+  "description": "An egress window is required whenever you add a legal bedroom, ensuring safe emergency exit and compliance with local building codes."
+}

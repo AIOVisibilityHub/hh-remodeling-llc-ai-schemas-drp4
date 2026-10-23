@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-soon-can-i-use-the-shower-after-new-molding-is-installed",
+  "name": "How soon can I use the shower after new molding is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can I use the shower after new molding is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should wait at least 24 hours after molding is caulked and painted before taking a hot, steamy shower. High humidity, direct water splashes, and condensation can prevent acrylic latex caulk and paint from curing properly, resulting in cloudy finishes or failed seals. Using a secondary bathroom or keeping the room thoroughly ventilated with the exhaust fan running speeds up cure times and ensures your trim stays protected long-term.",
+        "@type": "Answer",
+        "description": "Wait at least 24 hours before taking a steamy shower so caulk and paint cure fully without being weakened by moisture."
+      }
+    }
+  ],
+  "description": "Wait at least 24 hours before taking a steamy shower so caulk and paint cure fully without being weakened by moisture."
+}

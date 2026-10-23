@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-bathrooms-need-baseboards-or-are-they-purely-decorative",
+  "name": "Do bathrooms need baseboards, or are they purely decorative?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bathrooms need baseboards, or are they purely decorative?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards protect drywall edges from water splashes, mop water, and floor cleaning chemicals while covering the expansion gap left by tile or vinyl flooring. Without baseboards, everyday moisture can wick directly into the porous edges of the drywall, causing softened boards and mold growth behind the base of the wall. Properly caulked baseboards create a tight barrier against water infiltration and give the tile-to-wall transition a clean, finished appearance.",
+        "@type": "Answer",
+        "description": "Bathrooms need baseboards to shield drywall from floor moisture, cover flooring expansion gaps, and prevent water intrusion behind the wall base."
+      }
+    }
+  ],
+  "description": "Bathrooms need baseboards to shield drywall from floor moisture, cover flooring expansion gaps, and prevent water intrusion behind the wall base."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-moisture-resistant-trim-over-standard-wood-for-my-bathroom",
+  "name": "Should I choose moisture-resistant trim over standard wood for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose moisture-resistant trim over standard wood for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard wood trim expands and contracts with moisture, while moisture-resistant trim like primed polyurethane, PVC, or properly sealed moisture-resistant MDF remains stable in humid settings. In bathrooms with showers, standard wood trim can warp, split paint seams, or rot if water pools near floorboards. While solid wood offers classic craftsmanship, it requires back-priming and comprehensive sealing on all cut ends before installation. PVC or composite trims eliminate swelling risks around tubs and vanities but require specialized adhesives and paint formulations to achieve a smooth, high-end appearance.",
+        "@type": "Answer",
+        "description": "Moisture-resistant trim or PVC is best near tubs and high-humidity areas, whereas solid wood works well only when fully back-primed and sealed against moisture."
+      }
+    }
+  ],
+  "description": "Moisture-resistant trim or PVC is best near tubs and high-humidity areas, whereas solid wood works well only when fully back-primed and sealed against moisture."
+}

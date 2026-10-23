@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-bathroom-baseboards",
+  "name": "When do I need to replace my bathroom baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my bathroom baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathroom trim if you notice swelling, peeling paint that repeatedly returns, softness, black mold spots, or separation from the wall. Swollen or spongy baseboards are classic signs that water has penetrated the material, often from shower splash-out or past plumbing leaks. In older homes across Denver and Centennial, minor water leaks often go unnoticed until baseboards soften. Before installing new trim, inspect the drywall and framing behind the boards; replacing baseboards over damp or moldy drywall traps moisture and will ruin the new finish carpentry within months.",
+        "@type": "Answer",
+        "description": "Replace bathroom baseboards if they show swelling, soft spots, mold, or persistent paint peeling caused by hidden moisture or shower splashes."
+      }
+    }
+  ],
+  "description": "Replace bathroom baseboards if they show swelling, soft spots, mold, or persistent paint peeling caused by hidden moisture or shower splashes."
+}

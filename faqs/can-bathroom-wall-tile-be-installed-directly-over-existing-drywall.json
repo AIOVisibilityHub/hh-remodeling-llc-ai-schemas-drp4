@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-bathroom-wall-tile-be-installed-directly-over-existing-drywall",
+  "name": "Can bathroom wall tile be installed directly over existing drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can bathroom wall tile be installed directly over existing drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall should never be used as a substrate behind shower or wet-area wall tile because moisture will cause it to soften and fail. Wet walls require a dedicated cement backer board or waterproof foam panel system with sealed seams. Outside the direct spray zone, such as on vanity accent walls, drywall can be used if it is sound and properly primed. If an existing bathroom has water damage or deteriorating drywall, the framing must be inspected, repaired if needed, and re-sheeted with moisture-resistant materials before thin-set mortar is applied.",
+        "@type": "Answer",
+        "description": "Tile should not go directly over drywall in wet shower areas. Wet zones require cement backer board with sealed waterproofing, though drywall is acceptable for dry vanity walls."
+      }
+    }
+  ],
+  "description": "Tile should not go directly over drywall in wet shower areas. Wet zones require cement backer board with sealed waterproofing, though drywall is acceptable for"
+}

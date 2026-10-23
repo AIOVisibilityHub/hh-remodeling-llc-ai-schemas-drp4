@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-measure-before-buying-a-bathroom-vanity",
+  "name": "What should I measure before buying a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I measure before buying a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing a replacement vanity, measure the total width, depth, and height of your space, noting door swings, drawers, and shower glass clearances. You also need to measure the exact location of your shutoff valves and drain pipe emerging from the wall or floor. Buying a vanity with interior shelves or deep drawers can sometimes collide with existing P-traps and supply lines, requiring the cabinet interior to be notched or plumbing shifted. Always check your baseboard trim height as well, since thicker molding may require trimming so the cabinet sits flush.",
+        "@type": "Answer",
+        "description": "Measure width, depth, and height, check door swing clearances, and verify the exact location of rough plumbing lines to ensure shelves and drawers clear pipes."
+      }
+    }
+  ],
+  "description": "Measure width, depth, and height, check door swing clearances, and verify the exact location of rough plumbing lines to ensure shelves and drawers clear pipes."
+}

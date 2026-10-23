@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-use-standard-drywall-for-a-bathroom-repair-or-do-you-need-moisture-resis",
+  "name": "Can you use standard drywall for a bathroom repair, or do you need moisture-resistant board?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you use standard drywall for a bathroom repair, or do you need moisture-resistant board?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall should not be used in high-moisture bathroom areas. Bathrooms require moisture-resistant drywall, commonly known as green board, or cement backer board around direct water zones like showers and tubs. When repairing bathroom walls, using standard drywall can lead to rapid deterioration, sagging, and mold development due to humidity. During a repair, cutting back water-damaged standard sheets and installing moisture-resistant panels helps protect the wall cavity over the long term. If your bathroom repair borders a tiled shower enclosure, upgrading that section to cement board provides the structural backing tile requires without risking water penetration.",
+        "@type": "Answer",
+        "description": "Bathrooms need moisture-resistant board like green board or cement backer board. Standard drywall absorbs humidity, leading to softening, crumbling, and mold behind the paint."
+      }
+    }
+  ],
+  "description": "Bathrooms need moisture-resistant board like green board or cement backer board. Standard drywall absorbs humidity, leading to softening, crumbling, and mold be"
+}

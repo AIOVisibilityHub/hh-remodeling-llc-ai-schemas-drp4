@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-bathroom-baseboards-need-to-be-replaced",
+  "name": "How do I know if my bathroom baseboards need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom baseboards need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that existing bathroom trim needs replacement include spongy wood, visible black mold, peeling paint that will not hold a fresh coat, or baseboards pulling away from the wall. Swelling, flaking, or crumbling trim indicates that water has seeped inside the core material. If caulking has failed and water has penetrated behind the board, replacing the trim gives you the opportunity to inspect the drywall beneath for hidden water damage before structural issues develop.",
+        "@type": "Answer",
+        "description": "Replace trim if you notice swelling, softening, flaking paint, persistent mold, or gaps between the wall and baseboard caused by moisture damage."
+      }
+    }
+  ],
+  "description": "Replace trim if you notice swelling, softening, flaking paint, persistent mold, or gaps between the wall and baseboard caused by moisture damage."
+}

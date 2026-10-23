@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-plan-and-add-a-bathroom-to-a-basement-remodel",
+  "name": "How do you plan and add a bathroom to a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you plan and add a bathroom to a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basement bathroom requires planning waste line drainage and sub-trade coordination before framing begins. If your concrete foundation slab does not already have plumbing rough-ins, concrete trenching is required to tie into the main sewer line. Tradeoffs involve cost and layout flexibility: placing the bathroom directly beneath upper-floor plumbing stacks minimizes trenching and pipe runs. We coordinate specialized plumbing sub-trades while handling the framing, cement board installation, custom tile work, drywall, and finish trim in-house.",
+        "@type": "Answer",
+        "description": "Adding a bathroom involves cutting concrete for drain lines, framing walls, coordinating plumbing rough-ins, and installing custom tile and fixtures."
+      }
+    }
+  ],
+  "description": "Adding a bathroom involves cutting concrete for drain lines, framing walls, coordinating plumbing rough-ins, and installing custom tile and fixtures."
+}

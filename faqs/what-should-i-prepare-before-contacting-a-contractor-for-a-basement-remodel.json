@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-basement-remodel",
+  "name": "What should I prepare before contacting a contractor for a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by inspecting your concrete walls and slab for signs of moisture, efflorescence, or past water seepage, as any leaks must be resolved prior to framing. Next, clearly define your intended room uses—such as home offices, family rooms, guest suites, or storage—and take rough measurements around fixed utilities. Finally, outline your target budget, note any existing rough-ins, and prepare a list of priority finishes like custom trim, built-in shelving, or specific tile styles before scheduling your initial contractor consultation.",
+        "@type": "Answer",
+        "description": "Check your basement for moisture issues, decide on your desired room functions, measure around utilities, and define your finish preferences."
+      }
+    }
+  ],
+  "description": "Check your basement for moisture issues, decide on your desired room functions, measure around utilities, and define your finish preferences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-a-shower-pan-flood-test-and-is-it-required",
+  "name": "What is a shower pan flood test and is it required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a shower pan flood test and is it required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flood test verifies that the shower pan and drain assembly are completely watertight before finish tile is installed. After the pan membrane and drain flange are placed, the drain opening is plugged, and the basin is filled with water just below the curb level for 24 hours. The contractor checks the water level and inspects the subfloor or ceiling below for any signs of seepage. Passing a flood test ensures that hidden defects are caught and fixed early, preventing catastrophic leaks that would otherwise require tearing out expensive tile work later.",
+        "@type": "Answer",
+        "description": "A flood test fills the plugged shower basin with water for 24 hours to confirm the pan and drain seal do not leak before any finish tile or stone is installed."
+      }
+    }
+  ],
+  "description": "A flood test fills the plugged shower basin with water for 24 hours to confirm the pan and drain seal do not leak before any finish tile or stone is installed."
+}

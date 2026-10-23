@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-bathroom-has-water-damage-behind-the-shower-walls",
+  "name": "How do I know if my bathroom has water damage behind the shower walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom has water damage behind the shower walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key warning signs include soft or spongy subfloors around the tub or toilet, cracked or crumbling grout lines, peeling paint on adjoining walls, musty odors, and visible water stains on ceilings directly below the bathroom. You should also check for loose, hollow-sounding tiles or caulking that repeatedly pulls away from seams. When water reaches framing behind tile, cosmetic fixes like re-caulking or bleaching surfaces will not solve the underlying issue. A remodel contractor inspects the subfloor, plumbing connections, and wall cavities to determine whether localized repair or a full tear-out is necessary.",
+        "@type": "Answer",
+        "description": "Look for spongy floors, loose tiles, recurring mold, musty odors, peeling paint on shared walls, or ceiling stains below. These indicate moisture behind the tile."
+      }
+    }
+  ],
+  "description": "Look for spongy floors, loose tiles, recurring mold, musty odors, peeling paint on shared walls, or ceiling stains below. These indicate moisture behind the til"
+}

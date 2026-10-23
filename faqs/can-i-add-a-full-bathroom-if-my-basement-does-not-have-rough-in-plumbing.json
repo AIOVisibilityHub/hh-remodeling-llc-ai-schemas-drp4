@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-add-a-full-bathroom-if-my-basement-does-not-have-rough-in-plumbing",
+  "name": "Can I add a full bathroom if my basement does not have rough-in plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a full bathroom if my basement does not have rough-in plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can add a bathroom to a basement even if rough-in plumbing was not pre-installed by the original homebuilder. However, it requires cutting and trenching through the existing concrete floor slab to run waste pipes to the main sewer line. If your main sewer exit sits above the basement floor, an ejector pump pit must be framed and wired to pump waste upward. Factoring this into the initial design ensures proper fixture placement near existing vent stacks, minimizing concrete demolition.",
+        "@type": "Answer",
+        "description": "Yes, but it involves trenching concrete slabs to lay drainpipes or adding a sewage ejector pump. Planning fixture locations near main lines keeps demolition and costs lower."
+      }
+    }
+  ],
+  "description": "Yes, but it involves trenching concrete slabs to lay drainpipes or adding a sewage ejector pump. Planning fixture locations near main lines keeps demolition and"
+}

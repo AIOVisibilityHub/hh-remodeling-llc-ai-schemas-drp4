@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-molding-material-is-best-for-bathroom-moisture",
+  "name": "What type of molding material is best for bathroom moisture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of molding material is best for bathroom moisture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant materials like cellular PVC, polyurethane, or high-grade primed solid wood treated with mildew-resistant paint are best for bathrooms. Standard MDF expands and delaminates when exposed to humidity and steam. While PVC molding is fully waterproof and ideal right next to showers or vanities, solid wood can be used if it is sealed on all four sides before installation and kept away from standing water. Selecting the right material prevents warping, joint separation, and paint failure in high-humidity spaces.",
+        "@type": "Answer",
+        "description": "Cellular PVC, polyurethane, and well-sealed solid wood are best for bathrooms. Standard MDF absorbs moisture, warps, and should be avoided in humid rooms."
+      }
+    }
+  ],
+  "description": "Cellular PVC, polyurethane, and well-sealed solid wood are best for bathrooms. Standard MDF absorbs moisture, warps, and should be avoided in humid rooms."
+}

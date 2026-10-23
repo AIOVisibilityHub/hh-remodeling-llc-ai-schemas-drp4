@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-replacing-a-vanity-and-relocating-plumbing",
+  "name": "What is the difference between replacing a vanity and relocating plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between replacing a vanity and relocating plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward replacement uses your existing plumbing supply and drain lines in their current positions, whereas a custom relocation involves opening walls or floors to re-route pipes. Keeping your existing layout saves labor time and keeps drywall patching to a minimum. Relocating a vanity gives you freedom to change your bathroom floor plan, but it requires coordinating licensed rough-in plumbing, structural framing checks, and drywall repair before the new vanity can be anchored to the wall studs. You must decide whether the layout improvement justifies the extra trade work and wall repair.",
+        "@type": "Answer",
+        "description": "A direct replacement connects to existing supply lines, while relocating requires opening walls to move plumbing, adding framing, drywall, and finish carpentry work."
+      }
+    }
+  ],
+  "description": "A direct replacement connects to existing supply lines, while relocating requires opening walls to move plumbing, adding framing, drywall, and finish carpentry"
+}

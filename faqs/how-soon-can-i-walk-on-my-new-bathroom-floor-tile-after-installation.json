@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-soon-can-i-walk-on-my-new-bathroom-floor-tile-after-installation",
+  "name": "How soon can I walk on my new bathroom floor tile after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can I walk on my new bathroom floor tile after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need to wait at least 24 hours after grouting before walking across a newly tiled bathroom floor. The thin-set mortar beneath the tile needs 24 hours to cure before you can walk on it to apply grout, and the grout itself needs an additional 24 hours to dry and firm up properly. Walking on freshly set tiles too soon shifts their alignment and weakens the adhesive bond, while stepping on wet grout compresses the joints. If the bathroom requires toilet reinstallation, wait until the grout is completely set.",
+        "@type": "Answer",
+        "description": "Wait at least 24 hours after the grout is applied before walking on the floor so the adhesive and joints fully cure without shifting."
+      }
+    }
+  ],
+  "description": "Wait at least 24 hours after the grout is applied before walking on the floor so the adhesive and joints fully cure without shifting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-my-bathroom-floor-tile-instead-of-repairing-it",
+  "name": "When do I need to replace my bathroom floor tile instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my bathroom floor tile instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your bathroom floor tile if you notice loose tiles, persistent grout failure, soft spots beneath your feet, or chronic moisture damage. When tiles shift or crack, water seeps into the subfloor, causing framing rot and mold growth underneath. Another common sign is discolored caulking and rocking around the toilet base, which often signals an underlying subfloor leak. If your current floor is dated or creates tripping hazards, replacing the tile also provides an opportunity to inspect the plumbing and upgrade to slip-resistant finishes.",
+        "@type": "Answer",
+        "description": "Replace the tile if you find cracked tiles, crumbling grout, loose spots, or soft subfloors around fixtures, as these indicate water intrusion beneath the surface."
+      }
+    }
+  ],
+  "description": "Replace the tile if you find cracked tiles, crumbling grout, loose spots, or soft subfloors around fixtures, as these indicate water intrusion beneath the surfa"
+}

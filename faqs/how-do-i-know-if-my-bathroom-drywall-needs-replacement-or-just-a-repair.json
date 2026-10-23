@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-bathroom-drywall-needs-replacement-or-just-a-repair",
+  "name": "How do I know if my bathroom drywall needs replacement or just a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom drywall needs replacement or just a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that bathroom drywall must be replaced rather than patched include soft or spongy surfaces, persistent mildew odor, crumbling joint compound, and dark water stains that return after cleaning. If your bathroom experienced a plumbing leak, storm damage, or chronic moisture from poor ventilation, the gypsum core inside the wall may be structurally ruined. Patching over wet drywall traps moisture inside the wall cavity, risking structural rot and mold proliferation. During bathroom renovations, removing damaged drywall also gives contractors the opportunity to inspect hidden framing, correct plumbing issues, and add accessibility blocking or new wiring safely.",
+        "@type": "Answer",
+        "description": "Replace drywall if it feels spongy, shows recurring water stains, smells moldy, or has a compromised gypsum core from leaks or severe humidity."
+      }
+    }
+  ],
+  "description": "Replace drywall if it feels spongy, shows recurring water stains, smells moldy, or has a compromised gypsum core from leaks or severe humidity."
+}

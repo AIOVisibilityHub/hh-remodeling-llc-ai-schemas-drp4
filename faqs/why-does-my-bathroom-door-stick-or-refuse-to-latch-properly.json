@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-does-my-bathroom-door-stick-or-refuse-to-latch-properly",
+  "name": "Why does my bathroom door stick or refuse to latch properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom door stick or refuse to latch properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door that sticks or fails to latch usually points to hinge sagging, frame racking, or moisture swelling rather than a faulty lockset. Over time, heavy doors pull short factory hinge screws out of the jamb, causing the top corner of the door to bind against the head jamb. Alternatively, high bathroom humidity can swell the wood fibers, or house settling can throw the rough framing out of plumb. A finish carpenter can determine whether the solution is re-hanging the slab with heavy-duty structural screws, planing down swollen edges, or completely resetting and shimming the jamb.",
+        "@type": "Answer",
+        "description": "Doors stick due to loose hinge screws, humidity-induced wood swelling, or shifting rough framing that pulls the jamb out of plumb and square."
+      }
+    }
+  ],
+  "description": "Doors stick due to loose hinge screws, humidity-induced wood swelling, or shifting rough framing that pulls the jamb out of plumb and square."
+}

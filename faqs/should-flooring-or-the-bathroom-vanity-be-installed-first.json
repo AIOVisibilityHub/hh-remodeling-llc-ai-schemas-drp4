@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-flooring-or-the-bathroom-vanity-be-installed-first",
+  "name": "Should flooring or the bathroom vanity be installed first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should flooring or the bathroom vanity be installed first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally best practice to finish the bathroom flooring before installing a freestanding vanity, while a floating vanity can be mounted before or after. Installing tile across the entire room allows flooring to run continuously under the cabinet, preventing awkward cuts and making future bathroom updates easier. However, if you are installing a very large, heavy vanity or custom built-in cabinetry, some homeowners choose to tile up to the vanity base to conserve expensive tile. If tiling up to the unit, careful base molding or shoe trim is required to seal the transition cleanly.",
+        "@type": "Answer",
+        "description": "Installing flooring first is typically best so tiles run continuously beneath the cabinet, though heavy built-ins can be set first with tile finished up to the base."
+      }
+    }
+  ],
+  "description": "Installing flooring first is typically best so tiles run continuously beneath the cabinet, though heavy built-ins can be set first with tile finished up to the"
+}

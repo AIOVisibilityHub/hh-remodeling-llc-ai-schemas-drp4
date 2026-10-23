@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-typically-take-to-install-new-bathroom-fixtures",
+  "name": "How long does it typically take to install new bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing standard bathroom fixtures like a faucet, showerhead, or toilet usually takes two to four hours when connecting to existing supply and drain lines. Replacing a full suite of fixtures—including a new vanity, tub, and shower trim—typically spans one to two days. Timelines expand if your project requires opening walls to relocate pipes, repairing water-damaged subflooring, or installing custom tile surrounds around the new hardware. Working with a general contractor who manages both carpentry and plumbing trade partners prevents delays between rough-in work and finish trim.",
+        "@type": "Answer",
+        "description": "Replacing standard fixtures in existing locations takes 2 to 4 hours. Replacing a full set with a vanity or tub usually takes 1 to 2 days, longer if plumbing must move."
+      }
+    }
+  ],
+  "description": "Replacing standard fixtures in existing locations takes 2 to 4 hours. Replacing a full set with a vanity or tub usually takes 1 to 2 days, longer if plumbing mu"
+}

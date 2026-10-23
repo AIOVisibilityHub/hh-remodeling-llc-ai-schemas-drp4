@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-shower-tile-be-installed-over-existing-tile",
+  "name": "Can new shower tile be installed over existing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new shower tile be installed over existing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiling over existing shower tile is generally not recommended and often leads to premature failure. Adding new tile over old tile adds significant weight, reduces interior shower space, and leaves underlying water damage or degraded waterproofing undetected. The existing tile surface also makes thinset adhesion less dependable. Removing old tile down to the wall framing allows contractors to inspect for mold, replace soft drywall or framing, and apply a fresh, code-compliant waterproofing system that ensures the shower remains leak-free for years.",
+        "@type": "Answer",
+        "description": "No, tiling over old shower tile is not recommended. Demolition allows contractors to inspect framing for water damage and install a fresh, reliable waterproof base."
+      }
+    }
+  ],
+  "description": "No, tiling over old shower tile is not recommended. Demolition allows contractors to inspect framing for water damage and install a fresh, reliable waterproof b"
+}

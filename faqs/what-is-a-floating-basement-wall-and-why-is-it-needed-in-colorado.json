@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-a-floating-basement-wall-and-why-is-it-needed-in-colorado",
+  "name": "What is a floating basement wall and why is it needed in Colorado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floating basement wall and why is it needed in Colorado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Colorado basements across Denver, Centennial, and Parker, floating basement walls are standard practice due to expansive bentonite soils. Soils in the region expand and contract with moisture fluctuations, which causes concrete basement slabs to shift or heave vertically. A floating wall leaves a designated gap, typically one and a half to two inches, between the bottom wall plate and the slab plate, secured with long framing spikes in slotted holes. This allows the concrete floor to move without buckling your studs or cracking your upper-floor drywall and ceilings.",
+        "@type": "Answer",
+        "description": "Floating basement walls leave an engineered gap at the base to absorb vertical movement from Colorado expansive soils without damaging finished walls or upper floors."
+      }
+    }
+  ],
+  "description": "Floating basement walls leave an engineered gap at the base to absorb vertical movement from Colorado expansive soils without damaging finished walls or upper f"
+}

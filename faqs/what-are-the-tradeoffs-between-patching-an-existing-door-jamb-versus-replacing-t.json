@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-tradeoffs-between-patching-an-existing-door-jamb-versus-replacing-t",
+  "name": "What are the tradeoffs between patching an existing door jamb versus replacing the whole frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tradeoffs between patching an existing door jamb versus replacing the whole frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching the existing frame saves money and preserves existing trim, while full replacement provides structural longevity and eliminates hidden moisture issues. Splicing in a Dutchman patch is ideal when damage is confined strictly to the bottom corner of a jamb, reducing disturbance to adjoining tile, drywall, or custom paint. However, older frames that have experienced repeated swelling can remain out of square, causing ongoing sticking or latching issues. Installing a completely new frame takes longer and costs more upfront, but it ensures a plumb opening, tight weather or privacy seals, and fresh, rot-free materials.",
+        "@type": "Answer",
+        "description": "Patching preserves existing trim and costs less, but replacing the entire frame guarantees a plumb fit and removes hidden mold or rot behind the jamb."
+      }
+    }
+  ],
+  "description": "Patching preserves existing trim and costs less, but replacing the entire frame guarantees a plumb fit and removes hidden mold or rot behind the jamb."
+}

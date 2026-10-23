@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-it-better-to-use-large-format-tiles-or-small-subway-tiles-on-bathroom-walls",
+  "name": "Is it better to use large-format tiles or small subway tiles on bathroom walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to use large-format tiles or small subway tiles on bathroom walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles require significantly flatter walls and specialty mortars, whereas smaller tiles take longer to lay and produce many more grout joints to clean. Large tiles create a sleek, modern visual with minimal grout lines, but walls must be perfectly plumb and flat to avoid lippage between adjacent tiles. Small tiles, like mosaics or penny rounds, adapt more easily to minor wall imperfections but require meticulous spacing, clean joint cleanup, and ongoing maintenance to keep the extensive grout lines free of soap scum.",
+        "@type": "Answer",
+        "description": "Large tiles reduce grout maintenance but demand flat framing to prevent uneven edges. Smaller tiles conceal wall imperfections more readily but require more grout upkeep."
+      }
+    }
+  ],
+  "description": "Large tiles reduce grout maintenance but demand flat framing to prevent uneven edges. Smaller tiles conceal wall imperfections more readily but require more gro"
+}

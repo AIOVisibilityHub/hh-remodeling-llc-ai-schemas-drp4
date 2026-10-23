@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-know-it-is-time-to-repaint-my-bathroom",
+  "name": "When do I know it is time to repaint my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I know it is time to repaint my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repainting if you notice peeling edges, bubbling drywall paper, water stains, persistent mildew, or a dull finish that stains easily when wiped. In frequently used bathrooms, paint typically needs refreshing every three to five years due to temperature swings and moisture. If your home has suffered water intrusion or cracked drywall around tubs and vanities, repainting should be paired with proper repairs. HH Remodeling can address underlying drywall defects, trim rot, or loose molding at the same time to ensure the new paint finish holds up.",
+        "@type": "Answer",
+        "description": "Repaint when you see peeling, persistent mildew, water stains, or bubbling. Most high-use bathrooms benefit from a refresh every three to five years."
+      }
+    }
+  ],
+  "description": "Repaint when you see peeling, persistent mildew, water stains, or bubbling. Most high-use bathrooms benefit from a refresh every three to five years."
+}
