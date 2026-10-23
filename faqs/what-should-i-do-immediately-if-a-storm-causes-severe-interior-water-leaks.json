@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-immediately-if-a-storm-causes-severe-interior-water-leaks",
+  "name": "What should I do immediately if a storm causes severe interior water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if a storm causes severe interior water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your first priority is safety and preventing secondary damage. If water is entering near light fixtures, switches, or panel boxes, turn off electricity to that room from your main breaker. Place buckets under active drips and carefully poke a small hole in sagging drywall ceilings to relieve pooled water and avoid a sudden blowout. Document everything immediately by taking clear photos and videos of the damage, standing water, and affected furniture before moving items to a dry area. Once the immediate area is secure, contact a restoration contractor to assess structural framing and water intrusion.",
+        "@type": "Answer",
+        "description": "Turn off power to affected areas, capture clear photos for your insurer, relieve water pooling in ceilings, and call a qualified repair contractor right away."
+      }
+    }
+  ],
+  "description": "Turn off power to affected areas, capture clear photos for your insurer, relieve water pooling in ceilings, and call a qualified repair contractor right away."
+}

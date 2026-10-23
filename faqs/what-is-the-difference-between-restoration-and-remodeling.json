@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-restoration-and-remodeling",
+  "name": "What is the difference between restoration and remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between restoration and remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration focuses on returning damaged areas to their pre-loss condition, while remodeling updates or changes the layout, materials, and function of the space. Restoration remodeling combines both approaches. When repairing damage caused by sudden issues like storms or leaks, homeowners can simultaneously upgrade finishes, reconfigure walls, or install modern tile and custom cabinetry instead of simply replacing what was ruined. This lets you turn necessary structural or drywall repairs into an upgraded living area during a single project.",
+        "@type": "Answer",
+        "description": "Restoration repairs property damage to its previous state, while remodeling updates or redesigns the space. Restoration remodeling merges structural repair with custom upgrades."
+      }
+    }
+  ],
+  "description": "Restoration repairs property damage to its previous state, while remodeling updates or redesigns the space. Restoration remodeling merges structural repair with"
+}

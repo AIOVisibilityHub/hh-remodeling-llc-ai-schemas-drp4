@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-immediate-steps-should-i-take-if-a-storm-damages-my-home",
+  "name": "What immediate steps should I take if a storm damages my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What immediate steps should I take if a storm damages my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a storm hits, document every area of visible damage with date-stamped photos and clear notes before touching anything. Promptly cover broken windows or leaks to prevent worsening conditions, and contact your insurance company to open a claim. Hiring a residential contractor like HH Remodeling LLC gives you a single contact to evaluate the scope of repairs across framing, drywall, and finish carpentry. Taking detailed photos of water stains, roof-leak intrusions, and damaged trim early provides the accurate documentation adjusters need during their site inspections.",
+        "@type": "Answer",
+        "description": "Take photos of all damage, temporarily patch leaks or openings to prevent further damage, notify your insurer, and schedule an inspection with a repair contractor."
+      }
+    }
+  ],
+  "description": "Take photos of all damage, temporarily patch leaks or openings to prevent further damage, notify your insurer, and schedule an inspection with a repair contract"
+}

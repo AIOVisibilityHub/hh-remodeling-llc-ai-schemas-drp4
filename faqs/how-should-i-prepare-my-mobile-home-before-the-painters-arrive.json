@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-mobile-home-before-the-painters-arrive",
+  "name": "How should I prepare my mobile home before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my mobile home before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the painting crew arrives, clear personal belongings, wall decor, and small furniture away from the walls. In compact mobile home layouts, workspace can be limited, so moving furniture to the center of the room and clearing hallways gives painters safe access. Document and point out any soft spots, previous leak stains, or shifting trim to the contractor during the walk-through so those repairs can be handled before applying paint. Disconnecting electronics and securing pets also speeds up preparation and ensures the work zone remains safe and clean.",
+        "@type": "Answer",
+        "description": "Move furniture away from walls, clear hallways, take down wall decor, and identify any soft drywall or water stains so repairs can be integrated into the scope of work."
+      }
+    }
+  ],
+  "description": "Move furniture away from walls, clear hallways, take down wall decor, and identify any soft drywall or water stains so repairs can be integrated into the scope"
+}

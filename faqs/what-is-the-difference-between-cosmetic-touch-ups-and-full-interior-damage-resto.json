@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-cosmetic-touch-ups-and-full-interior-damage-resto",
+  "name": "What is the difference between cosmetic touch-ups and full interior damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cosmetic touch-ups and full interior damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic repair fixes surface blemishes like small nail holes, paint scuffs, or minor baseboard dings that leave the structure sound. Structural or finish restoration involves compromised drywall sheets, water-logged wall studs, buckling subfloors, or displaced framing from settling or storms. Choosing a cosmetic patch over full structural remediation when moisture is trapped behind the wall saves money upfront but risks ongoing material rot and recurring finish failures. Proper restoration replaces damaged sheetrock down to the studs and checks the framing before final trim and paint are applied.",
+        "@type": "Answer",
+        "description": "Cosmetic touch-ups fix surface scuffs and minor holes, while structural restoration replaces water-soaked drywall, subflooring, or framing to ensure long-term stability."
+      }
+    }
+  ],
+  "description": "Cosmetic touch-ups fix surface scuffs and minor holes, while structural restoration replaces water-soaked drywall, subflooring, or framing to ensure long-term s"
+}

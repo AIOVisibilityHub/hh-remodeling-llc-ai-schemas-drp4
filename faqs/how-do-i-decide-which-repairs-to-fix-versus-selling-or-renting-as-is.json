@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-which-repairs-to-fix-versus-selling-or-renting-as-is",
+  "name": "How do I decide which repairs to fix versus selling or renting as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide which repairs to fix versus selling or renting as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize visible surfaces that immediately flag neglect during showings, starting with patched drywall, clean paint, functioning doors, and intact bathroom tile. A critical decision factor is return on investment: deep cosmetic overhauls or minor carpentry fixes usually offer faster turnaround and higher perceived value than rebuilding structural elements right before closing. If buyers see cracked caulk around tubs or water stains on ceilings, they often request inflated repair concessions. Resolving these finish items beforehand prevents deal delays during formal escrow inspections.",
+        "@type": "Answer",
+        "description": "Focus on high-visibility cosmetic items like drywall patches, fresh interior paint, and clean tile lines, which eliminate red flags that lead buyers to demand price drops."
+      }
+    }
+  ],
+  "description": "Focus on high-visibility cosmetic items like drywall patches, fresh interior paint, and clean tile lines, which eliminate red flags that lead buyers to demand p"
+}

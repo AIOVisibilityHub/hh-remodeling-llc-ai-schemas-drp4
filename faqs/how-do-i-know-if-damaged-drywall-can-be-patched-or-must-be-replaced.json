@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-damaged-drywall-can-be-patched-or-must-be-replaced",
+  "name": "How do I know if damaged drywall can be patched or must be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if damaged drywall can be patched or must be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall can occasionally be patched if the damage is small, localized, and the surrounding gypsum core remains dry, flat, and structurally firm. However, if drywall has absorbed water, bowed, cracked along structural joints, or deteriorated behind the surface, complete section replacement is required. Cutting back damaged drywall to the nearest framing stud ensures a clean seam, allows inspection of hidden wall cavities for framing rot or compromised wiring, and creates a solid backing for taping, mudding, and texture matching. A hands-on contractor will assess core rigidity before deciding between a patch or full sheet replacement.",
+        "@type": "Answer",
+        "description": "Small, solid surface blemishes can be patched, but bowed, water-soaked, or structurally cracked drywall must be cut out to the studs and replaced to ensure long-term stability."
+      }
+    }
+  ],
+  "description": "Small, solid surface blemishes can be patched, but bowed, water-soaked, or structurally cracked drywall must be cut out to the studs and replaced to ensure long"
+}

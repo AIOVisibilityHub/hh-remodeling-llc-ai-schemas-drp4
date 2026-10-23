@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-typical-interior-drywall-and-finish-repair-take",
+  "name": "How long does typical interior drywall and finish repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does typical interior drywall and finish repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most minor to moderate interior repairs take between one and four days, depending on drying times. Hanging drywall, applying multiple coats of joint compound, and adding texture requires dedicated curing intervals between steps before painting can start. When repairs also demand structural reframing, tile replacement, or coordinated electrical and plumbing rough-ins, the timeline extends accordingly. Rushing through the drywall mudding and drying stages can cause paint bubbling or joint cracking down the road, so allowing proper drying periods is necessary for a seamless finish.",
+        "@type": "Answer",
+        "description": "Standard drywall and finish repairs take one to four days to allow joint compound and paint to dry properly between coats, with larger structural repairs taking longer."
+      }
+    }
+  ],
+  "description": "Standard drywall and finish repairs take one to four days to allow joint compound and paint to dry properly between coats, with larger structural repairs taking"
+}

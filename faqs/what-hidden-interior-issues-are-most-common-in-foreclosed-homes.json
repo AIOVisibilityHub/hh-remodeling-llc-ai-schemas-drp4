@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-hidden-interior-issues-are-most-common-in-foreclosed-homes",
+  "name": "What hidden interior issues are most common in foreclosed homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden interior issues are most common in foreclosed homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common hidden issues include unaddressed water damage behind drywall, rotted subfloors beneath damaged carpet or vinyl, and compromised framing where former occupants attempted unpermitted alterations. Foreclosed homes left unheated through cold seasons often conceal burst pipe damage inside interior partition walls that only appears once lines are pressurized. Additionally, missing electrical wiring, abandoned venting, or broken drain traps can complicate what initially looked like simple cosmetic touch-ups. A detailed walk with a finish contractor helps catch these framing and drywall issues before finishing coats are applied.",
+        "@type": "Answer",
+        "description": "Hidden issues include freeze-damaged pipes behind sheetrock, rotted subflooring, and unauthorized framing changes made by prior owners."
+      }
+    }
+  ],
+  "description": "Hidden issues include freeze-damaged pipes behind sheetrock, rotted subflooring, and unauthorized framing changes made by prior owners."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-contacting-a-restoration-remodeler",
+  "name": "What should I prepare before contacting a restoration remodeler?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a restoration remodeler?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before reaching out for an estimate, thoroughly document all damage with clear photos and notes detailing when the event occurred. If you filed an insurance claim, gather the adjuster's paperwork and itemized repair scope so your contractor can review it. Additionally, consider whether you want to expand the project beyond basic repairs—such as adding recessed lighting, opening up walls, or replacing standard trim with custom molding. Having these details ready helps establish clear priorities and accurate pricing from the start.",
+        "@type": "Answer",
+        "description": "Document all damage with photos, collect any insurance paperwork, and decide whether you want to include custom layout changes or upgraded finishes during the repair."
+      }
+    }
+  ],
+  "description": "Document all damage with photos, collect any insurance paperwork, and decide whether you want to include custom layout changes or upgraded finishes during the r"
+}

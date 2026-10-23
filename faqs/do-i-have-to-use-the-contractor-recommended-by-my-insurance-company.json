@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-have-to-use-the-contractor-recommended-by-my-insurance-company",
+  "name": "Do I have to use the contractor recommended by my insurance company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to use the contractor recommended by my insurance company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You are not required to hire your insurer's preferred contractor. Homeowners retain the legal right to hire any licensed, qualified contractor they trust to work in their home. Preferred network contractors frequently work under volume pricing agreements with carriers, whereas an independent contractor like HH Remodeling works directly for you. We focus on quality craft, detailed finishes, and matching your existing moldings, tile, and paint without rushing steps to cut carrier overhead.",
+        "@type": "Answer",
+        "description": "No. You have the right to select any independent contractor you trust to complete the interior rebuild on your property."
+      }
+    }
+  ],
+  "description": "No. You have the right to select any independent contractor you trust to complete the interior rebuild on your property."
+}

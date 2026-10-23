@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-repairs-should-be-prioritized-first-on-a-distressed-foreclosure",
+  "name": "What repairs should be prioritized first on a distressed foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repairs should be prioritized first on a distressed foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should always begin by securing the building, restoring essential utilities, and addressing safety hazards before attempting any cosmetic updates. Start by verifying roof integrity and resolving active water intrusion or structural rot. Next, ensure electrical and plumbing rough-ins pass muster before closing open cavities. Only after framing, rough-ins, and drywall are solid should you move toward finish carpentry, interior painting, kitchen cabinetry, and bathroom tile installation. Prioritizing visible cosmetics too early risks having to tear out new work if hidden wiring or plumbing leaks emerge later.",
+        "@type": "Answer",
+        "description": "Prioritize weatherproofing, securing utilities, and fixing structural, framing, or plumbing issues before investing in drywall finishes, painting, and tile work."
+      }
+    }
+  ],
+  "description": "Prioritize weatherproofing, securing utilities, and fixing structural, framing, or plumbing issues before investing in drywall finishes, painting, and tile work"
+}

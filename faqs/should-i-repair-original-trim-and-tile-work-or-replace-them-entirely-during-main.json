@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-repair-original-trim-and-tile-work-or-replace-them-entirely-during-main",
+  "name": "Should I repair original trim and tile work or replace them entirely during maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair original trim and tile work or replace them entirely during maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When deciding whether to maintain existing woodwork and tile or install new materials, assess structural integrity, historical value, and overall replacement cost. Preserving original elements like custom framing, hardwood moldings, and unique tile work protects the architectural character of older homes and avoids the demolition debris of a gut remodel. However, if water has compromised the subfloor under tiles or rot has reached the core of structural studs, full replacement becomes the safer, more durable path. A careful inspection reveals whether surface restoration or total replacement makes better financial sense.",
+        "@type": "Answer",
+        "description": "Repair existing trim and tile if their substrate is sound; choose replacement if extensive rot, subfloor damage, or deep moisture has ruined structural backing."
+      }
+    }
+  ],
+  "description": "Repair existing trim and tile if their substrate is sound; choose replacement if extensive rot, subfloor damage, or deep moisture has ruined structural backing."
+}

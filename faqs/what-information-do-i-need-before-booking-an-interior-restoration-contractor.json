@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-information-do-i-need-before-booking-an-interior-restoration-contractor",
+  "name": "What information do I need before booking an interior restoration contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before booking an interior restoration contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling a restoration contractor, document all visible damage thoroughly with clear photos and video, and locate your insurance claim number and adjuster's contact details. Make sure you have received the carrier's initial scope of loss or adjuster's summary sheet. Having these items ready allows HH Remodeling to review the exact line items approved for framing, drywall, and finish carpentry, identify any missing structural work early, and schedule our sub-trades without administrative delays.",
+        "@type": "Answer",
+        "description": "Gather photos of the damage, your claim number, adjuster contact details, and the adjuster's itemized scope of loss summary sheet."
+      }
+    }
+  ],
+  "description": "Gather photos of the damage, your claim number, adjuster contact details, and the adjuster's itemized scope of loss summary sheet."
+}

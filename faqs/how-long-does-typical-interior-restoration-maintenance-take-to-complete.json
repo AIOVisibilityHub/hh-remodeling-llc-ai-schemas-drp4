@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-typical-interior-restoration-maintenance-take-to-complete",
+  "name": "How long does typical interior restoration maintenance take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does typical interior restoration maintenance take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most focused interior restoration repairs take anywhere from one day to one week, depending on drying times and trade coordination. A small drywall repair and paint touch-up can take two to three days due to the drying stages between compound coats, primer, and topcoats. Larger projects, such as addressing storm-damaged ceilings alongside baseboard replacement and sub-trade plumbing checks, take closer to a full week. Clear timelines depend on whether sub-trades like plumbing or electrical must inspect behind walls before drywall, tile, and custom carpentry can be completed.",
+        "@type": "Answer",
+        "description": "Typical repairs take between one day and one week, influenced heavily by drywall compound drying times and any required coordination with specialty trade work."
+      }
+    }
+  ],
+  "description": "Typical repairs take between one day and one week, influenced heavily by drywall compound drying times and any required coordination with specialty trade work."
+}

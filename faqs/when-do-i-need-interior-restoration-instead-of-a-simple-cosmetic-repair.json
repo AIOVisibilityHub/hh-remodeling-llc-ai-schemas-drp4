@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-interior-restoration-instead-of-a-simple-cosmetic-repair",
+  "name": "When do I need interior restoration instead of a simple cosmetic repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need interior restoration instead of a simple cosmetic repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional interior restoration when structural integrity, safety, or hidden building layers are compromised. Visible signs include sagging ceilings, crumbling drywall, spongy subfloors, rotted trim, or lingering damage following severe weather or pipe breaks. If the issue extends past a minor cosmetic surface scratch into framing, insulation, or subflooring, DIY patching is inadequate. A professional contractor determines whether structural studs require sistering or replacement, strips out ruined drywall cleanly, and ensures the underlying framework is completely secure before installing new wallboard, texture, trim, and paint to prevent recurring damage.",
+        "@type": "Answer",
+        "description": "You need restoration when damage reaches structural framing, subflooring, or compromised drywall. Simple cosmetic fixes are not sufficient if underlying materials are damaged."
+      }
+    }
+  ],
+  "description": "You need restoration when damage reaches structural framing, subflooring, or compromised drywall. Simple cosmetic fixes are not sufficient if underlying materia"
+}

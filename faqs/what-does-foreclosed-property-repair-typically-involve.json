@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-does-foreclosed-property-repair-typically-involve",
+  "name": "What does foreclosed property repair typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does foreclosed property repair typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed property repair involves rehabilitating a distressed, bank-owned, or abandoned home to make it safe, functional, and livable. These properties often suffer from deferred maintenance, vandalism, or incomplete projects by previous occupants. Common repairs include fixing damaged or missing drywall, replacing vandalized or stripped plumbing and electrical fixtures, repairing subfloors, laying new tile, and hanging interior trim and doors. A general contractor coordinates essential structural and finish work while organizing specialized licensed trades for mechanical systems, bringing the home up to standard living conditions.",
+        "@type": "Answer",
+        "description": "Foreclosed property repair involves addressing deferred maintenance, damage, and missing fixtures to restore a bank-owned home to safe, livable, and marketable condition."
+      }
+    }
+  ],
+  "description": "Foreclosed property repair involves addressing deferred maintenance, damage, and missing fixtures to restore a bank-owned home to safe, livable, and marketable"
+}

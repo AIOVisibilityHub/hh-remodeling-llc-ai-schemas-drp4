@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-mobile-home-before-a-wall-or-ceiling-repair-project",
+  "name": "How should I prepare my mobile home before a wall or ceiling repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my mobile home before a wall or ceiling repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the repair team arrives, homeowners should clear furniture, electronics, and wall decor away from the work zone. Providing a clear pathway from the exterior door to the repair area ensures materials and ladders can be brought inside safely. If the repair is due to water damage, ensure that the plumbing supply is shut off or the roof leak has already been sealed. It also helps to note whether you want standard panel matching or if you plan to paint the entire room, allowing the crew to set up appropriate plastic containment and drop cloths.",
+        "@type": "Answer",
+        "description": "Clear furniture and decor from the area, ensure plumbing or roof leaks are fully stopped, clear a path to the entrance, and decide if you want isolated patching or a full-room repaint."
+      }
+    }
+  ],
+  "description": "Clear furniture and decor from the area, ensure plumbing or roof leaks are fully stopped, clear a path to the entrance, and decide if you want isolated patching"
+}

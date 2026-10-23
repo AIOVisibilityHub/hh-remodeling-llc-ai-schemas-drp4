@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-patch-a-damaged-section-of-mobile-home-flooring-or-must-the-entire-room-be",
+  "name": "Can I patch a damaged section of mobile home flooring, or must the entire room be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I patch a damaged section of mobile home flooring, or must the entire room be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace only a damaged section if the surrounding subflooring and framing remain structurally sound and dry. Contractors cut out the softened area directly along the center of the floor joists to provide solid backing for a replacement patch. However, if moisture has migrated across an entire bathroom or kitchen, or if original particle board has degraded throughout the space, replacing the complete room's subfloor offers a much flatter, long-lasting surface. A full replacement also prevents future height transitions between patched sections.",
+        "@type": "Answer",
+        "description": "Spot patches work well for isolated damage, but widespread moisture or widespread particle board degradation warrants replacing the whole room's subfloor."
+      }
+    }
+  ],
+  "description": "Spot patches work well for isolated damage, but widespread moisture or widespread particle board degradation warrants replacing the whole room's subfloor."
+}

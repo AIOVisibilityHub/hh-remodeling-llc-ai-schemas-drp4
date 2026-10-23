@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-water-damaged-drywall-from-a-storm-leak-be-repaired-or-does-it-have-to-be-re",
+  "name": "Can water-damaged drywall from a storm leak be repaired, or does it have to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged drywall from a storm leak be repaired, or does it have to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall that has become soft, bowed, or saturated from storm water must be removed and replaced rather than dried in place. Even if surface moisture evaporates, wet gypsum loses structural integrity and fiberglass insulation behind it stays damp for weeks, creating ideal conditions for mold growth. Technicians cut away damaged drywall at least one to two feet above the high-water line, dispose of wet insulation, and treat exposed studs before hanging fresh drywall panels and applying matching textures.",
+        "@type": "Answer",
+        "description": "Saturated drywall must be cut out and replaced because gypsum loses structural strength and wet insulation behind it harbors hidden mold."
+      }
+    }
+  ],
+  "description": "Saturated drywall must be cut out and replaced because gypsum loses structural strength and wet insulation behind it harbors hidden mold."
+}

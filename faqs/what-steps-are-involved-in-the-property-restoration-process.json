@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-involved-in-the-property-restoration-process",
+  "name": "What steps are involved in the property restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the property restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property restoration typically follows a phased sequence: site assessment, demolition, structural repairs, rough-in trades, and interior finishes. First, the contractor assesses the full boundary of the damage and strips away ruined drywall, rotted subfloors, or compromised insulation. Next, framing repairs and any necessary plumbing or electrical rough-ins are completed. Once mechanical inspections pass and the structure is secure, finish work begins. This includes hanging and finishing new drywall, installing tile or flooring, fitting interior trim and doors, and applying final coats of paint. Having an on-site lead overseeing both structural framing and interior finishes ensures each phase transitions smoothly without unnecessary downtime between trades.",
+        "@type": "Answer",
+        "description": "The process includes damage assessment, demolition, framing and mechanical rough-ins, followed by drywall installation, custom tile or flooring, trim carpentry, and final paint."
+      }
+    }
+  ],
+  "description": "The process includes damage assessment, demolition, framing and mechanical rough-ins, followed by drywall installation, custom tile or flooring, trim carpentry,"
+}

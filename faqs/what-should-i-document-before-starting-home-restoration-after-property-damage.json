@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-document-before-starting-home-restoration-after-property-damage",
+  "name": "What should I document before starting home restoration after property damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I document before starting home restoration after property damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a contractor begins, photograph and document all damaged areas, personal belongings, and building materials from multiple angles. File your claim with your insurance carrier immediately and retain any damaged structural components until the adjuster completes their inspection. Having your contractor present during the inspection or providing them with the adjuster’s line-item summary helps ensure all necessary finish carpentry, drywall repairs, and trade work are accurately accounted for.",
+        "@type": "Answer",
+        "description": "Take clear photos and videos of all structural and cosmetic damage before cleanup begins, and secure the insurance adjuster's scope of loss report for your contractor."
+      }
+    }
+  ],
+  "description": "Take clear photos and videos of all structural and cosmetic damage before cleanup begins, and secure the insurance adjuster's scope of loss report for your cont"
+}

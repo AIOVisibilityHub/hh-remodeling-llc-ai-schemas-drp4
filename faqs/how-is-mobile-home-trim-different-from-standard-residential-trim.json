@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-mobile-home-trim-different-from-standard-residential-trim",
+  "name": "How is mobile home trim different from standard residential trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is mobile home trim different from standard residential trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Manufactured homes often use lightweight vinyl, batten strips, or thin MDF moldings rather than standard solid wood stock. Wall studs in manufactured housing are frequently spaced differently and can be thinner than site-built framing, which changes how trim pieces must be fastened. When repairing or replacing this molding, a finish carpenter must inspect whether to reuse manufacturer-style pre-finished trim or upgrade to standard wood profiles. If you upgrade to traditional lumber or MDF, the installer must ensure the backing studs and drywall can support standard finish nails without blowing out the wall panels.",
+        "@type": "Answer",
+        "description": "Mobile home trim is typically lightweight vinyl, thin MDF, or batten strips designed for thinner wall framing, unlike the solid wood or standard profiles used in traditional houses."
+      }
+    }
+  ],
+  "description": "Mobile home trim is typically lightweight vinyl, thin MDF, or batten strips designed for thinner wall framing, unlike the solid wood or standard profiles used i"
+}

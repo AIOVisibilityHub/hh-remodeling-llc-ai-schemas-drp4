@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-does-interior-damage-repair-include-for-residential-homes",
+  "name": "What does interior damage repair include for residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does interior damage repair include for residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior damage repair addresses structural and cosmetic issues inside a home, including cracked drywall, water-stained ceilings, damaged subflooring, and broken trim. At HH Remodeling LLC, repair projects typically follow a systematic process: inspecting the affected area, removing damaged building materials, repairing underlying framing if needed, and installing new drywall, trim, or tile before painting. If the damage involves mechanical systems like plumbing or electrical circuits, qualified sub-trades are coordinated alongside our carpentry and finishing crew to complete the restoration properly.",
+        "@type": "Answer",
+        "description": "Interior damage repair includes replacing damaged drywall, repairing framing, resetting tile or trim, and repainting, while addressing underlying electrical or plumbing issues."
+      }
+    }
+  ],
+  "description": "Interior damage repair includes replacing damaged drywall, repairing framing, resetting tile or trim, and repainting, while addressing underlying electrical or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-it-cost-to-repair-the-interior-of-a-foreclosed-property",
+  "name": "How much does it cost to repair the interior of a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair the interior of a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Total expenses depend largely on how long the house sat vacant and the extent of neglect or vandalism. Patching drywall holes, replacing baseboards, and repainting run significantly less than gutting bathrooms, reframing rotted partition walls, or replacing stripped mechanical systems. Property owners face a practical tradeoff between cosmetic repairs to make the home immediately rentable versus full-scope kitchen and bath overhauls that maximize long-term resale value. Obtaining a thorough on-site evaluation helps categorize repairs into mandatory safety fixes, core structural and drywall work, and optional aesthetic upgrades to keep your rehab budget on target.",
+        "@type": "Answer",
+        "description": "Costs vary based on vacancy duration and damage. Basic cosmetic repairs cost far less than full room gutting, framing fixes, and coordinated trade work."
+      }
+    }
+  ],
+  "description": "Costs vary based on vacancy duration and damage. Basic cosmetic repairs cost far less than full room gutting, framing fixes, and coordinated trade work."
+}

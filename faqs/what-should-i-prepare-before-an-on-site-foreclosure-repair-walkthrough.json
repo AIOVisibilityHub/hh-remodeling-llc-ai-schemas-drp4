@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-an-on-site-foreclosure-repair-walkthrough",
+  "name": "What should I prepare before an on-site foreclosure repair walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an on-site foreclosure repair walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling an on-site walkthrough, gather clear documentation of the property's condition and secure utility access. Ensure electricity and water are safely turned on or note if they remain winterized, as working utilities are required to test fixtures and assess plumbing leaks. Create an itemized inventory of known damage, such as missing copper lines, broken doors, or water-stained ceilings, and check whether your municipality requires specific permits or certificates of occupancy for re-inhabiting foreclosed properties. Having these details ready helps the contractor deliver an accurate scope of work for carpentry, drywall, and surface finishes.",
+        "@type": "Answer",
+        "description": "Confirm utility status, list visible structural and water damage, and verify any municipal permit requirements before your walkthrough."
+      }
+    }
+  ],
+  "description": "Confirm utility status, list visible structural and water damage, and verify any municipal permit requirements before your walkthrough."
+}

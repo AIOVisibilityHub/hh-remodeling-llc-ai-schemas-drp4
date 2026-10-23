@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-restoration-remodeling-costs-calculated",
+  "name": "How are restoration remodeling costs calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are restoration remodeling costs calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration remodeling costs depend on the severity of the damage, the size of the room, and the finish materials selected. Basic structural stabilization, drywall repair, and repainting require fewer labor hours than full gut rehabilitations. If you choose premium upgrades—such as custom marble tile, high-end trim carpentry, or reconfigured plumbing and electrical runs—costs increase accordingly. To set an accurate budget, contractors inspect framing, assess structural integrity, and provide an itemized breakdown separating basic repair work from optional design improvements.",
+        "@type": "Answer",
+        "description": "Costs are based on structural damage repairs, square footage, sub-trade work, and whether you choose standard replacements or upgraded finishes like custom tile and trim."
+      }
+    }
+  ],
+  "description": "Costs are based on structural damage repairs, square footage, sub-trade work, and whether you choose standard replacements or upgraded finishes like custom tile"
+}

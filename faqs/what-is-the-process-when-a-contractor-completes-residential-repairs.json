@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-process-when-a-contractor-completes-residential-repairs",
+  "name": "What is the process when a contractor completes residential repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process when a contractor completes residential repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior repairs generally begin with an on-site evaluation or clear review of your repair punch list to determine material and trade needs. Once scheduled, the work area is prepped to protect existing floors and nearby furnishings. The crew then completes physical carpentry, drywall, or tile repairs directly, while the owner coordinates any necessary sub-trades for electrical or plumbing tie-ins. After structural and finish work dries and cures, painters apply matching finishes, debris is cleared, and a final walkthrough ensures every item on your original punch list meets quality standards.",
+        "@type": "Answer",
+        "description": "The process includes an initial assessment, site prep, structural and finish repairs, coordination of sub-trades, finish paint, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes an initial assessment, site prep, structural and finish repairs, coordination of sub-trades, finish paint, and a final walkthrough."
+}

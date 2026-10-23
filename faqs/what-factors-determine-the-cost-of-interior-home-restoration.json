@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-determine-the-cost-of-interior-home-restoration",
+  "name": "What factors determine the cost of interior home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of interior home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of restoring a damaged room depends on the depth of the damage, structural involvement, and finish specifications. A room needing simple drywall patches and a fresh coat of paint costs significantly less than one requiring framing replacement, subfloor repair, or new tile and trim. In spaces like kitchens and bathrooms, total costs are heavily influenced by whether plumbing and electrical sub-trades must be brought in alongside carpentry and finishing crews.",
+        "@type": "Answer",
+        "description": "Costs depend on structural framing damage, moisture depth, materials required, and whether specialized plumbing or electrical sub-trades are necessary."
+      }
+    }
+  ],
+  "description": "Costs depend on structural framing damage, moisture depth, materials required, and whether specialized plumbing or electrical sub-trades are necessary."
+}

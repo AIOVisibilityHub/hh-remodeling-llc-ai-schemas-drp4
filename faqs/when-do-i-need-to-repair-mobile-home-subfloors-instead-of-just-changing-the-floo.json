@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-repair-mobile-home-subfloors-instead-of-just-changing-the-floo",
+  "name": "When do I need to repair mobile home subfloors instead of just changing the flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to repair mobile home subfloors instead of just changing the flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair subfloors immediately if you notice soft spots, sloping, spongy walking surfaces, or persistent musty odors. Waiting can cause damage to spread from isolated particle board panels into major floor joists or adjacent walls. A key decision factor is the source of moisture: cosmetic flooring should never be laid over swollen boards until the water entry point is sealed. Addressing subfloor degradation early protects your structural stability and avoids more expensive framing tear-outs later.",
+        "@type": "Answer",
+        "description": "Replace the subfloor immediately if you feel bounce, dipping, or sponginess. Installing new surface flooring over decayed particle board will fail quickly."
+      }
+    }
+  ],
+  "description": "Replace the subfloor immediately if you feel bounce, dipping, or sponginess. Installing new surface flooring over decayed particle board will fail quickly."
+}

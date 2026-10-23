@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-homeowners-prepare-their-living-space-for-interior-repair-work",
+  "name": "How should homeowners prepare their living space for interior repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare their living space for interior repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your repair contractor arrives, clear personal belongings, furniture, and breakables from the work area and ensure clear access paths through the house. If the damage was caused by a storm or broken pipe, gather photos of the initial damage and keep records of any emergency repairs already completed. It also helps to locate leftover matching paint cans or note your trim profile style. Disclosing known plumbing or wiring paths behind the damaged drywall helps the crew cut into walls cleanly and avoid accidental utility disruptions.",
+        "@type": "Answer",
+        "description": "Clear furniture from the room, gather photos of previous damage if filing insurance, and locate any leftover paint or trim samples for easy matching."
+      }
+    }
+  ],
+  "description": "Clear furniture from the room, gather photos of previous damage if filing insurance, and locate any leftover paint or trim samples for easy matching."
+}

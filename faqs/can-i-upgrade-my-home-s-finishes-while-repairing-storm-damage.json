@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-upgrade-my-home-s-finishes-while-repairing-storm-damage",
+  "name": "Can I upgrade my home's finishes while repairing storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my home's finishes while repairing storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can upgrade your layout, fixtures, and finishes during storm-damage repairs. A major practical tradeoff is managing the scope: insurance claims typically cover only matching the original materials and repairing actual damage. If you choose to upgrade to custom tile, marble, or altered framing, you pay the difference out of pocket. Combining the repair work with planned improvements saves you from hiring separate contractors later, allowing a single lead carpenter to complete framing, drywall, and finish work in one phase.",
+        "@type": "Answer",
+        "description": "Yes. You can upgrade materials and layouts during storm repairs, but insurance covers only the baseline restoration costs; optional upgrades are paid directly by the homeowner."
+      }
+    }
+  ],
+  "description": "Yes. You can upgrade materials and layouts during storm repairs, but insurance covers only the baseline restoration costs; optional upgrades are paid directly b"
+}

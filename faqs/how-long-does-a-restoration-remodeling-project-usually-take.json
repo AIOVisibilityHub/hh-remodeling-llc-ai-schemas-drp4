@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-restoration-remodeling-project-usually-take",
+  "name": "How long does a restoration remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a restoration remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration remodeling timelines vary widely based on the scale of damage and the level of remodeling involved. Simple repairs—such as drywall patches, framing adjustments, and fresh interior paint after minor ceiling damage—often take a few days to a week. Full-scope projects, such as rebuilding a water-damaged kitchen or gutting a basement down to framing, typically take several weeks. Timing is influenced by moisture remediation, sub-trade coordination for plumbing or electrical systems, and the lead time needed for custom materials like specialty tile.",
+        "@type": "Answer",
+        "description": "Small drywall and carpentry repairs take a few days, while full kitchen, bathroom, or basement restoration remodels often require several weeks depending on the scope."
+      }
+    }
+  ],
+  "description": "Small drywall and carpentry repairs take a few days, while full kitchen, bathroom, or basement restoration remodels often require several weeks depending on the"
+}

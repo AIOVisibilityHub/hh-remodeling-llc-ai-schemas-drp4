@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-for-interior-water-damage-repairs",
+  "name": "How should I prepare my home for interior water damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home for interior water damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your repair contractor arrives, take thorough photos and videos of all damaged walls, ceilings, and flooring for your insurance carrier. Make sure the original plumbing or roof leak is completely fixed and all standing water has been removed. Clear personal items, furniture, and wall hangings out of the work area to prevent dust exposure. Gathering details on the age of your home, existing paint codes, or spare matching tiles helps your repair crew plan material sourcing and finish blending much faster during their on-site evaluation.",
+        "@type": "Answer",
+        "description": "Stop the leak, dry the room, photograph all damage for insurance, and clear furniture from the workspace so crews can access walls and ceilings immediately."
+      }
+    }
+  ],
+  "description": "Stop the leak, dry the room, photograph all damage for insurance, and clear furniture from the workspace so crews can access walls and ceilings immediately."
+}

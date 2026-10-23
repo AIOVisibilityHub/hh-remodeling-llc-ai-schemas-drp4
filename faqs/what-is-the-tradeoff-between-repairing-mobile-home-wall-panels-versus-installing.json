@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-tradeoff-between-repairing-mobile-home-wall-panels-versus-installing",
+  "name": "What is the tradeoff between repairing mobile home wall panels versus installing real drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the tradeoff between repairing mobile home wall panels versus installing real drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing or upgrading to sheetrock provides a smooth, modern interior look and allows standard paint, but it carries structural tradeoffs. True drywall adds substantial weight compared to factory wallboard, and manufactured home framing typically uses smaller 2x3 or 2x4 studs on lighter subfloors. Additionally, mobile homes experience subtle shifts during seasonal soil expansion and settling. If you replace thin panels with standard 1/2-inch drywall, your contractor must confirm the existing studs can hold the load and may need to use flexible setting-type compounds along high-stress seams to prevent recurring cracks.",
+        "@type": "Answer",
+        "description": "Real drywall creates a seamless, traditional finish, but it adds weight and requires stable framing so the panels do not crack during natural home settling."
+      }
+    }
+  ],
+  "description": "Real drywall creates a seamless, traditional finish, but it adds weight and requires stable framing so the panels do not crack during natural home settling."
+}

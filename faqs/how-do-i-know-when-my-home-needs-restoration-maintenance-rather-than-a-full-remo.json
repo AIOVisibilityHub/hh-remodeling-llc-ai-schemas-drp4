@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-home-needs-restoration-maintenance-rather-than-a-full-remo",
+  "name": "How do I know when my home needs restoration maintenance rather than a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my home needs restoration maintenance rather than a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration maintenance becomes necessary when visible signs of degradation compromise finishes, framing, or interior surfaces. Common warning signs include peeling paint paired with softening wood, drywall bubbling or cracking from past leaks, loosened custom moldings, cracked tile grout lines, or weathered exterior logs. You should also schedule maintenance following severe weather events to catch hidden moisture or wind damage before it spreads. Delaying these repairs often allows localized moisture or wood rot to expand into adjacent framing, significantly driving up the overall scope and expense of necessary carpentry or drywall repairs.",
+        "@type": "Answer",
+        "description": "You need restoration maintenance when finishes, log siding, tile, or drywall show signs of localized damage, aging, or moisture wear that do not require gutting entire rooms."
+      }
+    }
+  ],
+  "description": "You need restoration maintenance when finishes, log siding, tile, or drywall show signs of localized damage, aging, or moisture wear that do not require gutting"
+}

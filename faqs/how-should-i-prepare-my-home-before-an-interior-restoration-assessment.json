@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-an-interior-restoration-assessment",
+  "name": "How should I prepare my home before an interior restoration assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before an interior restoration assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor arrives for an assessment, document all affected areas thoroughly with clear photos and notes detailing when the damage occurred. If you are dealing with storm damage or a burst pipe, ensure the active source of moisture is fully stopped and the space is completely dried out. Clear personal belongings, furniture, and valuables away from the work zone to provide safe access to walls, subfloors, and ceilings. Having any past inspection reports, insurance documentation, or desired finish ideas ready to review helps your contractor define the exact project scope and trade requirements quickly.",
+        "@type": "Answer",
+        "description": "Take photos of damage, verify moisture sources are stopped and dried, and clear furniture from the work area. Gather any relevant inspection or insurance paperwork for your contractor."
+      }
+    }
+  ],
+  "description": "Take photos of damage, verify moisture sources are stopped and dried, and clear furniture from the work area. Gather any relevant inspection or insurance paperw"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-typical-residential-home-repair-and-maintenance-projects-take",
+  "name": "How long do typical residential home repair and maintenance projects take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical residential home repair and maintenance projects take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of residential maintenance depends on the complexity and drying times required for finish materials. Basic handyman visits—such as replacing door casing, fixing loose tiles, or minor caulking—can often wrap up in a single day. More extensive repairs involving multiple coats of drywall mud, custom carpentry, or interior painting usually take two to three days to allow for proper curing and sanding between steps. If maintenance reveals underlying issues that require scheduling specialized trade partners for plumbing or electrical systems, that coordination can add time to the overall repair schedule.",
+        "@type": "Answer",
+        "description": "Simple handyman repairs often take a single day, while multi-step drywall patching, tile repairs, and painting typically take two to three days."
+      }
+    }
+  ],
+  "description": "Simple handyman repairs often take a single day, while multi-step drywall patching, tile repairs, and painting typically take two to three days."
+}

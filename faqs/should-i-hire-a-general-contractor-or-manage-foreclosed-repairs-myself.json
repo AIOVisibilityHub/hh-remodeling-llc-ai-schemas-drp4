@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-general-contractor-or-manage-foreclosed-repairs-myself",
+  "name": "Should I hire a general contractor or manage foreclosed repairs myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or manage foreclosed repairs myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a hands-on general contractor gives you a single point of contact who manages both structural finish work and sub-trades, whereas managing it yourself demands extensive time, trade scheduling, and code oversight. Distressed properties frequently conceal overlapping issues: drywall repairs often expose faulty wiring, while bathroom updates may uncover rotted framing. A general contractor coordinates rough carpentry, tile setting, drywall, and painting in-house while managing licensed plumbers and electricians, preventing scheduling logjams and ensuring finish details align properly without costly rework.",
+        "@type": "Answer",
+        "description": "A general contractor coordinates rough trades, drywall, and finish work under one point of contact, preventing schedule bottlenecks and overlooked structural defects."
+      }
+    }
+  ],
+  "description": "A general contractor coordinates rough trades, drywall, and finish work under one point of contact, preventing schedule bottlenecks and overlooked structural de"
+}

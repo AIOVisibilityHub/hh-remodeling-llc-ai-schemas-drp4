@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-home-restoration-and-home-remodeling",
+  "name": "What is the difference between home restoration and home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home restoration and home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home restoration focuses on returning a damaged property to its safe, functional, pre-loss condition, whereas remodeling involves altering the layout, style, or functionality of an undamaged room. Restoration typically follows incidents like storm impact, severe leaks, or structural degradation. While restoration repairs original elements such as framing, subfloors, and drywall, property owners often take advantage of the open construction walls to combine both services, upgrading finishes like tile, cabinetry, or paint while structural repairs are underway.",
+        "@type": "Answer",
+        "description": "Restoration repairs and returns damaged property to its original sound condition, while remodeling changes the aesthetic or functional design of an existing, undamaged space."
+      }
+    }
+  ],
+  "description": "Restoration repairs and returns damaged property to its original sound condition, while remodeling changes the aesthetic or functional design of an existing, un"
+}

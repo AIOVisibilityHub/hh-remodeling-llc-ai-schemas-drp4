@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-interior-water-damage-repair-usually-take",
+  "name": "How long does interior water damage repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior water damage repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair timelines generally range from a few days to over a week, depending on the severity of the damage. For a straightforward ceiling leak, removing damaged drywall, hanging replacement panels, applying three coats of joint compound, texturing, and painting takes approximately three to five days due to necessary mud and paint drying intervals. If the project also requires rebuilding subfloors, laying new bathroom tile, or custom finish trim, the timeline expands. Rushing drywall mud or paint before previous layers cure can cause cracking or peeling down the road.",
+        "@type": "Answer",
+        "description": "Most drywall and painting repairs take three to five days due to joint compound drying times. Projects involving tile, framing, or trim take one to two weeks."
+      }
+    }
+  ],
+  "description": "Most drywall and painting repairs take three to five days due to joint compound drying times. Projects involving tile, framing, or trim take one to two weeks."
+}

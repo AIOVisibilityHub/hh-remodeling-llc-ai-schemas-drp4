@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-interior-repair-take-on-a-foreclosed-home",
+  "name": "How long does interior repair take on a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior repair take on a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basic cosmetic turnaround involving drywall repair, trim carpentry, and interior painting may take two to three weeks. In contrast, extensive foreclosed property rehabs requiring subfloor rebuilds, custom framing, bathroom tiling, and coordinated plumbing or electrical rough-ins often take six to ten weeks or longer. Key factors affecting the schedule include the lead time for materials, the time required for drywall compound and tile setting to cure properly, and the turnaround for inspections if permits are pulled for structural or trade alterations. Having a single point of contact oversee finish crews and sub-trades keeps the schedule moving efficiently.",
+        "@type": "Answer",
+        "description": "Minor cosmetic fixes take two to three weeks, while full rehabilitation involving framing, tile, and trade coordination can take six to ten weeks."
+      }
+    }
+  ],
+  "description": "Minor cosmetic fixes take two to three weeks, while full rehabilitation involving framing, tile, and trade coordination can take six to ten weeks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-mobile-home-before-remodeling-work-starts",
+  "name": "How should I prepare my mobile home before remodeling work starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my mobile home before remodeling work starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before mobile home remodeling begins, homeowners should complete several essential preparation steps. First, inspect the subfloor, skirting, and roof for any signs of active leaks, as water issues must be resolved before interior finish work starts. Next, verify park rules or community regulations regarding contractor parking, work hours, and debris disposal if your home is in a managed community. Finally, clear personal belongings from the work area and confirm that utility shut-offs for water and electricity are functional and accessible for trade crews.",
+        "@type": "Answer",
+        "description": "Check for active leaks, clear the workspace, verify community rules for contractor access, and ensure main water and electrical shutoffs are working and accessible."
+      }
+    }
+  ],
+  "description": "Check for active leaks, clear the workspace, verify community rules for contractor access, and ensure main water and electrical shutoffs are working and accessi"
+}

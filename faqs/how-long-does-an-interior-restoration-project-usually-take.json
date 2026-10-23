@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-an-interior-restoration-project-usually-take",
+  "name": "How long does an interior restoration project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an interior restoration project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends on the scale of the damage, the drying requirements, and the types of materials involved. Simple drywall repairs, patching, and repainting in a single room typically take three to five business days once the area is dry. Extensive restorations involving damaged framing, subfloor replacement, tile work, or entire basements often take several weeks. A major factor affecting timing is scheduling sub-trades for required electrical and plumbing rough-ins before closing up walls with insulation and drywall. Working with a general contractor who oversees the entire job from framing to finish carpentry keeps the sequence moving efficiently.",
+        "@type": "Answer",
+        "description": "Small drywall and painting repairs take three to five days once dry, while extensive restorations involving framing, tile, and trade work take several weeks depending on scope."
+      }
+    }
+  ],
+  "description": "Small drywall and painting repairs take three to five days once dry, while extensive restorations involving framing, tile, and trade work take several weeks dep"
+}

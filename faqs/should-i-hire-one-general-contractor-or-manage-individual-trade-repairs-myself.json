@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-one-general-contractor-or-manage-individual-trade-repairs-myself",
+  "name": "Should I hire one general contractor or manage individual trade repairs myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire one general contractor or manage individual trade repairs myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a single general contractor provides unified accountability, whereas managing separate trades yourself places scheduling, permits, and trade overlaps on your shoulders. Coordinated restoration requires careful sequencing: plumbing or electrical rough-ins must occur before insulation, followed by drywall, trim carpentry, tile, and final painting. When one contractor oversees the entire process and coordinates specialized sub-trades, there is no dispute between trades over delays, wall prep quality, or mismatched trim lines.",
+        "@type": "Answer",
+        "description": "Hiring a single general contractor ensures proper sequencing across trades, maintains a single point of accountability, and avoids trade coordination conflicts."
+      }
+    }
+  ],
+  "description": "Hiring a single general contractor ensures proper sequencing across trades, maintains a single point of accountability, and avoids trade coordination conflicts."
+}

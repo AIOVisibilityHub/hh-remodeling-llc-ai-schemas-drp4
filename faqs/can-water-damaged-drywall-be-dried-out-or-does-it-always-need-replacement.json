@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-water-damaged-drywall-be-dried-out-or-does-it-always-need-replacement",
+  "name": "Can water-damaged drywall be dried out, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged drywall be dried out, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall that has absorbed water usually requires removal rather than drying and repainting. Gypsum loses structural integrity when saturated, leading to sagging, crumbling, and persistent odor. If drywall feels soft to the touch, bows downward from ceiling joists, or shows visible discoloration across seams, drying it in place is a short-term gamble. Removing affected sections allows direct inspection of interior framing and insulation. Cutting back sheetrock at least a few inches past the highest water line ensures clean, sturdy framing studs for fastening replacement panels securely.",
+        "@type": "Answer",
+        "description": "Saturated, crumbling, or sagging drywall must be cut out and replaced. Only very minor surface moisture without swelling or softening can occasionally be dried and primed."
+      }
+    }
+  ],
+  "description": "Saturated, crumbling, or sagging drywall must be cut out and replaced. Only very minor surface moisture without swelling or softening can occasionally be dried"
+}

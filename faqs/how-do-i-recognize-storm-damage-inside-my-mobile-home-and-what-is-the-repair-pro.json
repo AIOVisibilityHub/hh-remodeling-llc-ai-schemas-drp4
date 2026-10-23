@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-recognize-storm-damage-inside-my-mobile-home-and-what-is-the-repair-pro",
+  "name": "How do I recognize storm damage inside my mobile home, and what is the repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I recognize storm damage inside my mobile home, and what is the repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of storm damage inside a mobile home include ceiling water stains, peeling seam tape, soft ceiling panels, and moisture along perimeter walls or windows. In Colorado, heavy hail, wind-driven rain, and winter snowpack can breach roof vents or flashing, allowing water to migrate downward into interior insulation and drywall. Before patching cosmetic surfaces, an on-site evaluation should trace the water pathway to ensure wet insulation is removed and the exterior shell is sealed. HH Remodeling LLC provides restoration support to rebuild water-damaged interior drywall, ceilings, and framing.",
+        "@type": "Answer",
+        "description": "Look for discolored ceiling panels, peeling seams, and damp wallboard. The process requires finding exterior leaks, removing wet insulation, and replacing damaged drywall."
+      }
+    }
+  ],
+  "description": "Look for discolored ceiling panels, peeling seams, and damp wallboard. The process requires finding exterior leaks, removing wet insulation, and replacing damag"
+}

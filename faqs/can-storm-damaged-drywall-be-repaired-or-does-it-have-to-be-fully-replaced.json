@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-storm-damaged-drywall-be-repaired-or-does-it-have-to-be-fully-replaced",
+  "name": "Can storm-damaged drywall be repaired, or does it have to be fully replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can storm-damaged drywall be repaired, or does it have to be fully replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Saturated drywall should almost always be removed and replaced rather than dried in place. Standard gypsum drywall loses its structural integrity and core strength once soaked, leading to permanent sagging, bowing, and paper delamination. Additionally, wet paper backing trapped inside wall cavities creates an ideal breeding ground for mold within 24 to 48 hours. HH Remodeling cuts away damaged drywall at least a foot above the visible water line, inspects the underlying wood framing, and installs new drywall, tape, and texture once the cavity is certified dry.",
+        "@type": "Answer",
+        "description": "Drywall soaked by storm water must generally be cut out and replaced because it permanently loses strength and fosters mold growth within 24 to 48 hours."
+      }
+    }
+  ],
+  "description": "Drywall soaked by storm water must generally be cut out and replaced because it permanently loses strength and fosters mold growth within 24 to 48 hours."
+}

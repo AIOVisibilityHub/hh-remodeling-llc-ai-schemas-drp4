@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/where-should-i-start-when-renovating-a-foreclosed-home",
+  "name": "Where should I start when renovating a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should I start when renovating a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating a foreclosed property begins with securing the structure and evaluating core damage. Most bank-owned properties sit vacant without utilities, which often leads to hidden plumbing leaks, damaged drywall, or compromised electrical lines. Before jumping into cosmetic finishes like tile or paint, you should inspect structural framing, check the roof, and verify the status of water and power. Once underlying systems are assessed, an on-site contractor can establish a step-by-step scope of work. Prioritizing rough repairs before finish carpentry prevents you from having to tear out fresh finishes later if previously undetected mechanical issues arise.",
+        "@type": "Answer",
+        "description": "Start by securing the property and inspecting essential mechanical, plumbing, and structural components before scheduling cosmetic repairs like drywall, tile, or painting."
+      }
+    }
+  ],
+  "description": "Start by securing the property and inspecting essential mechanical, plumbing, and structural components before scheduling cosmetic repairs like drywall, tile, o"
+}

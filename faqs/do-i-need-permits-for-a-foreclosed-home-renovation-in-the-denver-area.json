@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-permits-for-a-foreclosed-home-renovation-in-the-denver-area",
+  "name": "Do I need permits for a foreclosed home renovation in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a foreclosed home renovation in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements depend on your specific municipality across the Denver metro area and the exact scope of rehabilitation work being performed. Surface-level cosmetic updates—such as installing baseboards, tiling a backsplash, repairing drywall, or painting interior rooms—generally do not require municipal building permits. However, if your foreclosed home remodel involves altering load-bearing framing, adding new rooms, or modifying electrical and plumbing layouts, local jurisdictions like Denver or Aurora require formal permits and inspections. A qualified general contractor coordinates with licensed mechanical trades to pull proper permits and schedule required inspections so the completed work complies with local building codes.",
+        "@type": "Answer",
+        "description": "Cosmetic work like drywall repair and tile generally does not need permits, but structural framing changes and modified plumbing or electrical lines do require permits."
+      }
+    }
+  ],
+  "description": "Cosmetic work like drywall repair and tile generally does not need permits, but structural framing changes and modified plumbing or electrical lines do require"
+}

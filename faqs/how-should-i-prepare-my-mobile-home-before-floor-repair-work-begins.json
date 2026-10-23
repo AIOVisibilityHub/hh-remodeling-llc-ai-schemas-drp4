@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-mobile-home-before-floor-repair-work-begins",
+  "name": "How should I prepare my mobile home before floor repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my mobile home before floor repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a flooring contractor arrives, clear all furniture, rugs, and personal items from the affected rooms. If the damage is located near plumbing fixtures—such as a toilet, water heater, or sink—ensure the surrounding cabinet spaces are emptied. You should also check whether any active leaks are present so the contractor knows what to look for beneath the subfloor. Providing a clear path through the home helps the crew safely transport tools, lumber, and waste materials without damaging walls or trim.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and personal items, empty nearby vanity cabinets if leaks are suspected, and ensure a clear pathway for tools."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and personal items, empty nearby vanity cabinets if leaks are suspected, and ensure a clear pathway for tools."
+}

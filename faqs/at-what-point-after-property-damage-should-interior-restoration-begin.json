@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-point-after-property-damage-should-interior-restoration-begin",
+  "name": "At what point after property damage should interior restoration begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point after property damage should interior restoration begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration repairs should begin as soon as emergency mitigation is complete and the insurance adjuster inspects the property. Before reconstruction begins, water extraction, structural drying, or debris removal must be fully certified dry by a mitigation crew. Starting rebuild work before moisture levels normalize risks trapping dampness behind new drywall and framing, which can lead to mold or failed finishes. Once the adjuster completes the inspection and approves the scope, HH Remodeling steps in to coordinate sub-trades and begin repairs.",
+        "@type": "Answer",
+        "description": "Repairs should start once emergency mitigation finishes, structural drying is confirmed, and your insurance adjuster completes their damage inspection."
+      }
+    }
+  ],
+  "description": "Repairs should start once emergency mitigation finishes, structural drying is confirmed, and your insurance adjuster completes their damage inspection."
+}

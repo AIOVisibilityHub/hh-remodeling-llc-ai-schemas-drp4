@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-interior-storm-damage-repair-typically-cost",
+  "name": "How much does interior storm damage repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior storm damage repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary widely based on square footage, water exposure depth, and finish materials. Minor drywall patches and localized ceiling repairs typically cost between a few hundred and a few thousand dollars, while multi-room restorations involving framing, insulation, custom trim, tile, and finish painting can run substantially higher. Major cost variables include how long water sat in wall cavities, whether subflooring warped, and the quality of interior finishes being replaced, such as custom crown molding versus standard baseboards.",
+        "@type": "Answer",
+        "description": "Costs depend on moisture extent and finishes, ranging from minor patch repairs to thousands of dollars for full drywall, framing, and trim reconstruction."
+      }
+    }
+  ],
+  "description": "Costs depend on moisture extent and finishes, ranging from minor patch repairs to thousands of dollars for full drywall, framing, and trim reconstruction."
+}

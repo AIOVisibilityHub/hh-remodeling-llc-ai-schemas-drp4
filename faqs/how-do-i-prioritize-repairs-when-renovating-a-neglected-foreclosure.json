@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-prioritize-repairs-when-renovating-a-neglected-foreclosure",
+  "name": "How do I prioritize repairs when renovating a neglected foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prioritize repairs when renovating a neglected foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize critical weatherproofing, structural framing, and utility integrity before spending money on decorative finishes. A bank-owned home that sat empty through freezing winter temperatures often has burst pipes, hidden mold, or warped subfloors that must be addressed immediately. Focus on repairing leaking roofs, correcting foundation or framing issues, and restoring working plumbing and electrical systems first. Once the building envelope and rough mechanics are sound, you can proceed with interior drywall repair, bathroom tile, kitchen cabinets, finish carpentry, and paint without risking damage to newly finished spaces.",
+        "@type": "Answer",
+        "description": "Prioritize structural stabilization, plumbing, electrical, and drywall repairs before investing in cosmetic upgrades like paint, tile, and trim."
+      }
+    }
+  ],
+  "description": "Prioritize structural stabilization, plumbing, electrical, and drywall repairs before investing in cosmetic upgrades like paint, tile, and trim."
+}

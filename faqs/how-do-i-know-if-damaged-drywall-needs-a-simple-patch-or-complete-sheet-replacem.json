@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-damaged-drywall-needs-a-simple-patch-or-complete-sheet-replacem",
+  "name": "How do I know if damaged drywall needs a simple patch or complete sheet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if damaged drywall needs a simple patch or complete sheet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall must be replaced rather than patched if it has sagged, developed soft or spongy spots, or absorbed water over an extended period. Surface hairline cracks or small holes can be taped and skimmed with joint compound without compromising the sheet. However, if the paper backing has separated from the gypsum core or hidden moisture has reached the studs, simple patching will fail. In those situations, cutting back to sound wall framing and hanging fresh drywall is the only way to ensure structural integrity and a flat finish.",
+        "@type": "Answer",
+        "description": "Small cracks and surface holes can be patched, but drywall that is soft, sagging, or water-soaked must be cut out and replaced down to the framing."
+      }
+    }
+  ],
+  "description": "Small cracks and surface holes can be patched, but drywall that is soft, sagging, or water-soaked must be cut out and replaced down to the framing."
+}

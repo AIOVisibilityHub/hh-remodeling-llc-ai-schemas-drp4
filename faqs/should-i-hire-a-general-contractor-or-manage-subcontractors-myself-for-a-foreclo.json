@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-general-contractor-or-manage-subcontractors-myself-for-a-foreclo",
+  "name": "Should I hire a general contractor or manage subcontractors myself for a foreclosure rehab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or manage subcontractors myself for a foreclosure rehab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor provides a single point of accountability for complex multi-trade projects, whereas hiring separate subcontractors requires you to manage scheduling, quality control, and sequencing yourself. In a foreclosed home, work must happen in a strict order: framing and rough-in repairs must be inspected and finalized before hanging drywall, setting tile, or installing trim. If you manage trades independently, an error by one trade can cause scheduling delays and finger-pointing across the board. A hands-on contractor who performs the core finish trades directly while managing specialized mechanical sub-trades ensures consistent jobsite oversight and fewer coordination bottlenecks.",
+        "@type": "Answer",
+        "description": "A general contractor coordinates the required order of trades and manages on-site quality, preventing scheduling bottlenecks and delays common when managing trades solo."
+      }
+    }
+  ],
+  "description": "A general contractor coordinates the required order of trades and manages on-site quality, preventing scheduling bottlenecks and delays common when managing tra"
+}

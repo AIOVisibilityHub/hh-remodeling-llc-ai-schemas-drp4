@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-interior-storm-damage-requires-emergency-service-or-can-wait",
+  "name": "How do I know if interior storm damage requires emergency service or can wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if interior storm damage requires emergency service or can wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water stains on a ceiling from a small, resolved roof leak might wait a few days for regular business hours if the leak has completely stopped and the drywall remains firm. However, you need emergency intervention immediately if the ceiling is bowing downward, active water is pouring through light fixtures, or drywall is crumbling under light pressure. Sagging ceilings pose an immediate collapse hazard and can damage underlying furniture or subflooring. When structural framing shifts or sheetrock buckles, securing immediate professional support prevents catastrophic interior failures.",
+        "@type": "Answer",
+        "description": "Bowing ceilings, active leaks through electrical fixtures, and soft, sagging sheetrock require immediate emergency service to prevent structural collapse."
+      }
+    }
+  ],
+  "description": "Bowing ceilings, active leaks through electrical fixtures, and soft, sagging sheetrock require immediate emergency service to prevent structural collapse."
+}

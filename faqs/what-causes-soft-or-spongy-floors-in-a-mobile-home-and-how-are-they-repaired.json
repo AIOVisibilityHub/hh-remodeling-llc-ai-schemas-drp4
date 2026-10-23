@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-causes-soft-or-spongy-floors-in-a-mobile-home-and-how-are-they-repaired",
+  "name": "What causes soft or spongy floors in a mobile home, and how are they repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes soft or spongy floors in a mobile home, and how are they repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soft spots in manufactured home floors almost always indicate water damage to the subfloor beneath the carpet or vinyl. Most mobile homes use particle board subflooring, which swells and deteriorates rapidly when exposed to plumbing leaks, window seepage, or storm intrusion. Fixing this requires peeling back the flooring, cutting out the compromised subfloor back to the floor joists, inspecting underlying plumbing, and installing moisture-resistant plywood or OSB. Having a general contractor address the leak source first ensures the new subflooring and finish flooring will not warp again.",
+        "@type": "Answer",
+        "description": "Spongy floors usually mean moisture has rotted the particle board subfloor. The damaged sections must be cut out to the joists and replaced with durable plywood."
+      }
+    }
+  ],
+  "description": "Spongy floors usually mean moisture has rotted the particle board subfloor. The damaged sections must be cut out to the joists and replaced with durable plywood"
+}

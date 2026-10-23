@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-does-a-foreclosed-property-require-a-full-gut-renovation-instead-of-targete",
+  "name": "When does a foreclosed property require a full gut renovation instead of targeted repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does a foreclosed property require a full gut renovation instead of targeted repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a full gut remodel when structural components, subflooring, or extensive interior surfaces have suffered severe moisture intrusion, mold, or mechanical destruction. If previous occupants stripped copper piping, compromised load-bearing framing, or allowed roof leaks to rot wall cavities across multiple rooms, patching drywall is insufficient. A full teardown to the studs allows complete inspection of structural framing, straightforward installation of new plumbing and electrical lines, and proper insulation. Conversely, if framing and rough mechanics remain solid, targeted room renovations and finish repairs are sufficient.",
+        "@type": "Answer",
+        "description": "A full gut renovation is needed when there is severe water damage, rotted framing, mold, or stripped mechanical systems behind the drywall."
+      }
+    }
+  ],
+  "description": "A full gut renovation is needed when there is severe water damage, rotted framing, mold, or stripped mechanical systems behind the drywall."
+}

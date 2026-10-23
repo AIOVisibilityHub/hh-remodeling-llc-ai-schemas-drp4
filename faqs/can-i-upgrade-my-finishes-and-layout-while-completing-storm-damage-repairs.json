@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-upgrade-my-finishes-and-layout-while-completing-storm-damage-repairs",
+  "name": "Can I upgrade my finishes and layout while completing storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my finishes and layout while completing storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, your contractor can repair storm-damaged areas while simultaneously updating undamaged portions of the room. Many homeowners take the opportunity during drywall and subfloor restoration to upgrade older trim, add custom molding, or install new tile. The practical consideration is project management: your contractor can run the insurance restoration and your elective remodel concurrently under a single schedule, which saves overall construction time compared to completing emergency storm repairs and then starting a separate renovation later.",
+        "@type": "Answer",
+        "description": "Yes, you can combine storm repairs with planned upgrades like new tile, trim, or layouts, coordinating all work under a single construction schedule."
+      }
+    }
+  ],
+  "description": "Yes, you can combine storm repairs with planned upgrades like new tile, trim, or layouts, coordinating all work under a single construction schedule."
+}

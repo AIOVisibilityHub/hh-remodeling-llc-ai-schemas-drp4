@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-mobile-home-door-needs-repair-or-total-replacement",
+  "name": "How do I know if my mobile home door needs repair or total replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my mobile home door needs repair or total replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often repair a mobile home door if the issue is limited to minor hinge sagging, worn weatherstripping, or loose surface trim. However, you should replace the door if the frame has warped, the interior core has water damage, or daylight shows around closed seams despite hinge adjustments. When manufactured home doors delaminate or bow, fixing the hardware will not stop draft infiltration or energy loss. At HH Remodeling, our carpentry crew inspects both the door slab and rough framing to advise whether a realignment will last or a replacement unit is the safer choice.",
+        "@type": "Answer",
+        "description": "Repair is fine for loose hinges and surface trim, but warped framing, delaminated slabs, or rotted subfloors indicate the door unit needs total replacement."
+      }
+    }
+  ],
+  "description": "Repair is fine for loose hinges and surface trim, but warped framing, delaminated slabs, or rotted subfloors indicate the door unit needs total replacement."
+}

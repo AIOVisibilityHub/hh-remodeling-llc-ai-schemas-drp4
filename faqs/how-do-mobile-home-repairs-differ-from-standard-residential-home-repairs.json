@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-mobile-home-repairs-differ-from-standard-residential-home-repairs",
+  "name": "How do mobile home repairs differ from standard residential home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do mobile home repairs differ from standard residential home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, manufactured and mobile homes use different construction methods than site-built properties. They typically feature lightweight framing, distinct subfloor materials like particleboard, specialized wall paneling, and unique plumbing or electrical layouts. Standard building materials often require adjustments to fit the specific framing depths and load limits of manufactured structures. When planning repairs, you must decide whether to patch existing factory materials or upgrade to standard drywall, subflooring, and residential-grade fixtures. Working with an experienced finish contractor ensures that repairs account for structural framing differences and do not add unsafe weight.",
+        "@type": "Answer",
+        "description": "Mobile home repairs involve lighter framing, specialized subfloors, and unique plumbing. Fixes often require tailored techniques to fit factory dimensions and weight limits."
+      }
+    }
+  ],
+  "description": "Mobile home repairs involve lighter framing, specialized subfloors, and unique plumbing. Fixes often require tailored techniques to fit factory dimensions and w"
+}

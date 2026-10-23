@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-rental-turnover-and-pre-sale-repair-work-usually-take",
+  "name": "How long does rental turnover and pre-sale repair work usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rental turnover and pre-sale repair work usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turnaround typically takes anywhere from two days to two weeks depending on the property scope. A minor rental turnover involving drywall patching, baseboard touch-ups, and targeted wall painting usually wraps up within two to four days. More extensive turnover work, such as resetting loose floor tiles, repairing storm-related interior leaks, or rehabbing foreclosed interiors, extends the timeline toward one to two weeks. Because Abraham Becerra coordinates carpentry, drywall, and paint under one roof while managing needed sub-trades, scheduling conflicts between different contractors are avoided.",
+        "@type": "Answer",
+        "description": "Minor punch-list repairs take two to four days, while extensive drywall, tile, and carpentry turnarounds generally take one to two weeks depending on project scope."
+      }
+    }
+  ],
+  "description": "Minor punch-list repairs take two to four days, while extensive drywall, tile, and carpentry turnarounds generally take one to two weeks depending on project sc"
+}

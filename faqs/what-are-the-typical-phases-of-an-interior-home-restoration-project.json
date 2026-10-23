@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-typical-phases-of-an-interior-home-restoration-project",
+  "name": "What are the typical phases of an interior home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical phases of an interior home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with stabilizing the space, removing damaged materials, and thoroughly drying the exposed framing. Once the framing is certified dry and sound, custom structural carpentry is completed, followed by rough-in work for mechanicals. Next, hanging, taping, and texturing drywall restores wall surfaces. The final phase involves fine finish carpentry, baseboards, tile installation, and complete interior painting to return the living area to move-in condition.",
+        "@type": "Answer",
+        "description": "Phases include clearing damaged materials, drying framing, structural carpentry, rough-ins, drywall installation, trim carpentry, and final paint and tile work."
+      }
+    }
+  ],
+  "description": "Phases include clearing damaged materials, drying framing, structural carpentry, rough-ins, drywall installation, trim carpentry, and final paint and tile work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-a-contractor-arrives-for-mobile-home-interior-repai",
+  "name": "What should I prepare before a contractor arrives for mobile home interior repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a contractor arrives for mobile home interior repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners should start by clearing personal items, furniture, and wall hangings from the affected rooms to create an unobstructed workspace. If your repair involves moisture damage, identify and disclose where the leak originated—such as an overhead roof leak, water heater drip, or window seal failure—so the root problem can be corrected before cosmetic work begins. It also helps to take photos of current problem spots and have details ready about any prior renovation work done inside the home.",
+        "@type": "Answer",
+        "description": "Clear the work area of personal items and note any active or past plumbing and roof leaks so the contractor can inspect the underlying framing and subfloor."
+      }
+    }
+  ],
+  "description": "Clear the work area of personal items and note any active or past plumbing and roof leaks so the contractor can inspect the underlying framing and subfloor."
+}

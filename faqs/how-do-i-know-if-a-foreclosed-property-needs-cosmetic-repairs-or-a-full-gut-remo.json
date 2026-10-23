@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-a-foreclosed-property-needs-cosmetic-repairs-or-a-full-gut-remo",
+  "name": "How do I know if a foreclosed property needs cosmetic repairs or a full gut remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a foreclosed property needs cosmetic repairs or a full gut remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic refresh focuses on visual updates like new interior paint, trim installation, and minor drywall patch repairs when underlying framing and mechanicals are intact. A full foreclosure gut rehab becomes necessary when homes have suffered severe neglect, mold infestation, vandalism, or burst pipes behind the walls. If moisture has compromised structural studs or large sections of sheetrock have collapsed, surface patches are insufficient. Choosing a full gut gives direct access to inspect plumbing and electrical systems, though it increases timelines and disposal demands compared to focused surface restoration.",
+        "@type": "Answer",
+        "description": "Cosmetic repairs fix intact surfaces like paint and trim. A full gut is required when structural framing, plumbing leaks, or widespread moisture damage exist."
+      }
+    }
+  ],
+  "description": "Cosmetic repairs fix intact surfaces like paint and trim. A full gut is required when structural framing, plumbing leaks, or widespread moisture damage exist."
+}

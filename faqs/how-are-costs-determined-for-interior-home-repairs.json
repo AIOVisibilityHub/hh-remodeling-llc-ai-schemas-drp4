@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-costs-determined-for-interior-home-repairs",
+  "name": "How are costs determined for interior home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are costs determined for interior home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior damage repair depends on the square footage involved, the depth of material damage, and the trades required. A simple drywall patch and paint blend costs substantially less than rebuilding a water-damaged bathroom ceiling that requires custom framing, moisture-resistant drywall, and sub-trade plumbing repairs. Material choices also drive costs; replacing standard baseboards differs from custom finish carpentry, tile, or marble work. A clear estimate breaks down demolition, framing, drywall hanging, taping, texture matching, and painting so you see the complete scope before work begins.",
+        "@type": "Answer",
+        "description": "Costs depend on the damage size, whether underlying framing or plumbing needs attention, and the specific materials needed for drywall, trim, and painting."
+      }
+    }
+  ],
+  "description": "Costs depend on the damage size, whether underlying framing or plumbing needs attention, and the specific materials needed for drywall, trim, and painting."
+}

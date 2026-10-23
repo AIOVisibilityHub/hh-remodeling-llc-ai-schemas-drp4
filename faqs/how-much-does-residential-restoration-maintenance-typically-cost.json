@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-residential-restoration-maintenance-typically-cost",
+  "name": "How much does residential restoration maintenance typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does residential restoration maintenance typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of restoration maintenance varies based on the affected materials, accessibility, and the underlying scope of hidden damage. Surface-level repairs like drywall patching, baseboard adjustments, and interior painting carry lower labor costs, whereas log refinishing or repairing water-damaged framing demands specialized carpentry and surface prep. An on-site walkthrough helps establish a detailed estimate by inspecting structural studs, subflooring, and finish surfaces. Homeowners save money by bundling multiple maintenance items—such as minor drywall patching, tile re-grouting, and finish carpentry—into a single visit rather than scheduling separate individual trade visits.",
+        "@type": "Answer",
+        "description": "Costs depend on damage extent and materials, with small surface patches costing less and exterior log refinishing or structural carpentry requiring a larger investment."
+      }
+    }
+  ],
+  "description": "Costs depend on damage extent and materials, with small surface patches costing less and exterior log refinishing or structural carpentry requiring a larger inv"
+}

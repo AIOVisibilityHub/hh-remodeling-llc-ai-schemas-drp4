@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-my-room-layout-or-upgrade-materials-during-a-restoration",
+  "name": "Can I change my room layout or upgrade materials during a restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my room layout or upgrade materials during a restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, restoring damaged interiors often provides the most economical opportunity to modernize your floor plan or upgrade fixtures. Because walls, drywall, or flooring are already opened for repairs, trade work such as rerouting plumbing lines or adding electrical outlets becomes much more accessible and cost-effective. During a restoration, homeowners frequently choose to upgrade standard finishes by installing custom tile or marble, adding decorative crown molding and baseboards, or reconfiguring framing for an open layout. Combining finish upgrades with essential repairs eliminates paying for duplicate labor and demolition down the road.",
+        "@type": "Answer",
+        "description": "Yes. Because walls and floors are already opened for repairs, upgrading materials to custom tile or altering framing is much more cost-effective than starting a separate project later."
+      }
+    }
+  ],
+  "description": "Yes. Because walls and floors are already opened for repairs, upgrading materials to custom tile or altering framing is much more cost-effective than starting a"
+}

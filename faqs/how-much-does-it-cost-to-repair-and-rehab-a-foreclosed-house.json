@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-it-cost-to-repair-and-rehab-a-foreclosed-house",
+  "name": "How much does it cost to repair and rehab a foreclosed house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair and rehab a foreclosed house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost depends on the property square footage, vacancy duration, and the level of damage left behind. Minor cosmetic refreshes require less capital, while extensive gut renovations with damaged subflooring, missing plumbing lines, and full drywall replacement require substantially larger budgets. Securing a detailed, itemized walkthrough estimate before finalizing a purchase or setting a rehab budget is essential. This helps you balance cosmetic upgrades like custom tile and trim carpentry against mandatory basic repairs like rough framing, wall patches, and sub-trade electrical and plumbing restoration.",
+        "@type": "Answer",
+        "description": "Costs vary widely depending on square footage and damage severity, ranging from modest cosmetic repairs to substantial budgets for full gut remodels and trade work."
+      }
+    }
+  ],
+  "description": "Costs vary widely depending on square footage and damage severity, ranging from modest cosmetic repairs to substantial budgets for full gut remodels and trade w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-usually-take-to-complete-storm-damage-repairs",
+  "name": "How long does it usually take to complete storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it usually take to complete storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair timelines vary from a few days for localized drywall and paint repairs to several weeks for structural framing or extensive water damage restorations. The schedule depends on how quickly insurance adjusters approve repair scopes and whether materials behind walls must dry completely. Rushing to hang drywall before framing studs and insulation are fully dry risks trapping moisture, so reconstruction should only begin once moisture levels are safe. Your contractor manages the timeline across framing, board hanging, texture matching, and painting.",
+        "@type": "Answer",
+        "description": "Minor drywall and paint repairs take a few days, while extensive framing, drying, and multi-trade finish restorations can take several weeks."
+      }
+    }
+  ],
+  "description": "Minor drywall and paint repairs take a few days, while extensive framing, drying, and multi-trade finish restorations can take several weeks."
+}

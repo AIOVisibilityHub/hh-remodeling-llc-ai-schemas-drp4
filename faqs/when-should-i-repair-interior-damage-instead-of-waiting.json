@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-repair-interior-damage-instead-of-waiting",
+  "name": "When should I repair interior damage instead of waiting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair interior damage instead of waiting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule repairs as soon as the source of the problem is stopped, such as fixing an active plumbing leak or repairing a storm-damaged roof. Leaving compromised drywall, subfloors, or framing in place allows moisture to weaken structural wood and ruin surrounding finishes. Before booking a contractor, ensure the water or structural issue is fully resolved and document visible stains or cracks. A proper inspection will determine whether you only need a surface drywall patch or a larger section of wallboard and insulation removed to prevent hidden rot.",
+        "@type": "Answer",
+        "description": "Repair interior damage immediately after stopping the root cause, such as a leak, to prevent structural framing rot and deeper drywall deterioration."
+      }
+    }
+  ],
+  "description": "Repair interior damage immediately after stopping the root cause, such as a leak, to prevent structural framing rot and deeper drywall deterioration."
+}

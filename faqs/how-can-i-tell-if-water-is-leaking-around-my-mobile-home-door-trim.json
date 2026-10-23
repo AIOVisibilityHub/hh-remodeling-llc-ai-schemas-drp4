@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-i-tell-if-water-is-leaking-around-my-mobile-home-door-trim",
+  "name": "How can I tell if water is leaking around my mobile home door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if water is leaking around my mobile home door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by checking the bottom corners of the door frame and the nearby flooring for softness, discoloration, or swelling. In manufactured homes, water often enters around deteriorated exterior molding or degraded sill pan seals, running straight into the particleboard subfloor before surface signs show. Press firmly around the sill; a spongy feel indicates moisture intrusion underneath. Addressing damaged exterior trim, replacing degraded flashing, and repairing any rotted subfloor framing quickly preserves the home’s stability and prevents extensive drywall and floor reconstruction later.",
+        "@type": "Answer",
+        "description": "Check for soft subflooring near the threshold, swollen trim edges, peeling vinyl, or damp odors, which point to leaking flashing or failed caulking."
+      }
+    }
+  ],
+  "description": "Check for soft subflooring near the threshold, swollen trim edges, peeling vinyl, or damp odors, which point to leaking flashing or failed caulking."
+}

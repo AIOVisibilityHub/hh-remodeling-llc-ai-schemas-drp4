@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-upgrade-to-standard-drywall-or-keep-mobile-home-wall-panels",
+  "name": "Should I upgrade to standard drywall or keep mobile home wall panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I upgrade to standard drywall or keep mobile home wall panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall delivers a clean, high-end residential finish and superior fire resistance, but it requires structural considerations. Standard manufactured homes feature studs placed at wider intervals or built from thinner lumber, meaning crews must install custom framing, backing, and blocking to support standard drywall boards. Drywall also adds weight, which requires sound underlying floor leveling. Leaving existing wall paneling is faster and less invasive, but upgrading to drywall significantly boosts aesthetic appeal and interior durability. Homeowners should weigh the extra upfront labor against long-term property improvements.",
+        "@type": "Answer",
+        "description": "Drywall provides a modern, seamless residential finish and durability, but requires adding framing support to accommodate standard drywall weight and dimensions."
+      }
+    }
+  ],
+  "description": "Drywall provides a modern, seamless residential finish and durability, but requires adding framing support to accommodate standard drywall weight and dimensions"
+}

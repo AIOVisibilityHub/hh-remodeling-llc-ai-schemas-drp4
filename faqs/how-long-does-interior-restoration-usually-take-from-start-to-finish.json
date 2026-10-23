@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-interior-restoration-usually-take-from-start-to-finish",
+  "name": "How long does interior restoration usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior restoration usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair duration depends on the severity of the damage, dry-out verification, and the square footage involved. A single-room restoration involving minor drywall patches, trim, and painting can take one to two weeks once materials arrive. Multi-room rebuilds involving custom framing, subfloor replacement, tile installation, and mechanical sub-trades typically take three to six weeks. Timelines can also vary depending on insurance adjuster response times for supplemental approvals.",
+        "@type": "Answer",
+        "description": "Minor single-room rebuilds take one to two weeks, while extensive multi-room restorations with framing and custom tile typically require three to six weeks."
+      }
+    }
+  ],
+  "description": "Minor single-room rebuilds take one to two weeks, while extensive multi-room restorations with framing and custom tile typically require three to six weeks."
+}

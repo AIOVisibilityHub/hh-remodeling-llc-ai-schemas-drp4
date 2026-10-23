@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-repair-or-replace-mobile-home-trim",
+  "name": "When do I need to repair or replace mobile home trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to repair or replace mobile home trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair or replace mobile home trim when pieces pull away from the wall, crack, warp, or show water damage. Gaps along the floor, ceiling, or windows let in drafts and pests, and they often signal underlying shifts or moisture trouble. Loose exterior trim or window molding should be addressed immediately to prevent rain and melting snow from seeping into wall cavities. If baseboards are softening or swelling, inspect the area for plumbing or roof leaks before securing new trim so you do not seal moisture inside the wall.",
+        "@type": "Answer",
+        "description": "Repair trim when pieces bow, crack, loosen, or show moisture stains. Gaps allow drafts and pests to enter and can indicate hidden leaks or settling walls."
+      }
+    }
+  ],
+  "description": "Repair trim when pieces bow, crack, loosen, or show moisture stains. Gaps allow drafts and pests to enter and can indicate hidden leaks or settling walls."
+}

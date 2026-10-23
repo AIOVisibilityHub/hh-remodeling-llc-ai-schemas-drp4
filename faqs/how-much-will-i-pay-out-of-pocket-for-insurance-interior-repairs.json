@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-will-i-pay-out-of-pocket-for-insurance-interior-repairs",
+  "name": "How much will I pay out of pocket for insurance interior repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much will I pay out of pocket for insurance interior repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners generally pay only their agreed policy deductible out of pocket, provided the scope of repairs matches the insurance company's approved estimate. Out-of-pocket costs can increase if you choose elective upgrades during the rebuild, such as replacing standard laminate with custom tile or upgrading trim profiles. If hidden damage is discovered during demolition, we submit a supplemental estimate to your carrier before proceeding with extra repairs, helping keep your personal expense limited to your deductible and chosen upgrades.",
+        "@type": "Answer",
+        "description": "Typically you only pay your policy deductible, unless you choose elective design upgrades or add extra remodeling work beyond the covered scope."
+      }
+    }
+  ],
+  "description": "Typically you only pay your policy deductible, unless you choose elective design upgrades or add extra remodeling work beyond the covered scope."
+}
