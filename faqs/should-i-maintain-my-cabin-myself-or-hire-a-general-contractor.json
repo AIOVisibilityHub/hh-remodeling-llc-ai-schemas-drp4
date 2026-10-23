@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-maintain-my-cabin-myself-or-hire-a-general-contractor",
+  "name": "Should I maintain my cabin myself or hire a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I maintain my cabin myself or hire a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface cleaning and small touch-ups on ground-level trim can be handled by handy homeowners, but full-scale maintenance is best left to experienced contractors. Refinishing requires specialized knowledge of wood movement, proper chemical or media preparation, and safety equipment for working at second-story heights on steep rooflines. Hiring an experienced general contractor also ensures that hidden issues, such as underlying water intrusion, failing structural framing, or roof-line trim rot, are properly diagnosed and repaired rather than simply covered with stain.",
+        "@type": "Answer",
+        "description": "While small washings can be DIY, full maintenance is best handled by a contractor to address multi-story safety, proper prep, and underlying structural repairs."
+      }
+    }
+  ],
+  "description": "While small washings can be DIY, full maintenance is best handled by a contractor to address multi-story safety, proper prep, and underlying structural repairs."
+}

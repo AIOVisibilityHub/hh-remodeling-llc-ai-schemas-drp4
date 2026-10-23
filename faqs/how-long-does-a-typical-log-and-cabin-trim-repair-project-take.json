@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-log-and-cabin-trim-repair-project-take",
+  "name": "How long does a typical log and cabin trim repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical log and cabin trim repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most cabin trim repairs take between one and three days, depending on the height, extent of rot, and whether custom profiling is needed. The repair process typically involves inspecting the perimeter, removing decayed or warped boards, checking underlying framing for moisture intrusion, and milling or fitting replacement lumber. Once installed, the new trim is caulked, sealed, and stained or painted to blend with the existing cabin aesthetic. If weather damage extends into surrounding siding or wall corners, prep and dry times for finishes can add extra time.",
+        "@type": "Answer",
+        "description": "Most cabin trim repairs take between one and three days, depending on the severity of rot, scaffolding needs, and finish matching."
+      }
+    }
+  ],
+  "description": "Most cabin trim repairs take between one and three days, depending on the severity of rot, scaffolding needs, and finish matching."
+}

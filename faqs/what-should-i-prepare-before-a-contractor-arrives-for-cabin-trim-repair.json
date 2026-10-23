@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-a-contractor-arrives-for-cabin-trim-repair",
+  "name": "What should I prepare before a contractor arrives for cabin trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a contractor arrives for cabin trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling cabin trim repair, document all areas where you notice deterioration, draft leaks, daylight around door frames, or exterior water pooling. Clear furniture, planters, and ground obstacles away from the cabin perimeter so work crews can place ladders or staging securely. It is also beneficial to check whether you have extra original trim pieces, leftover exterior stain, or paint codes from prior refinishing work. Providing this information upfront helps the contractor identify matching wood species and finishes more efficiently.",
+        "@type": "Answer",
+        "description": "Clear the perimeter around damaged walls, locate any leftover original stain or trim boards, and note all interior areas showing drafts or leaks near windows."
+      }
+    }
+  ],
+  "description": "Clear the perimeter around damaged walls, locate any leftover original stain or trim boards, and note all interior areas showing drafts or leaks near windows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-roll-in-shower-and-a-low-curb-walk-in-shower",
+  "name": "What is the difference between a roll-in shower and a low-curb walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roll-in shower and a low-curb walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roll-in, curbless shower offers seamless entry with zero threshold, making it ideal for wheelchair users or anyone with severe mobility challenges. However, it requires lowering or sloping the subfloor to manage water drainage properly, which adds framing and tile labor. A walk-in shower typically keeps a low curb of two to four inches, which is generally simpler and faster to install while still preventing water spills. If you choose a low-curb unit, you gain a lower upfront installation cost, but you trade off full wheelchair roll-in accessibility.",
+        "@type": "Answer",
+        "description": "Roll-in showers feature a zero-threshold entry built flush with the floor for wheelchair access, whereas low-curb showers have a small step-over barrier that simplifies drainage."
+      }
+    }
+  ],
+  "description": "Roll-in showers feature a zero-threshold entry built flush with the floor for wheelchair access, whereas low-curb showers have a small step-over barrier that si"
+}

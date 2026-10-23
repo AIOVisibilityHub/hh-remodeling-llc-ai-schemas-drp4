@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-paint-the-interior-of-a-foreclosed-house",
+  "name": "How long does it take to paint the interior of a foreclosed house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint the interior of a foreclosed house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full interior paint turnaround for an average foreclosed home typically takes between 3 and 7 business days. The exact timeline depends heavily on the extent of underlying wall damage, ceiling repairs, and lingering odors that require curing time between primer coats. If multiple rooms have holes kicked in the drywall, peeling tape seams, or heavy smoke stains, our on-site team spends the first two to three days strictly on drywall repair, sanding, and sealing. Straightforward paint application follows once surfaces are stable and smooth. Having a single contractor coordinate framing, drywall, and finish paint keeps the schedule tight and avoids trade delays.",
+        "@type": "Answer",
+        "description": "Most foreclosed homes take 3 to 7 business days to paint, depending on the severity of drywall damage, required odor-blocking coats, and total square footage."
+      }
+    }
+  ],
+  "description": "Most foreclosed homes take 3 to 7 business days to paint, depending on the severity of drywall damage, required odor-blocking coats, and total square footage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-a-homeowner-prepare-their-cabin-before-refinishing-begins",
+  "name": "How should a homeowner prepare their cabin before refinishing begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a homeowner prepare their cabin before refinishing begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work starts, clear personal items, outdoor furniture, and planters away from exterior walls and decks. Trim back shrubs, tree branches, and ground cover growing within three feet of the logs to give the crew clear access and improve airflow for drying. If the cabin is a seasonal or remote property, verify that outdoor water spigots and electrical outlets are functioning. Noting specific problem areas, such as soft logs or persistent water runoff from gutters, helps the contractor address vulnerable spots immediately during the walk-through.",
+        "@type": "Answer",
+        "description": "Clear furniture and plants from exterior walls, prune nearby bushes, verify running water and electrical hookups, and note any known leaks or soft wood for the crew."
+      }
+    }
+  ],
+  "description": "Clear furniture and plants from exterior walls, prune nearby bushes, verify running water and electrical hookups, and note any known leaks or soft wood for the"
+}

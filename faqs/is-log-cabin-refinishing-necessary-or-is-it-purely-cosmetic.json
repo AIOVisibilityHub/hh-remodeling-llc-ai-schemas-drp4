@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-log-cabin-refinishing-necessary-or-is-it-purely-cosmetic",
+  "name": "Is log cabin refinishing necessary, or is it purely cosmetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is log cabin refinishing necessary, or is it purely cosmetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing protects both the structural stability and resale value of your property. Leaving logs exposed allows UV rays to break down wood fibers and enables moisture intrusion, leading to wood rot, mold, and insect infestations. Once rot takes hold in load-bearing logs, replacing them requires complex structural jacking and framing work that is far costlier than routine surface care. Consistent refinishing seals out water, limits insect access, and prevents air drafts, protecting your investment before minor weather wear escalates into major structural carpentry repairs.",
+        "@type": "Answer",
+        "description": "It is essential preventative maintenance. Refinishing seals logs against water infiltration, UV damage, rot, and insect pests, protecting the structural integrity of your cabin."
+      }
+    }
+  ],
+  "description": "It is essential preventative maintenance. Refinishing seals logs against water infiltration, UV damage, rot, and insect pests, protecting the structural integri"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-curbless-shower-and-a-low-barrier-shower",
+  "name": "What is the difference between a curbless shower and a low-barrier shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a curbless shower and a low-barrier shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower eliminates the traditional step-over barrier entirely, while a low-barrier shower retains a small threshold, typically one to two inches high. Curbless showers allow seamless roll-in access for wheelchairs and walkers, but they often require lowering the floor joists or adjusting the subfloor slope to ensure proper water drainage. Low-barrier showers are simpler to build within existing floor frames and prevent minor water splash, but they still present a slight tripping hazard for individuals with severely limited step height.",
+        "@type": "Answer",
+        "description": "A curbless shower sits flush with the bathroom floor for seamless roll-in access, while a low-barrier shower has a small threshold that is easier to frame but requires stepping over."
+      }
+    }
+  ],
+  "description": "A curbless shower sits flush with the bathroom floor for seamless roll-in access, while a low-barrier shower has a small threshold that is easier to frame but r"
+}

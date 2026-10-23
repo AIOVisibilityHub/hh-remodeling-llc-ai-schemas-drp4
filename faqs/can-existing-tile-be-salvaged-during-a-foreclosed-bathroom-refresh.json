@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-existing-tile-be-salvaged-during-a-foreclosed-bathroom-refresh",
+  "name": "Can existing tile be salvaged during a foreclosed bathroom refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing tile be salvaged during a foreclosed bathroom refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but it depends on the condition of the substrate and the severity of neglect. If the existing shower or floor tiles are firmly bonded with no underlying water damage, replacing cracked sections and applying fresh grout and caulk revitalizes the space affordably. However, if water penetrated behind the shower walls, causing loose tiles or soft drywall, keeping the old tile risks sealing moisture inside. In those situations, tearing out damaged sections to install new cement backer board and fresh tile prevents structural decay and provides lasting protection.",
+        "@type": "Answer",
+        "description": "Yes, intact tile can be cleaned and regrouted, but tiles with loose adhesion or underlying water damage should be removed and replaced."
+      }
+    }
+  ],
+  "description": "Yes, intact tile can be cleaned and regrouted, but tiles with loose adhesion or underlying water damage should be removed and replaced."
+}

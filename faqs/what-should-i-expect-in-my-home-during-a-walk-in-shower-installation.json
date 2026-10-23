@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-expect-in-my-home-during-a-walk-in-shower-installation",
+  "name": "What should I expect in my home during a walk-in shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect in my home during a walk-in shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During construction, the primary bathroom will be inaccessible for daily use. Demolition generates dust, so professional crews seal doorways with plastic barriers and cover flooring along paths of travel. Water service to the specific bathroom will be shut off during plumbing alterations, though whole-house water shutoffs are brief and planned in advance. Expect daily activity involving framing adjustments, drywall repair, waterproofing, and tile setting, followed by fixture trim and finish carpentry to complete the space.",
+        "@type": "Answer",
+        "description": "Expect dust containment, brief planned water shutoffs, and active construction across framing, plumbing, waterproofing, and tile-setting stages."
+      }
+    }
+  ],
+  "description": "Expect dust containment, brief planned water shutoffs, and active construction across framing, plumbing, waterproofing, and tile-setting stages."
+}

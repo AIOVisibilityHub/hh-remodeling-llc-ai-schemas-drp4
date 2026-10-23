@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-convert-an-existing-bathtub-into-a-low-threshold-shower",
+  "name": "Can you convert an existing bathtub into a low threshold shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you convert an existing bathtub into a low threshold shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a standard tub into a walk-in, low threshold shower is one of the most common accessibility updates for homeowners. The process involves removing the bathtub, reconfiguring the drain and water supply lines, and building moisture-resistant backing boards. Because standard tub drains are often 1.5 inches while shower drains require 2-inch piping to handle water runoff efficiently, licensed plumbing updates are typically required during the rough-in stage before custom tile work or prefabricated pans are installed.",
+        "@type": "Answer",
+        "description": "Yes, standard bathtubs can be converted into low threshold showers by removing the tub, updating the drain to two inches, and installing custom tile or a walk-in pan."
+      }
+    }
+  ],
+  "description": "Yes, standard bathtubs can be converted into low threshold showers by removing the tub, updating the drain to two inches, and installing custom tile or a walk-i"
+}

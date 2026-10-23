@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-rental-property-turnaround-repairs-usually-take",
+  "name": "How long do rental property turnaround repairs usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do rental property turnaround repairs usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for rental turnover repairs generally ranges from two to seven business days depending on the scope of work. Minor cosmetic updates like drywall patching and interior touch-up paint can wrap up in two to three days. More extensive turnover jobs involving tile replacement, subfloor repairs, or multiple finish carpentry tasks usually take about a week. Landlords should secure material selections early to prevent vacancies from stretching out unnecessarily.",
+        "@type": "Answer",
+        "description": "Turnaround repairs typically take two to seven business days, depending on whether the unit requires quick paint and patch touch-ups or extensive tile and carpentry work."
+      }
+    }
+  ],
+  "description": "Turnaround repairs typically take two to seven business days, depending on whether the unit requires quick paint and patch touch-ups or extensive tile and carpe"
+}

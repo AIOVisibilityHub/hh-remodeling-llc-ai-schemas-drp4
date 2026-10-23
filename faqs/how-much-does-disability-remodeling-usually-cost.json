@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-disability-remodeling-usually-cost",
+  "name": "How much does disability remodeling usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does disability remodeling usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Total cost varies widely based on whether the project requires structural alterations or simple surface additions. Adding grab bars and basic ramps involves low material and labor investment. In contrast, comprehensive projects like curbless walk-in showers or whole-room accessibility reconfigurations require demolition, subfloor adjustments, custom tile, and licensed plumbing changes. Because HH Remodeling LLC operates as a hands-on general contractor without large corporate overhead, we help homeowners prioritize core accessibility changes first to achieve a safe layout while keeping project expenses manageable.",
+        "@type": "Answer",
+        "description": "Costs depend on scope; surface additions are inexpensive, while curbless showers and widened doorways involve demolition, framing, and tile work."
+      }
+    }
+  ],
+  "description": "Costs depend on scope; surface additions are inexpensive, while curbless showers and widened doorways involve demolition, framing, and tile work."
+}

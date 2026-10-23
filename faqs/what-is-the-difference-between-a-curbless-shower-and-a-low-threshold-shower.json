@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-curbless-shower-and-a-low-threshold-shower",
+  "name": "What is the difference between a curbless shower and a low-threshold shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a curbless shower and a low-threshold shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers can be designed with a low-profile threshold or completely curbless (barrier-free). Curbless showers eliminate tripping hazards, making them ideal for aging-in-place or accessibility modifications, but they require recessing the subfloor or sloping the entire shower pan to ensure water drains properly. Low-threshold showers retain a small lip (typically two to four inches) that makes water containment simpler and reduces framing adjustments. The right choice depends on your long-term mobility requirements, bathroom layout, and whether your floor joists allow for recessed pan construction without major structural reconfiguration.",
+        "@type": "Answer",
+        "description": "Curbless showers sit flush with the bathroom floor for seamless accessibility, while low-threshold showers use a small curb to contain water with minimal structural adjustments."
+      }
+    }
+  ],
+  "description": "Curbless showers sit flush with the bathroom floor for seamless accessibility, while low-threshold showers use a small curb to contain water with minimal struct"
+}

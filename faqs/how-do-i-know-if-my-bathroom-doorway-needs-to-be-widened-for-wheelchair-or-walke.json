@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-bathroom-doorway-needs-to-be-widened-for-wheelchair-or-walke",
+  "name": "How do I know if my bathroom doorway needs to be widened for wheelchair or walker access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom doorway needs to be widened for wheelchair or walker access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard interior doors are often 28 to 30 inches wide, which is generally too narrow for standard wheelchairs or transport chairs. To accommodate mobility equipment comfortably, doorways typically need a clear opening of at least 32 to 36 inches. Widening a doorway requires removing the existing door trim, cutting back drywall, reframing the wall opening with new king and jack studs, and hanging a wider door slab or pocket door. HH Remodeling LLC manages the necessary carpentry, reframing, drywall finishing, and interior trim so the modified doorway matches the rest of your home’s architectural finishes.",
+        "@type": "Answer",
+        "description": "If your door opening is under 32 inches wide, it typically needs widening to allow smooth passage for standard wheelchairs and mobility walkers."
+      }
+    }
+  ],
+  "description": "If your door opening is under 32 inches wide, it typically needs widening to allow smooth passage for standard wheelchairs and mobility walkers."
+}

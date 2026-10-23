@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-interior-log-walls-need-to-be-resealed",
+  "name": "How do I know when my interior log walls need to be resealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my interior log walls need to be resealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seal interior log walls if you notice persistent drafts, visible light or gaps between log joints, peeling clear coats, or wood discoloration from moisture and dust. Interior logs naturally settle, shrink, and check as they age. If you run your hand along seams and feel air movement, or if existing chinking or caulking has pulled away from the wood surface, a reseal is necessary. For properties with attached drywall or custom finish framing, unsealed log joints can also allow cold air to travel into adjacent interior rooms, degrading your home's overall heating efficiency.",
+        "@type": "Answer",
+        "description": "Signs include visible gaps between timbers, deteriorating chinking, noticeable drafts around joints, and surface wear or discoloration on the logs."
+      }
+    }
+  ],
+  "description": "Signs include visible gaps between timbers, deteriorating chinking, noticeable drafts around joints, and surface wear or discoloration on the logs."
+}

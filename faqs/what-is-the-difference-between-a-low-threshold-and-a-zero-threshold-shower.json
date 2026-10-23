@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-low-threshold-and-a-zero-threshold-shower",
+  "name": "What is the difference between a low threshold and a zero threshold shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a low threshold and a zero threshold shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A low threshold shower features an entry curb that is typically one to three inches high, making it much easier to step over than a standard bathtub wall. A zero threshold, or curbless shower, sits completely flush with the surrounding bathroom floor. While zero threshold showers offer roll-in accessibility for wheelchairs, they require recessed subflooring or sloping to prevent water spillage. A low threshold option provides a simpler installation process because it usually works with standard subfloor framing while still greatly reducing trip hazards.",
+        "@type": "Answer",
+        "description": "A low threshold shower has an entry curb that is 1 to 3 inches high, whereas a zero threshold shower is completely flush with the bathroom floor for roll-in access."
+      }
+    }
+  ],
+  "description": "A low threshold shower has an entry curb that is 1 to 3 inches high, whereas a zero threshold shower is completely flush with the bathroom floor for roll-in acc"
+}

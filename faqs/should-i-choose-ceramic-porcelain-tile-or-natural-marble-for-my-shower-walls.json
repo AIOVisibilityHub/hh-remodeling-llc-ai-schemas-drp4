@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-ceramic-porcelain-tile-or-natural-marble-for-my-shower-walls",
+  "name": "Should I choose ceramic/porcelain tile or natural marble for my shower walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose ceramic/porcelain tile or natural marble for my shower walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both materials are popular, but they differ in durability, maintenance, and installation requirements. Porcelain tile is dense, non-porous, and highly resistant to moisture and staining, making it a low-maintenance, budget-friendly option for shower walls and floors. Marble offers distinctive natural veining and upscale elegance, but being a natural stone, it is porous and requires regular sealing to avoid discoloration and water absorption. Choosing marble also requires precision cutting and specific setting mortars to prevent shadowing or staining during the finish installation.",
+        "@type": "Answer",
+        "description": "Porcelain is dense, non-porous, and low-maintenance, while natural marble offers a premium stone finish that requires routine sealing and careful installation."
+      }
+    }
+  ],
+  "description": "Porcelain is dense, non-porous, and low-maintenance, while natural marble offers a premium stone finish that requires routine sealing and careful installation."
+}

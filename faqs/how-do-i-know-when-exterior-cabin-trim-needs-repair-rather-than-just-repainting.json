@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-exterior-cabin-trim-needs-repair-rather-than-just-repainting",
+  "name": "How do I know when exterior cabin trim needs repair rather than just repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when exterior cabin trim needs repair rather than just repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should inspect and repair cabin trim if you observe gaps pulling away from window or door frames, visible wood rot, softening, flaking finish, or draft leaks. In Colorado mountain and foothill communities like Parker and Castle Rock, intense sun exposure and heavy freeze-thaw cycles frequently cause wood trim to dry out, warp, and split. Addressing split trim early stops moisture from penetrating deeper behind interior drywall or into structural framing. If the trim feels soft or reveals insect activity, it must be removed and replaced rather than simply caulked over.",
+        "@type": "Answer",
+        "description": "If trim is warped, soft, separated from the logs, or shows active dry rot, it requires structural carpentry repair or replacement rather than just a fresh coat of paint."
+      }
+    }
+  ],
+  "description": "If trim is warped, soft, separated from the logs, or shows active dry rot, it requires structural carpentry repair or replacement rather than just a fresh coat"
+}

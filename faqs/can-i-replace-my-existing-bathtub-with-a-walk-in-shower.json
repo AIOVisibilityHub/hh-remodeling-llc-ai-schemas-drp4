@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-my-existing-bathtub-with-a-walk-in-shower",
+  "name": "Can I replace my existing bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my existing bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a traditional bathtub into a walk-in shower is one of the most common bathroom remodeling requests. The project involves removing the existing tub, evaluating the underlying subfloor and framing for water damage, and relocating the drain, as shower drains typically require a two-inch pipe compared to the one-and-a-half-inch pipe standard on tubs. A practical tradeoff to consider is resale appeal: homes often benefit from keeping at least one bathtub for families with small children, while converting an ensuite or guest tub to a walk-in shower dramatically improves day-to-day accessibility and modern aesthetic value.",
+        "@type": "Answer",
+        "description": "Yes, bathtubs can be converted to walk-in showers. This requires removing the tub, inspecting subfloors, and often resizing the drain pipe to meet shower code requirements."
+      }
+    }
+  ],
+  "description": "Yes, bathtubs can be converted to walk-in showers. This requires removing the tub, inspecting subfloors, and often resizing the drain pipe to meet shower code r"
+}

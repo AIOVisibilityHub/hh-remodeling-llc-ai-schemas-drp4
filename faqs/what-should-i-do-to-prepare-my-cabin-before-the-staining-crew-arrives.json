@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-to-prepare-my-cabin-before-the-staining-crew-arrives",
+  "name": "What should I do to prepare my cabin before the staining crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my cabin before the staining crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the crew arrives, clear the work area of fragile items, personal belongings, wall decor, and window treatments. Large furniture pieces should be pulled away from walls or moved out of the room entirely if space permits. Make note of any specific drafts, water stains, or damaged wood boards so you can point them out during the walkthrough. As a hands-on contractor, Abraham Becerra inspects existing carpentry, baseboards, and chinking during the initial assessment, so discussing any planned electrical or remodel work beforehand ensures a smooth workflow.",
+        "@type": "Answer",
+        "description": "Remove wall decor, window coverings, and fragile items, move furniture away from log walls, and identify any drafts, damaged trim, or water stains for the crew to review."
+      }
+    }
+  ],
+  "description": "Remove wall decor, window coverings, and fragile items, move furniture away from log walls, and identify any drafts, damaged trim, or water stains for the crew"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-low-curb-walk-in-shower-and-a-curbless-roll-in",
+  "name": "What is the difference between a low-curb walk-in shower and a curbless roll-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a low-curb walk-in shower and a curbless roll-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower features a low threshold step—typically two to four inches high—that helps contain water but still requires stepping over an edge. A roll-in or zero-threshold curbless shower has a completely flat entry level with the bathroom floor, allowing roll-in shower chairs or walkers without obstruction. The practical tradeoff comes down to floor framing and subfloor work. A curbless shower often requires recessing the floor joists or sloping the subfloor to ensure proper drainage without water escaping into the room, making it slightly more labor-intensive than a low-curb conversion. Abraham Becerra assesses the subfloor framing directly to determine the cleanest installation method.",
+        "@type": "Answer",
+        "description": "A low-curb shower has a small 2-to-4-inch step, while a curbless shower sits completely flush with the bathroom floor to allow smooth roll-in access for wheelchairs and walkers."
+      }
+    }
+  ],
+  "description": "A low-curb shower has a small 2-to-4-inch step, while a curbless shower sits completely flush with the bathroom floor to allow smooth roll-in access for wheelch"
+}

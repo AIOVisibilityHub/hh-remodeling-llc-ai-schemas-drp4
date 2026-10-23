@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-penetrating-stain-or-a-film-forming-finish-for-cabin-timbers",
+  "name": "Should I choose a penetrating stain or a film-forming finish for cabin timbers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a penetrating stain or a film-forming finish for cabin timbers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Penetrating stains soak deep into wood pores, allowing the natural grain to show while flexing with timber expansion and contraction. They rarely peel or blister, making future maintenance coats easier to apply without heavy stripping. Film-forming finishes sit on top of the timber like a shield, offering a sleek, glossy sheen, but they can crack, trap moisture, or peel over time if timber moves or weathers heavily. Choosing between them involves balancing the natural rustic look and lower-maintenance recoating of penetrating oils against the distinct high-gloss appearance of surface films.",
+        "@type": "Answer",
+        "description": "Penetrating stains soak into wood and flex without peeling, while film-forming finishes provide a glossy surface barrier that may require stripping when recoated."
+      }
+    }
+  ],
+  "description": "Penetrating stains soak into wood and flex without peeling, while film-forming finishes provide a glossy surface barrier that may require stripping when recoate"
+}

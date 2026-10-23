@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-foreclosed-kitchen-refresh-and-a-full-remodel",
+  "name": "What is the difference between a foreclosed kitchen refresh and a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a foreclosed kitchen refresh and a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen refresh focuses on preserving sound underlying structures while fixing wear, neglect, or cosmetic damage common in bank-owned homes. Unlike a full gut remodel that tears out everything down to the studs, a refresh prioritizes targeted repairs. This usually involves repainting or repairing existing cabinet boxes, installing new countertops, repairing damaged drywall, swapping hardware, and laying durable new tile. A gut remodel replaces the entire layout, rough plumbing, and framing. Deciding between the two depends heavily on structural soundness: if cabinet boxes have rot or severe mold from shut-off utilities, replacement is necessary, but cosmetic wear is easily refreshed to preserve your budget.",
+        "@type": "Answer",
+        "description": "A kitchen refresh repairs and updates existing structures like cabinets, counters, and drywall, while a full remodel involves tearing out the room down to the studs to alter layouts."
+      }
+    }
+  ],
+  "description": "A kitchen refresh repairs and updates existing structures like cabinets, counters, and drywall, while a full remodel involves tearing out the room down to the s"
+}

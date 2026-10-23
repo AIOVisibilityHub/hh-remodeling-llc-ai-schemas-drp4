@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-a-landlord-prepare-a-rental-unit-before-repairs-begin",
+  "name": "How should a landlord prepare a rental unit before repairs begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a landlord prepare a rental unit before repairs begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for turnover repairs, walk the property immediately after move-out to compile an itemized punch list of all damage. Take clear photos of areas needing attention, note any missing hardware or damaged trim, and confirm that utilities remain active for the repair crew. Providing contractor access via a lockbox helps speed up the quote and start dates, ensuring the rental gets back on the leasing market quickly.",
+        "@type": "Answer",
+        "description": "Compile an itemized checklist of needed fixes, photograph damage, ensure water and power remain turned on, and provide lockbox access so work can start promptly."
+      }
+    }
+  ],
+  "description": "Compile an itemized checklist of needed fixes, photograph damage, ensure water and power remain turned on, and provide lockbox access so work can start promptly"
+}

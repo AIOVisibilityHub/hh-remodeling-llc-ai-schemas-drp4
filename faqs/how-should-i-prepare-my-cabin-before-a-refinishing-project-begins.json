@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-cabin-before-a-refinishing-project-begins",
+  "name": "How should I prepare my cabin before a refinishing project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my cabin before a refinishing project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an on-site consultation, clear outdoor furniture, decor, and plants away from exterior perimeter walls. Turn off exterior power sources, make note of any past stains or sealers used, and document known problem areas like soft spots, leaks, or failing chinking. If your home has elevated sections or sits on sloping terrain, make sure access routes around the property are clear. Providing details about previous maintenance history helps our team pinpoint whether your logs need light restoration, timber rot replacement, or full-surface stripping.",
+        "@type": "Answer",
+        "description": "Clear the perimeter around the cabin, locate records of previous stains used, and mark any visible rot, moisture leaks, or loose chinking for the contractor to inspect."
+      }
+    }
+  ],
+  "description": "Clear the perimeter around the cabin, locate records of previous stains used, and mark any visible rot, moisture leaks, or loose chinking for the contractor to"
+}

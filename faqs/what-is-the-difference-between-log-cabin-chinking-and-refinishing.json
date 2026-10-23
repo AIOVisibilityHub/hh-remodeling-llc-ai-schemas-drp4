@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-log-cabin-chinking-and-refinishing",
+  "name": "What is the difference between log cabin chinking and refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between log cabin chinking and refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Chinking is a flexible textured sealant used between wide log courses to block drafts, water, and insects, while refinishing involves cleaning, staining, and sealing the wood itself. While both protect your building envelope, chinking handles seasonal movement as logs expand and contract. During a refinishing project, the existing chinking must be checked for separation, tears, or lost adhesion. Replacing or repairing damaged chinking is typically coordinated alongside log cleaning and staining to ensure a tight, weather-resistant barrier before the final coats cure.",
+        "@type": "Answer",
+        "description": "Refinishing treats and stains the wood logs, whereas chinking seals the joints between logs to keep out drafts, water, and pests as the wood moves."
+      }
+    }
+  ],
+  "description": "Refinishing treats and stains the wood logs, whereas chinking seals the joints between logs to keep out drafts, water, and pests as the wood moves."
+}

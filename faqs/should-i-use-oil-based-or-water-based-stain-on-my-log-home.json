@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-use-oil-based-or-water-based-stain-on-my-log-home",
+  "name": "Should I use oil-based or water-based stain on my log home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use oil-based or water-based stain on my log home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary tradeoff comes down to longevity versus maintenance ease. Water-based acrylic finishes provide strong UV resistance, retain color longer, and emit low odor, making them easier to apply on interiors or modern exteriors. However, when they eventually fail, they tend to peel and often require aggressive stripping. Oil-based finishes penetrate deep into wood fibers, conditioning dry logs and wearing down gradually by chalking rather than peeling, which simplifies future recoating. You must balance the immediate appearance and maintenance cycle against the labor needed when it is time to reapply.",
+        "@type": "Answer",
+        "description": "Oil-based stains penetrate deeply and wear away gradually without peeling, while water-based finishes offer superior UV protection and color retention but may require stripping later."
+      }
+    }
+  ],
+  "description": "Oil-based stains penetrate deeply and wear away gradually without peeling, while water-based finishes offer superior UV protection and color retention but may r"
+}

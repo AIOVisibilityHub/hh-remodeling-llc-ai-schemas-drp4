@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-log-cabin-trim-repair-and-complete-log-restoratio",
+  "name": "What is the difference between log cabin trim repair and complete log restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between log cabin trim repair and complete log restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabin trim repair generally focuses on fixing cosmetic or weather-worn casing, corner boards, window framing, and fascia, whereas log restoration targets the primary exterior walls. When exterior trim rots, cracks, or pulls away from the logs, it can compromise the weather barrier around openings. Repairing or replacing these elements using finish carpentry restores clean sightlines and seals entry points without requiring deep structural wall intervention. However, if wood rot has spread from the window casing deep into the underlying wall logs, the project shifts from basic trim repair to broader structural log repair or chinking restoration.",
+        "@type": "Answer",
+        "description": "Trim repair addresses window casing, fascia, and corner boards, while complete restoration treats structural wall logs, rot damage, and deep chinking across the structure."
+      }
+    }
+  ],
+  "description": "Trim repair addresses window casing, fascia, and corner boards, while complete restoration treats structural wall logs, rot damage, and deep chinking across the"
+}

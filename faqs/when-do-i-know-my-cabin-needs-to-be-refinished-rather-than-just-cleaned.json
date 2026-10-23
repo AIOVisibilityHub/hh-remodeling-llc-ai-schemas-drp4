@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-know-my-cabin-needs-to-be-refinished-rather-than-just-cleaned",
+  "name": "When do I know my cabin needs to be refinished rather than just cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I know my cabin needs to be refinished rather than just cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider refinishing when the exterior stain begins peeling, fading, or cracking, or when logs no longer repel water. A simple test is spraying water on the exterior wood: if droplets bead up, the seal remains active; if water absorbs quickly and darkens the log, the protective coating has worn off. Other warning signs include graying wood fibers, mildew patches, or gaps where chinking has separated. Catching finish failure early avoids deep wood rot that requires structural framing or log replacement rather than straightforward surface prep and recoating.",
+        "@type": "Answer",
+        "description": "Refinish your cabin if the finish is peeling or water absorbs into the logs instead of beading up. Darkening, graying wood, or cracking chinking also indicate the seal has failed."
+      }
+    }
+  ],
+  "description": "Refinish your cabin if the finish is peeling or water absorbs into the logs instead of beading up. Darkening, graying wood, or cracking chinking also indicate t"
+}

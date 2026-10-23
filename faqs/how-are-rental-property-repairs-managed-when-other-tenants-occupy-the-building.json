@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-rental-property-repairs-managed-when-other-tenants-occupy-the-building",
+  "name": "How are rental property repairs managed when other tenants occupy the building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are rental property repairs managed when other tenants occupy the building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owner-occupied multi-family properties require tight scheduling and careful coordination to minimize noise, debris, and disruption for surrounding residents. Clear communication regarding work hours, designated parking for contractor vehicles, and proper dust containment are essential when repairing occupied buildings. Using a single hands-on contractor who oversees work on-site helps keep the turnover process contained, quiet, and completed on a predictable timeline.",
+        "@type": "Answer",
+        "description": "Repairs in occupied buildings require strict work-hour agreements, dust barriers, organized staging areas, and continuous communication to keep disruptions minimal."
+      }
+    }
+  ],
+  "description": "Repairs in occupied buildings require strict work-hour agreements, dust barriers, organized staging areas, and continuous communication to keep disruptions mini"
+}

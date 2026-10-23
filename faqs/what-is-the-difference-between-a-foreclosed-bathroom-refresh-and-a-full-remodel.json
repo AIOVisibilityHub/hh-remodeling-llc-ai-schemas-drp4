@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-foreclosed-bathroom-refresh-and-a-full-remodel",
+  "name": "What is the difference between a foreclosed bathroom refresh and a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a foreclosed bathroom refresh and a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh updates existing surfaces and fixtures, while a full remodel strips the room to the studs. In a foreclosed home, choosing between them depends on underlying damage. A refresh focuses on surface-level improvements such as repairing drywall, repainting, regrouting or replacing broken tile, and installing a new vanity, toilet, and faucet. A full gut remodel becomes necessary if winterization failures, long-term leaks, or mold compromised the subfloor and framing. Choosing a refresh saves substantial time and budget if the plumbing lines, electrical wiring, and wall structures remain structurally sound.",
+        "@type": "Answer",
+        "description": "A refresh updates cosmetic fixtures, tile, drywall, and paint, while a full remodel guts the room to the framing to fix structural, plumbing, or layout problems."
+      }
+    }
+  ],
+  "description": "A refresh updates cosmetic fixtures, tile, drywall, and paint, while a full remodel guts the room to the framing to fix structural, plumbing, or layout problems"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-the-color-of-my-cabin-interior-if-it-is-already-stained-a-dark-shad",
+  "name": "Can I change the color of my cabin interior if it is already stained a dark shade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the color of my cabin interior if it is already stained a dark shade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, existing dark stain can be updated, but the method depends on your desired finish. Applying a darker stain or a rich gel stain over an existing coat is straightforward once the surface is cleaned and deglossed. However, transitioning from a dark stain to a lighter natural tone requires stripping or sanding the timber back down to bare wood. This is a labor-intensive process, especially on textured hand-hewn logs. An on-site evaluation helps determine whether stripping, sanding, or blending with a complementary tone makes the most sense.",
+        "@type": "Answer",
+        "description": "Going darker or adjusting the undertone is relatively straightforward, but lightening dark logs requires sanding or stripping back to raw wood, which requires substantial prep work."
+      }
+    }
+  ],
+  "description": "Going darker or adjusting the undertone is relatively straightforward, but lightening dark logs requires sanding or stripping back to raw wood, which requires s"
+}

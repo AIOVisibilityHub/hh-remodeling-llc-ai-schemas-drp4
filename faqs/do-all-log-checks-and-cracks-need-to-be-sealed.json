@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-all-log-checks-and-cracks-need-to-be-sealed",
+  "name": "Do all log checks and cracks need to be sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do all log checks and cracks need to be sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upward-facing checks that measure a quarter-inch wide or larger should be sealed to prevent rain and melting snow from pooling inside the log core. Downward-facing or hairline checks generally shed water naturally and can be left open to let the wood breathe. When sealing larger checks, insert an appropriately sized foam backer rod to prevent the sealant from adhering to the back of the crack, which allows the caulking to stretch and flex as the timber moves with seasonal humidity changes.",
+        "@type": "Answer",
+        "description": "Seal upward-facing checks wider than a quarter inch to keep water out, but leave small or downward-facing checks alone to breathe."
+      }
+    }
+  ],
+  "description": "Seal upward-facing checks wider than a quarter inch to keep water out, but leave small or downward-facing checks alone to breathe."
+}

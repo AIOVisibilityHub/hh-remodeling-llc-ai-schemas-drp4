@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-consider-before-scheduling-an-accessible-bathroom-renovation",
+  "name": "What should I consider before scheduling an accessible bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before scheduling an accessible bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting an accessible remodel, consider the specific mobility aids used, door clearance into the room, and daily movement paths. Note whether the primary user relies on a walker, manual wheelchair, power chair, or assistance from a caregiver, as this dictates turning radiuses and shower seat placement. Measure adjacent hallway widths to determine whether a standard swinging door or a pocket door works better. Deciding on necessary fixture heights and shower wand reaches early ensures framing, plumbing rough-ins, and electrical outlets are placed accurately before tile work begins.",
+        "@type": "Answer",
+        "description": "Identify specific mobility equipment used, required turning space, preferred fixture heights, and whether doorways need widening or pocket-door conversions."
+      }
+    }
+  ],
+  "description": "Identify specific mobility equipment used, required turning space, preferred fixture heights, and whether doorways need widening or pocket-door conversions."
+}

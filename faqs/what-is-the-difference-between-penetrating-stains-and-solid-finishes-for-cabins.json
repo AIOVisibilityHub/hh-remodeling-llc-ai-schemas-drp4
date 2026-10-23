@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-penetrating-stains-and-solid-finishes-for-cabins",
+  "name": "What is the difference between penetrating stains and solid finishes for cabins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between penetrating stains and solid finishes for cabins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid stains coat the log surface with an opaque barrier that hides wood grain, whereas penetrating stains soak into the wood fibers to protect from within while showcasing natural grain. Solid finishes provide strong UV resistance but can peel or blister as logs expand and contract with moisture changes. Penetrating stains rarely peel, making future maintenance easier, though they may require more frequent recoats. Choosing between them involves balancing desired appearance against ongoing maintenance commitment, especially on south-facing walls exposed to intense sun.",
+        "@type": "Answer",
+        "description": "Penetrating stains soak into the wood fibers and highlight grain without peeling, while solid finishes provide opaque UV block but can crack as logs expand and contract."
+      }
+    }
+  ],
+  "description": "Penetrating stains soak into the wood fibers and highlight grain without peeling, while solid finishes provide opaque UV block but can crack as logs expand and"
+}

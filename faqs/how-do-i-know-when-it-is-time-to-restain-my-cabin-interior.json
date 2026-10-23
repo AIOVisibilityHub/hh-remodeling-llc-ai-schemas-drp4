@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-restain-my-cabin-interior",
+  "name": "How do I know when it is time to restain my cabin interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to restain my cabin interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior cabin stain does not face rain or snow, but it still shows wear from high-altitude UV exposure, wood shrinkage, and indoor humidity shifts. Common indicators that your cabin needs attention include color fading near large windows, drying or graying timber, dark water marks around window frames, and flaking topcoats. If you notice drafts or shifting logs, you may also need chinking adjustments alongside restaining. Inspecting your cabin interior every few years helps you catch dry timber early before it requires aggressive sanding down to raw wood.",
+        "@type": "Answer",
+        "description": "Restaining is needed when wood looks dry or gray, stain fades near sunny windows, clear coats flake, or timber shows moisture discoloration around openings and trim."
+      }
+    }
+  ],
+  "description": "Restaining is needed when wood looks dry or gray, stain fades near sunny windows, clear coats flake, or timber shows moisture discoloration around openings and"
+}

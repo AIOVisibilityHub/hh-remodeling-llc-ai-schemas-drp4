@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-prefabricated-base-or-a-custom-tiled-pan-for-my-low-threshold",
+  "name": "Should I choose a prefabricated base or a custom tiled pan for my low threshold shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a prefabricated base or a custom tiled pan for my low threshold shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can choose either, depending on your budget, maintenance goals, and design preferences. Acrylic and fiberglass pans offer quick installation, lower upfront costs, and easy-to-clean surfaces with molded curbs. Custom tile bases provide greater flexibility for irregular bathroom dimensions, high-end aesthetics with materials like marble or porcelain, and custom slopes. However, tile requires thorough waterproofing, regular grout maintenance, and precise finish carpentry to ensure a watertight installation over the subfloor.",
+        "@type": "Answer",
+        "description": "Prefabricated bases are affordable and quick to clean, while custom tiled pans offer tailored sizing, premium finishes, and flexible design at a higher cost."
+      }
+    }
+  ],
+  "description": "Prefabricated bases are affordable and quick to clean, while custom tiled pans offer tailored sizing, premium finishes, and flexible design at a higher cost."
+}

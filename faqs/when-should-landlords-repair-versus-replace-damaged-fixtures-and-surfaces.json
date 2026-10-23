@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-landlords-repair-versus-replace-damaged-fixtures-and-surfaces",
+  "name": "When should landlords repair versus replace damaged fixtures and surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should landlords repair versus replace damaged fixtures and surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace depends on age, structural condition, and future maintenance costs. Damaged drywall, loose trim, and chipped floor tiles can usually be patched or replaced locally to save money. However, if kitchen cabinets have water damage, or bathroom vanities show swelling in the particle board, replacement is often more cost-effective long term than repeated temporary patches. Prioritize durable replacement materials that withstand future tenant wear.",
+        "@type": "Answer",
+        "description": "Repair surfaces like drywall or localized tile chips if the structure is sound. Replace items like water-damaged vanities or worn cabinetry that will fail again soon."
+      }
+    }
+  ],
+  "description": "Repair surfaces like drywall or localized tile chips if the structure is sound. Replace items like water-damaged vanities or worn cabinetry that will fail again"
+}

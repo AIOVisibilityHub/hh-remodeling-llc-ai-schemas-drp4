@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-cabin-interior-needs-to-be-resealed",
+  "name": "How do I know when my cabin interior needs to be resealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my cabin interior needs to be resealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visible daylight between log courses, noticeable drafts around baseboards, and sudden insect activity are clear signs you need interior sealing. You might also notice loose, cracked chinking or wood dust collecting beneath timber joints. A key preparation step is doing an air-leak check around windows, ceiling transitions, and electrical cutouts on a windy day. Interior wood naturally shrinks and expands over time, opening small fissures that compromise heating efficiency. Addressing these gaps prevents conditioned indoor air from escaping and keeps outdoor moisture from migrating behind interior walls.",
+        "@type": "Answer",
+        "description": "Look for visible drafts, crumbling chinking, daylight through log joints, or recurring insect entry around windows, ceiling lines, and corner notches."
+      }
+    }
+  ],
+  "description": "Look for visible drafts, crumbling chinking, daylight through log joints, or recurring insect entry around windows, ceiling lines, and corner notches."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-a-low-threshold-shower-the-best-choice-for-accessibility",
+  "name": "When is a low threshold shower the best choice for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a low threshold shower the best choice for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low threshold showers are ideal for aging-in-place homeowners, individuals with temporary injuries, or anyone wanting easier daily bathroom access without a massive remodel. If a family member struggles to lift their legs over a 14-to-18-inch bathtub edge, swapping to a low curb removes a primary fall risk. It is also an excellent choice for smaller bathrooms where a complete zero-clearance, curbless shower is structurally impractical due to joist depth or plumbing constraints.",
+        "@type": "Answer",
+        "description": "It is best when stepping over high tub walls becomes difficult or hazardous, especially in bathrooms where structural limits prevent curbless designs."
+      }
+    }
+  ],
+  "description": "It is best when stepping over high tub walls becomes difficult or hazardous, especially in bathrooms where structural limits prevent curbless designs."
+}

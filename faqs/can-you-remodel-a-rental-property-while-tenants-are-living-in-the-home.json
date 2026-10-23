@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-remodel-a-rental-property-while-tenants-are-living-in-the-home",
+  "name": "Can you remodel a rental property while tenants are living in the home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you remodel a rental property while tenants are living in the home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating while occupied is possible for minor repairs, but full-scale remodeling is best scheduled during tenant vacancies. Significant work like kitchen remodels, bathroom gut jobs, and extensive tile or drywall work creates dust, noise, and utility shutoffs that disrupt daily living. If you must complete updates while tenants reside there, prioritize phased repairs such as partial painting, trim carpentry, or handyman punch lists. For extensive foreclosed property rehabs or full multi-room remodels, waiting until the unit is empty prevents tenant friction and allows crews to work efficiently.",
+        "@type": "Answer",
+        "description": "Major remodels work best when units are vacant to avoid disruption, though minor repairs and phased updates can be done during tenancies when planned carefully."
+      }
+    }
+  ],
+  "description": "Major remodels work best when units are vacant to avoid disruption, though minor repairs and phased updates can be done during tenancies when planned carefully."
+}

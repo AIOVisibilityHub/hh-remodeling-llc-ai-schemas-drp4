@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-grab-bars-be-installed-directly-onto-existing-drywall-without-wall-reinforce",
+  "name": "Can grab bars be installed directly onto existing drywall without wall reinforcement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can grab bars be installed directly onto existing drywall without wall reinforcement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, standard drywall alone cannot safely support the weight of a person pulling on a grab bar. Grab bars must be anchored directly into solid wood blocking installed between wall studs behind the wall finish. During an accessibility remodel, wall cavities are opened so two-by-six or two-by-eight wood blocking can be securely fastened into the framing before moisture-resistant drywall, cement board, and tile are installed. If you skip this preparation, you risk bars pulling free from the wall under sudden pressure, creating a major safety hazard.",
+        "@type": "Answer",
+        "description": "No, secure grab bars require solid wood framing blocking mounted between wall studs behind the drywall and tile to safely support dynamic body weight."
+      }
+    }
+  ],
+  "description": "No, secure grab bars require solid wood framing blocking mounted between wall studs behind the drywall and tile to safely support dynamic body weight."
+}

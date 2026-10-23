@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-walk-in-shower-and-a-roll-in-shower",
+  "name": "What is the difference between a walk-in shower and a roll-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a walk-in shower and a roll-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower typically features a low curb of two to four inches, whereas a roll-in shower has a completely flush, zero-threshold entry. Walk-in units work well for individuals who can step over a slight lip, but they still present a trip hazard for wheelchairs or walkers. Roll-in showers require lowering or sloping the subfloor to ensure water drains properly without a barrier. While zero-threshold designs require more extensive framing, waterproofing, and custom tile work, they provide long-term barrier-free access that accommodates wheelchairs easily.",
+        "@type": "Answer",
+        "description": "Walk-in showers have a low curb you must step over, while roll-in showers feature a zero-threshold entry flush with the floor for wheelchair and walker access."
+      }
+    }
+  ],
+  "description": "Walk-in showers have a low curb you must step over, while roll-in showers feature a zero-threshold entry flush with the floor for wheelchair and walker access."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-refinish-a-cabin",
+  "name": "How long does it take to refinish a cabin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to refinish a cabin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most cabin refinishing projects take between three to ten days, depending on cabin size, log condition, and weather. Surface preparation requires adequate dry time; logs washed with water solutions must dry down to safe moisture thresholds before stains can be applied. Severe sun exposure or peeling requires extra time for sanding or media blasting. Rainy spells or extreme cold can temporarily pause exterior staining. Homeowners can plan their schedules around an initial assessment where prep demands and weather windows are reviewed together.",
+        "@type": "Answer",
+        "description": "Most cabin refinishing jobs take between 3 and 10 days, depending on square footage, prep requirements, existing wood condition, and dry weather conditions."
+      }
+    }
+  ],
+  "description": "Most cabin refinishing jobs take between 3 and 10 days, depending on square footage, prep requirements, existing wood condition, and dry weather conditions."
+}

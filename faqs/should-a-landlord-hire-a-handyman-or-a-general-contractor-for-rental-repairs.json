@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-a-landlord-hire-a-handyman-or-a-general-contractor-for-rental-repairs",
+  "name": "Should a landlord hire a handyman or a general contractor for rental repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should a landlord hire a handyman or a general contractor for rental repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring an owner-operated general contractor provides a single point of contact for complex, multi-trade repairs, whereas a standard handyman is best for isolated, minor tasks. If a rental requires drywall work, tile replacement, finish carpentry, and coordinated electrical or plumbing sub-trades, a general contractor keeps the schedule organized. For just tightening loose hardware or swapping a single faucet, an independent handyman may be sufficient. Choosing a contractor avoids the hassle of managing separate workers across multiple trades.",
+        "@type": "Answer",
+        "description": "Choose a handyman for quick, isolated fixes. Hire an owner-operated general contractor when the rental needs multi-trade work, such as drywall, tile, carpentry, and coordinated trades."
+      }
+    }
+  ],
+  "description": "Choose a handyman for quick, isolated fixes. Hire an owner-operated general contractor when the rental needs multi-trade work, such as drywall, tile, carpentry,"
+}

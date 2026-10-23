@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-cabin-needs-refinishing-rather-than-basic-cleaning",
+  "name": "How do I know when my cabin needs refinishing rather than basic cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my cabin needs refinishing rather than basic cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should plan for log refinishing whenever wood appears faded, gray, chalky, or dry, or if water stops beading on the surface. Inside, signs include drafty gaps along timber joints, peeling clear coats, or deteriorating chinking. Addressing these warning signs early avoids deep wood rot and surface decay. If left unaddressed, weathered timbers require aggressive sanding or media blasting before stains can adhere properly. Regular maintenance sealing every few years protects the underlying timber from heavy sun exposure, moisture penetration, and winter temperature swings.",
+        "@type": "Answer",
+        "description": "Refinish when wood looks gray, faded, or dry, stops repelling water, or shows cracked chinking. Basic cleaning only removes surface dirt, not failed coatings."
+      }
+    }
+  ],
+  "description": "Refinish when wood looks gray, faded, or dry, stops repelling water, or shows cracked chinking. Basic cleaning only removes surface dirt, not failed coatings."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-use-regular-exterior-house-paint-on-a-log-cabin",
+  "name": "Can you use regular exterior house paint on a log cabin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you use regular exterior house paint on a log cabin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard house paint forms an impermeable film that traps internal moisture against log surfaces, leading to hidden rot beneath the surface. Log cabins require specialized, breathable stains and sealers designed to expand and contract as the wood breathes through changing temperatures and humidity levels. Using conventional exterior latex paint often results in bubbling, peeling, and trapped moisture that damages the structural framing. Specialty log finishes allow vapor to escape while repelling exterior liquid water.",
+        "@type": "Answer",
+        "description": "No. Standard house paint traps moisture inside logs, causing rot. Cabins require breathable, flexible log stains that let moisture vapor escape."
+      }
+    }
+  ],
+  "description": "No. Standard house paint traps moisture inside logs, causing rot. Cabins require breathable, flexible log stains that let moisture vapor escape."
+}

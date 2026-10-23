@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-log-cabin-exterior-needs-refinishing",
+  "name": "How do I know when my log cabin exterior needs refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my log cabin exterior needs refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tell-tale signs of failing log finishes include dark discoloration, peeling or flaking stain, gray weathered timber, and water soaking directly into the wood rather than beading on the surface. You should also check for cracking or separating chinking and caulking, soft spots that suggest moisture rot, and insect activity around lower log courses. Catching these problems early allows you to address localized joint leaks or apply a maintenance coat before deeper moisture intrusion damages structural framing or interior drywall.",
+        "@type": "Answer",
+        "description": "Signs include water absorbing instead of beading, peeling or fading finish, graying wood, and cracked chinking or sealant joints."
+      }
+    }
+  ],
+  "description": "Signs include water absorbing instead of beading, peeling or fading finish, graying wood, and cracked chinking or sealant joints."
+}

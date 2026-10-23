@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-log-maintenance-coat-and-full-cabin-refinishing",
+  "name": "What is the difference between a log maintenance coat and full cabin refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a log maintenance coat and full cabin refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Routine washing and applying a fresh protective topcoat over intact stain takes significantly less time and labor, whereas a full refinishing job requires removing failed finishes down to bare timber using specialized stripping or sanding. A maintenance coat preserves existing color and seals the surface. In contrast, full restoration addresses deep sun damage, dark fungal staining, or peeling layers, requiring extensive prep work, log washing, drying time, and multiple fresh stain coats. Choosing to wash and seal on schedule avoids the heavy disruption and expense of stripping bare logs.",
+        "@type": "Answer",
+        "description": "A maintenance coat cleans and seals an intact finish, while full refinishing strips failed coatings down to bare wood before restaining."
+      }
+    }
+  ],
+  "description": "A maintenance coat cleans and seals an intact finish, while full refinishing strips failed coatings down to bare wood before restaining."
+}

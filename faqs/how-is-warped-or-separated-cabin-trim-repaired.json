@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-warped-or-separated-cabin-trim-repaired",
+  "name": "How is warped or separated cabin trim repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is warped or separated cabin trim repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing warped or separated trim involves assessing whether the wood can be re-secured or if it must be swapped out entirely. Cabin wood continuously expands and contracts with climate shifts; if boards cup or twist excessively, pulling their fasteners loose, they usually cannot be pulled flat without splitting. In such cases, the damaged section is carefully cut out, the backing cleared of debris or rot, and a newly milled piece fitted in place. Flexible exterior sealants designed for log movement are applied along the seams to preserve a tight weather barrier.",
+        "@type": "Answer",
+        "description": "Warped trim is inspected, removed if twisted beyond flattening, replaced with custom-fit lumber, and sealed using flexible exterior sealants built for log movement."
+      }
+    }
+  ],
+  "description": "Warped trim is inspected, removed if twisted beyond flattening, replaced with custom-fit lumber, and sealed using flexible exterior sealants built for log movem"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-log-home-needs-refinishing",
+  "name": "How do I know when my log home needs refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my log home needs refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A log home generally needs professional refinishing every 3 to 7 years, depending on sun exposure, weather conditions, and the quality of the prior coating. South- and west-facing exterior walls receive intense ultraviolet radiation, which degrades stains and sealants faster than shaded sections. Clear signs that refinishing is required include peeling or flaking stain, darkened wood from water penetration, dry rot, and failed chinking or caulking along log seams. Performing a water-drop test helps verify protection: if sprayed water absorbs into the bare wood rather than beading up, the protective barrier has failed and the logs require cleaning, prep, and resealing to prevent rot.",
+        "@type": "Answer",
+        "description": "Log homes typically need refinishing every 3 to 7 years. If stain peels, wood darkens, or water soaks into the logs instead of beading, it is time to clean and reseal."
+      }
+    }
+  ],
+  "description": "Log homes typically need refinishing every 3 to 7 years. If stain peels, wood darkens, or water soaks into the logs instead of beading, it is time to clean and"
+}

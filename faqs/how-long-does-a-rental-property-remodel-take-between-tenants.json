@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-rental-property-remodel-take-between-tenants",
+  "name": "How long does a rental property remodel take between tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a rental property remodel take between tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most rental property renovations take between two and six weeks, depending on the scope of the project. A standard turnover involving drywall repairs, interior paint, trim installation, and minor bathroom updates usually takes one to two weeks. Full kitchen renovations, layout adjustments, or multi-room rehabs require three to six weeks due to trade scheduling and material lead times. Owner Abraham Becerra stays on-site to lead carpentry, tile, and drywall work directly, which helps streamline trade handoffs for plumbing and electrical and minimizes rental vacancy.",
+        "@type": "Answer",
+        "description": "Cosmetic rental updates typically take one to two weeks, while full kitchen and bathroom renovations generally take three to six weeks."
+      }
+    }
+  ],
+  "description": "Cosmetic rental updates typically take one to two weeks, while full kitchen and bathroom renovations generally take three to six weeks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-between-applying-a-maintenance-coat-or-stripping-down-to-bare-wo",
+  "name": "How do I decide between applying a maintenance coat or stripping down to bare wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide between applying a maintenance coat or stripping down to bare wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Decide based on the extent of existing coating failure and whether you want to alter the wood tone. If your current finish is intact and simply dull, a thorough wash and a compatible maintenance clear coat or light stain will restore protection. However, if the old finish is peeling, flaking, unevenly darkened, or contaminated by incompatible previous products, stripping back to bare wood is necessary for the new coat to bond. Full stripping requires more labor and time but provides an even, long-lasting surface.",
+        "@type": "Answer",
+        "description": "Apply a maintenance coat if existing stain is sound but dull. Strip down to bare wood if coatings are peeling, severely weathered, or incompatible with new products."
+      }
+    }
+  ],
+  "description": "Apply a maintenance coat if existing stain is sound but dull. Strip down to bare wood if coatings are peeling, severely weathered, or incompatible with new prod"
+}

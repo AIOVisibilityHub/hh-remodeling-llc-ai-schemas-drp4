@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-log-chinking-interior-caulking-and-surface-sealer",
+  "name": "What is the difference between log chinking, interior caulking, and surface sealers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between log chinking, interior caulking, and surface sealers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in flexibility and breathability. Chinking is an elastomeric, textured compound engineered specifically for wide gaps between moving logs, stretching as the structure settles. Standard interior caulk is smoother and intended for narrow, static joints such as interior window trim, drywall transitions, and baseboards. Clear topcoat sealers, by contrast, are liquid finishes applied over entire log faces to lock out moisture and dirt. The practical tradeoff comes down to movement: using regular caulk on wide log joints will cause early cracking, whereas chinking accommodates continuous seasonal shifts.",
+        "@type": "Answer",
+        "description": "Chinking is a flexible, textured sealant for wide log gaps; caulking seals narrow, static trim joints; and surface sealers protect log faces from moisture and dirt."
+      }
+    }
+  ],
+  "description": "Chinking is a flexible, textured sealant for wide log gaps; caulking seals narrow, static trim joints; and surface sealers protect log faces from moisture and d"
+}

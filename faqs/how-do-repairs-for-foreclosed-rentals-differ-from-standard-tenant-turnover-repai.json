@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-repairs-for-foreclosed-rentals-differ-from-standard-tenant-turnover-repai",
+  "name": "How do repairs for foreclosed rentals differ from standard tenant turnover repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do repairs for foreclosed rentals differ from standard tenant turnover repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foreclosed rental rehabs require a broader scope than routine tenant turnover repairs. Foreclosed homes often sit vacant for extended periods without climate control, leading to hidden moisture damage, deteriorated drywall, compromised subflooring, and missing trim or fixtures. Unlike a standard turnover that focuses on cosmetic touch-ups, foreclosed property rehab often requires structural framing corrections, complete drywall restoration, new tile installation, and coordinating plumbing or electrical subcontractors to restore livability.",
+        "@type": "Answer",
+        "description": "Foreclosed rehabs involve deeper issues like moisture damage, structural framing, and complete drywall or fixture replacement, whereas standard turnovers focus on cosmetic touch-ups."
+      }
+    }
+  ],
+  "description": "Foreclosed rehabs involve deeper issues like moisture damage, structural framing, and complete drywall or fixture replacement, whereas standard turnovers focus"
+}

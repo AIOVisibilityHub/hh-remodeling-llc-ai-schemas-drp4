@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-do-rental-property-repairs-usually-cost-between-tenants",
+  "name": "How much do rental property repairs usually cost between tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do rental property repairs usually cost between tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental property repair costs depend on unit size, tenant wear, and required materials. Landlords can handle minor repairs on an hourly handyman basis, while full turnover punch lists or multi-room repairs are typically priced as flat-rate project estimates. Drywall patches, baseboard adjustments, and spot painting are relatively inexpensive, whereas replacing broken tile, damaged vanities, or subflooring increases total labor and material costs. Gathering a clear punch list before scheduling helps secure accurate upfront pricing.",
+        "@type": "Answer",
+        "description": "Costs vary based on scope; minor handyman patches run on hourly or small job rates, while full turnover punch lists are priced as project estimates based on materials and labor."
+      }
+    }
+  ],
+  "description": "Costs vary based on scope; minor handyman patches run on hourly or small job rates, while full turnover punch lists are priced as project estimates based on mat"
+}

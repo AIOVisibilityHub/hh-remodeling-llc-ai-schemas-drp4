@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-standard-dimensional-lumber-be-used-to-replace-cabin-trim",
+  "name": "Can standard dimensional lumber be used to replace cabin trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can standard dimensional lumber be used to replace cabin trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard pre-primed dimensional boards sold at big-box retail stores rarely match the thickness, rustic texture, or durability of genuine cabin trim. Proper cabin trim work requires durable, exterior-grade wood such as cedar, redwood, or rough-sawn pine that accommodates natural log settling and exterior weather variations. A finish carpentry approach ensures that replacement boards are properly milled, back-primed or sealed on all sides, and scribed to fit flush against uneven log profiles, preventing future water traps.",
+        "@type": "Answer",
+        "description": "No, standard retail trim rarely fits or endures. Durable woods like rough-sawn cedar or pine milled to match existing cabin dimensions and log profiles are recommended."
+      }
+    }
+  ],
+  "description": "No, standard retail trim rarely fits or endures. Durable woods like rough-sawn cedar or pine milled to match existing cabin dimensions and log profiles are reco"
+}

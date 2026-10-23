@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-affect-the-cost-of-cabin-maintenance-and-refinishing",
+  "name": "What factors affect the cost of cabin maintenance and refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of cabin maintenance and refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends primarily on the cabin's square footage, multi-story height, accessibility, and the current condition of the logs. If the existing finish is merely faded, a wash and re-coat is relatively economical. However, if the old finish has turned black, peeled heavily, or allowed rot into the framing and logs, the cost rises due to the intensive labor required for media blasting, sanding, and wood replacement. Additional finish work around trim and decks also factors into the overall estimate.",
+        "@type": "Answer",
+        "description": "Costs depend on cabin size, wall height, existing finish condition, the extent of wood rot or caulking failure, and site accessibility."
+      }
+    }
+  ],
+  "description": "Costs depend on cabin size, wall height, existing finish condition, the extent of wood rot or caulking failure, and site accessibility."
+}

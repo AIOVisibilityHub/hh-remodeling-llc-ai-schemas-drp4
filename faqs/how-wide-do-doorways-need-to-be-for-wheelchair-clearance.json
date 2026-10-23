@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-wide-do-doorways-need-to-be-for-wheelchair-clearance",
+  "name": "How wide do doorways need to be for wheelchair clearance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How wide do doorways need to be for wheelchair clearance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard interior doorways are often 28 to 30 inches wide, which is too narrow for comfortable wheelchair passage. An accessible entryway typically requires at least 32 inches of clear width, which usually demands a 34-inch or 36-inch door frame. To accomplish this, the surrounding drywall is removed, the wall studs are reframed, a new header is installed, and the drywall and trim are patched and painted. If adjacent electrical switches exist, they must also be repositioned.",
+        "@type": "Answer",
+        "description": "Doorways generally require a minimum clear opening of 32 inches, which usually means reframing the opening with a 34- or 36-inch door, adjusting drywall, and moving switches."
+      }
+    }
+  ],
+  "description": "Doorways generally require a minimum clear opening of 32 inches, which usually means reframing the opening with a 34- or 36-inch door, adjusting drywall, and mo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-refreshing-a-foreclosed-bathroom-differ-from-standard-remodeling",
+  "name": "How does refreshing a foreclosed bathroom differ from standard remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does refreshing a foreclosed bathroom differ from standard remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foreclosed property refresh involves specific risk management steps that typical owner-occupied updates do not require. Standard bathroom updates usually involve working utilities, known plumbing histories, and clean working conditions. Foreclosures often involve neglected plumbing, frozen or damaged lines, pest intrusion, abandoned personal property, and hidden mold. Contractors working on foreclosures must verify that water lines hold pressure safely before installing new vanities, address underlying drywall and insulation damage, and coordinate sub-trades for electrical and plumbing safety checks prior to completing finish carpentry and painting.",
+        "@type": "Answer",
+        "description": "Foreclosures require diagnosing neglected plumbing, repairing hidden water damage, and restoring abandoned surfaces rather than merely updating working fixtures."
+      }
+    }
+  ],
+  "description": "Foreclosures require diagnosing neglected plumbing, repairing hidden water damage, and restoring abandoned surfaces rather than merely updating working fixtures"
+}
