@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-standard-drywall-moisture-resistant-board-and-fir",
+  "name": "What is the difference between standard drywall, moisture-resistant board, and fire-rated sheetrock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard drywall, moisture-resistant board, and fire-rated sheetrock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall works well for everyday living areas and bedrooms, but specialty boards are necessary for specific spaces. Moisture-resistant green board or cement backer board is essential in bathrooms, laundry rooms, and basement areas to prevent moisture absorption behind tile or paint. Fire-rated Type X drywall is thicker and required along shared garage walls and utility rooms to meet building safety standards. Sound-dampening drywall is another option for home theaters or shared bedroom partitions, balancing acoustic comfort with practical framing budgets.",
+        "@type": "Answer",
+        "description": "Standard drywall suits dry living areas, moisture-resistant boards protect damp spaces like bathrooms, and thicker Type X drywall provides fire resistance for garages."
+      }
+    }
+  ],
+  "description": "Standard drywall suits dry living areas, moisture-resistant boards protect damp spaces like bathrooms, and thicker Type X drywall provides fire resistance for g"
+}

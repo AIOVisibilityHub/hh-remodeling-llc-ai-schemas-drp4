@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-drywall-installation-begins",
+  "name": "How should I prepare my home before drywall installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before drywall installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the crew arrives, remove all wall decorations, shelving, and curtains, and clear out furniture or pull it to the center of the room. Drywall hanging, cutting, and sanding produce fine airborne dust. Professional remodelers set up plastic sheeting over doorways and intake vents, but storing delicate items and electronics outside the work area protects them completely. Also, verify that all in-wall plumbing, wiring, and framing adjustments are fully completed so sheets do not have to be removed later.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture, wall decor, and electronics, and confirm that all electrical and plumbing rough-ins are complete before drywall work starts."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture, wall decor, and electronics, and confirm that all electrical and plumbing rough-ins are complete before drywall work starts."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-calculate-the-rough-opening-dimensions-for-a-new-door",
+  "name": "How do you calculate the rough opening dimensions for a new door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you calculate the rough opening dimensions for a new door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine the rough opening, measure the actual door slab and add 2 inches to its width and 2 to 2.5 inches to its height. For example, a standard 32-inch by 80-inch interior door needs a rough framed opening of roughly 34 inches by 82.5 inches. This extra space accounts for the 3/4-inch jamb material on both sides and leaves clearance to shim, level, and square the jamb. You must also account for finished flooring thickness: if framing over subfloor before hardwood or tile is laid, add height so the door clears the final floor level.",
+        "@type": "Answer",
+        "description": "Add 2 inches to the door's width and 2 to 2.5 inches to its height to allow room for the jambs, leveling shims, and finished flooring."
+      }
+    }
+  ],
+  "description": "Add 2 inches to the door's width and 2 to 2.5 inches to its height to allow room for the jambs, leveling shims, and finished flooring."
+}

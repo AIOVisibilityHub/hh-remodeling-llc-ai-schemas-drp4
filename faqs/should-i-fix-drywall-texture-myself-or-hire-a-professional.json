@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-fix-drywall-texture-myself-or-hire-a-professional",
+  "name": "Should I fix drywall texture myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I fix drywall texture myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small nail holes or tiny gouges can often be filled with spackle and touch-up paint by a homeowner. However, professional repair is the better choice for holes larger than a few inches, water-damaged ceilings, cracks along drywall seams, or specialized finishes like knockdown and orange peel. Matching spray patterns and trowel pressure requires specialized equipment and practice; uneven DIY spray cans often leave noticeable halos or mismatched sheens that become more visible under room lighting.",
+        "@type": "Answer",
+        "description": "Minor nail holes work well for DIY spackle, but holes over a few inches, water damage, or sprayed patterns like knockdown look best when handled by a professional."
+      }
+    }
+  ],
+  "description": "Minor nail holes work well for DIY spackle, but holes over a few inches, water damage, or sprayed patterns like knockdown look best when handled by a profession"
+}

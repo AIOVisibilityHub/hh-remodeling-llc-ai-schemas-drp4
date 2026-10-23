@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/where-does-framing-fit-into-the-overall-remodeling-sequence",
+  "name": "Where does framing fit into the overall remodeling sequence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where does framing fit into the overall remodeling sequence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing happens immediately after interior demolition and before any rough mechanical work begins. Once old drywall and framing are cleared, our team frames all new walls, headers, knee walls, and ceiling soffits. Only after the framing is securely in place and square do the plumbing and electrical sub-trades step in to run wiring, pipes, and vents through the stud bays. Once rough mechanicals pass any required checks, our crew moves directly into insulation, drywall installation, and taping, keeping the project workflow smooth and coordinated under a single contractor.",
+        "@type": "Answer",
+        "description": "Framing occurs right after demolition. It must be completed before plumbers and electricians install rough-in wiring and pipework inside the wall cavities."
+      }
+    }
+  ],
+  "description": "Framing occurs right after demolition. It must be completed before plumbers and electricians install rough-in wiring and pipework inside the wall cavities."
+}

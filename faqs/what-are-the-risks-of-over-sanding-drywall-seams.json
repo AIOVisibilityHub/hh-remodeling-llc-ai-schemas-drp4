@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-risks-of-over-sanding-drywall-seams",
+  "name": "What are the risks of over-sanding drywall seams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of over-sanding drywall seams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Over-sanding happens when abrasives cut too deeply through the joint compound and scratch or fray the surrounding drywall face paper. This paper fuzz, known as \"fuzzing,\" shows through coats of finish paint and creates uneven texture. Over-sanding also exposes embedded drywall tape, weakening the seam. If paper or tape is compromised, you must stop, apply a fresh thin skim coat of mud over the damaged area, let it cure, and gently hand-sand it flat. Using high-grit sandpaper (120 to 150 grit for drywall) prevents cutting too aggressively into the paper.",
+        "@type": "Answer",
+        "description": "Over-sanding frays drywall face paper and exposes joint tape, which ruins paint smoothness and requires re-skimming the damaged seam with compound."
+      }
+    }
+  ],
+  "description": "Over-sanding frays drywall face paper and exposes joint tape, which ruins paint smoothness and requires re-skimming the damaged seam with compound."
+}

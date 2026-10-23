@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-patch-damaged-drywall-instead-of-replacing-the-entire-wall",
+  "name": "When should I patch damaged drywall instead of replacing the entire wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I patch damaged drywall instead of replacing the entire wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small punctures, hairline settling cracks, and minor water stains can usually be patched without replacing entire walls. However, you need new drywall installation if large sections show deep water damage, structural sagging, extensive mold, or after complete framing changes in basements and kitchens. Patching over compromised or soft sheetrock leads to recurring cracks and failing paint. During remodeling consultations, we inspect framing alignment and wall stability to determine if targeted repairs or hanging fresh panels provides the more durable outcome.",
+        "@type": "Answer",
+        "description": "Patch minor holes and hairline cracks, but replace drywall if panels suffer extensive water damage, mold, structural sagging, or follow major layout changes."
+      }
+    }
+  ],
+  "description": "Patch minor holes and hairline cracks, but replace drywall if panels suffer extensive water damage, mold, structural sagging, or follow major layout changes."
+}

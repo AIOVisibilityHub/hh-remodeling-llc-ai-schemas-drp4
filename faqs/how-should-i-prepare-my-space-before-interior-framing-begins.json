@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-space-before-interior-framing-begins",
+  "name": "How should I prepare my space before interior framing begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my space before interior framing begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your framing contractor arrives, clear all personal belongings, stored boxes, and debris from the work area to ensure a completely open floor and clear access path. Mark or discuss intended room functions, such as the placement of closets, door swing directions, and rough openings for custom doors. It is also helpful to have your preliminary plans ready for appliances, wall-hung vanities, grab bars, or wall-mounted entertainment systems so the carpenter can place solid wood backing blocks inside the stud cavities before the drywall phase begins.",
+        "@type": "Answer",
+        "description": "Clear the entire room of clutter, finalize door and closet positions, and specify where heavy items will hang so framing backing can be installed."
+      }
+    }
+  ],
+  "description": "Clear the entire room of clutter, finalize door and closet positions, and specify where heavy items will hang so framing backing can be installed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-a-partition-wall-and-how-does-it-differ-from-a-load-bearing-wall",
+  "name": "What is a partition wall and how does it differ from a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a partition wall and how does it differ from a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partition wall is a non-load-bearing interior divider used to divide larger rooms, add closets, or separate finished living spaces. Unlike structural bearing walls that support roof or floor weight from above, partition walls carry only their own weight and the materials attached to them. Because of this distinction, partition framing does not require temporary shoring, heavy structural headers, or engineer-stamped beam calculations. However, accurate layout and plumb installation remain critical to make sure drywall hangs smoothly, door jambs close square, and trim fits cleanly during subsequent finishing stages.",
+        "@type": "Answer",
+        "description": "A partition wall divides interior space and carries only its own weight, whereas a load-bearing wall supports structural loads from floors or roofs above."
+      }
+    }
+  ],
+  "description": "A partition wall divides interior space and carries only its own weight, whereas a load-bearing wall supports structural loads from floors or roofs above."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-drywall-is-needed-for-bathrooms-basements-and-garages",
+  "name": "What type of drywall is needed for bathrooms, basements, and garages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is needed for bathrooms, basements, and garages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard dry areas use regular 1/2-inch gypsum drywall, but moist spaces like bathrooms, laundry rooms, and basements require moisture-resistant drywall, often called green board or purple board. Inside wet areas like walk-in showers or behind tub surrounds, drywall should never be used; instead, cement board or specialized waterproof tile backer boards must be installed. For garage fire separation walls or shared partitions, local residential building codes typically mandate 5/8-inch Type X fire-rated drywall to improve fire resistance.",
+        "@type": "Answer",
+        "description": "Bathrooms and basements need moisture-resistant drywall, showers require waterproof cement backer board, and garage shared walls typically require 5/8-inch Type X fire-rated drywall."
+      }
+    }
+  ],
+  "description": "Bathrooms and basements need moisture-resistant drywall, showers require waterproof cement backer board, and garage shared walls typically require 5/8-inch Type"
+}

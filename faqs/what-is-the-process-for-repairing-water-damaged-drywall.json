@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-process-for-repairing-water-damaged-drywall",
+  "name": "What is the process for repairing water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before drywall repair begins, the active plumbing leak or roof issue must be completely resolved, and the cavity must dry out. Once moisture is eliminated, damaged or softened sheetrock is cut back to sound framing or studs. If underlying insulation is soaked, it must be removed to prevent mold growth. HH Remodeling cuts clean rectangular openings, installs backing wood where necessary, fastens fresh drywall panels, tapes seams, and applies multiple coats of mud before priming with stain-blocking primer and painting.",
+        "@type": "Answer",
+        "description": "Stop the leak and dry the area first. We cut away soft sheetrock to the studs, replace damp insulation if needed, install new drywall, mud, texture, and prime."
+      }
+    }
+  ],
+  "description": "Stop the leak and dry the area first. We cut away soft sheetrock to the studs, replace damp insulation if needed, install new drywall, mud, texture, and prime."
+}

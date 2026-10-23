@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-you-tell-if-drywall-has-been-properly-sanded-and-is-ready-for-paint",
+  "name": "How can you tell if drywall has been properly sanded and is ready for paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can you tell if drywall has been properly sanded and is ready for paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tell drywall is ready for paint when seams and fasteners are completely flush with the surrounding paper, free of ridges, and smooth to the touch. Check the surface by shining a bright light at a low angle across the wall; this raking light reveals tool marks, dips, and uneven tapers that normal overhead lighting hides. After sanding, wipe away all residual chalk dust with a dry microfiber cloth or vacuum brush. If powdery residue remains, primer will adhere to the dust rather than the drywall, resulting in peeling paint later on.",
+        "@type": "Answer",
+        "description": "The surface is ready when it feels flush, shows no ridges under low-angle inspection light, and is wiped completely clean of powdery gypsum dust."
+      }
+    }
+  ],
+  "description": "The surface is ready when it feels flush, shows no ridges under low-angle inspection light, and is wiped completely clean of powdery gypsum dust."
+}

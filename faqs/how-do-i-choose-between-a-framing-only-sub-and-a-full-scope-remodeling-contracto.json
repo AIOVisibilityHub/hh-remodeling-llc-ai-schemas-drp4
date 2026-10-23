@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-a-framing-only-sub-and-a-full-scope-remodeling-contracto",
+  "name": "How do I choose between a framing-only sub and a full-scope remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a framing-only sub and a full-scope remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a general contractor with strong finish carpentry experience rather than a standalone rough-framing crew. When the same company handles framing through interior finishes—like HH Remodeling LLC—the carpenters frame with the final finishes in mind. That means walls are kept plumb, corners are square, and backing blocks are placed for future baseboards, cabinetry, and crown molding. Choosing a single point of contact prevents disputes where drywallers or finish carpenters blame rough framing for wavy walls or uneven tile installations later in the project.",
+        "@type": "Answer",
+        "description": "A full-scope contractor ensures framing is built plumb and true with future drywall, tile, and trim in mind, eliminating finger-pointing between separate crews."
+      }
+    }
+  ],
+  "description": "A full-scope contractor ensures framing is built plumb and true with future drywall, tile, and trim in mind, eliminating finger-pointing between separate crews."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-of-a-home-remodel-should-finish-carpentry-be-scheduled",
+  "name": "At what stage of a home remodel should finish carpentry be scheduled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a home remodel should finish carpentry be scheduled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry installation usually occurs after rough trades, drywall finishing, and initial painting or flooring installation are complete. The exact sequence involves a practical tradeoff between protecting floors and achieving tight seams. Installing baseboards after hard flooring ensures trim sits flush against the floor without leaving gaps, though flooring must be protected during nailing and painting. Conversely, hanging doors and fitting casing can happen before final floor coverings. Drywall must always be fully taped, mudded, and cured before trim installation begins to prevent moisture transfer and uneven backing surfaces.",
+        "@type": "Answer",
+        "description": "Finish carpentry takes place after drywall is taped and textured, typically around the time flooring goes in, to ensure tight baseboard fits and clean trim lines."
+      }
+    }
+  ],
+  "description": "Finish carpentry takes place after drywall is taped and textured, typically around the time flooring goes in, to ensure tight baseboard fits and clean trim line"
+}

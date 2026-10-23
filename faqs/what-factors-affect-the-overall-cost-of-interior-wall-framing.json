@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-affect-the-overall-cost-of-interior-wall-framing",
+  "name": "What factors affect the overall cost of interior wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the overall cost of interior wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing costs depend primarily on linear footage, ceiling height, lumber material prices, and the structural complexity of your layout. Building straightforward partition walls on an open floor plan is much less labor-intensive than custom framing around HVAC trunk lines, plumbing stacks, uneven concrete floors, or angled ceilings. Costs also increase if the project involves cutting concrete for bottom plates, installing structural headers, or adding extra wood blocking for heavy kitchen cabinetry, tile backer boards, or bathroom accessibility modifications.",
+        "@type": "Answer",
+        "description": "Costs depend on wall length, ceiling height, material prices, layout complexity around utilities, and whether structural load-bearing headers or backing are required."
+      }
+    }
+  ],
+  "description": "Costs depend on wall length, ceiling height, material prices, layout complexity around utilities, and whether structural load-bearing headers or backing are req"
+}

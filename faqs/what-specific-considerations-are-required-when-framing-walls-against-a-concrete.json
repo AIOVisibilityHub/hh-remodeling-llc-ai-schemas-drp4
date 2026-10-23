@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-specific-considerations-are-required-when-framing-walls-against-a-concrete",
+  "name": "What specific considerations are required when framing walls against a concrete basement slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific considerations are required when framing walls against a concrete basement slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing an interior basement wall on a concrete slab requires specific moisture management techniques to protect the wood from concrete dampness. The bottom plate must use pressure-treated lumber or a foam sill sealer gasket to prevent moisture wicking from the slab into the framing. In Colorado, expansive soils can also cause basement slabs to shift, which often requires floating wall framing where bottom plates have a designated gap with slip nails. This design allows the concrete floor to move without buckling the finished interior walls or damaging upstairs structures.",
+        "@type": "Answer",
+        "description": "Basement slab framing requires treated bottom plates or sill gaskets to block moisture, and often floating wall details to accommodate expansive Colorado soils."
+      }
+    }
+  ],
+  "description": "Basement slab framing requires treated bottom plates or sill gaskets to block moisture, and often floating wall details to accommodate expansive Colorado soils."
+}

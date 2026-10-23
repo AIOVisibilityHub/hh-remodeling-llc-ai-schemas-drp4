@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-drywall-be-installed-during-cold-colorado-winters",
+  "name": "Can drywall be installed during cold Colorado winters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be installed during cold Colorado winters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall can be installed in colder months, but workspace temperature and ventilation must be carefully managed. Joint compound requires a consistent ambient temperature—typically at least 55 degrees Fahrenheit—to cure properly without cracking or freezing. In the Denver metro area, cold winter air and high indoor heating can either delay mud drying or dry it out too fast, causing joint shrinkage. HH Remodeling monitors job-site climate using temporary heat and airflow controls to ensure tape adheres tightly and seams cure reliably year-round.",
+        "@type": "Answer",
+        "description": "Yes, but work areas must be kept at a steady temperature above 55 degrees Fahrenheit with controlled airflow so joint compound cures without cracking."
+      }
+    }
+  ],
+  "description": "Yes, but work areas must be kept at a steady temperature above 55 degrees Fahrenheit with controlled airflow so joint compound cures without cracking."
+}

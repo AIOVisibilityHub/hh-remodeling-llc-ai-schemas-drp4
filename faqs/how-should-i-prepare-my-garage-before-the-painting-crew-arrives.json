@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-the-painting-crew-arrives",
+  "name": "How should I prepare my garage before the painting crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before the painting crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the painters arrive, clear all vehicles, workbenches, bicycles, tools, and storage bins away from the perimeter walls. Aim to give the crew at least three to four feet of clear workspace around the entire perimeter. If you have permanent shelving or storage racks, clear the contents off so surfaces can be masked or painted around neatly. Sweep the floor and dust off ledges to minimize airborne debris, and identify any water leaks or structural drywall damage that need repair during the walkthrough.",
+        "@type": "Answer",
+        "description": "Clear vehicles, tools, and items away from the walls, empty wall shelves, and sweep excess dust to give the crew easy access to all surfaces."
+      }
+    }
+  ],
+  "description": "Clear vehicles, tools, and items away from the walls, empty wall shelves, and sweep excess dust to give the crew easy access to all surfaces."
+}

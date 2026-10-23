@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-finish-carpentry-and-what-does-it-include",
+  "name": "What is finish carpentry, and what does it include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is finish carpentry, and what does it include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry covers the visible woodwork and architectural trim installed after structural framing, insulation, and drywall are complete. This work includes installing baseboards, crown molding, interior door casings, window trim, wainscoting, and decorative wall treatments. It also involves hanging interior doors and assembling custom built-in features. While rough carpentry establishes the structural skeleton of a house, finish carpentry focuses on precision, aesthetics, and exact joins. Proper finish carpentry conceals drywall edges, bridges gaps at flooring transitions, and provides a polished, unified look across residential living spaces.",
+        "@type": "Answer",
+        "description": "Finish carpentry includes visible trim and detailed woodwork installed after drywall, such as baseboards, crown molding, door casings, window trim, and interior doors."
+      }
+    }
+  ],
+  "description": "Finish carpentry includes visible trim and detailed woodwork installed after drywall, such as baseboards, crown molding, door casings, window trim, and interior"
+}

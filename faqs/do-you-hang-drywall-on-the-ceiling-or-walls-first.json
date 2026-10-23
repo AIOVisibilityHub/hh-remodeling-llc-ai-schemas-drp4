@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-hang-drywall-on-the-ceiling-or-walls-first",
+  "name": "Do you hang drywall on the ceiling or walls first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you hang drywall on the ceiling or walls first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should always be hung on the ceiling first before installing the wall panels. Ceiling sheets installed first create tight corner seams because the vertical wall sheets underneath push up firmly against the ceiling edges, supporting the perimeter. This sequence produces cleaner joints, reduces settling cracks, and simplifies the taping and finishing phase. In addition, working overhead without wall panels in place allows installers to position lifts and scaffolding freely without scuffing freshly hung wallboard.",
+        "@type": "Answer",
+        "description": "Ceilings are hung first. Wall sheets are then installed snug against the ceiling edges to help support the overhead perimeter and form tight joints."
+      }
+    }
+  ],
+  "description": "Ceilings are hung first. Wall sheets are then installed snug against the ceiling edges to help support the overhead perimeter and form tight joints."
+}

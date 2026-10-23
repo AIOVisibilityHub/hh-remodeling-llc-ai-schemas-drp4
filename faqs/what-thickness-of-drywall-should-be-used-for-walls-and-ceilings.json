@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-thickness-of-drywall-should-be-used-for-walls-and-ceilings",
+  "name": "What thickness of drywall should be used for walls and ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What thickness of drywall should be used for walls and ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The correct drywall thickness depends on the room, the framing layout, and local building codes. Standard walls typically use 1/2-inch drywall sheets, while ceilings often require 1/2-inch ceiling board or 5/8-inch panels to prevent sagging between joists. For garage walls sharing space with living areas, 5/8-inch Type X fire-rated drywall is standard to meet safety codes. Wet areas like bathrooms require moisture-resistant green board or cement backer boards behind tile work. When planning basement remodels or home additions, assessing framing spacing and room exposure early ensures you select the correct board type before fastening begins.",
+        "@type": "Answer",
+        "description": "Standard walls usually take 1/2-inch drywall, while ceilings and garage firewalls often require 5/8-inch panels to prevent sagging and meet local fire codes."
+      }
+    }
+  ],
+  "description": "Standard walls usually take 1/2-inch drywall, while ceilings and garage firewalls often require 5/8-inch panels to prevent sagging and meet local fire codes."
+}

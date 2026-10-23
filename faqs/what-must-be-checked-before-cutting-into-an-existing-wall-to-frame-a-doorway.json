@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-must-be-checked-before-cutting-into-an-existing-wall-to-frame-a-doorway",
+  "name": "What must be checked before cutting into an existing wall to frame a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What must be checked before cutting into an existing wall to frame a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before framing starts, locate what is hidden inside the wall cavity. Use stud finders and inspect basement ceilings or attic spaces directly above and below to check for electrical wires, plumbing supply lines, drain stacks, and HVAC ductwork. If electrical lines run through the target studs, an electrician must reroute the circuit. If plumbing or ductwork is present, you will need to determine if moving them is feasible or if shifting the door opening a few feet to an empty stud bay saves significant labor and cost.",
+        "@type": "Answer",
+        "description": "Check the wall cavity for electrical wiring, plumbing pipes, and HVAC vents, and confirm whether the wall is load-bearing before making any cuts."
+      }
+    }
+  ],
+  "description": "Check the wall cavity for electrical wiring, plumbing pipes, and HVAC vents, and confirm whether the wall is load-bearing before making any cuts."
+}

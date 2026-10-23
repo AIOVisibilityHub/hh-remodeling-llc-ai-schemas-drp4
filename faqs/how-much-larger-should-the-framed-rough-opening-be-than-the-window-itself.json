@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-larger-should-the-framed-rough-opening-be-than-the-window-itself",
+  "name": "How much larger should the framed rough opening be than the window itself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much larger should the framed rough opening be than the window itself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rough opening should typically be about 2 inches wider and 2 inches taller than the actual window unit dimensions, though exact manufacturer specifications always dictate final framing. This additional perimeter space provides roughly 1/2 to 3/4 inch of clearance on all four sides. That clearance allows us to shim the window frame perfectly square, level, and plumb, compensating for any minor out-of-square wall studs. It also creates the necessary cavity for proper low-expansion insulating foam and weatherproofing flashing tape without binding the window frame.",
+        "@type": "Answer",
+        "description": "A rough opening is generally framed 2 inches wider and 2 inches taller than the window dimensions to allow for shimming, squaring, insulation, and flashing."
+      }
+    }
+  ],
+  "description": "A rough opening is generally framed 2 inches wider and 2 inches taller than the window dimensions to allow for shimming, squaring, insulation, and flashing."
+}

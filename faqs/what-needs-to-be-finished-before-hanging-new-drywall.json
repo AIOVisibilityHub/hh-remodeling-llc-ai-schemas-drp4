@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-finished-before-hanging-new-drywall",
+  "name": "What needs to be finished before hanging new drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be finished before hanging new drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hanging new drywall, all behind-the-wall mechanical work must be completed and inspected. This includes electrical wiring, plumbing supply lines, drain pipes, HVAC ducting, and low-voltage cabling. Framing must also be checked for straightness, plumb alignment, and adequate backing at corners and ceiling transitions. Installing insulation and vapor barriers where required is the final step prior to drywall delivery. Skipping these checks leads to costly teardowns later, which is why owner-led remodeling teams verify rough-in sign-offs and framing integrity before lifting the first sheet into place.",
+        "@type": "Answer",
+        "description": "All rough plumbing, electrical wiring, HVAC ductwork, framing corrections, and insulation must be fully installed and inspected before hanging drywall."
+      }
+    }
+  ],
+  "description": "All rough plumbing, electrical wiring, HVAC ductwork, framing corrections, and insulation must be fully installed and inspected before hanging drywall."
+}

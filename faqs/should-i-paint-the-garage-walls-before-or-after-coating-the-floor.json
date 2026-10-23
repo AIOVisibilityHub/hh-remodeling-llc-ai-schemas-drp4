@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-paint-the-garage-walls-before-or-after-coating-the-floor",
+  "name": "Should I paint the garage walls before or after coating the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint the garage walls before or after coating the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you are remodeling the entire garage, paint the walls and ceiling before applying an epoxy or polyaspartic floor coating. Painting walls first ensures that paint drips, roller splatter, and sanding dust fall onto the unfinished concrete, which is later ground and cleaned during floor preparation. If your floor coating is already installed, our team protects it by thoroughly masking and laying down heavy-duty drop cloths, but doing the walls and trim first eliminates unnecessary risk to fresh floor finishes.",
+        "@type": "Answer",
+        "description": "Paint the walls and ceiling first. Any drips or sanding dust can be cleaned up during concrete preparation before the floor coating is applied."
+      }
+    }
+  ],
+  "description": "Paint the walls and ceiling first. Any drips or sanding dust can be cleaned up during concrete preparation before the floor coating is applied."
+}

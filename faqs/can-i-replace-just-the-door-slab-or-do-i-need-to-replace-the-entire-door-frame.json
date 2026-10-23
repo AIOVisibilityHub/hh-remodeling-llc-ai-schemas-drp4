@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-just-the-door-slab-or-do-i-need-to-replace-the-entire-door-frame",
+  "name": "Can I replace just the door slab, or do I need to replace the entire door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the door slab, or do I need to replace the entire door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace just the door slab if the existing frame is plumb, square, and structurally sound without wood rot or damage. However, if the frame is sagging, racked, out of square, or split around the strike plate, installing a new pre-hung frame is the better choice. Hanging a new slab inside a warped frame requires extensive planing, chiseling, and adjusting that rarely results in a smooth seal. While buying a slab alone saves on materials, replacing the entire frame ensures tight latches, proper clearances, and long-term durability.",
+        "@type": "Answer",
+        "description": "You can replace only the slab if your existing frame is plumb and undamaged. If the frame is warped, split, or out of square, installing a complete pre-hung frame is recommended."
+      }
+    }
+  ],
+  "description": "You can replace only the slab if your existing frame is plumb and undamaged. If the frame is warped, split, or out of square, installing a complete pre-hung fra"
+}

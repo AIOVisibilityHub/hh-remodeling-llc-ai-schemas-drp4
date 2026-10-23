@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-an-out-of-square-door-opening-framing-be-corrected",
+  "name": "How can an out-of-square door opening framing be corrected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can an out-of-square door opening framing be corrected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A non-load-bearing doorway framed out of plumb or out of square can be fixed by removing the drywall screws and adjusting the jack and king studs. You can plane down bowed lumber, add sistered 2x4s, or shim the rough opening to establish true vertical and horizontal surfaces. If a load-bearing opening has settled or was improperly built without adequate jack stud bearing, the overhead framing must be temporarily jacked and supported, allowing the damaged or undersized header and studs to be rebuilt to correct alignment.",
+        "@type": "Answer",
+        "description": "Out-of-square openings can be corrected by shimming or planing the studs, or by temporarily supporting overhead weight to replace misaligned headers and jacks."
+      }
+    }
+  ],
+  "description": "Out-of-square openings can be corrected by shimming or planing the studs, or by temporarily supporting overhead weight to replace misaligned headers and jacks."
+}

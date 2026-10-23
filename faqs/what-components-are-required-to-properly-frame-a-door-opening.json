@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-components-are-required-to-properly-frame-a-door-opening",
+  "name": "What components are required to properly frame a door opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What components are required to properly frame a door opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a door opening requires king studs on each side, jack (trimmer) studs to support the header, a solid header sized for the span and load, and a bottom plate or sill. Short cripple studs fill the gap between the header and top plate. If you are modifying a wall during a remodel, it is critical to determine whether it is load-bearing before cutting any lumber. A load-bearing wall demands a properly engineered structural header and temporary wall support to hold floor or roof weight above, whereas a standard non-bearing partition wall uses smaller, standard lumber framing.",
+        "@type": "Answer",
+        "description": "Door framing requires king studs, jack studs to carry the load, a properly sized header, and cripple studs above the header, with load-bearing walls requiring engineered headers."
+      }
+    }
+  ],
+  "description": "Door framing requires king studs, jack studs to carry the load, a properly sized header, and cripple studs above the header, with load-bearing walls requiring e"
+}

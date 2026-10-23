@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-does-drywall-tape-bubble-or-peel-and-how-is-it-repaired",
+  "name": "Why does drywall tape bubble or peel, and how is it repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does drywall tape bubble or peel, and how is it repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall tape bubbles when it is applied over insufficient joint compound, when dry spots occur underneath the paper, or when compound dries too fast. Small air pockets can sometimes be slit with a utility knife, injected with fresh compound, and smoothed down. However, large or loose bubbles usually require cutting away the unbonded tape section entirely, applying fresh compound, and embedding new tape. Making sure tape is firmly pressed into wet mud during the initial bed coat prevents this failure.",
+        "@type": "Answer",
+        "description": "Tape bubbles happen when there is insufficient mud beneath the tape. Repairs involve cutting out the dry section and re-taping with fresh compound."
+      }
+    }
+  ],
+  "description": "Tape bubbles happen when there is insufficient mud beneath the tape. Repairs involve cutting out the dry section and re-taping with fresh compound."
+}

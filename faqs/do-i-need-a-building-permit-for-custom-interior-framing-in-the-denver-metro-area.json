@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-custom-interior-framing-in-the-denver-metro-area",
+  "name": "Do I need a building permit for custom interior framing in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for custom interior framing in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are generally required if your framing alters the home's structural footprint, moves load-bearing walls, adds new habitable rooms like a finished basement, or changes egress window openings. Simple non-structural partition walls or decorative repair framing may fall under different rules depending on the local building department in jurisdictions like Aurora, Denver, or Centennial. Because electrical and plumbing work usually follows framing, comprehensive remodel permits cover both the framing inspection and mechanical rough-ins before any drywall covers the wall cavity.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural changes, basement finishing, and adding new rooms, ensuring framing and rough trades meet local building codes."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural changes, basement finishing, and adding new rooms, ensuring framing and rough trades meet local building codes."
+}

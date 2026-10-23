@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-drywall-is-required-for-bathrooms-and-wet-areas",
+  "name": "What type of drywall is required for bathrooms and wet areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is required for bathrooms and wet areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture and mold resistance is essential in bathrooms, laundry rooms, basements, and behind plumbing fixtures. In standard bathroom areas with high humidity, moisture-resistant drywall, commonly known as green board, prevents dampness from weakening the gypsum core. For high-splash areas, tub surrounds, and tile showers, standard drywall or green board is inadequate; cement backer boards or waterproof membrane panels are required to create a stable substrate that will not deteriorate behind grout. When remodeling bathrooms, matching the board type to direct water exposure prevents rot and failed tile later.",
+        "@type": "Answer",
+        "description": "Moisture-resistant green board is standard for bathroom walls, while cement backer board is required inside showers and behind tiled wet areas."
+      }
+    }
+  ],
+  "description": "Moisture-resistant green board is standard for bathroom walls, while cement backer board is required inside showers and behind tiled wet areas."
+}

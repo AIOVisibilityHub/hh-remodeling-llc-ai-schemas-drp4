@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-i-tell-if-an-interior-wall-is-load-bearing-before-remodeling",
+  "name": "How can I tell if an interior wall is load-bearing before remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if an interior wall is load-bearing before remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can determine if an interior wall is load-bearing by inspecting how it aligns with your home's structural framing in the attic or basement. Walls running perpendicular to ceiling joists or floor joists below often carry structural weight, especially if they sit directly over support beams, posts, or foundation walls. Exterior walls are almost always load-bearing, whereas interior partition walls running parallel to joists generally are not. If a wall is load-bearing, removing it requires temporary shoring and the installation of an engineered beam and support posts to carry roof or upper-floor loads safely.",
+        "@type": "Answer",
+        "description": "Walls perpendicular to floor or ceiling joists and positioned above structural beams or foundation supports are usually load-bearing and require structural reinforcement to remove."
+      }
+    }
+  ],
+  "description": "Walls perpendicular to floor or ceiling joists and positioned above structural beams or foundation supports are usually load-bearing and require structural rein"
+}

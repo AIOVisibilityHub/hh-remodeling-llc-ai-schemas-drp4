@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-basement-framing-differ-from-above-ground-room-framing-in-colorado-home",
+  "name": "How does basement framing differ from above-ground room framing in Colorado homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does basement framing differ from above-ground room framing in Colorado homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement framing requires special moisture mitigation techniques compared to above-grade rooms. Concrete basement walls and floors naturally wick moisture, so bottom framing plates must use pressure-treated lumber anchored to the slab, often with a sill gasket barrier underneath. Additionally, stud walls should be stood off slightly from concrete foundation walls to allow room for insulation and prevent wood rot. In the Denver metro area, basement framing must also account for floating wall requirements in areas with expansive soils, ensuring framing does not buckle if the concrete floor heaves.",
+        "@type": "Answer",
+        "description": "Basement framing requires treated bottom plates, moisture barriers against concrete, and often floating walls to accommodate Colorado's expansive soils."
+      }
+    }
+  ],
+  "description": "Basement framing requires treated bottom plates, moisture barriers against concrete, and often floating walls to accommodate Colorado's expansive soils."
+}

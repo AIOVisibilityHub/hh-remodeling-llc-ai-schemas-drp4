@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-tape-and-mud-over-existing-drywall-or-old-patches",
+  "name": "Can you tape and mud over existing drywall or old patches?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you tape and mud over existing drywall or old patches?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can apply tape and mud over existing drywall if the underlying board is firmly attached to framing and free of moisture or mold. Loose edges, water-damaged gypsum, or crumbling plaster must be cut back and secured with fresh drywall before finishing begins. When integrating new patches into older walls, cleaning away dust and scoring painted edges helps the compound adhere. For historic renovations or storm-damage repairs, evaluating the framing integrity behind the wall prevents recurring joint cracks.",
+        "@type": "Answer",
+        "description": "Yes, provided the underlying drywall is dry, structurally sound, and securely fastened. Any loose or water-damaged material must be replaced first."
+      }
+    }
+  ],
+  "description": "Yes, provided the underlying drywall is dry, structurally sound, and securely fastened. Any loose or water-damaged material must be replaced first."
+}

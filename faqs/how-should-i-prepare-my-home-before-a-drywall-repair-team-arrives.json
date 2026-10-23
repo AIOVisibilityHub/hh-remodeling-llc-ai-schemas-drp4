@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-a-drywall-repair-team-arrives",
+  "name": "How should I prepare my home before a drywall repair team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before a drywall repair team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can prepare by clearing furniture and fragile items away from the work area to give technicians clear access to the wall or ceiling. Drywall work involves sanding compound, which creates fine dust; professional crews hang plastic sheeting and cover floors, but clearing personal belongings beforehand speeds up site prep. If you have leftover wall paint from a previous renovation, locating the paint can or color code helps ensure a precise match when the repair is finished.",
+        "@type": "Answer",
+        "description": "Move furniture away from the wall, clear decor, and locate any leftover wall paint or color codes so the crew can match the final coat smoothly."
+      }
+    }
+  ],
+  "description": "Move furniture away from the wall, clear decor, and locate any leftover wall paint or color codes so the crew can match the final coat smoothly."
+}

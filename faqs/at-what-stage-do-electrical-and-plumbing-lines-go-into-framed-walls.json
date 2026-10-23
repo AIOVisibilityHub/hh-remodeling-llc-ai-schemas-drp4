@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-do-electrical-and-plumbing-lines-go-into-framed-walls",
+  "name": "At what stage do electrical and plumbing lines go into framed walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage do electrical and plumbing lines go into framed walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing and electrical rough-ins happen immediately after wall framing is complete, inspected, and approved, but before any drywall is hung. Mechanical sub-trades need open stud bays to drill holes, run wiring, set electrical junction boxes, and assemble supply and waste lines. Having your carpentry lead coordinate these sub-contractors prevents trades from compromising structural studs by drilling holes that are too large or improperly placed. Once all rough plumbing, wiring, and inspections wrap up, the crew can install insulation and proceed with drywall hanging.",
+        "@type": "Answer",
+        "description": "Plumbing pipes and wiring are installed immediately after framing is complete and inspected, while the stud bays remain completely open and accessible."
+      }
+    }
+  ],
+  "description": "Plumbing pipes and wiring are installed immediately after framing is complete and inspected, while the stud bays remain completely open and accessible."
+}

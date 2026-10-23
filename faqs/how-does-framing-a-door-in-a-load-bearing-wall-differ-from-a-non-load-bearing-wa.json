@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-framing-a-door-in-a-load-bearing-wall-differ-from-a-non-load-bearing-wa",
+  "name": "How does framing a door in a load-bearing wall differ from a non-load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does framing a door in a load-bearing wall differ from a non-load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a door in a load-bearing wall requires constructing temporary support walls on one or both sides to carry the floor or ceiling joists before removing existing studs. The header must be sized to support the overhead structure, often using double or triple dimensional lumber or engineered LVL beams supported by jack studs. Non-load-bearing walls do not carry weight from above, meaning you do not need temporary shoring, and the header can simply be a flat 2x4 or light double 2x4 designed just to keep drywall and the door jamb stable.",
+        "@type": "Answer",
+        "description": "Load-bearing walls require temporary structural shoring and heavily reinforced headers, while non-bearing partitions only need basic headers to hold drywall and trim."
+      }
+    }
+  ],
+  "description": "Load-bearing walls require temporary structural shoring and heavily reinforced headers, while non-bearing partitions only need basic headers to hold drywall and"
+}

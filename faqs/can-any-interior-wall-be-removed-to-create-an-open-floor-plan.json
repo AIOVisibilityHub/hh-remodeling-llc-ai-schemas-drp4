@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-any-interior-wall-be-removed-to-create-an-open-floor-plan",
+  "name": "Can any interior wall be removed to create an open floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any interior wall be removed to create an open floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tearing down a wall depends entirely on whether it is load-bearing or a simple partition wall. Non-bearing partition walls can usually be removed with standard interior demolition and basic reframing around surrounding surfaces. Load-bearing walls support the weight of the roof or floors above, requiring temporary support walls, an engineered beam, and dedicated structural posts before removal. During an on-site assessment, we evaluate the floor joist orientation, attic structure, and basement supports below to determine if a wall is structural, ensuring your home remains stable before any studs are cut.",
+        "@type": "Answer",
+        "description": "Non-bearing walls can be removed easily, but load-bearing walls require temporary shoring and structural support beams to safely hold upper floor loads."
+      }
+    }
+  ],
+  "description": "Non-bearing walls can be removed easily, but load-bearing walls require temporary shoring and structural support beams to safely hold upper floor loads."
+}

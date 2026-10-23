@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-match-new-drywall-finish-to-existing-wall-textures",
+  "name": "How do you match new drywall finish to existing wall textures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match new drywall finish to existing wall textures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching texture requires choosing the correct application technique, such as orange peel, knockdown, or hand-troweled finishes, and testing compound consistency before applying it to the wall. The technician blends the compound outward into the surrounding wall so there is no hard boundary line between old and new surfaces. Once dry, applying primer across the patched area and existing wall ensures the new paint absorbs evenly without sheen variation or visible patches.",
+        "@type": "Answer",
+        "description": "Contractors test mud consistency, match the application method (like orange peel or knockdown), and feather the texture edges into surrounding surfaces."
+      }
+    }
+  ],
+  "description": "Contractors test mud consistency, match the application method (like orange peel or knockdown), and feather the texture edges into surrounding surfaces."
+}

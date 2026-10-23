@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-cost-of-structural-wall-framing-or-removal",
+  "name": "What factors influence the cost of structural wall framing or removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of structural wall framing or removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of structural wall framing varies widely depending on wall length, ceiling height, whether existing loads must be redirected, and beam material choices. Non-bearing partition framing is relatively inexpensive, whereas replacing a structural wall with a flush-mounted structural header involves extensive labor, temporary shoring, and potential subfloor reinforcement. Additional trade work also influences the total budget; hidden plumbing lines, electrical runs, or HVAC ducts inside the framed wall will need coordinated rerouting before structural carpentry can be finalized.",
+        "@type": "Answer",
+        "description": "Costs depend on wall length, required beam dimensions, temporary shoring needs, and whether hidden electrical wiring or plumbing lines must be relocated by trades."
+      }
+    }
+  ],
+  "description": "Costs depend on wall length, required beam dimensions, temporary shoring needs, and whether hidden electrical wiring or plumbing lines must be relocated by trad"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-patch-damaged-drywall-myself-or-hire-a-finish-contractor",
+  "name": "Should I patch damaged drywall myself or hire a finish contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I patch damaged drywall myself or hire a finish contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small nail holes and hairline cracks can be handled with spackle or a quick patching kit, but widespread damage, recurring settling cracks, and water-damaged areas require professional repair. Professionals check the underlying framing, secure loose drywall panels to studs, cut back damaged core material, and properly feather new tape into existing textures. Incomplete repairs often lead to visible seam ridges, flashing paint marks, or cracks reopening within a few months.",
+        "@type": "Answer",
+        "description": "DIY works for small nail holes, but recurring cracks, larger holes, ceiling repairs, and texture matching require professional taping and finishing."
+      }
+    }
+  ],
+  "description": "DIY works for small nail holes, but recurring cracks, larger holes, ceiling repairs, and texture matching require professional taping and finishing."
+}

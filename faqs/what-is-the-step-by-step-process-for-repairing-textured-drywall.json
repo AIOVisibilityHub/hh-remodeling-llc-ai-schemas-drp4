@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-step-by-step-process-for-repairing-textured-drywall",
+  "name": "What is the step-by-step process for repairing textured drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the step-by-step process for repairing textured drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall texture repair generally involves five key steps: surface preparation, backing installation, joint taping and mudding, texture application, and finishing. The repair technician cuts away damaged drywall, secures new backing or wallboard, and applies joint compound across multiple thin coats. Once the base coats cure and are smoothed, the technician sprays or trowels the matching texture onto the patch, feathering into surrounding surfaces. After adequate dry time, the area is sealed with primer and painted to blend into the room.",
+        "@type": "Answer",
+        "description": "The process includes removing damaged drywall, installing new backing, taping and mudding seams, applying matching texture, priming, and painting the wall."
+      }
+    }
+  ],
+  "description": "The process includes removing damaged drywall, installing new backing, taping and mudding seams, applying matching texture, priming, and painting the wall."
+}

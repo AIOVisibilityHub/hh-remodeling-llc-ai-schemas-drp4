@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-an-interior-wall-is-load-bearing-before-remodeling",
+  "name": "How do I know if an interior wall is load-bearing before remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if an interior wall is load-bearing before remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tell a wall is load-bearing by inspecting your home's structural plans, checking basement support beams, or looking at the orientation of floor joists. Load-bearing walls typically run perpendicular to the ceiling and floor joists above them and often sit directly over main beams or basement posts. Non-load-bearing partition walls usually run parallel to joists. Before cutting into or removing any framing during a kitchen or basement renovation, have an experienced contractor verify the load path. Removing a structural wall requires temporary bracing and installing an engineered support header to prevent ceiling sagging or roof movement.",
+        "@type": "Answer",
+        "description": "Load-bearing walls typically run perpendicular to floor joists and sit directly above beams or foundation posts. An on-site inspection verifies the structure before removal."
+      }
+    }
+  ],
+  "description": "Load-bearing walls typically run perpendicular to floor joists and sit directly above beams or foundation posts. An on-site inspection verifies the structure be"
+}

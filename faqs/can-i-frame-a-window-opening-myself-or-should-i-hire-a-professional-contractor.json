@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-frame-a-window-opening-myself-or-should-i-hire-a-professional-contractor",
+  "name": "Can I frame a window opening myself, or should I hire a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I frame a window opening myself, or should I hire a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a window opening demands skilled structural carpentry, so hiring a hands-on general contractor is strongly recommended unless you have advanced framing experience. Removing wall studs without proper temporary shoring can compromise structural integrity and cause roof or floor sagging. Furthermore, incorrect rough opening dimensions, improper header sizing, or out-of-square framing can cause the new window to stick, leak air, or allow water intrusion into wall cavities. A licensed contractor manages structural loads safely and coordinates any necessary plumbing or electrical re-routing found inside the wall.",
+        "@type": "Answer",
+        "description": "Hiring a professional contractor is best because incorrect framing can cause structural sagging, water intrusion, or window operational failure."
+      }
+    }
+  ],
+  "description": "Hiring a professional contractor is best because incorrect framing can cause structural sagging, water intrusion, or window operational failure."
+}

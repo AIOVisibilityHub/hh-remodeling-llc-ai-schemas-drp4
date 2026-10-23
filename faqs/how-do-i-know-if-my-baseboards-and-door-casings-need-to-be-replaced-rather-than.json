@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-baseboards-and-door-casings-need-to-be-replaced-rather-than",
+  "name": "How do I know if my baseboards and door casings need to be replaced rather than repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my baseboards and door casings need to be replaced rather than repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing baseboards and door casings is typically necessary when updating interior doors, switching flooring types, or modernizing an older home. If you transition from thick carpet to thinner luxury vinyl plank or hardwood, existing baseboards often leave visible gaps or unpainted lines along the wall. Trim that is cracked, heavily dented, water-damaged, or layered with decades of thick paint rarely looks clean even after repainting. Upgrading from standard builder-grade trim to taller baseboards or craftsman-style casings can dramatically update the architectural style of a room.",
+        "@type": "Answer",
+        "description": "Replace trim if you change flooring heights, if wood is split or water-damaged, or if heavy paint buildup obscures architectural details beyond repair."
+      }
+    }
+  ],
+  "description": "Replace trim if you change flooring heights, if wood is split or water-damaged, or if heavy paint buildup obscures architectural details beyond repair."
+}

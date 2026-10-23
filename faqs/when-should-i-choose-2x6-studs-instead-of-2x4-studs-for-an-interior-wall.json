@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-choose-2x6-studs-instead-of-2x4-studs-for-an-interior-wall",
+  "name": "When should I choose 2x6 studs instead of 2x4 studs for an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose 2x6 studs instead of 2x4 studs for an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose 2x6 framing when running three-inch plumbing waste lines, recessed medicine cabinets, or heavy soundproofing layers. Standard 2x4 framing works for most interior room dividers, closet enclosures, and non-plumbing partitions, preserving more usable floor space in smaller rooms. However, a 2x4 stud bay leaves little room for thick plumbing vent stacks without compromising stud integrity, and it limits the depth of sound insulation batts. Weighing floor square footage loss against utility requirements determines the right lumber dimension.",
+        "@type": "Answer",
+        "description": "Use 2x6 studs when housing large plumbing drains, recessed cabinetry, pocket doors, or enhanced acoustic insulation; standard 2x4 studs work best for simple space dividers."
+      }
+    }
+  ],
+  "description": "Use 2x6 studs when housing large plumbing drains, recessed cabinetry, pocket doors, or enhanced acoustic insulation; standard 2x4 studs work best for simple spa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-soon-after-a-storm-can-new-drywall-be-hung",
+  "name": "How soon after a storm can new drywall be hung?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after a storm can new drywall be hung?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall installation cannot begin until the roof or window leak is repaired and framing studs register normal moisture levels. Hanging new drywall over damp studs or wet insulation traps moisture inside the wall cavity, leading to rot, warped boards, and mold growth within days. Contractors typically run dehumidifiers and air movers for 24 to 72 hours after demo to dry the structural framing thoroughly. Only after the framing is verified dry is it safe to install fresh insulation, hang new drywall sheets, and apply joint compound.",
+        "@type": "Answer",
+        "description": "New drywall can only be installed once the exterior leak is sealed and the internal framing studs have completely dried, which usually takes 1 to 3 days after demolition."
+      }
+    }
+  ],
+  "description": "New drywall can only be installed once the exterior leak is sealed and the internal framing studs have completely dried, which usually takes 1 to 3 days after d"
+}

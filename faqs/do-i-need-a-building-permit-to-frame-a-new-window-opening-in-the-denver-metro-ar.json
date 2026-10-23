@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-frame-a-new-window-opening-in-the-denver-metro-ar",
+  "name": "Do I need a building permit to frame a new window opening in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to frame a new window opening in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver area communities like Centennial, Littleton, and Parker, local building departments typically require a building permit whenever you alter structural framing or change the building envelope. Cutting studs in an exterior wall to add or widen an opening modifies the home's structural framing and shear resistance. Pulling a permit ensures framing details—like header spans and fastening—and window energy metrics meet local codes. It also protects your home's resale value by providing documented inspection sign-offs. Always confirm local municipal guidelines before beginning structural framing.",
+        "@type": "Answer",
+        "description": "Yes, municipal building departments across the Denver metro area generally require permits for altering structural exterior framing or cutting new wall openings."
+      }
+    }
+  ],
+  "description": "Yes, municipal building departments across the Denver metro area generally require permits for altering structural exterior framing or cutting new wall openings"
+}

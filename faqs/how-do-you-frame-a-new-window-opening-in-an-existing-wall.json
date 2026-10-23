@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-frame-a-new-window-opening-in-an-existing-wall",
+  "name": "How do you frame a new window opening in an existing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you frame a new window opening in an existing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a new window opening in an existing wall involves removing the interior drywall, cutting back existing wall studs, and installing structural framing components to carry the load. We install a proper header sized for the span, supported by king studs and jack studs (trimmers), along with a bottom rough sill and cripple studs. If the wall is load-bearing, we erect temporary support walls before cutting any studs to prevent ceiling or roof sagging. Once framing is secured, exterior sheathing is trimmed, opening rough dimensions are verified, and the area is ready for flashing and window installation.",
+        "@type": "Answer",
+        "description": "We remove drywall, build temporary wall supports if load-bearing, cut existing studs, and frame a rough opening with a properly sized header, king studs, jack studs, and a rough sill."
+      }
+    }
+  ],
+  "description": "We remove drywall, build temporary wall supports if load-bearing, cut existing studs, and frame a rough opening with a properly sized header, king studs, jack s"
+}

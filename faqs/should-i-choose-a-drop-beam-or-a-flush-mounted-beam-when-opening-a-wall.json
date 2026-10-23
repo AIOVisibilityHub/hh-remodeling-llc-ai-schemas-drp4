@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-drop-beam-or-a-flush-mounted-beam-when-opening-a-wall",
+  "name": "Should I choose a drop beam or a flush-mounted beam when opening a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a drop beam or a flush-mounted beam when opening a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When removing a load-bearing wall, you can choose between a drop beam or a flush hidden beam. A drop beam sits directly beneath your existing ceiling joists. It is less labor-intensive to install, which keeps remodeling labor costs down, but it leaves a visible soffit or trimmed header dividing the ceiling. A flush beam is recessed directly into the ceiling joist cavity, creating a continuous, flat ceiling plane across rooms. The tradeoff is increased labor, as every intersecting joist must be cut back and individually hung from the beam using metal joist hangers.",
+        "@type": "Answer",
+        "description": "Drop beams sit below joists and cost less to install, while flush beams fit inside the ceiling for an unbroken plane but require cutting and rehanging ceiling joists."
+      }
+    }
+  ],
+  "description": "Drop beams sit below joists and cost less to install, while flush beams fit inside the ceiling for an unbroken plane but require cutting and rehanging ceiling j"
+}

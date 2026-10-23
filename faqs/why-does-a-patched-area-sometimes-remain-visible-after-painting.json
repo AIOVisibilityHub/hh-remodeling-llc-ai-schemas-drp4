@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-does-a-patched-area-sometimes-remain-visible-after-painting",
+  "name": "Why does a patched area sometimes remain visible after painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does a patched area sometimes remain visible after painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually spot a patched area if the surface texture does not match the wall or if the paint was touched up without proper priming. Drywall mud absorbs paint differently than cured drywall paper, creating a dull spot known as flashing if no primer is applied. Additionally, flat paints blend easily during spot touch-ups, but eggshell, satin, or semi-gloss finishes reflect light differently across fresh spots. Painting the entire wall from corner to corner ensures the patch stays completely invisible.",
+        "@type": "Answer",
+        "description": "Patches remain visible if the spot was not primed before painting (causing sheen flashing) or if the repaired texture does not match the surrounding wall surface."
+      }
+    }
+  ],
+  "description": "Patches remain visible if the spot was not primed before painting (causing sheen flashing) or if the repaired texture does not match the surrounding wall surfac"
+}

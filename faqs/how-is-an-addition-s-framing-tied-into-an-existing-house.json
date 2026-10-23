@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-an-addition-s-framing-tied-into-an-existing-house",
+  "name": "How is an addition's framing tied into an existing house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is an addition's framing tied into an existing house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tying into an existing home requires carefully stripping exterior siding, anchoring bottom plates to the foundation, and mechanically securing new framing to the home's existing studs and top plates. Roof tie-ins demand particular precision: carpenters must cut back existing roof decking and integrate new rafters or valley boards to direct water away from the junction. If you are creating a pass-through between rooms, temporary support walls must be erected while a properly sized structural header is installed. This step prevents ceiling sagging and wall cracking in the existing structure.",
+        "@type": "Answer",
+        "description": "Carpenters strip back siding, anchor new wall plates to existing studs, and cut into existing roof planes to tie rafters together with proper flashing and support."
+      }
+    }
+  ],
+  "description": "Carpenters strip back siding, anchor new wall plates to existing studs, and cut into existing roof planes to tie rafters together with proper flashing and suppo"
+}

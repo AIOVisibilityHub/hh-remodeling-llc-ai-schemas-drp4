@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-check-before-planning-a-new-window-opening-in-my-home",
+  "name": "What should I check before planning a new window opening in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before planning a new window opening in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before framing an exterior window opening, identify any interior utilities running through the wall and measure exterior clearance. Check whether electrical outlets, switches, HVAC ducts, or plumbing stacks occupy the intended wall bay. On the outside, check for clear working access away from exterior utility meters, overhangs, downspouts, or landscaping. You should also confirm your window order matches your design goals and check if your local HOA or municipal building authority requires architectural review or permits for changes to the home's exterior elevation.",
+        "@type": "Answer",
+        "description": "Check for hidden plumbing or electrical lines in the wall, verify exterior clearance from utility meters, confirm your window specs, and review local HOA or permit rules."
+      }
+    }
+  ],
+  "description": "Check for hidden plumbing or electrical lines in the wall, verify exterior clearance from utility meters, confirm your window specs, and review local HOA or per"
+}

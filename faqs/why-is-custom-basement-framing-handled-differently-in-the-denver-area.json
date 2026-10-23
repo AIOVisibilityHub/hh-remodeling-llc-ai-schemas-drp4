@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-is-custom-basement-framing-handled-differently-in-the-denver-area",
+  "name": "Why is custom basement framing handled differently in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is custom basement framing handled differently in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement framing in the Denver metro area requires special construction practices due to local soil conditions that cause concrete basement slabs to move. Contractors frequently frame floating walls, which leave a space between the bottom plate and the concrete floor, secured with specialty floating plate hardware. This prevents upward foundation movement from cracking drywall or buckling upper-level structural framing. Additionally, framing against perimeter foundation walls must account for proper clearance, vapor barriers, and insulation gaps to protect against moisture intrusion before drywall installation.",
+        "@type": "Answer",
+        "description": "Denver area soils often require floating basement walls to absorb slab movement, along with moisture protection, preventing cracked drywall and structural stress."
+      }
+    }
+  ],
+  "description": "Denver area soils often require floating basement walls to absorb slab movement, along with moisture protection, preventing cracked drywall and structural stres"
+}

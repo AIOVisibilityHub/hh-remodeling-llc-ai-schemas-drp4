@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-finish-carpenters-handle-uneven-walls-or-out-of-square-corners",
+  "name": "How do finish carpenters handle uneven walls or out-of-square corners?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do finish carpenters handle uneven walls or out-of-square corners?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A skilled finish carpenter uses scribing, shimming, back-cutting, and flexible caulking to bridge uneven drywall and out-of-square corners. In older homes or settling foundations, walls rarely meet at true 90-degree angles, and studs often bow slightly. Carpenters check angles with digital protractors or test cuts rather than assuming standard 45-degree miter cuts. Long runs of baseboard are scribed to hug wavy floors, while hollow spots behind trim are shimmed before fastening to prevent boards from twisting. Gaps along paint-grade trim are then sealed with paintable caulk for a seamless appearance.",
+        "@type": "Answer",
+        "description": "Carpenters measure exact corner angles, scribe boards along uneven surfaces, and use shims and paintable acrylic caulk to create smooth, tight seams."
+      }
+    }
+  ],
+  "description": "Carpenters measure exact corner angles, scribe boards along uneven surfaces, and use shims and paintable acrylic caulk to create smooth, tight seams."
+}

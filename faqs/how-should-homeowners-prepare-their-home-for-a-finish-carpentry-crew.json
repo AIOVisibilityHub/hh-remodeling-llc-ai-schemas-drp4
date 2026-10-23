@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-homeowners-prepare-their-home-for-a-finish-carpentry-crew",
+  "name": "How should homeowners prepare their home for a finish carpentry crew?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should homeowners prepare their home for a finish carpentry crew?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear the work areas by moving furniture, fragile decor, and window treatments away from walls and door frames. Make sure our crew has a clear path from entry doors to the workspace, as well as an accessible area—such as an empty garage, covered patio, or driveway—where miter saws and material staging can be set up safely. It is also helpful to have your preferred paint colors, profile styles, and flooring plans decided in advance so trim heights and reveal dimensions match your final design.",
+        "@type": "Answer",
+        "description": "Clear furniture away from walls, remove curtains and fragile decor, and provide an accessible area like a garage or patio for cutting tables and materials."
+      }
+    }
+  ],
+  "description": "Clear furniture away from walls, remove curtains and fragile decor, and provide an accessible area like a garage or patio for cutting tables and materials."
+}

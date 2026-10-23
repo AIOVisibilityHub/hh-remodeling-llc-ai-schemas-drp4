@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-a-level-4-and-level-5-drywall-finish",
+  "name": "How do I choose between a Level 4 and Level 5 drywall finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a Level 4 and Level 5 drywall finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 4 finish applies three coats of compound over taped joints and fasteners, sanded smooth for standard texture or flat paints. A Level 5 finish adds a full skim coat of joint compound across the entire drywall surface. This extra layer eliminates minute texture differences between the paper facing and the mudded joints. Choose Level 5 when walls face critical lighting, large windows, or when applying gloss or semi-gloss paints that otherwise reveal subtle joint banding under direct light.",
+        "@type": "Answer",
+        "description": "Choose Level 4 for standard textures and matte paint. Choose Level 5 for high-gloss paint, smooth walls, or areas with harsh, direct lighting."
+      }
+    }
+  ],
+  "description": "Choose Level 4 for standard textures and matte paint. Choose Level 5 for high-gloss paint, smooth walls, or areas with harsh, direct lighting."
+}

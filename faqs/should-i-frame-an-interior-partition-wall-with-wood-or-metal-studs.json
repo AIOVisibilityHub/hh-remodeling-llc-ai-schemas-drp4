@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-frame-an-interior-partition-wall-with-wood-or-metal-studs",
+  "name": "Should I frame an interior partition wall with wood or metal studs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I frame an interior partition wall with wood or metal studs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood studs (traditionally 2x4 framing) offer superior structural rigidity for hanging heavy items like floating vanities, upper cabinetry, grab bars, or wall-mounted televisions without special toggle hardware. Steel studs are lightweight, fire-resistant, and stay straight without warping or bowing, making them useful in commercial builds or damp basements. The tradeoff is that light-gauge metal studs require backing reinforcement or plywood plates installed inside the framing cavities before drywall if you plan to mount solid shelving, heavy mirrors, or interior doors securely.",
+        "@type": "Answer",
+        "description": "Wood provides better anchor strength for heavy shelves and cabinets, while steel framing resists warping and rot but requires pre-installed backing plates for secure mounting."
+      }
+    }
+  ],
+  "description": "Wood provides better anchor strength for heavy shelves and cabinets, while steel framing resists warping and rot but requires pre-installed backing plates for s"
+}

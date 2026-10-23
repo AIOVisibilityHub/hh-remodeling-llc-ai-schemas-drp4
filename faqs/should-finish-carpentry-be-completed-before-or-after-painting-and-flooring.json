@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-finish-carpentry-be-completed-before-or-after-painting-and-flooring",
+  "name": "Should finish carpentry be completed before or after painting and flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should finish carpentry be completed before or after painting and flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right order depends on the specific project, but standard practice is to install baseboards and door casings after hard flooring or carpet tack strips are laid, while crown molding can go up earlier. Installing trim after flooring ensures baseboards sit flush against the finished floor surface without awkward gaps. A practical tradeoff to consider: pre-painting trim before installation saves substantial time, but nail holes, miters, and seams still require patching, caulking, and a final paint coat on-site once installed. Our team often coordinates both finish carpentry and interior painting to streamline this sequence.",
+        "@type": "Answer",
+        "description": "Trim and baseboards are typically installed after flooring so they fit flush. Most trim is pre-painted, then caulked, touched up, and given a final coat once secured."
+      }
+    }
+  ],
+  "description": "Trim and baseboards are typically installed after flooring so they fit flush. Most trim is pre-painted, then caulked, touched up, and given a final coat once se"
+}

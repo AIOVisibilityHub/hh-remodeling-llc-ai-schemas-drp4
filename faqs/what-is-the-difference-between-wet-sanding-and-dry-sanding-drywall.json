@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-wet-sanding-and-dry-sanding-drywall",
+  "name": "What is the difference between wet sanding and dry sanding drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wet sanding and dry sanding drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet sanding uses a dense, damp sponge to dissolve and smooth joint compound, while dry sanding uses sandpaper or sanding screens to abrade the surface flat. Wet sanding produces zero airborne dust, making it ideal for small occupied repairs or patch jobs. However, dry sanding provides a much flatter, sharper finish required for level 4 or level 5 smooth walls. Dry sanding cuts down ridges and high spots, whereas wet sanding mostly softens edges. If your project involves large-scale renovation, dry sanding paired with strict dust containment produces the standard, seamless surface necessary for clean interior painting.",
+        "@type": "Answer",
+        "description": "Wet sanding uses a damp sponge and creates no dust, while dry sanding uses abrasives to achieve a truly flat, paint-ready surface for full remodels."
+      }
+    }
+  ],
+  "description": "Wet sanding uses a damp sponge and creates no dust, while dry sanding uses abrasives to achieve a truly flat, paint-ready surface for full remodels."
+}

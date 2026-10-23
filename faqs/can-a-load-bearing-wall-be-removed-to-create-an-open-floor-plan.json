@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-load-bearing-wall-be-removed-to-create-an-open-floor-plan",
+  "name": "Can a load-bearing wall be removed to create an open floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a load-bearing wall be removed to create an open floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can safely remove a load-bearing wall, but it requires temporary shoring and structural replacement. You cannot simply demolish the studs. A temporary support wall must be constructed on one or both sides to hold the upper structure while workers cut out the framing. The load is then transferred onto an engineered wood beam (such as an LVL) or steel beam, supported by properly sized king and jack studs resting on solid footings below. This setup maintains building integrity during renovations.",
+        "@type": "Answer",
+        "description": "Yes. It requires building temporary support walls, removing the studs, and installing a properly sized structural beam and supporting posts to carry the load safely."
+      }
+    }
+  ],
+  "description": "Yes. It requires building temporary support walls, removing the studs, and installing a properly sized structural beam and supporting posts to carry the load sa"
+}

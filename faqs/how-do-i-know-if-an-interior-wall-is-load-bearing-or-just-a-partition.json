@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-an-interior-wall-is-load-bearing-or-just-a-partition",
+  "name": "How do I know if an interior wall is load-bearing or just a partition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if an interior wall is load-bearing or just a partition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify a load-bearing wall by checking attic rafters, ceiling joists, and foundation supports. Walls running perpendicular to ceiling joists or positioned directly above foundation beams or lower-level bearing walls usually carry weight. In contrast, non-load-bearing partition walls usually run parallel to joists above them. Before cutting into drywall or planning an open-concept layout, an on-site evaluation confirms whether a wall carries structural weight, roof loads, or second-story loads, preventing sag or catastrophic framing failure during demolition.",
+        "@type": "Answer",
+        "description": "Walls running perpendicular to ceiling joists or sitting directly over foundation beams are usually load-bearing. An on-site framing assessment confirms weight-bearing status."
+      }
+    }
+  ],
+  "description": "Walls running perpendicular to ceiling joists or sitting directly over foundation beams are usually load-bearing. An on-site framing assessment confirms weight-"
+}

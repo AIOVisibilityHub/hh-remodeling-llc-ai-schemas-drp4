@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-sand-drywall-myself-or-hire-a-professional-finish-contractor",
+  "name": "Should I sand drywall myself or hire a professional finish contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sand drywall myself or hire a professional finish contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a finish contractor makes sense when you want level 4 or level 5 smooth walls, have high ceilings, or are remodeling an entire room or basement. Sanding requires precise feathering, proper lighting, and extensive dust control to avoid visible seams under interior paint. Homeowners often tackle small patch sanding successfully with hand sponges. However, large expanses of new drywall involve repetitive overhead work and heavy airborne dust. A contractor with integrated carpentry and painting experience ensures seams disappear completely and handles priming directly after cleanup.",
+        "@type": "Answer",
+        "description": "DIY sanding works for small patch jobs, but professional finishing is recommended for full rooms, smooth walls, and seamless transitions before painting."
+      }
+    }
+  ],
+  "description": "DIY sanding works for small patch jobs, but professional finishing is recommended for full rooms, smooth walls, and seamless transitions before painting."
+}

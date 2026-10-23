@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-stick-built-framing-or-pre-engineered-trusses-for-a-small-additi",
+  "name": "Should I choose stick-built framing or pre-engineered trusses for a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose stick-built framing or pre-engineered trusses for a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most residential small additions, stick-built conventional framing is preferred over pre-manufactured trusses because it offers easier tie-ins to existing rooflines. Pre-engineered trusses work well for standalone structures or standard gables, but tying an addition into an older home often requires cutting into existing rafters and matching uneven ceiling heights. Stick framing gives carpenters the flexibility to adjust angles and tie roof planes together smoothly on-site. The tradeoff is that conventional stick framing takes more labor and carpentry skill on location compared to setting factory trusses.",
+        "@type": "Answer",
+        "description": "Stick-built framing is usually best for additions because it allows custom roof tie-ins to older homes, whereas trusses suit simple, standard roof shapes."
+      }
+    }
+  ],
+  "description": "Stick-built framing is usually best for additions because it allows custom roof tie-ins to older homes, whereas trusses suit simple, standard roof shapes."
+}

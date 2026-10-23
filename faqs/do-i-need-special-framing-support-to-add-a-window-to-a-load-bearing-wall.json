@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-special-framing-support-to-add-a-window-to-a-load-bearing-wall",
+  "name": "Do I need special framing support to add a window to a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special framing support to add a window to a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modifying or adding a window opening in a load-bearing wall requires temporary structural support and a properly engineered header. Load-bearing walls carry the weight of upper stories or roof trusses down to the foundation. When studs are removed to create a rough opening, that downward weight must be redirected outward to jack studs and the foundation. A failure to build temporary shoring or installing an undersized header can cause cracked drywall, warped doorframes, or roofline sagging. Professional framing ensures the span and header dimensions meet your specific structural load requirements.",
+        "@type": "Answer",
+        "description": "Yes. Load-bearing walls require temporary shoring walls while cutting and a structurally sized header with jack and king studs to properly transfer ceiling and roof loads."
+      }
+    }
+  ],
+  "description": "Yes. Load-bearing walls require temporary shoring walls while cutting and a structurally sized header with jack and king studs to properly transfer ceiling and"
+}

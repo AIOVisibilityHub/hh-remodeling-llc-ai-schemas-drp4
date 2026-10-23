@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-modifying-an-existing-structural-wall-differ-from-framing-a-brand-new-w",
+  "name": "How does modifying an existing structural wall differ from framing a brand new wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does modifying an existing structural wall differ from framing a brand new wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing an entirely new wall addition typically moves faster than altering an existing structural wall. Building a new wall involves laying top and bottom plates, anchoring them, and securing vertical studs on 16-inch centers. Modifying or removing a load-bearing wall introduces significant complexity: workers must protect finished floors, erect temporary shoring walls, carefully cut away old lumber, hoist heavy LVL headers into place, and securely fasten framing hardware. While new framing is straightforward, structural modifications require precise sequencing to prevent ceiling movement.",
+        "@type": "Answer",
+        "description": "New walls involve direct assembly and fastening, while modifying existing structural walls requires temporary shoring, careful load transfer, and installing support beams."
+      }
+    }
+  ],
+  "description": "New walls involve direct assembly and fastening, while modifying existing structural walls requires temporary shoring, careful load transfer, and installing sup"
+}

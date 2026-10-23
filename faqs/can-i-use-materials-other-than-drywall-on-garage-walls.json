@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-use-materials-other-than-drywall-on-garage-walls",
+  "name": "Can I use materials other than drywall on garage walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use materials other than drywall on garage walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall remains the most popular finish because it provides a smooth, paintable surface and satisfies residential fire-separation codes, but you can incorporate alternative materials like slatwall panels, pegboards, or wood wainscoting. Slatwall provides flexible, wall-to-wall tool storage, but it is typically installed over finished drywall rather than directly on studs along shared home walls to maintain fire resistance. Many homeowners choose drywall for the main envelope and add targeted wood backing or paneling along dedicated workbench and workshop zones.",
+        "@type": "Answer",
+        "description": "Yes, but drywall is usually required first on shared walls for fire safety; panels like slatwall or beadboard can be layered on top for organization."
+      }
+    }
+  ],
+  "description": "Yes, but drywall is usually required first on shared walls for fire safety; panels like slatwall or beadboard can be layered on top for organization."
+}

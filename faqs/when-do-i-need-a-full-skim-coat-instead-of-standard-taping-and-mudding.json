@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-a-full-skim-coat-instead-of-standard-taping-and-mudding",
+  "name": "When do I need a full skim coat instead of standard taping and mudding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a full skim coat instead of standard taping and mudding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full skim coat is needed when you want completely smooth walls under non-flat paint, when removing wallpaper has damaged the outer paper layer, or when you are smoothing out older textured walls. It is also necessary in rooms with large windows or direct artificial lighting where glancing light highlights seam transitions. If your planned finish is a standard knock-down texture, orange peel, or flat interior paint, a standard Level 4 finish is usually sufficient without the extra cost of skim coating.",
+        "@type": "Answer",
+        "description": "You need a skim coat when smoothing rough walls, repairing paper damage, applying semi-gloss or dark paints, or placing walls under direct, glancing light."
+      }
+    }
+  ],
+  "description": "You need a skim coat when smoothing rough walls, repairing paper damage, applying semi-gloss or dark paints, or placing walls under direct, glancing light."
+}

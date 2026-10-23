@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-water-damaged-drywall-from-a-storm-be-dried-out-or-does-it-have-to-be-replac",
+  "name": "Can water-damaged drywall from a storm be dried out, or does it have to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged drywall from a storm be dried out, or does it have to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must replace drywall if it has buckled, sagged, softened, or remained wet for more than 48 hours after a storm. Gypsum board loses structural integrity once thoroughly saturated, creating a breeding ground for mold behind walls. Small surface splashes from an open window might dry out if caught immediately, but storm water entering through roofs, siding, or foundation walls saturates the framing and insulation behind the board. If the wall feels spongy or shows discoloration, removing the affected sheets and wet insulation is the safest path forward.",
+        "@type": "Answer",
+        "description": "Drywall must be replaced if it has softened, sagged, or stayed damp for over 48 hours. Saturated gypsum loses integrity and fosters mold behind the wall."
+      }
+    }
+  ],
+  "description": "Drywall must be replaced if it has softened, sagged, or stayed damp for over 48 hours. Saturated gypsum loses integrity and fosters mold behind the wall."
+}

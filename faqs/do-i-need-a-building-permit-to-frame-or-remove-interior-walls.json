@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-frame-or-remove-interior-walls",
+  "name": "Do I need a building permit to frame or remove interior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to frame or remove interior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need a building permit if you are removing a load-bearing wall, creating new rooms, or altering your home's structural layout. Non-structural partition walls added inside an existing finished room may have different requirements depending on local municipal building codes across the Denver metro area. However, whenever framing involves adding new electrical circuits, outlets, or rough plumbing lines inside the new stud bays, trade permits and inspections are mandatory. Working with a general contractor ensures framing conforms to regional codes and passes necessary rough-in inspections before drywall installation begins.",
+        "@type": "Answer",
+        "description": "Permits are generally required when altering structural walls or adding new framed rooms that involve electrical and plumbing rough-ins."
+      }
+    }
+  ],
+  "description": "Permits are generally required when altering structural walls or adding new framed rooms that involve electrical and plumbing rough-ins."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-paint-directly-over-drywall-right-after-sanding",
+  "name": "Can you paint directly over drywall right after sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint directly over drywall right after sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should never paint over drywall immediately after sanding without thoroughly removing dust and applying a dedicated drywall primer. Sanding leaves a fine layer of gypsum powder across walls and trim. If you apply finish paint directly over this dust, the paint bonds to the loose powder rather than the wall, leading to bubbling and peeling. First, vacuum the walls using a soft brush attachment and wipe them with a slightly damp or dry microfiber cloth. Next, apply a sealing drywall primer to equalize porosity between bare paper and compound before painting.",
+        "@type": "Answer",
+        "description": "No. You must thoroughly remove all sanding dust and apply a dedicated drywall primer first, or the paint will bond to dust and peel off later."
+      }
+    }
+  ],
+  "description": "No. You must thoroughly remove all sanding dust and apply a dedicated drywall primer first, or the paint will bond to dust and peel off later."
+}

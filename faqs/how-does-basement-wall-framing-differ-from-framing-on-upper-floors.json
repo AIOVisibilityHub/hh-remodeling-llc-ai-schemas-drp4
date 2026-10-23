@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-basement-wall-framing-differ-from-framing-on-upper-floors",
+  "name": "How does basement wall framing differ from framing on upper floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does basement wall framing differ from framing on upper floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing basement walls requires a treated bottom plate, a continuous moisture barrier, and proper thermal insulation detailing to protect against basement dampness. Because concrete draws moisture from the surrounding earth, standard untreated lumber cannot make direct contact with the slab. The bottom plate must be pressure-treated wood anchored to the floor over a foam sill gasket. Leaving a slight air gap between the concrete foundation and the wood studs prevents moisture transfer, and applying rigid foam or spray insulation helps manage seasonal temperature swings common in Colorado basements.",
+        "@type": "Answer",
+        "description": "Basement framing requires pressure-treated bottom plates, sill gaskets against concrete, and proper moisture barriers to handle ground dampness."
+      }
+    }
+  ],
+  "description": "Basement framing requires pressure-treated bottom plates, sill gaskets against concrete, and proper moisture barriers to handle ground dampness."
+}

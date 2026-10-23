@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-do-i-need-to-decide-before-framing-begins-on-my-bathroom-or-kitchen",
+  "name": "What do I need to decide before framing begins on my bathroom or kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to decide before framing begins on my bathroom or kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your framing contractor arrives, you should finalize your fixture layout, clear personal belongings, and identify where heavy items will hang. Knowing the exact locations of vanity mirrors, wall-hung cabinets, grab bars, or heavy artwork allows the carpentry crew to install solid wood backing between studs before the drywall goes up. You should also confirm any changes to door sizes or pocket door placements. Gathering your appliance and bathroom fixture specification sheets beforehand ensures that rough wall openings and plumbing chases are framed to exact dimensions.",
+        "@type": "Answer",
+        "description": "Finalize your layout, door styles, and cabinet plans so your contractor can frame exact openings and add solid backing for heavy fixtures before drywalling."
+      }
+    }
+  ],
+  "description": "Finalize your layout, door styles, and cabinet plans so your contractor can frame exact openings and add solid backing for heavy fixtures before drywalling."
+}

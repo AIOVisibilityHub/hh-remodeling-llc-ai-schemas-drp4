@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-it-better-to-hang-drywall-horizontally-or-vertically",
+  "name": "Is it better to hang drywall horizontally or vertically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to hang drywall horizontally or vertically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hanging drywall horizontally is the industry standard for residential walls with eight- or nine-foot ceilings. Installing sheets horizontally reduces the total linear footage of seams by roughly twenty-five percent, resulting in fewer joints to tape and sand. Horizontal placement also puts seams at waist height, making taping more consistent, and helps span slight framing variations across multiple studs. Vertical hanging is generally reserved for commercial metal-stud framing, tall commercial walls, or narrow vertical chases where horizontal joints would create unnecessary structural breaks.",
+        "@type": "Answer",
+        "description": "Hanging drywall horizontally on residential walls is best because it creates fewer seams, conceals framing imperfections, and simplifies mudding."
+      }
+    }
+  ],
+  "description": "Hanging drywall horizontally on residential walls is best because it creates fewer seams, conceals framing imperfections, and simplifies mudding."
+}

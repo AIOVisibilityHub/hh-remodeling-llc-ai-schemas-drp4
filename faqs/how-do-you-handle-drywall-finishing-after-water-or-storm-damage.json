@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-handle-drywall-finishing-after-water-or-storm-damage",
+  "name": "How do you handle drywall finishing after water or storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle drywall finishing after water or storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repairs after water damage require complete removal of all wet or mold-affected sheetrock and insulation down to bare studs. The wall cavity must dry out fully, and any plumbing leaks or exterior water entry must be repaired before closing the wall. Once dry, new drywall is hung, secured, taped, and finished to match the surrounding wall thickness and texture. Painting over damp compound or compromised drywall leads to mold growth and tape separation.",
+        "@type": "Answer",
+        "description": "Damaged drywall is removed, the cavity is fully dried and treated, then new panels are hung, taped, mudded, and textured to blend into adjacent walls."
+      }
+    }
+  ],
+  "description": "Damaged drywall is removed, the cavity is fully dried and treated, then new panels are hung, taped, mudded, and textured to blend into adjacent walls."
+}

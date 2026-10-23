@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-damaged-drywall-be-patched-or-does-the-entire-wall-need-replacement",
+  "name": "Can damaged drywall be patched, or does the entire wall need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can damaged drywall be patched, or does the entire wall need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to patch or replace depends on the extent of the damage and underlying wall structure. Minor punctures, small settlement cracks, or isolated holes from plumbing repairs can be cleanly patched and blended into the existing wall texture. However, if the drywall has widespread water damage, sagging from ceiling joists, mold contamination, or requires extensive rewiring access across a room, full panel replacement is usually more practical. In major basement or bathroom remodels, hanging new sheets ensures straight seams, uniform surface flatness, and proper backing for tile or trim.",
+        "@type": "Answer",
+        "description": "Small holes and isolated cracks can usually be patched and blended, but extensive water damage, mold, or structural sagging often requires replacing the entire drywall sheet."
+      }
+    }
+  ],
+  "description": "Small holes and isolated cracks can usually be patched and blended, but extensive water damage, mold, or structural sagging often requires replacing the entire"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-a-contractor-starts-wall-framing",
+  "name": "What should I prepare before a contractor starts wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a contractor starts wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a framing contractor arrives, clear the entire work area of furniture, personal items, and any existing flooring you plan to save. If the project involves framing over an unfinished basement concrete slab, check for moisture issues, efflorescence, or cracks that need sealing first. Clearly mark or discuss your preferred layout, including door swing directions, intended closet depths, and where you plan to mount heavy items like floating vanities or flat-screen TVs. Knowing these details ahead of time allows the framers to install solid blocking between studs right from the start.",
+        "@type": "Answer",
+        "description": "Clear the workspace, resolve any floor moisture issues, and identify where doors, closets, and heavy wall-mounted fixtures will go so blocking can be added."
+      }
+    }
+  ],
+  "description": "Clear the workspace, resolve any floor moisture issues, and identify where doors, closets, and heavy wall-mounted fixtures will go so blocking can be added."
+}

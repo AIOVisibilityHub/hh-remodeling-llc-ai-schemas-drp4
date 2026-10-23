@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-messy-is-drywall-finishing-and-how-is-dust-managed",
+  "name": "How messy is drywall finishing, and how is dust managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How messy is drywall finishing, and how is dust managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall mud generates fine airborne dust when sanded, but contractors manage it by sealing off doorways with plastic barriers, covering HVAC vents, and masking floors. Crews also use dust-controlled sanding techniques or vacuums to collect particles at the source. Once sanding finishes, surfaces are wiped clean to prevent dust from interfering with primer adhesion. Homeowners should plan to clear personal items, furniture, and wall decor out of the work area before the crew arrives.",
+        "@type": "Answer",
+        "description": "Drywall sanding creates fine dust, but contractors contain it using plastic containment barriers, floor protection, covered vents, and dust-control sanding tools."
+      }
+    }
+  ],
+  "description": "Drywall sanding creates fine dust, but contractors contain it using plastic containment barriers, floor protection, covered vents, and dust-control sanding tool"
+}

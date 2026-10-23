@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-add-an-interior-partition-wall-in-aurora-or-denve",
+  "name": "Do I need a building permit to add an interior partition wall in Aurora or Denver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to add an interior partition wall in Aurora or Denver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partition walls typically do not carry building structural loads, but standard local building codes throughout Denver, Aurora, and Arapahoe County frequently mandate building permits if the wall alters floor plan circulation, adds enclosed bedrooms, or introduces new electrical switches and outlets. Added bedrooms require verified emergency egress windows, smoke detector placement, and closet ventilation clearance. Contacting your local building department or having your general contractor verify permit needs ensures additions remain fully compliant for future home sales.",
+        "@type": "Answer",
+        "description": "Permits are usually required if the partition creates a new bedroom, alters emergency egress routes, or includes new electrical wiring, plumbing, or HVAC supply runs."
+      }
+    }
+  ],
+  "description": "Permits are usually required if the partition creates a new bedroom, alters emergency egress routes, or includes new electrical wiring, plumbing, or HVAC supply"
+}
