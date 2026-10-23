@@ -1,7 +1,10 @@
 {
-  "url": "https://www.hhremodelingcolorado.com",
-  "name": "HH Remodeling LLC",
+  "@context": "https://schema.org",
   "@type": "Organization",
+  "name": "HH Remodeling LLC",
+  "url": "https://www.hhremodelingcolorado.com",
+  "description": "Abraham Becerra is the owner and hands-on general/finish contractor behind HH Remodeling LLC, a residential remodeling company based in Aurora, Colorado and serving the greater Denver area. Founded in 2017 and listed as a BBB Accredited Business with an A+ rating, HH Remodeling specializes in full-scope kitchen and bathroom renovations, basement and garage remodels, and detailed interior finish work including custom framing, drywall installation and repair, tile and marble installation, finish carpentry, molding, and interior painting. Operating as a small, owner-operated business, Abraham acts as both the principal contact and on-site lead for many projects, coordinating sub-trades for plumbing and electrical while his crew focuses on carpentry, tile, drywall, and paint. In addition to standard home improvements and room additions, the company provides handyman and home repair services, mobile home repair, disability and accessibility modifications, foreclosed property rehab, log and cabin refinishing, and storm-damage restoration support, positioning itself as a single point of contact for most interior remodeling and repair needs at reasonable prices.",
+  "telephone": "303-505-0866",
   "sameAs": [
     "https://www.bbb.org/us/co/aurora/profile/remodel-contractors/hh-remodeling-llc-1296-90266666",
     "https://www.yelp.com/biz/hh-remodeling-denver",
@@ -17,2780 +20,2785 @@
     "https://drywallprocenter.com/contractors/hh-remodeling-llc-772643/",
     "https://www.zerofi.ai/pro/hh-remodeling-llc-aurora-co-7fd4f495-968b-4b71-a922-e12993be73d1",
     "https://www.mapquest.com/us/colorado/hh-remodeling-422071268",
-    "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo"
+    "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo",
+    "https://www.aiovisibility.net/profiles/hh-remodeling-llc",
+    "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/",
+    "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/index.html",
+    "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas",
+    "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/",
+    "https://zenodo.org/records/23605001",
+    "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/",
+    "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4/blob/main/README.md"
   ],
-  "@context": "https://schema.org",
-  "telephone": "303-505-0866",
   "areaServed": [
     {
-      "name": "Denver",
-      "@type": "City"
+      "@type": "City",
+      "name": "Denver"
     },
     {
-      "name": "Centennial",
-      "@type": "City"
+      "@type": "City",
+      "name": "Centennial"
     },
     {
-      "name": "Greenwood Village",
-      "@type": "City"
+      "@type": "City",
+      "name": "Greenwood Village"
     },
     {
-      "name": "Foxfield",
-      "@type": "City"
+      "@type": "City",
+      "name": "Foxfield"
     },
     {
-      "name": "Parker",
-      "@type": "City"
+      "@type": "City",
+      "name": "Parker"
     },
     {
-      "name": "Glendale",
-      "@type": "City"
+      "@type": "City",
+      "name": "Glendale"
     },
     {
-      "name": "Commerce City",
-      "@type": "City"
+      "@type": "City",
+      "name": "Commerce City"
     },
     {
-      "name": "Englewood",
-      "@type": "City"
+      "@type": "City",
+      "name": "Englewood"
     },
     {
-      "name": "Sheridan",
-      "@type": "City"
+      "@type": "City",
+      "name": "Sheridan"
     },
     {
-      "name": "Littleton",
-      "@type": "City"
+      "@type": "City",
+      "name": "Littleton"
     },
     {
-      "name": "Highlands Ranch",
-      "@type": "City"
+      "@type": "City",
+      "name": "Highlands Ranch"
     },
     {
-      "name": "Lone Tree",
-      "@type": "City"
+      "@type": "City",
+      "name": "Lone Tree"
     },
     {
-      "name": "Cherry Hills Village",
-      "@type": "City"
+      "@type": "City",
+      "name": "Cherry Hills Village"
     },
     {
-      "name": "Bow Mar",
-      "@type": "City"
+      "@type": "City",
+      "name": "Bow Mar"
     },
     {
-      "name": "Columbine Valley",
-      "@type": "City"
+      "@type": "City",
+      "name": "Columbine Valley"
     },
     {
-      "name": "Southglenn",
-      "@type": "City"
+      "@type": "City",
+      "name": "Southglenn"
     },
     {
-      "name": "Meridian",
-      "@type": "City"
+      "@type": "City",
+      "name": "Meridian"
     },
     {
-      "name": "Castlewood",
-      "@type": "City"
+      "@type": "City",
+      "name": "Castlewood"
     },
     {
-      "name": "Dove Valley",
-      "@type": "City"
+      "@type": "City",
+      "name": "Dove Valley"
     },
     {
-      "name": "Watkins",
-      "@type": "City"
+      "@type": "City",
+      "name": "Watkins"
     },
     {
-      "name": "Bennett",
-      "@type": "City"
+      "@type": "City",
+      "name": "Bennett"
     },
     {
-      "name": "Strasburg",
-      "@type": "City"
+      "@type": "City",
+      "name": "Strasburg"
     },
     {
-      "name": "Thornton",
-      "@type": "City"
+      "@type": "City",
+      "name": "Thornton"
     },
     {
-      "name": "Northglenn",
-      "@type": "City"
+      "@type": "City",
+      "name": "Northglenn"
     },
     {
-      "name": "Federal Heights",
-      "@type": "City"
+      "@type": "City",
+      "name": "Federal Heights"
     },
     {
-      "name": "Westminster",
-      "@type": "City"
+      "@type": "City",
+      "name": "Westminster"
     },
     {
-      "name": "Arvada",
-      "@type": "City"
+      "@type": "City",
+      "name": "Arvada"
     },
     {
-      "name": "Lakewood",
-      "@type": "City"
+      "@type": "City",
+      "name": "Lakewood"
     },
     {
-      "name": "Golden",
-      "@type": "City"
+      "@type": "City",
+      "name": "Golden"
     },
     {
-      "name": "Edgewater",
-      "@type": "City"
+      "@type": "City",
+      "name": "Edgewater"
     },
     {
-      "name": "Mountain View",
-      "@type": "City"
+      "@type": "City",
+      "name": "Mountain View"
     },
     {
-      "name": "Wheat Ridge",
-      "@type": "City"
+      "@type": "City",
+      "name": "Wheat Ridge"
     },
     {
-      "name": "Broomfield",
-      "@type": "City"
+      "@type": "City",
+      "name": "Broomfield"
     },
     {
-      "name": "Louisville",
-      "@type": "City"
+      "@type": "City",
+      "name": "Louisville"
     },
     {
-      "name": "Lafayette",
-      "@type": "City"
+      "@type": "City",
+      "name": "Lafayette"
     },
     {
-      "name": "Erie",
-      "@type": "City"
+      "@type": "City",
+      "name": "Erie"
     },
     {
-      "name": "Firestone",
-      "@type": "City"
+      "@type": "City",
+      "name": "Firestone"
     },
     {
-      "name": "Frederick",
-      "@type": "City"
+      "@type": "City",
+      "name": "Frederick"
     },
     {
-      "name": "Longmont",
-      "@type": "City"
+      "@type": "City",
+      "name": "Longmont"
     },
     {
-      "name": "Boulder",
-      "@type": "City"
+      "@type": "City",
+      "name": "Boulder"
     },
     {
-      "name": "Superior",
-      "@type": "City"
+      "@type": "City",
+      "name": "Superior"
     },
     {
-      "name": "Elizabeth",
-      "@type": "City"
+      "@type": "City",
+      "name": "Elizabeth"
     },
     {
-      "name": "Kiowa",
-      "@type": "City"
+      "@type": "City",
+      "name": "Kiowa"
     },
     {
-      "name": "Byers",
-      "@type": "City"
+      "@type": "City",
+      "name": "Byers"
     },
     {
-      "name": "Deer Trail",
-      "@type": "City"
+      "@type": "City",
+      "name": "Deer Trail"
     },
     {
-      "name": "Castle Rock",
-      "@type": "City"
+      "@type": "City",
+      "name": "Castle Rock"
     },
     {
-      "name": "Franktown",
-      "@type": "City"
+      "@type": "City",
+      "name": "Franktown"
     },
     {
-      "name": "Larkspur",
-      "@type": "City"
+      "@type": "City",
+      "name": "Larkspur"
     },
     {
-      "name": "Sedalia",
-      "@type": "City"
+      "@type": "City",
+      "name": "Sedalia"
     },
     {
-      "name": "Monument",
-      "@type": "City"
+      "@type": "City",
+      "name": "Monument"
     },
     {
-      "name": "Palmer Lake",
-      "@type": "City"
+      "@type": "City",
+      "name": "Palmer Lake"
     },
     {
-      "name": "Fountain",
-      "@type": "City"
+      "@type": "City",
+      "name": "Fountain"
     },
     {
-      "name": "Security-Widefield",
-      "@type": "City"
+      "@type": "City",
+      "name": "Security-Widefield"
     },
     {
-      "name": "Colorado Springs",
-      "@type": "City"
-    }
-  ],
-  "description": "Abraham Becerra is the owner and hands-on general/finish contractor behind HH Remodeling LLC, a residential remodeling company based in Aurora, Colorado and serving the greater Denver area. Founded in 2017 and listed as a BBB Accredited Business with an A+ rating, HH Remodeling specializes in full-scope kitchen and bathroom renovations, basement and garage remodels, and detailed interior finish work including custom framing, drywall installation and repair, tile and marble installation, finish carpentry, molding, and interior painting. Operating as a small, owner-operated business, Abraham acts as both the principal contact and on-site lead for many projects, coordinating sub-trades for plumbing and electrical while his crew focuses on carpentry, tile, drywall, and paint. In addition to standard home improvements and room additions, the company provides handyman and home repair services, mobile home repair, disability and accessibility modifications, foreclosed property rehab, log and cabin refinishing, and storm-damage restoration support, positioning itself as a single point of contact for most interior remodeling and repair needs at reasonable prices.",
-  "hasCredential": [
-    {
-      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc",
-      "name": "Town of Parker Contractor License AEC8447",
-      "@type": "EducationalOccupationalCredential",
-      "recognizedBy": {
-        "name": "Town of Parker",
-        "@type": "Organization"
-      }
-    },
-    {
-      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc",
-      "name": "Douglas County General C Contractor License C170054",
-      "@type": "EducationalOccupationalCredential",
-      "recognizedBy": {
-        "name": "Douglas County",
-        "@type": "Organization"
-      }
+      "@type": "City",
+      "name": "Colorado Springs"
     }
   ],
   "hasOfferCatalog": {
-    "name": "HH Remodeling LLC Services",
     "@type": "OfferCatalog",
+    "name": "HH Remodeling LLC Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Full Kitchen Remodels",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Full Kitchen Remodels"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Layout Updates",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Layout Updates"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Cabinet Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Cabinet Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Cabinet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Cabinet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Cabinet Replacement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Cabinet Replacement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Countertop Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Countertop Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Countertop Replacement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Countertop Replacement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Backsplash Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Backsplash Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Backsplash Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Backsplash Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Drywall Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Drywall Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Molding Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Molding Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Door Frame Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Door Frame Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Sink And Faucet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Sink And Faucet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Appliance Layout Planning",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Appliance Layout Planning"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Appliance Hookup Coordination",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Appliance Hookup Coordination"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Additions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Additions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Full Bathroom Remodels",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Full Bathroom Remodels"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Tub Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Tub Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Tub Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Tub Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Shower Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Shower Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Shower Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Shower Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Vanity Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Vanity Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Countertop Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Countertop Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Tile And Stone Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Tile And Stone Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Floor Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Floor Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Wall Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Wall Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Shower Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Shower Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Marble Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Marble Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Waterproofing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Waterproofing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Fixture Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Fixture Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Drywall Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Drywall Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Molding Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Molding Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Door Frame Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Door Frame Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Additions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Additions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Custom Design",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Custom Design"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Interior Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Interior Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Wall Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Wall Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Ceiling Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Ceiling Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Drywall Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Drywall Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Drywall Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Drywall Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Door Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Door Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Molding Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Molding Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Door Frame Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Door Frame Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Basement Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Basement Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Conversions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Conversions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Interior Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Interior Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Wall Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Wall Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Insulation Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Insulation Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Drywall Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Drywall Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Door Installation Or Upgrade",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Door Installation Or Upgrade"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Door Frame Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Door Frame Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Interior Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Interior Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Patching",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Patching"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Taping And Mudding",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Taping And Mudding"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Sanding",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Sanding"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Texture Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Texture Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "New Drywall Hanging",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "New Drywall Hanging"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Restoration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Restoration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Drywall Remodeling Work",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Drywall Remodeling Work"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Storm Related Drywall Replacement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Storm Related Drywall Replacement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Finish Carpentry",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Finish Carpentry"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Finish Carpentry Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Finish Carpentry Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Custom Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Custom Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Structural Wall Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Structural Wall Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wall Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wall Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Partition Wall Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Partition Wall Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Opening Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Opening Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Window Opening Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Window Opening Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Framing For Remodels",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Framing For Remodels"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Framing For Small Additions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Framing For Small Additions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Frame Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Frame Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Frame Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Frame Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Casing Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Casing Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Window Casing Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Window Casing Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Custom Trim Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Custom Trim Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Trim Repair And Replacement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Trim Repair And Replacement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Trim Work",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Trim Work"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Molding Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Molding Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Custom Molding Work",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Custom Molding Work"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Crown Molding Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Crown Molding Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Baseboard Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Baseboard Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wainscoting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wainscoting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Built In Shelving Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Built In Shelving Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Finishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Finishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Ceramic Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Ceramic Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Porcelain Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Porcelain Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Natural Stone Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Natural Stone Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Marble Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Marble Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Tile And Marble Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Tile And Marble Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Floor Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Floor Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wall Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wall Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Shower Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Shower Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Backsplash Tile Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Backsplash Tile Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Grout Application And Sealing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Grout Application And Sealing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Residential Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Residential Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Wall Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Wall Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Ceiling Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Ceiling Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Trim Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Trim Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Door Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Door Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Full Interior Paint Packages",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Full Interior Paint Packages"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Paint Touch Ups",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Paint Touch Ups"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Remodel Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Remodel Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Storm Related Painting And Finish Work",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Storm Related Painting And Finish Work"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Residential Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Residential Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Whole Home Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Whole Home Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Improvement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Improvement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Layout Reconfiguration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Layout Reconfiguration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Single Room Interior Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Single Room Interior Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Multi Room Interior Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Multi Room Interior Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Additions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Additions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Additions",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Additions"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Addition Planning",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Addition Planning"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Addition Framing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Addition Framing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Room Addition Drywall And Finish Work",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Room Addition Drywall And Finish Work"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Residential General Contracting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Residential General Contracting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "General Contractor Services",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "General Contractor Services"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "General Contractor Project Management",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "General Contractor Project Management"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Construction Services",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Construction Services"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Sub Trade Coordination For Plumbing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Sub Trade Coordination For Plumbing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Sub Trade Coordination For Electrical",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Sub Trade Coordination For Electrical"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Permit And Inspection Coordination Support",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Permit And Inspection Coordination Support"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Handyman Services",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Handyman Services"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Handyman Repair Tasks",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Handyman Repair Tasks"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Property Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Property Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "General Home Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "General Home Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Home Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Home Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Minor Home Repairs",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Minor Home Repairs"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Wear And Tear Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Wear And Tear Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Adjustment And Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Adjustment And Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Trim Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Trim Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Molding Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Molding Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Small Drywall Repairs",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Small Drywall Repairs"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Small Paint Touch Ups",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Small Paint Touch Ups"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Minor Framing Adjustments",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Minor Framing Adjustments"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Maintenance For Rental Properties",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Maintenance For Rental Properties"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Maintenance For Residential Properties",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Maintenance For Residential Properties"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Damage Repair For Sale Or Rental Preparation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Damage Repair For Sale Or Rental Preparation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Restoration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Restoration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Restoration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Restoration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Property Restoration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Property Restoration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Restoration Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Restoration Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Restoration Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Restoration Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Damage Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Damage Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Water Damage Interior Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Water Damage Interior Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Storm Damage Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Storm Damage Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Emergency Storm Damage Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Emergency Storm Damage Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Emergency Interior Storm Damage Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Emergency Interior Storm Damage Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Insurance Coordinated Interior Restoration",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Insurance Coordinated Interior Restoration"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Interior Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Interior Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Wall And Ceiling Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Wall And Ceiling Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Drywall Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Drywall Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Flooring Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Flooring Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Trim Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Trim Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobile Home Trim And Door Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobile Home Trim And Door Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Interior Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Interior Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Painting",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Painting"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Kitchen Refresh",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Kitchen Refresh"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Foreclosed Property Bathroom Refresh",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Foreclosed Property Bathroom Refresh"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Rental Property Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Rental Property Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Rental Property Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Rental Property Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log Home Refinishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log Home Refinishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log Home Interior Staining",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log Home Interior Staining"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log Home Interior Sealing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log Home Interior Sealing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log Home Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log Home Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log And Cabin Trim Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log And Cabin Trim Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log And Cabin Finish Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log And Cabin Finish Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Cabin Refinishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Cabin Refinishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Log Cabin Refinishing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Log Cabin Refinishing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Cabin Interior Staining",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Cabin Interior Staining"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Cabin Interior Sealing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Cabin Interior Sealing"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Cabin Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Cabin Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Disability Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Disability Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessibility Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessibility Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Home Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Home Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Accessibility Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Accessibility Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Bathroom Renovation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Bathroom Renovation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Bathroom Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Bathroom Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Walk In Shower Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Walk In Shower Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Low Threshold Shower Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Low Threshold Shower Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Curbless Shower Conversion",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Curbless Shower Conversion"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Tub To Shower Conversion",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Tub To Shower Conversion"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Walk In Tub Installation Coordination",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Walk In Tub Installation Coordination"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Shower Grab Bar Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Shower Grab Bar Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Toilet Grab Bar Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Toilet Grab Bar Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Safety Rail Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Safety Rail Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Shower Seat Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Shower Seat Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Fold Down Shower Seat Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Fold Down Shower Seat Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Handheld Showerhead Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Handheld Showerhead Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Adjustable Showerhead Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Adjustable Showerhead Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Comfort Height Toilet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Comfort Height Toilet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Raised Toilet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Raised Toilet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Non Slip Bathroom Flooring",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Non Slip Bathroom Flooring"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Slip Resistant Shower Flooring",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Slip Resistant Shower Flooring"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Night Light Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Night Light Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Easy Grip Faucet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Easy Grip Faucet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Lever Faucet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Lever Faucet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Vanity Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Vanity Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wheelchair Accessible Vanity Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wheelchair Accessible Vanity Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Doorway Widening",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Doorway Widening"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bathroom Threshold Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Threshold Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Home Safety Assessments",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Home Safety Assessments"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Aging In Place Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Aging In Place Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Friendly Home Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Friendly Home Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Mobility Improvement Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Mobility Improvement Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Fall Prevention Home Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Fall Prevention Home Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Whole Home Accessibility Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Whole Home Accessibility Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Barrier Free Home Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Barrier Free Home Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wheelchair Accessible Home Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wheelchair Accessible Home Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Walker Friendly Home Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Walker Friendly Home Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Home Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Home Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Home Repair Services",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Home Repair Services"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Home Maintenance Services",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Home Maintenance Services"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wheelchair Ramp Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wheelchair Ramp Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Threshold Ramp Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Threshold Ramp Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Exterior Entry Ramp Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Exterior Entry Ramp Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Ramp Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Ramp Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Threshold And Ramp Adjustments",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Threshold And Ramp Adjustments"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Front Entrance Accessibility Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Front Entrance Accessibility Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Back Entrance Accessibility Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Back Entrance Accessibility Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Garage Entry Accessibility Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Garage Entry Accessibility Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Porch Accessibility Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Porch Accessibility Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Handrail Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Handrail Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Stair Handrail Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Stair Handrail Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Outdoor Handrail Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Outdoor Handrail Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Handrail Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Handrail Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Stair Safety Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Stair Safety Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Exterior Pathway Safety Improvements",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Exterior Pathway Safety Improvements"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Driveway To Entry Access Improvements",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Driveway To Entry Access Improvements"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Exterior Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Exterior Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Doorway Widening",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Doorway Widening"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Hallway Clearance Improvements",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Hallway Clearance Improvements"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Doorway Accessibility Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Doorway Accessibility Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wheelchair Accessible Doorways",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wheelchair Accessible Doorways"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Walker Accessible Doorways",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Walker Accessible Doorways"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Frame Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Frame Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Lever Door Handle Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Lever Door Handle Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Easy Grip Door Hardware Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Easy Grip Door Hardware Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Door Threshold Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Door Threshold Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Low Profile Threshold Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Low Profile Threshold Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Threshold Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Threshold Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Floor Transition Repairs",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Floor Transition Repairs"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Floor Level Transition Improvements",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Floor Level Transition Improvements"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Interior Trip Hazard Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Interior Trip Hazard Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Trip Hazard Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Trip Hazard Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Rug Removal Support",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Rug Removal Support"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Kitchen Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Kitchen Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Senior Friendly Kitchen Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Senior Friendly Kitchen Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Wheelchair Accessible Kitchen Remodeling",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Wheelchair Accessible Kitchen Remodeling"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Clearance Improvements",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Clearance Improvements"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Pathway Widening",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Pathway Widening"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Kitchen Layout Updates",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Kitchen Layout Updates"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Lower Countertop Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Lower Countertop Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Multi Height Countertop Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Multi Height Countertop Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Kitchen Sink Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Kitchen Sink Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Knee Clearance Under Sink Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Knee Clearance Under Sink Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Pull Out Cabinet Shelf Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Pull Out Cabinet Shelf Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Pull Down Cabinet Shelf Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Pull Down Cabinet Shelf Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Lazy Susan Cabinet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Lazy Susan Cabinet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Soft Close Drawer Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Soft Close Drawer Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Easy Access Drawer Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Easy Access Drawer Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Easy Grip Cabinet Pull Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Easy Grip Cabinet Pull Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "D Shaped Cabinet Handle Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "D Shaped Cabinet Handle Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Lever Style Kitchen Faucet Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Lever Style Kitchen Faucet Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Task Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Task Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Under Cabinet Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Under Cabinet Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Kitchen Outlet Placement",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Kitchen Outlet Placement"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Non Slip Kitchen Flooring",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Non Slip Kitchen Flooring"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Kitchen Trip Hazard Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Kitchen Trip Hazard Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Appliance Space Planning",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Appliance Space Planning"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Accessibility Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Accessibility Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Safety Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Safety Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Pathway Clearance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Pathway Clearance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Night Light Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Night Light Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Bedroom Handrail Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bedroom Handrail Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Closet Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Closet Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Easy Access Closet Shelving",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Easy Access Closet Shelving"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Closet Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Closet Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Living Room Accessibility Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Living Room Accessibility Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Living Room Trip Hazard Removal",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Living Room Trip Hazard Removal"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Living Room Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Living Room Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Living Room Pathway Clearance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Living Room Pathway Clearance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Furniture Space Planning",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Furniture Space Planning"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Laundry Room Accessibility Modifications",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Laundry Room Accessibility Modifications"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessible Laundry Room Layout",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessible Laundry Room Layout"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Laundry Room Safety Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Laundry Room Safety Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Laundry Room Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Laundry Room Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Laundry Room Flooring Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Laundry Room Flooring Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Laundry Room Doorway Widening",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Laundry Room Doorway Widening"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Home Lighting Safety Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Home Lighting Safety Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Hallway Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Hallway Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Stairway Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Stairway Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Motion Sensor Lighting Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Motion Sensor Lighting Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Night Light Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Night Light Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Non Glare Lighting Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Non Glare Lighting Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Light Switch Accessibility Upgrades",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Light Switch Accessibility Upgrades"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Rocker Light Switch Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Rocker Light Switch Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Safety Lighting Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Safety Lighting Repair"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Accessibility Feature Maintenance",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Accessibility Feature Maintenance"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Non Slip Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Non Slip Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Slip Resistant Flooring Installation",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Slip Resistant Flooring Installation"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Loose Flooring Repair",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Loose Flooring Repair"
         }
       }
     ]
-  }
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Town of Parker Contractor License AEC8447",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Town of Parker"
+      },
+      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Douglas County General C Contractor License C170054",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Douglas County"
+      },
+      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc"
+    }
+  ]
 }
