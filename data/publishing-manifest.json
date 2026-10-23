@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-23T22:39:32.910Z",
+  "generatedAt": "2026-10-23T22:46:01.748Z",
   "client": {
     "name": "HH Remodeling LLC",
     "canonicalUrl": "https://hh-remodeling.aiovisibility.net",
@@ -441,7 +441,7 @@
   },
   "package": {
     "totalFiles": 3817,
-    "totalBytes": 15006515,
+    "totalBytes": 15013497,
     "stats": {
       "faqs": 3045,
       "helpArticles": 383,
@@ -19506,7 +19506,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 15267,
+        "bytes": 15910,
         "purpose": "LLM hint"
       },
       {
@@ -19526,32 +19526,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 7392,
+        "bytes": 9682,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1817011,
+        "bytes": 1818488,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 502315,
+        "bytes": 502958,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 502315,
+        "bytes": 502958,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 15240,
+        "bytes": 15883,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 649980,
+        "bytes": 650623,
         "purpose": "Repository README"
       },
       {
@@ -19571,6 +19571,30 @@
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
       "pagesUrl": "https://hh-remodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k",
+      "pagesUrl": ""
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/hh-remodeling-llc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/hh-remodeling-llc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/",
+      "repo": "aiovisibilityhub/hh-remodeling-llc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23605821"
     }
   }
 }
