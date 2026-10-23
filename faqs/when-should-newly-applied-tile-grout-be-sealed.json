@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-newly-applied-tile-grout-be-sealed",
+  "name": "When should newly applied tile grout be sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should newly applied tile grout be sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout lines should be sealed as soon as the grout has fully cured, which generally takes 48 to 72 hours depending on the product used. In wet zones like shower surrounds or kitchen backsplashes, sealing is vital because cement-based grout is naturally porous. Without a penetrating sealer, moisture, grease, and soap scum soak beneath the tile surface, leading to deep staining and potential subfloor or drywall deterioration. Epoxy grouts do not require sealing because they are inherently non-porous, presenting a practical tradeoff between higher initial material costs and lower long-term maintenance. During full bathroom and kitchen renovations, Abraham Becerra directly coordinates cure schedules to prevent moisture exposure before sealing.",
+        "@type": "Answer",
+        "description": "New cementitious grout should be sealed 48 to 72 hours after application once fully cured. Sealing protects porous lines from water, grime, and mold intrusion."
+      }
+    }
+  ],
+  "description": "New cementitious grout should be sealed 48 to 72 hours after application once fully cured. Sealing protects porous lines from water, grime, and mold intrusion."
+}

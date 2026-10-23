@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-cement-backer-board-behind-a-kitchen-backsplash-or-is-drywall-acceptab",
+  "name": "Do I need cement backer board behind a kitchen backsplash, or is drywall acceptable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need cement backer board behind a kitchen backsplash, or is drywall acceptable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall is usually fine for dry kitchen backsplashes, but areas directly behind sinks or high-moisture zones benefit from water-resistant drywall or cement backer board. In standard kitchen settings, cooking grease and light splashes do not saturate the substrate if the tile and grout are properly sealed. However, if your existing drywall tore away during previous tile removal, replacing the damaged section with moisture-resistant board provides a stronger, smoother foundation. For full bathroom backsplashes around vanities with heavy water exposure, cement board provides extra moisture protection.",
+        "@type": "Answer",
+        "description": "Drywall is acceptable for standard kitchen backsplashes if in good condition, though moisture-resistant board or cement backer is preferred near heavy water sources."
+      }
+    }
+  ],
+  "description": "Drywall is acceptable for standard kitchen backsplashes if in good condition, though moisture-resistant board or cement backer is preferred near heavy water sou"
+}

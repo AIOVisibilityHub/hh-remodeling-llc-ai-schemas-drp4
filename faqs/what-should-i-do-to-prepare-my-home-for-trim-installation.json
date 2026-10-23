@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-to-prepare-my-home-for-trim-installation",
+  "name": "What should I do to prepare my home for trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear furniture and personal items at least three to four feet away from the walls and doorways where carpenters will work. Remove fragile hanging decor, curtains that touch baseboards, and any cords routed along the floor. If you have leftover paint from previous renovations, locating the cans or formulas helps ensure an exact color match for finishing. Gathering photos of the damaged sections in advance also speeds up initial scope reviews and quoting.",
+        "@type": "Answer",
+        "description": "Move furniture away from the walls, remove fragile wall decor, clear floor cables, and locate any existing wall or trim paint cans for color matching."
+      }
+    }
+  ],
+  "description": "Move furniture away from the walls, remove fragile wall decor, clear floor cables, and locate any existing wall or trim paint cans for color matching."
+}

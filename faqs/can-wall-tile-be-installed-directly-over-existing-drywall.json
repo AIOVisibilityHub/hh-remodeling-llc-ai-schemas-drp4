@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-wall-tile-be-installed-directly-over-existing-drywall",
+  "name": "Can wall tile be installed directly over existing drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wall tile be installed directly over existing drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing wall tile directly over regular painted drywall is acceptable only in dry areas like kitchen backsplashes, but it is never recommended for wet areas like showers or bathtub surrounds. In wet spaces, drywall softens and degrades if water penetrates grout seams. For bathroom walls and shower enclosures, installers remove the damaged drywall and secure a waterproof cement backer board or membrane system before setting tile. In dry areas, the existing painted drywall must still be clean, structurally flat, and lightly sanded so the adhesive bonds securely without slipping.",
+        "@type": "Answer",
+        "description": "Tile can go over drywall in dry areas like backsplashes, but wet areas like showers require waterproof cement backer board to prevent water damage."
+      }
+    }
+  ],
+  "description": "Tile can go over drywall in dry areas like backsplashes, but wet areas like showers require waterproof cement backer board to prevent water damage."
+}

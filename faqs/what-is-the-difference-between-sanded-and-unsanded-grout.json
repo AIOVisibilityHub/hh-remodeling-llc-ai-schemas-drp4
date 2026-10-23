@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-sanded-and-unsanded-grout",
+  "name": "What is the difference between sanded and unsanded grout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between sanded and unsanded grout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between sanded and unsanded grout depends on the width of your tile joints. Sanded grout contains fine aggregate that provides structural strength, making it necessary for joints wider than one-eighth of an inch to prevent shrinkage and cracking. Unsanded grout is smoother and designed for joints narrower than one-eighth of an inch. Using sanded grout on polished marble or delicate glazed tile carries the risk of scratching the finish during application, making unsanded or specialized urethane formulas the safer option for fine stone installations handled during high-end bathroom remodels.",
+        "@type": "Answer",
+        "description": "Sanded grout is used for tile joints wider than 1/8 inch to prevent cracking, while unsanded grout is best for narrow joints and delicate surfaces like polished marble."
+      }
+    }
+  ],
+  "description": "Sanded grout is used for tile joints wider than 1/8 inch to prevent cracking, while unsanded grout is best for narrow joints and delicate surfaces like polished"
+}

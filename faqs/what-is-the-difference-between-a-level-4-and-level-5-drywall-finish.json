@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-level-4-and-level-5-drywall-finish",
+  "name": "What is the difference between a Level 4 and Level 5 drywall finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a Level 4 and Level 5 drywall finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 4 finish is standard for typical residential living areas where flat paints, light textures, or standard wallcoverings will be used; it includes taped joints and three coats of joint compound sanded smooth. A Level 5 finish adds a full skim coat of compound across the entire drywall surface to eliminate texture differences between the paper and the mud. Homeowners should opt for Level 5 when installing high-gloss or semi-gloss paints, large expanses of smooth, untextured walls, or in rooms with intense natural raking light across long walls, where minor surface variations would otherwise cast visible shadows.",
+        "@type": "Answer",
+        "description": "Level 4 is standard multi-coat drywall for flat paints and textures, while Level 5 adds a full skim coat over all board surfaces for smooth, glossy finishes."
+      }
+    }
+  ],
+  "description": "Level 4 is standard multi-coat drywall for flat paints and textures, while Level 5 adds a full skim coat over all board surfaces for smooth, glossy finishes."
+}

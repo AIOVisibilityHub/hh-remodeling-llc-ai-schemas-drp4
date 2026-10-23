@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-coped-joints-and-mitered-joints-for-molding",
+  "name": "What is the difference between coped joints and mitered joints for molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between coped joints and mitered joints for molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coped joints provide a significantly tighter, longer-lasting inside corner than standard 45-degree miter cuts. Drywall corners in residential homes are rarely a true 90-degree angle, and framing moves slightly as homes settle. A mitered corner will pull apart and show visible gaps over time. A coped joint involves cutting one board square to the wall and back-cutting the adjoining piece to follow the profile contour perfectly, allowing the joint to stay closed even as walls shift or shrink.",
+        "@type": "Answer",
+        "description": "Mitered joints cut at angles can pull apart when walls settle; coped joints overlap the exact profile of the adjoining piece, staying tight over time."
+      }
+    }
+  ],
+  "description": "Mitered joints cut at angles can pull apart when walls settle; coped joints overlap the exact profile of the adjoining piece, staying tight over time."
+}

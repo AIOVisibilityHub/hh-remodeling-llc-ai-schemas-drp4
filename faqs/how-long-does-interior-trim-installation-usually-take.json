@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-interior-trim-installation-usually-take",
+  "name": "How long does interior trim installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior trim installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single standard room requiring new baseboards and door casings can often be trimmed in one to two days. Larger projects, such as outfitting an entire main level with crown molding, door frames, and custom wall panels, generally take three to five business days. Timelines extend when existing drywall requires patching, when old moldings must be carefully pried away to protect wall surfaces, or when finish painting and staining are part of the scope. A dedicated finish carpenter keeps the schedule moving systematically from cuts to final caulking.",
+        "@type": "Answer",
+        "description": "A standard room takes one to two days, while full-house trim or custom crown molding typically requires three to five days including prep and touch-ups."
+      }
+    }
+  ],
+  "description": "A standard room takes one to two days, while full-house trim or custom crown molding typically requires three to five days including prep and touch-ups."
+}

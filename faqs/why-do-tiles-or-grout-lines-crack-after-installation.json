@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-tiles-or-grout-lines-crack-after-installation",
+  "name": "Why do tiles or grout lines crack after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do tiles or grout lines crack after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cracked grout lines and tiles usually point to underlying subfloor movement, improper mortar coverage, or missing expansion joints. If the wooden subfloor flexes under foot traffic, rigid grout lines will eventually break apart. Another common cause is inadequate thinset mortar transfer during installation, leaving hollow voids beneath the tile that shatter under weight. Finally, tile expands and contracts with indoor temperature and humidity changes; failing to leave movement joints around room perimeters forces the pressure into the tile field, causing tenting or cracking.",
+        "@type": "Answer",
+        "description": "Cracking is typically caused by subfloor movement, hollow spots beneath tiles from improper mortar coverage, or a lack of perimeter expansion joints."
+      }
+    }
+  ],
+  "description": "Cracking is typically caused by subfloor movement, hollow spots beneath tiles from improper mortar coverage, or a lack of perimeter expansion joints."
+}

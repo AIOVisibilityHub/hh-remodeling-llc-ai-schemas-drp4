@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-electrical-outlets-and-switches-need-to-be-moved-for-wainscoting",
+  "name": "Do electrical outlets and switches need to be moved for wainscoting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do electrical outlets and switches need to be moved for wainscoting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Existing electrical switches and outlets can remain in place, but they must be brought forward so the cover plates sit flush over the new trim. Because wainscoting adds between one-quarter and three-quarters of an inch to the wall depth, an installer will use electrical box extension rings to safely bring the receptacle forward. The panel spacing should also be planned so vertical stiles do not land directly across an electrical box, keeping wall plates neatly centered within panel fields.",
+        "@type": "Answer",
+        "description": "Outlets generally do not need moving, but box extender rings are installed so faceplates sit flush against the added depth of the wainscoting trim."
+      }
+    }
+  ],
+  "description": "Outlets generally do not need moving, but box extender rings are installed so faceplates sit flush against the added depth of the wainscoting trim."
+}

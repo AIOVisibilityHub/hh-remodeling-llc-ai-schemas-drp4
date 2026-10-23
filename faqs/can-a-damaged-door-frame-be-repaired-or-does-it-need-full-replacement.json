@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-damaged-door-frame-be-repaired-or-does-it-need-full-replacement",
+  "name": "Can a damaged door frame be repaired, or does it need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a damaged door frame be repaired, or does it need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often repair a door frame if the issue is limited to minor split wood, loose hinge screw holes, or cosmetic surface dents. However, full replacement is typically required when wood rot extends into the rough framing studs, when the jamb is severely warped, or after structural split damage from a forced entry. Choosing repair saves your existing wall trim and paint, but patching severely damaged wood can lead to recurring latch alignment problems down the road. An inspection will confirm if the rough framing remains sound.",
+        "@type": "Answer",
+        "description": "A door frame can be repaired if damage is isolated to the jamb surface or hinges. Full replacement is necessary if the rough framing is rotted, twisted, or structurally compromised."
+      }
+    }
+  ],
+  "description": "A door frame can be repaired if damage is isolated to the jamb surface or hinges. Full replacement is necessary if the rough framing is rotted, twisted, or stru"
+}

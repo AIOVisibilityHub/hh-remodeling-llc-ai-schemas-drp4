@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-mdf-or-real-wood-for-interior-molding-and-baseboards",
+  "name": "Should I choose MDF or real wood for interior molding and baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose MDF or real wood for interior molding and baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision comes down to budget, moisture exposure, and your desired finish. MDF is cost-effective, perfectly smooth, and stable for painted trim in dry living spaces. However, MDF swells irreversibly if exposed to standing water, making it risky around bathroom plumbing or basement floors. Solid wood, such as finger-jointed pine or oak, resists impact better and works for either stain or paint, though it can expand and contract with humidity shifts. For high-moisture bathrooms or basements, moisture-resistant wood or composite profiles provide a safer long-term choice.",
+        "@type": "Answer",
+        "description": "MDF is budget-friendly and smooth for painted trim, while real wood provides better impact resistance and handles stains or moisture-prone areas more reliably."
+      }
+    }
+  ],
+  "description": "MDF is budget-friendly and smooth for painted trim, while real wood provides better impact resistance and handles stains or moisture-prone areas more reliably."
+}

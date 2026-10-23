@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-wainscoting-be-installed-over-existing-textured-drywall",
+  "name": "Can wainscoting be installed over existing textured drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wainscoting be installed over existing textured drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wainscoting can be installed over textured drywall, but the texture dictates the construction technique. For styles like board-and-batten or picture framing where the wall serves as the recessed panel, heavy textures like knockdown or orange peel will show through. In those cases, a carpenter must skim-coat the lower drywall smooth or install thin hardboard backer sheets before applying the trim. Alternatively, full tongue-and-groove beadboard or flat shiplap panels completely cover the textured drywall, eliminating the need for extensive skimming.",
+        "@type": "Answer",
+        "description": "Yes. If the drywall texture shows inside panel frames, the wall must be skim-coated smooth or fitted with a thin backer sheet; full-coverage beadboard covers it completely."
+      }
+    }
+  ],
+  "description": "Yes. If the drywall texture shows inside panel frames, the wall must be skim-coated smooth or fitted with a thin backer sheet; full-coverage beadboard covers it"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-existing-trim-instead-of-simply-repainting-it",
+  "name": "When should I replace existing trim instead of simply repainting it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace existing trim instead of simply repainting it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace trim if your current boards show soft spots from water leaks, severe denting, cracking, or termite and pest damage. Replacing is also the best route when renovating older homes where layers of thick paint have rounded crisp edges, or when existing trim is too short to pair well with newly raised ceilings or modern flooring. If minor surface scuffs or small nail holes are the only issue, filling and a fresh coat of paint will restore them without the expense of full replacement.",
+        "@type": "Answer",
+        "description": "Replace trim if boards are warped, water-damaged, split, or buried under heavy paint layers; otherwise, surface scuffs can be filled and repainted."
+      }
+    }
+  ],
+  "description": "Replace trim if boards are warped, water-damaged, split, or buried under heavy paint layers; otherwise, surface scuffs can be filled and repainted."
+}

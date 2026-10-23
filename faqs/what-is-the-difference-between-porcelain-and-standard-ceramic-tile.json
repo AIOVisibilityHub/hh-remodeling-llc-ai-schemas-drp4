@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-porcelain-and-standard-ceramic-tile",
+  "name": "What is the difference between porcelain and standard ceramic tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between porcelain and standard ceramic tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is denser, less porous, and more water-resistant than standard ceramic tile. Because it is fired at higher temperatures from refined clay, it absorbs less than 0.5 percent moisture, making it ideal for wet areas like walk-in showers, bathroom floors, and kitchen backsplashes. Standard ceramic is easier to cut and lighter, but it can chip more easily and absorb water if the glaze wears down. Porcelain requires specialized diamond blades and polymer-modified thin-set mortar during installation, which can slightly increase labor time but delivers long-term durability in high-traffic spaces.",
+        "@type": "Answer",
+        "description": "Porcelain is denser, harder, and absorbs less water than ceramic tile, making it far more durable for moisture-prone areas like showers and high-traffic floors."
+      }
+    }
+  ],
+  "description": "Porcelain is denser, harder, and absorbs less water than ceramic tile, making it far more durable for moisture-prone areas like showers and high-traffic floors."
+}

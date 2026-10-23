@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-ceramic-tile-floor-needs-to-be-repaired-or-fully-replaced",
+  "name": "How do I know if my ceramic tile floor needs to be repaired or fully replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my ceramic tile floor needs to be repaired or fully replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceramic floor tile should be replaced if you notice widespread hollow sounds beneath tiles, pervasive cracks across multiple units, or crumbling grout that allows tiles to shift underfoot. These symptoms usually indicate subfloor deflection, adhesive failure, or water intrusion underneath the assembly. If only one or two isolated tiles are chipped from dropped objects while the surrounding floor remains secure, a skilled contractor can replace individual tiles without tearing out the entire floor, provided matching spare tiles are available.",
+        "@type": "Answer",
+        "description": "Widespread loose tiles, shifting, or deep floor-wide cracks require full replacement, while isolated surface chips can often be fixed with spare tiles."
+      }
+    }
+  ],
+  "description": "Widespread loose tiles, shifting, or deep floor-wide cracks require full replacement, while isolated surface chips can often be fixed with spare tiles."
+}

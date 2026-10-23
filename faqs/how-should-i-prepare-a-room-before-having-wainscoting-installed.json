@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-a-room-before-having-wainscoting-installed",
+  "name": "How should I prepare a room before having wainscoting installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare a room before having wainscoting installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your finish carpenter arrives, clear the room of furniture and remove wall decor. Measure the room perimeter roughly and note where wall outlets, light switches, heating registers, and floor vents sit along the base of the wall. If existing baseboards are damaged or significantly thinner than the planned wainscoting cap, decide whether you want to replace them with taller, thicker trim. Having these details ready allows the contractor to map out symmetric panel spacing without awkward seams at wall corners.",
+        "@type": "Answer",
+        "description": "Clear the perimeter, remove wall hangings, and identify the locations of electrical outlets, vents, and baseboard transitions so your carpenter can plan balanced panel spacing."
+      }
+    }
+  ],
+  "description": "Clear the perimeter, remove wall hangings, and identify the locations of electrical outlets, vents, and baseboard transitions so your carpenter can plan balance"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-installing-natural-stone-tile-differ-from-standard-ceramic-or-porcelain",
+  "name": "How does installing natural stone tile differ from standard ceramic or porcelain tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does installing natural stone tile differ from standard ceramic or porcelain tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone tile installation requires extensive structural preparation compared to ceramic or porcelain. Stone materials like marble, slate, and travertine are heavy, rigid, and brittle, meaning any deflection or bounce in a subfloor can crack the tiles or grout lines. Before setting stone, the underlying framing must be inspected and stiffened if necessary, followed by a properly secured cement backer board or uncoupling membrane. Additionally, because natural stone is porous, tiles often need pre-sealing before grouting to prevent grout pigment from staining the surface. Ceramic tiles, by contrast, are lighter, less prone to staining, and can tolerate slightly more subfloor flexibility.",
+        "@type": "Answer",
+        "description": "Natural stone requires a stiffer subfloor with zero deflection, specialized thin-set mortar, and pre-sealing to prevent porous stone from absorbing grout pigment."
+      }
+    }
+  ],
+  "description": "Natural stone requires a stiffer subfloor with zero deflection, specialized thin-set mortar, and pre-sealing to prevent porous stone from absorbing grout pigmen"
+}

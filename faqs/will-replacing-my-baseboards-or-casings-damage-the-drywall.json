@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/will-replacing-my-baseboards-or-casings-damage-the-drywall",
+  "name": "Will replacing my baseboards or casings damage the drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my baseboards or casings damage the drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, trim replacement frequently requires light drywall patching and texture blending, which our crew handles directly. When old trim is pulled away, caulking or adhesive can tear the drywall paper, and uneven walls may expose unpainted or unfinished drywall behind the old boards. Because HH Remodeling manages both finish carpentry and professional drywall repair, our team patches drywall damage, matches wall textures, and applies paint without you needing to hire a separate drywall contractor.",
+        "@type": "Answer",
+        "description": "Removing old trim can cause minor drywall tears or reveal rough edges, but our crew handles drywall repairs, texture matching, and painting on-site."
+      }
+    }
+  ],
+  "description": "Removing old trim can cause minor drywall tears or reveal rough edges, but our crew handles drywall repairs, texture matching, and painting on-site."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-door-frame-repair-take",
+  "name": "How long does a typical door frame repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door frame repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard interior door frame repairs take between two and four hours to complete. This timeframe covers cutting out damaged wood, installing new jamb sections, adjusting hinges, and aligning the door latch. If the repair requires patching drywall, replacing decorative casing, or applying multiple coats of paint and primer with proper drying time, the job may span a full day or require a brief follow-up visit to finish trim painting. Exterior repairs involving caulk and weatherstripping also require adequate cure time.",
+        "@type": "Answer",
+        "description": "Most door frame repairs take 2 to 4 hours. Jobs requiring structural framing fixes, drywall patches, or multi-coat painting and drying may take a full day."
+      }
+    }
+  ],
+  "description": "Most door frame repairs take 2 to 4 hours. Jobs requiring structural framing fixes, drywall patches, or multi-coat painting and drying may take a full day."
+}

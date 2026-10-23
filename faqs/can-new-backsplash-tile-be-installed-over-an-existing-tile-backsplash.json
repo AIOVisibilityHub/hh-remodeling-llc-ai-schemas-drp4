@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-backsplash-tile-be-installed-over-an-existing-tile-backsplash",
+  "name": "Can new backsplash tile be installed over an existing tile backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new backsplash tile be installed over an existing tile backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiling directly over existing tile is rarely recommended and usually creates long-term problems. Layering new tile on top of old tile adds extra thickness, causing the backsplash to protrude beyond electrical boxes, window casings, and cabinetry edges. It also depends on the old tile bond holding up under added weight. The cleaner, more durable approach involves removing the old tile down to the drywall or backer board, repairing any torn gypsum, and installing new tile on a flat, stable surface. This ensures clean finish lines and durable adhesion.",
+        "@type": "Answer",
+        "description": "It is rarely recommended. Removing old tile and repairing the drywall provides a flat, secure surface and prevents awkward depth issues around outlets and trim."
+      }
+    }
+  ],
+  "description": "It is rarely recommended. Removing old tile and repairing the drywall provides a flat, secure surface and prevents awkward depth issues around outlets and trim."
+}

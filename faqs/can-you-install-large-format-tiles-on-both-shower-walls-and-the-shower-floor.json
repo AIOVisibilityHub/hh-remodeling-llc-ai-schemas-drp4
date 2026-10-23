@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-install-large-format-tiles-on-both-shower-walls-and-the-shower-floor",
+  "name": "Can you install large-format tiles on both shower walls and the shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install large-format tiles on both shower walls and the shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For safety and drainage, standard large-format wall tiles should not be installed across a sloped shower floor pan unless you are using a linear drain system. Traditional center-drain shower pans slope inward from four directions, which requires smaller mosaic tiles (typically two inches or smaller) that conform smoothly to the compound slope. Smaller floor tiles also provide essential traction under wet feet thanks to the frequent grout joints. However, if you install a single-plane sloped floor with a continuous trench or linear drain, large-format porcelain can be used safely.",
+        "@type": "Answer",
+        "description": "Large tiles work well on walls, but traditional sloped shower pans require smaller mosaic tiles to match the drain contour and provide slip resistance, unless using a linear drain."
+      }
+    }
+  ],
+  "description": "Large tiles work well on walls, but traditional sloped shower pans require smaller mosaic tiles to match the drain contour and provide slip resistance, unless u"
+}

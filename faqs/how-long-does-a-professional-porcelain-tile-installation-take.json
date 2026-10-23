@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-professional-porcelain-tile-installation-take",
+  "name": "How long does a professional porcelain tile installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional porcelain tile installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard residential porcelain tile projects take between two to five days to complete. The timeline depends heavily on the room size, tile dimensions, and layout complexity, such as herringbone or diagonal patterns. Day one focuses on removing existing flooring, inspecting subfloor stability, and installing underlayment. Laying tile and making precise wet-saw cuts takes one to two days. After the mortar cures for at least 24 hours, the crew applies grout, cleans away haze, and seals the joints. Walkway access is typically restored within 24 to 48 hours post-grouting.",
+        "@type": "Answer",
+        "description": "Most residential porcelain tile installations take two to five days, including subfloor preparation, laying tile, curing, and applying grout."
+      }
+    }
+  ],
+  "description": "Most residential porcelain tile installations take two to five days, including subfloor preparation, laying tile, curing, and applying grout."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-determine-before-getting-an-estimate-for-tile-installation",
+  "name": "What should I determine before getting an estimate for tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I determine before getting an estimate for tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a tile installation quote, measure the length and width of the room and decide roughly where you want tile placed, such as floor, shower walls, or kitchen backsplash. It helps to decide on material preferences—like standard ceramic, large-format porcelain, or natural marble—and note any preferred patterns such as brick-joint or herringbone. Check whether you want specific upgrades like recessed shower niches, decorative borders, or curb-less entries. Also document the existing conditions, including whether old flooring needs removal or if current subfloors feel springy, as these details directly shape the labor scope.",
+        "@type": "Answer",
+        "description": "Gather approximate room dimensions, preferred tile material and layout pattern, desired features like shower niches, and details about existing flooring removal."
+      }
+    }
+  ],
+  "description": "Gather approximate room dimensions, preferred tile material and layout pattern, desired features like shower niches, and details about existing flooring removal"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-right-baseboard-height-for-my-ceiling",
+  "name": "How do I choose the right baseboard height for my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right baseboard height for my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboard height should correspond with your ceiling height to maintain balanced visual weight. For standard eight-foot ceilings, baseboards measuring between 3.5 and 5.25 inches look natural without overwhelming the space. For nine- to ten-foot ceilings or open-concept living rooms, taller baseboards between 5.5 and 7 inches provide proportionate presence. Choosing your baseboard thickness is also crucial if you have existing door casings; your baseboard should never be thicker than the door trim it butts into, unless you install plinth blocks.",
+        "@type": "Answer",
+        "description": "Use 3.5 to 5.25 inches for eight-foot ceilings, and step up to 5.5 to 7 inches for nine- to ten-foot ceilings to maintain proper visual proportions."
+      }
+    }
+  ],
+  "description": "Use 3.5 to 5.25 inches for eight-foot ceilings, and step up to 5.5 to 7 inches for nine- to ten-foot ceilings to maintain proper visual proportions."
+}

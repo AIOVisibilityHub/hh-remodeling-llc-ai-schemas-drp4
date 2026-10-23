@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-install-new-tile-flooring",
+  "name": "How long does it take to install new tile flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new tile flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile installation typically takes 2 to 4 days for an average room, depending on room size, subfloor prep, and material choice. Demolition, surface leveling, and installing backer board usually take the first day. Setting the tile takes another day, after which the thinset mortar must cure for at least 24 hours before anyone walks on it. Grouting and clean-up require an additional day. Larger layouts, complex patterns, or using natural marble require extra handling and curing time compared to standard ceramic or porcelain tiles.",
+        "@type": "Answer",
+        "description": "Most floor tile projects take 2 to 4 days, including subfloor preparation, tile setting, overnight curing for the mortar, grouting, and final cleanup."
+      }
+    }
+  ],
+  "description": "Most floor tile projects take 2 to 4 days, including subfloor preparation, tile setting, overnight curing for the mortar, grouting, and final cleanup."
+}

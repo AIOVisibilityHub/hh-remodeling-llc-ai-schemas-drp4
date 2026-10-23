@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-honed-or-polished-finish-for-my-marble-tile",
+  "name": "Should I choose a honed or polished finish for my marble tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a honed or polished finish for my marble tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose honed marble if slip resistance and lower-maintenance surface appearance are your priorities, and choose polished marble if you want deep color reflection. Honed marble has a smooth, matte finish that conceals water spots and minor scuffs well, making it practical for high-traffic entryways and bathroom floors. Polished marble creates a glossy, light-reflecting look that highlights natural veining, but it scratches more visibly under grit and gets dangerously slippery when wet. Vertical walls and formal powder rooms work well for polished finishes.",
+        "@type": "Answer",
+        "description": "Honed marble provides a matte, slip-resistant finish ideal for floors, while polished marble offers high-gloss drama best suited for walls and dry areas."
+      }
+    }
+  ],
+  "description": "Honed marble provides a matte, slip-resistant finish ideal for floors, while polished marble offers high-gloss drama best suited for walls and dry areas."
+}

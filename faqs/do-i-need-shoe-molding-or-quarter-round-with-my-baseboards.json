@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-shoe-molding-or-quarter-round-with-my-baseboards",
+  "name": "Do I need shoe molding or quarter round with my baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need shoe molding or quarter round with my baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding or quarter round is necessary when the baseboard alone cannot fully bridge the floor expansion gap or when floors are visibly uneven. On older or slightly sloping subfloors, rigid baseboards cannot bend to match every floor dip, leaving gaps underneath. Adding flexible shoe molding seals that lower gap without forcing the main baseboard out of level. If your subfloor is flat and new baseboards are installed directly on top of fresh flooring, you can often skip shoe molding for a cleaner, modern look.",
+        "@type": "Answer",
+        "description": "You only need shoe molding if your floors are uneven or if the baseboard does not fully conceal the expansion gap left by floating floors or tile edges."
+      }
+    }
+  ],
+  "description": "You only need shoe molding if your floors are uneven or if the baseboard does not fully conceal the expansion gap left by floating floors or tile edges."
+}

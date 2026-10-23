@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-built-in-shelving-anchored-and-supported-for-heavy-books",
+  "name": "How is built-in shelving anchored and supported for heavy books?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is built-in shelving anchored and supported for heavy books?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in shelving must be mechanically fastened directly into the structural wall studs using heavy-duty framing screws to safely carry load-bearing weight. Relying solely on hollow drywall anchors is unsafe for heavy items like hardcovers, audio equipment, or ceramic decor. Before installation, a contractor uses a stud finder to locate framing members, accounting for irregular stud spacing common around windows and fireplace flues. In basement remodels with masonry or concrete foundation walls, shelves are attached to newly framed furring walls or secured with masonry fasteners. Sturdy ledger boards and properly spaced vertical partitions prevent individual shelves from bowing downward over time.",
+        "@type": "Answer",
+        "description": "Built-ins are anchored directly into wall studs with heavy-duty fasteners, using internal ledgers and vertical dividers to prevent sagging under heavy weight."
+      }
+    }
+  ],
+  "description": "Built-ins are anchored directly into wall studs with heavy-duty fasteners, using internal ledgers and vertical dividers to prevent sagging under heavy weight."
+}

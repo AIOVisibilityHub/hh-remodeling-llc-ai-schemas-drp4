@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-paint-directly-over-water-stains-or-damp-drywall",
+  "name": "Can you paint directly over water stains or damp drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint directly over water stains or damp drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water-damaged drywall must be completely dry and structurally sound before any paint or primer is applied. Painting over damp sheetrock traps moisture, leading to mold growth, bubbling paint, and failing tape seams. After resolving the source of the leak, damaged or soft drywall sections must be cut out, replaced, mudded, textured, and sealed with a stain-blocking primer. In our remodeling and storm-damage restoration work, we inspect the backing to confirm framing is dry before finishing the surface.",
+        "@type": "Answer",
+        "description": "No. The underlying moisture must be dried, soft sheetrock replaced, and a stain-blocking primer applied before finish paint can adhere properly."
+      }
+    }
+  ],
+  "description": "No. The underlying moisture must be dried, soft sheetrock replaced, and a stain-blocking primer applied before finish paint can adhere properly."
+}

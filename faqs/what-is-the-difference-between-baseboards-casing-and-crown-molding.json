@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-baseboards-casing-and-crown-molding",
+  "name": "What is the difference between baseboards, casing, and crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between baseboards, casing, and crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards protect drywall from vacuum strikes and foot traffic, casings frame and seal doors and windows, and crown molding bridges wall-to-ceiling transitions. Baseboards run along the floor and take the most daily wear and tear. Door and window casings hide the rough framing gaps and ensure draft-free transitions. Crown molding is purely decorative, adding depth, architectural character, and visual height to a room. Understanding which elements need attention clarifies whether your project requires basic protective boards or intricate ceiling-level joinery.",
+        "@type": "Answer",
+        "description": "Baseboards protect the base of walls, casings conceal framing around doors and windows, and crown molding decorates the upper joint between walls and ceilings."
+      }
+    }
+  ],
+  "description": "Baseboards protect the base of walls, casings conceal framing around doors and windows, and crown molding decorates the upper joint between walls and ceilings."
+}

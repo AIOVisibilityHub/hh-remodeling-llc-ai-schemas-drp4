@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-shoe-molding-and-do-i-always-need-it-with-baseboards",
+  "name": "What is shoe molding, and do I always need it with baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is shoe molding, and do I always need it with baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding and quarter round are narrow trim strips installed at the bottom of baseboards to cover gaps between the wall and the floor. While quarter round is a true quarter circle, shoe molding has a taller, more slender profile that looks subtle against standard baseboards. You typically need them when new hard floors are installed without removing existing baseboards, or when flooring surfaces fluctuate in height. If your baseboards are installed fresh over level flooring, shoe molding is entirely optional, though many homeowners still add it for a clean, layered finish.",
+        "@type": "Answer",
+        "description": "Shoe molding covers gaps between the baseboard and flooring. It is necessary when floors are uneven or trim was not removed during floor installation, but otherwise optional."
+      }
+    }
+  ],
+  "description": "Shoe molding covers gaps between the baseboard and flooring. It is necessary when floors are uneven or trim was not removed during floor installation, but other"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-paint-walls-before-or-after-installing-crown-molding-and-baseboards",
+  "name": "Do you paint walls before or after installing crown molding and baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you paint walls before or after installing crown molding and baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should be completed, textured, and primed before installing finish molding. Walls and ceilings must be fully finished so carpenters have a stable, dry backing to fasten into. Painting the main walls before hanging trim prevents wall paint from splattering onto newly installed woodwork. Once trim is fastened, caulked, and filled, finish painters can apply the final coats to the molding and cut in edges cleanly against the cured drywall.",
+        "@type": "Answer",
+        "description": "Paint your walls first. Trim is installed over primed, painted drywall, after which carpentry holes and caulk lines receive their final paint finish."
+      }
+    }
+  ],
+  "description": "Paint your walls first. Trim is installed over primed, painted drywall, after which carpentry holes and caulk lines receive their final paint finish."
+}

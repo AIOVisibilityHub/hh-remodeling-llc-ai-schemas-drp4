@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-shower-tile-needs-a-complete-replacement-instead-of-repairs",
+  "name": "How do I know if my shower tile needs a complete replacement instead of repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my shower tile needs a complete replacement instead of repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should plan to replace shower tile when you notice soft or spongy wall areas, loose or cracked tiles, persistent mildew behind caulk, or water stains on surrounding drywall or lower ceilings. Crumbling grout or tiles sounding hollow when tapped often indicate that the backing board has absorbed moisture and begun to fail. Surface cleaning cannot fix water that has gotten behind the tile. In these situations, attempting a cosmetic patch typically delays the inevitable and increases the risk of framing rot or subfloor decay.",
+        "@type": "Answer",
+        "description": "Soft wall sections, hollow-sounding tiles, persistent leaking, or failing grout indicate moisture behind the tile, requiring a full tear-out rather than simple regrouting."
+      }
+    }
+  ],
+  "description": "Soft wall sections, hollow-sounding tiles, persistent leaking, or failing grout indicate moisture behind the tile, requiring a full tear-out rather than simple"
+}

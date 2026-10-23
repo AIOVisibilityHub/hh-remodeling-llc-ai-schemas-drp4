@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-door-casing-and-how-does-it-differ-from-baseboard-trim",
+  "name": "What is door casing, and how does it differ from baseboard trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door casing, and how does it differ from baseboard trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing is the decorative and functional molding installed around a door frame to bridge and cover the gap between the finished drywall and the door jamb. While baseboards protect the bottom of the wall along the floor, casing frames the door opening on both sides and the top header. In interior finish carpentry, casing conceals rough framing, shims, and insulation, creating a sealed, polished transition. Installing matched casing and baseboard profiles creates visual consistency across hallways and open-concept living spaces.",
+        "@type": "Answer",
+        "description": "Door casing frames door openings to conceal the rough gap between jambs and drywall, whereas baseboard trim runs horizontally along the bottom of the wall to protect drywall from floor traffic."
+      }
+    }
+  ],
+  "description": "Door casing frames door openings to conceal the rough gap between jambs and drywall, whereas baseboard trim runs horizontally along the bottom of the wall to pr"
+}

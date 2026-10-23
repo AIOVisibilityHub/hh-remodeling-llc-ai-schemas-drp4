@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-existing-discolored-grout-be-cleaned-and-sealed-or-does-it-need-full-replace",
+  "name": "Can existing, discolored grout be cleaned and sealed, or does it need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing, discolored grout be cleaned and sealed, or does it need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, dirty or stained grout can often be restored through deep cleaning and the application of an impregnating sealer or colorant, provided the grout remains structurally intact. If the grout lines are crumbling, missing chunks, or separating from the tile edge, cleaning and sealing will not solve the issue. In those situations, the failing grout must be carefully cut out and replaced before new sealer can adhere. Assessing whether movement in the subfloor or drywall caused the cracking helps determine whether simple re-grouting or underlying structural repair is needed.",
+        "@type": "Answer",
+        "description": "Discolored grout can be restored if structurally sound. However, crumbling, cracked, or loose grout requires removal and re-grouting before any sealer can work properly."
+      }
+    }
+  ],
+  "description": "Discolored grout can be restored if structurally sound. However, crumbling, cracked, or loose grout requires removal and re-grouting before any sealer can work"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-door-frame-has-shifted-or-if-the-door-slab-is-warped",
+  "name": "How do I know if my door frame has shifted or if the door slab is warped?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my door frame has shifted or if the door slab is warped?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine why a door sticks, check the gaps around the door perimeter when closed. If the gap is uneven along the top or strike side, the frame has likely shifted, or the hinge screws have loosened and pulled away from the framing. If the door rubs only during humid weather, the wood slab itself may be swelling. Placing a 4-foot level against both side jambs will quickly show whether the door frame has settled out of plumb.",
+        "@type": "Answer",
+        "description": "Use a level along the jambs to check for plumb. Uneven perimeter gaps or loose hinges suggest a shifted frame, while rubbing that occurs only in high humidity often indicates wood swelling."
+      }
+    }
+  ],
+  "description": "Use a level along the jambs to check for plumb. Uneven perimeter gaps or loose hinges suggest a shifted frame, while rubbing that occurs only in high humidity o"
+}

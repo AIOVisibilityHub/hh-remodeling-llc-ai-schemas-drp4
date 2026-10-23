@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-wall-tile-installation-take-to-complete",
+  "name": "How long does a typical wall tile installation take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wall tile installation take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard wall tile project typically takes between two and four days from start to finish. The exact duration depends on the total square footage, the pattern layout, and whether surface preparation or old tile removal is required. Demolition, drywall repair, and installing proper cement backing happen on day one. Setting the tiles follows, requiring a full 24 hours for the mortar to cure. Grouting, cleaning, and applying silicone sealant at inside corners occur on the final days. Complex mosaic patterns, shower niches, or marble tiles require extra cutting time and may extend the schedule.",
+        "@type": "Answer",
+        "description": "Most wall tile installations take two to four days, including wall preparation, setting the tile, allowing mortar to cure, grouting, and sealing."
+      }
+    }
+  ],
+  "description": "Most wall tile installations take two to four days, including wall preparation, setting the tile, allowing mortar to cure, grouting, and sealing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-door-frames-be-widened-for-wheelchair-or-accessibility-needs",
+  "name": "Can door frames be widened for wheelchair or accessibility needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can door frames be widened for wheelchair or accessibility needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frames can be modified to wider dimensions to enhance accessibility, provided the surrounding wall structure allows it. For hallways and bathrooms, widening a standard door opening to 32 or 36 inches accommodates wheelchairs and walkers. Because altering the width requires removing king and jack studs and installing a wider structural header, your contractor must determine whether the wall is load-bearing before cutting. Drywall patching, baseboard adjustments, and new finish carpentry are then completed to blend the modified opening into the room.",
+        "@type": "Answer",
+        "description": "Yes, frames can be widened for accessibility, but the wall framing and header must be structurally rebuilt, followed by drywall and finish trim repairs."
+      }
+    }
+  ],
+  "description": "Yes, frames can be widened for accessibility, but the wall framing and header must be structurally rebuilt, followed by drywall and finish trim repairs."
+}

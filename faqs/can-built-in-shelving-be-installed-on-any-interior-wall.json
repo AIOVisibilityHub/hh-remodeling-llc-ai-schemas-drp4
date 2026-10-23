@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-built-in-shelving-be-installed-on-any-interior-wall",
+  "name": "Can built-in shelving be installed on any interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can built-in shelving be installed on any interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, built-in shelving can be installed on almost any wall, but plumbing, ductwork, and electrical wiring inside the wall determine the exact framing approach. Exterior walls often contain insulation and vapor barriers that must not be disrupted, while interior partition walls may house main plumbing vents or junction boxes that limit how deep a recessed niche can go. For shallow alcoves or under-stair spaces, standard walls can be built outward with custom framing to achieve standard shelf depths of 11 to 16 inches. An on-site evaluation confirms whether wall modification is feasible or if surface-mounted cabinetry built out into the room is the better choice.",
+        "@type": "Answer",
+        "description": "Yes, though concealed plumbing, wiring, and insulation determine whether shelves can be recessed into the wall or must be framed outward into the room."
+      }
+    }
+  ],
+  "description": "Yes, though concealed plumbing, wiring, and insulation determine whether shelves can be recessed into the wall or must be framed outward into the room."
+}

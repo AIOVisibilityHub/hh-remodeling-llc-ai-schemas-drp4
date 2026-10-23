@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-large-format-tiles-and-smaller-floor-tiles",
+  "name": "How do I choose between large-format tiles and smaller floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between large-format tiles and smaller floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles offer fewer grout lines and create a clean, modern aesthetic that can make smaller rooms feel expansive. However, they require an exceptionally flat subfloor, as even minor surface dips cause edges to stick up unevenly. Smaller tiles provide more grout joints, which naturally increases slip resistance, making them popular for shower pans and small bathrooms. Smaller tiles are also more forgiving on slightly uneven subfloors and easier to install around tight corners and plumbing fixtures.",
+        "@type": "Answer",
+        "description": "Large-format tiles provide a sleek look with fewer grout lines but demand a perfectly flat floor, while smaller tiles offer better slip resistance and fit tight spaces easily."
+      }
+    }
+  ],
+  "description": "Large-format tiles provide a sleek look with fewer grout lines but demand a perfectly flat floor, while smaller tiles offer better slip resistance and fit tight"
+}

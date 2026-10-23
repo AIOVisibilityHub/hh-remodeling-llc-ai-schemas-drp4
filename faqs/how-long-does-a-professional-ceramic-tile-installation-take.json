@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-professional-ceramic-tile-installation-take",
+  "name": "How long does a professional ceramic tile installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional ceramic tile installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard ceramic tile installation typically takes between two and four days depending on room size and layout complexity. Day one involves subfloor prep, underlayment installation, and layout planning. Day two focuses on setting the tiles in thin-set mortar. The mortar requires a minimum 24-hour cure before grouting can occur on day three, followed by final cleanup and perimeter sealing. Complex mosaic patterns, extensive custom cuts around fixtures, or leveling an uneven subfloor can add extra time before tiles can be walked on.",
+        "@type": "Answer",
+        "description": "Most ceramic tile projects take two to four days, allowing necessary drying time between laying tiles, grouting, and applying final sealants."
+      }
+    }
+  ],
+  "description": "Most ceramic tile projects take two to four days, allowing necessary drying time between laying tiles, grouting, and applying final sealants."
+}

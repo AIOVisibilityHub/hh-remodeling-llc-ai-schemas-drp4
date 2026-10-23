@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-rough-framing-and-a-finish-door-frame",
+  "name": "What is the difference between rough framing and a finish door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough framing and a finish door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rough frame consists of the structural 2x4 or 2x6 wall studs, jack studs, and overhead header that create the structural wall cutout. The finish door frame, or jamb assembly, fits directly inside that rough cutout and consists of the side jambs, head jamb, and door stop molding where the door slab actually mounts. Rough framing handles the building load and gives carpenters an anchor point, whereas the finish frame provides the plumb, square surface necessary for hinges, latches, and decorative casing.",
+        "@type": "Answer",
+        "description": "Rough framing is the structural wall opening made of wall studs and headers, while the finish frame is the jamb unit fitted inside where the door hinges and latches mount."
+      }
+    }
+  ],
+  "description": "Rough framing is the structural wall opening made of wall studs and headers, while the finish frame is the jamb unit fitted inside where the door hinges and lat"
+}

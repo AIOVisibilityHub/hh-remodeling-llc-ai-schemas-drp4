@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-seal-the-grout-after-ceramic-tile-is-installed",
+  "name": "Do I need to seal the grout after ceramic tile is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal the grout after ceramic tile is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard cementitious grout requires periodic sealing because it is naturally porous and absorbs water, dirt, cooking oils, and cleaning chemicals, which leads to staining and mildew. After a new ceramic installation, cement grout should cure completely before applying a high-grade penetrating sealer, and it typically needs resealing every one to three years depending on traffic and cleaning habits. If you prefer to avoid ongoing sealing maintenance, you can choose premixed acrylic or epoxy grouts, which are naturally non-porous and stain-resistant from day one.",
+        "@type": "Answer",
+        "description": "Yes, standard cement grout must be sealed to repel moisture and stains, whereas choosing specialized epoxy grout eliminates the need for ongoing sealing."
+      }
+    }
+  ],
+  "description": "Yes, standard cement grout must be sealed to repel moisture and stains, whereas choosing specialized epoxy grout eliminates the need for ongoing sealing."
+}

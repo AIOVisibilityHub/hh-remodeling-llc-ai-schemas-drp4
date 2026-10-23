@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-wainscoting-be-installed-in-a-bathroom-or-high-moisture-area",
+  "name": "Can wainscoting be installed in a bathroom or high-moisture area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wainscoting be installed in a bathroom or high-moisture area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wainscoting can be installed in bathrooms, but moisture management determines the material selection. Standard wood and MDF absorb steam and can swell over time, leading to joint separation and peeling paint. In full bathrooms with showers, moisture-resistant materials like cellular PVC, treated pine, or cement-based panels perform best. Behind toilets and around vanities, precise cutouts are required. Pairing durable materials with water-resistant interior paint protects your walls from daily humidity while retaining classic architectural detail.",
+        "@type": "Answer",
+        "description": "Yes, but moisture-resistant materials such as cellular PVC or treated wood should be used instead of standard MDF to prevent swelling and water damage."
+      }
+    }
+  ],
+  "description": "Yes, but moisture-resistant materials such as cellular PVC or treated wood should be used instead of standard MDF to prevent swelling and water damage."
+}

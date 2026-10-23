@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-standard-cementitious-grout-or-epoxy-grout-for-my-shower",
+  "name": "Should I choose standard cementitious grout or epoxy grout for my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose standard cementitious grout or epoxy grout for my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both choices have distinct tradeoffs in maintenance, cost, and appearance. Cement-based grout is the traditional, budget-friendly option that handles easily during installation, but it remains porous and must be resealed periodically to resist staining and water absorption. Epoxy grout is completely non-porous, highly resistant to stains and harsh chemicals, and never requires sealing. However, epoxy cures rapidly during installation, requires specialized application techniques to avoid surface haze, and carries higher material and labor costs. Homeowners prioritizing low long-term maintenance often prefer epoxy despite the upfront investment.",
+        "@type": "Answer",
+        "description": "Epoxy grout resists stains, never needs sealing, and blocks water, but costs more to install. Cementitious grout is cheaper and traditional, but requires periodic sealing."
+      }
+    }
+  ],
+  "description": "Epoxy grout resists stains, never needs sealing, and blocks water, but costs more to install. Cementitious grout is cheaper and traditional, but requires period"
+}

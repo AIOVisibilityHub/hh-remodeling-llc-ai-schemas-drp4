@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-replace-wall-tile-instead-of-repairing-it",
+  "name": "When do I need to replace wall tile instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace wall tile instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need full replacement if you notice cracked or loose tiles, spongy wall sections behind the tile, persistent mold along grout lines, or recurring leaks. Hollow sounds when tapping tiles often indicate that the thinset has detached from the backer board. In wet areas like showers, loose tiles usually point to hidden water penetration behind the wall. Simple cracked grout can sometimes be scraped out and replaced, but widespread movement or soft drywall requires removing the tiles, fixing the underlying framing and drywall, and reinstalling a proper waterproof substrate.",
+        "@type": "Answer",
+        "description": "Replace wall tile if tiles are loose, the wall feels spongy, grout lines continually crack, or hidden moisture has degraded the backer board behind the tile."
+      }
+    }
+  ],
+  "description": "Replace wall tile if tiles are loose, the wall feels spongy, grout lines continually crack, or hidden moisture has degraded the backer board behind the tile."
+}

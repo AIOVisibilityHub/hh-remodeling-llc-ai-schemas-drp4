@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-ceramic-and-porcelain-tile",
+  "name": "What is the difference between ceramic and porcelain tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ceramic and porcelain tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceramic tile is softer, easier to cut, and generally more budget-friendly than porcelain, making it ideal for interior walls, backsplashes, and light-to-moderate foot traffic areas. Porcelain is denser, less porous, and fired at higher temperatures, which makes it more durable for high-traffic floors and wet shower pans. When choosing ceramic over porcelain, you save on material costs and cutting time, but you give up some impact and moisture resistance. In dry living areas or accent walls, ceramic performs reliably without the extra weight and cutting difficulty of dense porcelain.",
+        "@type": "Answer",
+        "description": "Ceramic tile is lighter, easier to cut, and budget-friendly for walls and light-traffic floors, whereas porcelain is denser, highly water-resistant, and better for heavy floor use."
+      }
+    }
+  ],
+  "description": "Ceramic tile is lighter, easier to cut, and budget-friendly for walls and light-traffic floors, whereas porcelain is denser, highly water-resistant, and better"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-cost-of-a-tile-or-marble-project",
+  "name": "What factors influence the cost of a tile or marble project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a tile or marble project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of tile and marble installation depends on material selection, surface area, and the level of structural preparation required. Natural marble and large-format tiles generally cost more to install than standard ceramic because they require specialized cutting tools, heavier mortars, and flatter substrates. Additional cost factors include demolition of existing finishes, repairing damaged subfloors, framing custom shower pans, and installing waterproof membranes. Complex layout patterns like herringbone or detailed mosaic borders also involve more cuts and labor time than straightforward grid layouts.",
+        "@type": "Answer",
+        "description": "Costs depend on tile material, square footage, pattern complexity, demolition needs, subfloor leveling, and required waterproofing membranes."
+      }
+    }
+  ],
+  "description": "Costs depend on tile material, square footage, pattern complexity, demolition needs, subfloor leveling, and required waterproofing membranes."
+}

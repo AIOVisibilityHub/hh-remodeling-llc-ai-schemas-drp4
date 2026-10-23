@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-the-backsplash-installer-arrives",
+  "name": "How should I prepare my kitchen before the backsplash installer arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before the backsplash installer arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your tile contractor arrives, clear your countertops completely and empty nearby cabinets if dust-sensitive items are stored inside. Remove small appliances, knife blocks, and decor so the work area is unobstructed. It is also helpful to make sure your tile, accent pieces, and trim have been delivered and inspected for dye-lot consistency and shipping damage. If you have under-cabinet lighting or specific outlet cover styles planned, having those on-site helps the installer plan precise cuts and box extension depths.",
+        "@type": "Answer",
+        "description": "Clear all countertops, empty nearby surfaces of appliances and food items, and have all tile, trim, and electrical outlet extenders on-site for review."
+      }
+    }
+  ],
+  "description": "Clear all countertops, empty nearby surfaces of appliances and food items, and have all tile, trim, and electrical outlet extenders on-site for review."
+}

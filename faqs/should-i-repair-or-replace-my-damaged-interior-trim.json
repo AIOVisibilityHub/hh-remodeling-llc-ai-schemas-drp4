@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-repair-or-replace-my-damaged-interior-trim",
+  "name": "Should I repair or replace my damaged interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my damaged interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often repair minor cosmetic issues, but full replacement is best when wood is cracked through, warped, rotted, or heavily gouged. Small dents, pet scratches, and nail holes can usually be filled, sanded, and painted. However, if the trim has water damage from a plumbing leak or storm damage, the wood fibers degrade and cannot hold paint or fasteners securely. Additionally, replacing an entire run of trim rather than patching small pieces ensures clean, continuous lines without visible seams. An on-site assessment determines whether a quick patch or a new profile matches your existing millwork best.",
+        "@type": "Answer",
+        "description": "Repair minor dings and nail holes with filler, but replace boards that are rotted, warped, split, or water-damaged to ensure seamless finish lines."
+      }
+    }
+  ],
+  "description": "Repair minor dings and nail holes with filler, but replace boards that are rotted, warped, split, or water-damaged to ensure seamless finish lines."
+}

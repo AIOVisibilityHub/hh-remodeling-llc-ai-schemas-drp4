@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-match-my-existing-baseboards-or-door-casings",
+  "name": "Can you match my existing baseboards or door casings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match my existing baseboards or door casings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing trim is common, though older homes may feature discontinued profiles. We take a sample cut of your existing baseboard, casing, or crown molding to source an exact match from local lumber suppliers. If a standard stock profile is no longer manufactured, we can often combine multiple standard molding pieces to replicate the profile or custom-mill a replacement section. Providing clear photos or measuring the profile height and depth before an estimate helps determine availability quickly.",
+        "@type": "Answer",
+        "description": "Yes, existing trim can usually be matched by sourcing identical stock profiles or combining standard moldings to replicate discontinued profiles."
+      }
+    }
+  ],
+  "description": "Yes, existing trim can usually be matched by sourcing identical stock profiles or combining standard moldings to replicate discontinued profiles."
+}

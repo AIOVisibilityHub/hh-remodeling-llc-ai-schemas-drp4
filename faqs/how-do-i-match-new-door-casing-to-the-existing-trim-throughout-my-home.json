@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-match-new-door-casing-to-the-existing-trim-throughout-my-home",
+  "name": "How do I match new door casing to the existing trim throughout my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I match new door casing to the existing trim throughout my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To match existing casing, measure the exact width, thickness, and profile contour of your current trim, as standard stock designs have changed over the decades. Modern tract homes commonly feature flat craftsman or colonial profiles, while older homes in established Denver neighborhoods often feature custom millwork or wider colonial casings that require specialized lumber supply sourcing. Bringing a scrap piece or detailed profile tracing to your finish contractor allows them to locate an exact match or mill custom trim to maintain architectural continuity across your home.",
+        "@type": "Answer",
+        "description": "Measure the width and depth of your existing casing and provide a physical scrap piece or profile tracing so your contractor can source matching architectural stock or custom millwork."
+      }
+    }
+  ],
+  "description": "Measure the width and depth of your existing casing and provide a physical scrap piece or profile tracing so your contractor can source matching architectural s"
+}

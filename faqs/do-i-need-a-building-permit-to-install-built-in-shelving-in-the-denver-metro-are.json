@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-install-built-in-shelving-in-the-denver-metro-are",
+  "name": "Do I need a building permit to install built-in shelving in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to install built-in shelving in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding built-in shelving typically does not require a permit if it is purely surface-mounted cabinetry and finish carpentry. However, if your shelving project involves opening load-bearing walls, building recessed wall niches, or adding new electrical outlets and accent lighting circuits, local building departments in areas like Centennial, Parker, or Denver generally require trade permits. Working with a general contractor who handles both finish carpentry and coordinated electrical or plumbing sub-trades ensures that any wiring modifications or structural framing adjustments follow local residential building codes and pass municipal inspections when required.",
+        "@type": "Answer",
+        "description": "Standard surface-mounted shelves do not require permits, but modifications involving structural framing, recessed wall openings, or new wiring circuits do."
+      }
+    }
+  ],
+  "description": "Standard surface-mounted shelves do not require permits, but modifications involving structural framing, recessed wall openings, or new wiring circuits do."
+}

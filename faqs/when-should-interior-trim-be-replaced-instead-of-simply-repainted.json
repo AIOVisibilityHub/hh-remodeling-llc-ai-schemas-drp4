@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-interior-trim-be-replaced-instead-of-simply-repainted",
+  "name": "When should interior trim be replaced instead of simply repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should interior trim be replaced instead of simply repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your trim if it shows signs of rot, water swelling, severe pet damage, or multiple thick coats of peeling paint that obscure its details. If moldings are merely scuffed or separating slightly from settling drywall, re-nailing, caulking, and a fresh coat of paint will restore them. However, if you are installing new flooring with a different thickness or remediating past moisture issues, installing new, properly proportioned trim is often more cost-effective than trying to salvage brittle, damaged boards.",
+        "@type": "Answer",
+        "description": "Replace trim if it has water damage, rot, deep gouges, or severe warping; minor scuffs and slight joint gaps can usually be caulked and repainted."
+      }
+    }
+  ],
+  "description": "Replace trim if it has water damage, rot, deep gouges, or severe warping; minor scuffs and slight joint gaps can usually be caulked and repainted."
+}

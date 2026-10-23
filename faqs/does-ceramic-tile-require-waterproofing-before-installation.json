@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/does-ceramic-tile-require-waterproofing-before-installation",
+  "name": "Does ceramic tile require waterproofing before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does ceramic tile require waterproofing before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceramic tile cannot be installed directly over standard drywall or bare subflooring in wet areas such as showers, tub surrounds, or bathroom floors. Water inevitably penetrates porous grout lines over time, leading to hidden mold, rot, and structural drywall failure. Wet zones require cement backer board or specialized waterproof foam panels combined with taped seams and a liquid waterproofing membrane. In dry areas like kitchen backsplashes, ceramic tile can be set directly onto clean drywall using appropriate mastic or thin-set adhesive.",
+        "@type": "Answer",
+        "description": "Yes, shower walls and wet areas require cement backer board and a continuous waterproof membrane, while dry backsplashes can be installed directly onto drywall."
+      }
+    }
+  ],
+  "description": "Yes, shower walls and wet areas require cement backer board and a continuous waterproof membrane, while dry backsplashes can be installed directly onto drywall."
+}

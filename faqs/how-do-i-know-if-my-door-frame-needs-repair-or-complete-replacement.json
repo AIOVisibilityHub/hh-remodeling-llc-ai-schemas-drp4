@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-door-frame-needs-repair-or-complete-replacement",
+  "name": "How do I know if my door frame needs repair or complete replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my door frame needs repair or complete replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace a door frame if you notice severe wood rot, deep structural cracks, persistent sticking that shimming cannot fix, or visible gaps that let in drafts. Soft wood near the threshold often points to water intrusion, which can spread to subflooring and wall studs if ignored. In remodeling projects, frames are often replaced when reconfiguring room layouts, opening up wider entryways, or upgrading interior aesthetics with fresh finish trim and modern casing profiles.",
+        "@type": "Answer",
+        "description": "Replace the frame if you observe wood rot, split jambs, severe warping that prevents latching, or if you are altering wall openings during a home remodel."
+      }
+    }
+  ],
+  "description": "Replace the frame if you observe wood rot, split jambs, severe warping that prevents latching, or if you are altering wall openings during a home remodel."
+}

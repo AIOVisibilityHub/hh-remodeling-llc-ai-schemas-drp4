@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-mitered-window-casing-and-butt-joint-casing",
+  "name": "What is the difference between mitered window casing and butt-joint casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mitered window casing and butt-joint casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mitered casing joins the side and top trim at 45-degree angles, creating a uniform border around the window. Butt-joint casing (common in Craftsman and modern designs) positions vertical side casings flat against a wider top header piece and a bottom stool or apron. Mitered joints deliver a classic picture-frame look but require extreme precision and tight nailing to prevent corner separation when indoor temperatures shift. Butt-joint designs are sturdier against wood movement, fit thicker head moldings easily, and offer a clean, substantial profile.",
+        "@type": "Answer",
+        "description": "Mitered casing connects trim at 45-degree angles, while butt-joint casing squares vertical side legs against a distinct top header and bottom sill."
+      }
+    }
+  ],
+  "description": "Mitered casing connects trim at 45-degree angles, while butt-joint casing squares vertical side legs against a distinct top header and bottom sill."
+}

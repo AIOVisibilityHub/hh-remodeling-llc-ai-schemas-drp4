@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-workflow-for-an-interior-finishing-project",
+  "name": "What is the typical workflow for an interior finishing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical workflow for an interior finishing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an on-site consultation to review measurements, inspect existing walls, and discuss trim styles, tile layouts, and paint finishes. Once the scope is finalized, the crew protects floors and furnishings, makes any necessary framing adjustments, hangs and finishes drywall, and allows mud to dry thoroughly. Next, trim carpenters hang doors, install casing, baseboards, and molding, followed by any tile or marble setting. Finally, joints are caulked, nail holes filled, and primer and interior paint applied. Abraham Becerra oversees on-site execution to keep the sequence organized and ensure punch-list items are handled promptly.",
+        "@type": "Answer",
+        "description": "The workflow covers site prep, framing adjustments, drywall finishing, trim carpentry, tile installation, caulking and hole filling, and final interior painting."
+      }
+    }
+  ],
+  "description": "The workflow covers site prep, framing adjustments, drywall finishing, trim carpentry, tile installation, caulking and hole filling, and final interior painting"
+}

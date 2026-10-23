@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-or-add-new-window-casing",
+  "name": "When should I replace or add new window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace or add new window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should install window casing whenever the old trim is cracked, warped, rotted, or drafty, or immediately after installing replacement windows. New windows often feature different jamb depths than the original units, leaving unfinished perimeter gaps that require fresh jamb extensions and casing. Updating window trim is also recommended during broader interior remodels, such as drywall repairs, baseboard replacements, or room repainting, because coordinating trim carpentry with wall repairs ensures crisp paint lines and consistent trim thickness throughout the space.",
+        "@type": "Answer",
+        "description": "Replace casing after installing replacement windows, when existing trim is warped or water-damaged, or during full room remodels to unify trim profiles."
+      }
+    }
+  ],
+  "description": "Replace casing after installing replacement windows, when existing trim is warped or water-damaged, or during full room remodels to unify trim profiles."
+}

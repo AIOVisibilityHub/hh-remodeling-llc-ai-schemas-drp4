@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-solid-wood-and-mdf-trim",
+  "name": "What is the difference between solid wood and MDF trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid wood and MDF trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice depends on your moisture exposure, budget, and whether you plan to paint or stain. Solid wood like pine, poplar, or oak is durable, offers sharp edges, and can be stained or painted, making it ideal for high-traffic zones or historic homes. MDF (medium-density fiberboard) is smooth, budget-friendly, and comes pre-primed for painting, but it absorbs moisture quickly and swells if exposed to leaks. For bathrooms, laundry rooms, or basement walkouts prone to dampness, moisture-resistant materials or sealed solid wood are far more durable long-term options than basic MDF.",
+        "@type": "Answer",
+        "description": "Solid wood is durable, can be stained or painted, and handles minor moisture, while MDF is a smooth, cost-effective, paint-ready option that swells when exposed to water."
+      }
+    }
+  ],
+  "description": "Solid wood is durable, can be stained or painted, and handles minor moisture, while MDF is a smooth, cost-effective, paint-ready option that swells when exposed"
+}

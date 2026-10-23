@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-floor-tile-be-installed-over-an-existing-tile-floor",
+  "name": "Can new floor tile be installed over an existing tile floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new floor tile be installed over an existing tile floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new tile directly over existing tile is sometimes possible, but tearing out the old floor is usually the better choice. For tile-over-tile installation to work, the existing tile must be completely solid, level, and free of cracks, with adequate floor height clearance for doors and appliances. Tearing out the old flooring adds demolition time and disposal costs, but it allows installers to inspect the subfloor for hidden water damage or structural flexing, ensuring a longer-lasting, level installation.",
+        "@type": "Answer",
+        "description": "It is possible if the old tile is firmly bonded and level, but tearing out the old floor is usually best to inspect the subfloor and avoid doorway height problems."
+      }
+    }
+  ],
+  "description": "It is possible if the old tile is firmly bonded and level, but tearing out the old floor is usually best to inspect the subfloor and avoid doorway height proble"
+}

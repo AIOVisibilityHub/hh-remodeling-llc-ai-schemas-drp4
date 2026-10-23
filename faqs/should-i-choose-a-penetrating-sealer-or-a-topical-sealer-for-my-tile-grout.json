@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-penetrating-sealer-or-a-topical-sealer-for-my-tile-grout",
+  "name": "Should I choose a penetrating sealer or a topical sealer for my tile grout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a penetrating sealer or a topical sealer for my tile grout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Penetrating sealers soak deep into cement grout pores to repel water and oils from within while preserving the natural, matte look of the joint. Topical sealers form a protective coating over the top of the grout line, sometimes leaving a semi-gloss or wet-look sheen. In wet environments like shower pans, penetrating sealers are strongly preferred because topical coatings can trap moisture beneath the surface, leading to peeling and cloudy discoloration. Choosing the correct formulation protects adjacent natural stone or marble from unexpected haze during application.",
+        "@type": "Answer",
+        "description": "Penetrating sealers are best for wet areas like showers because they soak in and breathe, while topical sealers create a surface film that can peel in standing water."
+      }
+    }
+  ],
+  "description": "Penetrating sealers are best for wet areas like showers because they soak in and breathe, while topical sealers create a surface film that can peel in standing"
+}

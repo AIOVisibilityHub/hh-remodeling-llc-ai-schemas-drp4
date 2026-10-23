@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-have-to-remove-existing-flooring-before-installing-ceramic-tile",
+  "name": "Do you have to remove existing flooring before installing ceramic tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you have to remove existing flooring before installing ceramic tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, existing flooring usually needs to be removed down to the subfloor to ensure a long-lasting ceramic tile installation. Installing tile over existing linoleum, vinyl, or old tile often creates height transition problems with adjacent rooms, compromises mortar adhesion, and increases the risk of cracked grout lines. For a stable installation, the underlying surface must be rigid, clean, and flat. Contractors typically remove old materials, inspect the wooden subfloor or concrete slab for deflection or moisture, and install a dedicated cement board or membrane before setting new tile.",
+        "@type": "Answer",
+        "description": "Yes. Removing old flooring ensures proper adhesion, prevents height mismatches at doorways, and allows inspection of the subfloor to prevent cracked tiles."
+      }
+    }
+  ],
+  "description": "Yes. Removing old flooring ensures proper adhesion, prevents height mismatches at doorways, and allows inspection of the subfloor to prevent cracked tiles."
+}
