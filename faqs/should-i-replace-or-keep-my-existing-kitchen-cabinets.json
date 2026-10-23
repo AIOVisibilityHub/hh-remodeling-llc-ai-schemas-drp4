@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-or-keep-my-existing-kitchen-cabinets",
+  "name": "Should I replace or keep my existing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or keep my existing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement is best if your current boxes are failing, water-damaged, or you want to change the kitchen layout entirely. Keeping or refinishing existing cabinets makes sense when the framework is structurally solid and you only want updated colors, new door profiles, or modern hardware. Replacing cabinets increases material expense and labor time, but it allows for custom pantry storage and modern pull-out drawers. Keeping sound boxes saves significant budget that you can direct toward higher-end marble or tile backsplashes and updated appliances.",
+        "@type": "Answer",
+        "description": "Replace them if the boxes are damaged or the layout changes; keep and refinish them if the boxes are sturdy and you want to conserve budget for tile and countertops."
+      }
+    }
+  ],
+  "description": "Replace them if the boxes are damaged or the layout changes; keep and refinish them if the boxes are sturdy and you want to conserve budget for tile and counter"
+}

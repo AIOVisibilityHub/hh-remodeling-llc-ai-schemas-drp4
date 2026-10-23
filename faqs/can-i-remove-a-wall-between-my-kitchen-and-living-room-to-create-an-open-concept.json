@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remove-a-wall-between-my-kitchen-and-living-room-to-create-an-open-concept",
+  "name": "Can I remove a wall between my kitchen and living room to create an open concept?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove a wall between my kitchen and living room to create an open concept?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a kitchen wall to create an open floor plan requires verifying whether the partition is load-bearing. Non-load-bearing partition walls can be taken down with minimal structural adjustments, while load-bearing walls require temporary shoring, engineered support beams, and custom framing. An open floor plan often requires rerouting electrical wires, moving plumbing vents, and patching drywall and ceiling textures. HH Remodeling handles the necessary framing, drywall, and finish work while working with trade specialists to safely manage hidden mechanical systems.",
+        "@type": "Answer",
+        "description": "Yes, but load-bearing walls require proper structural framing and support beams, along with careful rerouting of any internal plumbing and electrical lines."
+      }
+    }
+  ],
+  "description": "Yes, but load-bearing walls require proper structural framing and support beams, along with careful rerouting of any internal plumbing and electrical lines."
+}

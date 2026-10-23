@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-house-while-the-kitchen-is-being-remodeled",
+  "name": "Can I stay in my house while the kitchen is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the kitchen is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a kitchen remodel is possible, especially if you set up a functional temporary prep space elsewhere. However, you must be prepared for temporary utility shutoffs, construction noise, and limited cooking capabilities. If your project involves a total layout overhaul, extensive drywall patching, subfloor repairs, and multiple trade crews, staying elsewhere during the heavy demolition and rough-in phases may reduce stress. We seal off work areas with plastic barriers and clean up daily to minimize dust throughout the rest of your house.",
+        "@type": "Answer",
+        "description": "Yes, many homeowners stay by setting up a temporary kitchenette, though relocating during loud demolition and rough-in work can reduce daily disruption."
+      }
+    }
+  ],
+  "description": "Yes, many homeowners stay by setting up a temporary kitchenette, though relocating during loud demolition and rough-in work can reduce daily disruption."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-home-while-my-kitchen-is-being-remodeled",
+  "name": "Can I stay in my home while my kitchen is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while my kitchen is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often live in your home, but you must plan for temporary loss of running water and cooking facilities in the kitchen. During the drywall, painting, and tile phases, there will be construction dust and work noise during daytime hours. If your project involves a total gut or major sub-trade rough-ins, living on-site requires setting up a makeshift kitchenette in a basement or dining area to manage daily meals comfortably.",
+        "@type": "Answer",
+        "description": "Yes, but you will need an alternative meal setup since your sink, stove, and kitchen workspace will be out of commission during construction."
+      }
+    }
+  ],
+  "description": "Yes, but you will need an alternative meal setup since your sink, stove, and kitchen workspace will be out of commission during construction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-determine-the-cost-of-a-kitchen-upgrade",
+  "name": "What factors determine the cost of a kitchen upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of a kitchen upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen upgrade costs vary widely based on square footage, material selections, and whether structural or utility changes are required. Surface-level enhancements such as new tile backsplashes, drywall repairs, and fresh paint fall on the lower end of remodeling budgets. Full overhauls that include new custom framing, cabinet installations, and sub-trade coordination for plumbing and electrical work require larger investments. Your choice of materials—such as ceramic tile versus marble or stock versus custom cabinetry—plays a major role in determining the final project total.",
+        "@type": "Answer",
+        "description": "Cost depends on the scope of work, cabinet choices, tile materials, and whether walls, plumbing, or electrical fixtures are being moved."
+      }
+    }
+  ],
+  "description": "Cost depends on the scope of work, cabinet choices, tile materials, and whether walls, plumbing, or electrical fixtures are being moved."
+}

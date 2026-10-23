@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-building-permits-for-a-full-kitchen-remodel-in-the-denver-area",
+  "name": "Do I need building permits for a full kitchen remodel in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for a full kitchen remodel in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are typically required across the Denver metro area whenever a project alters electrical wiring, moves plumbing lines, or removes structural framing. Cosmetic work like replacing cabinets in place or hanging drywall often does not require structural permits, but moving a sink or adding dedicated circuits for a microwave or dishwasher does. Each municipality has distinct building review steps. HH Remodeling LLC coordinates with licensed trade partners to ensure all rough-in plumbing and electrical installations meet current local codes and pass mandatory municipal inspections.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required in the Denver area when altering electrical circuits, relocating plumbing lines, or modifying load-bearing walls."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required in the Denver area when altering electrical circuits, relocating plumbing lines, or modifying load-bearing walls."
+}

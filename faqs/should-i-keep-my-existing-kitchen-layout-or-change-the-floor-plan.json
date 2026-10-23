@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-keep-my-existing-kitchen-layout-or-change-the-floor-plan",
+  "name": "Should I keep my existing kitchen layout or change the floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my existing kitchen layout or change the floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping your existing layout saves time and plumbing expenses, while changing the layout improves workflow, storage, and modern functionality. If your current triangle between the sink, refrigerator, and range is tight or blocked by an awkward island, redesigning the footprint is often worth the extra trade coordination. However, keeping the layout lets you invest more of your budget into high-end finish carpentry, natural stone tile, or premium cabinetry. A practical tradeoff is that relocating plumbing beneath concrete slabs or through finished ceilings below adds labor that does not show on the surface.",
+        "@type": "Answer",
+        "description": "Keeping your layout reduces trade costs and construction time, while redesigning the footprint resolves poor workflow and maximizes functional counter space."
+      }
+    }
+  ],
+  "description": "Keeping your layout reduces trade costs and construction time, while redesigning the footprint resolves poor workflow and maximizes functional counter space."
+}

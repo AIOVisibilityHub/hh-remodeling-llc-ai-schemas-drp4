@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-between-adding-a-kitchen-island-or-a-peninsula",
+  "name": "How do I decide between adding a kitchen island or a peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide between adding a kitchen island or a peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen island requires at least 36 to 42 inches of clearance on all working sides to allow cabinet doors, dishwashers, and ovens to open safely. If your room width cannot accommodate those clearances, a peninsula is typically the better choice. Peninsulas attach to an existing wall or counter run, providing extra prep space and casual seating without requiring perimeter clearance on all four sides. Islands offer central 360-degree traffic flow, but forcing an island into a narrow space restricts movement and creates bottlenecks between the cooking and cleanup zones.",
+        "@type": "Answer",
+        "description": "An island requires at least 36 to 42 inches of perimeter clearance around all sides. If space is tight, a peninsula provides counter space and seating without constricting walkway flow."
+      }
+    }
+  ],
+  "description": "An island requires at least 36 to 42 inches of perimeter clearance around all sides. If space is tight, a peninsula provides counter space and seating without c"
+}

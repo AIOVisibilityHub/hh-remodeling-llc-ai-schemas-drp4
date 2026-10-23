@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-my-kitchen-cabinets-or-have-them-refinished",
+  "name": "Should I replace my kitchen cabinets or have them refinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my kitchen cabinets or have them refinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement provides a completely new layout and custom interior storage, but it requires higher material investment and longer lead times. Refacing or refinishing preserves structurally sound cabinet boxes while updating doors, drawer fronts, trim moldings, and paint finishes at a lower overall cost. If your current layout works well and the cabinet frames are solid, refinishing saves both money and construction time. If your space has damaged wood or a dysfunctional configuration, a full replacement with custom finish carpentry is the better long-term choice.",
+        "@type": "Answer",
+        "description": "Replace cabinets if your layout needs changing or frames are worn out; choose refinishing if existing cabinet boxes are sturdy and you simply want an updated visual style."
+      }
+    }
+  ],
+  "description": "Replace cabinets if your layout needs changing or frames are worn out; choose refinishing if existing cabinet boxes are sturdy and you simply want an updated vi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-decide-whether-to-keep-or-replace-my-kitchen-cabinets",
+  "name": "How do I decide whether to keep or replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide whether to keep or replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading cabinets is necessary if the existing boxes show structural damage, water rot, or do not suit your desired layout. If your cabinet boxes are structurally sound, you might gain significant budget savings by keeping them and focusing resources on new countertops, a tile backsplash, or modern hardware. However, if you plan to change the room layout, add an island, or need modern storage solutions, replacing the cabinets entirely is the better long-term decision.",
+        "@type": "Answer",
+        "description": "Keep cabinets if the structural boxes are solid and fit your layout; replace them if they have water damage, structural wear, or if you are changing the floor plan."
+      }
+    }
+  ],
+  "description": "Keep cabinets if the structural boxes are solid and fit your layout; replace them if they have water damage, structural wear, or if you are changing the floor p"
+}

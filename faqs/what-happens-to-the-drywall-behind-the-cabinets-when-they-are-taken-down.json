@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-to-the-drywall-behind-the-cabinets-when-they-are-taken-down",
+  "name": "What happens to the drywall behind the cabinets when they are taken down?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the drywall behind the cabinets when they are taken down?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing old cabinets almost always reveals cosmetic wall damage, including screw holes, torn drywall paper, and missing paint, and occasionally uncovers hidden moisture or framing issues. When you work with a contractor who handles both finish carpentry and drywall repair, patching holes, floating joint compound, and texture matching can occur seamlessly right after demolition. This coordination ensures the walls are flat, smooth, and structurally sound before your new cabinetry or backsplash tile is installed.",
+        "@type": "Answer",
+        "description": "Torn drywall paper and anchor holes are common; a contractor skilled in drywall repair can patch, float, and prep the walls immediately after removal."
+      }
+    }
+  ],
+  "description": "Torn drywall paper and anchor holes are common; a contractor skilled in drywall repair can patch, float, and prep the walls immediately after removal."
+}

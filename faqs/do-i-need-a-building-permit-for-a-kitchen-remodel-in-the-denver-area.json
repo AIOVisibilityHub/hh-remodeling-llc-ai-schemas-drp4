@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-kitchen-remodel-in-the-denver-area",
+  "name": "Do I need a building permit for a kitchen remodel in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a kitchen remodel in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most jurisdictions across the Denver metropolitan area require building permits if your kitchen renovation involves moving electrical circuits, adding outlets, altering plumbing lines, or modifying load-bearing walls. Simple cosmetic updates, such as replacing existing cabinet doors, painting drywall, or installing a new tile backsplash in the same footprint, generally do not require permits. When permitted work is required, licensed trade partners handle the technical rough-ins so the project complies with municipal building codes and passes required inspections.",
+        "@type": "Answer",
+        "description": "Permits are generally required when moving electrical, plumbing, or structural walls, but simple cosmetic updates like painting or retiling rarely require them."
+      }
+    }
+  ],
+  "description": "Permits are generally required when moving electrical, plumbing, or structural walls, but simple cosmetic updates like painting or retiling rarely require them."
+}

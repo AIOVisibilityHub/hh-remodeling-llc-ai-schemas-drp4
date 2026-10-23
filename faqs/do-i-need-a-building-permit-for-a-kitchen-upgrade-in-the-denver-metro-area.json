@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-kitchen-upgrade-in-the-denver-metro-area",
+  "name": "Do I need a building permit for a kitchen upgrade in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a kitchen upgrade in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits depend on project scope and your local municipality within the greater Denver area, including Aurora, Centennial, or Parker. Simple cosmetic updates like tiling a backsplash, replacing finish trim, or repainting walls do not require permits. However, removing load-bearing walls, altering structural framing, or running new plumbing lines and electrical circuits generally requires municipal permits and rough-in inspections before drywall can be closed up.",
+        "@type": "Answer",
+        "description": "Cosmetic changes do not require permits, but structural framing changes or new plumbing and electrical lines require city permits and inspections."
+      }
+    }
+  ],
+  "description": "Cosmetic changes do not require permits, but structural framing changes or new plumbing and electrical lines require city permits and inspections."
+}

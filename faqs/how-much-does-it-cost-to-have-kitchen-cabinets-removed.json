@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-it-cost-to-have-kitchen-cabinets-removed",
+  "name": "How much does it cost to have kitchen cabinets removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to have kitchen cabinets removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional cabinet removal generally ranges from $300 to $1,200 or more, depending on the number of linear feet, the height of the uppers, and hauling logistics. Heavy materials like stone countertops resting on base cabinets add labor complexity, as they must be removed or broken down first. The overall cost also shifts based on whether you need full debris disposal or if the contractor is preparing the space for an immediate full-scope kitchen remodel, which often bundles demolition into the broader carpentry and drywall scope.",
+        "@type": "Answer",
+        "description": "Cabinet removal typically costs between $300 and $1,200, depending on kitchen layout, countertop detachment, and debris hauling requirements."
+      }
+    }
+  ],
+  "description": "Cabinet removal typically costs between $300 and $1,200, depending on kitchen layout, countertop detachment, and debris hauling requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-move-my-kitchen-sink-to-an-island-or-another-wall",
+  "name": "Can I move my kitchen sink to an island or another wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my kitchen sink to an island or another wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving a kitchen sink is very common during layout overhauls, but feasibility depends on your home’s foundation and drain venting. In homes with accessible basements or crawl spaces, running new drain pipes and water supply lines beneath the subfloor is relatively straightforward. Homes built on concrete slabs require cutting and trenching the concrete to lay new plumbing, which increases labor and cleanup. Additionally, plumbing codes require appropriate vent pipe tie-ins behind the wall, so an on-site assessment of subfloor access is essential before finalizing a new sink location.",
+        "@type": "Answer",
+        "description": "Yes, moving a sink is common. Homes with basements or crawl spaces allow easier plumbing adjustments, while concrete slab foundations require trenching for drain and water lines."
+      }
+    }
+  ],
+  "description": "Yes, moving a sink is common. Homes with basements or crawl spaces allow easier plumbing adjustments, while concrete slab foundations require trenching for drai"
+}

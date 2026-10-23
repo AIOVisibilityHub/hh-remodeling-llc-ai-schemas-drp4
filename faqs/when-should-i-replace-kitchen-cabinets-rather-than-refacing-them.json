@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-kitchen-cabinets-rather-than-refacing-them",
+  "name": "When should I replace kitchen cabinets rather than refacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace kitchen cabinets rather than refacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace your cabinets if the boxes are sagging, water-damaged, or structurally unstable, or if you plan to reconfigure your layout. Refacing only replaces drawer fronts and doors while applying veneer over existing cabinet boxes. While refacing costs less upfront, it cannot fix broken internal framing, misaligned drawer glides, or poor cabinet arrangement. If you are tearing down walls or investing in heavy stone countertops, new custom or semi-custom cabinets provide the necessary structural support and longevity to match the rest of your new space.",
+        "@type": "Answer",
+        "description": "Replace cabinets if the boxes have water damage, structural wear, or if you are changing the layout; reface only if existing cabinet boxes are sound."
+      }
+    }
+  ],
+  "description": "Replace cabinets if the boxes have water damage, structural wear, or if you are changing the layout; reface only if existing cabinet boxes are sound."
+}
