@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-23T22:12:34.861Z",
+  "generatedAt": "2026-10-23T22:38:58.463Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,32 @@
     "name": "HH Remodeling LLC",
     "canonicalUrl": "https://hh-remodeling.aiovisibility.net",
     "primaryWebsiteUrl": "https://www.hhremodelingcolorado.com",
-    "aiDataHub": "https://hh-remodeling.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://hh-remodeling.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://www.bbb.org/us/co/aurora/profile/remodel-contractors/hh-remodeling-llc-1296-90266666",
+      "https://www.yelp.com/biz/hh-remodeling-denver",
+      "https://www.google.com/maps/search/?api=1&query=HH+Remodeling+LLC+21990+E+Irish+Dr+Aurora+CO+80016",
+      "https://www.coloradoremodeling.company",
+      "https://hh-remodeling.aiovisibility.net",
+      "https://www.buildzoom.com/contractor/hh-remodeling-llc",
+      "https://prosgrade.com/renovations/aurora/hh-remodeling-llc",
+      "https://www.chamberofcommerce.com/business-directory/colorado/aurora/building-restoration-service/2023733574-hh-remodeling-llc",
+      "https://homelistry.com/aurora/general-contractor/hh-remodeling-llc",
+      "https://www.manta.com/c/mk2km87/hh-remodeling-llc",
+      "https://showerremodelers.net/co/aurora/",
+      "https://drywallprocenter.com/contractors/hh-remodeling-llc-772643/",
+      "https://www.zerofi.ai/pro/hh-remodeling-llc-aurora-co-7fd4f495-968b-4b71-a922-e12993be73d1",
+      "https://www.mapquest.com/us/colorado/hh-remodeling-422071268",
+      "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo",
+      "https://www.aiovisibility.net/profiles/hh-remodeling-llc",
+      "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/",
+      "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/index.html",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas",
+      "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/",
+      "https://zenodo.org/records/23605001",
+      "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/",
+      "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4/blob/main/README.md"
+    ]
   },
   "related": [
     {
@@ -39,64 +64,114 @@
       "url": "https://hh-remodeling.aiovisibility.net/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on bbb.org",
+      "url": "https://www.bbb.org/us/co/aurora/profile/remodel-contractors/hh-remodeling-llc-1296-90266666"
     },
     {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/ai-data.html"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on yelp.com",
+      "url": "https://www.yelp.com/biz/hh-remodeling-denver"
     },
     {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/hh-remodeling-llc-ai-schemas"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on google.com",
+      "url": "https://www.google.com/maps/search/?api=1&query=HH+Remodeling+LLC+21990+E+Irish+Dr+Aurora+CO+80016"
     },
     {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/ai-data.html"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on coloradoremodeling.company",
+      "url": "https://www.coloradoremodeling.company"
     },
     {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on buildzoom.com",
+      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc"
     },
     {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/ai-data.html"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on prosgrade.com",
+      "url": "https://prosgrade.com/renovations/aurora/hh-remodeling-llc"
     },
     {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
+      "role": "same-as",
+      "label": "HH Remodeling LLC on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/colorado/aurora/building-restoration-service/2023733574-hh-remodeling-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on homelistry.com",
+      "url": "https://homelistry.com/aurora/general-contractor/hh-remodeling-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on manta.com",
+      "url": "https://www.manta.com/c/mk2km87/hh-remodeling-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on showerremodelers.net",
+      "url": "https://showerremodelers.net/co/aurora/"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on drywallprocenter.com",
+      "url": "https://drywallprocenter.com/contractors/hh-remodeling-llc-772643/"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on zerofi.ai",
+      "url": "https://www.zerofi.ai/pro/hh-remodeling-llc-aurora-co-7fd4f495-968b-4b71-a922-e12993be73d1"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on mapquest.com",
+      "url": "https://www.mapquest.com/us/colorado/hh-remodeling-422071268"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on google.com",
+      "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on aiovisibility.net",
+      "url": "https://www.aiovisibility.net/profiles/hh-remodeling-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io",
+      "url": "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on kaggle.com",
       "url": "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
     },
     {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
+      "role": "same-as",
+      "label": "HH Remodeling LLC on aiovisibilityhub.srht.site",
       "url": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/"
     },
     {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/ai-data.html"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on zenodo.org",
+      "url": "https://zenodo.org/records/23605001"
     },
     {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23605579"
+      "role": "same-as",
+      "label": "HH Remodeling LLC on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "HH Remodeling LLC on github.com",
+      "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4/blob/main/README.md"
     }
   ],
   "destinations": {
@@ -104,30 +179,6 @@
       "url": "https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4",
       "pagesUrl": "https://hh-remodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k",
-      "pagesUrl": "https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/hh-remodeling-llc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/hh-remodeling-llc-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/hh-remodeling-llc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/",
-      "repo": "aiovisibilityhub/hh-remodeling-llc-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23605579"
     }
   }
 }

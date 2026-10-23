@@ -17,16 +17,28 @@ Package contents:
 - [ai-data-hub] HH Remodeling LLC — AI Data Hub — https://hh-remodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4
 - [mirror-pages] GitHub — AI Data Hub mirror — https://hh-remodeling.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/hh-remodeling-llc-ai-schemas-4g1k
-- [mirror-pages] GitLab — AI Data Hub mirror — https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/ai-data.html
-- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/hh-remodeling-llc-ai-schemas
-- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/ai-data.html
-- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/hh-remodeling-llc-ai-schemas
-- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/23605579
+- [same-as] HH Remodeling LLC on bbb.org — https://www.bbb.org/us/co/aurora/profile/remodel-contractors/hh-remodeling-llc-1296-90266666
+- [same-as] HH Remodeling LLC on yelp.com — https://www.yelp.com/biz/hh-remodeling-denver
+- [same-as] HH Remodeling LLC on google.com — https://www.google.com/maps/search/?api=1&query=HH+Remodeling+LLC+21990+E+Irish+Dr+Aurora+CO+80016
+- [same-as] HH Remodeling LLC on coloradoremodeling.company — https://www.coloradoremodeling.company
+- [same-as] HH Remodeling LLC on buildzoom.com — https://www.buildzoom.com/contractor/hh-remodeling-llc
+- [same-as] HH Remodeling LLC on prosgrade.com — https://prosgrade.com/renovations/aurora/hh-remodeling-llc
+- [same-as] HH Remodeling LLC on chamberofcommerce.com — https://www.chamberofcommerce.com/business-directory/colorado/aurora/building-restoration-service/2023733574-hh-remodeling-llc
+- [same-as] HH Remodeling LLC on homelistry.com — https://homelistry.com/aurora/general-contractor/hh-remodeling-llc
+- [same-as] HH Remodeling LLC on manta.com — https://www.manta.com/c/mk2km87/hh-remodeling-llc
+- [same-as] HH Remodeling LLC on showerremodelers.net — https://showerremodelers.net/co/aurora/
+- [same-as] HH Remodeling LLC on drywallprocenter.com — https://drywallprocenter.com/contractors/hh-remodeling-llc-772643/
+- [same-as] HH Remodeling LLC on zerofi.ai — https://www.zerofi.ai/pro/hh-remodeling-llc-aurora-co-7fd4f495-968b-4b71-a922-e12993be73d1
+- [same-as] HH Remodeling LLC on mapquest.com — https://www.mapquest.com/us/colorado/hh-remodeling-422071268
+- [same-as] HH Remodeling LLC on google.com — https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo
+- [same-as] HH Remodeling LLC on aiovisibility.net — https://www.aiovisibility.net/profiles/hh-remodeling-llc
+- [same-as] HH Remodeling LLC on hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io — https://hh-remodeling-llc-ai-schemas-4g1k-952a2c.gitlab.io/
+- [same-as] HH Remodeling LLC on aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space — https://aiovisibilityhub-hh-remodeling-llc-ai-schemas.static.hf.space/index.html
+- [same-as] HH Remodeling LLC on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/hh-remodeling-llc-ai-schemas
+- [same-as] HH Remodeling LLC on aiovisibilityhub.srht.site — https://aiovisibilityhub.srht.site/hh-remodeling-llc-ai-schemas/
+- [same-as] HH Remodeling LLC on zenodo.org — https://zenodo.org/records/23605001
+- [same-as] HH Remodeling LLC on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/hh-remodeling-llc-ai-schemas/
+- [same-as] HH Remodeling LLC on github.com — https://github.com/AIOVisibilityHub/hh-remodeling-llc-ai-schemas-drp4/blob/main/README.md
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
