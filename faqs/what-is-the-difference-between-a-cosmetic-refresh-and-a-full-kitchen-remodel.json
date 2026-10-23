@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-cosmetic-refresh-and-a-full-kitchen-remodel",
+  "name": "What is the difference between a cosmetic refresh and a full kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a cosmetic refresh and a full kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel involves stripping the space down to update the layout, surfaces, and infrastructure, whereas a cosmetic update keeps the existing footprint intact. A surface refresh typically covers painting existing cabinets, swapping hardware, and changing out a backsplash. A full-scope remodel often includes custom framing to open up walls, replacing cabinetry entirely, installing new tile or stone countertops, and rewiring or replumbing to accommodate a new layout. Choosing a full overhaul gives you total control over workflow and modern storage, but it requires coordinating specialized plumbing and electrical sub-trades alongside finish carpentry and drywall work.",
+        "@type": "Answer",
+        "description": "A refresh only updates surface elements like paint and hardware. A full remodel rebuilds the space, updating layouts, custom framing, cabinetry, plumbing, and electrical."
+      }
+    }
+  ],
+  "description": "A refresh only updates surface elements like paint and hardware. A full remodel rebuilds the space, updating layouts, custom framing, cabinetry, plumbing, and e"
+}

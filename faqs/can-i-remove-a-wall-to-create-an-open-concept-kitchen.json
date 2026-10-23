@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remove-a-wall-to-create-an-open-concept-kitchen",
+  "name": "Can I remove a wall to create an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove a wall to create an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, opening up a kitchen into an adjacent living or dining space is a common renovation goal, but it requires evaluating whether the target wall carries structural loads. Non-load-bearing partition walls can usually be removed with standard framing modifications and minor ceiling drywall repairs. If the wall is load-bearing, it supports ceiling joists, roof loads, or an upper floor, requiring a properly sized support beam and posts to redistribute weight safely. During planning, HH Remodeling assesses wall construction, handles necessary structural framing, and plans the rerouting of hidden electrical lines, plumbing vents, or ductwork concealed inside the wall.",
+        "@type": "Answer",
+        "description": "Yes, but load-bearing walls require structural beams and posts to carry weight safely, along with rerouting any plumbing or electrical wiring inside the wall."
+      }
+    }
+  ],
+  "description": "Yes, but load-bearing walls require structural beams and posts to carry weight safely, along with rerouting any plumbing or electrical wiring inside the wall."
+}

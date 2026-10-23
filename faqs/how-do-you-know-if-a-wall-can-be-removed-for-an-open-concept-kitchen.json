@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-know-if-a-wall-can-be-removed-for-an-open-concept-kitchen",
+  "name": "How do you know if a wall can be removed for an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you know if a wall can be removed for an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether a kitchen wall is load-bearing requires assessing the framing structure, typically by inspecting how joists, rafters, and beams align above the wall. During an initial site assessment, a general contractor evaluates whether the wall supports upper floors or ceiling loads. Non-load-bearing partition walls can usually be removed with standard framing adjustments. Load-bearing walls require temporary shoring, installing an engineered support beam (such as an LVL beam), and properly transferring the load down through posts. This extra framing complexity and drywall patch work affect both project scope and structural safety.",
+        "@type": "Answer",
+        "description": "A contractor evaluates the direction of structural joists above the wall. Removing a load-bearing wall requires installing an engineered beam to carry the roof or upper-floor load."
+      }
+    }
+  ],
+  "description": "A contractor evaluates the direction of structural joists above the wall. Removing a load-bearing wall requires installing an engineered beam to carry the roof"
+}

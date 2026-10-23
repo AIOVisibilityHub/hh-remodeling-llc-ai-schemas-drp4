@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-consider-a-full-remodel-instead-of-repairing-my-existing-kitchen",
+  "name": "When should I consider a full remodel instead of repairing my existing kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full remodel instead of repairing my existing kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should plan a full remodel when your current layout hinders daily cooking, storage is inadequate, or underlying components are failing. Warning signs include water-damaged subfloors under the sink, outdated electrical panels that cannot support modern appliances, or deteriorating cabinet boxes. If simple repairs no longer resolve persistent issues, a full overhaul allows you to reconfigure work zones, incorporate modern accessibility or storage features, and upgrade electrical and plumbing lines to current residential standards in one coordinated effort.",
+        "@type": "Answer",
+        "description": "A full remodel is recommended when the layout no longer works, storage is lacking, or structural, electrical, or plumbing systems require replacement."
+      }
+    }
+  ],
+  "description": "A full remodel is recommended when the layout no longer works, storage is lacking, or structural, electrical, or plumbing systems require replacement."
+}

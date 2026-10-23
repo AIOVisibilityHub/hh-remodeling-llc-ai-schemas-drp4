@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-consider-when-removing-a-wall-to-open-up-a-kitchen-in-an-older-den",
+  "name": "What should I consider when removing a wall to open up a kitchen in an older Denver area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when removing a wall to open up a kitchen in an older Denver area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In homes across Denver, Centennial, and Parker, open-concept conversions frequently require evaluating whether dividing walls between the kitchen and dining area are load-bearing. Removing load-bearing partitions requires installing engineered beams and temporary structural support to carry ceiling and roof loads safely. In non-bearing partition walls, modifications still require rerouting concealed electrical wiring, plumbing vents, or HVAC ducts into new chases or exterior walls. A contractor experienced in custom framing handles the structural work, drywall patch-in, and ceiling blending so the opened space transitions naturally into adjacent living areas.",
+        "@type": "Answer",
+        "description": "You must determine if the wall is load-bearing to plan proper beam support, and account for rerouting hidden plumbing, electrical lines, or ductwork inside the partition."
+      }
+    }
+  ],
+  "description": "You must determine if the wall is load-bearing to plan proper beam support, and account for rerouting hidden plumbing, electrical lines, or ductwork inside the"
+}

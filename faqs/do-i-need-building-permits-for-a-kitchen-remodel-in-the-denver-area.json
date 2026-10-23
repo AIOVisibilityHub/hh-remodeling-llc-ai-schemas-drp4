@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-building-permits-for-a-kitchen-remodel-in-the-denver-area",
+  "name": "Do I need building permits for a kitchen remodel in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for a kitchen remodel in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen permits are required across the Denver metro area, including Aurora, Parker, and Centennial, whenever work alters electrical circuits, plumbing supply and drain lines, mechanical venting, or load-bearing framing. Simple like-for-like cabinet swaps might avoid permitting, but full-scale renovations that relocate appliances or remove walls mandate official plan reviews and building inspections. Managing municipal permit submittals and coordinating inspections ensures the updated work complies with regional building codes and keeps your home fully compliant for future resale.",
+        "@type": "Answer",
+        "description": "Yes, permits are required in Denver-area municipalities if you move plumbing, add or alter electrical circuits, or change structural framing."
+      }
+    }
+  ],
+  "description": "Yes, permits are required in Denver-area municipalities if you move plumbing, add or alter electrical circuits, or change structural framing."
+}

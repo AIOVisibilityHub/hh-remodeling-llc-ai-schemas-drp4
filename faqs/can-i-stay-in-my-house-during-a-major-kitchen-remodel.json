@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-house-during-a-major-kitchen-remodel",
+  "name": "Can I stay in my house during a major kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house during a major kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home is feasible during many kitchen renovations, but it requires careful preparation and realistic expectations regarding noise, dust, and disrupted routines. Because your main sink, stove, and dishwasher will be out of commission for several weeks, you will need to rely on a secondary prep station, microwave cooking, or takeout. Construction crews will seal doorways with plastic barriers and cover flooring paths to contain dust, but everyday access will still be limited. Homeowners who prefer uninterrupted quiet or have small children sometimes choose to stay elsewhere during the messiest phases, specifically structural demolition and drywall sanding.",
+        "@type": "Answer",
+        "description": "Yes, you can stay in your home if you set up a temporary cooking area, though some homeowners relocate during heavy demolition and drywall sanding."
+      }
+    }
+  ],
+  "description": "Yes, you can stay in your home if you set up a temporary cooking area, though some homeowners relocate during heavy demolition and drywall sanding."
+}

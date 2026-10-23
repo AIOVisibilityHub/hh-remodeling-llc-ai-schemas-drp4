@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-kitchen-demolition-starts",
+  "name": "How should I prepare my home before kitchen demolition starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before kitchen demolition starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before demolition begins, clear out all kitchen contents and set up a temporary food preparation station in another room. Pack dishware, small appliances, and pantry goods into labeled boxes, keeping only basic essentials accessible. Designate an area with a microwave, coffee maker, mini-fridge, and access to a secondary sink, such as a bathroom or basement bar. It is also helpful to finalize your appliance specifications, sink dimensions, and plumbing fixture selections early. Having exact product specification sheets available prevents installation delays when framing, plumbing rough-ins, and cabinet layouts are being planned and verified.",
+        "@type": "Answer",
+        "description": "Clear out all cabinets, establish a temporary prep area with a microwave and mini-fridge in another room, and confirm all appliance dimensions and specs ahead of time."
+      }
+    }
+  ],
+  "description": "Clear out all cabinets, establish a temporary prep area with a microwave and mini-fridge in another room, and confirm all appliance dimensions and specs ahead o"
+}

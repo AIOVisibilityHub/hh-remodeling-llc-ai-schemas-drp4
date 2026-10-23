@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-kitchen-demolition-begins",
+  "name": "How should I prepare my home before kitchen demolition begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before kitchen demolition begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before construction starts, clear out every cabinet, pantry shelf, and countertop completely. Pack away non-essential kitchenware, label boxes clearly, and designate a separate living area as a temporary kitchenette equipped with a microwave, coffee maker, and mini-fridge. You should also confirm your layout plans, appliance dimensions, and finish materials—like tile, fixtures, and trim profiles—ahead of demo day. Establishing clear access paths and dust barriers protects adjacent living spaces from drywall dust and debris throughout the tear-out.",
+        "@type": "Answer",
+        "description": "Empty all cabinets, set up a temporary kitchenette in another room, and confirm all appliance dimensions and material selections prior to the start of demolition."
+      }
+    }
+  ],
+  "description": "Empty all cabinets, set up a temporary kitchenette in another room, and confirm all appliance dimensions and material selections prior to the start of demolitio"
+}

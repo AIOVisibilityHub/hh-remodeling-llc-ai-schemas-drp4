@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-sequence-of-work-during-a-kitchen-remodel",
+  "name": "What is the typical sequence of work during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical sequence of work during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen remodels require an orderly sequence: demolition, rough-in framing, plumbing and electrical work, drywall, painting, cabinet installation, countertop templating, and final tile. Countertop fabrication requires cabinets to be permanently leveled and secured before precision measurements can be taken, which creates an unavoidable 1- to 2-week fabrication window. During this phase, experienced crews often complete drywall patching, trim, molding, and initial wall paint to optimize project flow. Backsplash tile and marble installations always happen after countertops are set to ensure watertight seams and clean visual alignments.",
+        "@type": "Answer",
+        "description": "Work proceeds from demo and rough-ins to drywall, cabinets, countertop templating, and then final backsplash tile, trim molding, and finish painting."
+      }
+    }
+  ],
+  "description": "Work proceeds from demo and rough-ins to drywall, cabinets, countertop templating, and then final backsplash tile, trim molding, and finish painting."
+}
