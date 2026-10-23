@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-touch-up-paint-on-a-wall-without-seeing-the-patch",
+  "name": "Can you touch up paint on a wall without seeing the patch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you touch up paint on a wall without seeing the patch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint touch ups rarely blend seamlessly if the original wall paint has aged, oxidized, or faced direct sunlight. Even if you use leftover paint from the original can, differences in sheen, application method, and natural fading often leave visible patches, known as flashing. A proper blend typically requires feathering the paint outward around the repaired patch. When the existing finish is older or has higher gloss, painting corner-to-corner on that single accent wall usually yields the cleanest, invisible finish.",
+        "@type": "Answer",
+        "description": "Touch-ups can blend well with feathering, but aged paint or sheen differences may show. Painting corner-to-corner on that wall often produces the cleanest look."
+      }
+    }
+  ],
+  "description": "Touch-ups can blend well with feathering, but aged paint or sheen differences may show. Painting corner-to-corner on that wall often produces the cleanest look."
+}

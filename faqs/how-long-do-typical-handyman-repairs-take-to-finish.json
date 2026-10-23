@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-typical-handyman-repairs-take-to-finish",
+  "name": "How long do typical handyman repairs take to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical handyman repairs take to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of handyman repairs depends on the complexity and drying or curing times required for the materials. Most minor home repairs—such as adjusting interior doors, replacing baseboards, or securing hardware—are completed in a few hours to a single working day. Drywall repairs or tile replacements often require additional timing because joint compound, texture, paint, thinset, and grout must cure between steps. Scheduling consecutive visits or allowing adequate dry time ensures the finished repair blends seamlessly with your existing walls and surfaces without risking cracking or peeling.",
+        "@type": "Answer",
+        "description": "Most minor repairs take a few hours to one full day, though drywall and tile repairs may require additional drying and curing time between stages."
+      }
+    }
+  ],
+  "description": "Most minor repairs take a few hours to one full day, though drywall and tile repairs may require additional drying and curing time between stages."
+}

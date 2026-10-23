@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-involved-in-diagnosing-and-fixing-an-out-of-alignment-door",
+  "name": "What steps are involved in diagnosing and fixing an out-of-alignment door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in diagnosing and fixing an out-of-alignment door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contractor starts by inspecting the perimeter reveals—the reveal gap between the door slab and jamb—to pinpoint where rubbing or binding occurs. Next, they check the hinges for wear, loose screws, or improper mortise depth, as well as checking the jamb for plumb and level. The repair process typically begins with the least invasive fix: tightening hardware, installing longer screws into framing studs, or shimming behind hinge leaves. If rubbing continues, the technician will remove the door to plane the offending edge or pull the casing to adjust the frame shims before re-hanging, testing latch operation, and touching up finishes.",
+        "@type": "Answer",
+        "description": "The technician inspects perimeter gaps and plumb, tightens or shims hinges, planes tight edges if necessary, and re-shims the jamb before testing the latch."
+      }
+    }
+  ],
+  "description": "The technician inspects perimeter gaps and plumb, tightens or shims hinges, planes tight edges if necessary, and re-shims the jamb before testing the latch."
+}

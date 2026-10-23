@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-a-general-contractor-instead-of-hiring-individual-trades",
+  "name": "When do I need a general contractor instead of hiring individual trades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a general contractor instead of hiring individual trades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a general contractor when your project involves structural modifications, wall removals, or multiple distinct trades like plumbing, electrical, tile, and framing working together. Minor single-task updates, such as replacing a faucet or repainting a bedroom, can often be handled by a handyman or specialty tradesperson. However, full-scope projects like kitchen overhauls or basement finishes require careful sequencing. Hiring a GC prevents costly scheduling delays, such as drywalls being closed before rough-in plumbing passes inspection, by maintaining strict oversight over trade transitions and code compliance.",
+        "@type": "Answer",
+        "description": "Hire a GC when projects involve multiple trades, structural framing, or complex sequencing like kitchens and basements, ensuring work is scheduled and inspected correctly."
+      }
+    }
+  ],
+  "description": "Hire a GC when projects involve multiple trades, structural framing, or complex sequencing like kitchens and basements, ensuring work is scheduled and inspected"
+}

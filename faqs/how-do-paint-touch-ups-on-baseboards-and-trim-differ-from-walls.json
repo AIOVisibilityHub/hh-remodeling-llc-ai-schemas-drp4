@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-paint-touch-ups-on-baseboards-and-trim-differ-from-walls",
+  "name": "How do paint touch ups on baseboards and trim differ from walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do paint touch ups on baseboards and trim differ from walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards, doors, and trim usually feature semi-gloss or satin enamel, which reflects light more than wall paint and reveals brush marks easily. Touching up trim requires thorough cleaning to remove foot scuffs, light scuff-sanding to help adhesion, and feathering along the natural grain or profile lines. When trim has multiple chips across a single board, painting the full run of molding provides a cleaner result than spot patching.",
+        "@type": "Answer",
+        "description": "Trim uses higher-sheen enamel that shows brush marks easily, requiring light sanding and feathering along the molding profile to blend properly."
+      }
+    }
+  ],
+  "description": "Trim uses higher-sheen enamel that shows brush marks easily, requiring light sanding and feathering along the molding profile to blend properly."
+}

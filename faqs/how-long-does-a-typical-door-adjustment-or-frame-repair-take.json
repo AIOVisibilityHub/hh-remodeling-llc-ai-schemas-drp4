@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-door-adjustment-or-frame-repair-take",
+  "name": "How long does a typical door adjustment or frame repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door adjustment or frame repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most minor door adjustments take between one and two hours per door. Basic tasks like swapping hinge screws, resetting strike plates, or minor edge planing go quickly. However, the repair timeline extends to a half or full day if the door frame is out of plumb, requiring the removal of casing trim, shimming the jamb, repairing surrounding drywall, or rehanging the slab. Working with an experienced finish carpenter ensures that if trim needs to be pulled or drywall patched around the door frame, the repairs are handled in one continuous visit without waiting on separate trades.",
+        "@type": "Answer",
+        "description": "Simple hinge adjustments take 1 to 2 hours. If the jamb must be re-shimmed and surrounding trim or drywall repaired, expect a half to full day."
+      }
+    }
+  ],
+  "description": "Simple hinge adjustments take 1 to 2 hours. If the jamb must be re-shimmed and surrounding trim or drywall repaired, expect a half to full day."
+}

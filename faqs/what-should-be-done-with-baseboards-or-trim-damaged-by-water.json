@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-be-done-with-baseboards-or-trim-damaged-by-water",
+  "name": "What should be done with baseboards or trim damaged by water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be done with baseboards or trim damaged by water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water-damaged molding should typically be removed and replaced rather than patched. Materials like MDF expand permanently when exposed to moisture and cannot be sanded back to their original profile, while solid wood trim can harbor hidden mold or rot against the drywall. Before installing new trim, the underlying leak must be fully fixed, and the drywall and framing behind the wall base must dry out completely. Installing fresh molding over damp surfaces traps moisture, leading to recurring paint failure and structural damage.",
+        "@type": "Answer",
+        "description": "Water-damaged trim should be removed and replaced once the moisture source is fixed and the framing has dried completely. Swollen wood or MDF rarely returns to its original shape."
+      }
+    }
+  ],
+  "description": "Water-damaged trim should be removed and replaced once the moisture source is fixed and the framing has dried completely. Swollen wood or MDF rarely returns to"
+}

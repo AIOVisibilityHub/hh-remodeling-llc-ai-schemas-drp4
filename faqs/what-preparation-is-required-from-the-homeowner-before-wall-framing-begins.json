@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-preparation-is-required-from-the-homeowner-before-wall-framing-begins",
+  "name": "What preparation is required from the homeowner before wall framing begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is required from the homeowner before wall framing begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work begins, clear furniture and personal belongings out of the immediate work area and create a clear walking path from the exterior entry to the room. If the wall being altered holds hanging art, mounted televisions, or shelving on either side, remove those items completely to prevent damage from wall vibrations. You should also note where your main electrical breaker panel and water shut-off valves are located. This preparation allows the crew to set up dust barriers, cut cleanly into the drywall, and inspect hidden wall cavities without delays.",
+        "@type": "Answer",
+        "description": "Clear the room of furniture, remove wall hangings from both sides of the partition, and ensure clear access between the entry door and the workspace."
+      }
+    }
+  ],
+  "description": "Clear the room of furniture, remove wall hangings from both sides of the partition, and ensure clear access between the entry door and the workspace."
+}

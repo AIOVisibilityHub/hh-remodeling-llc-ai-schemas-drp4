@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-a-handyman-repair-visit",
+  "name": "How should I prepare my home before a handyman repair visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before a handyman repair visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can streamline your repair visit by grouping tasks together and documenting the exact scope before work starts. Walk through your home with a notepad and write down every loose trim piece, damaged drywall section, or cracked tile needing attention. Take clear photos in good lighting to share during your initial call. If paint touch-ups are on your list, locate existing paint cans or color codes. Clearing furniture and personal items away from work areas gives technicians immediate access, reducing labor time and keeping clean-up simple.",
+        "@type": "Answer",
+        "description": "Compile a written list of every task, photograph the damaged areas, clear furniture from workspaces, and locate matching paint codes or spare tile before the crew arrives."
+      }
+    }
+  ],
+  "description": "Compile a written list of every task, photograph the damaged areas, clear furniture from workspaces, and locate matching paint codes or spare tile before the cr"
+}

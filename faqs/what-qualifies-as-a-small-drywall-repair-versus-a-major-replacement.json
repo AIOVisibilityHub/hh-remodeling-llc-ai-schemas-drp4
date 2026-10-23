@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-qualifies-as-a-small-drywall-repair-versus-a-major-replacement",
+  "name": "What qualifies as a small drywall repair versus a major replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as a small drywall repair versus a major replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small drywall damage includes nail holes, minor stress cracks, dents, and doorknob punctures up to a few inches across. These issues typically require mesh tape or spackle, joint compound, sanding, and spot painting. Larger holes spanning multiple inches, water-damaged gypsum board, or compromised wall framing require structural backing, cutting out full damaged sections, and inserting fresh drywall panels. A key decision factor is checking for underlying issues: if a crack stems from shifting framing, plumbing leaks, or foundation settling, the source must be resolved before repairing the surface to prevent the defect from reappearing.",
+        "@type": "Answer",
+        "description": "Small repairs involve minor dents, cracks, and holes under a few inches. Damage requiring new wallboard panels, structural framing backing, or leak remediation counts as major replacement."
+      }
+    }
+  ],
+  "description": "Small repairs involve minor dents, cracks, and holes under a few inches. Damage requiring new wallboard panels, structural framing backing, or leak remediation"
+}

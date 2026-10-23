@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-point-during-a-bathroom-or-kitchen-renovation-is-plumbing-scheduled",
+  "name": "At what point during a bathroom or kitchen renovation is plumbing scheduled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point during a bathroom or kitchen renovation is plumbing scheduled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing trade coordination happens in two primary phases: the rough-in phase and the trim-out phase. After initial demolition and framing are complete, the plumbing sub-trade runs drain lines, vents, and water lines inside the open wall cavities. Once rough-in inspections are satisfied, our crew proceeds with drywall, mudding, interior painting, and tile setting. After tile and cabinetry are finished, we bring the plumbing specialist back for final trim-out to install faucets, showerheads, sinks, and toilets. This staging ensures delicate finish fixtures are not scratched or exposed to dust during major carpentry and painting work.",
+        "@type": "Answer",
+        "description": "Plumbing rough-ins are scheduled immediately after framing while walls are open, and final fixture trim-out occurs after tile, cabinetry, and painting are completed."
+      }
+    }
+  ],
+  "description": "Plumbing rough-ins are scheduled immediately after framing while walls are open, and final fixture trim-out occurs after tile, cabinetry, and painting are compl"
+}

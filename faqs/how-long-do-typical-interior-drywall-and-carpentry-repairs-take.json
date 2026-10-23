@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-typical-interior-drywall-and-carpentry-repairs-take",
+  "name": "How long do typical interior drywall and carpentry repairs take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical interior drywall and carpentry repairs take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most minor to mid-size interior repairs, such as drywall patching, baseboard replacement, or door adjustments, take between a half-day and two days. Timing depends heavily on required drying cycles. For drywall repairs, applying multiple coats of joint compound, letting each layer dry completely, sanding, and applying primer and paint cannot be rushed without risking surface defects. Jobs involving subfloor repairs or custom tile setting and grouting require additional curing time before the surface can take normal foot traffic.",
+        "@type": "Answer",
+        "description": "Most standard repairs take between a half-day and two days, depending on necessary drying times for drywall compound, paint, and tile mortar."
+      }
+    }
+  ],
+  "description": "Most standard repairs take between a half-day and two days, depending on necessary drying times for drywall compound, paint, and tile mortar."
+}

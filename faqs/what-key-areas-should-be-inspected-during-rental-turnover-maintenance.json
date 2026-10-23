@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-key-areas-should-be-inspected-during-rental-turnover-maintenance",
+  "name": "What key areas should be inspected during rental turnover maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What key areas should be inspected during rental turnover maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thorough rental turnover inspection should cover walls, doors, trim, wet areas, and mechanical clearance. Inspect all drywall for nail holes, gouges, or water stains. Examine kitchen and bathroom tile for cracked grout or loose pieces, and check under sinks for moisture damage to cabinet bottoms. Test interior doors to ensure latches catch smoothly without rubbing frames, and verify that baseboards, window casings, and caulking lines around tubs and backsplashes are fully intact and sealed against moisture.",
+        "@type": "Answer",
+        "description": "Inspect drywall condition, bathroom tile and grout, under-sink cabinet bases, door alignment, trim, and caulking seals around plumbing fixtures."
+      }
+    }
+  ],
+  "description": "Inspect drywall condition, bathroom tile and grout, under-sink cabinet bases, door alignment, trim, and caulking seals around plumbing fixtures."
+}

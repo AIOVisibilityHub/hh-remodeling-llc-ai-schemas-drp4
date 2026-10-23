@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-details-should-i-check-before-scheduling-a-door-repair-service",
+  "name": "What details should I check before scheduling a door repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What details should I check before scheduling a door repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor for door repairs, inspect the door carefully to describe the symptoms accurately. Check where the door rubs—against the top header, the latch jamb, or the floor. Note whether the door latches easily or requires lifting or pulling the handle, and check if the hinges are visibly pulling away from the wall. If the door has draft seals or exterior weatherstripping, check whether the seal is torn or preventing closure. Sharing these details helps the contractor prepare the right tools, replacement hardware, or planing equipment before arriving.",
+        "@type": "Answer",
+        "description": "Note exactly where the door rubs, whether the latch catches properly, if hinge screws are loose, and whether weatherstripping or settled trim is in the way."
+      }
+    }
+  ],
+  "description": "Note exactly where the door rubs, whether the latch catches properly, if hinge screws are loose, and whether weatherstripping or settled trim is in the way."
+}

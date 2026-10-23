@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-bundle-multiple-punch-list-repairs-into-a-single-appointment",
+  "name": "Can I bundle multiple punch-list repairs into a single appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I bundle multiple punch-list repairs into a single appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, combining multiple interior trade repairs into one project visit is the most cost-effective approach. Because our crew specializes in framing, drywall finishing, tile setting, carpentry, and interior painting, we can address diverse punch-list items in a single workflow. For example, we can patch a damaged drywall section, install new molding, and secure cracked floor tiles during the same scheduled visit. Owner Abraham Becerra oversees the sequencing directly, ensuring drywall compound dries properly while trim or tile adjustments proceed without scheduling downtime.",
+        "@type": "Answer",
+        "description": "Yes. Bundling drywall, trim, tile, and painting tasks into one visit saves money and allows our team to sequence repair steps efficiently under one point of contact."
+      }
+    }
+  ],
+  "description": "Yes. Bundling drywall, trim, tile, and painting tasks into one visit saves money and allows our team to sequence repair steps efficiently under one point of con"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-a-trim-and-molding-repair-crew-arrives",
+  "name": "How should I prepare my home before a trim and molding repair crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before a trim and molding repair crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a contractor arrives to repair molding, clear furniture at least three to four feet away from the walls and remove rugs, floor lamps, and hanging wall decor nearby. Note whether you have leftover paint cans from previous painting projects, as matching existing wall and trim colors speeds up the finishing process. If pet damage or recurring water issues caused the initial problem, inform the contractor so they can evaluate whether underlying framing or drywall requires attention before installing new trim.",
+        "@type": "Answer",
+        "description": "Move furniture away from the walls, remove fragile items and rugs, locate any leftover trim paint, and identify what caused the initial damage so the underlying issue is addressed."
+      }
+    }
+  ],
+  "description": "Move furniture away from the walls, remove fragile items and rugs, locate any leftover trim paint, and identify what caused the initial damage so the underlying"
+}

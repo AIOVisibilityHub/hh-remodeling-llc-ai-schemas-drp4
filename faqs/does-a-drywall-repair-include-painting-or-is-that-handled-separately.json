@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/does-a-drywall-repair-include-painting-or-is-that-handled-separately",
+  "name": "Does a drywall repair include painting, or is that handled separately?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a drywall repair include painting, or is that handled separately?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a finish contractor can patch drywall and paint in a single project scope, which is typically the most efficient approach. Repaired drywall must be sealed with primer before applying wall paint; unprimed joint compound absorbs paint differently, resulting in an uneven, dull spot known as flashing. While you can handle painting on your own, having your contractor patch, prime, and paint ensures the surface texture and sheen blend seamlessly from corner to corner without visible borders.",
+        "@type": "Answer",
+        "description": "Drywall repair can include painting, and bundling both ensures proper priming and a seamless color match so the patched area does not flash or show uneven sheen."
+      }
+    }
+  ],
+  "description": "Drywall repair can include painting, and bundling both ensures proper priming and a seamless color match so the patched area does not flash or show uneven sheen"
+}

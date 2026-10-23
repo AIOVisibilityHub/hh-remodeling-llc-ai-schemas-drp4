@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-counts-as-a-minor-home-repair-versus-a-full-remodel",
+  "name": "What counts as a minor home repair versus a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What counts as a minor home repair versus a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor home repairs include localized fixes that address everyday wear, damage, or minor failures without gutting a space. Common examples handled by HH Remodeling include patching damaged drywall, repairing interior trim and baseboards, fixing broken or loose floor tiles, touch-up painting, and securing loose cabinet hardware. Minor repairs also cover small wood rot fixes, door adjustments, and minor accessibility modifications. Major remodels involve structural changes, room additions, or complete tear-outs. If your project does not require altering load-bearing framing or reconfiguring major plumbing lines, it generally falls under minor repairs.",
+        "@type": "Answer",
+        "description": "Minor home repairs address localized issues like drywall patching, broken tile replacement, trim fixes, and touch-up painting without gutting or rebuilding entire living spaces."
+      }
+    }
+  ],
+  "description": "Minor home repairs address localized issues like drywall patching, broken tile replacement, trim fixes, and touch-up painting without gutting or rebuilding enti"
+}

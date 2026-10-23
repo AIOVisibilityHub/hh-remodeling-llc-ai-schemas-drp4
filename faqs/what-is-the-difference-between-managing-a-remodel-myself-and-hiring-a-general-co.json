@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-managing-a-remodel-myself-and-hiring-a-general-co",
+  "name": "What is the difference between managing a remodel myself and hiring a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between managing a remodel myself and hiring a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing a remodel yourself gives you direct purchasing control, but it carries the heavy tradeoff of managing scheduling conflicts, trade accountability, and unexpected site delays on your own personal time. If an independent electrician does not show up on schedule, your drywall installer gets delayed, often pushing the entire calendar back by weeks. With professional GC project management, the contractor absorbs that scheduling burden. At HH Remodeling, because our core team directly performs the finish carpentry, tile, and drywall, we can pivot labor on-site quickly if specialty mechanical sub-trades experience scheduling shifts.",
+        "@type": "Answer",
+        "description": "A GC handles trade scheduling, inspections, and on-site troubleshooting, saving you significant personal time and preventing costly sequencing mistakes between trades."
+      }
+    }
+  ],
+  "description": "A GC handles trade scheduling, inspections, and on-site troubleshooting, saving you significant personal time and preventing costly sequencing mistakes between"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-services-are-typically-included-in-routine-home-maintenance-and-repairs",
+  "name": "What services are typically included in routine home maintenance and repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services are typically included in routine home maintenance and repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional home maintenance covers essential interior and exterior repairs that preserve your property's condition and structural integrity. Service scopes generally include patching and finishing drywall, repairing cracked tile, fixing interior trim or molding, touching up paint, repairing doors, and handling storm-damage issues. A practical decision factor is addressing minor water stains, settling cracks, or loose trim early before they require full room remodels. With an owner-operated general contractor, minor plumbing or electrical adjustments connected to these repairs can also be organized under a single scope of work.",
+        "@type": "Answer",
+        "description": "Home maintenance covers drywall patching, tile repair, finish carpentry, interior painting, and storm repairs to prevent minor wear from turning into major renovations."
+      }
+    }
+  ],
+  "description": "Home maintenance covers drywall patching, tile repair, finish carpentry, interior painting, and storm repairs to prevent minor wear from turning into major reno"
+}

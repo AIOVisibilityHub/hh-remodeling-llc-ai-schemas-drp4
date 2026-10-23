@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-need-a-permit-and-inspection-for-room-addition-framing-in-the-denver-metr",
+  "name": "Do you need a permit and inspection for room addition framing in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you need a permit and inspection for room addition framing in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, room addition framing requires a building permit and city structural inspections. In Denver and surrounding municipalities like Centennial, Parker, and Aurora, local building departments inspect the framing before any insulation, drywall, or mechanical chases are covered up. Inspectors check wall spacing, fastener schedules, hurricane clips, header sizes, and roof connections against your approved architectural plans. A hands-on contractor manages the job-site schedule to coordinate these rough framing inspections before moving into electrical, plumbing, and drywall phases.",
+        "@type": "Answer",
+        "description": "Yes. Building departments require approved permits and conduct framing inspections before insulation, drywall, or mechanical work can cover the structural frame."
+      }
+    }
+  ],
+  "description": "Yes. Building departments require approved permits and conduct framing inspections before insulation, drywall, or mechanical work can cover the structural frame"
+}

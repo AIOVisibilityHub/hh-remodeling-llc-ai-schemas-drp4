@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-solid-wood-or-mdf-when-replacing-damaged-trim-sections",
+  "name": "Should I choose solid wood or MDF when replacing damaged trim sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose solid wood or MDF when replacing damaged trim sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid wood offers superior durability, sharp profile detail, and can be sanded, stained, or painted, making it ideal for historic trim or high-impact baseboards. MDF is smooth, uniform, and cost-effective for painted trim, but it is highly susceptible to swelling in moist areas like bathrooms or entryways. When deciding which material to use for a repair, match the existing material whenever possible, or upgrade vulnerable baseboards near exterior doors and plumbing fixtures to moisture-resistant solid wood or composite.",
+        "@type": "Answer",
+        "description": "Match your existing material when possible. Solid wood is best for durability, staining, and moisture resistance, while MDF is a cost-effective choice for painted, dry areas."
+      }
+    }
+  ],
+  "description": "Match your existing material when possible. Solid wood is best for durability, staining, and moisture resistance, while MDF is a cost-effective choice for paint"
+}

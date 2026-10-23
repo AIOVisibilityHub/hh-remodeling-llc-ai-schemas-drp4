@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-for-interior-repair-work",
+  "name": "How should I prepare my home for interior repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home for interior repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the contractor arrives, walk through your home and document every area of concern, noting specific wall gouges, loose baseboards, or cracked tiles. Clear furniture and decor at least three feet away from target walls and work areas to allow ladders and tool access. If you have leftover touch-up paint, locate the cans so the crew can check the sheen and color; otherwise, make a note so custom color matching can be planned into the project scope.",
+        "@type": "Answer",
+        "description": "Walk your home to list all damaged spots, move furniture away from work walls, and locate any leftover paint cans for accurate color and sheen matching."
+      }
+    }
+  ],
+  "description": "Walk your home to list all damaged spots, move furniture away from work walls, and locate any leftover paint cans for accurate color and sheen matching."
+}

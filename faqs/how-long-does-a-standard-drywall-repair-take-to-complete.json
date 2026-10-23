@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-standard-drywall-repair-take-to-complete",
+  "name": "How long does a standard drywall repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a standard drywall repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repairs vary widely depending on the extent of the damage. A small hole or minor settlement crack can often be patched, taped, mudded, and sanded within a single day, though applying compound and matching wall textures across multiple coats may require follow-up visits. Larger projects involving water damage or replacing entire sheetrock panels can take two to three days to allow adequate drying between coats before painting. Having the original paint color on hand helps cut down turnaround time and ensures a seamless blend.",
+        "@type": "Answer",
+        "description": "Minor drywall patches typically take one day, while larger sheet replacements require two to three days to allow texture and mud to dry before final painting."
+      }
+    }
+  ],
+  "description": "Minor drywall patches typically take one day, while larger sheet replacements require two to three days to allow texture and mud to dry before final painting."
+}

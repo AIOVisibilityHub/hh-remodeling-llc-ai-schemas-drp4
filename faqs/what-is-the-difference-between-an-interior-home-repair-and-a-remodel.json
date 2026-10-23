@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-an-interior-home-repair-and-a-remodel",
+  "name": "What is the difference between an interior home repair and a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an interior home repair and a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior home repairs cover functional and cosmetic fixes to existing spaces, including repairing drywall holes, fixing cracked tiles, rehanging doors, or patching trim. Remodeling alters the layout, structure, or overall design, such as gutting a kitchen or expanding a bathroom. When deciding between the two, a practical tradeoff involves cost and scope: a series of localized drywall, paint, and trim repairs solves immediate wear-and-tear affordably, whereas remodeling makes sense if underlying plumbing, electrical systems, or room layouts no longer meet your functional needs.",
+        "@type": "Answer",
+        "description": "Home repairs fix specific damage like drywall holes or cracked tile, while remodeling changes room layout, structure, or finishes across a whole space."
+      }
+    }
+  ],
+  "description": "Home repairs fix specific damage like drywall holes or cracked tile, while remodeling changes room layout, structure, or finishes across a whole space."
+}

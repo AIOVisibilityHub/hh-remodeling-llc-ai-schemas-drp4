@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-general-contractor-and-a-specialty-subcontracto",
+  "name": "What is the difference between a general contractor and a specialty subcontractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a specialty subcontractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor oversees the entire job from rough framing to final punch lists, while a specialty subcontractor handles one specific trade, such as electrical or plumbing. On a major renovation, choosing a general contractor eliminates the burden of scheduling separate vendors yourself. The general contractor acts as the primary contact on-site, supervising daily progress, performing hands-on work like custom framing and finish carpentry, and coordinating licensed sub-trades to ensure mechanical installations integrate cleanly with drywall, tile, and paint.",
+        "@type": "Answer",
+        "description": "A general contractor oversees the entire project, timeline, and all trades. A subcontractor focuses strictly on a single trade, such as licensed plumbing or electrical work."
+      }
+    }
+  ],
+  "description": "A general contractor oversees the entire project, timeline, and all trades. A subcontractor focuses strictly on a single trade, such as licensed plumbing or ele"
+}

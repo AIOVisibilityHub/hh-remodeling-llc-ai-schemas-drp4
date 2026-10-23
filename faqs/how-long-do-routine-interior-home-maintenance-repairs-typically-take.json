@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-routine-interior-home-maintenance-repairs-typically-take",
+  "name": "How long do routine interior home maintenance repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do routine interior home maintenance repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most interior maintenance repairs—such as drywall patching, baseboard replacement, or room painting—take one to three days to finish. More extensive maintenance projects, such as re-tiling a worn shower surround or repairing water-damaged subflooring, can extend the timeline to a week or more. The total duration depends on the dry times for drywall mud or paint, the availability of matching materials, and whether any underlying hidden damage requires unexpected framing repairs.",
+        "@type": "Answer",
+        "description": "Routine maintenance repairs generally take one to three days, while complex jobs involving tile replacement or subfloor repairs may require a week or more."
+      }
+    }
+  ],
+  "description": "Routine maintenance repairs generally take one to three days, while complex jobs involving tile replacement or subfloor repairs may require a week or more."
+}

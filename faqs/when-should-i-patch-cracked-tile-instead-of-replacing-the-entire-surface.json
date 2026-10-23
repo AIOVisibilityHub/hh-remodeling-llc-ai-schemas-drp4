@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-patch-cracked-tile-instead-of-replacing-the-entire-surface",
+  "name": "When should I patch cracked tile instead of replacing the entire surface?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I patch cracked tile instead of replacing the entire surface?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair is sufficient if only a few tiles are cracked due to an impact and the surrounding tile and subfloor remain intact and level. However, if multiple tiles are loose, hollow-sounding, or lifting across a wide area, the underlying subfloor or mortar bed may have failed. In that case, replacing the entire floor or shower surround prevents ongoing moisture damage and movement. Inspecting the subfloor during tile removal determines whether a quick tile swap works or if complete floor preparation and reframing are necessary.",
+        "@type": "Answer",
+        "description": "Patch individual tiles if damage is localized to an impact; replace the full floor if tiles are loose, hollow, or suffering from subfloor failure."
+      }
+    }
+  ],
+  "description": "Patch individual tiles if damage is localized to an impact; replace the full floor if tiles are loose, hollow, or suffering from subfloor failure."
+}

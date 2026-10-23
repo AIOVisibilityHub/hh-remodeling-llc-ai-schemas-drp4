@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-home-construction-or-remodel-project-take",
+  "name": "How long does a typical home construction or remodel project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home construction or remodel project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for interior construction depends on project scope, framing complexity, and inspection schedules. A standard basement finish or room addition often takes several weeks to a few months, whereas a targeted bathroom or kitchen reconfiguration may take two to six weeks. Key factors that can extend the duration include waiting for specialized trade rough-ins (such as plumbing and electrical), scheduling required municipal framing or rough-in inspections, and curing times for drywall mud or tile mortar. Having a dedicated on-site lead overseeing daily progress helps keep trades on schedule and minimizes delays between construction phases.",
+        "@type": "Answer",
+        "description": "Major remodels and room additions typically take several weeks to a few months, depending on framing needs, trade rough-ins, and local inspection schedules."
+      }
+    }
+  ],
+  "description": "Major remodels and room additions typically take several weeks to a few months, depending on framing needs, trade rough-ins, and local inspection schedules."
+}

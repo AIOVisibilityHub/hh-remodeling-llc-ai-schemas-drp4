@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-should-landlords-expect-to-spend-on-rental-property-maintenance",
+  "name": "How much should landlords expect to spend on rental property maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should landlords expect to spend on rental property maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rental maintenance varies depending on the unit size, age, and extent of wear. Minor turnover work like punch-list repairs, drywall patching, and touch-up painting is generally billed on a project or handyman rate. Full-scope turns involving extensive bathroom tile work, subfloor repairs, or complete room repainting require formal estimates. Managing costs effectively involves grouping repairs together into a single visit rather than scheduling multiple isolated service calls, which reduces mobilization and trade trip charges.",
+        "@type": "Answer",
+        "description": "Costs vary from modest fees for small punch-list repairs and paint touch-ups to larger budgets for full turns involving tile, subfloors, and multi-room repairs."
+      }
+    }
+  ],
+  "description": "Costs vary from modest fees for small punch-list repairs and paint touch-ups to larger budgets for full turns involving tile, subfloors, and multi-room repairs."
+}

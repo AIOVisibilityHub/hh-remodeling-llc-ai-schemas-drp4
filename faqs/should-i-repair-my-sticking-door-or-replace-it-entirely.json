@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-repair-my-sticking-door-or-replace-it-entirely",
+  "name": "Should I repair my sticking door or replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my sticking door or replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing an existing door makes sense when the slab is structurally solid and the issue stems from loose hinges, minor frame shifts, latch misalignment, or seasonal rubbing. Choosing repair preserves existing trim, paint, and hardware while keeping labor and material costs down. On the other hand, replacement is necessary if the door slab is cracked, water-rotted, severely warped beyond planing, or if the jamb has sustained major physical or storm damage. When dealing with high-traffic areas or historic woodwork, repairing and realigning the existing unit saves time and avoids the disruption of tearing out drywall and interior casings.",
+        "@type": "Answer",
+        "description": "Repair your door if the wood is solid and the issue is alignment or hardware. Replace it if the slab is cracked, severely rotted, warped, or structurally compromised."
+      }
+    }
+  ],
+  "description": "Repair your door if the wood is solid and the issue is alignment or hardware. Replace it if the slab is cracked, severely rotted, warped, or structurally compro"
+}

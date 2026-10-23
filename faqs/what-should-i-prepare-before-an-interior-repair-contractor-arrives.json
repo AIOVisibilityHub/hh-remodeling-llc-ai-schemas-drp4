@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-an-interior-repair-contractor-arrives",
+  "name": "What should I prepare before an interior repair contractor arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an interior repair contractor arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling, take clear photos of the damaged areas, measure approximate square footage or dimensions, and note if you have leftover paint or matching materials on hand. It is also important to identify any underlying causes, such as a resolved plumbing leak or roof issue, so contractors know whether moisture testing is necessary. Clearing furniture and personal items away from the work zone ensures safe access and speeds up on-site preparation, masking, and containment.",
+        "@type": "Answer",
+        "description": "Clear the work area, note the cause of damage, take photos, and locate any leftover matching paint, trim, or spare tiles."
+      }
+    }
+  ],
+  "description": "Clear the work area, note the cause of damage, take photos, and locate any leftover matching paint, trim, or spare tiles."
+}

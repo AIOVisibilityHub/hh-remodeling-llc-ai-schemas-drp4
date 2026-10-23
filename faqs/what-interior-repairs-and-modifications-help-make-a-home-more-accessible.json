@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-interior-repairs-and-modifications-help-make-a-home-more-accessible",
+  "name": "What interior repairs and modifications help make a home more accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What interior repairs and modifications help make a home more accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common modifications include widening interior doorways, replacing knob handles with levers, building zero-threshold curbless tile showers, and reinforcing drywall with wood blocking for secure grab bars. When planning these changes, the primary tradeoff involves space and structure: widening a doorway may require reframing non-load-bearing or load-bearing stud walls and adjusting electrical switch locations, while curbless showers require lowering subfloor heights to ensure proper water drainage and ADA-compliant accessibility.",
+        "@type": "Answer",
+        "description": "Accessible modifications include installing curbless showers, widening doorways, reinforcing walls for grab bars, and replacing hardware with levers."
+      }
+    }
+  ],
+  "description": "Accessible modifications include installing curbless showers, widening doorways, reinforcing walls for grab bars, and replacing hardware with levers."
+}

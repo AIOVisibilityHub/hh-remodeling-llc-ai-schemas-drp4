@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-issues-fall-under-general-home-repair-versus-a-full-remodel",
+  "name": "What types of issues fall under general home repair versus a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of issues fall under general home repair versus a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General home repair covers fixing damaged interior elements, patching drywall, repairing trim, replacing cracked tiles, and addressing routine wear and tear throughout your property. At HH Remodeling LLC, repair services also include specialized tasks like mobile home repairs, cabin and log refinishing, disability modifications, and storm-damage restoration support. While routine handyman tasks focus on maintenance or small fixes, larger repairs often cross into finish carpentry, framing, or custom surface repairs. Deciding whether you need a quick repair or a full remodel depends on the underlying framing and subfloor condition. If structural elements, hidden plumbing, or extensive wiring are compromised, the scope typically shifts from a simple cosmetic fix to a broader renovation plan.",
+        "@type": "Answer",
+        "description": "General home repair addresses localized surface damage, drywall patches, trim fixes, and minor wear. If structural framing or whole rooms need replacement, it shifts to a remodel."
+      }
+    }
+  ],
+  "description": "General home repair addresses localized surface damage, drywall patches, trim fixes, and minor wear. If structural framing or whole rooms need replacement, it s"
+}

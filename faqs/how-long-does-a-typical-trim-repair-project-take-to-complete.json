@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-trim-repair-project-take-to-complete",
+  "name": "How long does a typical trim repair project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical trim repair project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard trim repair jobs take between a half-day and two full days to finish. Minor repairs, such as patching several pet-chewed door casings or re-securing loose baseboards in a couple of rooms, can be completed in a few hours. The overall timeline extends when tasks involve custom profile matching, priming bare wood, or repainting entire trim runs so color sheens blend seamlessly. Drying times for spackle, wood filler, and multiple coats of interior paint also factor into the schedule, especially when repairs coincide with larger drywall patching or remodeling work.",
+        "@type": "Answer",
+        "description": "A typical trim repair takes between a half-day and two days, depending on whether repairs require drying time for wood filler, caulking, and paint blending."
+      }
+    }
+  ],
+  "description": "A typical trim repair takes between a half-day and two days, depending on whether repairs require drying time for wood filler, caulking, and paint blending."
+}

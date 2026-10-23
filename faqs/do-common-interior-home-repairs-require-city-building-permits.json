@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-common-interior-home-repairs-require-city-building-permits",
+  "name": "Do common interior home repairs require city building permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do common interior home repairs require city building permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most residential home repairs in Colorado do not require permits if they are strictly cosmetic or minor maintenance tasks, like drywall patching, interior painting, baseboard replacement, or floor tile repair. However, if the repair involves structural alterations, cutting into load-bearing framing, or modifying plumbing and electrical lines, local building departments in municipalities like Denver or Aurora require formal permits. Before starting work, it helps to identify whether any utility lines or framing are impacted so required inspections can be scheduled without stalling the project.",
+        "@type": "Answer",
+        "description": "Cosmetic fixes like drywall patches, painting, and tile repairs do not require permits, but structural changes or utility modifications do need city approval."
+      }
+    }
+  ],
+  "description": "Cosmetic fixes like drywall patches, painting, and tile repairs do not require permits, but structural changes or utility modifications do need city approval."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-typical-handyman-repair-projects-take-to-complete",
+  "name": "How long do typical handyman repair projects take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical handyman repair projects take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most isolated handyman repairs, such as patching small drywall holes, re-grouting a section of tile, or replacing an interior door, take between two and four hours. Multi-task punch lists or repairs involving joint compound drying times, tile mortar curing, or multi-coat painting often require a full day or return visits across two days. The overall duration depends heavily on material cure times rather than active labor alone. We outline expected dry times and return visits before starting so you know when rooms will be accessible again.",
+        "@type": "Answer",
+        "description": "Single tasks usually take two to four hours, while multi-step repairs requiring drywall mud, grout, or paint drying times may take a full day or two consecutive visits."
+      }
+    }
+  ],
+  "description": "Single tasks usually take two to four hours, while multi-step repairs requiring drywall mud, grout, or paint drying times may take a full day or two consecutive"
+}

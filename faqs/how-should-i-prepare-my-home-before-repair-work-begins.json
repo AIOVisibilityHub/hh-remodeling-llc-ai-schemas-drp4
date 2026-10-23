@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-repair-work-begins",
+  "name": "How should I prepare my home before repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear personal items, furniture, and wall hangings around the damaged area to provide safe workspace and staging areas for tools. If the repair involves cutting drywall or replacing tile, cover nearby electronics and furnishings with plastic sheeting to protect them from airborne dust. Communicate any known property quirks, such as where the main water shutoff or electrical panel is located, before work begins. Securing pets in a separate room keeps everyone safe during active repair work.",
+        "@type": "Answer",
+        "description": "Clear the surrounding room of furniture, secure pets, point out utility shutoffs, and cover nearby items to protect them from dust during repair work."
+      }
+    }
+  ],
+  "description": "Clear the surrounding room of furniture, secure pets, point out utility shutoffs, and cover nearby items to protect them from dust during repair work."
+}

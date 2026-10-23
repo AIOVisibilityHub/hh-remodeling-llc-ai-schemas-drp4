@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-hire-a-contractor-for-home-repairs-instead-of-doing-it-myself",
+  "name": "When should I hire a contractor for home repairs instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a contractor for home repairs instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small, surface-level maintenance tasks like replacing a shower head or painting a baseboard work well as DIY projects. However, hiring a professional contractor makes sense when tasks involve structural framing, extensive drywall replacement, subfloor moisture damage, or tile waterproofing. A major tradeoff to consider is time versus long-term durability. While DIY saves labor costs upfront, improperly sealed tile or misdiagnosed wall cracks can lead to recurring moisture issues and higher repair bills. Working with an experienced contractor also ensures that any secondary plumbing or electrical needs are coordinated correctly rather than patched over.",
+        "@type": "Answer",
+        "description": "Hire a professional for complex drywall repairs, structural framing, tile waterproofing, or repairs that uncover hidden electrical or plumbing problems."
+      }
+    }
+  ],
+  "description": "Hire a professional for complex drywall repairs, structural framing, tile waterproofing, or repairs that uncover hidden electrical or plumbing problems."
+}

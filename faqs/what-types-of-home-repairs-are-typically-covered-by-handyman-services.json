@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-home-repairs-are-typically-covered-by-handyman-services",
+  "name": "What types of home repairs are typically covered by handyman services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home repairs are typically covered by handyman services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Handyman services cover small to mid-sized home repairs, punch-list tasks, and targeted improvements that do not require full architectural remodeling. At HH Remodeling, our handyman services include drywall patching, interior trim and molding installation, door adjustments, tile replacements, accessibility modifications like grab bars, and general carpentry. A key decision factor in whether to book a handyman versus a general contractor is overall project scope. If your job involves minor structural framing, plumbing reroutes, or full-room overhauls, it transitions into a larger remodeling project. For isolated fixes, a handyman visit provides a direct, cost-effective solution without extensive design planning.",
+        "@type": "Answer",
+        "description": "Handyman services cover small to mid-sized repairs like drywall patching, trim work, tile fixes, carpentry, and accessibility upgrades without requiring a full remodel."
+      }
+    }
+  ],
+  "description": "Handyman services cover small to mid-sized repairs like drywall patching, trim work, tile fixes, carpentry, and accessibility upgrades without requiring a full"
+}

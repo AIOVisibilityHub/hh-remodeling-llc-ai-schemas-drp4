@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-determine-if-a-wall-is-non-load-bearing-before-making-framing-cuts",
+  "name": "How do you determine if a wall is non-load-bearing before making framing cuts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine if a wall is non-load-bearing before making framing cuts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a wall is load-bearing requires inspecting the direction of the ceiling and floor joists relative to the wall, as well as checking attic or basement supports beneath it. Non-load-bearing partition walls run parallel to overhead joists and simply separate interior living spaces. Load-bearing walls carry weight from above and typically run perpendicular to joists, transferring loads down to the foundation. During site assessments across the Denver metro area, Abraham inspects structural layouts to confirm wall classification before any framing modifications begin, ensuring that only non-load-bearing elements are altered without structural engineer reviews.",
+        "@type": "Answer",
+        "description": "We inspect joist direction in the attic or basement; walls running parallel to joists are typically non-load-bearing partitions that can be safely modified."
+      }
+    }
+  ],
+  "description": "We inspect joist direction in the attic or basement; walls running parallel to joists are typically non-load-bearing partitions that can be safely modified."
+}

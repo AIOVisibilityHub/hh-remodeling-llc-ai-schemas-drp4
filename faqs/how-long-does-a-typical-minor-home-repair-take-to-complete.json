@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-minor-home-repair-take-to-complete",
+  "name": "How long does a typical minor home repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical minor home repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standalone minor repairs, such as repairing a drywall hole or replacing loose molding, take between two to four hours. However, projects that involve compound drying, painting, or tile grout curing may require two visits or a full business day. For instance, applying joint compound and texture over a water-damaged ceiling section needs adequate drying time before our crew can apply a matching primer and finish paint. We review cure times during the initial assessment so you know the exact schedule.",
+        "@type": "Answer",
+        "description": "Most minor repairs take between 2 and 4 hours, though repairs requiring multi-layer drywall mud or tile grout may need extra curing time or a second brief visit."
+      }
+    }
+  ],
+  "description": "Most minor repairs take between 2 and 4 hours, though repairs requiring multi-layer drywall mud or tile grout may need extra curing time or a second brief visit"
+}

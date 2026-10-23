@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-maintenance-issues-are-most-common-in-denver-area-rental-properties",
+  "name": "What maintenance issues are most common in Denver area rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance issues are most common in Denver area rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental properties in the Denver metro area frequently experience interior movement and drywall cracking due to regional expansive soils and drastic seasonal humidity shifts. Dry winters followed by damp spring months cause framing to shift, resulting in hairline cracks along drywall joints, door frames sticking, and caulking pulling away in showers. Routine rental maintenance in Denver should focus on flexible caulking in wet areas, resetting misaligned interior doors, and proper drywall taping rather than just quick spackle patches that reopen quickly.",
+        "@type": "Answer",
+        "description": "Denver rentals frequently suffer from drywall cracking, sticking interior doors, and failing bathroom caulk due to regional humidity swings and shifting soils."
+      }
+    }
+  ],
+  "description": "Denver rentals frequently suffer from drywall cracking, sticking interior doors, and failing bathroom caulk due to regional humidity swings and shifting soils."
+}

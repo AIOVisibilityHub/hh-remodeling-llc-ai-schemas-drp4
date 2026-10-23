@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-match-existing-molding-profiles-during-a-repair",
+  "name": "How do you match existing molding profiles during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match existing molding profiles during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing molding requires checking its exact material, thickness, height, and edge profile. Standard baseboard or casing from modern builds can often be matched with off-the-shelf stock from local suppliers, while older Denver homes may feature custom or discontinued profiles. When exact duplicates are not available in stores, a contractor can take a physical sample, mill custom stock, or use a multi-piece trim buildup using standard components to replicate the original look. Homeowners should remove or photograph a clean cross-section of the damaged molding before shopping for replacements.",
+        "@type": "Answer",
+        "description": "Contractors match trim by taking a clean cross-section sample to check against local lumber stock, milling a custom profile, or combining standard profiles to recreate the design."
+      }
+    }
+  ],
+  "description": "Contractors match trim by taking a clean cross-section sample to check against local lumber stock, milling a custom profile, or combining standard profiles to r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-patch-interior-surfaces-instead-of-replacing-them-completely",
+  "name": "When should I patch interior surfaces instead of replacing them completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I patch interior surfaces instead of replacing them completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching localized damage preserves your budget and existing materials when the issue is confined to a small area, like an isolated drywall hole or a few cracked floor tiles. However, widespread wear—such as extensively cracked bathroom tile, recurring moisture stains, or warped drywall across multiple spans—often indicates failing underlayment or age. In those situations, replacing the entire surface prevents ongoing patching cycles and provides a longer-lasting, cleaner finish.",
+        "@type": "Answer",
+        "description": "Patch isolated surface holes or small cosmetic flaws; choose full replacement if you face recurring moisture damage, aging subfloors, or widespread cracking."
+      }
+    }
+  ],
+  "description": "Patch isolated surface holes or small cosmetic flaws; choose full replacement if you face recurring moisture damage, aging subfloors, or widespread cracking."
+}

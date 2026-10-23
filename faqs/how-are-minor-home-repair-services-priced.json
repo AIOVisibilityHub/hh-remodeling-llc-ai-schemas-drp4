@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-minor-home-repair-services-priced",
+  "name": "How are minor home repair services priced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are minor home repair services priced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for minor home repairs depend primarily on the repair type, materials needed, and total labor time rather than a flat, one-size-fits-all fee. A simple trim repair or basic drywall patch requires fewer materials and labor hours than replacing several broken tiles or rebuilding a rotted window sill. Grouping your repair items into a comprehensive punch list usually lowers the overall cost per item compared to scheduling individual visits across several months.",
+        "@type": "Answer",
+        "description": "Pricing depends on the scope of work, labor time, and required materials. Combining several punch-list items into a single job usually provides the best overall value."
+      }
+    }
+  ],
+  "description": "Pricing depends on the scope of work, labor time, and required materials. Combining several punch-list items into a single job usually provides the best overall"
+}

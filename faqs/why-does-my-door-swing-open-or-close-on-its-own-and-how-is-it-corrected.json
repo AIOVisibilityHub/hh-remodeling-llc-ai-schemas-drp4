@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-does-my-door-swing-open-or-close-on-its-own-and-how-is-it-corrected",
+  "name": "Why does my door swing open or close on its own, and how is it corrected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my door swing open or close on its own, and how is it corrected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When an interior door swings open or drifts closed on its own, the door jamb is out of plumb. If the top of the jamb leans slightly forward or backward, gravity pulls the door slab in that direction. To correct this without removing the whole frame, a technician can adjust the hinge pins to add slight friction or shim behind specific hinge leaves to counter the tilt. If the wall framing itself has shifted significantly, realigning the side jamb with shims behind the casing may be necessary so the door rests securely in any open position.",
+        "@type": "Answer",
+        "description": "Doors drift because the door frame is out of plumb. Technicians correct this by adjusting hinge friction, shimming hinges, or re-plumbing the jamb."
+      }
+    }
+  ],
+  "description": "Doors drift because the door frame is out of plumb. Technicians correct this by adjusting hinge friction, shimming hinges, or re-plumbing the jamb."
+}

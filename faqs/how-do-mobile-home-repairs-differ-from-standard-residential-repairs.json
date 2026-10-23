@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-mobile-home-repairs-differ-from-standard-residential-repairs",
+  "name": "How do mobile home repairs differ from standard residential repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do mobile home repairs differ from standard residential repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile homes utilize different structural dimensions, wall panel thicknesses, and plumbing setups compared to traditional site-built homes. Repairs to mobile homes often involve lightweight framing materials, specialized vinyl-covered wall panels, and unique subfloor sheeting that reacts poorly to moisture. Using standard drywall or heavy residential fixtures without adding proper framing support can strain walls and trusses. It is important to confirm framing spacing and subfloor materials before securing heavy tile or hanging standard drywall panels in manufactured homes.",
+        "@type": "Answer",
+        "description": "Mobile homes feature lighter framing, specialized wall panels, and thinner subfloors that require tailored techniques compared to traditional residential construction."
+      }
+    }
+  ],
+  "description": "Mobile homes feature lighter framing, specialized wall panels, and thinner subfloors that require tailored techniques compared to traditional residential constr"
+}

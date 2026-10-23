@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-touch-up-isolated-spots-or-repaint-the-entire-wall",
+  "name": "Should I touch up isolated spots or repaint the entire wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I touch up isolated spots or repaint the entire wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spot touch ups work best for isolated nail holes, minor furniture scuffs, and small drywall dings on flat or matte finishes. If the wall has extensive scuffing across high-traffic paths, significant sun fading, or a satin/semi-gloss sheen, spot painting will likely flash and look patchy. In those situations, rolling the entire wall from corner to corner saves time and delivers a uniform surface without visible brush boundaries.",
+        "@type": "Answer",
+        "description": "Spot touch ups work well for small dings on flat paint, but high-traffic walls or glossy finishes look much better repainted corner to corner."
+      }
+    }
+  ],
+  "description": "Spot touch ups work well for small dings on flat paint, but high-traffic walls or glossy finishes look much better repainted corner to corner."
+}

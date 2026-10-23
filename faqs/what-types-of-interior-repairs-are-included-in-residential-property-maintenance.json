@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-interior-repairs-are-included-in-residential-property-maintenance",
+  "name": "What types of interior repairs are included in residential property maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior repairs are included in residential property maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property maintenance for residential interiors focuses on repairing everyday wear, fixing surface damage, and updating worn features to prevent structural deterioration. HH Remodeling handles repairs such as patching damaged drywall, securing loose trim, replacing cracked floor tiles, and repainting high-traffic rooms. Catching small issues early—like settling cracks in sheetrock or loose caulking around tubs—keeps minor cosmetic flaws from escalating into costly structural or moisture repairs behind walls.",
+        "@type": "Answer",
+        "description": "Residential property maintenance covers drywall patching, tile repairs, interior painting, and trim upkeep to prevent minor wear from turning into major structural damage."
+      }
+    }
+  ],
+  "description": "Residential property maintenance covers drywall patching, tile repairs, interior painting, and trim upkeep to prevent minor wear from turning into major structu"
+}

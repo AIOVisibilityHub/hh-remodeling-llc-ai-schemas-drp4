@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-general-contractor-project-usually-take-from-start-to-finish",
+  "name": "How long does a general contractor project usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a general contractor project usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom remodel typically takes three to six weeks, while full kitchens and basement build-outs usually run between six to twelve weeks or more. Timeline variability often stems from custom material lead times—such as semi-custom cabinetry or specialty tile—as well as unexpected discoveries behind walls during demolition. Lead contractors manage this timeline by pre-ordering materials prior to demo day and coordinating plumbing and electrical sub-trades well ahead of their installation dates, preventing common idle periods on the jobsite.",
+        "@type": "Answer",
+        "description": "Bathrooms typically take 3 to 6 weeks, while kitchens and basements require 6 to 12 weeks, depending on material lead times and mechanical trade schedules."
+      }
+    }
+  ],
+  "description": "Bathrooms typically take 3 to 6 weeks, while kitchens and basements require 6 to 12 weeks, depending on material lead times and mechanical trade schedules."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-interior-home-repair-costs-calculated",
+  "name": "How are interior home repair costs calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are interior home repair costs calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for interior home repairs depend on the scope of damage, materials required, and whether structural framing or trades are involved. Minor cosmetic work, such as patching small drywall dings and touching up paint, requires fewer hours than addressing deep water damage, replacing subflooring, or resetting custom tile. If the repair requires coordinated sub-trades for underlying electrical or plumbing issues behind a wall, project complexity and costs rise accordingly. Combining multiple small repairs into one visit often reduces total labor costs compared to booking separate appointments.",
+        "@type": "Answer",
+        "description": "Costs depend on damage severity, labor time, materials, and whether hidden plumbing, electrical, or structural framing repairs are needed."
+      }
+    }
+  ],
+  "description": "Costs depend on damage severity, labor time, materials, and whether hidden plumbing, electrical, or structural framing repairs are needed."
+}

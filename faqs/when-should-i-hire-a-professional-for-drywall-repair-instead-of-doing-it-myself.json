@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-hire-a-professional-for-drywall-repair-instead-of-doing-it-myself",
+  "name": "When should I hire a professional for drywall repair instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a professional for drywall repair instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small cosmetic nail holes can usually be filled and painted by a homeowner with basic spackle. Professional repair is recommended for large holes, stress cracks along framing seams, ceiling damage, or water-damaged drywall. Improper repairs often leave noticeable bulges, visible seams, or uneven textures. A professional matches wall textures, re-secures loose framing or backing boards, and blends primer and paint so the patch integrates seamlessly with the surrounding wall.",
+        "@type": "Answer",
+        "description": "Hire a professional for holes larger than a few inches, ceiling damage, water-softened boards, or walls requiring blended texture matching."
+      }
+    }
+  ],
+  "description": "Hire a professional for holes larger than a few inches, ceiling damage, water-softened boards, or walls requiring blended texture matching."
+}

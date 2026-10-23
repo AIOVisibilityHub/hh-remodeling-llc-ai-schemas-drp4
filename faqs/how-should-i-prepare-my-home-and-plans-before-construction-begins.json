@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-and-plans-before-construction-begins",
+  "name": "How should I prepare my home and plans before construction begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home and plans before construction begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, establish a realistic budget, decide on your priority functional needs, and collect reference images of finishes and layouts you prefer. Consider whether any household members require accessibility adjustments, such as wider doorways, walk-in showers, or zero-step entries, so framing can be planned accordingly. Prepare by clearing out personal items from the construction zone to allow safe access for crews and materials. It is also wise to decide on key fixture styles and tile preferences in advance, as lead times on custom materials can influence when framing and installation take place.",
+        "@type": "Answer",
+        "description": "Clarify your functional goals, select preferred design styles, plan for accessibility needs, and clear personal belongings from the work zone before demolition and framing."
+      }
+    }
+  ],
+  "description": "Clarify your functional goals, select preferred design styles, plan for accessibility needs, and clear personal belongings from the work zone before demolition"
+}

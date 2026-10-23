@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-contacting-a-contractor-for-property-maintenance",
+  "name": "What should I prepare before contacting a contractor for property maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for property maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling property maintenance, walk through your home and document every issue room by room with photos and notes. Note specific concerns such as recurring cracks, soft spots on drywall, hollow-sounding tiles, or loose baseboards. Sharing this consolidated list allows the contractor to estimate labor accurately, source proper matching materials in advance, and determine whether licensed plumbing or electrical sub-trades are required alongside carpentry work.",
+        "@type": "Answer",
+        "description": "Create a room-by-room list of damaged areas, take clear photos, and note any recurring issues so the contractor can prepare materials and labor estimates accurately."
+      }
+    }
+  ],
+  "description": "Create a room-by-room list of damaged areas, take clear photos, and note any recurring issues so the contractor can prepare materials and labor estimates accura"
+}

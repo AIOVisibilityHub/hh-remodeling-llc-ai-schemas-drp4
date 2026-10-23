@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/which-inspections-take-place-during-a-kitchen-or-bathroom-remodel",
+  "name": "Which inspections take place during a kitchen or bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which inspections take place during a kitchen or bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Major remodels typically involve at least two distinct inspection phases: rough-in inspections and final inspections. Rough-in inspections occur after custom framing, plumbing supply and drain lines, and electrical wiring are installed, but before any insulation and drywall are put up. Once all drywall, tile, interior painting, fixtures, and trim are complete, the city inspector returns for the final walk-through to confirm full code compliance and issue final project sign-offs.",
+        "@type": "Answer",
+        "description": "Projects require rough-in inspections while framing, wiring, and pipes are exposed, followed by final inspections once all drywall, tile, fixtures, and finishes are installed."
+      }
+    }
+  ],
+  "description": "Projects require rough-in inspections while framing, wiring, and pipes are exposed, followed by final inspections once all drywall, tile, fixtures, and finishes"
+}

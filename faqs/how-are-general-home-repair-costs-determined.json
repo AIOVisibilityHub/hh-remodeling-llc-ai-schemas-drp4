@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-general-home-repair-costs-determined",
+  "name": "How are general home repair costs determined?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are general home repair costs determined?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home repair costs depend on the materials required, the trade specialties involved, and the extent of hidden damage behind walls or subfloors. Smaller jobs such as patching a drywall hole, recaulking a shower, or resetting loose baseboards require minimal material and fewer labor hours. Costs increase when a repair involves multi-trade coordination, such as replacing water-damaged subflooring and framing, repairing specialized tile or marble, or coordinating licensed electrical and plumbing sub-trades alongside finish carpentry. Choosing an owner-operated contractor who directly self-performs carpentry, drywall, and painting helps keep labor overhead reasonable compared to large general contracting firms that subcontract every phase.",
+        "@type": "Answer",
+        "description": "Costs depend on labor hours, materials, trade specialties involved, and whether hidden damage requires structural framing, tile, or sub-trade coordination."
+      }
+    }
+  ],
+  "description": "Costs depend on labor hours, materials, trade specialties involved, and whether hidden damage requires structural framing, tile, or sub-trade coordination."
+}

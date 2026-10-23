@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-denver-and-aurora-weather-patterns-affect-interior-and-exterior-doors",
+  "name": "How do Denver and Aurora weather patterns affect interior and exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Denver and Aurora weather patterns affect interior and exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes along the Colorado Front Range, including Denver and Aurora, experience dramatic seasonal humidity swings and expansive clay soil movement, both of which affect door framing. Dry winters cause wood framing to shrink and gaps to widen, while wetter spring months cause doors and jambs to swell and stick. Additionally, soil expansion can cause subtle foundation shifts that pull door openings out of square. Addressing door issues in this region requires checking whether seasonal swelling or structural movement is the culprit so you do not over-plane wood that will shrink back in winter.",
+        "@type": "Answer",
+        "description": "Front Range humidity shifts and expansive soils cause wood framing to swell, shrink, and shift, leading to seasonal binding or misaligned strike plates."
+      }
+    }
+  ],
+  "description": "Front Range humidity shifts and expansive soils cause wood framing to swell, shrink, and shift, leading to seasonal binding or misaligned strike plates."
+}

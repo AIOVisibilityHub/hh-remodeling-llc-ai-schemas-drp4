@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-a-permit-for-a-residential-remodel",
+  "name": "When do I need a permit for a residential remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a permit for a residential remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a building permit for any project that alters a home structural layout, plumbing, electrical, or mechanical systems. Cosmetic updates like painting, hanging trim, replacing cabinet hardware, or swapping floor tile usually do not require permits. However, finishing a basement, building room additions, moving plumbing fixtures in a bathroom, or adding dedicated kitchen appliance circuits require formal building permits and subsequent city inspections. Abraham Becerra reviews your planned project scope during the initial estimate to determine exactly which components require permits so your project remains fully compliant.",
+        "@type": "Answer",
+        "description": "Permits are required when moving walls, running new electrical wiring, or reconfiguring plumbing. Purely cosmetic updates like painting or replacing tile generally do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required when moving walls, running new electrical wiring, or reconfiguring plumbing. Purely cosmetic updates like painting or replacing tile genera"
+}

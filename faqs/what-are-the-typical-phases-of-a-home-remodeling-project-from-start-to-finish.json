@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-typical-phases-of-a-home-remodeling-project-from-start-to-finish",
+  "name": "What are the typical phases of a home remodeling project from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical phases of a home remodeling project from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to review your goals, take measurements, and define the scope of work. Once an estimate is approved, the planning stage involves confirming material selections—such as tile, fixtures, drywall finish levels, and trim styles—and scheduling trade work. Demolition and rough framing come first, followed by rough-in work for mechanicals, plumbing, and electrical. After inspections, the crew closes the walls with drywall, installs tile or flooring, completes finish carpentry, and applies paint. A final walk-through ensures every detail matches the agreed plan.",
+        "@type": "Answer",
+        "description": "Projects progress from initial consultation and planning to demolition, framing, trade rough-ins, drywall, finish carpentry, painting, and a final walk-through."
+      }
+    }
+  ],
+  "description": "Projects progress from initial consultation and planning to demolition, framing, trade rough-ins, drywall, finish carpentry, painting, and a final walk-through."
+}

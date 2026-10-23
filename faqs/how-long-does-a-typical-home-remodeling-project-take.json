@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-home-remodeling-project-take",
+  "name": "How long does a typical home remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom remodel typically takes three to four weeks, while full kitchen or finished basement projects often range from six to twelve weeks or more. Project duration depends directly on whether layouts are modified, material lead times, and the extent of custom finish carpentry or tile work. Unexpected discoveries behind walls, such as hidden water damage or dated wiring, can add time to the schedule. A dedicated on-site lead helps maintain steady momentum by scheduling drywall, tile setting, and painting in seamless back-to-back sequences.",
+        "@type": "Answer",
+        "description": "Bathrooms usually take 3 to 4 weeks, while kitchens and basements take 6 to 12 weeks or more, depending on scope, layout changes, and material availability."
+      }
+    }
+  ],
+  "description": "Bathrooms usually take 3 to 4 weeks, while kitchens and basements take 6 to 12 weeks or more, depending on scope, layout changes, and material availability."
+}

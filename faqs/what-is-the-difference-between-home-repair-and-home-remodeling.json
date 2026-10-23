@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-home-repair-and-home-remodeling",
+  "name": "What is the difference between home repair and home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home repair and home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home repair focuses on fixing, patching, or restoring existing elements that are broken, worn, or malfunctioning, such as patching damaged drywall, repairing trim, or fixing loose tiles. Remodeling involves altering the structure, layout, or overall appearance of a space, like reconfiguring a kitchen or finishing a basement. Choosing repair is typically faster and budget-friendly when the base structure is sound. However, if repairs reveal extensive hidden damage, outdated plumbing, or unpermitted work behind walls, stepping up to a partial remodel may be more cost-effective than repeatedly patching failing systems.",
+        "@type": "Answer",
+        "description": "Home repair fixes broken or worn existing fixtures and surfaces, while remodeling updates or alters the layout, structure, and design of an entire living space."
+      }
+    }
+  ],
+  "description": "Home repair fixes broken or worn existing fixtures and surfaces, while remodeling updates or alters the layout, structure, and design of an entire living space."
+}

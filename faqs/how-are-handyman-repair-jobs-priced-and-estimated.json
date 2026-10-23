@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-handyman-repair-jobs-priced-and-estimated",
+  "name": "How are handyman repair jobs priced and estimated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are handyman repair jobs priced and estimated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair costs depend on whether the work is billed as a flat-rate project or hourly, combined with materials and trade coordination. A single drywall patch or baseboard replacement costs significantly less than a multi-day punch list involving tile setting and plumbing coordination. Bundling several minor fixes into one service visit reduces total expenses by minimizing travel and setup fees. To give you an accurate price, we evaluate clear photos or complete an on-site evaluation to check structural backing, paint matching requirements, and material availability before setting the price.",
+        "@type": "Answer",
+        "description": "Pricing depends on the overall task scope, required materials, and whether multiple trades are needed. Bundling tasks into a single visit lowers overall project costs."
+      }
+    }
+  ],
+  "description": "Pricing depends on the overall task scope, required materials, and whether multiple trades are needed. Bundling tasks into a single visit lowers overall project"
+}

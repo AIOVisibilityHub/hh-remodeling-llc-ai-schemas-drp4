@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-general-contractor-and-a-subcontractor",
+  "name": "What is the difference between a general contractor and a subcontractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a subcontractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor oversees the entire project lifecycle, whereas a subcontractor specializes in a single trade such as plumbing, electrical, or HVAC. When you hire a residential general contractor like HH Remodeling, they act as the lead manager. In our model, our core crew directly executes structural framing, drywall, custom tile, molding, and painting, while directly bringing in and managing licensed trade partners for mechanical, electrical, and plumbing needs. This practical division saves homeowners from managing multiple contracts, resolving job-site disputes between trades, or dealing with gaps in accountability.",
+        "@type": "Answer",
+        "description": "A general contractor manages the overall project, schedule, and team, whereas subcontractors specialize in specific trade work like electrical or plumbing."
+      }
+    }
+  ],
+  "description": "A general contractor manages the overall project, schedule, and team, whereas subcontractors specialize in specific trade work like electrical or plumbing."
+}

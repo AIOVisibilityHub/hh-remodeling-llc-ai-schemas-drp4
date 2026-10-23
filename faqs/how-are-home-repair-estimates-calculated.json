@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-home-repair-estimates-calculated",
+  "name": "How are home repair estimates calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are home repair estimates calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home repair costs depend directly on the labor involved, material expenses, and whether specialty trades are required. Straightforward surface repairs like molding installation or drywall patching are priced lower because they rely solely on carpentry and finishing. Costs rise when repairs uncover hidden moisture, compromised subfloors, or issues requiring licensed electrical or plumbing trades. To get an accurate estimate, take photos of the damaged area, note any underlying leaks, and measure the rough dimensions before scheduling an on-site walkthrough.",
+        "@type": "Answer",
+        "description": "Estimates are based on labor, materials, the size of the repair, and whether specialty sub-trades like plumbing or electrical are needed."
+      }
+    }
+  ],
+  "description": "Estimates are based on labor, materials, the size of the repair, and whether specialty sub-trades like plumbing or electrical are needed."
+}

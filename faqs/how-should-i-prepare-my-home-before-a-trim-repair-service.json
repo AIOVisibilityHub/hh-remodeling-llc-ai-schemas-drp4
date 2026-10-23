@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-a-trim-repair-service",
+  "name": "How should I prepare my home before a trim repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before a trim repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a trim contractor arrives, clear personal belongings, furniture, and cords away from baseboards and doorways where repairs will occur. Measure roughly how many linear feet need attention and note any specific concerns, such as pet scratches, prior plumbing leaks, or loose pieces. If you have leftover touch-up paint from earlier interior renovations, set the paint cans aside so the technician can check the color code and sheen. Providing clear access and existing paint samples speeds up the preparation phase and helps ensure an exact match.",
+        "@type": "Answer",
+        "description": "Move furniture away from walls and door openings, identify all damaged spots in advance, and locate any leftover paint cans so the carpenter can match your current finish."
+      }
+    }
+  ],
+  "description": "Move furniture away from walls and door openings, identify all damaged spots in advance, and locate any leftover paint cans so the carpenter can match your curr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-tell-the-difference-between-normal-wear-and-tear-and-structural-settlin",
+  "name": "How do I tell the difference between normal wear and tear and structural settling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I tell the difference between normal wear and tear and structural settling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Routine wear and tear is normal surface degradation from daily living, whereas structural settling involves movement in framing or foundations that causes recurring, wide cracks. Normal wear includes corner bead dings, minor nail pops, scuffed baseboards, and small hairline shrinkage cracks at joints. If cracks continuously reopen, doors stick in their frames, or gaps appear between the baseboard and the floor along exterior walls, Abraham evaluates the framing to determine if simple finish repairs or deeper adjustments are required.",
+        "@type": "Answer",
+        "description": "Wear and tear is surface-level scuffing and small hairline cracks. Structural issues cause recurring wide cracks, sticking doors, and shifting floor transitions."
+      }
+    }
+  ],
+  "description": "Wear and tear is surface-level scuffing and small hairline cracks. Structural issues cause recurring wide cracks, sticking doors, and shifting floor transitions"
+}

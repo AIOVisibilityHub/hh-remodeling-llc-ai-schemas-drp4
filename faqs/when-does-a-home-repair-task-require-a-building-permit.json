@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-does-a-home-repair-task-require-a-building-permit",
+  "name": "When does a home repair task require a building permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does a home repair task require a building permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface repairs do not require permits, but work involving structural alterations or major mechanical adjustments usually does. Cosmetic work like replacing floor tiles, patching drywall, installing crown molding, swapping a sink faucet, or painting does not require municipal building permits. However, if your repair exposes structural framing damage that requires sistering joists, or if you decide to add new electrical circuits, local building jurisdictions require permit submissions. As an experienced general contractor, Abraham Becerra identifies when a simple repair crosses into permitted territory and manages compliance when needed.",
+        "@type": "Answer",
+        "description": "Cosmetic work like drywall patches, trim, and tile repair does not need permits. Permits are only required if repairs involve structural framing or electrical alterations."
+      }
+    }
+  ],
+  "description": "Cosmetic work like drywall patches, trim, and tile repair does not need permits. Permits are only required if repairs involve structural framing or electrical a"
+}

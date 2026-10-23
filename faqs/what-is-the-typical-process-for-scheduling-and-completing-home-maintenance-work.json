@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-process-for-scheduling-and-completing-home-maintenance-work",
+  "name": "What is the typical process for scheduling and completing home maintenance work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for scheduling and completing home maintenance work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Work begins with an initial walkthrough to assess visible damage and uncover any underlying structural or moisture causes. The contractor reviews the required carpentry, drywall, tile, or painting scope, provides an estimate, and schedules the project. Before the crew arrives, clearing personal items and furniture from the work zone ensures safe access and protects your belongings. During repairs, the lead contractor manages daily cleanup, protects existing floors, completes installations, and conducts a final walkthrough with you to verify all punch-list items are finished.",
+        "@type": "Answer",
+        "description": "The process includes an on-site assessment, project estimate, site prep, skilled repairs across trades, daily cleanup, and a final walkthrough inspection."
+      }
+    }
+  ],
+  "description": "The process includes an on-site assessment, project estimate, site prep, skilled repairs across trades, daily cleanup, and a final walkthrough inspection."
+}

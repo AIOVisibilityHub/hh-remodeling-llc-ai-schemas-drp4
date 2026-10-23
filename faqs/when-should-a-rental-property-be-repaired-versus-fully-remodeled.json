@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-a-rental-property-be-repaired-versus-fully-remodeled",
+  "name": "When should a rental property be repaired versus fully remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a rental property be repaired versus fully remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a full remodel when structural materials are deteriorated, layouts are outdated, or repair costs approach replacement value. If cabinet boxes are broken, shower subsurfaces have extensive moisture damage, or flooring is failing across multiple rooms, patching is only a short-term band-aid. Conversely, routine maintenance is best when surfaces simply have cosmetic wear, loose hardware, chipped paint, or isolated drywall dents. A contractor who handles both repairs and full renovations can help you weigh whether continuing to patch components makes financial sense.",
+        "@type": "Answer",
+        "description": "Opt for routine repairs for isolated cosmetic wear, but choose a remodel when moisture damage, broken cabinetry, or worn subsurfaces compromise the entire space."
+      }
+    }
+  ],
+  "description": "Opt for routine repairs for isolated cosmetic wear, but choose a remodel when moisture damage, broken cabinetry, or worn subsurfaces compromise the entire space"
+}

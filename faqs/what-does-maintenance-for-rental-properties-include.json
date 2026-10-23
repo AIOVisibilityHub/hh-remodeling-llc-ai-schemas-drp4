@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-does-maintenance-for-rental-properties-include",
+  "name": "What does maintenance for rental properties include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does maintenance for rental properties include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental property maintenance covers ongoing interior and structural upkeep between or during tenancies to keep a unit safe, functional, and rentable. For rental owners, this commonly includes patching drywall holes, touching up or repainting scuffed interior walls, repairing damaged tile or grout in bathrooms, fixing broken trim, and addressing minor plumbing leaks. A hands-on contractor can inspect the unit to address cosmetic wear alongside underlying issues, such as moisture behind bathroom tile or damaged door framing, ensuring small tenant damages do not turn into major structural repairs.",
+        "@type": "Answer",
+        "description": "Rental maintenance includes drywall patching, interior painting, tile repair, trim fixes, and general repairs needed to keep a property functional and tenant-ready."
+      }
+    }
+  ],
+  "description": "Rental maintenance includes drywall patching, interior painting, tile repair, trim fixes, and general repairs needed to keep a property functional and tenant-re"
+}

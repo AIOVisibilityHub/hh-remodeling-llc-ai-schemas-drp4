@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-do-small-paint-touch-ups-usually-cost",
+  "name": "How much do small paint touch ups usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do small paint touch ups usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall cost depends on the number of spots, whether drywall spackling is needed, and whether you already have matching paint. For a standard visit covering minor scuffs, nail holes, and door dings across a couple of rooms, work is typically billed under basic handyman or small-project rates. If the existing paint needs to be custom-matched from a drywall sample or if full drywall patching and sanding are involved, labor time increases. Having labeled paint cans on hand keeps the total cost minimal.",
+        "@type": "Answer",
+        "description": "Costs reflect labor time, surface prep, and whether matching paint is on hand. Minor scuffs cost less, while drywall patching and color matching increase the total."
+      }
+    }
+  ],
+  "description": "Costs reflect labor time, surface prep, and whether matching paint is on hand. Minor scuffs cost less, while drywall patching and color matching increase the to"
+}

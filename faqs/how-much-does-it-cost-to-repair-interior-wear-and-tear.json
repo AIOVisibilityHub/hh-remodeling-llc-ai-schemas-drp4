@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-does-it-cost-to-repair-interior-wear-and-tear",
+  "name": "How much does it cost to repair interior wear and tear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair interior wear and tear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repairing interior wear and tear depends on the number of impacted rooms, the variety of materials involved, and whether painting requires full-wall blending or small spot touch-ups. Minor drywall patches and trim touch-ups for a single room cost substantially less than a whole-home refresh that spans baseboard replacement, tile grout repair, and multi-room repainting. Because owner Abraham Becerra leads on-site work and coordinates carpentry, drywall, and paint together, combining multiple small repairs into a single project scope reduces travel overhead and overall labor costs.",
+        "@type": "Answer",
+        "description": "Costs depend on room count, material types, and paint blending needs. Grouping multiple drywall, trim, and tile repairs into one service visit lowers total labor costs."
+      }
+    }
+  ],
+  "description": "Costs depend on room count, material types, and paint blending needs. Grouping multiple drywall, trim, and tile repairs into one service visit lowers total labo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-damaged-molding-be-repaired-or-does-it-always-need-to-be-replaced",
+  "name": "Can damaged molding be repaired, or does it always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can damaged molding be repaired, or does it always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, minor surface damage like small gouges, nail holes, and hairline cracks in wood or MDF molding can usually be patched and sanded without full replacement. A finish carpenter applies wood filler or painter's caulk, smooths the area flush with the trim profile, and repaints or stains the section to blend in. However, if the trim has deep structural rot, significant water swelling, or broken chunks missing across an intricate profile, replacing that run is often more practical. Patching extensive structural damage can require excessive labor and still leave visible seams.",
+        "@type": "Answer",
+        "description": "Most small cracks, dents, and surface gouges can be patched, sanded, and repainted. Full replacement is best if the trim has water swelling, rot, or major structural breaks."
+      }
+    }
+  ],
+  "description": "Most small cracks, dents, and surface gouges can be patched, sanded, and repainted. Full replacement is best if the trim has water swelling, rot, or major struc"
+}

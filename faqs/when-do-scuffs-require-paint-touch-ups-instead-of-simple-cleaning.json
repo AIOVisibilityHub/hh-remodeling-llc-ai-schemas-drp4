@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-scuffs-require-paint-touch-ups-instead-of-simple-cleaning",
+  "name": "When do scuffs require paint touch ups instead of simple cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do scuffs require paint touch ups instead of simple cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface scuffs from shoes or furniture often wash off with warm water and a microfiber cloth or mild detergent without removing paint. However, if the impact gouged through the paint film to expose white drywall paper, or if repeated scrubbing has burnished the sheen and removed the color, washing will not fix it. In those cases, light spackling and paint touch ups are necessary to restore the finish.",
+        "@type": "Answer",
+        "description": "If a scuff wiped away without breaking the paint film, cleaning is enough. If drywall is exposed or the finish is rubbed off, repainting is required."
+      }
+    }
+  ],
+  "description": "If a scuff wiped away without breaking the paint film, cleaning is enough. If drywall is exposed or the finish is rubbed off, repainting is required."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-rental-turnover-maintenance-take-between-tenants",
+  "name": "How long does rental turnover maintenance take between tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rental turnover maintenance take between tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turnover maintenance typically takes anywhere from two days to two weeks depending on the scope of work and property condition. Basic cosmetic refreshes—such as drywall patching, caulking tubs, and fresh interior paint—can often be completed in a few days. However, if a turnover requires sub-trade coordination for electrical or plumbing repairs, subfloor fixes, or retiling a damaged shower surround, the timeline extends. Scheduling a walk-through right after the tenant moves out allows your contractor to build an accurate punch list and line up necessary materials immediately.",
+        "@type": "Answer",
+        "description": "Most rental turnovers take 2 to 14 days, depending on whether the unit requires basic paint and drywall patches or deeper repairs like tile replacement and sub-trade work."
+      }
+    }
+  ],
+  "description": "Most rental turnovers take 2 to 14 days, depending on whether the unit requires basic paint and drywall patches or deeper repairs like tile replacement and sub-"
+}

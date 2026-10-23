@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-damaged-interior-trim-be-repaired-or-does-it-always-need-to-be-replaced",
+  "name": "Can damaged interior trim be repaired, or does it always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can damaged interior trim be repaired, or does it always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most damaged baseboards, door casings, and crown molding can be repaired without tearing out the entire run. If the issue is surface gouges, pet chew marks, small cracks, or loose seams, finish carpenters can patch the wood using filler, sand it smooth, re-nail the framing, and paint the section. However, if the molding has suffered severe dry rot, deep water swelling from plumbing leaks, or shattered profiles, replacing that specific segment is usually the practical choice. Blending a new profile with existing vintage trim requires careful profile matching so the joints sit flush.",
+        "@type": "Answer",
+        "description": "Most trim damage can be repaired with wood filler, sanding, and repainting. Replacement is generally needed only when wood is rotted, water-swollen, or split beyond structural repair."
+      }
+    }
+  ],
+  "description": "Most trim damage can be repaired with wood filler, sanding, and repainting. Replacement is generally needed only when wood is rotted, water-swollen, or split be"
+}

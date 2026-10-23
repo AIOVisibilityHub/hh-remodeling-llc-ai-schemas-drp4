@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-involved-in-professional-paint-touch-up-work",
+  "name": "What steps are involved in professional paint touch up work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in professional paint touch up work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process starts with surface inspection and cleaning to remove dust or grease. The technician fills gouges or nail holes with spackle, lets it cure, and sands it flush with the surrounding drywall texture. Next, a primer or thin base coat is applied if bare drywall is exposed. Finally, the paint is applied using the same tool texture—usually a small roller or feathered brush—to match the surrounding stipple pattern and eliminate hard paint edges.",
+        "@type": "Answer",
+        "description": "The work includes surface cleaning, patching gouges, sanding flush, spot-priming bare drywall, and feathering matching paint to blend with the wall texture."
+      }
+    }
+  ],
+  "description": "The work includes surface cleaning, patching gouges, sanding flush, spot-priming bare drywall, and feathering matching paint to blend with the wall texture."
+}

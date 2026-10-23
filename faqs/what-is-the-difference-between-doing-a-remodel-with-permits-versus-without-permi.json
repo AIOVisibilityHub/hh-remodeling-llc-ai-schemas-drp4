@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-doing-a-remodel-with-permits-versus-without-permi",
+  "name": "What is the difference between doing a remodel with permits versus without permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between doing a remodel with permits versus without permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While obtaining permits adds upfront application fees and required inspection holds, skipping them creates serious legal and financial liabilities. Unpermitted work can lead to municipal stop-work orders, fines, or requirements to tear open finished drywall to expose framing, wiring, and plumbing. Furthermore, unpermitted alterations can complicate future home sales or void homeowner insurance coverage in the event of water leaks or electrical fires. Permitting ensures all work adheres to current building and safety codes.",
+        "@type": "Answer",
+        "description": "Permits ensure safety and code compliance. Unpermitted work risks stop-work orders, mandatory tear-outs, insurance coverage denials, and complications when selling your home."
+      }
+    }
+  ],
+  "description": "Permits ensure safety and code compliance. Unpermitted work risks stop-work orders, mandatory tear-outs, insurance coverage denials, and complications when sell"
+}

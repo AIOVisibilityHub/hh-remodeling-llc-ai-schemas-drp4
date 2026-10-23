@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-included-in-residential-construction-services-compared-to-basic-repairs",
+  "name": "What is included in residential construction services compared to basic repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in residential construction services compared to basic repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential construction services cover major structural and interior improvements, from custom framing and room additions to whole-room builds like basement finishes. Choosing construction services over minor cosmetic repairs becomes necessary when altering your floor plan, knocking down non-load-bearing walls, adding framing for new rooms, or reconfiguring layouts. At HH Remodeling LLC, we oversee these structural adjustments directly, handling the custom carpentry, drywall installation, and surface finishes while coordinating trusted sub-trades for specialized plumbing and electrical rough-ins. This integrated management keeps your project structured properly from bare studs to final trim.",
+        "@type": "Answer",
+        "description": "Construction services involve structural work like framing, additions, and layout reconfigurations, whereas repairs focus on surface fixes without altering walls or core systems."
+      }
+    }
+  ],
+  "description": "Construction services involve structural work like framing, additions, and layout reconfigurations, whereas repairs focus on surface fixes without altering wall"
+}

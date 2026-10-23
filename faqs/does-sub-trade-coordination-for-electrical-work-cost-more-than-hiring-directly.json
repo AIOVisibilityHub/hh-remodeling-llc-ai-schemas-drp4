@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/does-sub-trade-coordination-for-electrical-work-cost-more-than-hiring-directly",
+  "name": "Does sub-trade coordination for electrical work cost more than hiring directly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does sub-trade coordination for electrical work cost more than hiring directly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coordinating electrical through a general contractor is usually integrated into your overall project scope and bid rather than billed as an unexpected standalone markup. The trade cost covers the licensed electrician's labor and materials, while the management cost is reflected in standard project management fees. A major trade-off of self-managing electrical to save a minor oversight fee is the risk of misaligned schedules; if an electrician cuts into fresh drywall or misses a rough-in deadline, you end up paying extra to patch walls or reschedule trades.",
+        "@type": "Answer",
+        "description": "It is typically bundled into the general remodel contract, saving you the hidden costs of project delays, rework, and drywall patching."
+      }
+    }
+  ],
+  "description": "It is typically bundled into the general remodel contract, saving you the hidden costs of project delays, rework, and drywall patching."
+}

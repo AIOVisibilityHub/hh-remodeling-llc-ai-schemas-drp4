@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-turnover-maintenance-and-occupied-rental-repair",
+  "name": "What is the difference between turnover maintenance and occupied rental repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between turnover maintenance and occupied rental repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Turnover maintenance focuses on bringing a vacant unit back to market-ready condition for a new tenant, whereas occupied maintenance addresses specific, immediate repairs while a resident lives there. Turnovers allow for noisy, multi-room projects like comprehensive interior painting, heavy drywall sanding, tile demo, and subfloor work without disruption. Occupied repairs require careful scheduling, dust containment, and focused scopes—such as fixing a leaking vanity drain or patching a single wall—to respect the tenant’s living space and daily schedule.",
+        "@type": "Answer",
+        "description": "Turnover maintenance handles full refreshes like repainting and tile work in empty units, while occupied repair targets specific, urgent fixes with minimal tenant disruption."
+      }
+    }
+  ],
+  "description": "Turnover maintenance handles full refreshes like repainting and tile work in empty units, while occupied repair targets specific, urgent fixes with minimal tena"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-fix-a-door-that-will-not-latch-shut",
+  "name": "How do you fix a door that will not latch shut?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you fix a door that will not latch shut?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door latch fails to catch when the strike plate does not line up with the latch bolt, usually caused by hinge sag or jamb settling. If the mismatch is minor, a technician can file the strike plate opening slightly or adjust the plate up or down. If the door has sagged substantially, however, simply moving the strike plate treats the symptom rather than the cause; the proper solution is lifting the door by shimming the bottom hinge or securing the top hinge deeper into the wall framing. In mobile homes or properties with settling framing, resetting both hinges and strike plates restores smooth latching.",
+        "@type": "Answer",
+        "description": "Fixes range from adjusting or filing the strike plate to shimming the hinges or lifting a sagging door back into proper alignment with the frame."
+      }
+    }
+  ],
+  "description": "Fixes range from adjusting or filing the strike plate to shimming the hinges or lifting a sagging door back into proper alignment with the frame."
+}

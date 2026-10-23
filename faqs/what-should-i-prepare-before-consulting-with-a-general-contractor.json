@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-consulting-with-a-general-contractor",
+  "name": "What should I prepare before consulting with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before consulting with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before bringing in a general contractor for an estimate, define your functional priorities, collect visual design ideas, and establish a firm overall budget range. Document any specific issues in the home, such as water damage, drafty spaces, or outdated electrical panels that may need upgrading. It is also wise to decide upfront who makes household design decisions and identify realistic living arrangements if a kitchen or main bathroom will be out of service during construction. Having these details ready allows the contractor to build a much more accurate scope and timeline.",
+        "@type": "Answer",
+        "description": "Clarify your project goals, establish your budget, gather design photos, and identify any known structural, plumbing, or electrical issues in your home."
+      }
+    }
+  ],
+  "description": "Clarify your project goals, establish your budget, gather design photos, and identify any known structural, plumbing, or electrical issues in your home."
+}

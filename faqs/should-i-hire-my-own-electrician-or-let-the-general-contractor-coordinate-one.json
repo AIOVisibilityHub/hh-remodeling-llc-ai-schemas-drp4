@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-my-own-electrician-or-let-the-general-contractor-coordinate-one",
+  "name": "Should I hire my own electrician or let the general contractor coordinate one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire my own electrician or let the general contractor coordinate one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring your own electrician requires you to manage sequencing, job-site access, and accountability yourself. When HH Remodeling coordinates electrical sub-trades, Abraham Becerra personally oversees the workflow on-site. If an electrician needs an extra stud moved or a drywall opening adjusted, our carpentry team handles it immediately. Managing trades independently often leads to scheduling conflicts, finger-pointing over wall patching, or extended gaps where your remodel sits idle waiting for the next contractor.",
+        "@type": "Answer",
+        "description": "Letting your general contractor coordinate electrical work avoids scheduling conflicts, ensures smooth trade handoffs, and gives you a single point of contact."
+      }
+    }
+  ],
+  "description": "Letting your general contractor coordinate electrical work avoids scheduling conflicts, ensures smooth trade handoffs, and gives you a single point of contact."
+}

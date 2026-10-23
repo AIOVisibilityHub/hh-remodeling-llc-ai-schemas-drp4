@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-home-repair-tasks-does-hh-remodeling-typically-handle",
+  "name": "What types of home repair tasks does HH Remodeling typically handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home repair tasks does HH Remodeling typically handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HH Remodeling handles a wide variety of residential repairs, focusing heavily on interior trade specialties. Common tasks include repairing drywall holes and water-damaged ceilings, fixing cracked floor or wall tiles, replacing damaged baseboards or crown molding, patching subfloors, and interior paint touch-ups. We also perform specialized punch-list items like hanging interior doors, adjusting trim, and assembling accessibility modifications. For jobs that border on trade work, such as moving outlets or rerouting drain lines, our team coordinates trusted plumbing and electrical subcontractors under single-point job supervision.",
+        "@type": "Answer",
+        "description": "We handle drywall repairs, interior painting touch-ups, tile repairs, trim and finish carpentry, door adjustments, and accessibility modifications across the home."
+      }
+    }
+  ],
+  "description": "We handle drywall repairs, interior painting touch-ups, tile repairs, trim and finish carpentry, door adjustments, and accessibility modifications across the ho"
+}

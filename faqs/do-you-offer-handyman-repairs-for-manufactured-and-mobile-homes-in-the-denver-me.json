@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-offer-handyman-repairs-for-manufactured-and-mobile-homes-in-the-denver-me",
+  "name": "Do you offer handyman repairs for manufactured and mobile homes in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer handyman repairs for manufactured and mobile homes in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide specialized mobile home and manufactured home interior repairs throughout our service areas, including Aurora, Parker, and Centennial. Mobile homes often use distinct wall panel systems, specialized trim, and shallow plumbing configurations that differ from standard stick-built construction. Repairing mobile home subfloors, updating wall paneling to smooth drywall, or resetting bath surrounds requires knowledge of manufactured framing standards. HH Remodeling applies our residential carpentry and drywall expertise specifically to address the unique structural movement and material tolerances found in manufactured properties.",
+        "@type": "Answer",
+        "description": "Yes, we repair mobile homes across the Denver metro area, handling specialized wall systems, subfloor repairs, mobile home trim, and bath surround adjustments."
+      }
+    }
+  ],
+  "description": "Yes, we repair mobile homes across the Denver metro area, handling specialized wall systems, subfloor repairs, mobile home trim, and bath surround adjustments."
+}

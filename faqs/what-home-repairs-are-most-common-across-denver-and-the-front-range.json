@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-home-repairs-are-most-common-across-denver-and-the-front-range",
+  "name": "What home repairs are most common across Denver and the Front Range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What home repairs are most common across Denver and the Front Range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes along the Colorado Front Range often experience shifting soils, heavy hail, and significant temperature swings, causing interior cracking, door misalignment, and water intrusion. In areas like Denver, Centennial, and Parker, seasonal freeze-thaw cycles frequently lead to hairline cracks in basement drywall and foundation settling that jams interior doors. Choosing durable materials, allowing flexible caulking at trim joints, and checking for seasonal drafts around frames help keep repairs stable through changing local weather.",
+        "@type": "Answer",
+        "description": "Drywall settlement cracks, door realignment from soil movement, and water-related ceiling patches are common Front Range repairs due to local freeze-thaw cycles."
+      }
+    }
+  ],
+  "description": "Drywall settlement cracks, door realignment from soil movement, and water-related ceiling patches are common Front Range repairs due to local freeze-thaw cycles"
+}

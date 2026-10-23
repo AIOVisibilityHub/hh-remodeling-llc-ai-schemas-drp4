@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-general-contractor-or-a-handyman-for-home-repairs",
+  "name": "Should I hire a general contractor or a handyman for home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or a handyman for home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a licensed general contractor is better when repairs cross multiple trades or involve structural components, while a standard handyman is suited for quick, isolated tasks. If your maintenance involves repairing drywall after a plumbing leak, fixing subflooring under loose bathroom tile, or repairing structural framing, a general contractor coordinates the trades under one roof. The practical tradeoff is that a general contractor may require scheduling around multi-step phases, but you avoid managing separate painters, carpenters, and specialty trades yourself while ensuring the work meets building standards.",
+        "@type": "Answer",
+        "description": "Choose a general contractor when repairs involve multiple trades like drywall, tile, and plumbing coordination. Use a handyman for simple, isolated fixes."
+      }
+    }
+  ],
+  "description": "Choose a general contractor when repairs involve multiple trades like drywall, tile, and plumbing coordination. Use a handyman for simple, isolated fixes."
+}

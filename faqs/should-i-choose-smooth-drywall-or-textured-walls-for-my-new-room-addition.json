@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-smooth-drywall-or-textured-walls-for-my-new-room-addition",
+  "name": "Should I choose smooth drywall or textured walls for my new room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose smooth drywall or textured walls for my new room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smooth drywall provides a clean, modern aesthetic but requires significantly more labor and shows minor imperfections more easily than textured finishes. Achieving smooth walls requires a Level 5 finish, where the entire surface receives a thin skim coat to eliminate texture variations between paper and joint compound. Textured walls, such as light orange peel or knockdown, take less time to prep and help conceal minor framing variations or seasonal home settling. If you select smooth finishes, plan on higher initial labor and regular touch-up vigilance.",
+        "@type": "Answer",
+        "description": "Smooth drywall offers a sleek, modern look but requires intensive labor and shows flaws easily, whereas textured drywall conceals framing shifts and takes less prep time."
+      }
+    }
+  ],
+  "description": "Smooth drywall offers a sleek, modern look but requires intensive labor and shows flaws easily, whereas textured drywall conceals framing shifts and takes less"
+}

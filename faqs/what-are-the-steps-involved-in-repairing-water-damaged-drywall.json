@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-steps-involved-in-repairing-water-damaged-drywall",
+  "name": "What are the steps involved in repairing water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the steps involved in repairing water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repair begins with cutting away softened or mold-compromised drywall back to solid, dry framing studs. Moisture meters verify that the cavity framing is fully dry before closing the wall. New drywall is measured, cut, and screwed into backing wood, followed by fiberglass mesh or paper tape over the seams. The contractor then applies multiple thin coats of joint compound, feathering the edges outwards, sands the surface smooth, matches the existing texture, and applies primer prior to finish painting.",
+        "@type": "Answer",
+        "description": "The process involves removing damp materials, confirming dry framing, installing new drywall backing, taping, applying compound, texture matching, and painting."
+      }
+    }
+  ],
+  "description": "The process involves removing damp materials, confirming dry framing, installing new drywall backing, taping, applying compound, texture matching, and painting."
+}

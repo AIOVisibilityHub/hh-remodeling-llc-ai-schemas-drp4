@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-minor-framing-adjustments-and-structural-reframin",
+  "name": "What is the difference between minor framing adjustments and structural reframing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between minor framing adjustments and structural reframing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor non-load-bearing framing adjustments alter interior partition layout, whereas full structural reframing changes how a home carries its physical load. Minor framing involves adjusting individual stud locations, shortening non-structural walls, or creating small rough openings. Structural reframing involves cutting into load-bearing exterior or center walls, removing support posts, or installing heavy structural headers and beams to open entire floor plans. Minor adjustments do not require temporary shoring walls or engineered calculations, making them significantly faster and less disruptive to everyday living spaces than structural overhauls.",
+        "@type": "Answer",
+        "description": "Minor framing adjusts non-load-bearing studs and partitions without heavy structural beams, whereas structural reframing alters weight-bearing walls and requires engineered headers."
+      }
+    }
+  ],
+  "description": "Minor framing adjusts non-load-bearing studs and partitions without heavy structural beams, whereas structural reframing alters weight-bearing walls and require"
+}

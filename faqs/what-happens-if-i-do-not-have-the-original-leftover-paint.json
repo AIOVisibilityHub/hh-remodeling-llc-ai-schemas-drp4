@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-if-i-do-not-have-the-original-leftover-paint",
+  "name": "What happens if I do not have the original leftover paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I do not have the original leftover paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but you will need to bring a physical sample to a paint retailer or have your contractor cut a clean one-inch drywall sample from an inconspicuous area, like behind an outlet plate or inside a closet. Paint stores use spectrophotometers to scan the sample and match the color. However, matching the exact sheen—such as flat, eggshell, satin, or semi-gloss—is equally critical, because a mismatch in sheen shows up immediately under room lighting.",
+        "@type": "Answer",
+        "description": "A contractor can cut a small drywall sample from a hidden spot to digitally color-match the paint and sheen at a local store."
+      }
+    }
+  ],
+  "description": "A contractor can cut a small drywall sample from a hidden spot to digitally color-match the paint and sheen at a local store."
+}

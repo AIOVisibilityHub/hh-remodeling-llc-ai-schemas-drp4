@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-process-for-scheduling-and-completing-a-home-repair",
+  "name": "What is the typical process for scheduling and completing a home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for scheduling and completing a home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and site review to assess both visible damage and any concealed issues behind walls or floors. Owner Abraham Becerra evaluates the scope, determines if sub-trades like plumbing or electrical are needed, and provides an estimate. Once approved, the crew prepares the workspace with protective floor and dust coverings. HH Remodeling LLC self-performs the hands-on carpentry, framing, drywall patching, and painting, coordinating any specialized mechanical work directly. After finishing touches, sanding, and cleanup, a final walkthrough ensures repairs blend seamlessly into existing finishes.",
+        "@type": "Answer",
+        "description": "The process involves a site assessment, detailed estimate, surface protection, hands-on repair work by the crew, sub-trade coordination if needed, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves a site assessment, detailed estimate, surface protection, hands-on repair work by the crew, sub-trade coordination if needed, and a final w"
+}

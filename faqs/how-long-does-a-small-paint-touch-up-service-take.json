@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-small-paint-touch-up-service-take",
+  "name": "How long does a small paint touch up service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a small paint touch up service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standalone small touch up usually takes between one and three hours from start to finish. The actual brush or roller application only takes minutes, but applying spackle, waiting for it to dry, sanding it flush, and applying a second coat adds waiting time. Water-based interior latex paints generally dry to the touch within one hour, but lower room temperatures and humidity can extend the time needed before a second light coat can be feathered in.",
+        "@type": "Answer",
+        "description": "Most small touch-up jobs take between one and three hours, allowing enough time for spackle drying, sanding, and second-coat application."
+      }
+    }
+  ],
+  "description": "Most small touch-up jobs take between one and three hours, allowing enough time for spackle drying, sanding, and second-coat application."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-does-residential-property-maintenance-typically-include",
+  "name": "What does residential property maintenance typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does residential property maintenance typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential property maintenance covers routine repairs, upkeep, and preventative servicing to keep your home functional, safe, and structurally sound. For HH Remodeling LLC, this includes handyman work, drywall patching, interior painting touch-ups, trim repair, tile re-grouting, and addressing minor wear before it turns into major damage. When maintenance uncovers hidden issues requiring licensed trade work, such as plumbing leaks or faulty wiring, the scope shifts to coordinated subcontractor management alongside structural or finish carpentry fixes. Focusing on routine maintenance early helps homeowners protect their investment and avoid costly full-room gut remodels later.",
+        "@type": "Answer",
+        "description": "Residential maintenance includes preventative care and repairs like drywall patching, trim work, tile re-grouting, painting touch-ups, and managing general interior wear."
+      }
+    }
+  ],
+  "description": "Residential maintenance includes preventative care and repairs like drywall patching, trim work, tile re-grouting, painting touch-ups, and managing general inte"
+}

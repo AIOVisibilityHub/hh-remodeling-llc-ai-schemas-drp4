@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-the-permit-review-and-approval-process-take",
+  "name": "How long does the permit review and approval process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the permit review and approval process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit approval turnaround depends heavily on the local municipal building department and the complexity of the project. Straightforward plumbing or electrical trade permits for a bathroom remodel can be issued in several business days. In contrast, complex projects involving custom framing, additions, or full basement finishes that require plan reviews often take two to four weeks. Factoring in this review period before scheduling physical construction prevents unexpected work pauses and keeps subcontractor timelines aligned.",
+        "@type": "Answer",
+        "description": "Simple trade permits often take a few business days, while full architectural or structural plan reviews can take two to four weeks depending on the municipal department."
+      }
+    }
+  ],
+  "description": "Simple trade permits often take a few business days, while full architectural or structural plan reviews can take two to four weeks depending on the municipal d"
+}

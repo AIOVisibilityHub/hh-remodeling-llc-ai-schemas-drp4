@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-is-my-interior-or-exterior-door-sticking-and-hard-to-close",
+  "name": "Why is my interior or exterior door sticking and hard to close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my interior or exterior door sticking and hard to close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door usually sticks or scrapes because of loose hinge screws, house settling, moisture-induced swelling, or an out-of-square frame. In older homes or after seasonal shifts, framing moves slightly, causing the door slab to bind against the jamb or rub on flooring. Quick fixes like tightening or replacing hinge screws with longer structural screws often pull the jamb back into alignment. However, if the framing has shifted substantially or the wood door has warped, the door may need to be planed, hinges recessed, or the frame re-shimmed. Examining whether the gap around the door is uneven helps determine whether a minor hinge tune-up or a deeper frame realignment is required.",
+        "@type": "Answer",
+        "description": "Doors stick mainly due to loose hinges, humidity swelling, or structural settling. Fixing it may involve tightening screws, planing edges, or resetting the jamb."
+      }
+    }
+  ],
+  "description": "Doors stick mainly due to loose hinges, humidity swelling, or structural settling. Fixing it may involve tightening screws, planing edges, or resetting the jamb"
+}

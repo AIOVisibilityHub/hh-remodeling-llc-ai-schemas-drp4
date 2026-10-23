@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-to-hire-a-general-contractor-instead-of-a-handyman",
+  "name": "When do I need to hire a general contractor instead of a handyman?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a general contractor instead of a handyman?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need a general contractor when a home improvement project involves multiple specialized trades, structural alterations, or municipal permits. Simple tasks like repainting a bedroom or replacing a faucet can be handled by a handyman or specialty installer. However, full-scope projects such as kitchen remodels, basement finishes, or room additions require coordinating framing, drywall, electrical work, plumbing, and finish surfaces. Hiring a general contractor provides a single point of contact to schedule sub-trades, manage quality control, and keep finish carpentry, tile, and painting aligned with building codes and design plans.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for multi-trade remodels, additions, or structural changes requiring permits. Use a handyman for single, minor repairs or simple maintenance."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for multi-trade remodels, additions, or structural changes requiring permits. Use a handyman for single, minor repairs or simple maint"
+}

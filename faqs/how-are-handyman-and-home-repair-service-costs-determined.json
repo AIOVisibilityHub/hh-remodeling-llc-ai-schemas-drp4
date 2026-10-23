@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-handyman-and-home-repair-service-costs-determined",
+  "name": "How are handyman and home repair service costs determined?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are handyman and home repair service costs determined?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing for handyman and home repair work depends on the project scope, material requirements, and overall labor complexity. Straightforward tasks like minor drywall patches or installing prefabricated trim cost significantly less than complex jobs involving custom carpentry, subfloor adjustments, or matching vintage tile patterns. Before booking, homeowners should gather clear details: taking photos of the damage, listing all needed repairs across the house, and noting any material preferences. Providing this information upfront allows us to evaluate the work accurately and provide realistic estimates based on the actual labor and materials required.",
+        "@type": "Answer",
+        "description": "Costs depend on project scope, labor time, and material needs. Straightforward repairs cost less, while custom carpentry or matching existing finishes requires more labor."
+      }
+    }
+  ],
+  "description": "Costs depend on project scope, labor time, and material needs. Straightforward repairs cost less, while custom carpentry or matching existing finishes requires"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-home-maintenance-and-repair-costs-calculated",
+  "name": "How are home maintenance and repair costs calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are home maintenance and repair costs calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs depend directly on labor time, material requirements, accessibility, and whether hidden damage exists behind walls or under flooring. Minor surface touch-ups like patching small drywall holes or replacing a few cracked tiles carry modest labor fees. However, if water leaks have compromised the insulation, wall framing, or subfloor, the scope expands into carpentry and restoration, increasing the overall investment. Before scheduling an estimate, noting when the issue started and checking whether underlying plumbing or electrical fixtures are involved helps establish a precise, realistic project budget.",
+        "@type": "Answer",
+        "description": "Costs depend on task complexity, materials, labor hours, and whether concealed damage requires framing, plumbing, or electrical coordination."
+      }
+    }
+  ],
+  "description": "Costs depend on task complexity, materials, labor hours, and whether concealed damage requires framing, plumbing, or electrical coordination."
+}

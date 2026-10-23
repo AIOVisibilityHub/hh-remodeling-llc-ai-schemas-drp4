@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-handyman-handle-minor-plumbing-and-electrical-fixes-around-the-house",
+  "name": "Can a handyman handle minor plumbing and electrical fixes around the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a handyman handle minor plumbing and electrical fixes around the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, handyman services regularly include minor plumbing and electrical fixture swaps alongside carpentry and finish work, provided they do not require pulling new supply lines or panel upgrades. Tasks such as replacing a vanity faucet, switching an existing light fixture, or changing out damaged drywall around pipes are standard repair items. A key process detail to understand is trade boundaries: when a repair reveals hidden pipe corrosion, sewer line issues, or outdated wiring that requires extensive rerouting, the project transitions beyond a standard handyman fix to require coordinated trade specialists.",
+        "@type": "Answer",
+        "description": "Yes, handymen can replace existing fixtures, faucets, and switches, but extensive pipe rerouting or panel upgrades require licensed specialty trade coordination."
+      }
+    }
+  ],
+  "description": "Yes, handymen can replace existing fixtures, faucets, and switches, but extensive pipe rerouting or panel upgrades require licensed specialty trade coordination"
+}

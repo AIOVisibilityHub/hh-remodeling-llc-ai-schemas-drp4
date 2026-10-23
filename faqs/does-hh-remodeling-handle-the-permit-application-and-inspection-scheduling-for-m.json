@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/does-hh-remodeling-handle-the-permit-application-and-inspection-scheduling-for-m",
+  "name": "Does HH Remodeling handle the permit application and inspection scheduling for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does HH Remodeling handle the permit application and inspection scheduling for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HH Remodeling coordinates the entire permit application and inspection workflow on your behalf. As a small, owner-operated general contractor, Abraham Becerra prepares the project descriptions, submits the paperwork to your local building department, schedules required trade inspections, and meets inspectors on site. We also oversee the licensed sub-trades required for specialized plumbing and electrical rough-ins. This hands-on coordination keeps you from having to take time off work or guess technical code details during municipal walk-throughs.",
+        "@type": "Answer",
+        "description": "Yes. HH Remodeling prepares project paperwork, submits permit applications, coordinates specialty sub-trades, and attends site inspections directly."
+      }
+    }
+  ],
+  "description": "Yes. HH Remodeling prepares project paperwork, submits permit applications, coordinates specialty sub-trades, and attends site inspections directly."
+}

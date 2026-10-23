@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-interior-wear-and-tear-repair-usually-take",
+  "name": "How long does interior wear and tear repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior wear and tear repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most small to medium interior repairs take between one and three days. Drywall patching requires multiple coats of compound with drying time between applications, followed by sanding, texture blending, and primer before final painting. If trim or baseboards need replacement or tile grout needs scraping and regrouting, these steps occur alongside drywall curing to keep the project moving. Whole-home refreshes involving extensive baseboard caulking and repainting several rooms can take up to a week.",
+        "@type": "Answer",
+        "description": "Most localized repairs take one to three days, largely determined by drying times for drywall compound, primer, and paint coats across different rooms."
+      }
+    }
+  ],
+  "description": "Most localized repairs take one to three days, largely determined by drying times for drywall compound, primer, and paint coats across different rooms."
+}

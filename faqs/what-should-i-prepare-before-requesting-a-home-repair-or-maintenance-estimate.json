@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-requesting-a-home-repair-or-maintenance-estimate",
+  "name": "What should I prepare before requesting a home repair or maintenance estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting a home repair or maintenance estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor, compile a complete list of all needed repairs, take clear photos of the problem areas, and note any ongoing issues like plumbing leaks. Combining multiple small maintenance tasks—such as repairing loose baseboards, patching drywall, and fixing broken bathroom tile—into a single service call saves mobilization time and lowers overall costs. Disclosing the home's approximate age and whether past repairs occurred helps the contractor bring the right materials and schedule the appropriate crew for your initial visit.",
+        "@type": "Answer",
+        "description": "List all needed repairs, take photos of damaged areas, note any leak history, and combine tasks so the contractor can plan materials and trades efficiently."
+      }
+    }
+  ],
+  "description": "List all needed repairs, take photos of damaged areas, note any leak history, and combine tasks so the contractor can plan materials and trades efficiently."
+}

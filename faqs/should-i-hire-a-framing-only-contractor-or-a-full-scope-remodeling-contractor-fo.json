@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-framing-only-contractor-or-a-full-scope-remodeling-contractor-fo",
+  "name": "Should I hire a framing-only contractor or a full-scope remodeling contractor for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a framing-only contractor or a full-scope remodeling contractor for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a separate framing crew builds the structural skeleton, choosing a full-service general contractor provides single-source accountability through drywall, painting, and trim. If a standalone framer leaves studs out of plumb or frames rough openings inaccurately, the drywallers and finish carpenters must fix those flaws later, causing extra cost and delays. A hands-on general contractor oversees the framing crew with the final interior finishes in mind, ensuring drywall, tile, and molding install smoothly once framing wraps up.",
+        "@type": "Answer",
+        "description": "A full-scope contractor oversees framing with finish carpentry, drywall, and sub-trades in mind, preventing structural discrepancies that cause costly finishing delays later."
+      }
+    }
+  ],
+  "description": "A full-scope contractor oversees framing with finish carpentry, drywall, and sub-trades in mind, preventing structural discrepancies that cause costly finishing"
+}
