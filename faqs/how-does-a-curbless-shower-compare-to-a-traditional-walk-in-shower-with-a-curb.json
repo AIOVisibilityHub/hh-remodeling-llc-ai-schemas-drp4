@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-a-curbless-shower-compare-to-a-traditional-walk-in-shower-with-a-curb",
+  "name": "How does a curbless shower compare to a traditional walk-in shower with a curb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a curbless shower compare to a traditional walk-in shower with a curb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both eliminate tubs, curbless showers offer zero-threshold entry flush with the floor, whereas standard walk-in showers have a 3- to 5-inch raised curb. Standard curbed showers cost less to install because they do not require structural joist modification or recessed subfloors; the curb acts as a dam to contain standing water. However, curbless designs provide seamless transitions ideal for aging in place, wheelchair access, and a continuous visual flow across tile floors. Choosing between them involves balancing budget constraints against long-term accessibility goals and modern design preferences.",
+        "@type": "Answer",
+        "description": "Curbless showers sit flush with the bathroom floor for zero-barrier entry, whereas traditional walk-in showers feature a raised 3- to 5-inch dam to contain water."
+      }
+    }
+  ],
+  "description": "Curbless showers sit flush with the bathroom floor for zero-barrier entry, whereas traditional walk-in showers feature a raised 3- to 5-inch dam to contain wate"
+}

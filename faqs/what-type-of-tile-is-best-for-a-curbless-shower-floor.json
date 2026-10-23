@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-tile-is-best-for-a-curbless-shower-floor",
+  "name": "What type of tile is best for a curbless shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of tile is best for a curbless shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small mosaic tiles with textured finishes are the safest and most practical choice for curbless shower floors. Mosaics provide numerous grout joints that naturally create grip under wet feet, significantly reducing the risk of slipping. They also contour easily to multi-directional subfloor slopes directed toward center drains. If you prefer larger-format porcelain or marble tiles for a streamlined appearance, consider a linear drain, which requires a single flat slope, and verify that the tile has an adequate wet dynamic coefficient of friction (DCOF) rating suitable for residential wet areas.",
+        "@type": "Answer",
+        "description": "Small, textured mosaic tiles are best because the grout lines provide essential slip resistance and adapt easily to the sloped floor around the drain."
+      }
+    }
+  ],
+  "description": "Small, textured mosaic tiles are best because the grout lines provide essential slip resistance and adapt easily to the sloped floor around the drain."
+}

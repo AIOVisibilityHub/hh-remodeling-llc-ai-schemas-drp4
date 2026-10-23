@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-consider-adding-grab-bars-to-my-shower",
+  "name": "When should I consider adding grab bars to my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adding grab bars to my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should install grab bars whenever someone in the home experiences reduced mobility, balance concerns, or is preparing for aging in place or surgery recovery. Installing them proactively prevents slip-and-fall injuries before an accident happens in wet, slippery conditions. Today’s accessibility hardware comes in brushed nickel, matte black, and chrome finishes that match existing bathroom fixtures, allowing homeowners to integrate essential safety features without giving the space an institutional or clinical feel.",
+        "@type": "Answer",
+        "description": "Install them proactively for aging in place, surgery recovery, or balance support, or whenever you want to prevent slips and falls on wet surfaces."
+      }
+    }
+  ],
+  "description": "Install them proactively for aging in place, surgery recovery, or balance support, or whenever you want to prevent slips and falls on wet surfaces."
+}

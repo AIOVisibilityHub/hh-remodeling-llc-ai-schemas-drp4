@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-tub-to-shower-conversion-in-the-denver-area",
+  "name": "Do I need a building permit for a tub-to-shower conversion in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a tub-to-shower conversion in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion requires permits when it involves modifying the existing drainage system, altering supply lines, or reframing structural walls. Denver and surrounding municipalities enforce building and plumbing codes that mandate upgrading tub drains to 2-inch shower drains and installing pressure-balanced shower valves to protect against scalding. An experienced general contractor coordinates the required trade permits and schedules municipal inspections at rough-in and final stages, ensuring all plumbing and structural work complies with local building safety standards.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required because conversions involve plumbing alterations, such as widening drain lines to two inches, and potential wall framing modifications."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required because conversions involve plumbing alterations, such as widening drain lines to two inches, and potential wall framing mod"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-any-bathroom-be-converted-into-a-curbless-walk-in-shower",
+  "name": "Can any bathroom be converted into a curbless walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any bathroom be converted into a curbless walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, almost any standard bathroom can accommodate a curbless shower, but the structural subfloor dictates the installation method. In homes with wooden joists, the subfloor framing must be lowered or modified to recess the shower tray without raising the surrounding bathroom floor. On concrete slab foundations, contractors must either cut into the concrete to sink the drain pan or create a very slight ramped threshold outside the stall. Before planning this renovation, consider your ceiling clearance, door swings, and overall room layout, as these factors determine how far out the waterproofed wet zone must extend to prevent splashing.",
+        "@type": "Answer",
+        "description": "Most bathrooms can accommodate one, though wooden subfloors require lowering the joists, while concrete slabs require recessing the floor or ramping up the entry."
+      }
+    }
+  ],
+  "description": "Most bathrooms can accommodate one, though wooden subfloors require lowering the joists, while concrete slabs require recessing the floor or ramping up the entr"
+}

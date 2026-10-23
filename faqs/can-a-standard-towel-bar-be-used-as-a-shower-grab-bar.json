@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-standard-towel-bar-be-used-as-a-shower-grab-bar",
+  "name": "Can a standard towel bar be used as a shower grab bar?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a standard towel bar be used as a shower grab bar?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Towel bars are held in place by small set screws and light drywall anchors designed only to hold a few pounds of fabric. If someone slips and grabs a towel bar, it will easily pull away from the wall, causing serious injury. Grab bars feature heavy-gauge metal construction, secure flange plates, and structural lag screws that tie directly into wall framing or rated solid-mount anchors to support sudden, heavy downward loads.",
+        "@type": "Answer",
+        "description": "No. Towel bars use light brackets that tear out under body weight. Grab bars use structural hardware engineered to support substantial, sudden weight."
+      }
+    }
+  ],
+  "description": "No. Towel bars use light brackets that tear out under body weight. Grab bars use structural hardware engineered to support substantial, sudden weight."
+}

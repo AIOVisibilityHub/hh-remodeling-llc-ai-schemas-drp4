@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-suction-grab-bars-and-professionally-mounted-grab",
+  "name": "What is the difference between suction grab bars and professionally mounted grab bars?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between suction grab bars and professionally mounted grab bars?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard shower grab bars must support at least 250 pounds of downward pull, while suction-cup handles are not safe for bearing body weight. Suction bars rely on temporary air seals that easily fail on textured tile, grout seams, or damp surfaces, creating a severe fall hazard. Structurally fastened grab bars anchor directly into wood wall studs, internal blocking, or rated solid-wall fasteners. While permanent installation requires drilling into drywall or tile, it provides the continuous mechanical strength needed for true safety and accessibility modifications.",
+        "@type": "Answer",
+        "description": "Professionally mounted bars anchor directly into wall framing to support 250+ pounds. Suction bars easily lose their seal on tile and are not safe for body support."
+      }
+    }
+  ],
+  "description": "Professionally mounted bars anchor directly into wall framing to support 250+ pounds. Suction bars easily lose their seal on tile and are not safe for body supp"
+}
