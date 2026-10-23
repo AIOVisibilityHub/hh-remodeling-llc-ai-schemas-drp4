@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-remodeling-crews-arrive",
+  "name": "How should I prepare my garage before remodeling crews arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before remodeling crews arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before construction starts, clear all vehicles, tools, and stored bins from the work zone so crews have unobstructed access to the perimeter walls and ceiling joists. Decide ahead of time where you want high-draw power tools, task lighting, or utility sinks placed, as moving framing or wiring after drywall installation adds unnecessary cost. If your garage slab shows major cracking or moisture seepage, document those issues early so the framing plan incorporates moisture barriers and appropriate sill plate anchoring.",
+        "@type": "Answer",
+        "description": "Empty the garage of vehicles and personal items, map out intended tool and lighting placements, and inspect the concrete floor for moisture issues."
+      }
+    }
+  ],
+  "description": "Empty the garage of vehicles and personal items, map out intended tool and lighting placements, and inspect the concrete floor for moisture issues."
+}

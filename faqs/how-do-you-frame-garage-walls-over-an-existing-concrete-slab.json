@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-frame-garage-walls-over-an-existing-concrete-slab",
+  "name": "How do you frame garage walls over an existing concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you frame garage walls over an existing concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing walls directly over an existing concrete garage floor requires anchoring the bottom plate securely and creating a moisture barrier. A closed-cell sill gasket or foam barrier is placed between the concrete and the pressure-treated bottom plate to block moisture wicking. Contractors then anchor the plate using concrete wedge anchors, sleeve anchors, or specialized powder-actuated fasteners driven into the slab. Before building begins, checking the floor level is critical because most garage slabs are intentionally sloped toward the main vehicle door for water drainage, meaning stud heights often need to be cut custom along the run.",
+        "@type": "Answer",
+        "description": "A foam sill gasket and pressure-treated bottom plate are anchored directly into the slab with concrete fasteners, with stud heights adjusted to account for the floor slope."
+      }
+    }
+  ],
+  "description": "A foam sill gasket and pressure-treated bottom plate are anchored directly into the slab with concrete fasteners, with stud heights adjusted to account for the"
+}

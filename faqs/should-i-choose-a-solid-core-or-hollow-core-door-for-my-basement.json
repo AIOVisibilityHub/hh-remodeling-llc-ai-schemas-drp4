@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-solid-core-or-hollow-core-door-for-my-basement",
+  "name": "Should I choose a solid-core or hollow-core door for my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a solid-core or hollow-core door for my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hollow-core doors are lightweight and budget-friendly, making them practical for storage closets or utility rooms. Solid-core doors offer substantial weight, durability, and significantly better acoustic insulation, which is ideal if your basement serves as a bedroom, home office, or media room. While solid-core doors cost more upfront and require heavier framing support, they effectively muffle mechanical noises from furnaces, laundry units, and upper floors. Choosing between the two comes down to balancing budget against your need for quiet and everyday wear resistance.",
+        "@type": "Answer",
+        "description": "Solid-core doors provide superior sound reduction and durability for living areas, while hollow-core doors are a lighter, cost-effective choice for utility spaces."
+      }
+    }
+  ],
+  "description": "Solid-core doors provide superior sound reduction and durability for living areas, while hollow-core doors are a lighter, cost-effective choice for utility spac"
+}

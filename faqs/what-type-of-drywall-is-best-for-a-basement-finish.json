@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-drywall-is-best-for-a-basement-finish",
+  "name": "What type of drywall is best for a basement finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is best for a basement finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant drywall, commonly called green board or purple board, is generally recommended for basement spaces. Basements naturally hold more humidity than above-ground levels, and standard drywall can absorb that moisture, risking mold growth. Areas near basement bathrooms, laundry setups, or exterior foundation walls benefit most from moisture- and mold-resistant panels. For utility rooms or furnace enclosures, fire-rated Type X drywall may also be required by local building practices. A contractor can evaluate your basement's specific moisture levels and framing to recommend the right combination of standard, mold-resistant, or fire-rated boards.",
+        "@type": "Answer",
+        "description": "Moisture- and mold-resistant drywall is best for basements due to natural humidity, while fire-rated drywall is often needed near utility rooms."
+      }
+    }
+  ],
+  "description": "Moisture- and mold-resistant drywall is best for basements due to natural humidity, while fire-rated drywall is often needed near utility rooms."
+}

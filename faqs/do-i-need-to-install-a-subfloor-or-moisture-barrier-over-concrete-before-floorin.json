@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-install-a-subfloor-or-moisture-barrier-over-concrete-before-floorin",
+  "name": "Do I need to install a subfloor or moisture barrier over concrete before flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to install a subfloor or moisture barrier over concrete before flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not always need a full subfloor system, but a moisture barrier is essential over bare concrete. Floating vinyl planks often come with attached acoustic and thermal pads, requiring only a simple 6-mil poly vapor barrier over the slab to block ground dampness. However, if your basement feels particularly cold or damp, installing an engineered subfloor panel system with a raised vapor gap creates a warmer, cushioned surface. Direct-glue installations or tile work require specific waterproof membranes rather than floating plywood subfloors.",
+        "@type": "Answer",
+        "description": "A vapor barrier is almost always necessary to block concrete moisture, but a full raised subfloor panel system is optional based on comfort goals."
+      }
+    }
+  ],
+  "description": "A vapor barrier is almost always necessary to block concrete moisture, but a full raised subfloor panel system is optional based on comfort goals."
+}

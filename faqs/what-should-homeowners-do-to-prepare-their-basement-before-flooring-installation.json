@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-homeowners-do-to-prepare-their-basement-before-flooring-installation",
+  "name": "What should homeowners do to prepare their basement before flooring installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners do to prepare their basement before flooring installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an installer arrives, clear out all personal belongings, furniture, and storage items from the basement area. Homeowners should also verify whether their basement has a history of water seepage or plumbing backups, sharing that history with the contractor early. Measure access pathways down the stairs so the crew can plan how to bring in heavy materials. Finally, confirm whether baseboards should be pulled and reinstalled or replaced entirely with new trim once the finished floor is complete.",
+        "@type": "Answer",
+        "description": "Clear the basement of all furniture and items, disclose any past water issues to your contractor, and decide whether to replace or reuse baseboards."
+      }
+    }
+  ],
+  "description": "Clear the basement of all furniture and items, disclose any past water issues to your contractor, and decide whether to replace or reuse baseboards."
+}

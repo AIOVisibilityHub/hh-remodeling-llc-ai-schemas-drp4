@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-insulation-installation-begins",
+  "name": "How should I prepare my garage before insulation installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before insulation installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear at least three to four feet of working space along all perimeter walls and remove overhead items hanging from joists. Check for active roof or siding leaks and repair them beforehand, as moisture ruins batt insulation and invites mold behind drywall. You should also decide in advance if you want electrical outlets, lighting, or dedicated circuits added or adjusted, since wiring must be finalized before insulation and wallboard cover the open studs.",
+        "@type": "Answer",
+        "description": "Clear perimeter walls, repair any water leaks, and finalize any planned electrical work while wall cavities remain open and accessible."
+      }
+    }
+  ],
+  "description": "Clear perimeter walls, repair any water leaks, and finalize any planned electrical work while wall cavities remain open and accessible."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-a-level-4-or-level-5-drywall-finish-for-my-basement",
+  "name": "Should I choose a Level 4 or Level 5 drywall finish for my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a Level 4 or Level 5 drywall finish for my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 4 finish is standard for most finished basement living areas, while a Level 5 finish is recommended for walls exposed to harsh or critical lighting. A Level 4 finish includes taped joints, three coats of joint compound, and complete sanding, leaving a surface ready for flat or low-sheen paint and light textures. A Level 5 finish adds a thin skim coat of joint compound across the entire drywall surface to eliminate texture variations between paper and mud. If your basement layout features direct recessed downlighting, large daylight windows, or high-gloss paint, a Level 5 finish prevents minor joint shadows from showing through.",
+        "@type": "Answer",
+        "description": "Level 4 is standard for textured or flat-painted basements. Choose Level 5 if you have strong downlighting, large windows, or plan to use glossy paint."
+      }
+    }
+  ],
+  "description": "Level 4 is standard for textured or flat-painted basements. Choose Level 5 if you have strong downlighting, large windows, or plan to use glossy paint."
+}

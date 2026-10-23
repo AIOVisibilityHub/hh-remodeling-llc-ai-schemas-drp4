@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-it-necessary-to-add-framing-to-an-existing-garage",
+  "name": "When is it necessary to add framing to an existing garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to add framing to an existing garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need new garage wall framing when converting open space into a dedicated workshop, adding an enclosed storage room, or finishing an unfinished exterior shell with interior walls for insulation and drywall. It is also required when repairing structural rot or termite damage along the bottom plates of older garages. If your existing garage has bare foundation stems or pole construction without perimeter framing, adding studded walls provides the essential structural backing necessary to hang cabinetry, run concealed electrical conduit, and install finished wall panels.",
+        "@type": "Answer",
+        "description": "You need framing when creating dedicated rooms, repairing rotted bottom plates, or preparing an open garage shell for insulation, drywall, and wall cabinets."
+      }
+    }
+  ],
+  "description": "You need framing when creating dedicated rooms, repairing rotted bottom plates, or preparing an open garage shell for insulation, drywall, and wall cabinets."
+}

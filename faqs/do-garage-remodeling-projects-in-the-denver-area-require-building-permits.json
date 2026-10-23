@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-garage-remodeling-projects-in-the-denver-area-require-building-permits",
+  "name": "Do garage remodeling projects in the Denver area require building permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do garage remodeling projects in the Denver area require building permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements in Denver, Aurora, and neighboring communities depend on whether you are altering the structural framing or running new utility lines. Simple cosmetic work like hanging replacement drywall, painting, and adding surface-mounted finish trim typically does not require a building permit. However, adding structural partition walls, converting the footprint into conditioned living space, or adding electrical subpanels will require local permits and trade inspections. A general contractor oversees these requirements, ensuring rough-ins pass municipal review before closing the walls with drywall.",
+        "@type": "Answer",
+        "description": "Permits are required when adding new electrical circuits, plumbing lines, or structural partition walls, but cosmetic drywall and painting work usually do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required when adding new electrical circuits, plumbing lines, or structural partition walls, but cosmetic drywall and painting work usually do not n"
+}

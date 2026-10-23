@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-special-baseboards-or-trim-materials-for-a-garage",
+  "name": "Do I need special baseboards or trim materials for a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special baseboards or trim materials for a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard interior baseboard like unfinished MDF can absorb moisture from wet tires, snowmelt, and wet concrete floors, causing it to swell and deteriorate. When finishing a garage, contractors evaluate whether to install water-resistant PVC baseboards, treated wood trim, or standard wood raised slightly off the concrete slab with a sealed expansion gap. The right option depends on how you use the space; garages used for wet vehicle parking require resilient base trim, while heated workshop areas can handle traditional primed wood with proper sealants.",
+        "@type": "Answer",
+        "description": "Yes, garages require moisture-resistant materials like PVC, composite, or elevated sealed lumber because concrete floors expose standard interior trim to moisture."
+      }
+    }
+  ],
+  "description": "Yes, garages require moisture-resistant materials like PVC, composite, or elevated sealed lumber because concrete floors expose standard interior trim to moistu"
+}

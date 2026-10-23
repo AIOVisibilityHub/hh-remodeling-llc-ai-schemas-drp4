@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-or-consider-before-adding-a-basement-door",
+  "name": "What should I prepare or consider before adding a basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare or consider before adding a basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling installation, decide how you will use the basement space, note any ceiling height restrictions, and check for hidden obstructions. Look for overhead HVAC trunk lines, low pipes, or electrical conduits near the proposed door swing. You should also decide whether you want the door to swing inward or outward to avoid blocking stairways, light switches, or furnace access. Having your planned finished floor height determined in advance also prevents the door from dragging once new flooring is laid.",
+        "@type": "Answer",
+        "description": "Check ceiling clearances, account for your finished floor height, confirm the door swing direction, and ensure the swing does not block utilities or walkways."
+      }
+    }
+  ],
+  "description": "Check ceiling clearances, account for your finished floor height, confirm the door swing direction, and ensure the swing does not block utilities or walkways."
+}

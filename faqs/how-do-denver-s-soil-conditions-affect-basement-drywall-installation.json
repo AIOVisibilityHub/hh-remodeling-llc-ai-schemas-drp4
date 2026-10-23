@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-denver-s-soil-conditions-affect-basement-drywall-installation",
+  "name": "How do Denver's soil conditions affect basement drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Denver's soil conditions affect basement drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area, basement framing frequently requires floating walls to accommodate expansive bentonite soils, which changes how bottom drywall sheets are installed. Floating walls leave a gap between the stud framing and the concrete slab so shifting soils do not push upward into the main structure. Drywall is fastened only to the framed wall and held clear of the concrete base plate. Understanding this local building practice ensures your basement finishes stay intact without cracking or buckling as ground conditions shift seasonally.",
+        "@type": "Answer",
+        "description": "Denver's expansive soils require floating walls, so drywall must be hung without fastening into the base plate to prevent cracking as the slab moves."
+      }
+    }
+  ],
+  "description": "Denver's expansive soils require floating walls, so drywall must be hung without fastening into the base plate to prevent cracking as the slab moves."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-denver-area-basements-require-floating-walls-before-drywall-installation",
+  "name": "Why do Denver-area basements require floating walls before drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do Denver-area basements require floating walls before drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, framing floating walls is a critical construction standard across Denver and surrounding Front Range communities due to expansive bentonite soils. These soils expand when damp and contract when dry, causing basement concrete slabs to heave upward independently of the home’s foundation. Non-load-bearing basement partition walls are built with a continuous gap—typically 1.5 inches—between the bottom plate and the floor track. Drywall must be hung suspended from the wall framing and cut short above the concrete floor, leaving clearance so soil movement does not crack, buckle, or crush the drywall panels. Baseboards are fastened only to the bottom plate to cover the gap.",
+        "@type": "Answer",
+        "description": "Denver's expansive soils cause basement floor slabs to heave; floating walls and elevated drywall prevent movement from cracking the finished walls."
+      }
+    }
+  ],
+  "description": "Denver's expansive soils cause basement floor slabs to heave; floating walls and elevated drywall prevent movement from cracking the finished walls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-heat-and-cool-a-converted-garage",
+  "name": "How do you heat and cool a converted garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you heat and cool a converted garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Because garages are rarely tied into central HVAC systems, heating and cooling must be addressed to keep the space comfortable through cold winters and hot summers. Options include extending existing ductwork if your furnace has adequate capacity, or installing an independent ductless mini-split heat pump. Mini-split systems are popular because they offer dedicated zone temperature control without overworking your primary HVAC. HH Remodeling LLC coordinates with licensed trade partners during framing to plan line sets, electrical circuits, and wall chases before hanging and finishing drywall.",
+        "@type": "Answer",
+        "description": "Most conversions use a ductless mini-split heat pump or extended home ductwork. Mini-splits provide independent climate control without straining existing furnaces."
+      }
+    }
+  ],
+  "description": "Most conversions use a ductless mini-split heat pump or extended home ductwork. Mini-splits provide independent climate control without straining existing furna"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/are-large-format-tiles-suitable-for-basement-living-areas",
+  "name": "Are large-format tiles suitable for basement living areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are large-format tiles suitable for basement living areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tiles, typically 12x24 inches or larger, work exceptionally well in basements because they minimize grout lines and create an open, modern aesthetic. However, large tiles require a very flat concrete slab to avoid lippage, which is when the edge of one tile sits higher than its neighbor. Small tiles, like mosaics or standard squares, conform more easily to minor floor contours but introduce dozens of extra grout lines that require ongoing cleaning and sealing in below-grade rooms.",
+        "@type": "Answer",
+        "description": "Yes, large-format tiles look great and reduce grout lines, but they require a completely flat, leveled concrete subfloor to prevent uneven tile edges."
+      }
+    }
+  ],
+  "description": "Yes, large-format tiles look great and reduce grout lines, but they require a completely flat, leveled concrete subfloor to prevent uneven tile edges."
+}

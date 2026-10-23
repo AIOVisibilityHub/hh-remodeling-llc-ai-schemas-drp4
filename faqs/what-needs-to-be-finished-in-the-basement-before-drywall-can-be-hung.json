@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-finished-in-the-basement-before-drywall-can-be-hung",
+  "name": "What needs to be finished in the basement before drywall can be hung?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be finished in the basement before drywall can be hung?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hanging drywall, you must complete rough-in framing, electrical wiring, plumbing lines, ductwork, and insulation. In Colorado homes, framing against concrete foundation walls must account for soil movement, often requiring floating wall framing. All trade rough-ins must pass required trade inspections before panels are installed. Once the drywall is up, accessing mechanicals requires cutting into new walls, which adds labor and cost. Verifying that moisture barriers and vapor retarders are correctly placed behind the studs is also essential before installation starts.",
+        "@type": "Answer",
+        "description": "Framing, plumbing, electrical, HVAC rough-ins, insulation, and all necessary inspections must be fully completed before drywall installation begins."
+      }
+    }
+  ],
+  "description": "Framing, plumbing, electrical, HVAC rough-ins, insulation, and all necessary inspections must be fully completed before drywall installation begins."
+}

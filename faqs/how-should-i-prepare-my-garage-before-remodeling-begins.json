@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-remodeling-begins",
+  "name": "How should I prepare my garage before remodeling begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before remodeling begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contractors arrive, clear out personal belongings, vehicles, and hanging wall items so crews have direct access to studs, ceilings, and perimeters. You will also want to decide early where you want dedicated outlets, task lighting, or overhead storage, because all wiring must be inspected and completed before drywall goes up. If you plan to store heavy equipment, note those wall locations so extra wood blocking can be framed into the studs prior to drywall installation.",
+        "@type": "Answer",
+        "description": "Clear all vehicles and stored belongings away from the walls and ceiling, and plan where you want lighting, outlets, and heavy shelving mounted."
+      }
+    }
+  ],
+  "description": "Clear all vehicles and stored belongings away from the walls and ceiling, and plan where you want lighting, outlets, and heavy shelving mounted."
+}

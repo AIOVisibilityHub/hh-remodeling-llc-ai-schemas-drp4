@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-fire-rating-requirements-apply-to-attached-garages",
+  "name": "What fire-rating requirements apply to attached garages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What fire-rating requirements apply to attached garages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes require a fire-rated separation between an attached garage and the home living areas. Typically, this means installing 5/8-inch Type X fire-rated drywall on shared walls and ceilings, properly taped and sealed to block smoke and fumes. Any entry door leading into the living space must also be a solid-core or fire-rated door with a self-closing mechanism. During a remodel, our crew inspects the shared boundary, repairs damaged wall surfaces, and ensures all drywall and trim joints maintain proper fire-blocking integrity.",
+        "@type": "Answer",
+        "description": "Shared walls and ceilings require 5/8-inch Type X fire-rated drywall, sealed joints, and a solid-core or fire-rated self-closing door into the home to prevent fire and fume spread."
+      }
+    }
+  ],
+  "description": "Shared walls and ceilings require 5/8-inch Type X fire-rated drywall, sealed joints, and a solid-core or fire-rated self-closing door into the home to prevent f"
+}

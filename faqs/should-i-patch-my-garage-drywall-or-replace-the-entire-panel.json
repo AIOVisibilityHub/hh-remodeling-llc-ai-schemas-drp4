@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-patch-my-garage-drywall-or-replace-the-entire-panel",
+  "name": "Should I patch my garage drywall or replace the entire panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I patch my garage drywall or replace the entire panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing existing drywall is ideal for localized punctures, minor vehicle scrapes, and small plumbing access cuts where surrounding panels remain structurally sound. Replacement is necessary when large sections are compromised by widespread water damage, rot, or severe structural cracks across multiple stud bays. While patching preserves existing finishes and lowers labor time, hanging fresh sheetrock provides a clean slate across large surfaces. If multiple adjacent sheets have broken joints or loose fasteners, replacing the full panels is often more durable and cost-effective than patching repeated cracks.",
+        "@type": "Answer",
+        "description": "Patch localized holes and minor cracks; replace full sheets when water damage, heavy crumbling, or wide structural damage affects multiple stud bays."
+      }
+    }
+  ],
+  "description": "Patch localized holes and minor cracks; replace full sheets when water damage, heavy crumbling, or wide structural damage affects multiple stud bays."
+}

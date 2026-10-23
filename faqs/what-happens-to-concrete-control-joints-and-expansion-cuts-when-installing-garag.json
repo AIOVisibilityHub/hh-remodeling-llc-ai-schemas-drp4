@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-to-concrete-control-joints-and-expansion-cuts-when-installing-garag",
+  "name": "What happens to concrete control joints and expansion cuts when installing garage tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to concrete control joints and expansion cuts when installing garage tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile must not bridge an active expansion joint with rigid mortar because slabs shift with temperature changes and soil settlement. If a tile is mortared directly over a control or expansion joint, thermal movement will shear the bond and crack the tile line above it. Proper installation requires honoring the slab joints by placing an elastomeric sealant or a flexible expansion profile directly over the joint line in the tile layout. An experienced finish contractor will map these joints during dry layout to ensure the pattern looks balanced while allowing the floor to move naturally.",
+        "@type": "Answer",
+        "description": "Control joints must never be tiled over rigidly; they must be mirrored into the tile pattern using flexible movement joints to prevent cracking as the slab expands."
+      }
+    }
+  ],
+  "description": "Control joints must never be tiled over rigidly; they must be mirrored into the tile pattern using flexible movement joints to prevent cracking as the slab expa"
+}

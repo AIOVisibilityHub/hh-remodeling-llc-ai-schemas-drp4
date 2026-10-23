@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-repair-or-rebuild-a-garage-door-frame",
+  "name": "How long does it take to repair or rebuild a garage door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair or rebuild a garage door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard garage door frame repairs take between half a day and a full day to finish. A simple splice and trim repair can often be completed in three to four hours. If the project requires rebuilding the rough framing, sistering damaged studs, replacing exterior brickmould, and applying matching finish paint or drywall patches, work may extend across one to two days to allow adhesives, caulk, or joint compound adequate time to cure properly.",
+        "@type": "Answer",
+        "description": "Most repairs take between four and eight hours, though structural rebuilds involving drywall or exterior paint may take one to two days."
+      }
+    }
+  ],
+  "description": "Most repairs take between four and eight hours, though structural rebuilds involving drywall or exterior paint may take one to two days."
+}

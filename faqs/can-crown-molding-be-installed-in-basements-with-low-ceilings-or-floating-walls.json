@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-crown-molding-be-installed-in-basements-with-low-ceilings-or-floating-walls",
+  "name": "Can crown molding be installed in basements with low ceilings or floating walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can crown molding be installed in basements with low ceilings or floating walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floating basement walls built over expansive soils often settle or shift slightly, which can crack rigid crown molding joints along the ceiling. You can still install crown molding, but the installer must secure it properly to the ceiling framing or wall top plate to prevent shear stress. In basements with low clearance or exposed duct soffits, traditional multi-piece crown profiles might crowd the space. A practical tradeoff is using simpler, smaller profiles or cove molding, which adds architectural polish without drawing down the visual ceiling line.",
+        "@type": "Answer",
+        "description": "Yes, though low basements benefit from lower-profile or cove moldings, and floating walls require careful attachment to prevent joint cracking."
+      }
+    }
+  ],
+  "description": "Yes, though low basements benefit from lower-profile or cove moldings, and floating walls require careful attachment to prevent joint cracking."
+}

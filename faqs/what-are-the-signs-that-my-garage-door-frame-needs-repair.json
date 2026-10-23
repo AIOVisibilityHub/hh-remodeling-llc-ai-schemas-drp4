@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-signs-that-my-garage-door-frame-needs-repair",
+  "name": "What are the signs that my garage door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my garage door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators include visible wood rot around the base of the jambs, peeling exterior paint, water intrusion, or cracks caused by accidental vehicle impacts. You might also notice gaps where the weatherstripping meets the frame or find that the overhead door catches or rubs when opening and closing. Structural shifting or prolonged moisture exposure from snow buildup often damages the lower framing first. Catching these issues early prevents moisture from penetrating the underlying wall studs and subflooring, avoiding more extensive structural carpentry repairs later.",
+        "@type": "Answer",
+        "description": "Signs include rotted wood at the bottom of the jambs, visible cracks, door misalignment, light leaking through edges, or the door sticking as it operates."
+      }
+    }
+  ],
+  "description": "Signs include rotted wood at the bottom of the jambs, visible cracks, door misalignment, light leaking through edges, or the door sticking as it operates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-should-basement-drywall-not-touch-the-concrete-floor",
+  "name": "Why should basement drywall not touch the concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should basement drywall not touch the concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should never touch a concrete basement slab directly; it must be installed with a half-inch gap above the concrete floor. Concrete naturally absorbs ground moisture and can wick water into drywall paper and gypsum core, causing swelling, deterioration, and mold. Leaving this space protects your walls and provides room for the concrete slab to expand or contract. Baseboards and trim, installed later by a finish carpenter, easily conceal this gap while maintaining necessary airflow and moisture protection along the floor edge.",
+        "@type": "Answer",
+        "description": "Drywall must stay roughly half an inch off the slab to prevent concrete moisture from wicking into the gypsum, which leads to rot and mold."
+      }
+    }
+  ],
+  "description": "Drywall must stay roughly half an inch off the slab to prevent concrete moisture from wicking into the gypsum, which leads to rot and mold."
+}

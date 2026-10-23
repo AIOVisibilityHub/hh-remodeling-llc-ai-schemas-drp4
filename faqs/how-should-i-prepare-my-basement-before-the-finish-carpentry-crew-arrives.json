@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-basement-before-the-finish-carpentry-crew-arrives",
+  "name": "How should I prepare my basement before the finish carpentry crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my basement before the finish carpentry crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a finish carpenter arrives, your basement should be fully framed, insulated, drywalled, taped, and thoroughly cleaned of construction debris. All electrical, plumbing, and HVAC rough-ins must be inspected and closed behind drywall. It is also vital that the basement heating or HVAC system is running so humidity levels stabilize; trim lumber and interior doors should sit inside the space for at least 48 to 72 hours prior to installation to acclimate. Having clear floor space allows the crew to set up miter saw stations and stage long trim pieces safely.",
+        "@type": "Answer",
+        "description": "Ensure drywall is finished and dust is swept, clear large floor areas for staging tools, and maintain steady heating so trim materials can acclimate for 48 to 72 hours."
+      }
+    }
+  ],
+  "description": "Ensure drywall is finished and dust is swept, clear large floor areas for staging tools, and maintain steady heating so trim materials can acclimate for 48 to 7"
+}

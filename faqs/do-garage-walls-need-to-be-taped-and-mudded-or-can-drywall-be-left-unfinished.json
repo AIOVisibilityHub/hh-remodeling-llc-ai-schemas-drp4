@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-garage-walls-need-to-be-taped-and-mudded-or-can-drywall-be-left-unfinished",
+  "name": "Do garage walls need to be taped and mudded, or can drywall be left unfinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do garage walls need to be taped and mudded, or can drywall be left unfinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Taping and mudding garage drywall is required if the wall touches living spaces, and it is strongly recommended throughout the garage. Building codes require taped and sealed joints on fire-separation walls adjoining the home to maintain smoke and fire protection. For the rest of the garage, taping seals against drafts, pest intrusion, and dust while protecting insulation. Homeowners seeking basic utility often stop at a fire-tape or Level 2 finish. Those planning a finished workshop, storage room, or painted interior usually upgrade to a smooth Level 4 finish.",
+        "@type": "Answer",
+        "description": "Shared walls with living quarters must be taped and mudded to meet fire code. While exterior garage walls can technically remain unfinished, taping seals out drafts, pests, and dust."
+      }
+    }
+  ],
+  "description": "Shared walls with living quarters must be taped and mudded to meet fire code. While exterior garage walls can technically remain unfinished, taping seals out dr"
+}

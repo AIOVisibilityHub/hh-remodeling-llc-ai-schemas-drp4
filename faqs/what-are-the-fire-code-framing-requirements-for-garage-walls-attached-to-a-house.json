@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-fire-code-framing-requirements-for-garage-walls-attached-to-a-house",
+  "name": "What are the fire code framing requirements for garage walls attached to a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the fire code framing requirements for garage walls attached to a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver, Parker, and surrounding Front Range communities, building codes strictly regulate fire separation when a garage shares a common wall with living space. The framing for that shared wall must support a continuous fire barrier, typically requiring 5/8-inch Type X drywall installed on the garage side. Furthermore, any penetrations through the framing plates for wiring or plumbing must be sealed with approved fire-block foam or caulk. When framing around existing ductwork or attic access hatches on shared walls, proper structural headers and tight seals are required to stop carbon monoxide and smoke transfer.",
+        "@type": "Answer",
+        "description": "Shared walls require framing capable of supporting 5/8-inch Type X fire-rated drywall and complete fire-blocking sealant around all plumbing and electrical penetrations."
+      }
+    }
+  ],
+  "description": "Shared walls require framing capable of supporting 5/8-inch Type X fire-rated drywall and complete fire-blocking sealant around all plumbing and electrical pene"
+}

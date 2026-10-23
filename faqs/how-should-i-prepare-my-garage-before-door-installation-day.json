@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-door-installation-day",
+  "name": "How should I prepare my garage before door installation day?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before door installation day?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling installation, measure the rough opening width and height, the headroom above the opening, the backroom depth, and side clearance. Clear away vehicles, tools, and storage bins so technicians have at least ten feet of unobstructed space inside the garage. If you are upgrading your garage into a finished living area or workshop, decide early if you require drywall patching, insulation, or painted trim around the frame. Gathering these details beforehand allows us to account for all structural and finishing needs during your initial walkthrough.",
+        "@type": "Answer",
+        "description": "Clear vehicles and belongings to provide at least 10 feet of clear workspace, note rough opening dimensions, and decide if you want drywall or trim finishing completed simultaneously."
+      }
+    }
+  ],
+  "description": "Clear vehicles and belongings to provide at least 10 feet of clear workspace, note rough opening dimensions, and decide if you want drywall or trim finishing co"
+}

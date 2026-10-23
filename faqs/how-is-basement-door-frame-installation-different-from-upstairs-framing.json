@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-basement-door-frame-installation-different-from-upstairs-framing",
+  "name": "How is basement door frame installation different from upstairs framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is basement door frame installation different from upstairs framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement door frames require moisture-resistant materials and specialized anchoring that above-ground frames do not need. Basement concrete floors frequently hold trace moisture, requiring pressure-treated bottom plates or composite jamb bottoms to prevent wood rot. In addition, exterior basement foundation walls require concrete tapcon screws or specialized fasteners to anchor framing into masonry or poured concrete. Upper floors only require nailing through standard wood framing. If the basement floor is uneven, the door frame legs must also be scribed and trimmed so the head jamb sits completely level.",
+        "@type": "Answer",
+        "description": "Basement frames require moisture-resistant materials, specialized concrete anchors, and custom trimming to account for uneven concrete slab floors."
+      }
+    }
+  ],
+  "description": "Basement frames require moisture-resistant materials, specialized concrete anchors, and custom trimming to account for uneven concrete slab floors."
+}

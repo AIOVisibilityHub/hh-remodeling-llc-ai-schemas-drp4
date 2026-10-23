@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-porcelain-or-ceramic-tile-for-my-basement-floor",
+  "name": "Should I choose porcelain or ceramic tile for my basement floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose porcelain or ceramic tile for my basement floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is generally the superior choice for basement floors over standard ceramic tile. Porcelain is denser, less porous, and absorbs less than 0.5 percent of moisture, making it exceptionally durable against concrete moisture vapor and heavy foot traffic. Ceramic tile is easier to cut and often less expensive, but its softer body makes it slightly more prone to chipping under heavy impacts. While ceramic works well for basement bathroom walls or laundry accents, porcelain delivers the impact strength and moisture resistance required for main basement living areas.",
+        "@type": "Answer",
+        "description": "Porcelain is better for basement floors because it is denser, less porous, and more resistant to moisture and heavy use than standard ceramic tile."
+      }
+    }
+  ],
+  "description": "Porcelain is better for basement floors because it is denser, less porous, and more resistant to moisture and heavy use than standard ceramic tile."
+}

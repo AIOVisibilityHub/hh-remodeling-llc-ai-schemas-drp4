@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-rotted-garage-door-frame-be-repaired-or-does-the-entire-frame-need-replace",
+  "name": "Can a rotted garage door frame be repaired, or does the entire frame need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a rotted garage door frame be repaired, or does the entire frame need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not always need a full replacement. If moisture damage or impact damage is confined to the lower few inches of the jamb, a carpenter can perform a dutchman patch or splice in treated lumber to restore structural integrity. However, if rot has traveled upward into the header, compromised the wall framing, or caused severe warping across the opening, rebuilding the entire jamb and brickmould is usually more cost-effective and durable. Inspecting the framing behind the trim clarifies whether a partial splice will hold.",
+        "@type": "Answer",
+        "description": "Minor or localized rot can often be cut out and spliced with fresh lumber, but widespread rot or compromised header framing requires a full replacement."
+      }
+    }
+  ],
+  "description": "Minor or localized rot can often be cut out and spliced with fresh lumber, but widespread rot or compromised header framing requires a full replacement."
+}

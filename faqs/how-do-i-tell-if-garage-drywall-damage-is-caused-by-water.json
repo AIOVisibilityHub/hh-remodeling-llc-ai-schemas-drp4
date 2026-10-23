@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-tell-if-garage-drywall-damage-is-caused-by-water",
+  "name": "How do I tell if garage drywall damage is caused by water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I tell if garage drywall damage is caused by water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include visible sagging ceilings, crumbling gypsum, dark discoloration, peeling tape along seams, or a persistent musty odor. In garages, water intrusion often stems from roof leaks, unsealed exterior walls, or plumbing runs serving upper-floor living spaces. To resolve this, you must fix the water source before patching the wall. Damaged sections need to be cut out cleanly, the underlying framing inspected for dampness, and fresh drywall installed. Leaving water-damaged drywall in place weakens garage wall integrity and risks hidden framing rot behind the panels.",
+        "@type": "Answer",
+        "description": "Look for sagging, discoloration, peeling tape, or soft gypsum. The active leak source must be repaired and damp drywall removed before hanging fresh drywall."
+      }
+    }
+  ],
+  "description": "Look for sagging, discoloration, peeling tape, or soft gypsum. The active leak source must be repaired and damp drywall removed before hanging fresh drywall."
+}

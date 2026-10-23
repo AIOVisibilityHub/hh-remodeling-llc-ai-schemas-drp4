@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-drywall-contractors-arrive",
+  "name": "How should I prepare my garage before drywall contractors arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before drywall contractors arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before technicians arrive, clear a perimeter of at least four to five feet around the damaged wall or ceiling area. Move vehicles, toolboxes, ladders, and shelving units away from the workspace so crews have safe, unobstructed access to the framing and drywall. It also helps to inspect surrounding areas for stored items that might collect sanding dust, and cover stationary equipment with drop cloths. If the repair involves plumbing access or hidden wiring, identify where your main shutoffs are located in case wall cavities need inspection during the repair.",
+        "@type": "Answer",
+        "description": "Clear vehicles and storage at least 4 to 5 feet from the repair area, cover stationary tools to protect from dust, and ensure clear path access."
+      }
+    }
+  ],
+  "description": "Clear vehicles and storage at least 4 to 5 feet from the repair area, cover stationary tools to protect from dust, and ensure clear path access."
+}

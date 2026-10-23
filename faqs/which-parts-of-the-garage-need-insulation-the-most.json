@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/which-parts-of-the-garage-need-insulation-the-most",
+  "name": "Which parts of the garage need insulation the most?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which parts of the garage need insulation the most?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage walls, ceilings below living quarters, and garage doors should be prioritized. If your primary goal is moderating temperatures, insulating the exterior-facing framed walls and the garage overhead door prevents the largest thermal transfer. However, if a bedroom sits above the garage, insulating and air-sealing the garage ceiling is the most critical first step to eliminate cold floors in the living quarters above. Assessing how your garage connects to the main home dictates where to focus your budget.",
+        "@type": "Answer",
+        "description": "Prioritize the shared ceiling if a room sits above the garage, followed by exterior-facing walls and the overhead door to stop heat transfer."
+      }
+    }
+  ],
+  "description": "Prioritize the shared ceiling if a room sits above the garage, followed by exterior-facing walls and the overhead door to stop heat transfer."
+}

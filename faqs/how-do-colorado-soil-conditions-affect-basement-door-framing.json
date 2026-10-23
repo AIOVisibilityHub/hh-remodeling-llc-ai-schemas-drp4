@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-colorado-soil-conditions-affect-basement-door-framing",
+  "name": "How do Colorado soil conditions affect basement door framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Colorado soil conditions affect basement door framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Denver, Centennial, and nearby Front Range communities, expansive clay soils can cause basement concrete slabs to shift or heave over time. When installing basement doors and partition walls, carpenters often leave proper expansion gaps or utilize floating wall framing techniques. This separation keeps upward slab movement from putting pressure on door headers, which would cause doors to bind, stick, or fail to latch properly during seasonal moisture shifts.",
+        "@type": "Answer",
+        "description": "Front Range clay soils can shift basement slabs, requiring proper framing allowances and clearances so doors do not bind or stick during seasonal ground movement."
+      }
+    }
+  ],
+  "description": "Front Range clay soils can shift basement slabs, requiring proper framing allowances and clearances so doors do not bind or stick during seasonal ground movemen"
+}

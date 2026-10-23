@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-tile-be-laid-directly-over-an-existing-basement-concrete-slab",
+  "name": "Can tile be laid directly over an existing basement concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tile be laid directly over an existing basement concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should never install tile directly over cracked, uneven, or damp concrete without proper prep work. Concrete slabs must be inspected for structural movement, moisture seepage, and levelness. Small hairline cracks need uncoupling membranes or crack-isolation systems to stop shifts in the slab from cracking your new tile. Major dips require a self-leveling underlayment to prevent hollow spots beneath large-format tiles. Addressing slab prep before mortar goes down ensures your basement floor remains flat, stable, and crack-free over the long haul.",
+        "@type": "Answer",
+        "description": "Tile can be laid over concrete, but the slab must first be cleaned, leveled, and treated with crack-isolation or uncoupling membranes to prevent cracks."
+      }
+    }
+  ],
+  "description": "Tile can be laid over concrete, but the slab must first be cleaned, leveled, and treated with crack-isolation or uncoupling membranes to prevent cracks."
+}

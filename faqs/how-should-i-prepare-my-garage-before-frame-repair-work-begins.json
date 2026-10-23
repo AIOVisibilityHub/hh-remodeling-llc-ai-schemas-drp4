@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-frame-repair-work-begins",
+  "name": "How should I prepare my garage before frame repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before frame repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor arrives, clear a six-to-eight-foot perimeter around the garage door opening, both inside and outside the garage. Move vehicles out to the driveway or street to allow ladder and saw access. Clear away trash cans, storage bins, bicycles, and tools stored near the door tracks. If you have an automatic door opener, make sure the manual release cord is accessible so the crew can safely operate or secure the door manually during the framing repair.",
+        "@type": "Answer",
+        "description": "Park vehicles outside and clear away items within six to eight feet of the door opening inside and out so carpenters have safe workspace and saw setup room."
+      }
+    }
+  ],
+  "description": "Park vehicles outside and clear away items within six to eight feet of the door opening inside and out so carpenters have safe workspace and saw setup room."
+}

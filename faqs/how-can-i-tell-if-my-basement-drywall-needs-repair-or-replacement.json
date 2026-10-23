@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-i-tell-if-my-basement-drywall-needs-repair-or-replacement",
+  "name": "How can I tell if my basement drywall needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my basement drywall needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tell basement drywall needs replacement if it shows soft or crumbling spots, persistent dark staining, visible mold, or peeling paper tape that feels damp to the touch. Another clear indicator is a lingering musty odor inside the room, which often points to hidden moisture degrading the gypsum core behind baseboards or inside exterior-facing wall assemblies. Tapping the surface with your knuckles can also reveal issues: firm drywall sounds solid, whereas decayed or moisture-softened drywall produces a dull, hollow thud and yields under moderate pressure.",
+        "@type": "Answer",
+        "description": "Signs include soft or crumbling board, visible discoloration, peeling tape, musty odors, and sagging surfaces that yield when pressed."
+      }
+    }
+  ],
+  "description": "Signs include soft or crumbling board, visible discoloration, peeling tape, musty odors, and sagging surfaces that yield when pressed."
+}

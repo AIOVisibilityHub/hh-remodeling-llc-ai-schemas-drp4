@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-permits-to-remodel-my-garage-in-the-denver-metro-area",
+  "name": "Do I need permits to remodel my garage in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to remodel my garage in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a living space, home office, or heated workshop typically requires building permits from your local municipality. Purely cosmetic updates—such as repairing damaged drywall, applying interior paint, or installing finish molding and organization cabinetry—usually do not require permits. However, adding structural framing, modifying egress doors, running plumbing lines, or expanding electrical capacity triggers local building code inspections. Abraham Becerra coordinates these trade requirements and handles the structural framing to ensure the finished layout conforms to Denver area building standards.",
+        "@type": "Answer",
+        "description": "Cosmetic drywall and paint updates usually do not need permits, but adding partition framing, plumbing, or new electrical wiring requires municipal building permits."
+      }
+    }
+  ],
+  "description": "Cosmetic drywall and paint updates usually do not need permits, but adding partition framing, plumbing, or new electrical wiring requires municipal building per"
+}

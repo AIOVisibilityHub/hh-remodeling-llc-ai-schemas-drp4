@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-type-of-tile-to-install-on-a-garage-floor",
+  "name": "What is the best type of tile to install on a garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of tile to install on a garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain tile is the most durable ceramic choice for garage floors because it handles heavy vehicle weights, chemical spills, and freeze-thaw cycles without cracking. Standard ceramic tile is softer and absorbs more moisture, making it prone to breaking under tires or during cold Colorado winters. A practical tradeoff is that porcelain is harder to cut and requires a modified thin-set mortar specifically rated to bond dense tiles to concrete. For heavy workshop or parking use, full-body porcelain with a textured, slip-resistant finish provides the best combination of strength and safety.",
+        "@type": "Answer",
+        "description": "Porcelain tile is best for garage floors because its density handles vehicle weight, road salt, and temperature swings far better than standard ceramic tile."
+      }
+    }
+  ],
+  "description": "Porcelain tile is best for garage floors because its density handles vehicle weight, road salt, and temperature swings far better than standard ceramic tile."
+}

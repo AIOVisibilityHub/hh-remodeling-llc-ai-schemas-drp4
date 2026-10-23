@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-basement-utility-room-doors-have-special-requirements",
+  "name": "Do basement utility room doors have special requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do basement utility room doors have special requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement utility rooms house equipment like furnaces, water heaters, and electrical panels that have specific functional requirements. If your heating equipment requires combustion air from surrounding rooms, a louvered door may be necessary to ensure adequate ventilation. Additionally, local safety codes require maintaining minimum clearance distances in front of breaker panels and water heaters. Solid utility doors can also be weatherstripped to prevent furnace noises and mechanical odors from drifting into finished entertainment or bedroom areas.",
+        "@type": "Answer",
+        "description": "Utility doors often require louvered panels for combustion airflow, proper clearances around equipment, and sound-dampening seals to reduce equipment noise."
+      }
+    }
+  ],
+  "description": "Utility doors often require louvered panels for combustion airflow, proper clearances around equipment, and sound-dampening seals to reduce equipment noise."
+}

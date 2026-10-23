@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-garage-trim-needs-replacement-rather-than-repair",
+  "name": "How do I know when my garage trim needs replacement rather than repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my garage trim needs replacement rather than repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should replace garage trim when you notice soft spots, wood rot, cracking, peeling paint that will not hold, or daylight showing around your garage door frame. Damaged or missing exterior trim allows water infiltration, winter drafts, and pests to enter your garage wall framing, risking structural rot. If the trim feels spongy to the touch or crumbles near the driveway ground level, caulking or repainting is no longer enough. Installing new, properly sealed trim restores curb appeal and protects structural studs from hidden moisture damage.",
+        "@type": "Answer",
+        "description": "Replace garage trim if you see wood rot, deep cracking, crumbling near the ground, or daylight around the door. These signs mean water and drafts can penetrate the wall framing."
+      }
+    }
+  ],
+  "description": "Replace garage trim if you see wood rot, deep cracking, crumbling near the ground, or daylight around the door. These signs mean water and drafts can penetrate"
+}

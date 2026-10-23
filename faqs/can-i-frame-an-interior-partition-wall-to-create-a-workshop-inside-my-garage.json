@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-frame-an-interior-partition-wall-to-create-a-workshop-inside-my-garage",
+  "name": "Can I frame an interior partition wall to create a workshop inside my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I frame an interior partition wall to create a workshop inside my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can build an interior partition wall to separate your garage into dedicated zones, such as a heated woodshop and parking bay. When doing so, the wall must be framed without compromising necessary vehicle clearances or blocking access to required service panels and water heaters. Depending on your home layout, you may need a fire-rated door if separating living space, or standard hollow-core doors for utility rooms. If the concrete slab slopes, each stud along the partition wall must be individually measured so the top plate remains plumb and level across the room.",
+        "@type": "Answer",
+        "description": "Yes, interior partition walls can easily separate workshop space from vehicle parking, provided vehicle clearances and panel access points are maintained."
+      }
+    }
+  ],
+  "description": "Yes, interior partition walls can easily separate workshop space from vehicle parking, provided vehicle clearances and panel access points are maintained."
+}

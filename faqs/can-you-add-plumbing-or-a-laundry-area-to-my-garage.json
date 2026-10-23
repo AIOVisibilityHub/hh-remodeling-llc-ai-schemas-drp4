@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-add-plumbing-or-a-laundry-area-to-my-garage",
+  "name": "Can you add plumbing or a laundry area to my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you add plumbing or a laundry area to my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an unfinished garage can be redesigned into a clean laundry room or workshop with utility sinks. Because adding water and drain lines requires specialized plumbing, Abraham Becerra coordinates licensed plumbing trades to complete the below-slab or through-wall piping. Concurrently, our crew builds out the custom partition framing, hangs moisture-resistant drywall, and completes the finish carpentry and tile work. Make sure to assess whether your garage remains heated during freezing winter stretches so exterior water lines are properly protected against freezing.",
+        "@type": "Answer",
+        "description": "Yes. We handle framing, moisture-resistant drywall, and finishes while coordinating licensed trade partners to run supply and drain plumbing for sinks or laundry."
+      }
+    }
+  ],
+  "description": "Yes. We handle framing, moisture-resistant drywall, and finishes while coordinating licensed trade partners to run supply and drain plumbing for sinks or laundr"
+}

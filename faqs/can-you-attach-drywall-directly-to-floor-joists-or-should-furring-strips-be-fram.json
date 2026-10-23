@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-attach-drywall-directly-to-floor-joists-or-should-furring-strips-be-fram",
+  "name": "Can you attach drywall directly to floor joists, or should furring strips be framed first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you attach drywall directly to floor joists, or should furring strips be framed first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Furring strips, typically 1x3 or 2x2 wood strips run perpendicular to joists, level out uneven subfloor framing and provide a continuous surface for drywall screws. However, you should not rely on furring strips alone if you have mechanical lines hanging more than an inch below joist bottoms. In those cases, building dropped 2x4 framing or individual bulkheads is required. While direct drywall attachment saves vertical space, using furring strips or resilient channel adds space for wiring passes and helps reduce impact sound transmission from the floor above.",
+        "@type": "Answer",
+        "description": "Drywall can go directly onto level joists, but installing furring strips levels out uneven wood, creates pathways for wiring, and helps reduce sound transfer between floors."
+      }
+    }
+  ],
+  "description": "Drywall can go directly onto level joists, but installing furring strips levels out uneven wood, creates pathways for wiring, and helps reduce sound transfer be"
+}

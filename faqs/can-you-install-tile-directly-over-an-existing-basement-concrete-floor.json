@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-install-tile-directly-over-an-existing-basement-concrete-floor",
+  "name": "Can you install tile directly over an existing basement concrete floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install tile directly over an existing basement concrete floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can install tile over an existing concrete slab, provided the surface is clean, sound, and free of structural defects. The concrete must be stripped of old paint, sealers, and adhesives so the thin-set mortar bonds correctly. If the slab has hairline shrinkage cracks, an uncoupling crack-isolation membrane should be installed first to prevent slab movement from breaking the tiles above. Tile offers an exceptionally durable, waterproof surface that will not degrade if minor basement moisture occurs.",
+        "@type": "Answer",
+        "description": "Yes, provided the concrete is clean, level, and sound. An uncoupling membrane is recommended to prevent foundation cracks from transferring to tile."
+      }
+    }
+  ],
+  "description": "Yes, provided the concrete is clean, level, and sound. An uncoupling membrane is recommended to prevent foundation cracks from transferring to tile."
+}

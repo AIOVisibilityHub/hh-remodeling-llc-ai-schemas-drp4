@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-garage-drywall-repair-take-to-complete",
+  "name": "How long does a typical garage drywall repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage drywall repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most minor garage drywall repairs take one day, while extensive water damage or full sheet replacements generally take two to three days. The primary factor in the timeline is the drying and curing time required between coats of joint compound, followed by final sanding, priming, and painting. If your garage walls have deep vehicle impacts or require framing repairs behind the damaged board, additional carpentry work must be completed before new drywall is hung and taped. Small patch repairs can often be sealed and textured in a single visit, but larger projects require multiple rounds of mudding to achieve a flat, durable surface.",
+        "@type": "Answer",
+        "description": "Minor garage drywall repairs usually take one day, while extensive repairs take two to three days due to drying times between compound coats."
+      }
+    }
+  ],
+  "description": "Minor garage drywall repairs usually take one day, while extensive repairs take two to three days due to drying times between compound coats."
+}

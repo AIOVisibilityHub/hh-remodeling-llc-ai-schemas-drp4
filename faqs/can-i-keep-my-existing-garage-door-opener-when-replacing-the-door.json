@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-keep-my-existing-garage-door-opener-when-replacing-the-door",
+  "name": "Can I keep my existing garage door opener when replacing the door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing garage door opener when replacing the door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can frequently keep your current garage door opener if it has adequate horsepower, compatible safety sensors, and matches the weight of your new door. However, if you are upgrading from a light, non-insulated door to a heavy, insulated steel or solid wood model, your existing motor may lack the necessary lifting power. Older units may also lack modern safety features or smart technology. During our on-site assessment, we verify whether your current opener meets the mechanical requirements or needs replacement alongside the door.",
+        "@type": "Answer",
+        "description": "You can keep it if its horsepower and safety features match the weight of the new door. Heavier, insulated doors often require upgrading to a more powerful, modern opener."
+      }
+    }
+  ],
+  "description": "You can keep it if its horsepower and safety features match the weight of the new door. Heavier, insulated doors often require upgrading to a more powerful, mod"
+}

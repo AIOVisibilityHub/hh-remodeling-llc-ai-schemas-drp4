@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-do-denver-area-basements-require-special-prep-before-tiling",
+  "name": "Why do Denver-area basements require special prep before tiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do Denver-area basements require special prep before tiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area, basement concrete slabs frequently experience shifting due to local expansive bentonite soils and seasonal moisture changes. Homes in areas like Aurora, Centennial, and Parker often see subtle foundation movement that can telegraph directly through rigid flooring. When tiling a basement locally, using an uncoupling membrane and flexible, polymer-modified thin-set mortar is crucial. This separation layer absorbs minor concrete slab stress and seasonal expansion, preventing your floor tiles and grout lines from cracking under regional soil pressure.",
+        "@type": "Answer",
+        "description": "Denver-area basements sit on expansive soils that cause slab movement, requiring uncoupling membranes and flexible thin-set to keep tiles from cracking."
+      }
+    }
+  ],
+  "description": "Denver-area basements sit on expansive soils that cause slab movement, requiring uncoupling membranes and flexible thin-set to keep tiles from cracking."
+}

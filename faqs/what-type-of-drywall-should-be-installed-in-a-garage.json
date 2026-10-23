@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-drywall-should-be-installed-in-a-garage",
+  "name": "What type of drywall should be installed in a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall should be installed in a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall type depends on code fire-separation requirements and how you plan to use the space. Shared walls between an attached garage and the home typically require 5/8-inch Type X fire-rated drywall to provide a mandated fire barrier. For exterior walls and ceilings, 1/2-inch drywall is common, though 5/8-inch is often preferred on garage ceilings to avoid sagging between wider truss spacing. In moisture-prone garage areas, mold- and moisture-resistant panels may be considered. A general contractor inspects your garage framing layout to specify the correct board thickness before hanging begins.",
+        "@type": "Answer",
+        "description": "Attached garage walls sharing space with living quarters generally require 5/8-inch Type X fire-rated drywall, while 1/2-inch or 5/8-inch boards are standard for other walls and ceilings."
+      }
+    }
+  ],
+  "description": "Attached garage walls sharing space with living quarters generally require 5/8-inch Type X fire-rated drywall, while 1/2-inch or 5/8-inch boards are standard fo"
+}

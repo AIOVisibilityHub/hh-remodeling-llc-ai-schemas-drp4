@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-a-pre-hung-door-and-a-slab-door-for-my-basement",
+  "name": "How do I choose between a pre-hung door and a slab door for my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a pre-hung door and a slab door for my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-hung door comes mounted inside its own three-sided frame with hinges already attached, making it the preferred option if you are framing a new doorway or replacing a damaged, out-of-square existing frame. A slab door is simply the door panel itself, without hinges, hardware, or frame. Installing a slab door saves money on materials, but it requires an existing frame that is completely square and in sound condition, along with precise mortising for hinges and latch sets.",
+        "@type": "Answer",
+        "description": "Choose pre-hung doors for new walls or damaged frames. Choose a slab door if your existing jamb is level, plumb, and structurally sound."
+      }
+    }
+  ],
+  "description": "Choose pre-hung doors for new walls or damaged frames. Choose a slab door if your existing jamb is level, plumb, and structurally sound."
+}

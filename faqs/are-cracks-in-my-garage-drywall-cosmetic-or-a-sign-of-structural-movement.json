@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/are-cracks-in-my-garage-drywall-cosmetic-or-a-sign-of-structural-movement",
+  "name": "Are cracks in my garage drywall cosmetic or a sign of structural movement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are cracks in my garage drywall cosmetic or a sign of structural movement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small hairline cracks can simply be the result of seasonal temperature swings and drywall mud shrinkage, which is common in unheated spaces. However, wide stair-step cracks, diagonal splits radiating from door corners, or recurring gaps that reopen after taping often indicate foundation settlement, truss movement, or shifting framing. If cracks are accompanied by sticking doors or uneven ceiling lines, the underlying framing must be evaluated before cosmetic repairs. Patching drywall over an actively shifting structural issue will only result in the crack reappearing shortly after work is finished.",
+        "@type": "Answer",
+        "description": "Hairline cracks are usually cosmetic shrinkage, but wide diagonal cracks or sticking doors indicate structural shifting that must be addressed before patching."
+      }
+    }
+  ],
+  "description": "Hairline cracks are usually cosmetic shrinkage, but wide diagonal cracks or sticking doors indicate structural shifting that must be addressed before patching."
+}

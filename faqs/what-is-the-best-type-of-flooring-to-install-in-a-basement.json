@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-type-of-flooring-to-install-in-a-basement",
+  "name": "What is the best type of flooring to install in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring to install in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury vinyl plank (LVP) and tile are typically the best options for basement floors due to moisture resistance. Basements sit on concrete slabs that naturally transfer moisture and cool temperatures. LVP is completely waterproof, durable, and warmer underfoot than hard stone. Ceramic or porcelain tile handles moisture just as well and offers long-lasting durability, though it feels colder unless paired with area rugs or radiant heat. Solid hardwood should generally be avoided below grade because humidity shifts cause natural wood planks to cup, buckle, and warp.",
+        "@type": "Answer",
+        "description": "Luxury vinyl plank and ceramic or porcelain tile are the best choices because both resist moisture from concrete slabs without warping."
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank and ceramic or porcelain tile are the best choices because both resist moisture from concrete slabs without warping."
+}

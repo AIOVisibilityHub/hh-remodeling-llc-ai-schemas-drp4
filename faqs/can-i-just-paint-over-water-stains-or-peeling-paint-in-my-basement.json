@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-just-paint-over-water-stains-or-peeling-paint-in-my-basement",
+  "name": "Can I just paint over water stains or peeling paint in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I just paint over water stains or peeling paint in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should not paint over peeling paint or water stains without first fixing the underlying issue. Peeling paint usually signals trapped moisture, poor prior surface prep, or minor water intrusion behind the wall. Painting over active water damage causes the new paint layer to bubble and flake off within weeks. The source of the leak or humidity must be resolved, the drywall or concrete fully dried, damaged drywall replaced or scraped, and a stain-blocking, moisture-resistant primer applied before finish painting.",
+        "@type": "Answer",
+        "description": "No. Painting over water stains or peeling paint traps moisture and will fail quickly. You must fix the moisture source, let the surface dry, scrape loose paint, and prime with a stain blocker."
+      }
+    }
+  ],
+  "description": "No. Painting over water stains or peeling paint traps moisture and will fail quickly. You must fix the moisture source, let the surface dry, scrape loose paint,"
+}

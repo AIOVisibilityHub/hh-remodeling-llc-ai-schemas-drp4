@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-type-of-lumber-is-used-for-garage-wall-framing",
+  "name": "What type of lumber is used for garage wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of lumber is used for garage wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard framing for garage walls uses pressure-treated lumber for the bottom sole plate resting against the concrete slab, paired with standard kiln-dried 2x4 or 2x6 framing lumber for the studs and top plates. The pressure-treated bottom plate is essential because concrete absorbs and wicks ground moisture, which causes untreated wood to rot quickly. For stud spacing, 16 inches on center is typical to provide strong support for drywall, heavy shelving, or pegboards. If you plan to insulate the garage for conditioned workspace, choosing 2x6 studs allows for higher R-value batt insulation compared to standard 2x4s.",
+        "@type": "Answer",
+        "description": "Garage walls use pressure-treated lumber for the concrete-contact bottom plate and standard 2x4 or 2x6 studs spaced 16 inches on center for the structural wall frame."
+      }
+    }
+  ],
+  "description": "Garage walls use pressure-treated lumber for the concrete-contact bottom plate and standard 2x4 or 2x6 studs spaced 16 inches on center for the structural wall"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-my-garage-floor-needs-to-be-recoated-or-repaired",
+  "name": "How do I know when my garage floor needs to be recoated or repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when my garage floor needs to be recoated or repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need to resurface or recoat your garage floor when you see widespread flaking, severe oil staining, dusting concrete, or peeling from hot car tires. Fine hairline shrinkage cracks are normal, but deep fissures, heaving slab sections, or crumbling surface concrete show that moisture and wear are breaking down the slab. Recoating before structural degradation sets in preserves the concrete beneath. When planning a garage renovation that includes drywall, paint, or custom framing, updating the floor at the same time ensures the entire space is protected and clean from the slab upward.",
+        "@type": "Answer",
+        "description": "Signs include peeling paint, heavy oil stains, powdery concrete dusting, and cracking or spalling that allows water to penetrate the slab."
+      }
+    }
+  ],
+  "description": "Signs include peeling paint, heavy oil stains, powdery concrete dusting, and cracking or spalling that allows water to penetrate the slab."
+}

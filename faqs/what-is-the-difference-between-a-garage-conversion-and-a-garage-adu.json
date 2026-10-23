@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-garage-conversion-and-a-garage-adu",
+  "name": "What is the difference between a garage conversion and a garage ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a garage conversion and a garage ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard garage conversion encloses the space to create extra bedrooms, family rooms, or home offices that remain tied to the primary home. An Accessory Dwelling Unit (ADU) is a fully independent living unit that requires its own private entrance, complete kitchen facilities, and a dedicated three-piece bathroom. ADUs carry stricter municipal zoning rules, setback limitations, and separate utility requirements. If you are deciding between the two, consider your budget and future use, as an ADU requires significant plumbing trenching, dedicated sub-panels, and expanded plan reviews.",
+        "@type": "Answer",
+        "description": "A basic conversion creates extra living space connected to the home, while an ADU requires an independent kitchen, full bathroom, private entrance, and specific zoning."
+      }
+    }
+  ],
+  "description": "A basic conversion creates extra living space connected to the home, while an ADU requires an independent kitchen, full bathroom, private entrance, and specific"
+}

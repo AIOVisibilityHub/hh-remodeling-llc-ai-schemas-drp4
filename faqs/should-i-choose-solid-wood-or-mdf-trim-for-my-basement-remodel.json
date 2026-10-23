@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-solid-wood-or-mdf-trim-for-my-basement-remodel",
+  "name": "Should I choose solid wood or MDF trim for my basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose solid wood or MDF trim for my basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "MDF (medium-density fiberboard) is an economical, stable choice for painted baseboards and casings because it resists expanding and contracting across seasonal shifts. However, standard MDF swells irreversibly if exposed to pooling water, making it risky in basements prone to plumbing leaks or damp subfloors. Solid wood, such as finger-jointed pine or poplar, provides superior moisture resilience, stronger impact resistance along high-traffic baseboards, and holds crisper profiles. If you plan to stain your trim or want greater durability near walkout doors or basement wet bars, real wood is the better long-term option.",
+        "@type": "Answer",
+        "description": "MDF is cost-effective and paint-ready, but solid wood offers better moisture resistance, durability, and crisp profiling in basements where floor-level dampness could be a concern."
+      }
+    }
+  ],
+  "description": "MDF is cost-effective and paint-ready, but solid wood offers better moisture resistance, durability, and crisp profiling in basements where floor-level dampness"
+}

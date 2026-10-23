@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-frame-interior-walls-in-my-garage-in-the-denver-a",
+  "name": "Do I need a building permit to frame interior walls in my garage in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to frame interior walls in my garage in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, building new interior partition walls, enclosing an open carport, or finishing an attached garage requires a local building permit. Municipalities across the Denver metro area, including Aurora, Centennial, and Parker, review framing plans to verify structural support, proper fire separation, and compliance with residential building codes. If you plan to convert garage space into a workshop or living area, permits ensure that fire-rated drywall assemblies and electrical rough-ins meet safety standards. Consulting your local building department or working with a licensed contractor helps confirm the exact submittal requirements before work starts.",
+        "@type": "Answer",
+        "description": "Yes, adding interior walls or finishing a garage typically requires a local building permit across Denver-area jurisdictions to verify fire codes and structural integrity."
+      }
+    }
+  ],
+  "description": "Yes, adding interior walls or finishing a garage typically requires a local building permit across Denver-area jurisdictions to verify fire codes and structural"
+}

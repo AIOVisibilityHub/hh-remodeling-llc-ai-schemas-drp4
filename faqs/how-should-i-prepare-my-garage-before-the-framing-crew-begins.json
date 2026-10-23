@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-garage-before-the-framing-crew-begins",
+  "name": "How should I prepare my garage before the framing crew begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage before the framing crew begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your framing crew arrives, you should clear all vehicles, tools, and stored items away from the perimeter walls and concrete slab where framing will occur. Sweep the perimeter floor thoroughly to allow clean installation of the sill gasket and proper adhesion or anchoring into the concrete. You will also want to mark desired locations for electrical outlets, dedicated circuits for shop equipment, interior access doors, and heavy wall-mounted cabinets so the carpenter can place solid wood blocking and studs exactly where needed.",
+        "@type": "Answer",
+        "description": "Clear all vehicles and belongings along the work areas, sweep the floor clean, and mark where you want doors, outlets, and heavy cabinet blocking located."
+      }
+    }
+  ],
+  "description": "Clear all vehicles and belongings along the work areas, sweep the floor clean, and mark where you want doors, outlets, and heavy cabinet blocking located."
+}

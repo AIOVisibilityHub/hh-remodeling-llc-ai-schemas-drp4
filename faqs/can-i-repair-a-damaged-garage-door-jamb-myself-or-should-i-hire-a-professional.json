@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-repair-a-damaged-garage-door-jamb-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a damaged garage door jamb myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a damaged garage door jamb myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing exterior garage trim requires careful attention to moisture barriers and mechanical clearance. The framing must be installed completely plumb and square, or the door will bind in its tracks and fail to seal properly against the ground. Additionally, exterior wood should never make direct contact with raw concrete; it requires an intentional gap, end-grain sealant, and proper caulking to prevent future water wicking. Handling the work yourself also risks interfering with safety sensors or high-tension track mountings anchored to the jambs.",
+        "@type": "Answer",
+        "description": "A professional ensures the frame remains plumb and weather-tight without disrupting door operation, track alignment, or creating moisture traps against concrete."
+      }
+    }
+  ],
+  "description": "A professional ensures the frame remains plumb and weather-tight without disrupting door operation, track alignment, or creating moisture traps against concrete"
+}

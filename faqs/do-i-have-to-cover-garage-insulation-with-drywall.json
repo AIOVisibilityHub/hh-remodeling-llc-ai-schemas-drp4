@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-have-to-cover-garage-insulation-with-drywall",
+  "name": "Do I have to cover garage insulation with drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to cover garage insulation with drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most building codes require an approved thermal barrier, such as half-inch drywall, over exposed foam or faced insulation to meet residential fire separation standards. Even when not strictly mandated for unfinished storage, covering insulation with drywall protects the material from physical tears, moisture, pest intrusion, and dust accumulation. A practical tradeoff to consider is that pairing insulation with taped drywall and a coat of paint creates an attractive, durable, easy-to-clean wall surface suitable for mounting shelves and tool racks.",
+        "@type": "Answer",
+        "description": "Yes, covering insulation with drywall is often required by fire codes and protects the batting from physical damage, pests, and moisture."
+      }
+    }
+  ],
+  "description": "Yes, covering insulation with drywall is often required by fire codes and protects the batting from physical damage, pests, and moisture."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-drywall-dust-contained-during-basement-sanding",
+  "name": "How is drywall dust contained during basement sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is drywall dust contained during basement sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall compound dust is extremely fine, so professional crews use containment measures to prevent it from circulating through your home. Before sanding begins, doorways and stairwells leading to upper living spaces are sealed with heavy plastic sheeting. HVAC supply registers and cold-air returns in the basement are covered or shut down to keep dust out of ductwork and furnace filters. Contractors use dust-control joint compounds, specialized sanding vacuums, or wet-sponging techniques when feasible. After sanding finishes, the workspace is swept and vacuumed with HEPA filtration before priming and painting commence.",
+        "@type": "Answer",
+        "description": "Crews seal stairwells with plastic, cover HVAC vents to protect ductwork, and use vacuum-assisted sanders or dust-control compounds to limit airborne particles."
+      }
+    }
+  ],
+  "description": "Crews seal stairwells with plastic, cover HVAC vents to protect ductwork, and use vacuum-assisted sanders or dust-control compounds to limit airborne particles."
+}
