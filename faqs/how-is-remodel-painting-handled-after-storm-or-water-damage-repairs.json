@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-remodel-painting-handled-after-storm-or-water-damage-repairs",
+  "name": "How is remodel painting handled after storm or water damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is remodel painting handled after storm or water damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A storm-damaged room cannot be painted until the source of water intrusion is repaired and the interior framing and drywall are completely dry. Contractors must cut away compromised drywall, treat any moisture issues, and hang fresh sheetrock. Once the new drywall is taped and finished, painters apply an oil- or shellac-based stain-blocking primer over any water stains before applying topcoats. Painting directly over damp drywall or untreated water rings causes paint bubbling, peeling, and bleed-through.",
+        "@type": "Answer",
+        "description": "Drywall must be fully dried, repaired, and treated with a stain-blocking primer before painting to stop water stains from bleeding through the topcoat."
+      }
+    }
+  ],
+  "description": "Drywall must be fully dried, repaired, and treated with a stain-blocking primer before painting to stop water stains from bleeding through the topcoat."
+}

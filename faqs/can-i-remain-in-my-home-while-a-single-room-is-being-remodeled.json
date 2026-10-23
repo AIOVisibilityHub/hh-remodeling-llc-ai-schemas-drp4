@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remain-in-my-home-while-a-single-room-is-being-remodeled",
+  "name": "Can I remain in my home while a single room is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remain in my home while a single room is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, homeowners can usually stay in their house during a single room renovation, provided appropriate dust containment and safety measures are established. Contractors seal doorways with plastic sheeting, protect adjacent flooring with drop cloths or temporary coverings, and vent exhaust where practical. However, trade-offs exist depending on the room being remodeled. Renovating a primary bathroom or kitchen causes temporary disruptions to daily routines, requiring a backup plan for bathing or meal prep. Living on-site also means managing intermittent construction noise and material deliveries during active working hours.",
+        "@type": "Answer",
+        "description": "Yes. Contractors use plastic barriers and floor protection to isolate the workspace, though you will experience daytime noise and temporary loss of that room's use."
+      }
+    }
+  ],
+  "description": "Yes. Contractors use plastic barriers and floor protection to isolate the workspace, though you will experience daytime noise and temporary loss of that room's"
+}

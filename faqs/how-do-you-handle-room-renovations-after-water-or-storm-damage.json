@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-handle-room-renovations-after-water-or-storm-damage",
+  "name": "How do you handle room renovations after water or storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle room renovations after water or storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage requires full drying, moisture testing, and damaged material removal before any remodeling work begins. Simply painting over stained drywall or tiling over damp subfloors traps moisture, causing hidden framing rot and future surface failure. Storm damage or plumbing leaks often require cutting out damaged drywall, assessing structural wood framing, and installing fresh insulation before hanging and finishing new drywall. HH Remodeling provides restoration support and repairs the structural carpentry, drywall, and finish trim to return the space to pre-loss condition.",
+        "@type": "Answer",
+        "description": "All moisture must be dried and damaged drywall or subflooring removed before new carpentry, fresh drywall, paint, or flooring can be installed safely."
+      }
+    }
+  ],
+  "description": "All moisture must be dried and damaged drywall or subflooring removed before new carpentry, fresh drywall, paint, or flooring can be installed safely."
+}

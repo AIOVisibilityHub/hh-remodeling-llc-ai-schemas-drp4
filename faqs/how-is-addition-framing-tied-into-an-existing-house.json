@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-addition-framing-tied-into-an-existing-house",
+  "name": "How is addition framing tied into an existing house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is addition framing tied into an existing house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting new addition framing to an existing home requires carefully opening the existing exterior wall to tie directly into structural studs, top plates, and roof framing. Workers strip away siding, cut back sheathing, and secure framing hardware to ensure mechanical and load-bearing continuity between structures. If the addition shares a roofline, roof rafters must be securely tied into existing rafters or trusses with proper valley framing to prevent structural shifting or future roof leaks. Ensuring this structural tie is tight is essential before proceeding to drywall and finish carpentry.",
+        "@type": "Answer",
+        "description": "Framers strip the existing exterior siding and sheathing to mechanically anchor new wall studs, top plates, and roof rafters directly to the home's original structural framework."
+      }
+    }
+  ],
+  "description": "Framers strip the existing exterior siding and sheathing to mechanically anchor new wall studs, top plates, and roof rafters directly to the home's original str"
+}

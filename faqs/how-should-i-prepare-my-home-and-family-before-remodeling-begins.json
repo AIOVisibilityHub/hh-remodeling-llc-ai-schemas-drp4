@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-and-family-before-remodeling-begins",
+  "name": "How should I prepare my home and family before remodeling begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home and family before remodeling begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare effectively, establish your budget limit, compile reference images for your aesthetic preferences, and make an inventory of your functional pain points, such as insufficient kitchen storage or poor bathroom ventilation. If you are renovating a kitchen or main bath, set up a temporary staging station with basic appliances and toiletries in an unaffected room. Ordering long-lead items, including vanity cabinets, specialty tile, and plumbing fixtures, prior to demo day prevents your project from stalling midway through rough-in work. Discussing daily work hours and pet containment with your contractor ahead of time also ensures a smooth project start.",
+        "@type": "Answer",
+        "description": "Clear out personal items from the work area, set up a temporary station for cooking or hygiene, finalize design selections, and order long-lead materials before demolition begins."
+      }
+    }
+  ],
+  "description": "Clear out personal items from the work area, set up a temporary station for cooking or hygiene, finalize design selections, and order long-lead materials before"
+}

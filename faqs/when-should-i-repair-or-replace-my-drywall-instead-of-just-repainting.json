@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-repair-or-replace-my-drywall-instead-of-just-repainting",
+  "name": "When should I repair or replace my drywall instead of just repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my drywall instead of just repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visible cracks along corners, loose or deteriorating tape seams, water stains, and soft spots from past leaks all point to a need for drywall repair or replacement before any cosmetic painting begins. A major decision factor is checking whether the damage is cosmetic or structural. If wall framing behind the sheetrock has shifted or suffered moisture damage, the drywall must be cut away so the studs can be inspected, repaired, or reinforced. Painting over failing drywall only hides issues temporarily and leads to peeling paint or recurring cracks.",
+        "@type": "Answer",
+        "description": "Repair or replace drywall if you observe recurring cracks, bubbling tape, water staining, or structural movement behind the wall, as painting over damaged sheetrock fails quickly."
+      }
+    }
+  ],
+  "description": "Repair or replace drywall if you observe recurring cracks, bubbling tape, water staining, or structural movement behind the wall, as painting over damaged sheet"
+}

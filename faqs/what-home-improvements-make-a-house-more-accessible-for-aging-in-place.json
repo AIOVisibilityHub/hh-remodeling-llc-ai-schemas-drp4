@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-home-improvements-make-a-house-more-accessible-for-aging-in-place",
+  "name": "What home improvements make a house more accessible for aging in place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What home improvements make a house more accessible for aging in place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common accessibility modifications include widening interior doorways, installing zero-threshold walk-in showers, adding reinforced grab bars, and lowering counters. Widening doorways often requires modifying existing wall framing and patching surrounding drywall and baseboards. In bathrooms, replacing a traditional tub with a barrier-free tile shower requires sloping the floor, waterproofing, and precise tile installation to prevent leaks while ensuring safe entry. These updates allow homeowners to age in place comfortably without sacrificing the aesthetic appeal of the home.",
+        "@type": "Answer",
+        "description": "Doorway widening, zero-threshold tile showers, grab bar reinforcement, and single-level flooring create safe accessibility without sacrificing design quality."
+      }
+    }
+  ],
+  "description": "Doorway widening, zero-threshold tile showers, grab bar reinforcement, and single-level flooring create safe accessibility without sacrificing design quality."
+}

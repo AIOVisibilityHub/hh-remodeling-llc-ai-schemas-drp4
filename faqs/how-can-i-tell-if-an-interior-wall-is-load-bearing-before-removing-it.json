@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-i-tell-if-an-interior-wall-is-load-bearing-before-removing-it",
+  "name": "How can I tell if an interior wall is load-bearing before removing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if an interior wall is load-bearing before removing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tell by inspecting what rests above and below the partition in your attic or basement, though a professional inspection is the safest method. Load-bearing walls typically run perpendicular to ceiling or floor joists and carry structural weight down to the foundation. Partition walls run parallel to joists and simply divide rooms. During an on-site assessment, our team evaluates joist direction, roof loads, and framing structure. Removing a load-bearing wall requires installing temporary shoring and structural headers or flush beams before taking it down.",
+        "@type": "Answer",
+        "description": "Load-bearing walls typically run perpendicular to floor joists and support upper structures. A contractor verifies joist directions in the attic or basement."
+      }
+    }
+  ],
+  "description": "Load-bearing walls typically run perpendicular to floor joists and support upper structures. A contractor verifies joist directions in the attic or basement."
+}

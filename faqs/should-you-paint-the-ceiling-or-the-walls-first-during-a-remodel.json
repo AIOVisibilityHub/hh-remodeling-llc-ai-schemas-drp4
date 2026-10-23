@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-you-paint-the-ceiling-or-the-walls-first-during-a-remodel",
+  "name": "Should you paint the ceiling or the walls first during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should you paint the ceiling or the walls first during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Always paint the ceiling before the walls. Ceiling work produces roller mist and occasional splatters, which will fall onto lower surfaces even with steady technique. Painting the ceiling first allows painters to establish clean cut-in lines at the wall-ceiling joint or along crown molding without worrying about accidental roller overlap on fresh wall paint. If you are also replacing or refinishing molding, the sequence begins with ceiling paint, followed by wall coats, and concludes with trim detailing to protect edge definition throughout the room.",
+        "@type": "Answer",
+        "description": "Always paint the ceiling first. Doing so prevents roller splatter on fresh walls and makes cutting clean edge lines much easier."
+      }
+    }
+  ],
+  "description": "Always paint the ceiling first. Doing so prevents roller splatter on fresh walls and makes cutting clean edge lines much easier."
+}

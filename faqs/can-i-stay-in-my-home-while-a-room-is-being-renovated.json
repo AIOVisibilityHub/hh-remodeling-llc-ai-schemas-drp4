@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-home-while-a-room-is-being-renovated",
+  "name": "Can I stay in my home while a room is being renovated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a room is being renovated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home is feasible for single-room renovations like bedrooms, home offices, or living rooms, provided work areas can be isolated. Projects involving heavy drywall sanding, interior framing, or demolition create airborne dust and noise during daytime working hours. You will need to manage temporary disruption and limited access to that specific area of the house. Because HH Remodeling operates with a consistent, owner-led crew, you have clear communication on daily working hours and when noisy or dusty stages will occur.",
+        "@type": "Answer",
+        "description": "Yes, you can usually stay in your home during single-room renovations, though you will need to plan around temporary daytime noise, dust, and localized disruptions."
+      }
+    }
+  ],
+  "description": "Yes, you can usually stay in your home during single-room renovations, though you will need to plan around temporary daytime noise, dust, and localized disrupti"
+}

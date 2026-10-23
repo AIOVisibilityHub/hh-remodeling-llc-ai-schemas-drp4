@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-storm-damaged-drywall-can-be-repaired-or-must-be-replaced",
+  "name": "How do I know if storm-damaged drywall can be repaired or must be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if storm-damaged drywall can be repaired or must be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should be replaced if it has sagged, softened, crumbled, or remained soaked for an extended period. Storm water often compromises the gypsum core and weakens the paper backing, making the sheet structurally unsound. Surface-level repairs are suitable only when the moisture was caught immediately, the drywall remains firm and flat, and the backing dried thoroughly without mildew. If you push gently on the drywall and feel softness or notice paper separation, cutting out the damaged section and hanging new drywall is necessary before texturing and painting.",
+        "@type": "Answer",
+        "description": "Replace drywall if it feels soft, sags, crumbles, or stayed soaked. Firm, structurally sound drywall with minor surface marks can be dried, sealed, and repainted."
+      }
+    }
+  ],
+  "description": "Replace drywall if it feels soft, sags, crumbles, or stayed soaked. Firm, structurally sound drywall with minor surface marks can be dried, sealed, and repainte"
+}

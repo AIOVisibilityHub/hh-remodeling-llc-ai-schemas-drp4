@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-interior-doors-be-taken-off-their-hinges-to-be-painted",
+  "name": "Should interior doors be taken off their hinges to be painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should interior doors be taken off their hinges to be painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional painters generally prefer removing interior doors from their hinges before painting. Taking doors down allows them to be laid flat on sawhorses, which eliminates runs or drips and allows for cleaner coverage on top and bottom edges. It also prevents paint from gumming up hinges and latches. In certain situations, such as quick touch-ups or when doors cannot be easily detached without damaging adjacent custom trim, doors may be painted in place. However, removing hardware and painting slabs horizontally yields the smoothest finish.",
+        "@type": "Answer",
+        "description": "Yes, removing interior doors produces the smoothest finish and prevents drips or paint on hardware, though doors can be painted hanging for minor touch-ups."
+      }
+    }
+  ],
+  "description": "Yes, removing interior doors produces the smoothest finish and prevents drips or paint on hardware, though doors can be painted hanging for minor touch-ups."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-determine-heating-and-cooling-needs-for-a-room-addition",
+  "name": "How do I determine heating and cooling needs for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine heating and cooling needs for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HVAC integration is essential for comfortable year-round living, especially during cold Colorado winters and warm summers. During planning, a professional evaluates whether your existing furnace and air conditioning unit have sufficient capacity to heat and cool the added square footage. If ductwork cannot easily extend into the new framing, installing an independent ductless mini-split system is often a practical, energy-efficient alternative. HH Remodeling coordinates with trade specialists to ensure heating, cooling, and electrical circuits are properly sized before insulation and drywall are installed.",
+        "@type": "Answer",
+        "description": "Have a contractor assess your existing HVAC capacity; if extending ductwork is impractical, a ductless mini-split system often provides an efficient solution."
+      }
+    }
+  ],
+  "description": "Have a contractor assess your existing HVAC capacity; if extending ductwork is impractical, a ductless mini-split system often provides an efficient solution."
+}

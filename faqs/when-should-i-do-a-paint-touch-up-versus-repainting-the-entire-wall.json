@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-do-a-paint-touch-up-versus-repainting-the-entire-wall",
+  "name": "When should I do a paint touch-up versus repainting the entire wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I do a paint touch-up versus repainting the entire wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Isolated scuffs, small nail holes, and door dings on relatively new paint are prime candidates for spot touch-ups. Conversely, if you have large drywall patches, water damage repairs, high-traffic grime, or walls painted over three to five years ago, spot painting usually leaves visible outlines known as flashing. In those cases, repainting the entire wall from corner to corner delivers a uniform, professional finish that hides patched repairs properly.",
+        "@type": "Answer",
+        "description": "Spot touch-ups work for small scuffs on newer paint. If damage covers large patches or the wall has faded over several years, painting the entire wall prevents visible flashing."
+      }
+    }
+  ],
+  "description": "Spot touch-ups work for small scuffs on newer paint. If damage covers large patches or the wall has faded over several years, painting the entire wall prevents"
+}

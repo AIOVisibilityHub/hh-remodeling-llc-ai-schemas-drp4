@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-most-influence-the-cost-of-changing-an-interior-floor-plan",
+  "name": "What factors most influence the cost of changing an interior floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors most influence the cost of changing an interior floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs depend on whether walls carry structural loads and whether mechanical utilities must be relocated. Removing a simple non-load-bearing partition with basic drywall patching and painting is relatively economical. However, taking down a load-bearing wall requires engineered structural beams, temporary support framing, and structural permitting, which increases the investment. Additionally, moving plumbing stacks, electrical panels, or HVAC ductwork embedded in the walls will require coordinated specialty sub-trades, directly impacting your overall project budget.",
+        "@type": "Answer",
+        "description": "Key cost drivers include whether walls are load-bearing requiring structural beams, and the extent of plumbing, electrical, or HVAC lines needing relocation."
+      }
+    }
+  ],
+  "description": "Key cost drivers include whether walls are load-bearing requiring structural beams, and the extent of plumbing, electrical, or HVAC lines needing relocation."
+}

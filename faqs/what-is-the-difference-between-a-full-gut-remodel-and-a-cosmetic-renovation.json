@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-full-gut-remodel-and-a-cosmetic-renovation",
+  "name": "What is the difference between a full gut remodel and a cosmetic renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full gut remodel and a cosmetic renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full gut renovation removes everything down to the wall studs and subfloor, allowing you to reconfigure floor plans, replace insulation, and update rough plumbing and wiring. A cosmetic remodel preserves the existing layout and focuses strictly on surface upgrades like painting, installing new trim or molding, swapping vanities, and replacing tile. Choosing a cosmetic update saves time and money, but if your home has outdated wiring, hidden moisture damage, or a layout that no longer functions, a complete teardown offers long-term durability and structural flexibility.",
+        "@type": "Answer",
+        "description": "A full gut removes finishes down to the framing to alter layouts and mechanicals, whereas a cosmetic remodel only updates surface finishes like paint, tile, and trim."
+      }
+    }
+  ],
+  "description": "A full gut removes finishes down to the framing to alter layouts and mechanicals, whereas a cosmetic remodel only updates surface finishes like paint, tile, and"
+}

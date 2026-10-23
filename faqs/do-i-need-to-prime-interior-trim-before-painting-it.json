@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-prime-interior-trim-before-painting-it",
+  "name": "Do I need to prime interior trim before painting it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime interior trim before painting it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a dedicated primer if you are working with bare wood, transitioning from an oil-based finish to latex paint, or covering deep stains and knot holes. Previously painted latex trim in clean, sound condition often only requires scuff-sanding and a high-quality self-priming acrylic enamel. However, skipping primer on bare pine, patched nail holes, or slick surfaces leads to peeling paint and bleed-through. During on-site consultations, Abraham Becerra tests existing trim coatings with a quick solvent check to determine if an oil-to-acrylic bonding primer is necessary.",
+        "@type": "Answer",
+        "description": "Priming is required over bare wood, new drywall joints, stains, or old oil-based paint. Previously painted latex trim in good condition usually only needs cleaning and light sanding."
+      }
+    }
+  ],
+  "description": "Priming is required over bare wood, new drywall joints, stains, or old oil-based paint. Previously painted latex trim in good condition usually only needs clean"
+}

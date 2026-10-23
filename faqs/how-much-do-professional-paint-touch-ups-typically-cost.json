@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-much-do-professional-paint-touch-ups-typically-cost",
+  "name": "How much do professional paint touch-ups typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do professional paint touch-ups typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor paint touch-ups typically cost far less than painting an entire room, but pricing depends on surface prep and travel minimums. If a contractor only needs to patch small scuffs with homeowner-provided paint, the cost reflects minimal labor time. However, if touch-ups require drywall patching, spackle sanding, priming water stains, or purchasing new paint matches, costs rise. Many contractors combine small paint touch-ups into broader handyman or finish punch-list visits to provide better overall value.",
+        "@type": "Answer",
+        "description": "Costs depend on wall prep, patching, and paint matching. Small touch-ups are often grouped into handyman or punch-list visits to keep minimum trip charges cost-effective."
+      }
+    }
+  ],
+  "description": "Costs depend on wall prep, patching, and paint matching. Small touch-ups are often grouped into handyman or punch-list visits to keep minimum trip charges cost-"
+}

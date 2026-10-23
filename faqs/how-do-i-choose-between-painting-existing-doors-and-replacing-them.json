@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-painting-existing-doors-and-replacing-them",
+  "name": "How do I choose between painting existing doors and replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between painting existing doors and replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your doors are structurally sound and fit their frames well, repainting is the most cost-effective way to update your home's interior. However, replacement is the better choice if doors are warped, hollow cores are punctured, or you want to upgrade lightweight doors to solid-core for sound dampening. If you plan to change existing trim profiles or reframe openings during a larger remodel, installing pre-hung door packages often makes more sense than prepping damaged, outdated slabs.",
+        "@type": "Answer",
+        "description": "Paint if doors hang straight and function well. Replace them if slabs are warped, structurally cracked, or if you want solid-core sound insulation."
+      }
+    }
+  ],
+  "description": "Paint if doors hang straight and function well. Replace them if slabs are warped, structurally cracked, or if you want solid-core sound insulation."
+}

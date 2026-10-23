@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-live-in-my-home-during-a-multi-room-renovation",
+  "name": "Can I live in my home during a multi-room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a multi-room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often remain in your home during a multi-room project, though living through dust and restricted access requires planning. If the renovation involves your primary kitchen or your home's only full bathroom, living off-site temporarily may be much more comfortable. When staying on-site, a practical strategy involves setting up a clean staging area with essential appliances in an untouched room. We isolate active construction zones using plastic barriers to control drywall dust and coordinate work so functional plumbing remains available whenever possible.",
+        "@type": "Answer",
+        "description": "Yes, though temporary relocation is often easier if the project involves your main kitchen or only bathroom. Dust barriers help protect unaffected living spaces."
+      }
+    }
+  ],
+  "description": "Yes, though temporary relocation is often easier if the project involves your main kitchen or only bathroom. Dust barriers help protect unaffected living spaces"
+}

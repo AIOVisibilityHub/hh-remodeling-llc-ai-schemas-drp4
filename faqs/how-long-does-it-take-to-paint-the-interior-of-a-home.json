@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-paint-the-interior-of-a-home",
+  "name": "How long does it take to paint the interior of a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint the interior of a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard single room usually takes one to two days to prep, prime, and paint. Painting an entire house or an open-concept living area often takes three to five business days. The timeline changes if the project involves major drywall repairs, painting high ceilings, changing dark wall colors to light shades, or coating detailed trim and doors. Adequate dry time between coats is also necessary before replacing switch plates and returning furniture to the room.",
+        "@type": "Answer",
+        "description": "A single room typically takes 1 to 2 days, while a full home interior takes roughly 3 to 5 days, depending on prep work, ceiling heights, and trim detail."
+      }
+    }
+  ],
+  "description": "A single room typically takes 1 to 2 days, while a full home interior takes roughly 3 to 5 days, depending on prep work, ceiling heights, and trim detail."
+}

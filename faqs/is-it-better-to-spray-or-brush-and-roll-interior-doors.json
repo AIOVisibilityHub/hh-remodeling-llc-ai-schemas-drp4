@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-it-better-to-spray-or-brush-and-roll-interior-doors",
+  "name": "Is it better to spray or brush and roll interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to spray or brush and roll interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spraying produces an ultra-smooth, factory-like finish without visible brush lines, making it ideal for multi-door renovations where slabs can be taken to a dedicated workspace. However, spraying requires extensive masking and equipment setup. Brushing and rolling is more practical for occupied homes or individual door updates because it creates less airborne overspray. Using a high-density foam roller on flat sections and a fine-bristle angle brush inside recessed panels gives a very smooth finish with minimal setup.",
+        "@type": "Answer",
+        "description": "Spraying delivers the smoothest, factory-grade finish for large projects, while brushing and rolling creates less mess and is ideal for individual rooms."
+      }
+    }
+  ],
+  "description": "Spraying delivers the smoothest, factory-grade finish for large projects, while brushing and rolling creates less mess and is ideal for individual rooms."
+}

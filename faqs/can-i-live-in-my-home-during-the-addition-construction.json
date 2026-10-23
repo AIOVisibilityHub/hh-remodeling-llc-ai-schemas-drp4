@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-live-in-my-home-during-the-addition-construction",
+  "name": "Can I live in my home during the addition construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during the addition construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to remain home during construction depends on the project location, utility disruptions, and household sensitivities to noise and dust. If the work involves a separate ground-floor bump-out, temporary containment barriers can seal off dust while keeping your main home functional. However, if the project impacts your only bathroom, main kitchen, or requires roof removal, temporary relocation may be preferred. Clear containment planning, daily jobsite cleanup, and steady communication help minimize disruptions throughout construction.",
+        "@type": "Answer",
+        "description": "Yes, many homeowners stay in place if dust barriers are set up, though projects affecting essential utilities or rooflines may require temporary relocation."
+      }
+    }
+  ],
+  "description": "Yes, many homeowners stay in place if dust barriers are set up, though projects affecting essential utilities or rooflines may require temporary relocation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-to-prepare-my-home-before-interior-painters-arrive",
+  "name": "What should I do to prepare my home before interior painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home before interior painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your painting crew arrives, clear the room of small decor, wall hangings, electronics, and fragile items. Push large furniture pieces toward the center of the room so painters have at least three to four feet of clear perimeter access along all walls. If you have pets, arrange a quiet, closed-off space for them away from work zones. Let your contractor know ahead of time if you want existing picture-hanging nails left in place or patched over with drywall mud. Clear pathways from entry doors also help crews bring in ladders, drop cloths, and supplies safely.",
+        "@type": "Answer",
+        "description": "Remove wall art and fragile decor, move large furniture to the center of the room, secure pets, and decide which nail holes should be patched."
+      }
+    }
+  ],
+  "description": "Remove wall art and fragile decor, move large furniture to the center of the room, secure pets, and decide which nail holes should be patched."
+}

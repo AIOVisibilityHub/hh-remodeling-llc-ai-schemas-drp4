@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-is-the-cost-of-an-interior-painting-project-estimated",
+  "name": "How is the cost of an interior painting project estimated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is the cost of an interior painting project estimated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior painting depends on square footage, ceiling height, trim complexity, and required surface prep. A single room with basic walls requires far less labor than a full home remodel with high ceilings, detailed crown molding, or significant drywall patching. Choosing premium, washable paint sheens can add to material costs but improves durability in kitchens and bathrooms. We provide clear, itemized estimates after assessing the room dimensions, surface conditions, and scope during an on-site consultation.",
+        "@type": "Answer",
+        "description": "Interior painting costs depend on square footage, wall height, trim detail, prep needs like drywall patching, and paint grade. Estimates are based on an on-site review."
+      }
+    }
+  ],
+  "description": "Interior painting costs depend on square footage, wall height, trim detail, prep needs like drywall patching, and paint grade. Estimates are based on an on-site"
+}

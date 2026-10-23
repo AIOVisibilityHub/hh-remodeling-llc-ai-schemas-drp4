@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-or-bathroom-renovation",
+  "name": "How do I choose the right contractor for my kitchen or bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my kitchen or bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by evaluating whether they have hands-on craftsmanship in core finish trades like carpentry, drywall, and tiling, or if they sub out every step of the job. Look for a contractor who serves as your direct on-site point of contact, maintains verified credentials such as an A+ BBB rating, and communicates clearly about trade sequencing for plumbing and electrical work. Always ask how they protect surrounding rooms, schedule inspections, handle change orders, and guarantee the durability of wet-area installations like tile and marble showers.",
+        "@type": "Answer",
+        "description": "Look for an established contractor with proven hands-on finish trade expertise, strong direct communication, verified credentials, and clear job management practices."
+      }
+    }
+  ],
+  "description": "Look for an established contractor with proven hands-on finish trade expertise, strong direct communication, verified credentials, and clear job management prac"
+}

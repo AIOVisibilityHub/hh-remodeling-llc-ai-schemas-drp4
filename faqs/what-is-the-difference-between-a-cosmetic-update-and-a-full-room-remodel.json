@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-cosmetic-update-and-a-full-room-remodel",
+  "name": "What is the difference between a cosmetic update and a full room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a cosmetic update and a full room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cosmetic updates refresh visible surfaces without changing room structure, while a full renovation often rebuilds the space down to the framing. A cosmetic refresh focuses on new interior paint, replacing baseboards, hanging interior doors, or repairing surface drywall dings. A full renovation involves reconfiguring walls, hanging new drywall, installing tile flooring, updating lighting, or adding accessibility features. Choosing a cosmetic update saves time and budget, but a full renovation resolves underlying framing flaws, poor lighting, or outdated room layouts permanently.",
+        "@type": "Answer",
+        "description": "A cosmetic remodel updates surface finishes like paint and trim. A full remodel reconfigures framing, replaces drywall, updates wiring, or alters the physical room layout."
+      }
+    }
+  ],
+  "description": "A cosmetic remodel updates surface finishes like paint and trim. A full remodel reconfigures framing, replaces drywall, updates wiring, or alters the physical r"
+}

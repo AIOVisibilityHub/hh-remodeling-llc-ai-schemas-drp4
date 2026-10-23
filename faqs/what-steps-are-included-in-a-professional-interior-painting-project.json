@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-included-in-a-professional-interior-painting-project",
+  "name": "What steps are included in a professional interior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are included in a professional interior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional interior paint job relies heavily on surface preparation before any paint is applied. The crew inspects the walls, repairs drywall cracks or holes, sands rough patches, and caulks baseboards and trim. High-traffic areas or patched sections receive a dedicated primer coat to prevent uneven sheen. Drop cloths and plastic sheeting protect flooring and furniture. Once surfaces are clean and uniform, painters apply two coats of quality paint, finishing with clean trim lines and a thorough job site cleanup.",
+        "@type": "Answer",
+        "description": "A standard project includes masking, drywall patching, sanding, spot-priming, applying two finish coats to walls and trim, and complete cleanup."
+      }
+    }
+  ],
+  "description": "A standard project includes masking, drywall patching, sanding, spot-priming, applying two finish coats to walls and trim, and complete cleanup."
+}

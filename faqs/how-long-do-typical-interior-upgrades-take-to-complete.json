@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-do-typical-interior-upgrades-take-to-complete",
+  "name": "How long do typical interior upgrades take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical interior upgrades take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project duration depends on the scope of work and the combination of trades required. Simple finish carpentry, trim installation, or single-room drywall repairs and painting can take two to four days. More extensive upgrades involving custom tile work, framing alterations, or multi-room remodels typically take two to several weeks. A key process factor affecting timing is cure times for materials like drywall mud, tile thin-set, grout, and paint coats. Owner Abraham Becerra oversees scheduling on-site to keep carpentry, drywall, and specialty trades moving smoothly without unnecessary delays.",
+        "@type": "Answer",
+        "description": "Minor finish carpentry or painting takes two to four days, while extensive upgrades involving framing, drywall, and custom tile work can take two or more weeks depending on cure times and scope."
+      }
+    }
+  ],
+  "description": "Minor finish carpentry or painting takes two to four days, while extensive upgrades involving framing, drywall, and custom tile work can take two or more weeks"
+}

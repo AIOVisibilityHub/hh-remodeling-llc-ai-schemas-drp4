@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-building-permits-for-a-multi-room-interior-renovation-in-the-denver-ar",
+  "name": "Do I need building permits for a multi-room interior renovation in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for a multi-room interior renovation in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cosmetic updates like painting, hanging trim, and replacing floor coverings rarely require permits, but structural changes and mechanical work usually do. Removing load-bearing walls, altering room layouts, adding new framing, or running new plumbing lines and electrical circuits generally requires permits from your local building department. In the Denver metro area, permitting rules vary between municipalities such as Centennial, Parker, and Denver proper. A hands-on contractor coordinates the proper sub-trades and inspections so work complies with local building codes.",
+        "@type": "Answer",
+        "description": "Permits are required for structural alterations, wall removals, and new plumbing or electrical rough-ins, while cosmetic updates like paint and trim do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required for structural alterations, wall removals, and new plumbing or electrical rough-ins, while cosmetic updates like paint and trim do not need"
+}

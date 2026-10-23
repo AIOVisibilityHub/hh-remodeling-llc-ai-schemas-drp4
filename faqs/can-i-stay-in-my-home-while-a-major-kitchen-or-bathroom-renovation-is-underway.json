@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-home-while-a-major-kitchen-or-bathroom-renovation-is-underway",
+  "name": "Can I stay in my home while a major kitchen or bathroom renovation is underway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a major kitchen or bathroom renovation is underway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living at home is feasible during many remodels, but it requires preparing for dust, noise, and temporary utility interruptions. If you are renovating your only full bathroom, you will need alternative bathing arrangements while plumbing, drywall, and custom tile cure. Kitchen renovations require setting up a temporary prep area with a microwave and refrigerator away from the construction zone. For projects involving extensive drywall sanding, framing, or interior painting, work areas are sealed with plastic barriers, but daily foot traffic and material staging will still affect household routines.",
+        "@type": "Answer",
+        "description": "Yes, though you must prepare for temporary loss of amenities, daily construction noise, and dust containment zones during heavy carpentry and drywall work."
+      }
+    }
+  ],
+  "description": "Yes, though you must prepare for temporary loss of amenities, daily construction noise, and dust containment zones during heavy carpentry and drywall work."
+}

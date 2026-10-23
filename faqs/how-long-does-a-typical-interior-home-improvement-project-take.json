@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-interior-home-improvement-project-take",
+  "name": "How long does a typical interior home improvement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior home improvement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room remodel typically takes between two and eight weeks, depending on structural changes and finish details. A standard bathroom remodel or drywall and painting update often takes two to three weeks. In contrast, full kitchen overhauls or basement build-outs take longer because they require sequential steps: custom framing, rough-in plumbing and electrical, drywall hanging and finishing, tile installation, and final finish carpentry. Delays often occur if material deliveries arrive late or if unexpected damage behind walls needs remediation before closing up surfaces.",
+        "@type": "Answer",
+        "description": "Most interior renovations take between two and eight weeks, depending on whether the job requires structural framing, plumbing adjustments, or detailed tile work."
+      }
+    }
+  ],
+  "description": "Most interior renovations take between two and eight weeks, depending on whether the job requires structural framing, plumbing adjustments, or detailed tile wor"
+}

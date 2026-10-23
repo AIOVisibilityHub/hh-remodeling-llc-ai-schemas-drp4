@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-an-interior-room-renovation-usually-take",
+  "name": "How long does an interior room renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an interior room renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical single room renovation takes about one to three weeks, whereas comprehensive renovations like finished basements or open-concept living areas take several weeks or more. The schedule depends on the scope of structural changes, custom framing, drywall finishing, and dry times for paint and tile mortar. At HH Remodeling, owner Abraham Becerra leads on-site work and coordinates necessary sub-trades for plumbing and electrical so trades do not overlap counterproductively. Material lead times, such as ordering custom trim, specialty tile, or replacement doors, can also affect the overall timeline.",
+        "@type": "Answer",
+        "description": "Most single-room renovations take one to three weeks. Complex projects requiring framing, sub-trades, or extensive tile work can take several weeks or longer."
+      }
+    }
+  ],
+  "description": "Most single-room renovations take one to three weeks. Complex projects requiring framing, sub-trades, or extensive tile work can take several weeks or longer."
+}

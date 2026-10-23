@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-home-renovation-project-take-to-complete",
+  "name": "How long does a typical home renovation project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home renovation project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home renovation schedule depends largely on the project scope, structural changes, and finish selections. A standard bathroom update or finish carpentry upgrade typically takes two to three weeks, while a full kitchen remodel or complete basement finish can take six to twelve weeks. Working with an owner-operated team helps minimize downtime, as core tasks like framing, drywall, tile, and painting are handled directly by the in-house crew. However, lead times for custom cabinetry, specialty tile orders, and coordinating licensed trade partners for plumbing and electrical inspections can shift completion dates. To keep timelines intact, it is best to finalize layout decisions and order primary materials before construction begins.",
+        "@type": "Answer",
+        "description": "Most single-room remodels take two to four weeks, while full kitchens or basements take six to twelve weeks, depending on structural work, material lead times, and trade coordination."
+      }
+    }
+  ],
+  "description": "Most single-room remodels take two to four weeks, while full kitchens or basements take six to twelve weeks, depending on structural work, material lead times,"
+}

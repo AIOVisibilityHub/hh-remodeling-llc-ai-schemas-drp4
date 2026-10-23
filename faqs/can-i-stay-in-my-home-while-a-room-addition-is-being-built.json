@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-home-while-a-room-addition-is-being-built",
+  "name": "Can I stay in my home while a room addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a room addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during an addition is often possible, especially for ground-level bump-outs where framing, exterior sheathing, and roofing occur before cutting into the main house. Work stays contained outside until it is time to open the connecting wall. However, if your addition involves expanding an existing kitchen, reconfiguring your only full bathroom, or completing major structural wall modifications, temporary relocation might be less stressful. If you remain on-site, plan for daily construction noise, work crews on the property, and dust barriers erected between the living quarters and the jobsite. Discussing access points, staging areas, and working hours helps set clear expectations.",
+        "@type": "Answer",
+        "description": "Yes, homeowners often stay on-site because initial structural work happens outside, though interior tie-ins bring temporary noise, dust, and utility interruptions."
+      }
+    }
+  ],
+  "description": "Yes, homeowners often stay on-site because initial structural work happens outside, though interior tie-ins bring temporary noise, dust, and utility interruptio"
+}

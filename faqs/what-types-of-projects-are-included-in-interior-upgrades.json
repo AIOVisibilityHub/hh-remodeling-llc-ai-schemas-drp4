@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-types-of-projects-are-included-in-interior-upgrades",
+  "name": "What types of projects are included in interior upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of projects are included in interior upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior upgrades cover both cosmetic updates and structural finish changes to improve your home's function, appearance, and value. At HH Remodeling LLC, this includes custom framing, drywall installation and patching, interior painting, baseboard and crown molding installation, as well as custom tile or marble work. A practical tradeoff to consider is cosmetic resurfacing versus structural alterations: painting and adding trim refresh a space quickly with minimal disruption, whereas removing walls or reconfiguring room layouts requires framing changes, possible drywall reconfiguration, and coordinating sub-trades for wiring or plumbing adjustments.",
+        "@type": "Answer",
+        "description": "Interior upgrades include drywall repair, custom framing, finish carpentry, trim molding, tile or marble installation, and interior painting, ranging from cosmetic touch-ups to full remodels."
+      }
+    }
+  ],
+  "description": "Interior upgrades include drywall repair, custom framing, finish carpentry, trim molding, tile or marble installation, and interior painting, ranging from cosme"
+}

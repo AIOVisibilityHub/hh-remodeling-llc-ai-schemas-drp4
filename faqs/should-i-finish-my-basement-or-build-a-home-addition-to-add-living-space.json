@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-finish-my-basement-or-build-a-home-addition-to-add-living-space",
+  "name": "Should I finish my basement or build a home addition to add living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I finish my basement or build a home addition to add living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A finished basement transforms existing square footage beneath your home, while a home addition builds new structural square footage outside or above the existing envelope. Basement remodeling avoids excavation, exterior siding, and new roofing, making it a cost-effective way to add bedrooms, entertainment spaces, or bathrooms. Conversely, an addition is necessary when you need main-level living space, natural sunlight, or lack adequate ceiling height in an unfinished basement. Both options offer great utility depending on your family's daily needs.",
+        "@type": "Answer",
+        "description": "Finish your basement to gain lower-level space without exterior structural construction, or build an addition if you require ground-level access and more natural light."
+      }
+    }
+  ],
+  "description": "Finish your basement to gain lower-level space without exterior structural construction, or build an addition if you require ground-level access and more natura"
+}

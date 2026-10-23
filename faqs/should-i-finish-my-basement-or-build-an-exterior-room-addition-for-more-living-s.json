@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-finish-my-basement-or-build-an-exterior-room-addition-for-more-living-s",
+  "name": "Should I finish my basement or build an exterior room addition for more living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I finish my basement or build an exterior room addition for more living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement finishes and additions differ significantly in cost, permitting complexity, and structural requirements. Finishing an existing basement uses your home's current footprint and foundation, making it a faster, more budget-friendly way to add bedrooms, entertainment rooms, or bathrooms without outdoor disruption. A room addition expands your home outward or upward, requiring extensive excavation, foundation pouring, exterior roofing, and exterior siding. If you want added square footage at a lower cost per square foot, finishing the basement is typically the smarter path.",
+        "@type": "Answer",
+        "description": "Finishing a basement is faster and more cost-effective because the foundation and framing exist, whereas additions require new foundations, roofing, and exterior work."
+      }
+    }
+  ],
+  "description": "Finishing a basement is faster and more cost-effective because the foundation and framing exist, whereas additions require new foundations, roofing, and exterio"
+}

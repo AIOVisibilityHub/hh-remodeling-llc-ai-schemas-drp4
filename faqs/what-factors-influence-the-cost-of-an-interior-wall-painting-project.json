@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-cost-of-an-interior-wall-painting-project",
+  "name": "What factors influence the cost of an interior wall painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an interior wall painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior painting costs depend primarily on square footage, ceiling height, the condition of the drywall, and the number of paint coats required. A room that only needs minor spot-touching and a single color change costs less than one requiring extensive crack repair, texture matching, or heavy wall cleaning. Color transitions, such as going from a dark hue to a light shade, also increase labor and material needs because they require tinted primer and multiple finish coats. Baseboard painting, crown molding, and door frames add detail work that changes overall pricing.",
+        "@type": "Answer",
+        "description": "Pricing depends on room size, ceiling height, necessary drywall repairs, trim detail, and the number of coats required to cover existing dark colors."
+      }
+    }
+  ],
+  "description": "Pricing depends on room size, ceiling height, necessary drywall repairs, trim detail, and the number of coats required to cover existing dark colors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-typical-sequence-of-steps-during-an-interior-remodel",
+  "name": "What is the typical sequence of steps during an interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical sequence of steps during an interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior renovations follow a structured sequence to ensure structural integrity and protect finished surfaces. The project begins with site protection and selective demolition. Next, custom framing takes place, followed by plumbing, electrical, and HVAC rough-ins behind the walls. Once inspections pass, insulation and drywall are hung, taped, and finished. After drywall, crews install finish carpentry, door casings, baseboards, and tile or marble surfaces. Interior painting and final plumbing and electrical trim fixtures are completed near the end, followed by final punch-list items and cleanup.",
+        "@type": "Answer",
+        "description": "Work proceeds from demolition and framing to mechanical rough-ins, drywall, tile, finish carpentry, interior painting, and final fixture installation."
+      }
+    }
+  ],
+  "description": "Work proceeds from demolition and framing to mechanical rough-ins, drywall, tile, finish carpentry, interior painting, and final fixture installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-house-while-the-renovation-is-underway",
+  "name": "Can I stay in my house while the renovation is underway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the renovation is underway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a remodel is possible, especially if the project is limited to a basement, an extra bathroom, or a closed-off garage. However, whole-home projects or sole-bathroom and kitchen renovations require extra planning around dust, noise, and utility shutoffs. To minimize daily stress, we establish dedicated staging areas, isolate work zones with plastic containment barriers, and maintain predictable work hours. If you must use a shared living space, setting up a temporary kitchenette or arranging short-term accommodations during heavy demolition and drywall phases can make the experience much smoother.",
+        "@type": "Answer",
+        "description": "Yes, you can often remain home during localized renovations, though temporary living arrangements may be helpful during disruptive demolition and drywall work."
+      }
+    }
+  ],
+  "description": "Yes, you can often remain home during localized renovations, though temporary living arrangements may be helpful during disruptive demolition and drywall work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-interior-doors-need-to-be-primed-before-painting",
+  "name": "Do interior doors need to be primed before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do interior doors need to be primed before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must use a bonding primer before painting if your doors currently have an oil-based finish, have bare wood or patches, or are made of slick factory laminate. To test your existing paint, rub a cotton ball soaked in rubbing alcohol on an inconspicuous spot; if no color comes off, the paint is oil-based. Applying water-based latex directly over unprimed oil-based enamel causes peeling. A dedicated primer creates a sound bond, seals drywall patches or wood grain, and prevents tannin bleed-through.",
+        "@type": "Answer",
+        "description": "Yes, you need primer if your doors have an existing oil-based finish, bare wood, or slick laminate surfaces to ensure the new paint adheres properly."
+      }
+    }
+  ],
+  "description": "Yes, you need primer if your doors have an existing oil-based finish, bare wood, or slick laminate surfaces to ensure the new paint adheres properly."
+}

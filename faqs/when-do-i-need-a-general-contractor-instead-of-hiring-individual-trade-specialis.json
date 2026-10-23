@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-do-i-need-a-general-contractor-instead-of-hiring-individual-trade-specialis",
+  "name": "When do I need a general contractor instead of hiring individual trade specialists?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a general contractor instead of hiring individual trade specialists?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need a general contractor whenever a project involves multiple trades, structural changes, or coordinated rough-ins alongside finish work. For example, moving a shower or adding a basement bathroom involves framing, drywall, waterproofing, tile setting, plumbing, and electrical. A general contractor serves as a single point of contact to supervise the site, organize specialized sub-trades, and complete finish carpentry directly. If your project is strictly a single minor task, like patching a small drywall hole or painting a bedroom, a straightforward handyman visit usually suffices.",
+        "@type": "Answer",
+        "description": "Hire a general contractor when your remodel involves multiple trades, layout changes, or custom framing so one lead contact manages the schedule and quality."
+      }
+    }
+  ],
+  "description": "Hire a general contractor when your remodel involves multiple trades, layout changes, or custom framing so one lead contact manages the schedule and quality."
+}

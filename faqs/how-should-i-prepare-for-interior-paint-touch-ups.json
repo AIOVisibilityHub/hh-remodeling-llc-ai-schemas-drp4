@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-for-interior-paint-touch-ups",
+  "name": "How should I prepare for interior paint touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare for interior paint touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling or starting touch-ups, check your garage or storage for leftover cans from the original paint job to note the brand, color code, and sheen. If you do not have leftover paint, you can carefully cut out a one-inch square sample of drywall paper from an inconspicuous area, like behind an outlet plate, to take for color matching. Also, clean surface dirt around the damaged area and note whether underlying drywall dents need spackling.",
+        "@type": "Answer",
+        "description": "Locate original paint cans for color and sheen codes. If unavailable, take a small drywall sample from an outlet area for matching, and wash surface dirt off the wall."
+      }
+    }
+  ],
+  "description": "Locate original paint cans for color and sheen codes. If unavailable, take a small drywall sample from an outlet area for matching, and wash surface dirt off th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-baseboards-and-trim-be-painted-before-or-after-walls",
+  "name": "Should baseboards and trim be painted before or after walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should baseboards and trim be painted before or after walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint walls and trim in the order that creates the cleanest lines for your project scope. When completing a full room remodel involving drywall repairs, professional painters usually paint trim first, let it cure, tape it off with delicate painter tape, and then roll the walls down to the trim edge. However, if you are only refreshing existing walls and leaving trim alone, or only repainting baseboards after installing new flooring, painters mask the finished surface carefully to avoid overspray or brush marks. Knowing the full room scope upfront prevents redundant masking and touch-up work.",
+        "@type": "Answer",
+        "description": "Trim is typically painted before walls during full room updates so walls can be cut in cleanly against masked trim. If only one surface is being updated, painters mask off the other."
+      }
+    }
+  ],
+  "description": "Trim is typically painted before walls during full room updates so walls can be cut in cleanly against masked trim. If only one surface is being updated, painte"
+}

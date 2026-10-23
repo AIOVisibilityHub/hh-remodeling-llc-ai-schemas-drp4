@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-paint-touch-up-repair-take-to-dry-and-finish",
+  "name": "How long does a paint touch-up repair take to dry and finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a paint touch-up repair take to dry and finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most spot paint touch-ups dry to the touch within one to two hours, but the entire repair process takes half a day to a full day depending on prep work. If the touch-up involves patching drywall holes or gouges, the spackle or joint compound must fully dry and be sanded flat before applying primer and topcoats. Acrylic latex paint usually cures fully over two to three weeks, during which you should avoid scrubbing the spot.",
+        "@type": "Answer",
+        "description": "Paint dries to the touch in 1 to 2 hours, but underlying drywall compound prep can extend work to half a day. Full curing takes two to three weeks."
+      }
+    }
+  ],
+  "description": "Paint dries to the touch in 1 to 2 hours, but underlying drywall compound prep can extend work to half a day. Full curing takes two to three weeks."
+}

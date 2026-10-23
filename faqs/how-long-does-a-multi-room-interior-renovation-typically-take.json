@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-multi-room-interior-renovation-typically-take",
+  "name": "How long does a multi-room interior renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a multi-room interior renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a multi-room interior renovation typically ranges from four to twelve weeks, depending on the overall scope and structural changes. A cosmetic remodel covering paint, trim, and flooring across several rooms moves quickly. In contrast, complex projects involving wall removals, full kitchen gutting, or tile-heavy bathroom additions require more time for plumbing, electrical sub-trades, and finish carpentry. Unforeseen framing adjustments, custom materials, or permit scheduling can also extend the schedule. A structured scope helps keep trades moving sequentially through each stage.",
+        "@type": "Answer",
+        "description": "A multi-room renovation usually takes between 4 and 12 weeks, depending on structural changes, trade coordination, and custom tile or trim work."
+      }
+    }
+  ],
+  "description": "A multi-room renovation usually takes between 4 and 12 weeks, depending on structural changes, trade coordination, and custom tile or trim work."
+}

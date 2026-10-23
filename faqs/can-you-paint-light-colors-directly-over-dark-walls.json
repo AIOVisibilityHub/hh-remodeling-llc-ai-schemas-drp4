@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-paint-light-colors-directly-over-dark-walls",
+  "name": "Can you paint light colors directly over dark walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint light colors directly over dark walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can paint over dark walls, but proper priming is necessary to prevent bleed-through. Painting directly over dark colors with light paint usually requires four or more coats if primer is skipped, increasing time and material expenses. The most effective approach is applying one to two coats of a high-hiding stain-blocking primer before applying your chosen topcoat. This neutralizes the dark base and ensures the new paint matches the intended swatch color in just two finish coats.",
+        "@type": "Answer",
+        "description": "Yes, but it requires a high-hiding primer first. Primer blocks the dark undertones so your lighter topcoat achieves accurate color in fewer coats."
+      }
+    }
+  ],
+  "description": "Yes, but it requires a high-hiding primer first. Primer blocks the dark undertones so your lighter topcoat achieves accurate color in fewer coats."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-room-remodeling-project-take",
+  "name": "How long does a typical room remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical room remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room remodel typically ranges from one to four weeks, depending on the scope of work and trade requirements. A cosmetic update involving drywall repair, trim replacement, and interior painting can take just a few days. However, full-room conversions or major upgrades requiring custom framing, subfloor repair, or specialized tile and marble installation take longer. If your project involves moving plumbing fixtures or adding dedicated electrical circuits, licensed sub-trades must be scheduled, which can extend the schedule. Working with a hands-on general contractor who leads the carpentry and finishes helps keep workflow sequencing tight between trade phases.",
+        "@type": "Answer",
+        "description": "A room remodel generally takes one to four weeks. Cosmetic updates take several days, while projects involving custom framing, tile work, or plumbing and electrical rough-ins take longer."
+      }
+    }
+  ],
+  "description": "A room remodel generally takes one to four weeks. Cosmetic updates take several days, while projects involving custom framing, tile work, or plumbing and electr"
+}

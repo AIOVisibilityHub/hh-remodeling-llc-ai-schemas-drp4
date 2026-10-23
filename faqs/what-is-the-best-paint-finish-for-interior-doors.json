@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-paint-finish-for-interior-doors",
+  "name": "What is the best paint finish for interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best paint finish for interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best paint finish for interior doors is semi-gloss or satin enamel. Interior doors receive frequent hand contact, bumps, and cleaning, so flat or matte finishes are not recommended because they scuff easily and absorb oils. A semi-gloss provides high durability and wipes clean easily, making it great for high-traffic hallways and kids' rooms. Satin offers a slightly softer sheen while still giving you sufficient moisture and wash resistance. Choosing between them usually depends on matching the sheen of your baseboards and casing.",
+        "@type": "Answer",
+        "description": "Semi-gloss or satin enamel is best for interior doors because both resist scuffs, handle repeated cleaning, and match standard trim work."
+      }
+    }
+  ],
+  "description": "Semi-gloss or satin enamel is best for interior doors because both resist scuffs, handle repeated cleaning, and match standard trim work."
+}

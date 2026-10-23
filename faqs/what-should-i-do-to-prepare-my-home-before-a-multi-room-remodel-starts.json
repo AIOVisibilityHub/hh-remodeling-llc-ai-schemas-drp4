@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-to-prepare-my-home-before-a-multi-room-remodel-starts",
+  "name": "What should I do to prepare my home before a multi-room remodel starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home before a multi-room remodel starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home involves clearing personal belongings and creating clear pathways for trades. Completely empty out cabinets, closets, and furniture from the work areas before work begins to prevent dust accumulation and accidental damage. Decide on a designated path for materials and equipment, and identify an undisturbed room or garage bay for material staging. Discussing pet containment, daily work hours, and lockbox access with your contractor beforehand ensures a smooth start without project delays.",
+        "@type": "Answer",
+        "description": "Clear out all furniture, decor, and cabinets from the work zones, designate a staging area for tools, and arrange safe containment for pets."
+      }
+    }
+  ],
+  "description": "Clear out all furniture, decor, and cabinets from the work zones, designate a staging area for tools, and arrange safe containment for pets."
+}

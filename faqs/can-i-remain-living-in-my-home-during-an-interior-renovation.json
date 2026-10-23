@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remain-living-in-my-home-during-an-interior-renovation",
+  "name": "Can I remain living in my home during an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remain living in my home during an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home depends on which rooms are being renovated and the level of disruption to essential services. If work is limited to a basement, guest bath, or single bedroom, homeowners generally remain in the house with proper dust containment and work-zone barriers in place. If the project involves your only full bathroom or a complete kitchen tear-out, living through the renovation requires setting up temporary cooking areas or finding short-term accommodations during intensive phases like framing, subfloor work, and drywall sanding.",
+        "@type": "Answer",
+        "description": "Yes, for isolated areas like basements or spare rooms. Whole-home remodels or sole-bathroom and kitchen projects often require temporary arrangements during heavy demolition and dust phases."
+      }
+    }
+  ],
+  "description": "Yes, for isolated areas like basements or spare rooms. Whole-home remodels or sole-bathroom and kitchen projects often require temporary arrangements during hea"
+}

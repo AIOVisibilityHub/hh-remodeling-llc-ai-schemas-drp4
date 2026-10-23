@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-drywall-repair-patches-need-primer-before-touching-up-paint",
+  "name": "Do drywall repair patches need primer before touching up paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do drywall repair patches need primer before touching up paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patches must always be sealed with a dedicated primer before applying wall paint. Unprimed joint compound absorbs paint differently than the surrounding painted paper face, causing a dull, discolored spot called paint flashing. Applying a quick-drying primer seals the porous mud, ensures consistent color absorption, and helps the finish sheen blend evenly with the rest of your wall.",
+        "@type": "Answer",
+        "description": "Yes, joint compound is porous and must be primed first; skipping primer causes the touched-up area to absorb paint unevenly and leave a dull, noticeable spot."
+      }
+    }
+  ],
+  "description": "Yes, joint compound is porous and must be primed first; skipping primer causes the touched-up area to absorb paint unevenly and leave a dull, noticeable spot."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/in-what-order-are-rooms-and-surfaces-finished-during-a-full-remodel",
+  "name": "In what order are rooms and surfaces finished during a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "In what order are rooms and surfaces finished during a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive interior remodel follows an orderly sequence to protect newly installed materials and prevent rework. Construction starts with demolition and structural framing, followed by running rough-in plumbing, electrical, and HVAC lines inside open wall cavities. After local building code inspections confirm those rough-ins are compliant, crews hang, tape, and texture drywall. Next, installers lay tile or hardwood flooring and set custom cabinets, followed by finish carpentry such as baseboards, door casings, and trim. Final paint, plumbing fixture connections, electrical plate installation, and a detailed final cleanup complete the project.",
+        "@type": "Answer",
+        "description": "Work proceeds from demolition and framing to mechanical rough-ins, drywall, tile and flooring, cabinetry, finish trim carpentry, and final paint."
+      }
+    }
+  ],
+  "description": "Work proceeds from demolition and framing to mechanical rough-ins, drywall, tile and flooring, cabinetry, finish trim carpentry, and final paint."
+}

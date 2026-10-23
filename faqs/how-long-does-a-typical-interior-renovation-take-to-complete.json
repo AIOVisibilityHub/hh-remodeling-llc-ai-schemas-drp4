@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-interior-renovation-take-to-complete",
+  "name": "How long does a typical interior renovation take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior renovation take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior renovation depends directly on the project's scope, structural changes, and finish details. A focused project like a standard bathroom remodel or cosmetic room update often takes two to four weeks. Full-scale interior renovations involving kitchens, finished basements, or multiple living spaces typically take anywhere from six to twelve weeks. The primary factors affecting this schedule include material lead times for custom cabinets or specialty tile, framing alterations, and the coordination of licensed trades for plumbing and electrical rough-ins before drywall and finish carpentry can begin.",
+        "@type": "Answer",
+        "description": "A standard single-room update takes 2 to 4 weeks, while full interior remodels or basements take 6 to 12 weeks depending on custom materials and structural scope."
+      }
+    }
+  ],
+  "description": "A standard single-room update takes 2 to 4 weeks, while full interior remodels or basements take 6 to 12 weeks depending on custom materials and structural scop"
+}

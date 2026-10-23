@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-storm-damaged-baseboards-and-window-trim-be-saved-or-must-they-be-replaced",
+  "name": "Can storm-damaged baseboards and window trim be saved, or must they be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can storm-damaged baseboards and window trim be saved, or must they be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm-driven rain entering around window sills and doors often causes wood trim to swell, warp, cup, or rot. While swollen wood might shrink slightly as it dries, it rarely returns to its original straight profile and usually pulls away from the wall. In minor cases with solid wood, the trim can be dried, sanded, re-nailed, caulked, and repainted. However, if the trim is made of medium-density fiberboard (MDF) or shows signs of rot, it must be removed and replaced with new finish carpentry.",
+        "@type": "Answer",
+        "description": "Solid wood with minor swelling can sometimes be dried, sanded, and repainted, but swollen MDF or warped, rotting trim must be replaced with new molding."
+      }
+    }
+  ],
+  "description": "Solid wood with minor swelling can sometimes be dried, sanded, and repainted, but swollen MDF or warped, rotting trim must be replaced with new molding."
+}

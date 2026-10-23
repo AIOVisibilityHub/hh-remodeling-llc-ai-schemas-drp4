@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-are-interior-walls-treated-and-painted-after-water-or-leak-damage",
+  "name": "How are interior walls treated and painted after water or leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are interior walls treated and painted after water or leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water-damaged walls require addressing the underlying leak first, followed by structural drywall assessment before any painting begins. Soft, sagging, or moldy drywall must be cut out and replaced with fresh sheetrock rather than merely covered with paint. Once dry, sound areas with minor surface discoloration must be sealed with a specialized stain-blocking primer, such as an oil-based or shellac primer, to lock in water stains. Standard latex paint applied directly over water marks will allow the brown discoloration to bleed through within weeks. After priming, two coats of matching wall paint restore a uniform appearance.",
+        "@type": "Answer",
+        "description": "After fixing the leak, replace soft drywall, sand the patch, seal water marks with a stain-blocking primer, and apply two finish coats to prevent stain bleed-through."
+      }
+    }
+  ],
+  "description": "After fixing the leak, replace soft drywall, sand the patch, seal water marks with a stain-blocking primer, and apply two finish coats to prevent stain bleed-th"
+}

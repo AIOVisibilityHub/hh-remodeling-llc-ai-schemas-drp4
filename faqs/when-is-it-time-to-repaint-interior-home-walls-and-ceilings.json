@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-it-time-to-repaint-interior-home-walls-and-ceilings",
+  "name": "When is it time to repaint interior home walls and ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to repaint interior home walls and ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repainting is typically recommended every five to seven years for high-traffic zones like hallways, kitchens, and family rooms, while bedrooms and formal spaces may last longer. Clear signs you need a fresh coat include scuffed baseboards, fading color, peeling around moisture-prone areas like bathrooms, or visible settling cracks at corners and door frames. If your home has undergone settling repairs or remodeling, repainting unifies the repaired drywall with existing walls.",
+        "@type": "Answer",
+        "description": "Repaint every five to seven years, or sooner if you notice scuffs, drywall settling cracks, fading, or peeling near humid bathrooms and kitchens."
+      }
+    }
+  ],
+  "description": "Repaint every five to seven years, or sooner if you notice scuffs, drywall settling cracks, fading, or peeling near humid bathrooms and kitchens."
+}

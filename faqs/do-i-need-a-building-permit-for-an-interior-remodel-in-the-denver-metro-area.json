@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-an-interior-remodel-in-the-denver-metro-area",
+  "name": "Do I need a building permit for an interior remodel in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for an interior remodel in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building permits are generally required for structural alterations, expanding footprints, moving load-bearing walls, adding basement bedrooms, and altering electrical or plumbing systems. Simple cosmetic refreshes, such as replacing existing drywall, interior painting, updating baseboards, or swapping tile within an existing footprint, usually do not require permits. In communities across the Denver metro area, including Centennial and Parker, local building departments enforce specific codes for egress windows in basements and dedicated circuits in kitchens. Your general contractor determines when local jurisdictional permits are needed and coordinates the required inspections with municipal officials.",
+        "@type": "Answer",
+        "description": "Permits are required for structural changes, moving plumbing or wiring, and basement egress windows, but purely cosmetic updates like painting or tile replacement usually do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required for structural changes, moving plumbing or wiring, and basement egress windows, but purely cosmetic updates like painting or tile replaceme"
+}

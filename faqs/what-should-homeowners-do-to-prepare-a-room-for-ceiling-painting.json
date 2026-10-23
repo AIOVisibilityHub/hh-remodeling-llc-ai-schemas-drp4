@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-homeowners-do-to-prepare-a-room-for-ceiling-painting",
+  "name": "What should homeowners do to prepare a room for ceiling painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should homeowners do to prepare a room for ceiling painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the painting crew arrives, clear personal items, fragile decor, and small furniture from the room. Larger furniture can often be grouped in the center of the space so painters can cover it thoroughly with clean plastic sheeting. Remove window treatments and lower light fixture globes or shades if accessible. Point out any recurring drywall cracks, past water damage, or planned lighting updates to the project lead beforehand. Clear pathways from the exterior entrance to the workspace also help crews move ladders and drop cloths safely.",
+        "@type": "Answer",
+        "description": "Clear out small items and decor, cluster large furniture in the room center for plastic covering, and point out past drywall leaks to the crew."
+      }
+    }
+  ],
+  "description": "Clear out small items and decor, cluster large furniture in the room center for plastic covering, and point out past drywall leaks to the crew."
+}

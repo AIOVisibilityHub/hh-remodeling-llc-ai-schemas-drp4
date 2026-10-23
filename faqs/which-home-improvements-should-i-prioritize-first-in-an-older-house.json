@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/which-home-improvements-should-i-prioritize-first-in-an-older-house",
+  "name": "Which home improvements should I prioritize first in an older house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which home improvements should I prioritize first in an older house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start home renovations with foundational and mechanical systems before moving to high-end cosmetic upgrades. If your home has roof leaks, storm damage, or outdated plumbing and wiring, fix those issues first to avoid ruining new drywall, flooring, or cabinetry later. Once structural framing, electrical rough-ins, and plumbing lines are sound, address key functional spaces like kitchens and bathrooms. Finish carpentry, custom moldings, tile backsplashes, and interior painting should always be completed last to protect new finishes from damage during heavy construction work.",
+        "@type": "Answer",
+        "description": "Prioritize structural repairs, storm damage, plumbing, and electrical work before investing in cosmetic upgrades like finish carpentry, tile, and interior painting."
+      }
+    }
+  ],
+  "description": "Prioritize structural repairs, storm damage, plumbing, and electrical work before investing in cosmetic upgrades like finish carpentry, tile, and interior paint"
+}

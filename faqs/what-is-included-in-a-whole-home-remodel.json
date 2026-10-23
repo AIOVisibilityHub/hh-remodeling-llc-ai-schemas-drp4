@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-included-in-a-whole-home-remodel",
+  "name": "What is included in a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel involves updating multiple living areas simultaneously, often reconfiguring the interior layout from top to bottom. This typically encompasses kitchen and bathroom renovations, basement finishing, drywall repair, custom framing, interior painting, and finish carpentry like baseboards and trim. When managing a project of this scale, homeowners often choose between gutting the entire home at once or tackling it in distinct phases. Doing everything at once is usually more cost-effective overall and finishes faster, but it requires temporarily vacating the home. Phasing the work allows you to live on-site in unaffected rooms, though it extends total construction time across several months.",
+        "@type": "Answer",
+        "description": "A whole-home remodel involves renovating multiple rooms at once, including kitchens, bathrooms, basements, custom framing, drywall, finish carpentry, and flooring updates."
+      }
+    }
+  ],
+  "description": "A whole-home remodel involves renovating multiple rooms at once, including kitchens, bathrooms, basements, custom framing, drywall, finish carpentry, and floori"
+}

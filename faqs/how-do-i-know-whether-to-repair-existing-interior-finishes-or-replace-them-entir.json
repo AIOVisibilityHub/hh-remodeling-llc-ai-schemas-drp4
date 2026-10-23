@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-whether-to-repair-existing-interior-finishes-or-replace-them-entir",
+  "name": "How do I know whether to repair existing interior finishes or replace them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether to repair existing interior finishes or replace them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing or repairing existing elements is often the best choice if the underlying structural framing and layout remain solid. For instance, solid interior doors, decorative trim, or sound drywall with minor surface blemishes can be repaired, prepped, and repainted for a fraction of replacement costs. However, full replacement is necessary when water damage has softened wood framing, drywall has buckled, or subfloors cannot support new tile and stone. An on-site assessment helps determine if materials retain sufficient structural integrity to restore.",
+        "@type": "Answer",
+        "description": "Keep and refinish components if the underlying wood or substrate is structurally sound; replace them entirely if there is persistent moisture damage, rot, or major warping."
+      }
+    }
+  ],
+  "description": "Keep and refinish components if the underlying wood or substrate is structurally sound; replace them entirely if there is persistent moisture damage, rot, or ma"
+}

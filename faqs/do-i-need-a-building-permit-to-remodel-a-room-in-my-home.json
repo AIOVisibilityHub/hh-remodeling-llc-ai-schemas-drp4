@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-remodel-a-room-in-my-home",
+  "name": "Do I need a building permit to remodel a room in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to remodel a room in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need permits if your room renovation alters the structural framing, removes load-bearing walls, adds new windows, or changes rough plumbing and electrical systems. Simple cosmetic refreshes involving drywall repairs, interior painting, baseboards, finish carpentry, and tile replacement generally do not require building permits. In Denver area jurisdictions, building departments enforce strict requirements on trade work. HH Remodeling handles the framing, drywall, and finish work directly while coordinating licensed trade partners for mechanical changes to ensure building code compliance.",
+        "@type": "Answer",
+        "description": "Permits are required for structural alterations, framing changes, and major electrical or plumbing updates, but simple drywall, trim, and painting projects do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required for structural alterations, framing changes, and major electrical or plumbing updates, but simple drywall, trim, and painting projects do n"
+}

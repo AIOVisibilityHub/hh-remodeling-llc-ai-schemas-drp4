@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-painting-new-drywall-versus-repainting-existing-w",
+  "name": "What is the difference between painting new drywall versus repainting existing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between painting new drywall versus repainting existing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New drywall requires specific prep work that previously painted surfaces do not need. Fresh drywall absorbs moisture unevenly, meaning you must thoroughly wipe down drywall dust and apply a dedicated PVA (polyvinyl acetate) drywall primer before any finish coats. Skipping this step leads to flash marks and peeling. In contrast, previously painted drywall requires patching holes, light sanding, and cleaning off grease or residue, but often only needs spot priming where repairs occurred unless you are making a drastic color transition.",
+        "@type": "Answer",
+        "description": "New drywall requires wiping away dust and using a dedicated PVA primer to seal porous joint compound. Existing walls usually just need light cleaning, minor patching, and spot priming."
+      }
+    }
+  ],
+  "description": "New drywall requires wiping away dust and using a dedicated PVA primer to seal porous joint compound. Existing walls usually just need light cleaning, minor pat"
+}

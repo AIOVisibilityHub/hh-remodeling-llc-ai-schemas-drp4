@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-best-paint-sheen-for-interior-baseboards-and-trim",
+  "name": "What is the best paint sheen for interior baseboards and trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best paint sheen for interior baseboards and trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Semi-gloss and satin are the most common sheens for interior trim, baseboards, and door casings. Semi-gloss provides a durable, moisture-resistant finish that resists scuffs and wipes down easily, making it the practical choice for high-traffic baseboards and bathroom molding. Satin offers a softer, lower-reflective look that conceals minor surface dents better than high-gloss finishes while still allowing routine cleaning. The tradeoff comes down to durability versus imperfection concealment: higher gloss resists abrasion but highlights every wood gouge, whereas lower sheen softens flaws but requires gentler scrubbing.",
+        "@type": "Answer",
+        "description": "Semi-gloss is best for maximum scuff resistance and easy cleaning. Satin provides a softer look that hides minor wood imperfections while remaining wipeable."
+      }
+    }
+  ],
+  "description": "Semi-gloss is best for maximum scuff resistance and easy cleaning. Satin provides a softer look that hides minor wood imperfections while remaining wipeable."
+}

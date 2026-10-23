@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-house-while-undergoing-a-whole-home-remodel",
+  "name": "Can I stay in my house while undergoing a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while undergoing a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your house depends on the scope of work and which critical spaces are under construction. If your project includes your primary kitchen and all bathrooms at the same time, living on-site becomes impractical due to disconnected plumbing and daily utility shutoffs. Dust control barriers, negative air setups, and noise also create significant disruption. If your budget does not allow for off-site rental housing, a practical tradeoff is staging the remodel in distinct zones, keeping a functional bathroom, bedroom, and temporary kitchenette intact while crews work on the rest of the house.",
+        "@type": "Answer",
+        "description": "You can stay if work is phased to keep a functioning bathroom and temporary kitchen open, but full gut renovations usually require temporarily moving out."
+      }
+    }
+  ],
+  "description": "You can stay if work is phased to keep a functioning bathroom and temporary kitchen open, but full gut renovations usually require temporarily moving out."
+}

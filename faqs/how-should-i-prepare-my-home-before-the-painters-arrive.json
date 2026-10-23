@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-the-painters-arrive",
+  "name": "How should I prepare my home before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our crew arrives, clear personal clutter, knick-knacks, and fragile items from shelves, tables, and mantels. Remove wall decor, picture frames, and window treatments like curtains. While our crew handles heavy furniture shifting, sliding large pieces toward the center of each room gives us immediate access to walls and baseboards. It is also helpful to establish a designated staging area for paint supplies and make arrangements for pets so they stay comfortable and away from wet paint and open work areas.",
+        "@type": "Answer",
+        "description": "Remove wall art, decor, and small items, pull larger furniture toward the center of rooms, and keep pets in a separate, secure area while work is underway."
+      }
+    }
+  ],
+  "description": "Remove wall art, decor, and small items, pull larger furniture toward the center of rooms, and keep pets in a separate, secure area while work is underway."
+}

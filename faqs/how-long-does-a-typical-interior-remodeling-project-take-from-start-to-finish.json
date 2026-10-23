@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-interior-remodeling-project-take-from-start-to-finish",
+  "name": "How long does a typical interior remodeling project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior remodeling project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration depends entirely on the size of the space, structural changes, and material availability. Cosmetic updates, such as a bathroom refresh with new tile and fixtures, can take two to three weeks. In contrast, comprehensive kitchen overhauls or full basement finishing projects generally require four to eight weeks or more. Factors that influence the timeline include lead times for custom cabinets, necessary municipal inspections for plumbing and electrical work, and drying times required between drywall mudding, painting, and tile setting.",
+        "@type": "Answer",
+        "description": "Cosmetic updates take two to three weeks, while full kitchen remodels or finished basements typically require four to eight weeks depending on scope and inspections."
+      }
+    }
+  ],
+  "description": "Cosmetic updates take two to three weeks, while full kitchen remodels or finished basements typically require four to eight weeks depending on scope and inspect"
+}

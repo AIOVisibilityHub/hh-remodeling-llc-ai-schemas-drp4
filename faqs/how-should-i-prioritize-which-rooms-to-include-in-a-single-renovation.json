@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prioritize-which-rooms-to-include-in-a-single-renovation",
+  "name": "How should I prioritize which rooms to include in a single renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prioritize which rooms to include in a single renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize rooms based on structural connectivity, plumbing lines, and your daily household needs. Remodeling spaces that share walls or continuous flooring—such as an open-concept kitchen, dining room, and living area—makes logistical sense to tackle simultaneously. Addressing structural or infrastructure repairs first prevents new finish carpentry, tile, or drywall from getting damaged later. If your household needs functional living space throughout the remodel, selecting one primary living wing or bathroom to stay intact before starting the next phase is essential.",
+        "@type": "Answer",
+        "description": "Group connected spaces that share continuous flooring or walls, address structural and plumbing needs first, and preserve essential living areas."
+      }
+    }
+  ],
+  "description": "Group connected spaces that share continuous flooring or walls, address structural and plumbing needs first, and preserve essential living areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-can-you-match-paint-if-you-don-t-have-the-original-can-or-color-name",
+  "name": "How can you match paint if you don’t have the original can or color name?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can you match paint if you don’t have the original can or color name?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching paint without an existing can requires obtaining a physical sample. Home improvement and paint stores use spectrophotometer color-matching technology, which requires a clean sample at least the size of a quarter. You can slice a shallow piece of drywall paper from behind a baseboard, light switch plate, or inside a closet. Keep in mind that sheen (flat, eggshell, satin) must also be matched accurately, as incorrect sheen will stand out under room lighting.",
+        "@type": "Answer",
+        "description": "Cut a quarter-sized drywall paper sample from an inconspicuous spot, such as behind an outlet cover, and take it to a paint supplier for digital color and sheen matching."
+      }
+    }
+  ],
+  "description": "Cut a quarter-sized drywall paper sample from an inconspicuous spot, such as behind an outlet cover, and take it to a paint supplier for digital color and sheen"
+}

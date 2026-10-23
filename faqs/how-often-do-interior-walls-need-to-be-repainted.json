@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-often-do-interior-walls-need-to-be-repainted",
+  "name": "How often do interior walls need to be repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often do interior walls need to be repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior walls should typically be repainted every five to seven years, though high-traffic spaces may need attention sooner. Hallways, entryways, and children's play areas often collect scuffs, handprints, and corner chips within three to four years. Bathrooms and kitchens experience humidity and grease buildup that can cause paint to lose its adhesion or sheen over time. Formal dining rooms, guest bedrooms, and home offices often look fresh for seven to ten years. If washing walls leaves permanent discoloration or peeling around baseboards appears, it is time for a fresh coat.",
+        "@type": "Answer",
+        "description": "Most interior walls need repainting every five to seven years, though busy hallways and moisture-prone bathrooms often need fresh paint in three to four years."
+      }
+    }
+  ],
+  "description": "Most interior walls need repainting every five to seven years, though busy hallways and moisture-prone bathrooms often need fresh paint in three to four years."
+}

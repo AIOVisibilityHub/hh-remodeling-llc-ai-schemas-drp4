@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-my-family-live-in-the-house-while-an-interior-layout-is-being-reconfigured",
+  "name": "Can my family live in the house while an interior layout is being reconfigured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family live in the house while an interior layout is being reconfigured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often remain in your home if the reconfiguration is confined to a single room, but full main-floor reconfigurations are significantly more disruptive. When structural walls, kitchen cabinets, or main living room partitions are being removed, expect substantial construction dust, temporary loss of utilities, and active demolition noise. HH Remodeling establishes plastic dust barriers and works systematically through rough framing and drywall phases to minimize disruption, but setting up a clean temporary living area away from the work zone is strongly recommended.",
+        "@type": "Answer",
+        "description": "Yes, for localized room projects. If central living areas or utilities are being reworked, setting up an isolated temporary living space is recommended."
+      }
+    }
+  ],
+  "description": "Yes, for localized room projects. If central living areas or utilities are being reworked, setting up an isolated temporary living space is recommended."
+}

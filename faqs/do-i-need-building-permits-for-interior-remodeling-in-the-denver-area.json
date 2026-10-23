@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-building-permits-for-interior-remodeling-in-the-denver-area",
+  "name": "Do I need building permits for interior remodeling in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need building permits for interior remodeling in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are generally required whenever a home improvement project alters the structural framing, electrical wiring, or plumbing lines of a house. Simple cosmetic updates—such as interior painting, replacing moldings, patching drywall, or swapping out existing tile surfaces—rarely need municipal building permits. However, room additions, basement finishes, and knocking down load-bearing walls must comply with local municipal building codes across the Denver metro area. A licensed general contractor reviews your design plans and arranges permits before demolition begins to ensure full code compliance.",
+        "@type": "Answer",
+        "description": "Permits are required for framing, plumbing, and electrical changes, while surface updates like painting, drywall repairs, and finish trim generally do not need them."
+      }
+    }
+  ],
+  "description": "Permits are required for framing, plumbing, and electrical changes, while surface updates like painting, drywall repairs, and finish trim generally do not need"
+}

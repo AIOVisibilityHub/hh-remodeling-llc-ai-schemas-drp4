@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-paint-an-average-interior-room",
+  "name": "How long does it take to paint an average interior room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint an average interior room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting a standard-sized room usually takes one to two days, depending on wall condition and drying times. Minor drywall repairs, spackling, sanding, and taping take up the first half of the project. Applying primer and two finish coats requires adequate dry time between layers so the paint cures without streaking. If a project involves repairing extensive settlement cracks, removing textured finishes, or painting high-ceiling areas, the timeline can extend by an extra day. Working with a dedicated finish crew keeps the turnaround tight by handling both the drywall patches and painting concurrently.",
+        "@type": "Answer",
+        "description": "A typical room takes one to two days, allowing enough time for drywall patching, sanding, taping, and two coats of paint to dry properly."
+      }
+    }
+  ],
+  "description": "A typical room takes one to two days, allowing enough time for drywall patching, sanding, taping, and two coats of paint to dry properly."
+}

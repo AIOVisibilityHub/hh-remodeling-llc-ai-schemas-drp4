@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-to-change-my-interior-floor-plan-in-the-denver-area",
+  "name": "Do I need a building permit to change my interior floor plan in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to change my interior floor plan in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required across the Denver metro area whenever you alter structural framing, move load-bearing walls, or modify electrical, mechanical, and plumbing systems. Cosmetic changes like replacing drywall or trim do not require permits, but moving walls does to ensure structural safety and code compliance. HH Remodeling assists in identifying code requirements across local municipalities like Denver, Aurora, and Centennial, coordinating the necessary trade work and inspections so your project is safely built and fully documented.",
+        "@type": "Answer",
+        "description": "Yes, moving load-bearing walls or altering electrical and plumbing lines requires municipal building permits and inspections throughout the Denver metro area."
+      }
+    }
+  ],
+  "description": "Yes, moving load-bearing walls or altering electrical and plumbing lines requires municipal building permits and inspections throughout the Denver metro area."
+}

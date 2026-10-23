@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-build-out-or-build-up-when-planning-a-room-addition",
+  "name": "Should I build out or build up when planning a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build out or build up when planning a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building out expands your home's ground footprint into the yard, while building up adds a second story or raises an existing roofline. Building out is typically less disruptive to your daily living space and avoids extensive reinforcement of lower-level load-bearing walls. However, it consumes yard space and requires foundation excavation. Building up preserves your yard but demands engineering checks to ensure existing foundations and framing can support extra weight, often requiring temporary relocation during roof removal. Evaluating your lot boundaries, budget, and willingness to vacate parts of the home will guide the best approach.",
+        "@type": "Answer",
+        "description": "Building out preserves interior living during construction but takes yard space; building up saves yard area but requires major structural reinforcement and roof work."
+      }
+    }
+  ],
+  "description": "Building out preserves interior living during construction but takes yard space; building up saves yard area but requires major structural reinforcement and roo"
+}

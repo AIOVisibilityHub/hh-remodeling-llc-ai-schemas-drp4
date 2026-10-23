@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-prepare-before-requesting-an-on-site-remodeling-consultation",
+  "name": "What should I prepare before requesting an on-site remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before requesting an on-site remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your contractor arrives for an estimate, identify your functional goals, gather visual inspiration, and note any physical repairs needed in surrounding spaces. Measure the room roughly and determine if your priority is cosmetic updates—such as new molding, modern paint, and upgraded tile—or structural changes like removing non-load-bearing partition walls. It also helps to inspect for underlying issues like prior water stains or uneven subfloors. Having a clear budget limit and an open timeline ready to discuss ensures accurate initial pricing and trade planning.",
+        "@type": "Answer",
+        "description": "Outline your primary project goals, gather design references, set your overall budget limit, and identify any pre-existing wall or water damage in the workspace."
+      }
+    }
+  ],
+  "description": "Outline your primary project goals, gather design references, set your overall budget limit, and identify any pre-existing wall or water damage in the workspace"
+}

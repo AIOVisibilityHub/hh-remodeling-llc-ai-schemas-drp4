@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-home-addition-in-the-denver-metro-area",
+  "name": "Do I need a building permit for a home addition in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a home addition in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, expanding your home's footprint or modifying rooflines, framing, electrical systems, and plumbing requires municipal building permits across Denver, Centennial, Aurora, and neighboring communities. Work must comply with local building codes, energy codes, and setback regulations. A general contractor oversees the permitting phase and coordinates inspections at crucial milestones, including rough framing, electrical, plumbing, insulation, and final walk-throughs, ensuring your new space meets safety standards before interior drywall and trim are completed.",
+        "@type": "Answer",
+        "description": "Yes, home additions require building permits and city inspections for structural framing, mechanical tie-ins, and electrical work to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, home additions require building permits and city inspections for structural framing, mechanical tie-ins, and electrical work to ensure code compliance."
+}

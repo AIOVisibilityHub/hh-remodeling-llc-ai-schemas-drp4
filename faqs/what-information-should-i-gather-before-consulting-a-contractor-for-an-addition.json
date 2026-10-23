@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-information-should-i-gather-before-consulting-a-contractor-for-an-addition",
+  "name": "What information should I gather before consulting a contractor for an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before consulting a contractor for an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare effectively, gather your property survey or plot plan, outline your ideal floor plan, and determine your target budget including a contingency fund. You should also pull together any HOA covenants regarding exterior materials and setback requirements. Consider how heating and cooling will reach the new space, and identify whether the addition will impact existing utilities or drainage. Providing these details during your initial walk-through allows HH Remodeling to give practical feedback on framing layout, sub-trade requirements, and finish options like tile, paint, and trim.",
+        "@type": "Answer",
+        "description": "Gather your property plot plan, HOA guidelines, target budget, and a basic sketch of your intended layout, including heating and electrical needs."
+      }
+    }
+  ],
+  "description": "Gather your property plot plan, HOA guidelines, target budget, and a basic sketch of your intended layout, including heating and electrical needs."
+}

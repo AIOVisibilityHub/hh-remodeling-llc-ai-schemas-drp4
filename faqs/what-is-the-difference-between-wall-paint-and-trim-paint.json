@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-wall-paint-and-trim-paint",
+  "name": "What is the difference between wall paint and trim paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wall paint and trim paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wall paint and trim paint require different formulations and sheens because they endure different levels of wear. Trim, baseboards, and interior doors experience frequent contact and scuffing, requiring a harder, more washable finish such as a semi-gloss or satin enamel. Walls are typically coated in eggshell, satin, or matte paints that hide surface irregularities and reduce glare across broad expanses. Using wall paint on trim leads to faster chipping, while shiny wall paint highlights wall imperfections.",
+        "@type": "Answer",
+        "description": "Trim paint uses a harder, more scuff-resistant enamel with a semi-gloss or satin sheen, while wall paint uses softer finishes like eggshell or matte to diffuse light."
+      }
+    }
+  ],
+  "description": "Trim paint uses a harder, more scuff-resistant enamel with a semi-gloss or satin sheen, while wall paint uses softer finishes like eggshell or matte to diffuse"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-drywall-be-repaired-versus-completely-replaced-during-a-remodel",
+  "name": "When should drywall be repaired versus completely replaced during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should drywall be repaired versus completely replaced during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repair addresses localized holes, minor stress cracks, or small water-damaged sections by patching and matching the existing texture. Full replacement is necessary when panels have experienced extensive water saturation, sagging, severe structural shifts, or when underlying framing requires reconfiguration. When remodeling older spaces or addressing past storm or plumbing damage, replacing deteriorated drywall ensures flat surfaces for crisp paint lines, secure baseboards, and proper tile adhesion.",
+        "@type": "Answer",
+        "description": "Patch drywall for minor holes and cracks, but replace entire panels if there is widespread water damage, sagging, or major framing layout changes."
+      }
+    }
+  ],
+  "description": "Patch drywall for minor holes and cracks, but replace entire panels if there is widespread water damage, sagging, or major framing layout changes."
+}

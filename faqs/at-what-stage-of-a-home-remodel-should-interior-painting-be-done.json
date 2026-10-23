@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-of-a-home-remodel-should-interior-painting-be-done",
+  "name": "At what stage of a home remodel should interior painting be done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a home remodel should interior painting be done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodel painting occurs toward the end of a renovation project, immediately after messy construction trades finish their work. The best sequence is to complete structural framing, plumbing, electrical rough-ins, drywall hanging, and initial taping before applying paint. Finish carpentry, such as baseboards and crown molding, is typically primed or painted alongside the walls, with a final touch-up coat applied after flooring and fixtures are installed. Painting too early leaves fresh surfaces exposed to drywall dust, accidental gouges from heavy tools, or trades carrying bulky materials through the space.",
+        "@type": "Answer",
+        "description": "Interior painting happens near the end of a remodel, after drywall and rough carpentry are complete but right before or alongside final flooring and trim touch-ups."
+      }
+    }
+  ],
+  "description": "Interior painting happens near the end of a remodel, after drywall and rough carpentry are complete but right before or alongside final flooring and trim touch-"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-general-contractor-or-separate-subcontractors-for-my-home-remode",
+  "name": "Should I hire a general contractor or separate subcontractors for my home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or separate subcontractors for my home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a single general contractor is usually best for multi-step renovations like kitchen, bath, or basement remodels, while hiring individual trades works better for single, isolated repairs. When you hire independent subcontractors yourself, you bear the burden of scheduling plumbers, electricians, framers, and drywallers in the correct sequence. Any delay from one trade stalls the others. An owner-operated remodeling company handles trade coordination, pulls the necessary permits, and manages the carpentry, tile, and drywall with an in-house crew, saving you time and avoiding scheduling bottlenecks.",
+        "@type": "Answer",
+        "description": "A general contractor coordinates plumbing, electrical, framing, and finish work under one point of contact, avoiding the scheduling conflicts common with individual trades."
+      }
+    }
+  ],
+  "description": "A general contractor coordinates plumbing, electrical, framing, and finish work under one point of contact, avoiding the scheduling conflicts common with indivi"
+}

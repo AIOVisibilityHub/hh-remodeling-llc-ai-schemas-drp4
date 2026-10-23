@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-does-interior-painting-happen-during-a-larger-remodel",
+  "name": "When does interior painting happen during a larger remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does interior painting happen during a larger remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When completing a full kitchen or bathroom remodel, painting is typically scheduled after drywall installation, cabinetry hanging, and tile work, but right around the time finish trim is installed. We often apply the first coat on the walls before finish trim and vanities go in, followed by a final coat and trim painting near the end of the project. This coordinated scheduling prevents accidental dings or dust from other trades from ruining the finished paint.",
+        "@type": "Answer",
+        "description": "Painting happens late in the remodel—after drywall and tile are finished, with final coats and trim paint applied during the final carpentry and finish stages."
+      }
+    }
+  ],
+  "description": "Painting happens late in the remodel—after drywall and tile are finished, with final coats and trim paint applied during the final carpentry and finish stages."
+}

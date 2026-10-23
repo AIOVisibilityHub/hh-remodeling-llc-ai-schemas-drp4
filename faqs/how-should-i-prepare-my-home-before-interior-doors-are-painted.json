@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-interior-doors-are-painted",
+  "name": "How should I prepare my home before interior doors are painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before interior doors are painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painters arrive, clear a clear path through hallways and remove items hanging on the back of doors, such as hooks, mirrors, or organizers. Clear small furniture or rugs within a few feet of the doorway so the crew can set up drop cloths and access the jambs. If your doors have latching issues or stick against the frame, note those beforehand; finish contractors can plane or adjust the door edges before repainting so fresh coats do not rub off.",
+        "@type": "Answer",
+        "description": "Remove hanging items and hooks, clear space around doorways for drop cloths, and point out any sticking or rubbing spots that need trimming before painting."
+      }
+    }
+  ],
+  "description": "Remove hanging items and hooks, clear space around doorways for drop cloths, and point out any sticking or rubbing spots that need trimming before painting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-my-interior-walls-need-a-coat-of-primer-before-painting",
+  "name": "Do my interior walls need a coat of primer before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do my interior walls need a coat of primer before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dedicated primer is necessary when painting over bare drywall patches, drastic color shifts, water stains, or glossy oil-based paints. Fresh joint compound absorbs paint unevenly; without primer, those areas show up as dull, patchy spots known as flashing. If your current walls are in good structural condition and you are applying a similar shade of latex paint, a quality paint-and-primer-in-one product often suffices. However, high-contrast color transitions or walls with repaired water or smoke damage require a stain-blocking primer first to prevent bleed-through into the new topcoat.",
+        "@type": "Answer",
+        "description": "Primer is necessary over bare drywall repairs, stain damage, and extreme color changes. Light repaints over sound latex walls can use paint-and-primer products."
+      }
+    }
+  ],
+  "description": "Primer is necessary over bare drywall repairs, stain damage, and extreme color changes. Light repaints over sound latex walls can use paint-and-primer products."
+}

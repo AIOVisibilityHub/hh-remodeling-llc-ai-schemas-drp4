@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-a-room-needs-a-full-remodel-or-just-cosmetic-updates",
+  "name": "How do I know if a room needs a full remodel or just cosmetic updates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a room needs a full remodel or just cosmetic updates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete remodel is necessary when you want to change room layout, fix underlying structural or moisture damage, or modernize dated finishes. If walls are bowed, framing requires reconfiguration, or drywall has recurring water damage from past leaks, surface-level painting or cosmetic repairs are not enough. Conversely, if the room’s layout, subfloor, and mechanicals are sound, cosmetic updates like new trim, baseboards, and a fresh coat of interior paint can refresh the space at a lower cost. Assessing the condition of your framing, drywall, and subfloor determines whether full renovation or surface restoration makes sense.",
+        "@type": "Answer",
+        "description": "A full remodel is needed if you require layout changes, framing fixes, or hidden damage repairs. If structural framing and surfaces are sound, cosmetic updates like trim and paint suffice."
+      }
+    }
+  ],
+  "description": "A full remodel is needed if you require layout changes, framing fixes, or hidden damage repairs. If structural framing and surfaces are sound, cosmetic updates"
+}

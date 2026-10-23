@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-properly-cover-water-stains-on-a-ceiling-before-painting",
+  "name": "How do you properly cover water stains on a ceiling before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you properly cover water stains on a ceiling before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water stains cannot be hidden with standard paint alone; they will bleed through multiple coats of standard latex. The first step is verifying that the source of the leak—such as roof damage or upper-floor plumbing—is completely fixed and the drywall has dried. Next, scrape any flaking material, patch the drywall as needed, and seal the area with a stain-blocking primer, such as an oil-based or shellac-based formula. Once cured, apply two coats of ceiling paint over the entire expanse to ensure a seamless sheen without visible spot patches.",
+        "@type": "Answer",
+        "description": "Fix the leak, repair damaged drywall, seal the spot with a stain-blocking primer, and paint the entire ceiling so the repair blends seamlessly."
+      }
+    }
+  ],
+  "description": "Fix the leak, repair damaged drywall, seal the spot with a stain-blocking primer, and paint the entire ceiling so the repair blends seamlessly."
+}

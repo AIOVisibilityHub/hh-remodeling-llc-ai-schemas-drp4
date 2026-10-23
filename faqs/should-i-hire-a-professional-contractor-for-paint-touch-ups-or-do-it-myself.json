@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-professional-contractor-for-paint-touch-ups-or-do-it-myself",
+  "name": "Should I hire a professional contractor for paint touch-ups or do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a professional contractor for paint touch-ups or do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a contractor is the practical choice when touch-ups are tied to drywall repairs, water damage, or whole-room finish improvements. A finish contractor brings proper drywall sanding tools, stain-blocking primers, and color-matching expertise to ensure patches do not flash. If you only have two tiny scuffs and original paint in hand, DIY is straightforward; for multiple rooms, high ceilings, or post-renovation punch lists, professional execution ensures clean results.",
+        "@type": "Answer",
+        "description": "DIY works for minor scuffs with leftover paint. Hire a professional if the job involves drywall repair, water stains, high-traffic areas, or matching unknown colors."
+      }
+    }
+  ],
+  "description": "DIY works for minor scuffs with leftover paint. Hire a professional if the job involves drywall repair, water stains, high-traffic areas, or matching unknown co"
+}

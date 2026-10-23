@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-touch-up-baseboards-and-trim-without-repainting-the-whole-room",
+  "name": "Can you touch up baseboards and trim without repainting the whole room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you touch up baseboards and trim without repainting the whole room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, touching up trim requires specific techniques because trim, baseboards, and moldings usually have a semi-gloss or satin enamel finish, which shows lap marks easily. While flat wall paint absorbs light and conceals touch-ups well, higher-sheen trim paint reflects light and reveals brush strokes. For damaged baseboards or casings, lightly sand the nick, spot-prime bare wood, and brush a light coat feathered along the full length of that trim segment.",
+        "@type": "Answer",
+        "description": "Yes, but because trim uses higher-sheen enamel, touch-ups must be lightly sanded and feathered across that trim board segment to prevent visible brush marks."
+      }
+    }
+  ],
+  "description": "Yes, but because trim uses higher-sheen enamel, touch-ups must be lightly sanded and feathered across that trim board segment to prevent visible brush marks."
+}
