@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-cabinet-installation-begins",
+  "name": "How should I prepare my kitchen before cabinet installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before cabinet installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before cabinet installers arrive, clear all items out of your existing cabinets and countertops, and empty the surrounding workspace. If you are handling demolition yourself, remove the old cabinetry, baseboards, and flooring under the footprint if required. Clear a wide path from your main entryway to the kitchen so large cabinet boxes can be brought in without damaging door frames or walls. You should also confirm your appliance specifications, sink dimensions, and plumbing and electrical layout. Having these measurements verified ensures cabinets, filler strips, and cutouts align precisely with your utility connections.",
+        "@type": "Answer",
+        "description": "Empty existing cabinets, clear access pathways, and have appliance and sink specifications confirmed before the crew arrives."
+      }
+    }
+  ],
+  "description": "Empty existing cabinets, clear access pathways, and have appliance and sink specifications confirmed before the crew arrives."
+}

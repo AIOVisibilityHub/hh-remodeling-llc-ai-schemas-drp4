@@ -1,0 +1,305 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "HH Remodeling LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Renovation Permit and Inspection Checklist",
+  "publisher": {
+    "url": "https://www.coloradoremodeling.company",
+    "name": "HH Remodeling LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial",
+      "@type": "City"
+    },
+    {
+      "name": "Greenwood Village",
+      "@type": "City"
+    },
+    {
+      "name": "Foxfield",
+      "@type": "City"
+    },
+    {
+      "name": "Parker",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Commerce City",
+      "@type": "City"
+    },
+    {
+      "name": "Englewood",
+      "@type": "City"
+    },
+    {
+      "name": "Sheridan",
+      "@type": "City"
+    },
+    {
+      "name": "Littleton",
+      "@type": "City"
+    },
+    {
+      "name": "Highlands Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Lone Tree",
+      "@type": "City"
+    },
+    {
+      "name": "Cherry Hills Village",
+      "@type": "City"
+    },
+    {
+      "name": "Bow Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Columbine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Southglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Castlewood",
+      "@type": "City"
+    },
+    {
+      "name": "Dove Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Watkins",
+      "@type": "City"
+    },
+    {
+      "name": "Bennett",
+      "@type": "City"
+    },
+    {
+      "name": "Strasburg",
+      "@type": "City"
+    },
+    {
+      "name": "Thornton",
+      "@type": "City"
+    },
+    {
+      "name": "Northglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Federal Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Westminster",
+      "@type": "City"
+    },
+    {
+      "name": "Arvada",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Golden",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain View",
+      "@type": "City"
+    },
+    {
+      "name": "Wheat Ridge",
+      "@type": "City"
+    },
+    {
+      "name": "Broomfield",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Erie",
+      "@type": "City"
+    },
+    {
+      "name": "Firestone",
+      "@type": "City"
+    },
+    {
+      "name": "Frederick",
+      "@type": "City"
+    },
+    {
+      "name": "Longmont",
+      "@type": "City"
+    },
+    {
+      "name": "Boulder",
+      "@type": "City"
+    },
+    {
+      "name": "Superior",
+      "@type": "City"
+    },
+    {
+      "name": "Elizabeth",
+      "@type": "City"
+    },
+    {
+      "name": "Kiowa",
+      "@type": "City"
+    },
+    {
+      "name": "Byers",
+      "@type": "City"
+    },
+    {
+      "name": "Deer Trail",
+      "@type": "City"
+    },
+    {
+      "name": "Castle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Franktown",
+      "@type": "City"
+    },
+    {
+      "name": "Larkspur",
+      "@type": "City"
+    },
+    {
+      "name": "Sedalia",
+      "@type": "City"
+    },
+    {
+      "name": "Monument",
+      "@type": "City"
+    },
+    {
+      "name": "Palmer Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain",
+      "@type": "City"
+    },
+    {
+      "name": "Security-Widefield",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Kitchen Renovation Permit and Inspection Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 9,
+    "itemListElement": [
+      {
+        "name": "Dimensioned floor plan — Shows cabinet layouts, aisle widths, and appliance clearances to satisfy plan revi…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Dimensioned floor plan — Shows cabinet layouts, aisle widths, and appliance clearances to satisfy plan reviewers."
+      },
+      {
+        "name": "Electrical circuit schematic — Verifies dedicated circuits for dishwashers, microwaves, and small-appliance…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Electrical circuit schematic — Verifies dedicated circuits for dishwashers, microwaves, and small-appliance countertop outlets."
+      },
+      {
+        "name": "Range hood ducting specifications — Confirms exhaust airflow meets local mechanical codes rather than recir…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Range hood ducting specifications — Confirms exhaust airflow meets local mechanical codes rather than recirculating fumes improperly."
+      },
+      {
+        "name": "Plumbing fixture schedule — Identifies sink, faucet, and dishwasher shutoff locations and drain sizing.",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Plumbing fixture schedule — Identifies sink, faucet, and dishwasher shutoff locations and drain sizing."
+      },
+      {
+        "name": "Manufacturer appliance spec sheets — Provides exact cut-out sizes, amp draws, and gas connection requirements.",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Manufacturer appliance spec sheets — Provides exact cut-out sizes, amp draws, and gas connection requirements."
+      },
+      {
+        "name": "Structural framing details — Documents support headers if load-bearing or partition walls are being removed…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Structural framing details — Documents support headers if load-bearing or partition walls are being removed or altered."
+      },
+      {
+        "name": "Building permit application — Secures official municipality approval before physical construction begins.",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Building permit application — Secures official municipality approval before physical construction begins."
+      },
+      {
+        "name": "Rough-in inspection sign-off — Ensures wiring, plumbing, and mechanical rough-ins are inspected before dryw…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Rough-in inspection sign-off — Ensures wiring, plumbing, and mechanical rough-ins are inspected before drywall covers them."
+      },
+      {
+        "name": "Final inspection document — Confirms all finishes, anti-tip brackets, GFCI outlets, and plumbing traps pass…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Final inspection document — Confirms all finishes, anti-tip brackets, GFCI outlets, and plumbing traps pass local standards."
+      }
+    ]
+  },
+  "articleBody": "Pulling permits and preparing for inspections ensures your kitchen remodel is safe, durable, and fully compliant with local municipal codes. Use this checklist to verify your details before and during construction:\n\n- [ ] Dimensioned floor plan — Shows cabinet layouts, aisle widths, and appliance clearances to satisfy plan reviewers.\n- [ ] Electrical circuit schematic — Verifies dedicated circuits for dishwashers, microwaves, and small-appliance countertop outlets.\n- [ ] Range hood ducting specifications — Confirms exhaust airflow meets local mechanical codes rather than recirculating fumes improperly.\n- [ ] Plumbing fixture schedule — Identifies sink, faucet, and dishwasher shutoff locations and drain sizing.\n- [ ] Manufacturer appliance spec sheets — Provides exact cut-out sizes, amp draws, and gas connection requirements.\n- [ ] Structural framing details — Documents support headers if load-bearing or partition walls are being removed or altered.\n- [ ] Building permit application — Secures official municipality approval before physical construction begins.\n- [ ] Rough-in inspection sign-off — Ensures wiring, plumbing, and mechanical rough-ins are inspected before drywall covers them.\n- [ ] Final inspection document — Confirms all finishes, anti-tip brackets, GFCI outlets, and plumbing traps pass local standards.\n\nHow to use this checklist:\nReview each item with your general contractor during the planning phase. Having these items organized avoids stop-work notices and expensive teardowns. For complete remodel management across the Denver metro area, call Abraham Becerra at HH Remodeling LLC at 303-505-0866.",
+  "datePublished": "2026-10-23"
+}

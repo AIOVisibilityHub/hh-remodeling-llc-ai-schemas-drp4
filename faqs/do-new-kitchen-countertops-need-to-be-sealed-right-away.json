@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-new-kitchen-countertops-need-to-be-sealed-right-away",
+  "name": "Do new kitchen countertops need to be sealed right away?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new kitchen countertops need to be sealed right away?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Granite requires regular sealing because it is a porous natural stone, whereas engineered quartz never needs chemical sealers. Granite should generally be resealed every one to two years depending on kitchen use, which prevents oils, citrus, and wine from penetrating the stone. You can test your granite by placing a few drops of water on the surface; if the water beads up, the seal remains intact, but if it darkens the stone, it is time for a fresh coat. Quartz simply cleans up with mild soap and water.",
+        "@type": "Answer",
+        "description": "Granite and natural stone require periodic sealing to resist staining, while engineered quartz is non-porous and never requires sealers."
+      }
+    }
+  ],
+  "description": "Granite and natural stone require periodic sealing to resist staining, while engineered quartz is non-porous and never requires sealers."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-kitchen-drywall-be-repaired-versus-fully-replaced",
+  "name": "When should kitchen drywall be repaired versus fully replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should kitchen drywall be repaired versus fully replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patching is sufficient for localized damage, such as plumbing repairs behind a sink, small pipe leaks, or relocated electrical boxes, provided the surrounding boards are dry, flat, and secure. However, full replacement is the better choice if drywall has extensive water damage, mold growth, or sagging from structural settling. Replacing the drywall is also necessary during full kitchen remodels where layouts change, framing needs sistering, or heavy wood blocking must be added behind studs to support new cabinetry and floating shelves securely.",
+        "@type": "Answer",
+        "description": "Patch drywall for minor utility holes and localized repairs; replace entire sheets if there is widespread water damage or if you need to access framing for cabinet blocking."
+      }
+    }
+  ],
+  "description": "Patch drywall for minor utility holes and localized repairs; replace entire sheets if there is widespread water damage or if you need to access framing for cabi"
+}

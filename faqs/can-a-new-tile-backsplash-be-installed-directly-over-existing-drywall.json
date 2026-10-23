@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-a-new-tile-backsplash-be-installed-directly-over-existing-drywall",
+  "name": "Can a new tile backsplash be installed directly over existing drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new tile backsplash be installed directly over existing drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a backsplash over existing drywall is standard, provided the drywall is structurally sound, clean, flat, and dry. If existing tile is removed, the drywall paper often tears or leaves gouges; these areas must be patched, skim-coated, or replaced before setting new tile. Installing tile directly over existing tile or painted, glossy walls is not recommended without proper mechanical roughing or a specialized bonding primer. If wall surfaces around sinks or cooktops have past water or grease damage, repairing the drywall first ensures the new mortar bonds securely without future hollow spots.",
+        "@type": "Answer",
+        "description": "Yes, as long as the drywall is clean, flat, and structurally sound. Torn or damaged drywall from previous tile removal must be repaired before installation."
+      }
+    }
+  ],
+  "description": "Yes, as long as the drywall is clean, flat, and structurally sound. Torn or damaged drywall from previous tile removal must be repaired before installation."
+}

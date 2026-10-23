@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-my-countertops-without-replacing-my-kitchen-cabinets",
+  "name": "Can I replace my countertops without replacing my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my countertops without replacing my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can install new countertops on existing cabinets, provided the cabinet boxes and frames are structurally sound, level, and capable of bearing heavy stone slabs. Natural stone and quartz add substantial weight. Before installing, an experienced carpenter must inspect the framework, check for sagging or water damage around the sink base, and ensure the tops are plumb. If the cabinets are unlevel or deteriorated, they must be reinforced or replaced first; otherwise, settling can stress the seams and cause stone slabs to crack.",
+        "@type": "Answer",
+        "description": "Yes, as long as your existing cabinets are structurally sound and level. An installer must inspect the framing to verify it can bear the heavy weight of quartz or natural stone."
+      }
+    }
+  ],
+  "description": "Yes, as long as your existing cabinets are structurally sound and level. An installer must inspect the framing to verify it can bear the heavy weight of quartz"
+}

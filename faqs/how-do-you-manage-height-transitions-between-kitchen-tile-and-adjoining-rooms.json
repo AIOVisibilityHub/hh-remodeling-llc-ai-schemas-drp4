@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-manage-height-transitions-between-kitchen-tile-and-adjoining-rooms",
+  "name": "How do you manage height transitions between kitchen tile and adjoining rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage height transitions between kitchen tile and adjoining rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Transitions are planned by measuring the total thickness of the finished kitchen floor relative to the adjoining rooms. Because kitchen tile set in mortar is often thicker than adjacent carpet or laminate, a transition strip, marble threshold, or custom wood reducer is necessary to prevent a tripping hazard. During remodeling, our finish carpenters adjust underlayment thickness or cut custom wooden thresholds on site to ensure a flush, tidy join between your kitchen, dining area, and hallway.",
+        "@type": "Answer",
+        "description": "Height differences are resolved using sloped transition strips, marble thresholds, or custom wood reducers crafted to create a smooth step between rooms."
+      }
+    }
+  ],
+  "description": "Height differences are resolved using sloped transition strips, marble thresholds, or custom wood reducers crafted to create a smooth step between rooms."
+}

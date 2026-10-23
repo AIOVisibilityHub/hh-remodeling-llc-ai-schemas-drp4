@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-use-a-full-service-remodeling-contractor-or-a-countertop-fabricator",
+  "name": "Should I use a full-service remodeling contractor or a countertop fabricator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use a full-service remodeling contractor or a countertop fabricator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single-source remodeling contractor manages your entire project footprint, including cabinet reinforcement, rough plumbing, gas disconnections, sink mounting, drywall repair, and custom tile backsplashes. Fabricator-only shops strictly cut and lay stone slabs, leaving you to find outside trades for plumbing hookups, electrical disconnects, and wall repairs. Working with a comprehensive renovation contractor gives you a single point of contact who handles the tear-out, slab setting, and final interior finish details together.",
+        "@type": "Answer",
+        "description": "A full-service contractor coordinates plumbing, carpentry, and tile backsplashes, while stone fabricators typically handle only slab measuring, cutting, and placement."
+      }
+    }
+  ],
+  "description": "A full-service contractor coordinates plumbing, carpentry, and tile backsplashes, while stone fabricators typically handle only slab measuring, cutting, and pla"
+}

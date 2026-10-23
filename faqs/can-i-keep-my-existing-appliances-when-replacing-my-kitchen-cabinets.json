@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-keep-my-existing-appliances-when-replacing-my-kitchen-cabinets",
+  "name": "Can I keep my existing appliances when replacing my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing appliances when replacing my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often reuse your existing appliances if their exact dimensions fit the specifications of your new cabinet layout. However, if you plan to upgrade to wider refrigerators, built-in microwaves, or cooktops, those dimensions must be finalized before cabinet boxes are ordered. Changing appliance selections mid-project can create alignment issues or require costly cabinet modifications. Share all appliance specification sheets with your remodeling contractor during the initial planning phase to verify proper clearances, gas lines, and electrical connections.",
+        "@type": "Answer",
+        "description": "Yes, existing appliances can be reused if the new cabinet layout accounts for their exact dimensions, utility connections, and manufacturer clearances."
+      }
+    }
+  ],
+  "description": "Yes, existing appliances can be reused if the new cabinet layout accounts for their exact dimensions, utility connections, and manufacturer clearances."
+}

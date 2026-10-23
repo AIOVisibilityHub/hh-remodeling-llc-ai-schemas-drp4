@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-are-the-main-differences-between-stock-semi-custom-and-custom-cabinets",
+  "name": "What are the main differences between stock, semi-custom, and custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main differences between stock, semi-custom, and custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock cabinets come in standard dimensions, offer limited finishes, and have the shortest lead times at a lower price point. Semi-custom cabinets offer standard box sizes with expanded door styles, finish options, and modifications like increased depths or decorative ends. Custom cabinets are built to exact measurements, allowing you to maximize irregular alcoves, ceiling heights, and specialized interior storage. When choosing, weigh your project timeline against design goals: stock units install quickly but often require more filler strips, while custom designs fit wall-to-wall with clean finish carpentry integration.",
+        "@type": "Answer",
+        "description": "Stock units are standardized and economical, semi-custom offers modified sizes and finishes, and custom builds provide tailored dimensions."
+      }
+    }
+  ],
+  "description": "Stock units are standardized and economical, semi-custom offers modified sizes and finishes, and custom builds provide tailored dimensions."
+}

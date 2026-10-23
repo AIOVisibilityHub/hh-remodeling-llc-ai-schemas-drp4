@@ -1,0 +1,271 @@
+{
+  "name": "Planning a Kitchen Addition: Step-by-Step Construction Timeline",
+  "step": [
+    {
+      "name": "Step 1: Structural Assessment and Floor Plan Design",
+      "text": "Abraham Becerra and your design team inspect your existing structure, load-bearing walls, foundation, and utilities to draft precise proposed floor plans. This step typically takes two to four weeks depending on design revisions.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting and Zoning Approvals",
+      "text": "Detailed plans covering building, plumbing, mechanical, and electrical updates are submitted to your local building department to verify setback limits and lot coverage. Review timelines depend entirely on local municipal workloads and can take several weeks to a few months.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Foundation and Exterior Framing",
+      "text": "Crews pour necessary footings or foundation extensions and frame the new exterior walls, subfloors, and roof integration. Experienced carpenters complete the rough framing and weather-tight shell within one to three weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Utility Rough-Ins and Mandatory Inspections",
+      "text": "Plumbing lines for sinks and dishwashers, electrical home runs for dedicated kitchen circuits, and ventilation ducts are routed through open stud bays. Municipal trade inspectors review all rough mechanical work before any insulation or drywall can be installed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Drywall, Tile, and Finish Carpentry",
+      "text": "Drywall is hung, taped, and finished, followed by custom tile backsplashes, flooring, cabinets, molding, and interior paint. Hands-on finish contractors complete this detailed interior phase over two to four weeks, ensuring every line is crisp and level.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Fixture Trim-Out and Final Walkthrough",
+      "text": "Plumbers and electricians set sinks, faucets, disposals, and light fixtures, while appliances are installed and tested before a final municipal inspection. This concluding phase usually wraps up within one week. Ready to expand your home with an owner-operated team? Contact HH Remodeling LLC at 303-505-0866 to begin planning your kitchen addition.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial",
+      "@type": "City"
+    },
+    {
+      "name": "Greenwood Village",
+      "@type": "City"
+    },
+    {
+      "name": "Foxfield",
+      "@type": "City"
+    },
+    {
+      "name": "Parker",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Commerce City",
+      "@type": "City"
+    },
+    {
+      "name": "Englewood",
+      "@type": "City"
+    },
+    {
+      "name": "Sheridan",
+      "@type": "City"
+    },
+    {
+      "name": "Littleton",
+      "@type": "City"
+    },
+    {
+      "name": "Highlands Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Lone Tree",
+      "@type": "City"
+    },
+    {
+      "name": "Cherry Hills Village",
+      "@type": "City"
+    },
+    {
+      "name": "Bow Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Columbine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Southglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Castlewood",
+      "@type": "City"
+    },
+    {
+      "name": "Dove Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Watkins",
+      "@type": "City"
+    },
+    {
+      "name": "Bennett",
+      "@type": "City"
+    },
+    {
+      "name": "Strasburg",
+      "@type": "City"
+    },
+    {
+      "name": "Thornton",
+      "@type": "City"
+    },
+    {
+      "name": "Northglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Federal Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Westminster",
+      "@type": "City"
+    },
+    {
+      "name": "Arvada",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Golden",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain View",
+      "@type": "City"
+    },
+    {
+      "name": "Wheat Ridge",
+      "@type": "City"
+    },
+    {
+      "name": "Broomfield",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Erie",
+      "@type": "City"
+    },
+    {
+      "name": "Firestone",
+      "@type": "City"
+    },
+    {
+      "name": "Frederick",
+      "@type": "City"
+    },
+    {
+      "name": "Longmont",
+      "@type": "City"
+    },
+    {
+      "name": "Boulder",
+      "@type": "City"
+    },
+    {
+      "name": "Superior",
+      "@type": "City"
+    },
+    {
+      "name": "Elizabeth",
+      "@type": "City"
+    },
+    {
+      "name": "Kiowa",
+      "@type": "City"
+    },
+    {
+      "name": "Byers",
+      "@type": "City"
+    },
+    {
+      "name": "Deer Trail",
+      "@type": "City"
+    },
+    {
+      "name": "Castle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Franktown",
+      "@type": "City"
+    },
+    {
+      "name": "Larkspur",
+      "@type": "City"
+    },
+    {
+      "name": "Sedalia",
+      "@type": "City"
+    },
+    {
+      "name": "Monument",
+      "@type": "City"
+    },
+    {
+      "name": "Palmer Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain",
+      "@type": "City"
+    },
+    {
+      "name": "Security-Widefield",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    }
+  ],
+  "description": "Abraham Becerra and your design team inspect your existing structure, load-bearing walls, foundation, and utilities to draft precise proposed floor plans. This step typically takes two to four weeks d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-kitchen-flooring-installation-take",
+  "name": "How long does a typical kitchen flooring installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen flooring installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most residential kitchen flooring projects take between two and four days to complete, depending on the material and room size. A simple floating luxury vinyl plank floor can often be laid in one to two days. Tile or marble installation takes longer, typically three to five days, because it involves subfloor prep, laying mortar, cutting pieces around islands, letting thinset cure, and grouting. If the project requires removing old layers of glued linoleum or leveling an uneven subfloor, extra time must be scheduled before new flooring can go down.",
+        "@type": "Answer",
+        "description": "Kitchen flooring installation typically takes two to four days, though tile requires extra time for mortar and grout to cure properly before foot traffic resumes."
+      }
+    }
+  ],
+  "description": "Kitchen flooring installation typically takes two to four days, though tile requires extra time for mortar and grout to cure properly before foot traffic resume"
+}

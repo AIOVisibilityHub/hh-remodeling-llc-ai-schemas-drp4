@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-replace-rather-than-repair-my-kitchen-countertops",
+  "name": "When should I replace rather than repair my kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace rather than repair my kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that point toward full replacement include deep cracking, widespread staining that cannot be lifted, persistent water damage around the sink rim, or structural sagging. If you are updating appliances to new dimensions, existing cutouts may no longer work. Surface refinishing can cover minor scratches on some surfaces, but stone fractures or swelling particleboard substrates demand structural replacement to maintain a sanitary and secure cooking space.",
+        "@type": "Answer",
+        "description": "Replace when you face deep structural cracks, extensive water damage around sinks, mismatched appliance cutouts, or sagging, unrepairable base substrates."
+      }
+    }
+  ],
+  "description": "Replace when you face deep structural cracks, extensive water damage around sinks, mismatched appliance cutouts, or sagging, unrepairable base substrates."
+}

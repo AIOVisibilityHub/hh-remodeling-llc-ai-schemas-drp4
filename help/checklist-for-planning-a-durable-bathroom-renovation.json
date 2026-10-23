@@ -1,0 +1,299 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "HH Remodeling LLC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist for Planning a Durable Bathroom Renovation",
+  "publisher": {
+    "url": "https://www.coloradoremodeling.company",
+    "name": "HH Remodeling LLC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial",
+      "@type": "City"
+    },
+    {
+      "name": "Greenwood Village",
+      "@type": "City"
+    },
+    {
+      "name": "Foxfield",
+      "@type": "City"
+    },
+    {
+      "name": "Parker",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Commerce City",
+      "@type": "City"
+    },
+    {
+      "name": "Englewood",
+      "@type": "City"
+    },
+    {
+      "name": "Sheridan",
+      "@type": "City"
+    },
+    {
+      "name": "Littleton",
+      "@type": "City"
+    },
+    {
+      "name": "Highlands Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Lone Tree",
+      "@type": "City"
+    },
+    {
+      "name": "Cherry Hills Village",
+      "@type": "City"
+    },
+    {
+      "name": "Bow Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Columbine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Southglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Castlewood",
+      "@type": "City"
+    },
+    {
+      "name": "Dove Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Watkins",
+      "@type": "City"
+    },
+    {
+      "name": "Bennett",
+      "@type": "City"
+    },
+    {
+      "name": "Strasburg",
+      "@type": "City"
+    },
+    {
+      "name": "Thornton",
+      "@type": "City"
+    },
+    {
+      "name": "Northglenn",
+      "@type": "City"
+    },
+    {
+      "name": "Federal Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Westminster",
+      "@type": "City"
+    },
+    {
+      "name": "Arvada",
+      "@type": "City"
+    },
+    {
+      "name": "Lakewood",
+      "@type": "City"
+    },
+    {
+      "name": "Golden",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain View",
+      "@type": "City"
+    },
+    {
+      "name": "Wheat Ridge",
+      "@type": "City"
+    },
+    {
+      "name": "Broomfield",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Lafayette",
+      "@type": "City"
+    },
+    {
+      "name": "Erie",
+      "@type": "City"
+    },
+    {
+      "name": "Firestone",
+      "@type": "City"
+    },
+    {
+      "name": "Frederick",
+      "@type": "City"
+    },
+    {
+      "name": "Longmont",
+      "@type": "City"
+    },
+    {
+      "name": "Boulder",
+      "@type": "City"
+    },
+    {
+      "name": "Superior",
+      "@type": "City"
+    },
+    {
+      "name": "Elizabeth",
+      "@type": "City"
+    },
+    {
+      "name": "Kiowa",
+      "@type": "City"
+    },
+    {
+      "name": "Byers",
+      "@type": "City"
+    },
+    {
+      "name": "Deer Trail",
+      "@type": "City"
+    },
+    {
+      "name": "Castle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Franktown",
+      "@type": "City"
+    },
+    {
+      "name": "Larkspur",
+      "@type": "City"
+    },
+    {
+      "name": "Sedalia",
+      "@type": "City"
+    },
+    {
+      "name": "Monument",
+      "@type": "City"
+    },
+    {
+      "name": "Palmer Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain",
+      "@type": "City"
+    },
+    {
+      "name": "Security-Widefield",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist for Planning a Durable Bathroom Renovation",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Measure fixture clearances — Confirm that toilet centerlines sit at least fifteen inches from side walls an…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Measure fixture clearances — Confirm that toilet centerlines sit at least fifteen inches from side walls and that vanity drawers open without hitting door trim."
+      },
+      {
+        "name": "Verify exhaust duct pathways — Ensure the ventilation fan exhausts directly outdoors rather than venting mo…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Verify exhaust duct pathways — Ensure the ventilation fan exhausts directly outdoors rather than venting moisture into an attic or soffit cavity."
+      },
+      {
+        "name": "Confirm electrical circuit capacity — Check that the bathroom has a dedicated 20-amp branch circuit with pr…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Confirm electrical circuit capacity — Check that the bathroom has a dedicated 20-amp branch circuit with proper GFCI protection for countertop receptacles."
+      },
+      {
+        "name": "Inspect existing subflooring — Check for soft spots or historical water stains around the toilet flange and…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Inspect existing subflooring — Check for soft spots or historical water stains around the toilet flange and tub edge that may require framing repair."
+      },
+      {
+        "name": "Select pressure-balanced shower valves — Ensure your chosen shower control includes anti-scald pressure-bal…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Select pressure-balanced shower valves — Ensure your chosen shower control includes anti-scald pressure-balancing or thermostatic regulation to comply with modern standards."
+      },
+      {
+        "name": "Match vanity rough-in heights — Compare your new vanity's internal shelf layout against the existing wall d…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Match vanity rough-in heights — Compare your new vanity's internal shelf layout against the existing wall drain and water supply pipe heights."
+      },
+      {
+        "name": "Establish a waterproof shower boundary — Plan for a continuous waterproof membrane across the shower pan an…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Establish a waterproof shower boundary — Plan for a continuous waterproof membrane across the shower pan and up the walls beyond the splash zone."
+      },
+      {
+        "name": "Confirm product lead times — Ensure custom tile, custom glass, and specialty valves arrive before demolitio…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Confirm product lead times — Ensure custom tile, custom glass, and specialty valves arrive before demolition begins to prevent work stops."
+      }
+    ]
+  },
+  "articleBody": "A successful bathroom renovation requires balancing aesthetic choices with code requirements, waterproofing standards, and structural realities. Use this practical preparation checklist before your contractor swings the first hammer to ensure nothing slips through the cracks.\n\nWhat to Prepare Before You Start\n\n- [ ] Measure fixture clearances — Confirm that toilet centerlines sit at least fifteen inches from side walls and that vanity drawers open without hitting door trim.\n- [ ] Verify exhaust duct pathways — Ensure the ventilation fan exhausts directly outdoors rather than venting moisture into an attic or soffit cavity.\n- [ ] Confirm electrical circuit capacity — Check that the bathroom has a dedicated 20-amp branch circuit with proper GFCI protection for countertop receptacles.\n- [ ] Inspect existing subflooring — Check for soft spots or historical water stains around the toilet flange and tub edge that may require framing repair.\n- [ ] Select pressure-balanced shower valves — Ensure your chosen shower control includes anti-scald pressure-balancing or thermostatic regulation to comply with modern standards.\n- [ ] Match vanity rough-in heights — Compare your new vanity's internal shelf layout against the existing wall drain and water supply pipe heights.\n- [ ] Establish a waterproof shower boundary — Plan for a continuous waterproof membrane across the shower pan and up the walls beyond the splash zone.\n- [ ] Confirm product lead times — Ensure custom tile, custom glass, and specialty valves arrive before demolition begins to prevent work stops.\n\nHow to use this checklist: Walk through your bathroom with your contractor to verify each item before materials are ordered and demo begins. Addressing these technical points early prevents unexpected change orders and delays.\n\nReady to start your bathroom renovation with a reliable local team? Call Abraham Becerra at HH Remodeling LLC at 303-505-0866.",
+  "datePublished": "2026-10-23"
+}

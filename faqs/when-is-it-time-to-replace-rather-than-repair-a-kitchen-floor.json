@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-is-it-time-to-replace-rather-than-repair-a-kitchen-floor",
+  "name": "When is it time to replace rather than repair a kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace rather than repair a kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your kitchen floor becomes necessary when you observe persistent issues like loose, cracked tiles, crumbling grout, spongy subfloor sections, or water damage near plumbing fixtures. Peeling seams, curling vinyl, or deep discoloration from past leaks also signal that moisture is penetrating beneath the surface. If you are already planning a broader kitchen renovation to update cabinets or counters, changing worn flooring at the same time is practical because it avoids patchwork repairs and ensures seamless alignment with new cabinetry and kickplates.",
+        "@type": "Answer",
+        "description": "Replace your floor if you notice widespread water damage, soft or uneven subflooring, widespread cracked tiles, or if you are already replacing kitchen cabinets."
+      }
+    }
+  ],
+  "description": "Replace your floor if you notice widespread water damage, soft or uneven subflooring, widespread cracked tiles, or if you are already replacing kitchen cabinets"
+}
