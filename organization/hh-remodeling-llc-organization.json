@@ -1,7 +1,24 @@
 {
-  "url": "https://www.coloradoremodeling.company",
+  "url": "https://www.hhremodelingcolorado.com",
   "name": "HH Remodeling LLC",
   "@type": "Organization",
+  "sameAs": [
+    "https://www.bbb.org/us/co/aurora/profile/remodel-contractors/hh-remodeling-llc-1296-90266666",
+    "https://www.yelp.com/biz/hh-remodeling-denver",
+    "https://www.google.com/maps/search/?api=1&query=HH+Remodeling+LLC+21990+E+Irish+Dr+Aurora+CO+80016",
+    "https://www.coloradoremodeling.company",
+    "https://hh-remodeling.aiovisibility.net",
+    "https://www.buildzoom.com/contractor/hh-remodeling-llc",
+    "https://prosgrade.com/renovations/aurora/hh-remodeling-llc",
+    "https://www.chamberofcommerce.com/business-directory/colorado/aurora/building-restoration-service/2023733574-hh-remodeling-llc",
+    "https://homelistry.com/aurora/general-contractor/hh-remodeling-llc",
+    "https://www.manta.com/c/mk2km87/hh-remodeling-llc",
+    "https://showerremodelers.net/co/aurora/",
+    "https://drywallprocenter.com/contractors/hh-remodeling-llc-772643/",
+    "https://www.zerofi.ai/pro/hh-remodeling-llc-aurora-co-7fd4f495-968b-4b71-a922-e12993be73d1",
+    "https://www.mapquest.com/us/colorado/hh-remodeling-422071268",
+    "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhSbVoyTnlhbmxtGAo"
+  ],
   "@context": "https://schema.org",
   "telephone": "303-505-0866",
   "areaServed": [
@@ -223,6 +240,26 @@
     }
   ],
   "description": "Abraham Becerra is the owner and hands-on general/finish contractor behind HH Remodeling LLC, a residential remodeling company based in Aurora, Colorado and serving the greater Denver area. Founded in 2017 and listed as a BBB Accredited Business with an A+ rating, HH Remodeling specializes in full-scope kitchen and bathroom renovations, basement and garage remodels, and detailed interior finish work including custom framing, drywall installation and repair, tile and marble installation, finish carpentry, molding, and interior painting. Operating as a small, owner-operated business, Abraham acts as both the principal contact and on-site lead for many projects, coordinating sub-trades for plumbing and electrical while his crew focuses on carpentry, tile, drywall, and paint. In addition to standard home improvements and room additions, the company provides handyman and home repair services, mobile home repair, disability and accessibility modifications, foreclosed property rehab, log and cabin refinishing, and storm-damage restoration support, positioning itself as a single point of contact for most interior remodeling and repair needs at reasonable prices.",
+  "hasCredential": [
+    {
+      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc",
+      "name": "Town of Parker Contractor License AEC8447",
+      "@type": "EducationalOccupationalCredential",
+      "recognizedBy": {
+        "name": "Town of Parker",
+        "@type": "Organization"
+      }
+    },
+    {
+      "url": "https://www.buildzoom.com/contractor/hh-remodeling-llc",
+      "name": "Douglas County General C Contractor License C170054",
+      "@type": "EducationalOccupationalCredential",
+      "recognizedBy": {
+        "name": "Douglas County",
+        "@type": "Organization"
+      }
+    }
+  ],
   "hasOfferCatalog": {
     "name": "HH Remodeling LLC Services",
     "@type": "OfferCatalog",
