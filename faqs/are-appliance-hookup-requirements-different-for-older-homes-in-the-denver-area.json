@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/are-appliance-hookup-requirements-different-for-older-homes-in-the-denver-area",
+  "name": "Are appliance hookup requirements different for older homes in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are appliance hookup requirements different for older homes in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, older homes in central Denver neighborhoods often have 100-amp electrical panels, outdated wiring, or galvanized plumbing that cannot support modern high-draw induction cooktops and multi-cycle appliances. Remodels in these areas frequently require coordinating sub-trades for electrical service upgrades and modern PEX or copper supply lines. A hands-on contractor verifies home utility capacities early so necessary panel upgrades are planned before new appliances arrive.",
+        "@type": "Answer",
+        "description": "Older Denver homes often require electrical panel upgrades or plumbing line replacements to handle modern high-draw appliances and meet current building standards."
+      }
+    }
+  ],
+  "description": "Older Denver homes often require electrical panel upgrades or plumbing line replacements to handle modern high-draw appliances and meet current building standar"
+}

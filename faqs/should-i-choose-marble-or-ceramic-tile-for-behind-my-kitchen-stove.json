@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-marble-or-ceramic-tile-for-behind-my-kitchen-stove",
+  "name": "Should I choose marble or ceramic tile for behind my kitchen stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose marble or ceramic tile for behind my kitchen stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural marble tiles look elegant and add distinct character, but they require significantly more upkeep than ceramic or porcelain. Marble is porous and susceptible to staining from cooking oils, pasta sauce, and acidic liquids, meaning it must be sealed during installation and resealed regularly. Ceramic and porcelain tiles feature a non-porous glazed finish that resists grease and wipes down easily without routine sealing. Choosing marble means accepting ongoing maintenance in exchange for a natural, high-end appearance, whereas ceramic provides worry-free durability near cooking zones.",
+        "@type": "Answer",
+        "description": "Ceramic tile resists grease and requires little upkeep, while marble offers a high-end look but is porous and requires regular sealing to prevent stains."
+      }
+    }
+  ],
+  "description": "Ceramic tile resists grease and requires little upkeep, while marble offers a high-end look but is porous and requires regular sealing to prevent stains."
+}

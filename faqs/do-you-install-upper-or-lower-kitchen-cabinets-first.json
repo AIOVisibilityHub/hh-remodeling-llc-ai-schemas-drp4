@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-you-install-upper-or-lower-kitchen-cabinets-first",
+  "name": "Do you install upper or lower kitchen cabinets first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you install upper or lower kitchen cabinets first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upper cabinets are typically installed before base cabinets. Hanging the uppers first gives installers clear access to the wall without having to reach over a 24-inch-deep lower cabinet base. This prevents accidental dings, scratches, or weight strain on newly set base cabinets during installation. Installers mount a temporary support ledger board on the wall studs to hold the upper boxes level while driving heavy-duty cabinet screws directly into the framing, removing the ledger once the upper run is fully secured.",
+        "@type": "Answer",
+        "description": "Upper cabinets are usually installed first. This provides clear access to the walls and prevents damage to the lower base units during the job."
+      }
+    }
+  ],
+  "description": "Upper cabinets are usually installed first. This provides clear access to the walls and prevents damage to the lower base units during the job."
+}

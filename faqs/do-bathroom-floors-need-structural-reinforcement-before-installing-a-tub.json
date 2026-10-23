@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-bathroom-floors-need-structural-reinforcement-before-installing-a-tub",
+  "name": "Do bathroom floors need structural reinforcement before installing a tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bathroom floors need structural reinforcement before installing a tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard acrylic and fiberglass bathtubs rarely need extra floor support because they are lightweight. However, heavy materials such as cast iron, natural stone, or thick solid surface soaking tubs can weigh several hundred pounds empty and over a thousand pounds when filled with water and a bather. Before installing these heavier units, especially on upper levels of a home, a contractor must inspect the floor joists and subfloor framing to determine if sistering joists or adding blocking is necessary to support the load safely.",
+        "@type": "Answer",
+        "description": "Standard acrylic tubs do not need reinforcement, but heavy cast iron or stone tubs filled with water often require inspected and reinforced subfloor joists."
+      }
+    }
+  ],
+  "description": "Standard acrylic tubs do not need reinforcement, but heavy cast iron or stone tubs filled with water often require inspected and reinforced subfloor joists."
+}

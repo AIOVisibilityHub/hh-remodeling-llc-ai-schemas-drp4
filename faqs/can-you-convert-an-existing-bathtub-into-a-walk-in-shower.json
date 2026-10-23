@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-you-convert-an-existing-bathtub-into-a-walk-in-shower",
+  "name": "Can you convert an existing bathtub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you convert an existing bathtub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tub-to-shower conversions are among the most common bathroom projects. Removing an alcove bathtub creates space for a spacious walk-in shower with custom tile, built-in niches, and frameless glass doors. The main tradeoff involves resale value: keeping at least one functioning bathtub elsewhere in the house is generally recommended for families with small children. The conversion requires adapting the existing drain size, adjusting rough-in plumbing, and installing reliable shower pan waterproofing before laying floor and wall tile.",
+        "@type": "Answer",
+        "description": "Yes. Bathtubs can be removed and replaced with custom walk-in tile showers, provided the drain size is adapted and a proper waterproof shower pan is installed."
+      }
+    }
+  ],
+  "description": "Yes. Bathtubs can be removed and replaced with custom walk-in tile showers, provided the drain size is adapted and a proper waterproof shower pan is installed."
+}

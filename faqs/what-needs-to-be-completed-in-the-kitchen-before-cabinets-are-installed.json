@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-completed-in-the-kitchen-before-cabinets-are-installed",
+  "name": "What needs to be completed in the kitchen before cabinets are installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be completed in the kitchen before cabinets are installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before cabinet installation begins, all mechanical rough-ins must be completely finished and inspected. This includes moving electrical lines for under-cabinet lighting, running dedicated circuits for microwaves and wall ovens, and positioning plumbing supply lines and drain pipes for the sink. Drywall should be hung, taped, and prepped, and the kitchen workspace must be cleared of old cabinetry and appliances. Marking stud locations on the walls ahead of time helps verify where heavy upper cabinets will anchor securely into the wall framing.",
+        "@type": "Answer",
+        "description": "Plumbing and electrical rough-ins, drywall repairs, and space clearing must be finished and inspected before cabinet installation begins."
+      }
+    }
+  ],
+  "description": "Plumbing and electrical rough-ins, drywall repairs, and space clearing must be finished and inspected before cabinet installation begins."
+}

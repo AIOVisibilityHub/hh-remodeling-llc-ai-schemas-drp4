@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-right-tile-pattern-for-my-kitchen",
+  "name": "How do I choose the right tile pattern for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right tile pattern for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best layout pattern depends on your kitchen layout, ceiling height, and tile choice. A classic running bond (brick pattern) or straight stacked pattern offers clean, timeless lines and minimizes tile waste, making it an efficient choice for tighter budgets. Herringbone, chevron, or diagonal patterns add visual energy and can make narrow galley kitchens or compact backsplashes feel wider, but they require 10 to 15 percent extra material to accommodate angled edge cuts. Your choice should balance visual goals with material allowances.",
+        "@type": "Answer",
+        "description": "Base your choice on kitchen dimensions and style. Running bond offers classic, low-waste installation, while herringbone adds visual depth but requires extra cut tile."
+      }
+    }
+  ],
+  "description": "Base your choice on kitchen dimensions and style. Running bond offers classic, low-waste installation, while herringbone adds visual depth but requires extra cu"
+}

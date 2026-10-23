@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-between-removing-cabinets-or-just-refacing-them",
+  "name": "How do I choose between removing cabinets or just refacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between removing cabinets or just refacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep existing boxes if they are made of solid hardwood, structurally sound, and match your desired kitchen layout; painting or refacing them can save money. Choose full cabinet removal if your boxes are sagging, warped from water leaks, made of deteriorating particleboard, or if you want to reconfigure your kitchen footprint. Complete removal also allows you to update rough plumbing, add dedicated electrical circuits, and repair damaged subflooring or drywall behind old units.",
+        "@type": "Answer",
+        "description": "Reface if your cabinet boxes are structurally solid and the layout works; remove them completely if you need a new layout, water repairs, or modern wiring."
+      }
+    }
+  ],
+  "description": "Reface if your cabinet boxes are structurally solid and the layout works; remove them completely if you need a new layout, water repairs, or modern wiring."
+}

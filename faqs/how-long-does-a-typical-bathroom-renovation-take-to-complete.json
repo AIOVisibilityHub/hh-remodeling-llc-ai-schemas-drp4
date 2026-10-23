@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-typical-bathroom-renovation-take-to-complete",
+  "name": "How long does a typical bathroom renovation take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom renovation take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard bathroom remodels take between two and four weeks of active construction, though full custom overhauls can take longer. The overall schedule depends on whether the layout stays the same or requires moving supply and drain lines. Tile curing, waterproofing inspections, custom vanity fabrication, and fixture deliveries also influence the timeline. At HH Remodeling, owner Abraham Becerra serves as the on-site lead, keeping the schedule on track by directly managing the carpentry, drywall, tile, and paint crews while coordinating specialized sub-trades for rough-in plumbing and electrical.",
+        "@type": "Answer",
+        "description": "Most bathroom renovations take between two and four weeks of active work, depending on whether plumbing fixtures are relocated and the extent of custom tile or finish work involved."
+      }
+    }
+  ],
+  "description": "Most bathroom renovations take between two and four weeks of active work, depending on whether plumbing fixtures are relocated and the extent of custom tile or"
+}

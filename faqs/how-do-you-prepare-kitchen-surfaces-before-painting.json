@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-you-prepare-kitchen-surfaces-before-painting",
+  "name": "How do you prepare kitchen surfaces before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you prepare kitchen surfaces before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation for kitchen painting requires thorough degreasing and surface smoothing. Before paint is applied, surfaces near cooktops and sinks must be washed with a heavy-duty cleaner or TSP substitute to eliminate cooking oils and grease films that prevent paint bonding. Small holes, cracks, and textured imperfections need drywall patching, followed by light sanding. Cabinets and countertops must be fully masked with plastic sheeting and builder paper. Skipping grease removal or proper primer application will lead to premature paint peeling, bubbling, or staining bleeding through fresh topcoats.",
+        "@type": "Answer",
+        "description": "Surfaces must be cleaned with a degreaser to remove cooking oils, patched for drywall flaws, and sanded smooth. Nearby counters and fixtures are masked off before priming."
+      }
+    }
+  ],
+  "description": "Surfaces must be cleaned with a degreaser to remove cooking oils, patched for drywall flaws, and sanded smooth. Nearby counters and fixtures are masked off befo"
+}

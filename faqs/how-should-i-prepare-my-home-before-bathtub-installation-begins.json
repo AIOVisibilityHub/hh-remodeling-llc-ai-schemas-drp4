@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-home-before-bathtub-installation-begins",
+  "name": "How should I prepare my home before bathtub installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home before bathtub installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the installer arrives, clear out all personal items, shower curtains, toiletries, and wall hangings from the bathroom. Ensure there is a clear, unobstructed path from the home entryway through hallways and doorways to the bathroom so crew members can carry the old and new fixtures safely. It is also helpful to confirm where your main water shutoff valve is located in the home, as the water supply must be turned off during disconnect and reconnection phases.",
+        "@type": "Answer",
+        "description": "Clear toiletries and decor from the bathroom, ensure a wide pathway from the front door, and locate your main water shutoff valve for work day access."
+      }
+    }
+  ],
+  "description": "Clear toiletries and decor from the bathroom, ensure a wide pathway from the front door, and locate your main water shutoff valve for work day access."
+}

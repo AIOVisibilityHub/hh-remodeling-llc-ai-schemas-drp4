@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-choose-stock-cabinetry-with-trim-kits-or-custom-finish-carpentry",
+  "name": "Should I choose stock cabinetry with trim kits or custom finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose stock cabinetry with trim kits or custom finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock cabinets arrive pre-built in standard 3-inch width increments with factory finishes, making them quicker to install and more budget-friendly. However, they require careful use of filler strips and scribing to fit non-standard room dimensions. Custom carpentry allows woodwork built to the exact eighth-inch measurements of your space, maximizing storage in awkward corners, concealing irregular soffits, and matching unique architectural styles. The tradeoff involves balancing budget against flexibility: stock options limit design options, whereas custom finish work requires more detailed measuring and fabrication time but creates a seamless, built-in appearance.",
+        "@type": "Answer",
+        "description": "Stock cabinets with trim kits are faster and budget-friendly, while custom carpentry fits irregular dimensions exactly, eliminating awkward gaps and maximizing storage space."
+      }
+    }
+  ],
+  "description": "Stock cabinets with trim kits are faster and budget-friendly, while custom carpentry fits irregular dimensions exactly, eliminating awkward gaps and maximizing"
+}

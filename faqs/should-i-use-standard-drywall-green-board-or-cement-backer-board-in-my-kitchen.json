@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-use-standard-drywall-green-board-or-cement-backer-board-in-my-kitchen",
+  "name": "Should I use standard drywall, green board, or cement backer board in my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use standard drywall, green board, or cement backer board in my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall works fine in dry dining corners, but moisture-resistant drywall—often called green board or purple board—is the preferred standard behind sinks, dishwashers, and adjacent food preparation zones. If you plan to install a heavy tile or marble backsplash, regular drywall or standard moisture-resistant drywall may not provide sufficient shear strength. For tiled kitchen backsplashes subject to heavy splashes or grease cleanups, cement backer board or fiber-cement underlayment offers a far more stable, moisture-impervious backing for thinset mortar. Evaluating what covers the wall determines whether moisture-resistant drywall or specialized cement board is the right call.",
+        "@type": "Answer",
+        "description": "Standard drywall suits general walls, green board is ideal near sink splash zones, and cement backer board is best behind tile or marble backsplashes requiring mortar."
+      }
+    }
+  ],
+  "description": "Standard drywall suits general walls, green board is ideal near sink splash zones, and cement backer board is best behind tile or marble backsplashes requiring"
+}

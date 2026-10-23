@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-quartz-and-natural-stone-countertops",
+  "name": "What is the difference between quartz and natural stone countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between quartz and natural stone countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quartz is an engineered product made of crushed stone and resin, making it non-porous and highly resistant to stains without ever needing sealant. Natural stone like granite or marble offers unique, natural veining and exceptional heat resistance, but requires periodic sealing to guard against moisture and acidic spills. If you want a low-maintenance kitchen surface with uniform patterning, quartz is an ideal option. If you value distinct organic patterns and do not mind regular sealing, natural stone remains a classic choice.",
+        "@type": "Answer",
+        "description": "Quartz is non-porous and never requires sealing, offering easy maintenance. Natural stone provides unique natural patterns and high heat resistance, but requires routine sealing."
+      }
+    }
+  ],
+  "description": "Quartz is non-porous and never requires sealing, offering easy maintenance. Natural stone provides unique natural patterns and high heat resistance, but require"
+}

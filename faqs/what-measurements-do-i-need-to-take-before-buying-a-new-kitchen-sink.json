@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-measurements-do-i-need-to-take-before-buying-a-new-kitchen-sink",
+  "name": "What measurements do I need to take before buying a new kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements do I need to take before buying a new kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing a replacement sink, you must measure your cabinet base width, existing countertop cutout dimensions, and plumbing rough-in locations. The interior width of your sink base cabinet dictates the absolute maximum bowl size you can install; for example, a 36-inch base cabinet generally fits a sink up to 33 inches wide. You should also check the bowl depth to ensure adequate vertical clearance for existing P-traps, garbage disposals, and supply lines underneath. Measuring accurately beforehand prevents unexpected cabinet framing alterations or mismatched countertop gaps.",
+        "@type": "Answer",
+        "description": "Measure the internal cabinet base width, countertop cutout length and width, and bowl depth to ensure your new sink clears lower plumbing and disposal units."
+      }
+    }
+  ],
+  "description": "Measure the internal cabinet base width, countertop cutout length and width, and bowl depth to ensure your new sink clears lower plumbing and disposal units."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-patching-a-kitchen-jamb-and-replacing-the-whole-f",
+  "name": "What is the difference between patching a kitchen jamb and replacing the whole frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between patching a kitchen jamb and replacing the whole frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing an existing frame preserves existing custom casings, reduces dust, and avoids disrupting adjacent kitchen tile backsplashes or finished drywall. However, if the jamb is rotted or structurally compromised, a patch will only offer temporary relief. Installing a new pre-hung frame or rebuilding the jamb from scratch requires more labor—including removing trim, shimming, refitting the door, and repainting—but delivers a plumb, durable opening that closes properly without ongoing adjustments.",
+        "@type": "Answer",
+        "description": "Patching preserves custom trim and tile connections with less mess, whereas a full jamb rebuild takes more labor but permanently fixes deep rot, warping, or latch issues."
+      }
+    }
+  ],
+  "description": "Patching preserves custom trim and tile connections with less mess, whereas a full jamb rebuild takes more labor but permanently fixes deep rot, warping, or lat"
+}

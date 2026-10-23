@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-when-it-is-time-to-fully-remodel-my-bathroom-rather-than-make-mino",
+  "name": "How do I know when it is time to fully remodel my bathroom rather than make minor repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know when it is time to fully remodel my bathroom rather than make minor repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should remodel your bathroom when you notice recurring moisture problems, persistent mold, cracked tiles, or layout bottlenecks that hinder daily use. Leaking supply lines or failed waterproofing around tubs can quietly rot subfloors and framing, turning minor repairs into structural hazards. Beyond visible damage, outdated electrical without GFCI protection or poor ventilation that traps condensation are strong reasons to gut the space. A complete remodel allows you to install proper exhaust fans, upgrade supply lines, and install modern waterproofing systems.",
+        "@type": "Answer",
+        "description": "It is time to remodel when you face structural water damage, persistent leaks behind tile, outdated electrical, or a layout that no longer functions for your household."
+      }
+    }
+  ],
+  "description": "It is time to remodel when you face structural water damage, persistent leaks behind tile, outdated electrical, or a layout that no longer functions for your ho"
+}

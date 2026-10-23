@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-bathroom-renovations-in-the-denver-metro-area-require-permits",
+  "name": "Do bathroom renovations in the Denver metro area require permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bathroom renovations in the Denver metro area require permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full gut remodels in Denver and nearby communities generally require building, electrical, and plumbing permits, especially if you move pipes, add circuits, or alter structural framing. Purely cosmetic updates like replacing an existing vanity, painting, or retiling often do not require permits. Working with a general contractor ensures proper licensed trades pull necessary mechanical permits, coordinate city inspections, and keep work compliant with local municipal codes.",
+        "@type": "Answer",
+        "description": "Yes, projects involving moved plumbing lines, added electrical circuits, or framing changes require municipal permits and trade inspections in the Denver area."
+      }
+    }
+  ],
+  "description": "Yes, projects involving moved plumbing lines, added electrical circuits, or framing changes require municipal permits and trade inspections in the Denver area."
+}

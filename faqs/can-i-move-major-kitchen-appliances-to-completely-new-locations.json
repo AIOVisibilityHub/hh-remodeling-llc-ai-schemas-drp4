@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-move-major-kitchen-appliances-to-completely-new-locations",
+  "name": "Can I move major kitchen appliances to completely new locations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move major kitchen appliances to completely new locations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can relocate appliances, but moving them across the room requires rerouting plumbing, dedicated electrical circuits, and sometimes ventilation. Shifting an electric range or dishwasher several feet along the same wall is generally straightforward. Moving a gas range or sink to an island or opposite wall involves opening walls, modifying subfloors, and coordinating licensed plumbing and electrical trades. On homes with finished basements or slab foundations, moving drain lines demands concrete cutting or drywall removal from below, which adds labor and trade coordination time.",
+        "@type": "Answer",
+        "description": "Yes, but relocating major appliances requires rerouting electrical, plumbing, and vent lines through walls or subfloors, which involves trade coordination and structural access."
+      }
+    }
+  ],
+  "description": "Yes, but relocating major appliances requires rerouting electrical, plumbing, and vent lines through walls or subfloors, which involves trade coordination and s"
+}

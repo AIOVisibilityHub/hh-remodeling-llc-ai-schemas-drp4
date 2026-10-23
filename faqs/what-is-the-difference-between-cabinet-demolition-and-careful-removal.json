@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-cabinet-demolition-and-careful-removal",
+  "name": "What is the difference between cabinet demolition and careful removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet demolition and careful removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Demolition focuses on tearing out materials as quickly as possible using pry bars and reciprocating saws, which often damages the drywall backing and destroys the cabinets. Careful removal methodically disassembles trim, face frames, and wall fasteners to keep the boxes intact for reuse, donation, or resale. Choosing careful removal requires more labor hours up front, but it protects surrounding walls, flooring, and rough-in wiring if you want to minimize subsequent drywall repair costs.",
+        "@type": "Answer",
+        "description": "Demolition quickly breaks down cabinets for disposal, while careful removal preserves the cabinetry and minimizes damage to adjacent drywall and flooring."
+      }
+    }
+  ],
+  "description": "Demolition quickly breaks down cabinets for disposal, while careful removal preserves the cabinetry and minimizes damage to adjacent drywall and flooring."
+}

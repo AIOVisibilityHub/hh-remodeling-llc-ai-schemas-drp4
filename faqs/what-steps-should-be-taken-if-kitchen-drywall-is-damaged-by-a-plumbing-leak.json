@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-should-be-taken-if-kitchen-drywall-is-damaged-by-a-plumbing-leak",
+  "name": "What steps should be taken if kitchen drywall is damaged by a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should be taken if kitchen drywall is damaged by a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Never seal active moisture behind fresh drywall. First, locate and fix the plumbing leak, whether it stems from a dishwasher supply hose, sink drain line, or refrigerator line. Next, cut away all softened, water-damaged drywall at least several inches beyond the visible water line to inspect the wall cavity. You must allow the interior framing and wall insulation to dry out thoroughly before hanging new sheetrock. Installing drywall over damp studs traps moisture, which leads to mold growth and causes new joint compound to blister or fail. Once dry, fresh moisture-resistant drywall can be fastened, taped, and finished.",
+        "@type": "Answer",
+        "description": "Fix the leak first, cut away all waterlogged sheetrock, and let interior studs dry completely. Only install new drywall and compound once the wall cavity is fully dry."
+      }
+    }
+  ],
+  "description": "Fix the leak first, cut away all waterlogged sheetrock, and let interior studs dry completely. Only install new drywall and compound once the wall cavity is ful"
+}

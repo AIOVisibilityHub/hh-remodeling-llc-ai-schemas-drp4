@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-choose-a-full-bathroom-tear-out-instead-of-minor-cosmetic-repairs",
+  "name": "When should I choose a full bathroom tear-out instead of minor cosmetic repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose a full bathroom tear-out instead of minor cosmetic repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need a full renovation if you notice signs of structural moisture damage, persistent tile or grout cracking, chronic mildew behind fixtures, or an outdated layout that no longer fits your physical needs. Surface repairs or re-grouting only treat cosmetic issues; they do not resolve hidden subfloor rot, deteriorating galvanized pipe, or failing pan liners. When structural materials become compromised, stripping the space down to the wall studs allows your contractor to rebuild framing, replace drywall, and update waterproofing properly.",
+        "@type": "Answer",
+        "description": "Opt for a full tear-out if you have water damage, soft subfloors, cracked shower pans, or plumbing leaks that require accessing the underlying framing."
+      }
+    }
+  ],
+  "description": "Opt for a full tear-out if you have water damage, soft subfloors, cracked shower pans, or plumbing leaks that require accessing the underlying framing."
+}

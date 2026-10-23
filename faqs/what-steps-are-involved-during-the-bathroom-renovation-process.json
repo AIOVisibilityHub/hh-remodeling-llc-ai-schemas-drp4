@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-steps-are-involved-during-the-bathroom-renovation-process",
+  "name": "What steps are involved during the bathroom renovation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved during the bathroom renovation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a full bathroom remodel, the project begins with demolition down to the framing and subfloor. Next, any framing adjustments are completed, followed by licensed rough-in plumbing and electrical work. Once rough mechanics pass inspections, moisture-resistant drywall, backer board, and waterproofing membranes are installed. Finish work follows, including custom tile or marble setting, trim carpentry, painting, and setting the vanity, toilet, and plumbing fixtures before final cleanup.",
+        "@type": "Answer",
+        "description": "The process includes demolition, framing, rough plumbing and electrical, drywall and waterproofing, tile installation, finish carpentry, and fixture installation."
+      }
+    }
+  ],
+  "description": "The process includes demolition, framing, rough plumbing and electrical, drywall and waterproofing, tile installation, finish carpentry, and fixture installatio"
+}

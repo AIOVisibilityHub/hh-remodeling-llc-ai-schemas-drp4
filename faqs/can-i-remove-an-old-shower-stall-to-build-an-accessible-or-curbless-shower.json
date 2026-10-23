@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-remove-an-old-shower-stall-to-build-an-accessible-or-curbless-shower",
+  "name": "Can I remove an old shower stall to build an accessible or curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove an old shower stall to build an accessible or curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an old, cramped, or leaking shower stall can be removed and converted into a larger walk-in shower or an accessible roll-in unit. Removing the existing unit exposes the floor structure, allowing adjustments to the subfloor height, framing for built-in shower niches or benches, and the installation of backing for ADA grab bars. A curbless or barrier-free shower also requires a specific drain slope and waterproof pan installation, making the tear-out phase essential for establishing proper clearances.",
+        "@type": "Answer",
+        "description": "Yes. Demolition reveals the framing and subfloor needed to reinforce backing for grab bars, install curbless pans, and adjust plumbing for accessibility."
+      }
+    }
+  ],
+  "description": "Yes. Demolition reveals the framing and subfloor needed to reinforce backing for grab bars, install curbless pans, and adjust plumbing for accessibility."
+}

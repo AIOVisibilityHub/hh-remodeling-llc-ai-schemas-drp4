@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-it-take-to-repair-a-kitchen-door-frame",
+  "name": "How long does it take to repair a kitchen door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a kitchen door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard kitchen door frame repairs take between two and four hours to complete. If the project requires rebuilding the rough opening, replacing water-damaged sub-framing, repairing surrounding drywall, or matching custom painted trim, the work can extend across a full day or require a return visit to allow wood fillers, joint compound, and paint to cure properly. The total time depends directly on whether nearby tile, electrical switches, or baseboards need to be detached and reset.",
+        "@type": "Answer",
+        "description": "Minor repairs take two to four hours, while complex rebuilds involving surrounding drywall patching, custom trim, or finish paint may take a full day."
+      }
+    }
+  ],
+  "description": "Minor repairs take two to four hours, while complex rebuilds involving surrounding drywall patching, custom trim, or finish paint may take a full day."
+}

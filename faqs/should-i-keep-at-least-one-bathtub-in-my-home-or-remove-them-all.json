@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-keep-at-least-one-bathtub-in-my-home-or-remove-them-all",
+  "name": "Should I keep at least one bathtub in my home or remove them all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep at least one bathtub in my home or remove them all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to keep at least one bathtub depends largely on your household routine and future resale plans. If you have young children, pets, or family members who prefer soaking baths, retaining a tub in a secondary bathroom makes practical sense. However, in primary bathrooms, replacing an unused tub with a spacious walk-in shower often provides greater daily utility and accessibility. Real estate preferences show that keeping at least one tub in the house is helpful, but removing a secondary tub to improve functionality is a very common upgrade.",
+        "@type": "Answer",
+        "description": "Keeping at least one tub is generally recommended for households with young children or resale value, but replacing unused primary tubs with showers improves daily function."
+      }
+    }
+  ],
+  "description": "Keeping at least one tub is generally recommended for households with young children or resale value, but replacing unused primary tubs with showers improves da"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-measurements-and-specifications-do-i-need-before-designing-my-appliance-lay",
+  "name": "What measurements and specifications do I need before designing my appliance layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements and specifications do I need before designing my appliance layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finalizing an appliance layout, you need exact manufacturer specification sheets for every intended unit. Crucial details include rough opening dimensions, door swing clearances, electrical requirements (like 120V versus dedicated 240V circuits), water line connections for ice makers, and specific venting paths for ranges. You must also account for adjacent cabinet doors and drawers to ensure they open fully without colliding with appliance handles. Gathering these spec sheets early ensures your framing and custom carpentry fit the physical equipment perfectly without on-site modifications.",
+        "@type": "Answer",
+        "description": "You need complete manufacturer spec sheets detailing rough opening sizes, door swing clearances, electrical voltage, water line locations, and exterior venting dimensions."
+      }
+    }
+  ],
+  "description": "You need complete manufacturer spec sheets detailing rough opening sizes, door swing clearances, electrical voltage, water line locations, and exterior venting"
+}

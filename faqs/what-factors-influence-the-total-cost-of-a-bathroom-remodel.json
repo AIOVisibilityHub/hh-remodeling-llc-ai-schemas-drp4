@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-total-cost-of-a-bathroom-remodel",
+  "name": "What factors influence the total cost of a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the total cost of a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs are driven by the scope of plumbing changes, material selections, and room size. Cosmetic updates like swapping a vanity, lighting, and paint cost significantly less than down-to-the-studs renovations. Key expenses include custom tile or marble installation, waterproofing systems, cabinetry, and subcontractor coordination for licensed plumbing and electrical tasks. Unforeseen structural issues behind old drywall, such as past water damage or rotted subfloors, can also increase labor and material expenses.",
+        "@type": "Answer",
+        "description": "Major cost drivers include moving plumbing or electrical lines, room footprint, tile and finish choices, and repairing any hidden subfloor or moisture damage."
+      }
+    }
+  ],
+  "description": "Major cost drivers include moving plumbing or electrical lines, room footprint, tile and finish choices, and repairing any hidden subfloor or moisture damage."
+}

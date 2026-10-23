@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-happens-during-the-shower-removal-process",
+  "name": "What happens during the shower removal process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the shower removal process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tear-out process begins by shutting off the water supply, removing shower doors, fixtures, and trim, and cutting back surrounding drywall. Next, crews dismantle the wall surrounds and extract the shower pan or tub base down to the subfloor and bare studs. Debris is hauled away immediately to keep work paths clear. Once the enclosure is stripped, the framing, subfloor, and plumbing lines are inspected for moisture damage, mold, or structural deflection before moving forward with drywall or tile prep.",
+        "@type": "Answer",
+        "description": "We shut off water, remove glass and fixtures, tear out wall surrounds down to the studs, pull the pan, haul debris, and inspect framing for hidden water damage."
+      }
+    }
+  ],
+  "description": "We shut off water, remove glass and fixtures, tear out wall surrounds down to the studs, pull the pan, haul debris, and inspect framing for hidden water damage."
+}

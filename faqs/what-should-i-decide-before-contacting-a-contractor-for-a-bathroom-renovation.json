@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-decide-before-contacting-a-contractor-for-a-bathroom-renovation",
+  "name": "What should I decide before contacting a contractor for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I decide before contacting a contractor for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting an estimate, list the functional issues with your current space, determine your overall budget range, and gather reference photos for your preferred style. Decide early whether you want a tub-to-shower conversion, a double vanity, or specialized accessibility features like curbless entries and grab bars. Having rough dimensions and noting existing plumbing locations also helps. Clear preparation allows a general contractor like HH Remodeling to provide an accurate estimate and properly plan for framing, tile, drywall, and sub-trade requirements.",
+        "@type": "Answer",
+        "description": "Define your priority upgrades, target budget, and layout preferences, such as keeping existing fixture locations or converting a tub to a walk-in shower."
+      }
+    }
+  ],
+  "description": "Define your priority upgrades, target budget, and layout preferences, such as keeping existing fixture locations or converting a tub to a walk-in shower."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-installers-handle-uneven-walls-and-floors-when-hanging-cabinets",
+  "name": "How do installers handle uneven walls and floors when hanging cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do installers handle uneven walls and floors when hanging cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, kitchen walls and subfloors rarely sit perfectly flat or square. Proper installation requires finding the highest point of the subfloor using a long level and marking a level reference line along the perimeter walls. Installers use wood shims beneath base cabinets and behind wall hanging rails to bridge uneven gaps in drywall. If walls bow significantly, cabinets must be scribed, which involves trimming the face frames or side panels to match the wall contours so everything sits plumb and flush before fastening into studs.",
+        "@type": "Answer",
+        "description": "Installers locate the high point of the floor and use shims, scribing, and level reference lines to ensure cabinets sit straight and plumb against uneven walls."
+      }
+    }
+  ],
+  "description": "Installers locate the high point of the floor and use shims, scribing, and level reference lines to ensure cabinets sit straight and plumb against uneven walls."
+}

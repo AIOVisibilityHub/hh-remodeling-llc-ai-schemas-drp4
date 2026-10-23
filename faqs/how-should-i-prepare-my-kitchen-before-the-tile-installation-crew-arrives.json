@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-the-tile-installation-crew-arrives",
+  "name": "How should I prepare my kitchen before the tile installation crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before the tile installation crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your installer arrives, clear all countertops completely and remove small appliances, canisters, and decor. Empty nearby drawers and cabinets if heavy cutting or drywall tear-out is planned, as masonry dust can drift into small crevices. It is also helpful to have your tile, trim pieces, and grout color on site so the crew can verify quantities and inspect dye lots. Turn off power to the kitchen backsplash circuits if outlets need electrical box extenders installed to match the new tile thickness.",
+        "@type": "Answer",
+        "description": "Clear all countertops, unplug small appliances, clear nearby workspace, and have your tile and materials ready for the installation team to verify before work begins."
+      }
+    }
+  ],
+  "description": "Clear all countertops, unplug small appliances, clear nearby workspace, and have your tile and materials ready for the installation team to verify before work b"
+}

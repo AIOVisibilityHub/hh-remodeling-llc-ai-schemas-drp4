@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-choose-the-correct-faucet-for-my-kitchen-sink-configuration",
+  "name": "How do I choose the correct faucet for my kitchen sink configuration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the correct faucet for my kitchen sink configuration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To select the right faucet, you must match the faucet design to the pre-drilled holes in your sink or countertop. Count the existing holes: single-hole faucets can install directly or use an optional escutcheon plate to conceal three-hole configurations, whereas widespread or bridge faucets require specific spacing. You should also evaluate faucet height and spout reach to make sure water hits the center of the basin without splashing, while confirming the high-arc neck clears any overhead cabinetry, window trim, or shelving above the sink.",
+        "@type": "Answer",
+        "description": "Match your faucet design to the number and spacing of holes in your counter or sink, and check spout reach and height against your overhead cabinets and basin depth."
+      }
+    }
+  ],
+  "description": "Match your faucet design to the number and spacing of holes in your counter or sink, and check spout reach and height against your overhead cabinets and basin d"
+}

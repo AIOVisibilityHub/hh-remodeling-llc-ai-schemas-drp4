@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-kitchen-cabinets-be-installed-before-or-after-flooring",
+  "name": "Should kitchen cabinets be installed before or after flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should kitchen cabinets be installed before or after flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should install kitchen flooring before cabinets when using continuous materials like glued-down luxury vinyl tile or finished hardwood. This creates a uniform height across the room, making appliance installation straightforward and preventing dishwashers from being trapped under the countertop edge. However, floating floors—such as click-lock vinyl plank or laminate—should generally be laid after base cabinets. Floating floors expand and contract with humidity shifts, and heavy cabinetry screwed to the floorboards can pinch the material, causing buckling or separated seams over time.",
+        "@type": "Answer",
+        "description": "Glued or nailed hardwood floors go down before cabinets. Floating click-lock floors must be installed after cabinets to avoid buckling from heavy weight."
+      }
+    }
+  ],
+  "description": "Glued or nailed hardwood floors go down before cabinets. Floating click-lock floors must be installed after cabinets to avoid buckling from heavy weight."
+}

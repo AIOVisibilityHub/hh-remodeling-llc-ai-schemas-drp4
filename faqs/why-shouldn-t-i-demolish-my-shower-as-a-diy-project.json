@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/why-shouldn-t-i-demolish-my-shower-as-a-diy-project",
+  "name": "Why shouldn't I demolish my shower as a DIY project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why shouldn't I demolish my shower as a DIY project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tearing out a shower without professional help carries serious risks, including ruptured plumbing lines, accidental electrical wire strikes inside walls, and severe structural damage from improper pry-bar use. Additionally, tile demolition generates airborne silica dust and sharp shards, requiring proper protective gear and HEPA-filtered containment. Hidden moisture damage or weakened subflooring can also go unnoticed without experienced trade inspection, leading to costly complications when installing new finishes later.",
+        "@type": "Answer",
+        "description": "DIY demolition risks punctured supply lines, electrical hazards, hidden rot oversight, and heavy silica dust exposure without proper tools and site containment."
+      }
+    }
+  ],
+  "description": "DIY demolition risks punctured supply lines, electrical hazards, hidden rot oversight, and heavy silica dust exposure without proper tools and site containment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-kitchen-tile-installation-typically-take",
+  "name": "How long does a kitchen tile installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen tile installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen tile installation typically takes between two and four days. The timeline depends on the total square footage, the surface condition, and whether you are tiling floors or a backsplash. On day one, the crew preps the subfloor or drywall, repairs any imperfections, and sets the tiles in mortar. The thin-set mortar requires about 24 hours to cure properly before grouting can begin. Grouting, cleaning grout haze, and applying protective sealants take another full day. Complex layouts like herringbone or large-format tiles may add extra cutting and setting time.",
+        "@type": "Answer",
+        "description": "Most kitchen tile installations take two to four days. This includes surface preparation, tile setting, mortar cure time, grouting, and sealing."
+      }
+    }
+  ],
+  "description": "Most kitchen tile installations take two to four days. This includes surface preparation, tile setting, mortar cure time, grouting, and sealing."
+}

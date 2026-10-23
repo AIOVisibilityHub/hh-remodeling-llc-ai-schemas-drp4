@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-cabinet-refacing-and-full-cabinet-installation",
+  "name": "What is the difference between cabinet refacing and full cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet refacing and full cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing replaces only the doors, drawer fronts, and exterior veneers while keeping the existing cabinet boxes intact. New cabinet installation replaces the entire structure down to the framing. Refacing works best when your layout remains unchanged, the existing cabinet carcasses are structurally sound, and you want to reduce material costs. Installing new cabinets gives you complete freedom to reconfigure your kitchen workflow, add pantry storage, adjust appliance locations, and correct hidden structural framing or drywall issues behind the walls.",
+        "@type": "Answer",
+        "description": "Refacing updates the exterior doors and veneers on existing boxes. Full installation replaces everything, allowing you to change your kitchen layout completely."
+      }
+    }
+  ],
+  "description": "Refacing updates the exterior doors and veneers on existing boxes. Full installation replaces everything, allowing you to change your kitchen layout completely."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-bump-out-addition-and-a-full-kitchen-addition",
+  "name": "What is the difference between a bump-out addition and a full kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bump-out addition and a full kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out extends your existing kitchen by a few feet without requiring a full foundation rebuild, whereas a full room addition creates a completely new, large structural wing on a new foundation. A bump-out is ideal if you only need room for a kitchen island, an expanded sink run, or a breakfast nook. It is typically faster to construct and less expensive. A full addition requires extensive foundation and roof framing, but it gives you maximum freedom to build a spacious, multi-zone kitchen and walk-in pantry from scratch.",
+        "@type": "Answer",
+        "description": "A bump-out adds two to three feet of cantilevered or supported space for extra depth, while a full addition builds a completely new room on an expanded foundation."
+      }
+    }
+  ],
+  "description": "A bump-out adds two to three feet of cantilevered or supported space for extra depth, while a full addition builds a completely new room on an expanded foundati"
+}

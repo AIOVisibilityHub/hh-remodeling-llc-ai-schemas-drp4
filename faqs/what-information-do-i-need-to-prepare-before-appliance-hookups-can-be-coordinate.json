@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-information-do-i-need-to-prepare-before-appliance-hookups-can-be-coordinate",
+  "name": "What information do I need to prepare before appliance hookups can be coordinated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare before appliance hookups can be coordinated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before rough-in work starts, gather the exact manufacturer specification sheets, including model numbers and installation cut sheets, for every purchased appliance. These documents outline exact dimensions, cut-out depths, gas line entry zones, water connection tolerances, and electrical amperages. Abraham Becerra reviews these specifications to ensure cabinet framing, water supply stubs, and junction boxes sit precisely within the appliance manufacturer's designated recessed service areas.",
+        "@type": "Answer",
+        "description": "Provide complete manufacturer specification cut sheets for each appliance so rough plumbing, electrical locations, and cabinet openings are built to exact dimensions."
+      }
+    }
+  ],
+  "description": "Provide complete manufacturer specification cut sheets for each appliance so rough plumbing, electrical locations, and cabinet openings are built to exact dimen"
+}

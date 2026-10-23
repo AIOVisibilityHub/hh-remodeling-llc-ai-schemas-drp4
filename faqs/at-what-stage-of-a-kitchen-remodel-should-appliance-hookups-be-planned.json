@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/at-what-stage-of-a-kitchen-remodel-should-appliance-hookups-be-planned",
+  "name": "At what stage of a kitchen remodel should appliance hookups be planned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a kitchen remodel should appliance hookups be planned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance hookups should be coordinated during the rough-in mechanical phase, long before cabinets and countertops are set. While final physical connections happen after finish carpentry and countertops are complete, the utility locations must be locked in during framing. If you wait until appliances are delivered, you risk missing dedicated 240V circuits for ranges or incorrectly placed water supply valves behind dishwashers and refrigerators. Early coordination allows rough plumbing and wiring to be inspected before drywall goes up.",
+        "@type": "Answer",
+        "description": "Plan hookups during initial design and rough-in framing so electrical outlets and plumbing valves sit in the exact positions required before drywall and cabinets go up."
+      }
+    }
+  ],
+  "description": "Plan hookups during initial design and rough-in framing so electrical outlets and plumbing valves sit in the exact positions required before drywall and cabinet"
+}

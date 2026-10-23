@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-custom-tile-shower-and-a-prefabricated-shower-i",
+  "name": "What is the difference between a custom tile shower and a prefabricated shower insert?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom tile shower and a prefabricated shower insert?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile offers complete design flexibility and durability, whereas prefabricated units offer faster, more budget-friendly installation. Acrylic or fiberglass shower inserts install quickly and require minimal seam maintenance, but they come in fixed dimensions and can feel standard. A custom tile or marble shower allows you to build around precise bathroom dimensions, incorporate built-in shampoo niches, and customize bench seating. However, tile requires a larger initial investment, precise waterproofing behind the walls, and ongoing grout care. The right choice depends on your budget, timeline, and whether you plan to alter your existing bathroom footprint.",
+        "@type": "Answer",
+        "description": "Prefab units install quickly and cost less, while custom tile allows tailor-made sizes, built-in niches, and marble finishes but requires detailed waterproofing and higher labor."
+      }
+    }
+  ],
+  "description": "Prefab units install quickly and cost less, while custom tile allows tailor-made sizes, built-in niches, and marble finishes but requires detailed waterproofing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-a-full-bathroom-remodel-take-from-demolition-to-completion",
+  "name": "How long does a full bathroom remodel take from demolition to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full bathroom remodel take from demolition to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most full bathroom remodels take between two and four weeks of active construction once work starts. The overall timeline depends heavily on the scope of work, material lead times, and whether you are altering the floor plan. If you move plumbing stacks or add custom tile work like floor-to-ceiling marble, the project takes longer than replacing fixtures in their original footprints. Having all your finishes—such as tile, faucets, shower valves, and the vanity—selected and delivered before demo begins helps prevent mid-project delays and keeps subcontractors on schedule.",
+        "@type": "Answer",
+        "description": "Active construction typically takes two to four weeks, depending on custom tile requirements, fixture availability, and whether plumbing lines are relocated."
+      }
+    }
+  ],
+  "description": "Active construction typically takes two to four weeks, depending on custom tile requirements, fixture availability, and whether plumbing lines are relocated."
+}

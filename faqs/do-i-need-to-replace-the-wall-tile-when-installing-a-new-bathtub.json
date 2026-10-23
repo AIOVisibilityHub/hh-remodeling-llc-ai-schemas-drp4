@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-to-replace-the-wall-tile-when-installing-a-new-bathtub",
+  "name": "Do I need to replace the wall tile when installing a new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the wall tile when installing a new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not always have to replace surrounding tile, but it is often recommended because removing an integrated tub flange almost always damages the lowest row of wall tile. If you want to keep existing tile, the new tub must match the exact dimensions, height, and lip configuration of the old unit, and matching older tile during repairs can be difficult. Many homeowners use a tub replacement as an opportunity to install a fresh, waterproof backer board system and custom tile or marble surround to prevent hidden water damage behind the walls.",
+        "@type": "Answer",
+        "description": "Not always, but removing a tub usually damages adjacent bottom tiles. Replacing the surround ensures a watertight seal and updated appearance."
+      }
+    }
+  ],
+  "description": "Not always, but removing a tub usually damages adjacent bottom tiles. Replacing the surround ensures a watertight seal and updated appearance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-patch-damaged-kitchen-drywall-or-replace-the-entire-wall",
+  "name": "Should I patch damaged kitchen drywall or replace the entire wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I patch damaged kitchen drywall or replace the entire wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching makes sense when your kitchen layout remains unchanged and damage is isolated to a few small areas, such as minor pipe repairs or backsplash removal tears. Full replacement is the better choice if you are moving plumbing lines, adding new circuits, or reconfiguring cabinet layouts. Full replacement also resolves persistent moisture damage, mold behind old boards, or wavy, uneven walls that would prevent new cabinets from sitting flat. While patching initially saves material, blending numerous patches across an entire kitchen often requires as much labor as hanging fresh sheets.",
+        "@type": "Answer",
+        "description": "Patch small, isolated holes if your layout remains unchanged. Replace the drywall if you are reconfiguring cabinets, updating wiring and plumbing, or dealing with uneven surfaces."
+      }
+    }
+  ],
+  "description": "Patch small, isolated holes if your layout remains unchanged. Replace the drywall if you are reconfiguring cabinets, updating wiring and plumbing, or dealing wi"
+}

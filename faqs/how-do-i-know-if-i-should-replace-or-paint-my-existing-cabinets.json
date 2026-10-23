@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-i-should-replace-or-paint-my-existing-cabinets",
+  "name": "How do I know if I should replace or paint my existing cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I should replace or paint my existing cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose replacement if your existing cabinet boxes are sagging, water-damaged, or pulling away from the studs. You should also choose full replacement if you want to alter your kitchen layout, expand prep zones, or accommodate modern appliances that do not fit standard older openings. However, if your existing wood carcasses are solid and plumb, and your layout fits your daily workflow, repainting, refacing, or swapping hardware can refresh the room without the cost and demolition of new cabinet boxes.",
+        "@type": "Answer",
+        "description": "Replace cabinets if the boxes are damaged, sagging, or if you want a new layout. Keep and repaint them if the structures are solid and the layout works."
+      }
+    }
+  ],
+  "description": "Replace cabinets if the boxes are damaged, sagging, or if you want a new layout. Keep and repaint them if the structures are solid and the layout works."
+}

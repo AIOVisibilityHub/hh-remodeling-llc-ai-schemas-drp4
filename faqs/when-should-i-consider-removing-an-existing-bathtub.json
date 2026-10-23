@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/when-should-i-consider-removing-an-existing-bathtub",
+  "name": "When should I consider removing an existing bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider removing an existing bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners typically remove an old bathtub when converting to an accessible walk-in shower, addressing hidden water leaks, or updating outdated bathroom layouts. If family members have mobility limitations, stepping over a high tub threshold creates a daily safety risk, making a walk-in tile shower a practical upgrade. Another common indicator is persistent soft spots in the surrounding flooring or water staining on ceilings below, which often points to leaking tub drains or failed seals that require full removal to inspect the framing.",
+        "@type": "Answer",
+        "description": "Consider removal if you want a safer walk-in shower for accessibility, face persistent moisture or leak issues underneath, or plan a complete bathroom redesign."
+      }
+    }
+  ],
+  "description": "Consider removal if you want a safer walk-in shower for accessibility, face persistent moisture or leak issues underneath, or plan a complete bathroom redesign."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-keep-my-existing-appliance-locations-or-change-the-footprint",
+  "name": "Should I keep my existing appliance locations or change the footprint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my existing appliance locations or change the footprint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving existing appliances in place keeps labor down because utilities remain undisturbed, but it limits your kitchen workflow to the original floor plan. Relocating units lets you create modern work zones, open sightlines, or incorporate an expansive island, but it increases your budget due to necessary rough carpentry, drywall repair, electrical updates, and plumbing reconfigurations. If your current layout causes traffic bottlenecks or lacks prep space, paying for utility relocations provides long-term functional value. If the current flow works well, spending your budget on upgraded finishes, cabinetry, and tile is often more practical.",
+        "@type": "Answer",
+        "description": "Keeping current locations saves on plumbing, electrical, and drywall costs, while altering the footprint improves workflow, relieves bottlenecks, and creates room for modern features like islands."
+      }
+    }
+  ],
+  "description": "Keeping current locations saves on plumbing, electrical, and drywall costs, while altering the footprint improves workflow, relieves bottlenecks, and creates ro"
+}

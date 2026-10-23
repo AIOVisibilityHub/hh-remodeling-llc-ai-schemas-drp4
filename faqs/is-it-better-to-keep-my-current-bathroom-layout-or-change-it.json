@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/is-it-better-to-keep-my-current-bathroom-layout-or-change-it",
+  "name": "Is it better to keep my current bathroom layout or change it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to keep my current bathroom layout or change it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping your existing layout saves significant money because supply lines, vent stacks, and waste drains remain in place, reducing rough plumbing and drywall repair labor. However, if the current layout feels cramped, restricts door swings, or places the shower in an awkward spot, reconfiguring the floor plan is worth the investment. Moving fixtures requires subfloor alterations and trade coordination, but it creates a dramatically more functional space.",
+        "@type": "Answer",
+        "description": "Keeping the layout reduces plumbing labor and costs, while changing it improves flow and usable space if the current arrangement feels dysfunctional."
+      }
+    }
+  ],
+  "description": "Keeping the layout reduces plumbing labor and costs, while changing it improves flow and usable space if the current arrangement feels dysfunctional."
+}

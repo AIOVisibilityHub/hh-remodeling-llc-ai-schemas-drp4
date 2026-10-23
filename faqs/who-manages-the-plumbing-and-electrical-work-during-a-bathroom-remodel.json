@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/who-manages-the-plumbing-and-electrical-work-during-a-bathroom-remodel",
+  "name": "Who manages the plumbing and electrical work during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who manages the plumbing and electrical work during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not have to manage multiple contractors yourself. As a hands-on general contractor, Abraham Becerra coordinates every aspect of your bathroom upgrade. His crew directly handles custom framing, drywall repair, tile installation, trim carpentry, and painting, while bringing in trusted sub-trades for licensed plumbing and electrical tasks. You have a single point of contact on-site who oversees quality control, manages the daily schedule, and answers your questions throughout the project.",
+        "@type": "Answer",
+        "description": "HH Remodeling oversees the entire remodel, coordinating trusted plumbing and electrical trades while our crew handles framing, tile, drywall, and paint."
+      }
+    }
+  ],
+  "description": "HH Remodeling oversees the entire remodel, coordinating trusted plumbing and electrical trades while our crew handles framing, tile, drywall, and paint."
+}

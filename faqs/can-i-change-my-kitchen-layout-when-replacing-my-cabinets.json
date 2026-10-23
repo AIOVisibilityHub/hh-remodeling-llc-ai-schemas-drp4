@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-change-my-kitchen-layout-when-replacing-my-cabinets",
+  "name": "Can I change my kitchen layout when replacing my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my kitchen layout when replacing my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing cabinets is the best opportunity to alter your kitchen layout, add an island, or relocate appliances. However, shifting appliances requires trade coordination. Moving a dishwasher or sink requires licensed plumbing work, while relocating a refrigerator or range demands electrical modifications. HH Remodeling provides custom framing, drywall repair, and finish carpentry in-house while coordinating the necessary trade subcontractors, keeping the entire layout reconfiguration under a single point of contact.",
+        "@type": "Answer",
+        "description": "Yes. You can redesign your layout or add an island, provided plumbing and electrical lines are updated by coordinated trades to match the new cabinet design."
+      }
+    }
+  ],
+  "description": "Yes. You can redesign your layout or add an island, provided plumbing and electrical lines are updated by coordinated trades to match the new cabinet design."
+}

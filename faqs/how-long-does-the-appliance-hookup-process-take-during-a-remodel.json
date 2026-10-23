@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-long-does-the-appliance-hookup-process-take-during-a-remodel",
+  "name": "How long does the appliance hookup process take during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the appliance hookup process take during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final appliance hookups generally take one to two working days once cabinets and countertops are fully installed. However, the foundational rough-in work occurs over several days earlier in the project schedule. The overall duration depends on whether sub-trades must run new gas lines from the basement, upgrade older electrical panels, or alter framing. Your contractor schedules the trade visits sequentially so trades do not crowd each other in the workspace.",
+        "@type": "Answer",
+        "description": "Rough-in utility work takes a few days early in the remodel, while final physical hookups and testing typically wrap up within one to two days after countertop installation."
+      }
+    }
+  ],
+  "description": "Rough-in utility work takes a few days early in the remodel, while final physical hookups and testing typically wrap up within one to two days after countertop"
+}

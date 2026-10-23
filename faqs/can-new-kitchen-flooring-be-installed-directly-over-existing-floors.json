@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-kitchen-flooring-be-installed-directly-over-existing-floors",
+  "name": "Can new kitchen flooring be installed directly over existing floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new kitchen flooring be installed directly over existing floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can install new flooring over an existing kitchen floor only under specific conditions. Floating floors like luxury vinyl plank can sometimes be laid over existing, firmly adhered sheet vinyl or smooth tile, provided the current surface is completely level, secure, and free of moisture issues. However, installing new flooring over damaged, loose, or uneven tile is not recommended, as existing flaws quickly transfer upward to the new surface. Adding another layer also raises the finished floor height, which can trap dishwashers under countertops, misalign transitions to adjacent rooms, and require trimming interior door clearances.",
+        "@type": "Answer",
+        "description": "Yes, but only if the existing floor is flat, securely bonded, and structurally sound. Removing the old floor is usually preferred to maintain proper appliance heights and flat transitions."
+      }
+    }
+  ],
+  "description": "Yes, but only if the existing floor is flat, securely bonded, and structurally sound. Removing the old floor is usually preferred to maintain proper appliance h"
+}

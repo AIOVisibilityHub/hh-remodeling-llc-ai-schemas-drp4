@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-do-i-know-if-my-kitchen-has-enough-room-for-an-island",
+  "name": "How do I know if my kitchen has enough room for an island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen has enough room for an island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A functional kitchen island requires at least 36 to 42 inches of clear aisle space on all sides to allow cabinet doors, dishwashers, and ovens to open fully without obstruction. In smaller rooms where space is tight, a peninsula attached to a wall often works better than an island. Peninsulas provide uninterrupted counter space and casual seating while channeling foot traffic away from the primary cooking zone. Deciding between the two comes down to measuring clearance corridors and ensuring you do not create tight pinch points.",
+        "@type": "Answer",
+        "description": "You need at least 36 to 42 inches of walkway clearance around all edges. If clearances are tighter, a peninsula often provides similar counter space without blocking walkways."
+      }
+    }
+  ],
+  "description": "You need at least 36 to 42 inches of walkway clearance around all edges. If clearances are tighter, a peninsula often provides similar counter space without blo"
+}

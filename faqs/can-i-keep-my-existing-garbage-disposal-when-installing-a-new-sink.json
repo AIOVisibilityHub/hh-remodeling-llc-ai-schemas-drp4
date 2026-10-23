@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-keep-my-existing-garbage-disposal-when-installing-a-new-sink",
+  "name": "Can I keep my existing garbage disposal when installing a new sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing garbage disposal when installing a new sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners can retain their existing garbage disposal if it is in sound mechanical condition and compatible with the new sink drain opening. Kitchen sinks typically feature standard 3.5-inch drain holes designed to accept conventional disposal mounting flanges. However, if your new sink has deeper bowls than the previous model, the drain outlet sits lower, which may require lowering the wall drain rough-in to maintain proper gravity drainage. When coordinating sink upgrades, evaluating the disposal age and trap alignment ensures wastewater drains correctly without standing water issues.",
+        "@type": "Answer",
+        "description": "Yes, provided the disposal works well and fits standard drain openings, though deeper sink bowls may require adjusting lower drain pipe heights for proper gravity flow."
+      }
+    }
+  ],
+  "description": "Yes, provided the disposal works well and fits standard drain openings, though deeper sink bowls may require adjusting lower drain pipe heights for proper gravi"
+}

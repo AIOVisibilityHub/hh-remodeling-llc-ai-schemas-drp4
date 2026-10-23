@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-work-is-involved-in-switching-from-an-electric-range-to-a-gas-range",
+  "name": "What work is involved in switching from an electric range to a gas range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What work is involved in switching from an electric range to a gas range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An electric-to-gas range conversion requires running a dedicated black iron gas line from your main supply to the kitchen and adding a 120-volt outlet for electronic ignition. A professional general contractor arranges for a licensed plumber to tap into the gas main and verify pressure capacity. If framing, drywall, or finished ceilings sit between your utility source and the range wall, access holes must be cut and later patched. Proper exterior range hood ventilation must also be planned, as gas burners produce combustion byproducts that require adequate venting compared to standard electric surfaces.",
+        "@type": "Answer",
+        "description": "Switching to gas requires running a new gas supply line, adding a standard electrical outlet for ignition, adjusting framing, and ensuring proper exterior ventilation."
+      }
+    }
+  ],
+  "description": "Switching to gas requires running a new gas supply line, adding a standard electrical outlet for ignition, adjusting framing, and ensuring proper exterior venti"
+}

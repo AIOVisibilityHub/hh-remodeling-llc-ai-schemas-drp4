@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/who-handles-the-actual-plumbing-and-electrical-connections",
+  "name": "Who handles the actual plumbing and electrical connections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who handles the actual plumbing and electrical connections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor acts as your single point of contact and oversees the entire installation process. At HH Remodeling, Abraham Becerra coordinates the required plumbing and electrical sub-trades to install utility connections safely while his crew handles drywall, tile backsplashes, and custom trim. You avoid the headache of scheduling multiple independent trades, managing misaligned timelines, or resolving finger-pointing if an appliance does not fit the rough opening.",
+        "@type": "Answer",
+        "description": "A general contractor oversees the project, scheduling certified plumbing and electrical trades for mechanical lines while crew members complete surrounding carpentry and finishes."
+      }
+    }
+  ],
+  "description": "A general contractor oversees the project, scheduling certified plumbing and electrical trades for mechanical lines while crew members complete surrounding carp"
+}

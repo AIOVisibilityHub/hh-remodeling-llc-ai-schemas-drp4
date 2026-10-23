@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-shower-removal-starts",
+  "name": "How should I prepare my bathroom before shower removal starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before shower removal starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the removal crew arrives, clear all personal toiletries, shower curtains, mats, and hanging caddies from the bathroom. Remove nearby wall decor, towels, and items from adjacent vanities or closets to prevent dust exposure. It is also beneficial to verify where your home's main water shutoff valve is located and ensure an unobstructed, clear walking path from the bathroom to the exterior doorway so heavy demolition debris can be hauled out safely.",
+        "@type": "Answer",
+        "description": "Clear out all personal items, empty nearby storage, locate your main water shutoff, and maintain an open walking path to the exterior door for debris hauling."
+      }
+    }
+  ],
+  "description": "Clear out all personal items, empty nearby storage, locate your main water shutoff, and maintain an open walking path to the exterior door for debris hauling."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-bathroom-renovation-and-a-bathroom-remodel",
+  "name": "What is the difference between a bathroom renovation and a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bathroom renovation and a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom renovation focuses on aesthetic and surface upgrades like replacing a vanity, painting, and swapping tile, while a remodel involves structural or spatial alterations such as moving walls, expanding a shower footprint, or reconfiguring plumbing rough-ins. Surface renovations typically take less time and involve fewer trades. In contrast, altering the footprint requires coordinated plumbing, electrical rough-ins, custom framing, and drywall work. HH Remodeling handles both scopes, providing direct finish carpentry and tile installation while coordinating required mechanical sub-trades.",
+        "@type": "Answer",
+        "description": "A renovation updates existing surfaces and fixtures, while a remodel changes the layout, moves plumbing lines, or alters the physical room footprint."
+      }
+    }
+  ],
+  "description": "A renovation updates existing surfaces and fixtures, while a remodel changes the layout, moves plumbing lines, or alters the physical room footprint."
+}

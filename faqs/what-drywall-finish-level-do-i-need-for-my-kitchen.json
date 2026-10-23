@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-drywall-finish-level-do-i-need-for-my-kitchen",
+  "name": "What drywall finish level do I need for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What drywall finish level do I need for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 4 finish is standard for most kitchen areas, especially walls covered by cabinets, tile backsplashes, or matte paint. It includes taped joints, three coats of compound, and sanding to leave a flat surface. A Level 5 finish adds a thin skim coat of joint compound over the entire board surface to completely equalize texture. Opt for Level 5 if your kitchen features large open wall areas, critical natural lighting from big windows, or if you plan to use semi-gloss or gloss paint that highlights subtle joint imperfections.",
+        "@type": "Answer",
+        "description": "A Level 4 finish is standard and works well under tile and cabinets. Choose a Level 5 skim coat for open, brightly lit walls or surfaces with gloss paint."
+      }
+    }
+  ],
+  "description": "A Level 4 finish is standard and works well under tile and cabinets. Choose a Level 5 skim coat for open, brightly lit walls or surfaces with gloss paint."
+}

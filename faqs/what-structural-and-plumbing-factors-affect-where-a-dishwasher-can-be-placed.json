@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-structural-and-plumbing-factors-affect-where-a-dishwasher-can-be-placed",
+  "name": "What structural and plumbing factors affect where a dishwasher can be placed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What structural and plumbing factors affect where a dishwasher can be placed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating a dishwasher requires positioning it directly adjacent to the kitchen sink, typically within a few feet, to share the water supply and drain setup. If moved to an island or across the room, a new dedicated drain line, P-trap, and hot water supply line must be roughed in through the floor framing. A dedicated 15- or 20-amp electrical circuit must also be routed to the unit. When reconfiguring cabinetry, leave ample room to fully lower the dishwasher door without blocking adjacent prep zones or trash pullouts.",
+        "@type": "Answer",
+        "description": "Dishwashers work best adjacent to the sink for shared plumbing; placing them elsewhere requires running dedicated water, drain, and electrical lines through the subfloor."
+      }
+    }
+  ],
+  "description": "Dishwashers work best adjacent to the sink for shared plumbing; placing them elsewhere requires running dedicated water, drain, and electrical lines through the"
+}

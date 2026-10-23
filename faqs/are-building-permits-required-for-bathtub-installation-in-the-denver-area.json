@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/are-building-permits-required-for-bathtub-installation-in-the-denver-area",
+  "name": "Are building permits required for bathtub installation in the Denver area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are building permits required for bathtub installation in the Denver area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For standard bathtub installations, local building departments in Denver and surrounding communities like Centennial and Parker generally require permits when plumbing drain, waste, or vent lines are relocated or when electrical circuits are altered. A straightforward fixture replacement using existing plumbing lines might not require a major permit, but full renovations involving wall alterations and pipe repositioning do. Working with a contractor who oversees licensed trade professionals ensures that all plumbing and electrical modifications comply with local residential building codes.",
+        "@type": "Answer",
+        "description": "Permits are typically required across the Denver area if plumbing lines are moved or framing is altered, though simple fixture-only swaps may be exempt."
+      }
+    }
+  ],
+  "description": "Permits are typically required across the Denver area if plumbing lines are moved or framing is altered, though simple fixture-only swaps may be exempt."
+}

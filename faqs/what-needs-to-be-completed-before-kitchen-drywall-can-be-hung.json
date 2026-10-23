@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-needs-to-be-completed-before-kitchen-drywall-can-be-hung",
+  "name": "What needs to be completed before kitchen drywall can be hung?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be completed before kitchen drywall can be hung?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before drywallers arrive, ensure all rough-in plumbing, electrical wiring, ductwork, and structural framing alterations are completed and inspected. Clearly mark the locations of under-cabinet lighting wires, appliance outlets, and plumbing stub-outs. You should also verify that solid wood backing or blocking is installed between wall studs where heavy upper cabinets, vent hoods, or floating shelves will hang. Having this blocking in place prior to closing the walls ensures your cabinetry has secure anchoring points later.",
+        "@type": "Answer",
+        "description": "Complete and inspect all rough-in plumbing, electrical, and HVAC work. Install wood backing between studs for heavy cabinets and shelves before closing the walls."
+      }
+    }
+  ],
+  "description": "Complete and inspect all rough-in plumbing, electrical, and HVAC work. Install wood backing between studs for heavy cabinets and shelves before closing the wall"
+}

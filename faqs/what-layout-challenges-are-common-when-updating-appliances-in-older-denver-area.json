@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-layout-challenges-are-common-when-updating-appliances-in-older-denver-area",
+  "name": "What layout challenges are common when updating appliances in older Denver-area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What layout challenges are common when updating appliances in older Denver-area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older Denver and Aurora homes, original kitchen layouts often have inadequate electrical capacity, outdated wiring, and undersized range vents. Mid-century and historic houses frequently rely on 60- or 100-amp main panels that cannot support multiple high-draw appliances like induction ranges, double wall ovens, and built-in microwaves simultaneously. Remodeling often requires running home runs back to the panel or performing a service upgrade. Additionally, exterior wall framing in older properties may need custom furring or headers to accommodate modern ductwork and recessed utility boxes.",
+        "@type": "Answer",
+        "description": "Older homes often have limited electrical service, shallow framing, and lack dedicated venting, requiring panel upgrades and utility rework before installing modern appliances."
+      }
+    }
+  ],
+  "description": "Older homes often have limited electrical service, shallow framing, and lack dedicated venting, requiring panel upgrades and utility rework before installing mo"
+}

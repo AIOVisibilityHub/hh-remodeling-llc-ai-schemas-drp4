@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-hire-a-professional-contractor-or-install-a-kitchen-sink-myself",
+  "name": "Should I hire a professional contractor or install a kitchen sink myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a professional contractor or install a kitchen sink myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While basic cosmetic fixtures like simple faucets can sometimes be tackled by experienced DIYers, complete sink installations carry substantial risk of hidden water damage. Undermount installations require precise mechanical anchoring and waterproof silicone seals to prevent separation from heavy stone countertops. Furthermore, aged shutoff valves, misaligned P-traps, or over-tightened compression fittings can cause slow leaks inside the cabinetry. Working with an insured general contractor ensures that finish carpentry, solid mounting, and proper plumbing code compliance are handled securely with warranty-backed workmanship.",
+        "@type": "Answer",
+        "description": "Hiring a professional ensures proper structural mounting, watertight seals, and code-compliant plumbing, preventing hidden leaks and costly cabinetry water damage."
+      }
+    }
+  ],
+  "description": "Hiring a professional ensures proper structural mounting, watertight seals, and code-compliant plumbing, preventing hidden leaks and costly cabinetry water dama"
+}

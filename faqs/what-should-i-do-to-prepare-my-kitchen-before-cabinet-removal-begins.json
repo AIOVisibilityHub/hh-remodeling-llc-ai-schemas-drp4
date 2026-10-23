@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-should-i-do-to-prepare-my-kitchen-before-cabinet-removal-begins",
+  "name": "What should I do to prepare my kitchen before cabinet removal begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my kitchen before cabinet removal begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the crew arrives, empty all upper and lower cabinets, pantry spaces, and drawers completely. Clear your countertops and establish a clear walking path from the kitchen to the nearest exterior door for hauling heavy boxes. If appliances or sinks are attached or set into the cabinetry, shut off local water and power supplies. Preparing these areas ahead of time protects your personal belongings from construction dust and speeds up the removal process significantly.",
+        "@type": "Answer",
+        "description": "Clear out all cabinet contents and countertops, clear an exit path to the door, and arrange to shut off sink plumbing and appliance power connections."
+      }
+    }
+  ],
+  "description": "Clear out all cabinet contents and countertops, clear an exit path to the door, and arrange to shut off sink plumbing and appliance power connections."
+}

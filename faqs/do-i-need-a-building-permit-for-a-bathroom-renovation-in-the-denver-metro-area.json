@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/do-i-need-a-building-permit-for-a-bathroom-renovation-in-the-denver-metro-area",
+  "name": "Do I need a building permit for a bathroom renovation in the Denver metro area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a bathroom renovation in the Denver metro area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Denver metro area, permitting depends on the project scope and local city or county building departments. Purely cosmetic updates like replacing tile, drywall, cabinets, and fixtures in the exact same footprint typically do not trigger permits. However, relocating supply lines, expanding electrical circuits, or altering load-bearing framing generally requires trade permits. Working with a hands-on general contractor ensures you know when permits are required for your local jurisdiction and that mechanical sub-trades are properly coordinated.",
+        "@type": "Answer",
+        "description": "Permits are usually required across the Denver area if you move plumbing, add electrical circuits, or alter framing, but not for direct, same-layout surface replacements."
+      }
+    }
+  ],
+  "description": "Permits are usually required across the Denver area if you move plumbing, add electrical circuits, or alter framing, but not for direct, same-layout surface rep"
+}

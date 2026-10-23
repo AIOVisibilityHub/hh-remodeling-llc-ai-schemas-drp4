@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-drywall-be-installed-before-or-after-kitchen-cabinets",
+  "name": "Should drywall be installed before or after kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should drywall be installed before or after kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall should always be installed, taped, and finished before cabinets and countertops are hung. Installing drywall first ensures smooth, plumb surfaces essential for hanging level upper and lower cabinetry. It also creates a continuous thermal and moisture barrier behind appliances. If you install drywall after cabinetry, you risk awkward seams, difficult taping in tight corners, and visible gaps around cabinet edges. Proper sequencing saves time, prevents cabinet damage, and ensures clean lines for backsplashes and trim.",
+        "@type": "Answer",
+        "description": "Drywall must be installed, taped, and finished before cabinets are hung. This creates a plumb, sealed wall surface necessary for level cabinet installation."
+      }
+    }
+  ],
+  "description": "Drywall must be installed, taped, and finished before cabinets are hung. This creates a plumb, sealed wall surface necessary for level cabinet installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-bathroom-before-tub-removal-begins",
+  "name": "How should I prepare my bathroom before tub removal begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my bathroom before tub removal begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the removal crew arrives, clear all personal toiletries, shower curtains, and shelving from the bathroom. You should also ensure a clear, unobstructed path from the bathroom to the home exterior so heavy materials and debris can be carried out safely. It is helpful to know where your home's main water shutoff valve is located in case emergency shutoffs are necessary. Additionally, decide in advance whether you want to salvage existing trim or fixtures, or if everything in the tub alcove should be hauled away and disposed of.",
+        "@type": "Answer",
+        "description": "Clear out all personal items, ensure a wide pathway to the exit, locate your main water shutoff valve, and decide whether any fixtures or trim should be salvaged."
+      }
+    }
+  ],
+  "description": "Clear out all personal items, ensure a wide pathway to the exit, locate your main water shutoff valve, and decide whether any fixtures or trim should be salvage"
+}

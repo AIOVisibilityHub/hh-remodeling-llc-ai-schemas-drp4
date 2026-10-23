@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-stay-in-my-home-while-a-kitchen-addition-is-being-built",
+  "name": "Can I stay in my home while a kitchen addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a kitchen addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners can remain in their home, but you will need to plan for temporary cooking arrangements while structural and utility work is underway. During rough framing, drywall, and tile installation, water and gas lines will be shut off periodically, and the space will be closed off with dust barriers. Setting up a temporary kitchen area in an adjacent room or finished basement with a microwave, mini-fridge, and prep table keeps daily routines manageable. Clear daily communication with the on-site contractor helps you coordinate utility shutoffs and stay informed throughout noisy phases.",
+        "@type": "Answer",
+        "description": "Yes, you can stay in your home, but you will need a temporary kitchenette setup away from the construction zone to manage dust, noise, and utility shutoffs."
+      }
+    }
+  ],
+  "description": "Yes, you can stay in your home, but you will need a temporary kitchenette setup away from the construction zone to manage dust, noise, and utility shutoffs."
+}

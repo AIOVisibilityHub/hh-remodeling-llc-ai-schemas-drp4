@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-new-kitchen-tile-be-installed-over-existing-flooring",
+  "name": "Can new kitchen tile be installed over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new kitchen tile be installed over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile should generally not be installed directly over existing kitchen tile or vinyl flooring. While tiling over old surfaces may seem like a shortcut to save time, it adds unwanted floor height that causes awkward transitions into adjacent rooms and interferes with dishwasher clearance. More importantly, if the old tile or vinyl has bond failure, moisture pockets, or uneven seams, the new tile will likely crack or detach. Removing old flooring down to the concrete or subfloor ensures proper leveling and a lasting, solid bond.",
+        "@type": "Answer",
+        "description": "It is not recommended. Removing old flooring ensures a level, stable subfloor and avoids transition height issues around appliances and adjacent rooms."
+      }
+    }
+  ],
+  "description": "It is not recommended. Removing old flooring ensures a level, stable subfloor and avoids transition height issues around appliances and adjacent rooms."
+}

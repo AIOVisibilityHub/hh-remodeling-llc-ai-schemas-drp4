@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-does-removing-an-acrylic-shower-compare-to-removing-a-tiled-shower",
+  "name": "How does removing an acrylic shower compare to removing a tiled shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does removing an acrylic shower compare to removing a tiled shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a fiberglass or acrylic unit involves cutting the insert into manageable sections with reciprocating saws, which creates less dust and removes quickly. In contrast, demolishing a custom tiled shower requires breaking up wall tiles, backer boards, and a dense mortar bed or mud pan, which is labor-intensive and produces significant masonry debris. While acrylic comes out cleanly in hours, tile tear-outs require extensive dust barriers, heavier hauling logistics, and closer inspection of studs that may have absorbed prolonged moisture.",
+        "@type": "Answer",
+        "description": "Acrylic units are cut and removed quickly with minimal mess. Tiled showers require breaking up dense mortar beds and tile, creating more heavy debris and dust."
+      }
+    }
+  ],
+  "description": "Acrylic units are cut and removed quickly with minimal mess. Tiled showers require breaking up dense mortar beds and tile, creating more heavy debris and dust."
+}

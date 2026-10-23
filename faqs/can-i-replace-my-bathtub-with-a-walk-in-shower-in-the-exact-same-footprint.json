@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/can-i-replace-my-bathtub-with-a-walk-in-shower-in-the-exact-same-footprint",
+  "name": "Can I replace my bathtub with a walk-in shower in the exact same footprint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a walk-in shower in the exact same footprint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an alcove tub into a walk-in shower requires modifying the underlying drain assembly and framing. Standard tubs typically use a 1.5-inch drain line, while building codes for walk-in showers usually mandate a 2-inch drain to handle water volume properly. Removing the tub allows a licensed plumbing partner to access and upsize the waste pipe beneath the floor. Once the plumbing is positioned, the finish crew builds custom framing, installs cement backer boards, and completes waterproofing before laying the custom floor and wall tile.",
+        "@type": "Answer",
+        "description": "Yes, but shower conversions usually require upsizing the drain line from 1.5 inches to 2 inches, along with reframing and waterproofing the walls before tiling."
+      }
+    }
+  ],
+  "description": "Yes, but shower conversions usually require upsizing the drain line from 1.5 inches to 2 inches, along with reframing and waterproofing the walls before tiling."
+}

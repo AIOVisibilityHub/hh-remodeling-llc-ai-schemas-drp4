@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-is-the-difference-between-a-full-bathroom-remodel-and-a-bathroom-refresh",
+  "name": "What is the difference between a full bathroom remodel and a bathroom refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full bathroom remodel and a bathroom refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom remodel typically involves gutting the space to update layout, plumbing, electrical, tile, vanity, and fixtures, whereas a cosmetic refresh only updates surface features like paint or hardware. In a full remodel, you gain the ability to fix hidden water damage, relocate supply and drain lines, and rebuild shower pans with modern waterproofing. The tradeoff is a higher budget and longer downtime. If your drywall is deteriorating, your subfloor shows signs of rot, or you want to convert a tub to a walk-in shower, a complete renovation is usually the safer, longer-lasting decision.",
+        "@type": "Answer",
+        "description": "A full remodel replaces infrastructure, plumbing, tile, and layout down to the studs, while a refresh only swaps surface cosmetics like paint, light fixtures, or vanity hardware."
+      }
+    }
+  ],
+  "description": "A full remodel replaces infrastructure, plumbing, tile, and layout down to the studs, while a refresh only swaps surface cosmetics like paint, light fixtures, o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-my-kitchen-before-trim-installation-begins",
+  "name": "How should I prepare my kitchen before trim installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen before trim installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the trim installation crew arrives, clear your kitchen countertops, empty top cabinets if crown work is scheduled, and create an unobstructed work path. Finish carpenters require space to set up compound miter saws, stands, and air compressors, typically in an adjacent garage or covered outdoor area. Removing small appliances, barstools, and delicate decor protects your belongings from sawdust and equipment movement. If your project includes baseboard replacement, ensure that pets are secured and any movable floor items are relocated to give workers clean access along all walls.",
+        "@type": "Answer",
+        "description": "Clear your countertops, remove floor items and barstools, and ensure the team has clear access to the room and space to set up a cutting station."
+      }
+    }
+  ],
+  "description": "Clear your countertops, remove floor items and barstools, and ensure the team has clear access to the room and space to set up a cutting station."
+}

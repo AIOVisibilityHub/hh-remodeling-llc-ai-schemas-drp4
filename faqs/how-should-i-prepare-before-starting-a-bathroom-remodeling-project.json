@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/how-should-i-prepare-before-starting-a-bathroom-remodeling-project",
+  "name": "How should I prepare before starting a bathroom remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare before starting a bathroom remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a contractor, gather reference photos of styles you like, note functional pain points in your current space, and determine a realistic budget range. Measure the room dimensions roughly and decide whether your current layout works or if fixtures must move. You should also check whether you want specialty upgrades, like radiant floor heating, custom niches, or accessibility features, so trades can properly plan labor and rough-in needs.",
+        "@type": "Answer",
+        "description": "Establish your budget, identify must-have features, note fixture locations, and collect design ideas to help guide early planning and trade coordination."
+      }
+    }
+  ],
+  "description": "Establish your budget, identify must-have features, note fixture locations, and collect design ideas to help guide early planning and trade coordination."
+}

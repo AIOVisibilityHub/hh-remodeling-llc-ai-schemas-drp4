@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/what-factors-influence-the-cost-of-coordinating-appliance-hookups",
+  "name": "What factors influence the cost of coordinating appliance hookups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of coordinating appliance hookups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs depend primarily on whether existing utility lines are being reused or if trades must run new plumbing pipes and electrical home runs to the main breaker panel. A straight swap with existing hookups takes minimal labor, whereas relocating a gas line across the room or adding a dedicated 50-amp circuit requires licensed plumbing and electrical sub-trades, framing adjustments, and drywall patching. Your contractor details these trade costs within the overall remodel scope before work begins.",
+        "@type": "Answer",
+        "description": "Costs depend on whether existing lines can be reused, the distance new plumbing or wiring must run, panel capacity, and the carpentry needed for custom built-in units."
+      }
+    }
+  ],
+  "description": "Costs depend on whether existing lines can be reused, the distance new plumbing or wiring must run, panel capacity, and the carpentry needed for custom built-in"
+}

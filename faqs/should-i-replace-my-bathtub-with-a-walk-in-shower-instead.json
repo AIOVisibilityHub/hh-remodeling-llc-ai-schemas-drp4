@@ -1,0 +1,27 @@
+{
+  "url": "https://www.coloradoremodeling.company/faq/should-i-replace-my-bathtub-with-a-walk-in-shower-instead",
+  "name": "Should I replace my bathtub with a walk-in shower instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my bathtub with a walk-in shower instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tub-to-shower conversions are common, but you should carefully evaluate your household habits and resale goals. Removing the only bathtub in a home can make it less appealing to future buyers with young children. However, converting an unused tub into a walk-in shower offers easier daily accessibility, streamlined cleaning, and a more open feel. If you have at least one other bathtub in the house, converting a secondary tub into a custom-tiled walk-in shower is often a practical, high-value upgrade.",
+        "@type": "Answer",
+        "description": "Convert to a shower if you want easy accessibility and already have another tub in the home; keep at least one bathtub to maintain broad resale appeal."
+      }
+    }
+  ],
+  "description": "Convert to a shower if you want easy accessibility and already have another tub in the home; keep at least one bathtub to maintain broad resale appeal."
+}
